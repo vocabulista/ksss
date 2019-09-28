@@ -1,0 +1,22 @@
+{
+  "mappings": {
+    "_meta": {
+      "_xpaths": {
+        "id": "./header/lexical_unit/@id",
+        "root": "//entry",
+        "fields": {
+          "lexical_unit": "./header/lexical_unit",
+          "category": "./header/category"
+        }
+      }
+    },
+    "properties": {
+      "lexical_unit": {
+        "type": "keyword"
+      },
+      "category": {
+        "type": "text"
+      }
+    }
+  }
+}
