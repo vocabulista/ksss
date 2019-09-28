@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="1422">inspirirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">495</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ pri sbz5">
+          <collocations>
+            <collocation form="inspirirati pri ustvarjanju" cluster="1" frequency="4" logDice="5.99">
+              <comp position="1" type="headword" sloleks="LE_1c409367dcd03a9b53ad90b1902e14be">inspirirati</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_a9b8f505a91792fd791348acd2dd1604">ustvarjanju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="inspirirati umetnika" cluster="1" frequency="4" logDice="5.72">
+              <comp position="1" type="headword" sloleks="LE_1c409367dcd03a9b53ad90b1902e14be">inspirirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_1522687da468eb28c5117c272b82cb55">umetnika</comp>
+            </collocation>
+            <collocation form="inspirirati nastanek" cluster="2" frequency="4" logDice="4.08">
+              <comp position="1" type="headword" sloleks="LE_1c409367dcd03a9b53ad90b1902e14be">inspirirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_9e1a48424817b24d6d3a4ab97909c024">nastanek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="inspirirati v glasbi" cluster="1" frequency="4" logDice="5.26">
+              <comp position="1" type="headword" sloleks="LE_1c409367dcd03a9b53ad90b1902e14be">inspirirati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_b9d4fb1bfd740612d94d302113e10a62">glasbi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="neposredno inspirirati" cluster="1" frequency="4" logDice="2.3">
+              <comp position="1" type="collocate" sloleks="LE_f4baee16770b9414bad0fbf607024105">neposredno</comp>
+              <comp position="2" type="headword" sloleks="LE_1c409367dcd03a9b53ad90b1902e14be">inspirirati</comp>
+            </collocation>
+            <collocation form="močno inspirirati" cluster="2" frequency="4" logDice="0.07">
+              <comp position="1" type="collocate" sloleks="LE_b061af875766d8e1437febe5ccafe554">močno</comp>
+              <comp position="2" type="headword" sloleks="LE_1c409367dcd03a9b53ad90b1902e14be">inspirirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

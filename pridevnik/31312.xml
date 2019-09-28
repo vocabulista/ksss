@@ -1,0 +1,93 @@
+<entry>
+  <header>
+    <lexical_unit id="31312">promoviran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">490</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="promoviran doktor" cluster="1" frequency="18" logDice="7.12">
+              <comp position="1" type="headword" sloleks="LE_4589fa4a5b623f275d93825e2f3701ac">promoviran</comp>
+              <comp position="2" type="collocate" sloleks="LE_d24c9f4103195ee8b01c8cda9833cee3">doktor</comp>
+            </collocation>
+            <collocation form="promovirana kategorija" cluster="2" frequency="6" logDice="2.16">
+              <comp position="1" type="headword" sloleks="LE_4589fa4a5b623f275d93825e2f3701ac">promovirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_d0e3eefdc1a83b55b4d626adc400fe1a">kategorija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 v sbz5">
+          <collocations>
+            <collocation form="promoviran v mediju" cluster="1" frequency="4" logDice="6.35">
+              <comp position="1" type="headword" sloleks="LE_4589fa4a5b623f275d93825e2f3701ac">promoviran</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_2fdfb09ca61a23719b60aed391a2d0ea">mediju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 za sbz2">
+          <collocations>
+            <collocation form="promoviran za doktorja" cluster="1" frequency="9" logDice="13.53">
+              <comp position="1" type="headword" sloleks="LE_4589fa4a5b623f275d93825e2f3701ac">promoviran</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_d24c9f4103195ee8b01c8cda9833cee3">doktorja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 za sbz4">
+          <collocations>
+            <collocation form="promoviran za doktorja" cluster="1" frequency="40" logDice="13.7">
+              <comp position="1" type="headword" sloleks="LE_4589fa4a5b623f275d93825e2f3701ac">promoviran</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_d24c9f4103195ee8b01c8cda9833cee3">doktorja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="promoviran in/ali predstavljen" cluster="1" frequency="5" logDice="7.91">
+              <comp position="3" type="headword" sloleks="LE_4589fa4a5b623f275d93825e2f3701ac">promoviran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_a89cbd8b75c7745c16934db46c3a8da5">predstavljen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="medijsko promoviran" cluster="1" frequency="7" logDice="5.75">
+              <comp position="1" type="collocate" sloleks="LE_06e1387076ce4fd42510d669f9e70057">medijsko</comp>
+              <comp position="2" type="headword" sloleks="LE_4589fa4a5b623f275d93825e2f3701ac">promoviran</comp>
+            </collocation>
+            <collocation form="ustrezno promoviran" cluster="2" frequency="10" logDice="4.15">
+              <comp position="1" type="collocate" sloleks="LE_a0616e9dd61d3f4a2c19c7de0cb8734f">ustrezno</comp>
+              <comp position="2" type="headword" sloleks="LE_4589fa4a5b623f275d93825e2f3701ac">promoviran</comp>
+            </collocation>
+            <collocation form="široko promoviran" cluster="3" frequency="5" logDice="3.84">
+              <comp position="1" type="collocate" sloleks="LE_aa2200bc7ba100c6a1aff61f1483dbc9">široko</comp>
+              <comp position="2" type="headword" sloleks="LE_4589fa4a5b623f275d93825e2f3701ac">promoviran</comp>
+            </collocation>
+            <collocation form="dobro promoviran" cluster="4" frequency="15" logDice="1.28">
+              <comp position="1" type="collocate" sloleks="LE_43e8da3e283609f4de7cfdb7a3e3a938">dobro</comp>
+              <comp position="2" type="headword" sloleks="LE_4589fa4a5b623f275d93825e2f3701ac">promoviran</comp>
+            </collocation>
+            <collocation form="premalo promoviran" cluster="4" frequency="11" logDice="3.66">
+              <comp position="1" type="collocate" sloleks="LE_97029bd650818206706ec558c787f45e">premalo</comp>
+              <comp position="2" type="headword" sloleks="LE_4589fa4a5b623f275d93825e2f3701ac">promoviran</comp>
+            </collocation>
+            <collocation form="slabo promoviran" cluster="4" frequency="6" logDice="2.45">
+              <comp position="1" type="collocate" sloleks="LE_fd42f0b51f77a35ba2a2c56fdecf36e2">slabo</comp>
+              <comp position="2" type="headword" sloleks="LE_4589fa4a5b623f275d93825e2f3701ac">promoviran</comp>
+            </collocation>
+            <collocation form="dovolj promoviran" cluster="4" frequency="6" logDice="0.6">
+              <comp position="1" type="collocate" sloleks="LE_0b387936af75c9d0092b835e9479f95c">dovolj</comp>
+              <comp position="2" type="headword" sloleks="LE_4589fa4a5b623f275d93825e2f3701ac">promoviran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

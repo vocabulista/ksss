@@ -1,0 +1,72 @@
+<entry>
+  <header>
+    <lexical_unit id="30910">prezračen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">477</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="prezračena tla" cluster="1" frequency="21" logDice="3.91">
+              <comp position="1" type="headword" sloleks="LE_bfa8e48713c00abfb43a67cd0b17c0d2">prezračena</comp>
+              <comp position="2" type="collocate" sloleks="LE_eb748b49130a91779627e8f89256bf42">tla</comp>
+            </collocation>
+            <collocation form="prezračen prostor" cluster="2" frequency="102" logDice="3.1">
+              <comp position="1" type="headword" sloleks="LE_bfa8e48713c00abfb43a67cd0b17c0d2">prezračen</comp>
+              <comp position="2" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostor</comp>
+            </collocation>
+            <collocation form="prezračena soba" cluster="3" frequency="11" logDice="2.13">
+              <comp position="1" type="headword" sloleks="LE_bfa8e48713c00abfb43a67cd0b17c0d2">prezračena</comp>
+              <comp position="2" type="collocate" sloleks="LE_51d0948fdcd403a7c15f9ade2ec2b331">soba</comp>
+            </collocation>
+            <collocation form="prezračena voda" cluster="4" frequency="9" logDice="0.52">
+              <comp position="1" type="headword" sloleks="LE_bfa8e48713c00abfb43a67cd0b17c0d2">prezračena</comp>
+              <comp position="2" type="collocate" sloleks="LE_0d8cbba4e56fea63657ac746d29cd047">voda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="prezračen in/ali osvetljen" cluster="1" frequency="5" logDice="7.92">
+              <comp position="3" type="headword" sloleks="LE_bfa8e48713c00abfb43a67cd0b17c0d2">prezračen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_2f531201461733cccf5738c47005e163">osvetljen</comp>
+              </collocation>
+            <collocation form="prezračen in/ali hladen" cluster="2" frequency="8" logDice="5.03">
+              <comp position="3" type="headword" sloleks="LE_bfa8e48713c00abfb43a67cd0b17c0d2">prezračen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_b8506daf875c203121a2f09996c1e77c">hladen</comp>
+              </collocation>
+            <collocation form="prezračen in/ali čist" cluster="3" frequency="7" logDice="4.88">
+              <comp position="3" type="headword" sloleks="LE_bfa8e48713c00abfb43a67cd0b17c0d2">prezračen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_b0f01a4af83087947c0c1f51b4c0c6bc">čist</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="slabo prezračen" cluster="1" frequency="73" logDice="6.05">
+              <comp position="1" type="collocate" sloleks="LE_fd42f0b51f77a35ba2a2c56fdecf36e2">slabo</comp>
+              <comp position="2" type="headword" sloleks="LE_bfa8e48713c00abfb43a67cd0b17c0d2">prezračen</comp>
+            </collocation>
+            <collocation form="dobro prezračen" cluster="2" frequency="160" logDice="4.69">
+              <comp position="1" type="collocate" sloleks="LE_43e8da3e283609f4de7cfdb7a3e3a938">dobro</comp>
+              <comp position="2" type="headword" sloleks="LE_bfa8e48713c00abfb43a67cd0b17c0d2">prezračen</comp>
+            </collocation>
+            <collocation form="ustrezno prezračen" cluster="3" frequency="8" logDice="3.82">
+              <comp position="1" type="collocate" sloleks="LE_a0616e9dd61d3f4a2c19c7de0cb8734f">ustrezno</comp>
+              <comp position="2" type="headword" sloleks="LE_bfa8e48713c00abfb43a67cd0b17c0d2">prezračen</comp>
+            </collocation>
+            <collocation form="dovolj prezračen" cluster="4" frequency="8" logDice="1.01">
+              <comp position="1" type="collocate" sloleks="LE_0b387936af75c9d0092b835e9479f95c">dovolj</comp>
+              <comp position="2" type="headword" sloleks="LE_bfa8e48713c00abfb43a67cd0b17c0d2">prezračen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

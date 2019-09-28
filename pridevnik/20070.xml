@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="20070">izvit</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1402</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 iz sbz2">
+          <collocations>
+            <collocation form="izvit iz trte" cluster="1" frequency="68" logDice="13.49">
+              <comp position="1" type="headword" sloleks="LE_906a3093c03af529ca55752dbd6fa85a">izvit</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_9cfc67f2a3f2a0e947fcdf566d4e7c40">trte</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="izvit rek" cluster="1" frequency="8" logDice="5.97">
+              <comp position="1" type="headword" sloleks="LE_906a3093c03af529ca55752dbd6fa85a">izvit</comp>
+              <comp position="2" type="collocate" sloleks="LE_4b6e39d1ec26996a7af072a627a622bf">rek</comp>
+            </collocation>
+            <collocation form="izvita trditev" cluster="2" frequency="31" logDice="5.83">
+              <comp position="1" type="headword" sloleks="LE_906a3093c03af529ca55752dbd6fa85a">izvita</comp>
+              <comp position="2" type="collocate" sloleks="LE_535a7ad78436662a28765190d4f1e099">trditev</comp>
+            </collocation>
+            <collocation form="izvita izjava" cluster="2" frequency="8" logDice="2.03">
+              <comp position="1" type="headword" sloleks="LE_906a3093c03af529ca55752dbd6fa85a">izvita</comp>
+              <comp position="2" type="collocate" sloleks="LE_43a60c321a9a7889eb71aacc9ccb368f">izjava</comp>
+            </collocation>
+            <collocation form="izvit izgovor" cluster="3" frequency="9" logDice="5.59">
+              <comp position="1" type="headword" sloleks="LE_906a3093c03af529ca55752dbd6fa85a">izvit</comp>
+              <comp position="2" type="collocate" sloleks="LE_41423c2aa3b6d60c4361fa85957fdf72">izgovor</comp>
+            </collocation>
+            <collocation form="izvita govorica" cluster="4" frequency="11" logDice="4.42">
+              <comp position="1" type="headword" sloleks="LE_906a3093c03af529ca55752dbd6fa85a">izvita</comp>
+              <comp position="2" type="collocate" sloleks="LE_ee5413e2262585cbc8dea401a578cd07">govorica</comp>
+            </collocation>
+            <collocation form="izvita resnica" cluster="4" frequency="6" logDice="2.96">
+              <comp position="1" type="headword" sloleks="LE_906a3093c03af529ca55752dbd6fa85a">izvita</comp>
+              <comp position="2" type="collocate" sloleks="LE_382669cfefeb9ec0a37edec1a50079a1">resnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

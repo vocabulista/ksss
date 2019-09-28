@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="48013">astrofizik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">480</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="astrofizik z univerze" cluster="1" frequency="7" logDice="4.5">
+              <comp position="1" type="headword" sloleks="LE_bc8c007e2e5ac624752f8f7f455187d2">astrofizik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_93f79e5817acbd9f06e5ebd6a1b0a66e">univerze</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="slaven astrofizik" cluster="1" frequency="16" logDice="3.34">
+              <comp position="1" type="collocate" sloleks="LE_412f741689616fdbd844edf33c686a25">slaven</comp>
+              <comp position="2" type="headword" sloleks="LE_bc8c007e2e5ac624752f8f7f455187d2">astrofizik</comp>
+            </collocation>
+            <collocation form="vodilen astrofizik" cluster="2" frequency="10" logDice="1.68">
+              <comp position="1" type="collocate" sloleks="LE_2f72ba3b912c72ea138ca30833cfcc4c">vodilen</comp>
+              <comp position="2" type="headword" sloleks="LE_bc8c007e2e5ac624752f8f7f455187d2">astrofizik</comp>
+            </collocation>
+            <collocation form="ameriški astrofizik" cluster="3" frequency="24" logDice="0.62">
+              <comp position="1" type="collocate" sloleks="LE_c02b8fa5427c488774a5c66efd9beafc">ameriški</comp>
+              <comp position="2" type="headword" sloleks="LE_bc8c007e2e5ac624752f8f7f455187d2">astrofizik</comp>
+            </collocation>
+            <collocation form="britanski astrofizik" cluster="3" frequency="8" logDice="1.15">
+              <comp position="1" type="collocate" sloleks="LE_676ba1b0b266514ee4b03a3d55b55910">britanski</comp>
+              <comp position="2" type="headword" sloleks="LE_bc8c007e2e5ac624752f8f7f455187d2">astrofizik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

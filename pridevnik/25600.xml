@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="25600">neopisljiv</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">494</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="neopisljiv občutek" cluster="1" frequency="51" logDice="5.04">
+              <comp position="1" type="headword" sloleks="LE_bb543cde0812093f38d246d4a8132fbb">neopisljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_23671e6156ee6c327e7c512a951bd4f3">občutek</comp>
+            </collocation>
+            <collocation form="neopisljiv strah" cluster="1" frequency="7" logDice="3.67">
+              <comp position="1" type="headword" sloleks="LE_bb543cde0812093f38d246d4a8132fbb">neopisljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_ec7941261a5b1a40fb742699e58175ca">strah</comp>
+            </collocation>
+            <collocation form="neopisljiva lepota" cluster="2" frequency="11" logDice="4.3">
+              <comp position="1" type="headword" sloleks="LE_bb543cde0812093f38d246d4a8132fbb">neopisljiva</comp>
+              <comp position="2" type="collocate" sloleks="LE_f002bf62f37ec6117ea8586a142e8b93">lepota</comp>
+            </collocation>
+            <collocation form="neopisljiv vonj" cluster="3" frequency="6" logDice="3.2">
+              <comp position="1" type="headword" sloleks="LE_bb543cde0812093f38d246d4a8132fbb">neopisljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_469fcf2e42a356bc187917363e72f89a">vonj</comp>
+            </collocation>
+            <collocation form="neopisljiv užitek" cluster="4" frequency="6" logDice="3.02">
+              <comp position="1" type="headword" sloleks="LE_bb543cde0812093f38d246d4a8132fbb">neopisljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_9919c4fc308384bd5d2528923d0098e4">užitek</comp>
+            </collocation>
+            <collocation form="neopisljiva energija" cluster="5" frequency="6" logDice="0.81">
+              <comp position="1" type="headword" sloleks="LE_bb543cde0812093f38d246d4a8132fbb">neopisljiva</comp>
+              <comp position="2" type="collocate" sloleks="LE_a5b5cd7c325eb8bbda86e3d9bb680b09">energija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="nekaj neopisljiv" cluster="1" frequency="21" logDice="1.2">
+              <comp position="1" type="collocate" sloleks="LE_eb511b2a8ca41b887db9b389e9bd0591">nekaj</comp>
+              <comp position="2" type="headword" sloleks="LE_bb543cde0812093f38d246d4a8132fbb">neopisljiv</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

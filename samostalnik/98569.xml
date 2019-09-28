@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="98569">zaspanec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">576</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz med SBZ4">
+          <collocations>
+            <collocation form="soditi med zaspanca" cluster="1" frequency="6" logDice="3.6">
+              <comp position="1" type="collocate" sloleks="LE_527f837053c27c463c45a1411787c8ee">soditi</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_7c9cf6700bd63fee6e62e24c109028f3">zaspanca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="zimski zaspanec" cluster="1" frequency="18" logDice="2.65">
+              <comp position="1" type="collocate" sloleks="LE_df1c4d4294cfe20d6ea38bc5adb91bf9">zimski</comp>
+              <comp position="2" type="headword" sloleks="LE_7c9cf6700bd63fee6e62e24c109028f3">zaspanec</comp>
+            </collocation>
+            <collocation form="jutranji zaspanec" cluster="2" frequency="9" logDice="2.22">
+              <comp position="1" type="collocate" sloleks="LE_2dc5e796c81a27da075da675d9152d02">jutranji</comp>
+              <comp position="2" type="headword" sloleks="LE_7c9cf6700bd63fee6e62e24c109028f3">zaspanec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="zajtrk za zaspanca" cluster="1" frequency="7" logDice="9.64">
+              <comp position="1" type="collocate" sloleks="LE_cf46edca994f209b22c348d482dd2cb0">zajtrk</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_7c9cf6700bd63fee6e62e24c109028f3">zaspanca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

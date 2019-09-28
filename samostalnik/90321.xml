@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="90321">sotekmovalka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">594</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="sotekmovalka iz reprezentance" cluster="1" frequency="5" logDice="7.04">
+              <comp position="1" type="headword" sloleks="LE_0ad83def11a2a639dffe9d9239547c12">sotekmovalka</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_ab20d9934c471c4736524ae4ef3b38f6">reprezentance</comp>
+            </collocation>
+            <collocation form="sotekmovalka iz kluba" cluster="2" frequency="5" logDice="4.58">
+              <comp position="1" type="headword" sloleks="LE_0ad83def11a2a639dffe9d9239547c12">sotekmovalka</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_205ce919e68ed95a2dc64567475887d3">kluba</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="klubska sotekmovalka" cluster="1" frequency="64" logDice="5.42">
+              <comp position="1" type="collocate" sloleks="LE_16e92a2c1bf60f8dbaa73304bc43122e">klubska</comp>
+              <comp position="2" type="headword" sloleks="LE_0ad83def11a2a639dffe9d9239547c12">sotekmovalka</comp>
+            </collocation>
+            <collocation form="reprezentančna sotekmovalka" cluster="2" frequency="21" logDice="4.48">
+              <comp position="1" type="collocate" sloleks="LE_4e655b754d9f8194f7bb4229f2d1b59a">reprezentančna</comp>
+              <comp position="2" type="headword" sloleks="LE_0ad83def11a2a639dffe9d9239547c12">sotekmovalka</comp>
+            </collocation>
+            <collocation form="ostala sotekmovalka" cluster="3" frequency="8" logDice="0.94">
+              <comp position="1" type="collocate" sloleks="LE_a35d925fc34619135ca715f633027fd4">ostala</comp>
+              <comp position="2" type="headword" sloleks="LE_0ad83def11a2a639dffe9d9239547c12">sotekmovalka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

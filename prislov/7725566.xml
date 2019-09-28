@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="7725566">kočno</lexical_unit>
+    <category>prislov</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ gbz">
+          <collocations>
+            <collocation form="kočno razkriti" cluster="1" frequency="4" logDice="3.9">
+              <comp position="1" type="headword" sloleks="">kočno</comp>
+              <comp position="2" type="collocate" sloleks="LE_e54d5943fc538cb5fd93d73993feeb36">razkriti</comp>
+            </collocation>
+            <collocation form="kočno dobiti" cluster="2" frequency="8" logDice="1.0">
+              <comp position="1" type="headword" sloleks="">kočno</comp>
+              <comp position="2" type="collocate" sloleks="LE_abe97863495bd3d2d1b41f81933061b7">dobiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ pri sbz5">
+          <collocations>
+            <collocation form="Kočno pri Polskavi" cluster="1" frequency="16" logDice="13.64">
+              <comp position="1" type="headword" sloleks="">Kočno</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_af0bd34398fd1f877b1f07edfdad01c3">Polskavi</comp>
+            </collocation>
+            <collocation form="kočno pri ložnica" cluster="2" frequency="5" logDice="12.36">
+              <comp position="1" type="headword" sloleks="">kočno</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="">ložnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

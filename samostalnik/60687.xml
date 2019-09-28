@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="60687">ionizator</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">485</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="ionizator zraka" cluster="1" frequency="69" logDice="6.25">
+              <comp position="1" type="headword" sloleks="LE_78fc5ad295f9d1ff6f0ff77e9fe6a114">ionizator</comp>
+              <comp position="2" type="collocate" sloleks="LE_d3b9b2b5ce24a4cb7da4e0e9da2b1348">zraka</comp>
+            </collocation>
+            <collocation form="uporaba ionizatorja" cluster="2" frequency="10" logDice="0.8">
+              <comp position="1" type="collocate" sloleks="LE_9999e7dc3b8f5571ba09e352c31aea3f">uporaba</comp>
+              <comp position="2" type="headword" sloleks="LE_78fc5ad295f9d1ff6f0ff77e9fe6a114">ionizatorja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="vgrajen ionizator" cluster="1" frequency="15" logDice="3.75">
+              <comp position="1" type="collocate" sloleks="LE_652476893ee8f4b62d36d99bebf65065">vgrajen</comp>
+              <comp position="2" type="headword" sloleks="LE_78fc5ad295f9d1ff6f0ff77e9fe6a114">ionizator</comp>
+            </collocation>
+            <collocation form="močan ionizator" cluster="2" frequency="11" logDice="0.58">
+              <comp position="1" type="collocate" sloleks="LE_88608b12a3e7410d9019117c066da0de|LE_867d38a6da5ab2a221d49425c2c5dae7">močan</comp>
+              <comp position="2" type="headword" sloleks="LE_78fc5ad295f9d1ff6f0ff77e9fe6a114">ionizator</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="naprava z ionizatorjem" cluster="1" frequency="4" logDice="5.28">
+              <comp position="1" type="collocate" sloleks="LE_35970ca9f3b04f4bc834eb0dfdb70a08">naprava</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_78fc5ad295f9d1ff6f0ff77e9fe6a114">ionizatorjem</comp>
+            </collocation>
+            <collocation form="ionizator z nitko" cluster="2" frequency="8" logDice="9.42">
+              <comp position="1" type="headword" sloleks="LE_78fc5ad295f9d1ff6f0ff77e9fe6a114">ionizator</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_3fb0b686f4d755bd91f967c33579a054">nitko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

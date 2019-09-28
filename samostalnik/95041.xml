@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="95041">uradništvo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">783</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="državno uradništvo" cluster="1" frequency="88" logDice="1.92">
+              <comp position="1" type="collocate" sloleks="LE_dfa8fc9e75c5ba5f722af49b86149e3c">državno</comp>
+              <comp position="2" type="headword" sloleks="LE_5a9a94e23c710e8ce6c9ec2896a0a2b4">uradništvo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="sloj uradništva" cluster="1" frequency="5" logDice="4.56">
+              <comp position="1" type="collocate" sloleks="LE_8ecd1a7547dd4f62f836b54a509d49d0">sloj</comp>
+              <comp position="2" type="headword" sloleks="LE_5a9a94e23c710e8ce6c9ec2896a0a2b4">uradništva</comp>
+            </collocation>
+            <collocation form="vrh uradništva" cluster="2" frequency="7" logDice="1.32">
+              <comp position="1" type="collocate" sloleks="LE_5111d9a7de58321a8ec7f1a0aa9fce76">vrh</comp>
+              <comp position="2" type="headword" sloleks="LE_5a9a94e23c710e8ce6c9ec2896a0a2b4">uradništva</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,76 @@
+<entry>
+  <header>
+    <lexical_unit id="13571">arhiviran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">694</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="arhivirana datoteka" cluster="1" frequency="23" logDice="5.42">
+              <comp position="1" type="headword" sloleks="LE_d59bb2e3f3ea97f680357ec57d7e53d2">arhivirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_23fb42e55ba237b993af12a69060bb7f">datoteka</comp>
+            </collocation>
+            <collocation form="arhiviran podatek" cluster="2" frequency="61" logDice="3.04">
+              <comp position="1" type="headword" sloleks="LE_d59bb2e3f3ea97f680357ec57d7e53d2">arhiviran</comp>
+              <comp position="2" type="collocate" sloleks="LE_dceff032dbcde0be8f54f9dd068c8f74">podatek</comp>
+            </collocation>
+            <collocation form="arhiviran dokument" cluster="2" frequency="35" logDice="3.84">
+              <comp position="1" type="headword" sloleks="LE_d59bb2e3f3ea97f680357ec57d7e53d2">arhiviran</comp>
+              <comp position="2" type="collocate" sloleks="LE_bdaf11a6fa87a4547d55a132f603581b">dokument</comp>
+            </collocation>
+            <collocation form="arhiviran izvod" cluster="3" frequency="6" logDice="3.75">
+              <comp position="1" type="headword" sloleks="LE_d59bb2e3f3ea97f680357ec57d7e53d2">arhiviran</comp>
+              <comp position="2" type="collocate" sloleks="LE_6e957b798d53264b9145c627287ab71c">izvod</comp>
+            </collocation>
+            <collocation form="arhivirano gradivo" cluster="4" frequency="14" logDice="3.27">
+              <comp position="1" type="headword" sloleks="LE_d59bb2e3f3ea97f680357ec57d7e53d2">arhivirano</comp>
+              <comp position="2" type="collocate" sloleks="LE_168ebc18569a69bcbcf4f6446e8ec3ea">gradivo</comp>
+            </collocation>
+            <collocation form="arhivirano sporočilo" cluster="4" frequency="6" logDice="1.86">
+              <comp position="1" type="headword" sloleks="LE_d59bb2e3f3ea97f680357ec57d7e53d2">arhivirano</comp>
+              <comp position="2" type="collocate" sloleks="LE_be60708f2de6d5c0e0d91901cc38082b">sporočilo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 v sbz5">
+          <collocations>
+            <collocation form="arhiviran v arhivu" cluster="1" frequency="5" logDice="8.05">
+              <comp position="1" type="headword" sloleks="LE_d59bb2e3f3ea97f680357ec57d7e53d2">arhiviran</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_88cf2e3cdb5399c04a1f1c31ff2299d8">arhivu</comp>
+            </collocation>
+            <collocation form="arhiviran v muzeju" cluster="2" frequency="9" logDice="7.77">
+              <comp position="1" type="headword" sloleks="LE_d59bb2e3f3ea97f680357ec57d7e53d2">arhiviran</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_88a018d975a53a6c04d5b12d6fedb635">muzeju</comp>
+            </collocation>
+            <collocation form="arhiviran v obliki" cluster="3" frequency="5" logDice="4.55">
+              <comp position="1" type="headword" sloleks="LE_d59bb2e3f3ea97f680357ec57d7e53d2">arhiviran</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">obliki</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="varno arhiviran" cluster="1" frequency="9" logDice="6.71">
+              <comp position="1" type="collocate" sloleks="LE_5afc8024ab5cdf52f16a0bebb0df2f30">varno</comp>
+              <comp position="2" type="headword" sloleks="LE_d59bb2e3f3ea97f680357ec57d7e53d2">arhiviran</comp>
+            </collocation>
+            <collocation form="skrbno arhiviran" cluster="2" frequency="12" logDice="4.71">
+              <comp position="1" type="collocate" sloleks="LE_c0b34e86b2dfa27e4a7577a1da56226b">skrbno</comp>
+              <comp position="2" type="headword" sloleks="LE_d59bb2e3f3ea97f680357ec57d7e53d2">arhiviran</comp>
+            </collocation>
+            <collocation form="ustrezno arhiviran" cluster="3" frequency="8" logDice="3.84">
+              <comp position="1" type="collocate" sloleks="LE_a0616e9dd61d3f4a2c19c7de0cb8734f">ustrezno</comp>
+              <comp position="2" type="headword" sloleks="LE_d59bb2e3f3ea97f680357ec57d7e53d2">arhiviran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

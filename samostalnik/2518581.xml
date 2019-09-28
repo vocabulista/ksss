@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="2518581">place</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="place na mesec" cluster="1" frequency="5" logDice="3.28">
+              <comp position="1" type="headword" sloleks="">place</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_d87e72e2a6ded77b0ae520112759ad42">mesec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="povprecen place" cluster="1" frequency="30" logDice="10.87">
+              <comp position="1" type="collocate" sloleks="">povprecen</comp>
+              <comp position="2" type="headword" sloleks="">place</comp>
+            </collocation>
+            <collocation form="mesecen place" cluster="1" frequency="8" logDice="9.78">
+              <comp position="1" type="collocate" sloleks="">mesecen</comp>
+              <comp position="2" type="headword" sloleks="">place</comp>
+            </collocation>
+            <collocation form="minimalen place" cluster="2" frequency="21" logDice="3.95">
+              <comp position="1" type="collocate" sloleks="LE_6393519834001a7452ccd23896ab1bf7">minimalen</comp>
+              <comp position="2" type="headword" sloleks="">place</comp>
+            </collocation>
+            <collocation form="neto place" cluster="2" frequency="10" logDice="4.17">
+              <comp position="1" type="collocate" sloleks="LE_49510e6b7d3d3915c758ef071bd3f6b8">neto</comp>
+              <comp position="2" type="headword" sloleks="">place</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,52 @@
+<entry>
+  <header>
+    <lexical_unit id="66970">lesa</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">768</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="lesa za sušenje" cluster="1" frequency="15" logDice="9.08">
+              <comp position="1" type="headword" sloleks="LE_d94ffdb79d245a14e32ca90da1ca28d2">lesa</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee943c88daff742e8cd398ee64dcf612">sušenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ5">
+          <collocations>
+            <collocation form="sušiti na lesi" cluster="1" frequency="12" logDice="8.8">
+              <comp position="1" type="collocate" sloleks="LE_75b7d043dbc668ae0334a02c59098ce4">sušiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_d94ffdb79d245a14e32ca90da1ca28d2">lesi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="lesena lesa" cluster="1" frequency="12" logDice="2.5">
+              <comp position="1" type="collocate" sloleks="LE_39fa6eac8b3aca677a672c92e27a594c|LE_6be16eebd901c9f88de46c0031bec9fd">lesena</comp>
+              <comp position="2" type="headword" sloleks="LE_d94ffdb79d245a14e32ca90da1ca28d2">lesa</comp>
+            </collocation>
+            <collocation form="dolga lesa" cluster="2" frequency="23" logDice="1.19">
+              <comp position="1" type="collocate" sloleks="LE_e4a9ab0324b002b5f34e7335184d3dd1">dolga</comp>
+              <comp position="2" type="headword" sloleks="LE_d94ffdb79d245a14e32ca90da1ca28d2">lesa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ5">
+          <collocations>
+            <collocation form="telovadnica na lesi" cluster="1" frequency="12" logDice="9.91">
+              <comp position="1" type="collocate" sloleks="LE_d438c6820aeb118a06c1ec1cd8a5062e">telovadnica</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_d94ffdb79d245a14e32ca90da1ca28d2">lesi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

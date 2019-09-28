@@ -1,0 +1,35 @@
+<entry>
+  <header>
+    <lexical_unit id="1628396">match</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="match s spaski" cluster="1" frequency="4" logDice="13.0">
+              <comp position="1" type="headword" sloleks="">match</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="">spaski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="prvak v match" cluster="1" frequency="4" logDice="2.43">
+              <comp position="1" type="collocate" sloleks="LE_01b9cba07c706b5c4db57839c927b3d4">prvak</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="">match</comp>
+            </collocation>
+            <collocation form="prvenstvo v match" cluster="2" frequency="6" logDice="1.48">
+              <comp position="1" type="collocate" sloleks="LE_07d96d2136b663f6d4a76672a59e7035">prvenstvo</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="">match</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

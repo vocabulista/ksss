@@ -1,0 +1,896 @@
+<entry>
+  <header>
+    <lexical_unit id="8665">tepsti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">8880</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ brez sbz2">
+          <collocations>
+            <collocation form="tepsti brez razloga" cluster="1" frequency="5" logDice="5.51">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="collocate" sloleks="LE_26c1514e5bfab4dd2b04f4e4711659e1">razloga</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ do sbz2">
+          <collocations>
+            <collocation form="tepsti do krvi" cluster="1" frequency="5" logDice="8.31">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_3f38ba2d1d9b5ab220cbf69f18564673">krvi</comp>
+            </collocation>
+            <collocation form="tepsti do smrti" cluster="2" frequency="4" logDice="3.95">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_7ccde25b582fa3323faaf4d1541c4793">smrti</comp>
+            </collocation>
+            <collocation form="tepsti do konca" cluster="3" frequency="4" logDice="0.77">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_d8d1737076777d9839ea949a2b88751a">konca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ med sbz6">
+          <collocations>
+            <collocation form="tepsti med seksom" cluster="1" frequency="4" logDice="6.96">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_79d3c2a10071a93dcc686ed3dd5a1f63">seksom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="tepsti na način" cluster="1" frequency="7" logDice="0.32">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_78347f5e8e1e11f66d26223c13ba02df">način</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="tepsti na koraku" cluster="1" frequency="13" logDice="5.81">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_715161c775bf3dcbc82618a272267cf0">koraku</comp>
+            </collocation>
+            <collocation form="tepsti na ulici" cluster="2" frequency="9" logDice="4.0">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_554c79ab5e7baf29f70e8135a860c0e8">ulici</comp>
+            </collocation>
+            <collocation form="tepsti na igrišču" cluster="3" frequency="4" logDice="2.31">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_043011ce60cbc5114bdce3da8f1a4a07">igrišču</comp>
+            </collocation>
+            <collocation form="tepsti na tekmi" cluster="4" frequency="4" logDice="0.77">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_569dcc42a5a400bab2106b20777ed55f">tekmi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ ob sbz5">
+          <collocations>
+            <collocation form="tepsti ob reki" cluster="1" frequency="6" logDice="6.44">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_0d51e0433cde1d7d6610f469ec11e938">ob</comp>
+              <comp position="3" type="collocate" sloleks="LE_6662cfa7fb9c1345baab0f694d5a3590">reki</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ po sbz5">
+          <collocations>
+            <collocation form="tepsti po glavi" cluster="1" frequency="219" logDice="9.39">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_49f28ed22f8b4f55f12b45ad1b95d3b0">glavi</comp>
+            </collocation>
+            <collocation form="tepsti po obrazu" cluster="1" frequency="25" logDice="8.05">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_ace2f15ed5cc3848b7740939ded1abe9">obrazu</comp>
+            </collocation>
+            <collocation form="tepsti po nogi" cluster="1" frequency="8" logDice="7.48">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_85bf97bb223851882a947ddf0be6aea7">nogi</comp>
+            </collocation>
+            <collocation form="tepsti po roki" cluster="1" frequency="7" logDice="6.56">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_5fa1bf1096bd6c7b00158af4c43b33b3">roki</comp>
+            </collocation>
+            <collocation form="tepsti po riti" cluster="2" frequency="12" logDice="8.8">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_b204b88e2d8c06467e6dce084bb5a60b">riti</comp>
+            </collocation>
+            <collocation form="tepsti po zadnjici" cluster="2" frequency="4" logDice="7.61">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_45005ccc9cb605056a3de29840f19a2b">zadnjici</comp>
+            </collocation>
+            <collocation form="tepsti po svetu" cluster="3" frequency="5" logDice="2.05">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_55184295ed657acc8ec5dcd62f7084bf">svetu</comp>
+            </collocation>
+            <collocation form="tepsti po strani" cluster="3" frequency="4" logDice="1.66">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_4432316ca39663f747c84fc21ac8e398">strani</comp>
+            </collocation>
+            <collocation form="tepsti po prstu" cluster="4" frequency="13" logDice="8.01">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_6a9950af0f17ee23955c952bc9475a49|LE_a861eb7d5e70798c893c633c83cd3e90">prstu</comp>
+            </collocation>
+            <collocation form="tepsti po hrbtu" cluster="5" frequency="18" logDice="8.0">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_1dc08394d67093dcb5a1daeeaf0eacaa">hrbtu</comp>
+            </collocation>
+            <collocation form="tepsti po žepu" cluster="6" frequency="21" logDice="7.91">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_6c4917b1d9c4253494176700e4c1e611">žepu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ pred sbz6">
+          <collocations>
+            <collocation form="tepsti pred kamero" cluster="1" frequency="4" logDice="4.33">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_51d7aec490a3726693efdae64b8d2bc0">kamero</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="tepsti zato" cluster="1" frequency="19" logDice="1.9">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_a8c8d0c329f7b5193130e7eb405193e2">zato</comp>
+            </collocation>
+            <collocation form="tepsti vse" cluster="1" frequency="19" logDice="0.98">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_69e1f6ea0eba690182112fa5f7865561">vse</comp>
+            </collocation>
+            <collocation form="tepsti kar" cluster="1" frequency="17" logDice="0.01">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_c135f6fe8de5dfaaa58b36300e2bf493">kar</comp>
+            </collocation>
+            <collocation form="tepsti zdaj" cluster="1" frequency="8" logDice="0.31">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_d3f3f0cca65a8d1e1eb9565d50304e21">zdaj</comp>
+            </collocation>
+            <collocation form="tepsti naprej" cluster="2" frequency="13" logDice="1.85">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+            </collocation>
+            <collocation form="tepsti toliko" cluster="2" frequency="11" logDice="1.32">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_e8a73a0e682431303071ff7537eabf4b">toliko</comp>
+            </collocation>
+            <collocation form="tepsti bolj" cluster="2" frequency="9" logDice="0.02">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="tepsti pedra" cluster="1" frequency="6" logDice="7.67">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_40da4ccb3ec4b2a8cce2140c295dd9bc">pedra</comp>
+            </collocation>
+            <collocation form="tepsti izvoznika" cluster="2" frequency="6" logDice="7.45">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_dc81ad57f449057bb52af83a461a6d69">izvoznika</comp>
+            </collocation>
+            <collocation form="tepsti otroka" cluster="3" frequency="126" logDice="5.83">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otroka</comp>
+            </collocation>
+            <collocation form="tepsti človeka" cluster="3" frequency="25" logDice="3.65">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človeka</comp>
+            </collocation>
+            <collocation form="tepsti Slovenca" cluster="3" frequency="9" logDice="4.93">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_729f0d5f17646d52975cea70c2c90304|LE_28fbf96b9bd02e5a6e7ae885f022743f">Slovenca</comp>
+            </collocation>
+            <collocation form="tepsti starša" cluster="3" frequency="9" logDice="4.7">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_ee1100b135d34088f91e5c2786123e66">starša</comp>
+            </collocation>
+            <collocation form="tepsti žensko" cluster="3" frequency="9" logDice="4.32">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_27b2cafdf8a189c632c32da066af1ce5">žensko</comp>
+            </collocation>
+            <collocation form="tepsti narod" cluster="3" frequency="7" logDice="5.1">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_467863326a5651026d6c2e7a67b4936b">narod</comp>
+            </collocation>
+            <collocation form="tepsti policista" cluster="3" frequency="7" logDice="4.79">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_a0327159c89da7a2b20b5d4531b6b5e1">policista</comp>
+            </collocation>
+            <collocation form="tepsti učitelja" cluster="3" frequency="6" logDice="5.56">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_d7cfd64798b7595cf54a29769b562ff2">učitelja</comp>
+            </collocation>
+            <collocation form="tepsti poslanca" cluster="3" frequency="4" logDice="4.48">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_6a09ccfb308229880f511dd0caa4202a">poslanca</comp>
+            </collocation>
+            <collocation form="tepsti novinarja" cluster="3" frequency="4" logDice="4.42">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_e20eb7206d68378732e9d3ec88e921cc">novinarja</comp>
+            </collocation>
+            <collocation form="tepsti državljana" cluster="3" frequency="4" logDice="4.3">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_9b5f7045e59c0d8138015c9f51961068">državljana</comp>
+            </collocation>
+            <collocation form="tepsti vlado" cluster="3" frequency="4" logDice="2.31">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_63d183132c68728be91773043828fb2d">vlado</comp>
+            </collocation>
+            <collocation form="tepsti večino" cluster="3" frequency="4" logDice="2.15">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_72538287b447b4b7a75d1faf227dd3da">večino</comp>
+            </collocation>
+            <collocation form="tepsti ženo" cluster="4" frequency="42" logDice="6.52">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_412b2e672422f341e6f8b4b4f03f0f24">ženo</comp>
+            </collocation>
+            <collocation form="tepsti mamo" cluster="4" frequency="17" logDice="5.85">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_17accc042a5f6d587dff2dcf3ce1dc83">mamo</comp>
+            </collocation>
+            <collocation form="tepsti fanta" cluster="4" frequency="15" logDice="5.5">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_cae40615e4597221831328b93d9050a9">fanta</comp>
+            </collocation>
+            <collocation form="tepsti brata" cluster="4" frequency="8" logDice="5.25">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_596080a448c9d7dd107473b477aa03f5">brata</comp>
+            </collocation>
+            <collocation form="tepsti sina" cluster="4" frequency="8" logDice="4.57">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_79e0b2d02a57a50544ca32d11914a5a7">sina</comp>
+            </collocation>
+            <collocation form="tepsti sestro" cluster="4" frequency="6" logDice="5.22">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_b3439352341b78a7b6c15e1ad2f3a564">sestro</comp>
+            </collocation>
+            <collocation form="tepsti hčer" cluster="4" frequency="5" logDice="4.9">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_548160594c54c41472ed7de0d4dde6b4">hčer</comp>
+            </collocation>
+            <collocation form="tepsti moža" cluster="4" frequency="5" logDice="4.11">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_9294043181f8bc12b9c4f655c1a96b75">moža</comp>
+            </collocation>
+            <collocation form="tepsti jezik" cluster="5" frequency="11" logDice="4.29">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_84e841a4b1d5e4b816efe7f126e1f693">jezik</comp>
+            </collocation>
+            <collocation form="tepsti industrijo" cluster="5" frequency="4" logDice="4.95">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_813c93f7f0475b7a4bff75c51d2199e8">industrijo</comp>
+            </collocation>
+            <collocation form="tepsti reveža" cluster="6" frequency="6" logDice="7.2">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_9ed20a7cb95907feea296e3cd32ba52c">reveža</comp>
+            </collocation>
+            <collocation form="tepsti senco" cluster="7" frequency="4" logDice="4.74">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_89652c10585ecd1cba0586437ab7cd5e">senco</comp>
+            </collocation>
+            <collocation form="tepsti konja" cluster="8" frequency="5" logDice="4.6">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_a528e2f2e480d48407f95d45a8edfe7c">konja</comp>
+            </collocation>
+            <collocation form="tepsti psa" cluster="8" frequency="4" logDice="3.72">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_ae53f7aac94a7c78c3cb5c344c09f5ff">psa</comp>
+            </collocation>
+            <collocation form="tepsti dejstvo" cluster="9" frequency="5" logDice="3.2">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_255c5ca471183c2c3fe9d12e0951677a">dejstvo</comp>
+            </collocation>
+            <collocation form="tepsti življenje" cluster="10" frequency="25" logDice="2.88">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_b7a6a2019becc6510edb8591e171b0a7">življenje</comp>
+            </collocation>
+            <collocation form="tepsti leto" cluster="10" frequency="9" logDice="0.96">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leto</comp>
+            </collocation>
+            <collocation form="tepsti dan" cluster="10" frequency="9" logDice="0.8">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_687a3a5f213dba3724e626216f1b09da">dan</comp>
+            </collocation>
+            <collocation form="tepsti težavo" cluster="10" frequency="6" logDice="1.06">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težavo</comp>
+            </collocation>
+            <collocation form="tepsti čas" cluster="10" frequency="6" logDice="0.65">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">čas</comp>
+            </collocation>
+            <collocation form="tepsti sezono" cluster="11" frequency="5" logDice="2.68">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_e4683b52a3640372e171726e214d12fb">sezono</comp>
+            </collocation>
+            <collocation form="tepsti roko" cluster="12" frequency="6" logDice="1.86">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_5fa1bf1096bd6c7b00158af4c43b33b3">roko</comp>
+            </collocation>
+            <collocation form="tepsti demonstranta" cluster="13" frequency="4" logDice="6.66">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_a69f271db2c3cfa020774b132e84bfb3">demonstranta</comp>
+            </collocation>
+            <collocation form="tepsti mamico" cluster="14" frequency="7" logDice="6.53">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_2643e1a6d824d0f9ea027491472424a4">mamico</comp>
+            </collocation>
+            <collocation form="tepsti mačko" cluster="15" frequency="7" logDice="6.05">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_d7f8af8e5b9d445761a5fdbd91486f8d">mačko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="tepsti v ringu" cluster="1" frequency="6" logDice="7.31">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_0b1986aed91335b182edddc0912c6df8">ringu</comp>
+            </collocation>
+            <collocation form="tepsti v zaporu" cluster="2" frequency="5" logDice="3.47">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_3c194ab9809af6b787d83228f4c8e3cc">zaporu</comp>
+            </collocation>
+            <collocation form="tepsti v šoli" cluster="3" frequency="12" logDice="3.37">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_9c664dac39a3cc920d3849a80fadafa1">šoli</comp>
+            </collocation>
+            <collocation form="tepsti v parlamentu" cluster="4" frequency="5" logDice="2.96">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_32de6db1998df95db74df7cb39a9b390">parlamentu</comp>
+            </collocation>
+            <collocation form="tepsti v resnici" cluster="5" frequency="4" logDice="0.86">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_382669cfefeb9ec0a37edec1a50079a1">resnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz2">
+          <collocations>
+            <collocation form="tepsti s strani" cluster="1" frequency="9" logDice="3.86">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_4432316ca39663f747c84fc21ac8e398">strani</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="tepsti z bičem" cluster="1" frequency="14" logDice="8.78">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_7e0b9ab89337386d3f393649cd9a9bbb">bičem</comp>
+            </collocation>
+            <collocation form="tepsti s šibo" cluster="2" frequency="9" logDice="8.6">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_cd68e1310d3a64c908bc1bfbe0548488">šibo</comp>
+            </collocation>
+            <collocation form="tepsti s kolom" cluster="3" frequency="4" logDice="6.98">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_e23f67dea919d726d600096e74d83213">kolom</comp>
+            </collocation>
+            <collocation form="tepsti z ročajem" cluster="4" frequency="4" logDice="6.88">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_6c0384390e1635afe5a1ed2db47f21c1">ročajem</comp>
+            </collocation>
+            <collocation form="tepsti s policijo" cluster="5" frequency="11" logDice="6.85">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_2cbcc28e51681d01396cf12d363ca178">policijo</comp>
+            </collocation>
+            <collocation form="tepsti s policistom" cluster="5" frequency="6" logDice="6.39">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_a0327159c89da7a2b20b5d4531b6b5e1">policistom</comp>
+            </collocation>
+            <collocation form="tepsti s fantom" cluster="5" frequency="6" logDice="4.85">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_cae40615e4597221831328b93d9050a9">fantom</comp>
+            </collocation>
+            <collocation form="tepsti z načelom" cluster="6" frequency="4" logDice="6.47">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_5a443f15d8b4838fe872b4d2b544f4ce">načelom</comp>
+            </collocation>
+            <collocation form="tepsti z potrebo" cluster="6" frequency="4" logDice="5.79">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_16bf4d92d7aaee11efd4c8603b6e4ee0">potrebo</comp>
+            </collocation>
+            <collocation form="tepsti z barvo" cluster="7" frequency="12" logDice="5.92">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_d066cf8419aa6609519c184ed701618e">barvo</comp>
+            </collocation>
+            <collocation form="tepsti s psom" cluster="8" frequency="6" logDice="5.81">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_ae53f7aac94a7c78c3cb5c344c09f5ff">psom</comp>
+            </collocation>
+            <collocation form="tepsti z roko" cluster="9" frequency="13" logDice="3.52">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_5fa1bf1096bd6c7b00158af4c43b33b3">roko</comp>
+            </collocation>
+            <collocation form="tepsti z gumijevko" cluster="10" frequency="9" logDice="8.54">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_5572566398ed8e29635fb04c615667d6">gumijevko</comp>
+            </collocation>
+            <collocation form="tepsti z pendrekom" cluster="10" frequency="8" logDice="8.44">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_1f87b1a016a44c71377dd12c3eca78a0">pendrekom</comp>
+            </collocation>
+            <collocation form="tepsti s palico" cluster="11" frequency="53" logDice="8.35">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_27073e60a3e26b0b0d0071412cad0c3a">palico</comp>
+            </collocation>
+            <collocation form="tepsti s kopitom" cluster="12" frequency="8" logDice="8.19">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_ef61fc1d0e4c70d5355455249276def5">kopitom</comp>
+            </collocation>
+            <collocation form="tepsti s kijem" cluster="13" frequency="7" logDice="7.97">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_0b0c8ba7cab6c2608542f14a4eb63aeb">kijem</comp>
+            </collocation>
+            <collocation form="tepsti s pestjo" cluster="14" frequency="23" logDice="7.67">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_a38df103bacbc31315c06e83bc0e3c0c">pestjo</comp>
+            </collocation>
+            <collocation form="tepsti s policajem" cluster="15" frequency="4" logDice="7.34">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_cab92c3de026daeb0490710e08439353">policajem</comp>
+            </collocation>
+            <collocation form="tepsti s pasom" cluster="16" frequency="9" logDice="7.26">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_89ac9c7dc7f715491af648500946332a">pasom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="tepsti za vstopnico" cluster="1" frequency="24" logDice="8.6">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_ac821267d8a0805f425a2521c342b5ff">vstopnico</comp>
+            </collocation>
+            <collocation form="tepsti za karto" cluster="1" frequency="6" logDice="7.55">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_365a28a62fefe39eaa50625ee1bb3f45">karto</comp>
+            </collocation>
+            <collocation form="tepsti za pozornost" cluster="2" frequency="9" logDice="7.8">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_8a059b87daf5dd86ead417ece04403df">pozornost</comp>
+            </collocation>
+            <collocation form="tepsti za naklonjenost" cluster="2" frequency="6" logDice="7.18">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_9671436478b39ba7443b07d039e5dae2">naklonjenost</comp>
+            </collocation>
+            <collocation form="tepsti za hrano" cluster="3" frequency="11" logDice="6.55">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_4b3b80327bf9e7fafcc3a73e85eae950">hrano</comp>
+            </collocation>
+            <collocation form="tepsti za denar" cluster="3" frequency="6" logDice="3.75">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denar</comp>
+            </collocation>
+            <collocation form="tepsti za pravico" cluster="3" frequency="5" logDice="4.3">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_8c0e472df622ea735bcaed6544ab6130">pravico</comp>
+            </collocation>
+            <collocation form="tepsti za oblast" cluster="4" frequency="5" logDice="6.42">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_517516784cc4f3948ad94ba945fd370b">oblast</comp>
+            </collocation>
+            <collocation form="tepsti za demokracijo" cluster="4" frequency="5" logDice="6.57">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_0a23ea97b7dde4013fd3ea300164d8e4">demokracijo</comp>
+            </collocation>
+            <collocation form="tepsti za kupca" cluster="5" frequency="4" logDice="5.79">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_f67c67cd74261bfc3856cde4d273080e">kupca</comp>
+            </collocation>
+            <collocation form="tepsti za mesto" cluster="6" frequency="9" logDice="3.65">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesto</comp>
+            </collocation>
+            <collocation form="tepsti za prostor" cluster="6" frequency="5" logDice="5.35">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostor</comp>
+            </collocation>
+            <collocation form="tepsti za naslov" cluster="6" frequency="4" logDice="3.95">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_1aca8621567cc70c42163dfa35048969">naslov</comp>
+            </collocation>
+            <collocation form="tepsti za igračo" cluster="7" frequency="4" logDice="7.67">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_352628de55358dbc428acffdd2263de5">igračo</comp>
+            </collocation>
+            <collocation form="tepsti za mikrofon" cluster="8" frequency="5" logDice="7.62">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_1f06875ea1ba0bcfa19c4560bafe776e">mikrofon</comp>
+            </collocation>
+            <collocation form="tepsti za prevlado" cluster="9" frequency="5" logDice="7.04">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_4d2ae425d745fd5d1906ba69a9be12bc">prevlado</comp>
+            </collocation>
+            <collocation form="tepsti za posnetek" cluster="10" frequency="4" logDice="6.66">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_d78075353c3af5f2f907864ca32067dd">posnetek</comp>
+            </collocation>
+            <collocation form="tepsti za paket" cluster="11" frequency="4" logDice="6.64">
+              <comp position="1" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_8f20af60604a9f56a69c419647307518">paket</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz INF-GBZ">
+          <collocations>
+            <collocation form="nehati tepsti" cluster="1" frequency="22" logDice="4.71">
+              <comp position="1" type="collocate" sloleks="LE_562f2f7a3ccc31cd60c0ccceb068b243">nehati</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="prenehati tepsti" cluster="1" frequency="7" logDice="3.38">
+              <comp position="1" type="collocate" sloleks="LE_c515ffb9040a198b998fa06e16970ea8">prenehati</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="pustiti tepsti" cluster="2" frequency="18" logDice="4.62">
+              <comp position="1" type="collocate" sloleks="LE_4a4360d212c83015c6f3002d01d68ff4">pustiti</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="smeti tepsti" cluster="2" frequency="10" logDice="1.96">
+              <comp position="1" type="collocate" sloleks="LE_c624979ae53df9a187bf7b5a598e6cfc">smeti</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="začeti tepsti" cluster="3" frequency="165" logDice="3.51">
+              <comp position="1" type="collocate" sloleks="LE_5526be99243d6a70e33b06d3eabd15ae">začeti</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="hoteti tepsti" cluster="3" frequency="30" logDice="2.0">
+              <comp position="1" type="collocate" sloleks="LE_241ed9c84c6998d75befbc0c88f7151e">hoteti</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="znati tepsti" cluster="3" frequency="21" logDice="2.33">
+              <comp position="1" type="collocate" sloleks="LE_6feb882845b743bbe44baa4fc144910c">znati</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="pričeti tepsti" cluster="3" frequency="7" logDice="2.86">
+              <comp position="1" type="collocate" sloleks="LE_ded1741f1de355cb4a0e75c9109c069d">pričeti</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz INF-GBZ">
+          <collocations>
+            <collocation form="ne pustiti tepsti" cluster="1" frequency="6" logDice="4.77">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_4a4360d212c83015c6f3002d01d68ff4">pustiti</comp>
+              <comp position="3" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="ne smeti tepsti" cluster="2" frequency="53" logDice="3.44">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_c624979ae53df9a187bf7b5a598e6cfc">smeti</comp>
+              <comp position="3" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="ne znati tepsti" cluster="3" frequency="10" logDice="2.85">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_6feb882845b743bbe44baa4fc144910c">znati</comp>
+              <comp position="3" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz SBZ2">
+          <collocations>
+            <collocation form="ne tepsti brata" cluster="1" frequency="5" logDice="9.3">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="3" type="collocate" sloleks="LE_596080a448c9d7dd107473b477aa03f5">brata</comp>
+            </collocation>
+            <collocation form="ne tepsti mame" cluster="2" frequency="4" logDice="8.3">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="3" type="collocate" sloleks="LE_17accc042a5f6d587dff2dcf3ce1dc83">mame</comp>
+            </collocation>
+            <collocation form="ne tepsti žene" cluster="3" frequency="4" logDice="7.95">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="3" type="collocate" sloleks="LE_412b2e672422f341e6f8b4b4f03f0f24">žene</comp>
+            </collocation>
+            <collocation form="ne tepsti ženske" cluster="4" frequency="6" logDice="6.95">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="3" type="collocate" sloleks="LE_27b2cafdf8a189c632c32da066af1ce5">ženske</comp>
+            </collocation>
+            <collocation form="ne tepsti otroka" cluster="5" frequency="9" logDice="6.68">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+              <comp position="3" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otroka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="neusmiljeno tepsti" cluster="1" frequency="17" logDice="6.24">
+              <comp position="1" type="collocate" sloleks="LE_1643d10750162ec4499e422516fb8ef2">neusmiljeno</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="grdo tepsti" cluster="1" frequency="8" logDice="4.82">
+              <comp position="1" type="collocate" sloleks="LE_9bc2ed4c6c43d9bcf391b7ef992c2b1f">grdo</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="dobesedno tepsti" cluster="2" frequency="46" logDice="5.72">
+              <comp position="1" type="collocate" sloleks="LE_bffec2e3c44400c319dff55bd9852452">dobesedno</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="nekdaj tepsti" cluster="2" frequency="8" logDice="3.37">
+              <comp position="1" type="collocate" sloleks="LE_141e7db8f045c22c00d0a85cfa4e8fb5">nekdaj</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="rekoč tepsti" cluster="2" frequency="6" logDice="4.02">
+              <comp position="1" type="collocate" sloleks="LE_ebe36e072129b4f73209c9a9f3355a31">rekoč</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="hudo tepsti" cluster="3" frequency="19" logDice="3.73">
+              <comp position="1" type="collocate" sloleks="LE_feb425a4578d9be162c4327513777270">hudo</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="pošteno tepsti" cluster="3" frequency="6" logDice="2.82">
+              <comp position="1" type="collocate" sloleks="LE_8c19143f579e4e381f2632e636a1db22">pošteno</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="kako tepsti" cluster="4" frequency="55" logDice="1.35">
+              <comp position="1" type="collocate" sloleks="LE_c6fd8628f731e3e158dc366537c82f5f">kako</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="rad tepsti" cluster="4" frequency="53" logDice="2.52">
+              <comp position="1" type="collocate" sloleks="LE_0a2bb08c60a0cb7fd95c85fd75f2bfca">rad</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="vedno tepsti" cluster="4" frequency="52" logDice="1.9">
+              <comp position="1" type="collocate" sloleks="LE_eaabd5718a27f818fd47358031426355">vedno</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="zdaj tepsti" cluster="4" frequency="48" logDice="1.86">
+              <comp position="1" type="collocate" sloleks="LE_d3f3f0cca65a8d1e1eb9565d50304e21">zdaj</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="naprej tepsti" cluster="4" frequency="35" logDice="3.28">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="včasih tepsti" cluster="4" frequency="34" logDice="3.32">
+              <comp position="1" type="collocate" sloleks="LE_84ca3ea3df6ba2df07a3bc55bedb32e2">včasih</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="nikoli tepsti" cluster="4" frequency="33" logDice="2.1">
+              <comp position="1" type="collocate" sloleks="LE_6ffec37fc59ab2f513410468cce388b4">nikoli</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="pogosto tepsti" cluster="4" frequency="29" logDice="2.47">
+              <comp position="1" type="collocate" sloleks="LE_0c25a8b75185d62f2dab515299cccbfc">pogosto</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="spet tepsti" cluster="4" frequency="29" logDice="1.88">
+              <comp position="1" type="collocate" sloleks="LE_262d335ce33e8c5f94849e677bc83a19">spet</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="danes tepsti" cluster="4" frequency="27" logDice="1.56">
+              <comp position="1" type="collocate" sloleks="LE_1ce30c2bc2ec7609ed31b8f4fa97c156">danes</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="doma tepsti" cluster="4" frequency="25" logDice="3.86">
+              <comp position="1" type="collocate" sloleks="LE_e763d76187601d485fd9a1af70a03a8c">doma</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="zakaj tepsti" cluster="4" frequency="24" logDice="1.76">
+              <comp position="1" type="collocate" sloleks="LE_34b66348359b2773446caee88195586d">zakaj</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="raje tepsti" cluster="4" frequency="20" logDice="2.6">
+              <comp position="1" type="collocate" sloleks="LE_ffbac6bb621f782b67fe85e3adf7bf8e">raje</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="sedaj tepsti" cluster="4" frequency="20" logDice="2.37">
+              <comp position="1" type="collocate" sloleks="LE_e50eb5a17c98c735c9fb6d8e08cf2787">sedaj</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="večkrat tepsti" cluster="4" frequency="19" logDice="2.73">
+              <comp position="1" type="collocate" sloleks="LE_a632a4cd780b70ff7634918837d4eddb">večkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="dolgo tepsti" cluster="4" frequency="18" logDice="2.5">
+              <comp position="1" type="collocate" sloleks="LE_554690ff0ebb8eed6d3fcb26dfdc3eef">dolgo</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="kdaj tepsti" cluster="4" frequency="18" logDice="1.85">
+              <comp position="1" type="collocate" sloleks="LE_89bfa4904e9e4ffe5cfd8a71392da483">kdaj</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="potem tepsti" cluster="4" frequency="18" logDice="0.79">
+              <comp position="1" type="collocate" sloleks="LE_f0e885097573d8acf04c06a869f0d332">potem</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="dobro tepsti" cluster="4" frequency="18" logDice="0.28">
+              <comp position="1" type="collocate" sloleks="LE_43e8da3e283609f4de7cfdb7a3e3a938">dobro</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="velikokrat tepsti" cluster="4" frequency="15" logDice="3.83">
+              <comp position="1" type="collocate" sloleks="LE_7bf814fa772d3aa43d142821fe5c5b7d">velikokrat</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="tam tepsti" cluster="4" frequency="14" logDice="1.18">
+              <comp position="1" type="collocate" sloleks="LE_c5d97347498b1b4ca6c20413ed645cbb">tam</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="res tepsti" cluster="4" frequency="12" logDice="0.55">
+              <comp position="1" type="collocate" sloleks="LE_f755b561969e89364cdbaba990b8838d">res</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="verjetno tepsti" cluster="4" frequency="10" logDice="0.96">
+              <comp position="1" type="collocate" sloleks="LE_23cc9a7d67e9245ebf91fd63cd9a3033">verjetno</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="zato tepsti" cluster="4" frequency="8" logDice="0.47">
+              <comp position="1" type="collocate" sloleks="LE_a8c8d0c329f7b5193130e7eb405193e2">zato</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="zmeraj tepsti" cluster="4" frequency="7" logDice="3.1">
+              <comp position="1" type="collocate" sloleks="LE_af40c5dc2e2ae640d0412a3dd466706a">zmeraj</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="prej tepsti" cluster="4" frequency="7" logDice="0.69">
+              <comp position="1" type="collocate" sloleks="LE_25430d3959f90161be5f8125f60962ef">prej</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="pozno tepsti" cluster="4" frequency="6" logDice="1.35">
+              <comp position="1" type="collocate" sloleks="LE_6a03f5f7a628324b4df5029b57463629">pozno</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="najbolj tepsti" cluster="5" frequency="76" logDice="3.86">
+              <comp position="1" type="collocate" sloleks="LE_72b2a3522865b723e8c26b8ade696fca">najbolj</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="močno tepsti" cluster="5" frequency="33" logDice="3.1">
+              <comp position="1" type="collocate" sloleks="LE_b061af875766d8e1437febe5ccafe554">močno</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="bolj tepsti" cluster="5" frequency="33" logDice="2.06">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="malo tepsti" cluster="5" frequency="19" logDice="2.21">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="preveč tepsti" cluster="5" frequency="16" logDice="2.98">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="nekoliko tepsti" cluster="5" frequency="15" logDice="2.6">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="zelo tepsti" cluster="5" frequency="13" logDice="1.23">
+              <comp position="1" type="collocate" sloleks="LE_195d60c164b7057008d21b29153e2352">zelo</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="veliko tepsti" cluster="5" frequency="12" logDice="1.15">
+              <comp position="1" type="collocate" sloleks="LE_431ef7ec57af288ca0e781bb12f6e7f0">veliko</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="malce tepsti" cluster="5" frequency="10" logDice="2.93">
+              <comp position="1" type="collocate" sloleks="LE_2eec11a38ac5bbb5fa6d7682c1224a82">malce</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="precej tepsti" cluster="5" frequency="10" logDice="2.36">
+              <comp position="1" type="collocate" sloleks="LE_e0671a56c827200d0ebc033694e6214b">precej</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="nekaj tepsti" cluster="5" frequency="10" logDice="1.23">
+              <comp position="1" type="collocate" sloleks="LE_eb511b2a8ca41b887db9b389e9bd0591">nekaj</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="več tepsti" cluster="5" frequency="9" logDice="1.8">
+              <comp position="1" type="collocate" sloleks="LE_35a40117ea9b0ca39c7a43d940592d29">več</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="manj tepsti" cluster="5" frequency="7" logDice="2.06">
+              <comp position="1" type="collocate" sloleks="LE_ecab8216e0225b7e80d79b53bd9b8959">manj</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="nenehno tepsti" cluster="6" frequency="10" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_51a4baeec25a30e6830b327ef65991b5">nenehno</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="neprestano tepsti" cluster="6" frequency="8" logDice="4.15">
+              <comp position="1" type="collocate" sloleks="LE_e794c36d8c0974eac39cc447b8d47c84">neprestano</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="dostikrat tepsti" cluster="6" frequency="6" logDice="4.62">
+              <comp position="1" type="collocate" sloleks="LE_af3758a63c09e251d14345e073f36438">dostikrat</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="kar tepsti" cluster="7" frequency="116" logDice="2.96">
+              <comp position="1" type="collocate" sloleks="LE_c135f6fe8de5dfaaa58b36300e2bf493">kar</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="tako tepsti" cluster="7" frequency="51" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_a43856b7d4097e8e3ab29718abb1acb7">tako</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="treba tepsti" cluster="7" frequency="32" logDice="1.22">
+              <comp position="1" type="collocate" sloleks="LE_1922eb6feec1312f831201e773a0ac0d">treba</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+            <collocation form="novo tepsti" cluster="8" frequency="6" logDice="4.58">
+              <comp position="1" type="collocate" sloleks="LE_6e9c6bec7b24ac28e591123a0a8a95fe">novo</comp>
+              <comp position="2" type="headword" sloleks="LE_9f7dee4acb8229720b674d7f162aae84">tepsti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

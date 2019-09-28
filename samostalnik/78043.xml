@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="78043">pisarija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">781</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="anonimna pisarija" cluster="1" frequency="11" logDice="4.58">
+              <comp position="1" type="collocate" sloleks="LE_fb81fcfc19f8300b531d597ba2dd806d">anonimna</comp>
+              <comp position="2" type="headword" sloleks="LE_bd0e67964311f9838e4695b667c1b9d1">pisarija</comp>
+            </collocation>
+            <collocation form="Prešernova pisarija" cluster="2" frequency="10" logDice="2.96">
+              <comp position="1" type="collocate" sloleks="LE_80e5d0c56ffc97d70310b4916f3288de">Prešernova</comp>
+              <comp position="2" type="headword" sloleks="LE_bd0e67964311f9838e4695b667c1b9d1">pisarija</comp>
+            </collocation>
+            <collocation form="nova pisarija" cluster="3" frequency="136" logDice="0.83">
+              <comp position="1" type="collocate" sloleks="LE_036696c2c21ffdf3062bccd6d497a225">nova</comp>
+              <comp position="2" type="headword" sloleks="LE_bd0e67964311f9838e4695b667c1b9d1">pisarija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="Prešeren v pisariji" cluster="1" frequency="4" logDice="6.77">
+              <comp position="1" type="collocate" sloleks="LE_5e24ffbb10ea0afa6c12aa65a2076d9b|LE_b9e18038f23ab1c20c517f4d952bbb5e">Prešeren</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_bd0e67964311f9838e4695b667c1b9d1">pisariji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

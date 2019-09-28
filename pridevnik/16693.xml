@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="16693">dražljiv</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">572</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="dražljiv vonj" cluster="1" frequency="13" logDice="4.31">
+              <comp position="1" type="headword" sloleks="LE_cca345b39db83e503ed7294ae2252a61">dražljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_469fcf2e42a356bc187917363e72f89a">vonj</comp>
+            </collocation>
+            <collocation form="dražljiv občutek" cluster="1" frequency="7" logDice="2.17">
+              <comp position="1" type="headword" sloleks="LE_cca345b39db83e503ed7294ae2252a61">dražljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_23671e6156ee6c327e7c512a951bd4f3">občutek</comp>
+            </collocation>
+            <collocation form="dražljiv okus" cluster="1" frequency="6" logDice="2.28">
+              <comp position="1" type="headword" sloleks="LE_cca345b39db83e503ed7294ae2252a61">dražljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_d8073f7c60c2504626fd4db48536f904">okus</comp>
+            </collocation>
+            <collocation form="dražljiva napetost" cluster="2" frequency="6" logDice="3.4">
+              <comp position="1" type="headword" sloleks="LE_cca345b39db83e503ed7294ae2252a61">dražljiva</comp>
+              <comp position="2" type="collocate" sloleks="LE_3956f8589a9fe72d8ebdf0814cae8611">napetost</comp>
+            </collocation>
+            <collocation form="dražljiva snov" cluster="3" frequency="18" logDice="2.96">
+              <comp position="1" type="headword" sloleks="LE_cca345b39db83e503ed7294ae2252a61">dražljiva</comp>
+              <comp position="2" type="collocate" sloleks="LE_e3520ad3a55d265bbaf91aacf6222027">snov</comp>
+            </collocation>
+            <collocation form="dražljiva sestavina" cluster="3" frequency="6" logDice="2.74">
+              <comp position="1" type="headword" sloleks="LE_cca345b39db83e503ed7294ae2252a61">dražljiva</comp>
+              <comp position="2" type="collocate" sloleks="LE_9fdad534e9854d4c21d8f7eaf2876bda">sestavina</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="posebno dražljiv" cluster="1" frequency="5" logDice="1.62">
+              <comp position="1" type="collocate" sloleks="LE_eb69744c896971ec70ebb015df8b0c06">posebno</comp>
+              <comp position="2" type="headword" sloleks="LE_cca345b39db83e503ed7294ae2252a61">dražljiv</comp>
+            </collocation>
+            <collocation form="posebej dražljiv" cluster="2" frequency="6" logDice="1.31">
+              <comp position="1" type="collocate" sloleks="LE_6f32d8a4def4cfd8e9535085f1de4531">posebej</comp>
+              <comp position="2" type="headword" sloleks="LE_cca345b39db83e503ed7294ae2252a61">dražljiv</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

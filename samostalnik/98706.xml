@@ -1,0 +1,92 @@
+<entry>
+  <header>
+    <lexical_unit id="98706">zatrdlina</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">695</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="zatrdlina v dojki" cluster="1" frequency="73" logDice="11.77">
+              <comp position="1" type="headword" sloleks="LE_85f5edfdac3e8e838ad9683aa8f7f185">zatrdlina</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_7c3df1d6a3061db91f6537bf0e5cf137">dojki</comp>
+            </collocation>
+            <collocation form="zatrdlina v modu" cluster="2" frequency="9" logDice="10.16">
+              <comp position="1" type="headword" sloleks="LE_85f5edfdac3e8e838ad9683aa8f7f185">zatrdlina</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_ad7b1d0a3e6edbb0fa87861b1a6006d5">modu</comp>
+            </collocation>
+            <collocation form="zatrdlina v dimljah" cluster="3" frequency="5" logDice="8.98">
+              <comp position="1" type="headword" sloleks="LE_85f5edfdac3e8e838ad9683aa8f7f185">zatrdlina</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_303613aa485e15155f44c93b9dcea0c1">dimljah</comp>
+            </collocation>
+            <collocation form="zatrdlina v tkivu" cluster="4" frequency="5" logDice="6.93">
+              <comp position="1" type="headword" sloleks="LE_85f5edfdac3e8e838ad9683aa8f7f185">zatrdlina</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_d9ff25fc91824af40f8c59d6b623a4c5">tkivu</comp>
+            </collocation>
+            <collocation form="zatrdlina v prsih" cluster="5" frequency="5" logDice="6.46">
+              <comp position="1" type="headword" sloleks="LE_85f5edfdac3e8e838ad9683aa8f7f185">zatrdlina</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_3d025b17cd66a42ec9792b218a4cb1ac">prsih</comp>
+            </collocation>
+            <collocation form="zatrdlina v predelu" cluster="6" frequency="4" logDice="4.58">
+              <comp position="1" type="headword" sloleks="LE_85f5edfdac3e8e838ad9683aa8f7f185">zatrdlina</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_df08c52b2fb80ff0bf36fdd23050776e">predelu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="zatipati zatrdlino" cluster="1" frequency="52" logDice="11.97">
+              <comp position="1" type="collocate" sloleks="LE_3b9c79858398c377031e33ebee8704f1">zatipati</comp>
+              <comp position="2" type="headword" sloleks="LE_85f5edfdac3e8e838ad9683aa8f7f185">zatrdlino</comp>
+            </collocation>
+            <collocation form="otipati zatrdlino" cluster="2" frequency="37" logDice="10.4">
+              <comp position="1" type="collocate" sloleks="LE_be26c3f7b8a1e4cd7c71237db186bbc3">otipati</comp>
+              <comp position="2" type="headword" sloleks="LE_85f5edfdac3e8e838ad9683aa8f7f185">zatrdlino</comp>
+            </collocation>
+            <collocation form="začutiti zatrdlino" cluster="3" frequency="10" logDice="4.33">
+              <comp position="1" type="collocate" sloleks="LE_274f5b7cb60480557f5f0f4d5e878307">začutiti</comp>
+              <comp position="2" type="headword" sloleks="LE_85f5edfdac3e8e838ad9683aa8f7f185">zatrdlino</comp>
+            </collocation>
+            <collocation form="odkriti zatrdlino" cluster="4" frequency="14" logDice="3.34">
+              <comp position="1" type="collocate" sloleks="LE_3b8fd825b5c0e82121561ac22146407c">odkriti</comp>
+              <comp position="2" type="headword" sloleks="LE_85f5edfdac3e8e838ad9683aa8f7f185">zatrdlino</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="neboleča zatrdlina" cluster="1" frequency="11" logDice="8.04">
+              <comp position="1" type="collocate" sloleks="LE_c894cb1654108bf40d13659940924449">neboleča</comp>
+              <comp position="2" type="headword" sloleks="LE_85f5edfdac3e8e838ad9683aa8f7f185">zatrdlina</comp>
+            </collocation>
+            <collocation form="boleča zatrdlina" cluster="2" frequency="20" logDice="4.77">
+              <comp position="1" type="collocate" sloleks="LE_c7ce0eb0a09944784208a77330cff125">boleča</comp>
+              <comp position="2" type="headword" sloleks="LE_85f5edfdac3e8e838ad9683aa8f7f185">zatrdlina</comp>
+            </collocation>
+            <collocation form="morebitna zatrdlina" cluster="2" frequency="10" logDice="1.26">
+              <comp position="1" type="collocate" sloleks="LE_f4445946014117c0bb49c9ee308391b2">morebitna</comp>
+              <comp position="2" type="headword" sloleks="LE_85f5edfdac3e8e838ad9683aa8f7f185">zatrdlina</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 na SBZ4">
+          <collocations>
+            <collocation form="pozoren na zatrdlino" cluster="1" frequency="9" logDice="4.87">
+              <comp position="1" type="collocate" sloleks="LE_1973d92367ff624a1f75ecdb59925e6c">pozoren</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_85f5edfdac3e8e838ad9683aa8f7f185">zatrdlino</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

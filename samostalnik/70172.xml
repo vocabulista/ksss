@@ -1,0 +1,69 @@
+<entry>
+  <header>
+    <lexical_unit id="70172">mokasin</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">456</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="mokasin iz usnja" cluster="1" frequency="5" logDice="6.88">
+              <comp position="1" type="headword" sloleks="LE_7a9cf68bd2064c87d2735edebaa65b82">mokasin</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_548a220aa858e6c7e17431aff0fa7e2b">usnja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="mokasin s petko" cluster="1" frequency="4" logDice="9.01">
+              <comp position="1" type="headword" sloleks="LE_7a9cf68bd2064c87d2735edebaa65b82">mokasin</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_d93ebaadc24464df46889269eef2a120">petko</comp>
+            </collocation>
+            <collocation form="mokasin s peto" cluster="2" frequency="8" logDice="6.41">
+              <comp position="1" type="headword" sloleks="LE_7a9cf68bd2064c87d2735edebaa65b82">mokasin</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_6e1a333dbaaaade5d463c3337bb430c0">peto</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="usnjen mokasin" cluster="1" frequency="20" logDice="5.54">
+              <comp position="1" type="collocate" sloleks="LE_376ae461cbdc64b5c3999b428d8b3b44">usnjen</comp>
+              <comp position="2" type="headword" sloleks="LE_7a9cf68bd2064c87d2735edebaa65b82">mokasin</comp>
+            </collocation>
+            <collocation form="udoben mokasin" cluster="2" frequency="13" logDice="4.39">
+              <comp position="1" type="collocate" sloleks="LE_1d68bc05837607419a0d53deded9b241">udoben</comp>
+              <comp position="2" type="headword" sloleks="LE_7a9cf68bd2064c87d2735edebaa65b82">mokasin</comp>
+            </collocation>
+            <collocation form="mehak mokasin" cluster="2" frequency="12" logDice="3.48">
+              <comp position="1" type="collocate" sloleks="LE_f42dee14d6a31c1895861d718d6304d3">mehak</comp>
+              <comp position="2" type="headword" sloleks="LE_7a9cf68bd2064c87d2735edebaa65b82">mokasin</comp>
+            </collocation>
+            <collocation form="črn mokasin" cluster="3" frequency="11" logDice="0.61">
+              <comp position="1" type="collocate" sloleks="LE_efad3f083a68e148bcd4aa4f62efd36c">črn</comp>
+              <comp position="2" type="headword" sloleks="LE_7a9cf68bd2064c87d2735edebaa65b82">mokasin</comp>
+            </collocation>
+            <collocation form="rjav mokasin" cluster="3" frequency="9" logDice="3.35">
+              <comp position="1" type="collocate" sloleks="LE_907b694ff54d40e0f7f867c38196727d">rjav</comp>
+              <comp position="2" type="headword" sloleks="LE_7a9cf68bd2064c87d2735edebaa65b82">mokasin</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="hoja v mokasinu" cluster="1" frequency="5" logDice="7.43">
+              <comp position="1" type="collocate" sloleks="LE_14154f78298f00cbe5e714f8b26215d5">hoja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_7a9cf68bd2064c87d2735edebaa65b82">mokasinu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

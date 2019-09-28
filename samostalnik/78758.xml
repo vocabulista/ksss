@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="78758">podajalka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">632</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz brez SBZ2">
+          <collocations>
+            <collocation form="nastopiti brez podajalke" cluster="1" frequency="4" logDice="5.83">
+              <comp position="1" type="collocate" sloleks="LE_f7d59cd4aef4a6907c0f46f9b96eca99">nastopiti</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_e6580299db0ad51f7713522173effc79">podajalke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="reprezentančna podajalka" cluster="1" frequency="39" logDice="5.37">
+              <comp position="1" type="collocate" sloleks="LE_4e655b754d9f8194f7bb4229f2d1b59a">reprezentančna</comp>
+              <comp position="2" type="headword" sloleks="LE_e6580299db0ad51f7713522173effc79">podajalka</comp>
+            </collocation>
+            <collocation form="odlična podajalka" cluster="2" frequency="18" logDice="1.76">
+              <comp position="1" type="collocate" sloleks="LE_5df9e790d0222ba069d884357b717d12">odlična</comp>
+              <comp position="2" type="headword" sloleks="LE_e6580299db0ad51f7713522173effc79">podajalka</comp>
+            </collocation>
+            <collocation form="dobra podajalka" cluster="3" frequency="65" logDice="0.58">
+              <comp position="1" type="collocate" sloleks="LE_39b34fc93830e14cfc02d48d7839f18f">dobra</comp>
+              <comp position="2" type="headword" sloleks="LE_e6580299db0ad51f7713522173effc79">podajalka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="mesto podajalke" cluster="1" frequency="33" logDice="3.18">
+              <comp position="1" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesto</comp>
+              <comp position="2" type="headword" sloleks="LE_e6580299db0ad51f7713522173effc79">podajalke</comp>
+            </collocation>
+            <collocation form="poškodba podajalke" cluster="2" frequency="7" logDice="2.58">
+              <comp position="1" type="collocate" sloleks="LE_0994f5c2b3a70992ee63cf34cf4e3fa1">poškodba</comp>
+              <comp position="2" type="headword" sloleks="LE_e6580299db0ad51f7713522173effc79">podajalke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

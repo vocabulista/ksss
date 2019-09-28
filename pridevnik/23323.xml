@@ -1,0 +1,71 @@
+<entry>
+  <header>
+    <lexical_unit id="23323">manualen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1322</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="manualen in nemanualen" cluster="1" frequency="10" logDice="12.43">
+              <comp position="1" type="headword" sloleks="LE_15c74dc1e007e3d82e2b7c64ed33fc0a">manualen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="">nemanualen</comp>
+            </collocation>
+            <collocation form="manualen in/ali oralen" cluster="2" frequency="5" logDice="9.13">
+              <comp position="3" type="headword" sloleks="LE_15c74dc1e007e3d82e2b7c64ed33fc0a">manualen</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_59d1854cc7ef046752655fddd98a1700">oralen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="manualen terapevt" cluster="1" frequency="98" logDice="9.64">
+              <comp position="1" type="headword" sloleks="LE_15c74dc1e007e3d82e2b7c64ed33fc0a">manualen</comp>
+              <comp position="2" type="collocate" sloleks="LE_4af3445f7b1f55914f23dd258f2cd3d1">terapevt</comp>
+            </collocation>
+            <collocation form="manualna medicina" cluster="2" frequency="456" logDice="8.85">
+              <comp position="1" type="headword" sloleks="LE_15c74dc1e007e3d82e2b7c64ed33fc0a">manualna</comp>
+              <comp position="2" type="collocate" sloleks="LE_066881b44b6f5b7f2ea5ebef55af1294">medicina</comp>
+            </collocation>
+            <collocation form="manualna terapija" cluster="3" frequency="269" logDice="8.54">
+              <comp position="1" type="headword" sloleks="LE_15c74dc1e007e3d82e2b7c64ed33fc0a">manualna</comp>
+              <comp position="2" type="collocate" sloleks="LE_ab79f4d18063499c07f234b497542048">terapija</comp>
+            </collocation>
+            <collocation form="manualna diagnostika" cluster="4" frequency="10" logDice="6.16">
+              <comp position="1" type="headword" sloleks="LE_15c74dc1e007e3d82e2b7c64ed33fc0a">manualna</comp>
+              <comp position="2" type="collocate" sloleks="LE_b4b968cb7eec6a2fad3d95b044c77deb">diagnostika</comp>
+            </collocation>
+            <collocation form="manualen delavec" cluster="5" frequency="158" logDice="5.17">
+              <comp position="1" type="headword" sloleks="LE_15c74dc1e007e3d82e2b7c64ed33fc0a">manualen</comp>
+              <comp position="2" type="collocate" sloleks="LE_85630a93aeb01535235f6c83e3750975">delavec</comp>
+            </collocation>
+            <collocation form="manualna tehnika" cluster="6" frequency="48" logDice="4.52">
+              <comp position="1" type="headword" sloleks="LE_15c74dc1e007e3d82e2b7c64ed33fc0a">manualna</comp>
+              <comp position="2" type="collocate" sloleks="LE_aa90d51520eb3d2bebaf7c31f2a23c3b">tehnika</comp>
+            </collocation>
+            <collocation form="manualna metoda" cluster="6" frequency="16" logDice="3.12">
+              <comp position="1" type="headword" sloleks="LE_15c74dc1e007e3d82e2b7c64ed33fc0a">manualna</comp>
+              <comp position="2" type="collocate" sloleks="LE_675bb3300eebea6ea6f395eade13fc2c">metoda</comp>
+            </collocation>
+            <collocation form="manualen poklic" cluster="7" frequency="11" logDice="3.47">
+              <comp position="1" type="headword" sloleks="LE_15c74dc1e007e3d82e2b7c64ed33fc0a">manualen</comp>
+              <comp position="2" type="collocate" sloleks="LE_ee2dc2f20fc3eba609ef788b9cb08df4">poklic</comp>
+            </collocation>
+            <collocation form="manualno zdravljenje" cluster="8" frequency="10" logDice="3.17">
+              <comp position="1" type="headword" sloleks="LE_15c74dc1e007e3d82e2b7c64ed33fc0a">manualno</comp>
+              <comp position="2" type="collocate" sloleks="LE_7c0137a5473fd91b204bdf5ea8e08de5">zdravljenje</comp>
+            </collocation>
+            <collocation form="manualno delo" cluster="9" frequency="36" logDice="0.81">
+              <comp position="1" type="headword" sloleks="LE_15c74dc1e007e3d82e2b7c64ed33fc0a">manualno</comp>
+              <comp position="2" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

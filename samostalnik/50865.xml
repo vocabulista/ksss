@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="50865">butec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">2195</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="butec na kvadrat" cluster="1" frequency="5" logDice="6.57">
+              <comp position="1" type="headword" sloleks="LE_ea07d03257ebf14ca2571efde6d4fb4b">butec</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_5320fab024ac929f4dbabe7c9fd9389e">kvadrat</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="Butec za čas" cluster="1" frequency="8" logDice="3.15">
+              <comp position="1" type="headword" sloleks="LE_ea07d03257ebf14ca2571efde6d4fb4b">Butec</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">čas</comp>
+            </collocation>
+            <collocation form="večerja za butca" cluster="2" frequency="4" logDice="7.78">
+              <comp position="1" type="collocate" sloleks="LE_265609c7f355a9496473c6ac6296a6f2">večerja</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea07d03257ebf14ca2571efde6d4fb4b">butca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="imeti za butca" cluster="1" frequency="6" logDice="1.51">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea07d03257ebf14ca2571efde6d4fb4b">butca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="navaden butec" cluster="1" frequency="9" logDice="1.89">
+              <comp position="1" type="collocate" sloleks="LE_f59369d8b37702c03d2e6f31cbe3f5d8">navaden</comp>
+              <comp position="2" type="headword" sloleks="LE_ea07d03257ebf14ca2571efde6d4fb4b">butec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

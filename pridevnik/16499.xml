@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="16499">domenjen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">501</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 za sbz4">
+          <collocations>
+            <collocation form="domenjen za kosilo" cluster="1" frequency="4" logDice="9.55">
+              <comp position="1" type="headword" sloleks="LE_8337e2ef9ee5ed9a13231e0ad8c53de6">domenjen</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_bfa79c7b3967a58c407622b08d2baecd">kosilo</comp>
+            </collocation>
+            <collocation form="domenjen za pogovor" cluster="2" frequency="5" logDice="7.69">
+              <comp position="1" type="headword" sloleks="LE_8337e2ef9ee5ed9a13231e0ad8c53de6">domenjen</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_4d397baebd70f7228e28d943e00294e3">pogovor</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="vnaprej domenjen" cluster="1" frequency="12" logDice="4.31">
+              <comp position="1" type="collocate" sloleks="LE_ad1cb50ed57f9533503dcdd605219223">vnaprej</comp>
+              <comp position="2" type="headword" sloleks="LE_8337e2ef9ee5ed9a13231e0ad8c53de6">domenjen</comp>
+            </collocation>
+            <collocation form="prej domenjen" cluster="2" frequency="6" logDice="2.2">
+              <comp position="1" type="collocate" sloleks="LE_25430d3959f90161be5f8125f60962ef">prej</comp>
+              <comp position="2" type="headword" sloleks="LE_8337e2ef9ee5ed9a13231e0ad8c53de6">domenjen</comp>
+            </collocation>
+            <collocation form="vse domenjen" cluster="3" frequency="8" logDice="1.04">
+              <comp position="1" type="collocate" sloleks="LE_69e1f6ea0eba690182112fa5f7865561">vse</comp>
+              <comp position="2" type="headword" sloleks="LE_8337e2ef9ee5ed9a13231e0ad8c53de6">domenjen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

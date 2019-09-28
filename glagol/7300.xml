@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="7300">prostituirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">575</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="prostituirati za preživetje" cluster="1" frequency="5" logDice="4.78">
+              <comp position="1" type="headword" sloleks="LE_ce7cc46e0366d73fc40f59cfd6539072">prostituirati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_af211a2c3fea7d42230828e5ce551f05">preživetje</comp>
+            </collocation>
+            <collocation form="prostituirati za denar" cluster="2" frequency="6" logDice="3.78">
+              <comp position="1" type="headword" sloleks="LE_ce7cc46e0366d73fc40f59cfd6539072">prostituirati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="politično prostituirati" cluster="1" frequency="4" logDice="4.44">
+              <comp position="1" type="collocate" sloleks="LE_9ed772e9e43890262413b22e2ea14bbc">politično</comp>
+              <comp position="2" type="headword" sloleks="LE_ce7cc46e0366d73fc40f59cfd6539072">prostituirati</comp>
+            </collocation>
+            <collocation form="skrivaj prostituirati" cluster="2" frequency="4" logDice="4.05">
+              <comp position="1" type="collocate" sloleks="LE_44d5e938944508333ccd098c533b8116">skrivaj</comp>
+              <comp position="2" type="headword" sloleks="LE_ce7cc46e0366d73fc40f59cfd6539072">prostituirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

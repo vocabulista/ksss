@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="25518">neobhoden</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">472</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="neobhoden pripomoček" cluster="1" frequency="9" logDice="3.13">
+              <comp position="1" type="headword" sloleks="LE_352627f4b213202e9dac6d09420b8103">neobhoden</comp>
+              <comp position="2" type="collocate" sloleks="LE_708e8688a229e661e0b8e813c4453a4e">pripomoček</comp>
+            </collocation>
+            <collocation form="neobhodna potreba" cluster="2" frequency="9" logDice="2.08">
+              <comp position="1" type="headword" sloleks="LE_352627f4b213202e9dac6d09420b8103">neobhodna</comp>
+              <comp position="2" type="collocate" sloleks="LE_16bf4d92d7aaee11efd4c8603b6e4ee0">potreba</comp>
+            </collocation>
+            <collocation form="neobhoden pogoj" cluster="3" frequency="10" logDice="1.15">
+              <comp position="1" type="headword" sloleks="LE_352627f4b213202e9dac6d09420b8103">neobhoden</comp>
+              <comp position="2" type="collocate" sloleks="LE_65a7484d8f00462cb9c06a20e91d010f">pogoj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 za sbz4">
+          <collocations>
+            <collocation form="neobhoden za življenje" cluster="1" frequency="8" logDice="6.16">
+              <comp position="1" type="headword" sloleks="LE_352627f4b213202e9dac6d09420b8103">neobhoden</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b7a6a2019becc6510edb8591e171b0a7">življenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

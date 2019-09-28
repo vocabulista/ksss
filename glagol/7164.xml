@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="7164">prismoditi</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">414</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="prismoditi na štedilniku" cluster="1" frequency="5" logDice="7.68">
+              <comp position="1" type="headword" sloleks="LE_d2b7c4a74fcf3b9a18718c26db317dd3">prismoditi</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_1e2c925044afec0d22e95cc7a8e52ef7">štedilniku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="kaj prismoditi" cluster="1" frequency="18" logDice="1.1">
+              <comp position="1" type="collocate" sloleks="LE_f9fa365147cf5bfdb5034944905ad608">kaj</comp>
+              <comp position="2" type="headword" sloleks="LE_d2b7c4a74fcf3b9a18718c26db317dd3">prismoditi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

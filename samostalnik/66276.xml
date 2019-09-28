@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="66276">kurjač</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">567</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="kurjač kotla" cluster="1" frequency="13" logDice="7.75">
+              <comp position="1" type="headword" sloleks="LE_c586076b2072f5a353d18d9ed43a606d">kurjač</comp>
+              <comp position="2" type="collocate" sloleks="LE_e31e05021c9828c47a873c06619495c7">kotla</comp>
+            </collocation>
+            <collocation form="kurjač zgodovine" cluster="2" frequency="8" logDice="2.56">
+              <comp position="1" type="headword" sloleks="LE_c586076b2072f5a353d18d9ed43a606d">kurjač</comp>
+              <comp position="2" type="collocate" sloleks="LE_b2dc0e37e23a16ae3fe7cfe473a5341b">zgodovine</comp>
+            </collocation>
+            <collocation form="mesto kurjača" cluster="3" frequency="7" logDice="0.94">
+              <comp position="1" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesto</comp>
+              <comp position="2" type="headword" sloleks="LE_c586076b2072f5a353d18d9ed43a606d">kurjača</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="zaposlen kurjač" cluster="1" frequency="8" logDice="2.0">
+              <comp position="1" type="collocate" sloleks="LE_c33b174db8aa48dfa586d3eadfccf2fe">zaposlen</comp>
+              <comp position="2" type="headword" sloleks="LE_c586076b2072f5a353d18d9ed43a606d">kurjač</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="izpit za kurjača" cluster="1" frequency="8" logDice="5.69">
+              <comp position="1" type="collocate" sloleks="LE_00ac227515d6679cdbeaf2e866e9a81d">izpit</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_c586076b2072f5a353d18d9ed43a606d">kurjača</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

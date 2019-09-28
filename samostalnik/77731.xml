@@ -1,0 +1,76 @@
+<entry>
+  <header>
+    <lexical_unit id="77731">petošolec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">829</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="petošolec iz šole" cluster="1" frequency="17" logDice="5.89">
+              <comp position="1" type="headword" sloleks="LE_7713b6be5a55d467a284682508104fcc">petošolec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_9c664dac39a3cc920d3849a80fadafa1">šole</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="petošolec s šole" cluster="1" frequency="5" logDice="6.0">
+              <comp position="1" type="headword" sloleks="LE_7713b6be5a55d467a284682508104fcc">petošolec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_9c664dac39a3cc920d3849a80fadafa1">šole</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="sedanji petošolec" cluster="1" frequency="16" logDice="1.72">
+              <comp position="1" type="collocate" sloleks="LE_deed9694cf13ddeba89b181f10251ba4">sedanji</comp>
+              <comp position="2" type="headword" sloleks="LE_7713b6be5a55d467a284682508104fcc">petošolec</comp>
+            </collocation>
+            <collocation form="lanski petošolec" cluster="2" frequency="9" logDice="0.66">
+              <comp position="1" type="collocate" sloleks="LE_6c73c1a907c76e12a3a419327e2a684f">lanski</comp>
+              <comp position="2" type="headword" sloleks="LE_7713b6be5a55d467a284682508104fcc">petošolec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="starš petošolca" cluster="1" frequency="30" logDice="6.33">
+              <comp position="1" type="collocate" sloleks="LE_ee1100b135d34088f91e5c2786123e66">starš</comp>
+              <comp position="2" type="headword" sloleks="LE_7713b6be5a55d467a284682508104fcc">petošolca</comp>
+            </collocation>
+            <collocation form="oddelek petošolca" cluster="2" frequency="6" logDice="3.01">
+              <comp position="1" type="collocate" sloleks="LE_f73286dd6f89a4307b05a1a8ffe3e326">oddelek</comp>
+              <comp position="2" type="headword" sloleks="LE_7713b6be5a55d467a284682508104fcc">petošolca</comp>
+            </collocation>
+            <collocation form="ekipa petošolca" cluster="3" frequency="10" logDice="2.23">
+              <comp position="1" type="collocate" sloleks="LE_b9e9e733fb718cd2faed16b97326064f">ekipa</comp>
+              <comp position="2" type="headword" sloleks="LE_7713b6be5a55d467a284682508104fcc">petošolca</comp>
+            </collocation>
+            <collocation form="priprava petošolca" cluster="3" frequency="5" logDice="0.83">
+              <comp position="1" type="collocate" sloleks="LE_bdb43273740fff938591c6ba74f8869f">priprava</comp>
+              <comp position="2" type="headword" sloleks="LE_7713b6be5a55d467a284682508104fcc">petošolca</comp>
+            </collocation>
+            <collocation form="smrt petošolca" cluster="4" frequency="5" logDice="2.08">
+              <comp position="1" type="collocate" sloleks="LE_7ccde25b582fa3323faaf4d1541c4793">smrt</comp>
+              <comp position="2" type="headword" sloleks="LE_7713b6be5a55d467a284682508104fcc">petošolca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="tečaj za petošolca" cluster="1" frequency="5" logDice="4.86">
+              <comp position="1" type="collocate" sloleks="LE_5d02c8a026f40c53ca6b5616101080cf">tečaj</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_7713b6be5a55d467a284682508104fcc">petošolca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

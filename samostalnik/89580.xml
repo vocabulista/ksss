@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="89580">složnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">531</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="složnost krajana" cluster="1" frequency="8" logDice="4.1">
+              <comp position="1" type="headword" sloleks="LE_cffa94e36a381d0e5ac950ff225099d7">složnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_20101938b8a8336a4f15b2a669153dae">krajana</comp>
+            </collocation>
+            <collocation form="složnost naroda" cluster="2" frequency="9" logDice="2.32">
+              <comp position="1" type="headword" sloleks="LE_cffa94e36a381d0e5ac950ff225099d7">složnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_467863326a5651026d6c2e7a67b4936b">naroda</comp>
+            </collocation>
+            <collocation form="občutek složnosti" cluster="3" frequency="5" logDice="1.7">
+              <comp position="1" type="collocate" sloleks="LE_23671e6156ee6c327e7c512a951bd4f3">občutek</comp>
+              <comp position="2" type="headword" sloleks="LE_cffa94e36a381d0e5ac950ff225099d7">složnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="neverjetna složnost" cluster="1" frequency="8" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_f49dbce3f03afcef0eef49f85948f021">neverjetna</comp>
+              <comp position="2" type="headword" sloleks="LE_cffa94e36a381d0e5ac950ff225099d7">složnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

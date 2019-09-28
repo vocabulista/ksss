@@ -1,0 +1,57 @@
+<entry>
+  <header>
+    <lexical_unit id="49211">biblioteka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">562</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="aleksandrijska biblioteka" cluster="1" frequency="16" logDice="8.97">
+              <comp position="1" type="collocate" sloleks="LE_c4f48bb9ae854e61de50e9410a205928">aleksandrijska</comp>
+              <comp position="2" type="headword" sloleks="LE_dd66a651a2a74dfc180cdcf411736d1c">biblioteka</comp>
+            </collocation>
+            <collocation form="nacionalna biblioteka" cluster="2" frequency="43" logDice="2.96">
+              <comp position="1" type="collocate" sloleks="LE_d407803b9a4821ebeb2e6407465e3c7b">nacionalna</comp>
+              <comp position="2" type="headword" sloleks="LE_dd66a651a2a74dfc180cdcf411736d1c">biblioteka</comp>
+            </collocation>
+            <collocation form="narodna biblioteka" cluster="2" frequency="18" logDice="2.36">
+              <comp position="1" type="collocate" sloleks="LE_5aeb18f32525d080a73c8c3fa62276cd">narodna</comp>
+              <comp position="2" type="headword" sloleks="LE_dd66a651a2a74dfc180cdcf411736d1c">biblioteka</comp>
+            </collocation>
+            <collocation form="univerzitetna biblioteka" cluster="2" frequency="13" logDice="3.61">
+              <comp position="1" type="collocate" sloleks="LE_4939c41c603f633c5bca1b48909053f4">univerzitetna</comp>
+              <comp position="2" type="headword" sloleks="LE_dd66a651a2a74dfc180cdcf411736d1c">biblioteka</comp>
+            </collocation>
+            <collocation form="centralna biblioteka" cluster="3" frequency="10" logDice="2.47">
+              <comp position="1" type="collocate" sloleks="LE_fe4df51aca558bd9888d2d3e19cdd752">centralna</comp>
+              <comp position="2" type="headword" sloleks="LE_dd66a651a2a74dfc180cdcf411736d1c">biblioteka</comp>
+            </collocation>
+            <collocation form="avstrijska biblioteka" cluster="4" frequency="12" logDice="1.64">
+              <comp position="1" type="collocate" sloleks="LE_2044cc24b18befa1709518ef073627ec">avstrijska</comp>
+              <comp position="2" type="headword" sloleks="LE_dd66a651a2a74dfc180cdcf411736d1c">biblioteka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="fond biblioteke" cluster="1" frequency="5" logDice="6.62">
+              <comp position="1" type="collocate" sloleks="LE_0f58aa7e6a7441083adf961e22c1148b">fond</comp>
+              <comp position="2" type="headword" sloleks="LE_dd66a651a2a74dfc180cdcf411736d1c">biblioteke</comp>
+            </collocation>
+            <collocation form="biblioteka SAZU" cluster="2" frequency="19" logDice="8.05">
+              <comp position="1" type="headword" sloleks="LE_dd66a651a2a74dfc180cdcf411736d1c">biblioteka</comp>
+              <comp position="2" type="collocate" sloleks="LE_68e1997d4f6db8931aaf5a51aefd4897|LE_b4f269ddedf4d432fe44899bea306ef9">SAZU</comp>
+            </collocation>
+            <collocation form="biblioteka Srbije" cluster="3" frequency="10" logDice="4.11">
+              <comp position="1" type="headword" sloleks="LE_dd66a651a2a74dfc180cdcf411736d1c">biblioteka</comp>
+              <comp position="2" type="collocate" sloleks="LE_a3cc66f9c4aad3329d915db7fec98d6b">Srbije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

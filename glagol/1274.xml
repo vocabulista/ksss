@@ -1,0 +1,72 @@
+<entry>
+  <header>
+    <lexical_unit id="1274">guncati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">704</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="guncati na stolu" cluster="1" frequency="5" logDice="5.34">
+              <comp position="1" type="headword" sloleks="LE_e364c1cfd012cdbdffd9f43b016e1009">guncati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_99bd39ad95b229dd259aa44e7c344f3c">stolu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="guncati afna" cluster="1" frequency="161" logDice="13.69">
+              <comp position="1" type="headword" sloleks="LE_e364c1cfd012cdbdffd9f43b016e1009">guncati</comp>
+              <comp position="2" type="collocate" sloleks="">afna</comp>
+            </collocation>
+            <collocation form="guncati afen" cluster="2" frequency="4" logDice="9.51">
+              <comp position="1" type="headword" sloleks="LE_e364c1cfd012cdbdffd9f43b016e1009">guncati</comp>
+              <comp position="2" type="collocate" sloleks="">afen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="guncati z zidarjem" cluster="1" frequency="5" logDice="9.22">
+              <comp position="1" type="headword" sloleks="LE_e364c1cfd012cdbdffd9f43b016e1009">guncati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_297e6382382ac5aa1853c0af7296dc45">zidarjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="guncati za afna" cluster="1" frequency="13" logDice="13.69">
+              <comp position="1" type="headword" sloleks="LE_e364c1cfd012cdbdffd9f43b016e1009">guncati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="">afna</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="popoldne guncati" cluster="1" frequency="4" logDice="1.72">
+              <comp position="1" type="collocate" sloleks="LE_6c8f4ee294598b9d415c892e5e02833f">popoldne</comp>
+              <comp position="2" type="headword" sloleks="LE_e364c1cfd012cdbdffd9f43b016e1009">guncati</comp>
+            </collocation>
+            <collocation form="raje guncati" cluster="2" frequency="6" logDice="0.89">
+              <comp position="1" type="collocate" sloleks="LE_ffbac6bb621f782b67fe85e3adf7bf8e">raje</comp>
+              <comp position="2" type="headword" sloleks="LE_e364c1cfd012cdbdffd9f43b016e1009">guncati</comp>
+            </collocation>
+            <collocation form="malo guncati" cluster="3" frequency="5" logDice="0.31">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_e364c1cfd012cdbdffd9f43b016e1009">guncati</comp>
+            </collocation>
+            <collocation form="naprej guncati" cluster="4" frequency="4" logDice="0.17">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_e364c1cfd012cdbdffd9f43b016e1009">guncati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

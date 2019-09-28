@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="55209">ekspozicija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">557</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="večkratna ekspozicija" cluster="1" frequency="11" logDice="5.01">
+              <comp position="1" type="collocate" sloleks="LE_3a40bc24868f3d01cf36cdd6b4d4e50e">večkratna</comp>
+              <comp position="2" type="headword" sloleks="LE_a7ba9c39f35dfea5bf04b69e00d4b5a4">ekspozicija</comp>
+            </collocation>
+            <collocation form="dolga ekspozicija" cluster="2" frequency="44" logDice="2.12">
+              <comp position="1" type="collocate" sloleks="LE_e4a9ab0324b002b5f34e7335184d3dd1">dolga</comp>
+              <comp position="2" type="headword" sloleks="LE_a7ba9c39f35dfea5bf04b69e00d4b5a4">ekspozicija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="čas ekspozicije" cluster="1" frequency="51" logDice="2.67">
+              <comp position="1" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">čas</comp>
+              <comp position="2" type="headword" sloleks="LE_a7ba9c39f35dfea5bf04b69e00d4b5a4">ekspozicije</comp>
+            </collocation>
+            <collocation form="ekspozicija problema" cluster="2" frequency="9" logDice="2.83">
+              <comp position="1" type="headword" sloleks="LE_a7ba9c39f35dfea5bf04b69e00d4b5a4">ekspozicija</comp>
+              <comp position="2" type="collocate" sloleks="LE_978368a01311c2094cfb52416d9882f9">problema</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

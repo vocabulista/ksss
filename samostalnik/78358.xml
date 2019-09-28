@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="78358">plebs</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">460</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="navaden plebs" cluster="1" frequency="10" logDice="2.05">
+              <comp position="1" type="collocate" sloleks="LE_f59369d8b37702c03d2e6f31cbe3f5d8">navaden</comp>
+              <comp position="2" type="headword" sloleks="LE_63fbf2eb2e1000fcc740bd1919a7e6c5">plebs</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="graf za plebs" cluster="1" frequency="15" logDice="12.21">
+              <comp position="1" type="collocate" sloleks="LE_6ec406d020a690224fe9b8fca938afe5">graf</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_63fbf2eb2e1000fcc740bd1919a7e6c5">plebs</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

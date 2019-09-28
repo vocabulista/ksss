@@ -1,0 +1,57 @@
+<entry>
+  <header>
+    <lexical_unit id="25351">nekategoriziran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">523</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nekategorizirana cesta" cluster="1" frequency="318" logDice="5.29">
+              <comp position="1" type="headword" sloleks="LE_1fc75c9ac2aaf5e00f5abaa7fc476dcb">nekategorizirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_0e822f9721ddeb3fd7d90e02f70c9a2f">cesta</comp>
+            </collocation>
+            <collocation form="nekategorizirana pot" cluster="1" frequency="29" logDice="1.62">
+              <comp position="1" type="headword" sloleks="LE_1fc75c9ac2aaf5e00f5abaa7fc476dcb">nekategorizirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_6f8aa8d4e7c0d678fee98b890a6d1964|LE_97291a922b54c3ec42af6728cfcc7ab2">pot</comp>
+            </collocation>
+            <collocation form="nekategoriziran tekmovalec" cluster="2" frequency="10" logDice="3.82">
+              <comp position="1" type="headword" sloleks="LE_1fc75c9ac2aaf5e00f5abaa7fc476dcb">nekategoriziran</comp>
+              <comp position="2" type="collocate" sloleks="LE_b2b06fc3d1d3cb0873e8073a53a67920">tekmovalec</comp>
+            </collocation>
+            <collocation form="nekategorizirana dirka" cluster="3" frequency="6" logDice="1.36">
+              <comp position="1" type="headword" sloleks="LE_1fc75c9ac2aaf5e00f5abaa7fc476dcb">nekategorizirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_135a43502c1900449f8c9f8c1c55c450">dirka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="nekategoriziran in/ali kategoriziran" cluster="1" frequency="11" logDice="12.1">
+              <comp position="3" type="headword" sloleks="LE_1fc75c9ac2aaf5e00f5abaa7fc476dcb">nekategoriziran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_bc522b8703378e77e3f684230cc572a8">kategoriziran</comp>
+              </collocation>
+            <collocation form="nekategoriziran in/ali občinski" cluster="2" frequency="22" logDice="7.15">
+              <comp position="3" type="headword" sloleks="LE_1fc75c9ac2aaf5e00f5abaa7fc476dcb">nekategoriziran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_1590ce886a6c1aca2522428105eb26f7">občinski</comp>
+              </collocation>
+            <collocation form="nekategoriziran in/ali javen" cluster="3" frequency="9" logDice="4.65">
+              <comp position="3" type="headword" sloleks="LE_1fc75c9ac2aaf5e00f5abaa7fc476dcb">nekategoriziran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_db9b9dea5c7c6b3fa2252be2bb86554a">javen</comp>
+              </collocation>
+            <collocation form="nekategoriziran in/ali lokalen" cluster="4" frequency="6" logDice="4.44">
+              <comp position="3" type="headword" sloleks="LE_1fc75c9ac2aaf5e00f5abaa7fc476dcb">nekategoriziran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_c4c329be50ab16177a6a46f6a9806c81">lokalen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

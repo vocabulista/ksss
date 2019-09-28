@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="85704">redaktor</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1052</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="redaktor Eme" cluster="1" frequency="11" logDice="6.99">
+              <comp position="1" type="headword" sloleks="LE_33cb5de066757b96b35691e652b48d28">redaktor</comp>
+              <comp position="2" type="collocate" sloleks="">Eme</comp>
+            </collocation>
+            <collocation form="redaktor oddaje" cluster="2" frequency="95" logDice="5.97">
+              <comp position="1" type="headword" sloleks="LE_33cb5de066757b96b35691e652b48d28">redaktor</comp>
+              <comp position="2" type="collocate" sloleks="LE_52a0fe564a02d70a3d3b0b3a704b365a">oddaje</comp>
+            </collocation>
+            <collocation form="redaktor programa" cluster="2" frequency="17" logDice="1.76">
+              <comp position="1" type="headword" sloleks="LE_33cb5de066757b96b35691e652b48d28">redaktor</comp>
+              <comp position="2" type="collocate" sloleks="LE_2da10dc9e8a0e2ff7fd5a1ddd0278e88">programa</comp>
+            </collocation>
+            <collocation form="pravnik redaktorja" cluster="3" frequency="5" logDice="7.15">
+              <comp position="1" type="collocate" sloleks="LE_94788a9adac8888becf0912a76c32542">pravnik</comp>
+              <comp position="2" type="headword" sloleks="LE_33cb5de066757b96b35691e652b48d28">redaktorja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="redaktor za glasbo" cluster="1" frequency="8" logDice="4.62">
+              <comp position="1" type="headword" sloleks="LE_33cb5de066757b96b35691e652b48d28">redaktor</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b9d4fb1bfd740612d94d302113e10a62">glasbo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="glasben redaktor" cluster="1" frequency="24" logDice="1.53">
+              <comp position="1" type="collocate" sloleks="LE_dac17ddcfd6670f6a6620ba54e7d32db">glasben</comp>
+              <comp position="2" type="headword" sloleks="LE_33cb5de066757b96b35691e652b48d28">redaktor</comp>
+            </collocation>
+            <collocation form="dneven redaktor" cluster="2" frequency="8" logDice="0.95">
+              <comp position="1" type="collocate" sloleks="LE_4c479b34ed9f1760973f9ba538231314">dneven</comp>
+              <comp position="2" type="headword" sloleks="LE_33cb5de066757b96b35691e652b48d28">redaktor</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

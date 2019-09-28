@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="22895">logarski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">5382</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="logarska dolina" cluster="1" frequency="4942" logDice="10.49">
+              <comp position="1" type="headword" sloleks="LE_3ddafe0674f827acce60db895bafcb83">logarska</comp>
+              <comp position="2" type="collocate" sloleks="LE_3cfd82133483d61493479af0121a6728">dolina</comp>
+            </collocation>
+            <collocation form="logarski apnenec" cluster="2" frequency="13" logDice="5.91">
+              <comp position="1" type="headword" sloleks="LE_3ddafe0674f827acce60db895bafcb83">logarski</comp>
+              <comp position="2" type="collocate" sloleks="LE_5065fa7318c9785184585ead9defeba5">apnenec</comp>
+            </collocation>
+            <collocation form="logarski kot" cluster="3" frequency="52" logDice="5.34">
+              <comp position="1" type="headword" sloleks="LE_3ddafe0674f827acce60db895bafcb83">logarski</comp>
+              <comp position="2" type="collocate" sloleks="LE_ae787891acc8a9d74ac5833ea12d3e82">kot</comp>
+            </collocation>
+            <collocation form="logarski most" cluster="4" frequency="8" logDice="2.54">
+              <comp position="1" type="headword" sloleks="LE_3ddafe0674f827acce60db895bafcb83">logarski</comp>
+              <comp position="2" type="collocate" sloleks="LE_ea98143c3eabe190b20799ac81a9d75d">most</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="logarski in/ali savinjski" cluster="1" frequency="27" logDice="9.3">
+              <comp position="3" type="headword" sloleks="LE_3ddafe0674f827acce60db895bafcb83">logarski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_875c73d2227611d77f738a206d1bb6e3">savinjski</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

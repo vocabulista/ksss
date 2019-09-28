@@ -1,0 +1,52 @@
+<entry>
+  <header>
+    <lexical_unit id="53657">dobavnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">589</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="uvrstiti na dobavnico" cluster="1" frequency="5" logDice="2.77">
+              <comp position="1" type="collocate" sloleks="LE_b10fc33d214decf5ddf5e67dc383d739">uvrstiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_461b8e233eebfbecaf5a3f35b1f8aa21">dobavnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="vnos dobavnice" cluster="1" frequency="13" logDice="5.26">
+              <comp position="1" type="collocate" sloleks="LE_77497ec83bbc72016f2bc993af431869">vnos</comp>
+              <comp position="2" type="headword" sloleks="LE_461b8e233eebfbecaf5a3f35b1f8aa21">dobavnice</comp>
+            </collocation>
+            <collocation form="pisanje dobavnice" cluster="2" frequency="6" logDice="2.74">
+              <comp position="1" type="collocate" sloleks="LE_2912249b30c6b1558ad720acc5a049dc">pisanje</comp>
+              <comp position="2" type="headword" sloleks="LE_461b8e233eebfbecaf5a3f35b1f8aa21">dobavnice</comp>
+            </collocation>
+            <collocation form="osnova dobavnice" cluster="3" frequency="6" logDice="1.78">
+              <comp position="1" type="collocate" sloleks="LE_25d7e9c6fd68f8446f6a04b8cfe6afcd">osnova</comp>
+              <comp position="2" type="headword" sloleks="LE_461b8e233eebfbecaf5a3f35b1f8aa21">dobavnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ5">
+          <collocations>
+            <collocation form="datum na dobavnici" cluster="1" frequency="4" logDice="8.31">
+              <comp position="1" type="collocate" sloleks="LE_06121e42232c6cbb79c6f5ddf8398a9c">datum</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_461b8e233eebfbecaf5a3f35b1f8aa21">dobavnici</comp>
+            </collocation>
+            <collocation form="gradivo na dobavnici" cluster="2" frequency="4" logDice="7.64">
+              <comp position="1" type="collocate" sloleks="LE_168ebc18569a69bcbcf4f6446e8ec3ea">gradivo</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_461b8e233eebfbecaf5a3f35b1f8aa21">dobavnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

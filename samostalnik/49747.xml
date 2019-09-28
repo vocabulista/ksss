@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="49747">bogatija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1053</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="bogatija na račun" cluster="1" frequency="31" logDice="5.02">
+              <comp position="1" type="headword" sloleks="LE_0803d947f7ed573181c60f77ba4a6c55">bogatija</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_03d4207cd319441760ba30bae2e1320e">račun</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="bogatija ilustracije" cluster="1" frequency="8" logDice="6.48">
+              <comp position="1" type="headword" sloleks="LE_0803d947f7ed573181c60f77ba4a6c55">bogatija</comp>
+              <comp position="2" type="collocate" sloleks="LE_0f079b2525bf88e83d958a849103150e">ilustracije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="bogatija z dušikom" cluster="1" frequency="5" logDice="7.44">
+              <comp position="1" type="headword" sloleks="LE_0803d947f7ed573181c60f77ba4a6c55">bogatija</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_a7645ede7f8f5e9d033fac8d4d06b6f8">dušikom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="duhovna bogatija" cluster="1" frequency="8" logDice="2.42">
+              <comp position="1" type="collocate" sloleks="LE_6dce91b9373b8b9454c801a895690835">duhovna</comp>
+              <comp position="2" type="headword" sloleks="LE_0803d947f7ed573181c60f77ba4a6c55">bogatija</comp>
+            </collocation>
+            <collocation form="bogata bogatija" cluster="2" frequency="20" logDice="2.39">
+              <comp position="1" type="collocate" sloleks="LE_dced9b89c62a9351467866138eb9d57d">bogata</comp>
+              <comp position="2" type="headword" sloleks="LE_0803d947f7ed573181c60f77ba4a6c55">bogatija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

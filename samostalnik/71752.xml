@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="71752">navijaštvo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">493</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="ukvarjati z navijaštvom" cluster="1" frequency="7" logDice="0.87">
+              <comp position="1" type="collocate" sloleks="LE_d218d442858c415bdeff018dc056aea9">ukvarjati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_b87c02fcff2e4518aaef5d7eb7cbd945">navijaštvom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za navijaštvo" cluster="1" frequency="5" logDice="-1.28">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_b87c02fcff2e4518aaef5d7eb7cbd945">navijaštvo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="organizirano navijaštvo" cluster="1" frequency="8" logDice="2.39">
+              <comp position="1" type="collocate" sloleks="LE_68b134880363d887c74e9a88edb4c332">organizirano</comp>
+              <comp position="2" type="headword" sloleks="LE_b87c02fcff2e4518aaef5d7eb7cbd945">navijaštvo</comp>
+            </collocation>
+            <collocation form="nogometno navijaštvo" cluster="2" frequency="15" logDice="1.57">
+              <comp position="1" type="collocate" sloleks="LE_0362f75fc2a5319c05070b9999fd945f">nogometno</comp>
+              <comp position="2" type="headword" sloleks="LE_b87c02fcff2e4518aaef5d7eb7cbd945">navijaštvo</comp>
+            </collocation>
+            <collocation form="politično navijaštvo" cluster="3" frequency="27" logDice="1.15">
+              <comp position="1" type="collocate" sloleks="LE_a3bb12165721c242382f7e67d68cd13a">politično</comp>
+              <comp position="2" type="headword" sloleks="LE_b87c02fcff2e4518aaef5d7eb7cbd945">navijaštvo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

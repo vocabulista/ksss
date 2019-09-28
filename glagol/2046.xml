@@ -1,0 +1,78 @@
+<entry>
+  <header>
+    <lexical_unit id="2046">kisati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">770</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ od sbz2">
+          <collocations>
+            <collocation form="kisati od vročine" cluster="1" frequency="8" logDice="9.37">
+              <comp position="1" type="headword" sloleks="LE_f7a65c54a1112e07e02959d2b2472f69">kisati</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_8164e8be2e95d84dbcb523e041f0371b">vročine</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="kisati naravno" cluster="1" frequency="7" logDice="5.57">
+              <comp position="1" type="headword" sloleks="LE_f7a65c54a1112e07e02959d2b2472f69">kisati</comp>
+              <comp position="2" type="collocate" sloleks="LE_c9eff7d0f6e230eec548a225bf06f9e6">naravno</comp>
+            </collocation>
+            <collocation form="kisati kasno" cluster="2" frequency="35" logDice="4.55">
+              <comp position="1" type="headword" sloleks="LE_f7a65c54a1112e07e02959d2b2472f69">kisati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6e7e2f90ec6d83d93e91cac7243e475d">kasno</comp>
+            </collocation>
+            <collocation form="kisati podobno" cluster="3" frequency="5" logDice="2.67">
+              <comp position="1" type="headword" sloleks="LE_f7a65c54a1112e07e02959d2b2472f69">kisati</comp>
+              <comp position="2" type="collocate" sloleks="LE_f28b71c99df1dd5a98452ee8d66968b5">podobno</comp>
+            </collocation>
+            <collocation form="kisati pozno" cluster="4" frequency="7" logDice="2.17">
+              <comp position="1" type="headword" sloleks="LE_f7a65c54a1112e07e02959d2b2472f69">kisati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6a03f5f7a628324b4df5029b57463629">pozno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="kisati repo" cluster="1" frequency="22" logDice="10.02">
+              <comp position="1" type="headword" sloleks="LE_f7a65c54a1112e07e02959d2b2472f69">kisati</comp>
+              <comp position="2" type="collocate" sloleks="LE_d8679808ea4e3f2650e26fcc60efeaeb">repo</comp>
+            </collocation>
+            <collocation form="kisati zelje" cluster="2" frequency="49" logDice="9.82">
+              <comp position="1" type="headword" sloleks="LE_f7a65c54a1112e07e02959d2b2472f69">kisati</comp>
+              <comp position="2" type="collocate" sloleks="LE_55bf0299425771cf6b6d8caad66c3016">zelje</comp>
+            </collocation>
+            <collocation form="kisati mleko" cluster="3" frequency="17" logDice="5.83">
+              <comp position="1" type="headword" sloleks="LE_f7a65c54a1112e07e02959d2b2472f69">kisati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6a2577a60d20ec9dbe386e7b751d266d">mleko</comp>
+            </collocation>
+            <collocation form="kisati možgane" cluster="4" frequency="8" logDice="5.31">
+              <comp position="1" type="headword" sloleks="LE_f7a65c54a1112e07e02959d2b2472f69">kisati</comp>
+              <comp position="2" type="collocate" sloleks="LE_37d8262ec9cac9e9da480d5d96d1d5f0">možgane</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="naravno kisati" cluster="1" frequency="13" logDice="7.37">
+              <comp position="1" type="collocate" sloleks="LE_c9eff7d0f6e230eec548a225bf06f9e6">naravno</comp>
+              <comp position="2" type="headword" sloleks="LE_f7a65c54a1112e07e02959d2b2472f69">kisati</comp>
+            </collocation>
+            <collocation form="doma kisati" cluster="2" frequency="6" logDice="1.84">
+              <comp position="1" type="collocate" sloleks="LE_e763d76187601d485fd9a1af70a03a8c">doma</comp>
+              <comp position="2" type="headword" sloleks="LE_f7a65c54a1112e07e02959d2b2472f69">kisati</comp>
+            </collocation>
+            <collocation form="počasi kisati" cluster="3" frequency="5" logDice="0.92">
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              <comp position="2" type="headword" sloleks="LE_f7a65c54a1112e07e02959d2b2472f69">kisati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

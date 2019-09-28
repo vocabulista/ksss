@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="74502">odpiralo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">707</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="odpiralo za pismo" cluster="1" frequency="6" logDice="7.89">
+              <comp position="1" type="headword" sloleks="LE_0a69264ea15e5bb7f2ccf5206fd8de8d">odpiralo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_bc3ef9b863fbcf5d9ecc2351db390439">pismo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="vrata odpirala" cluster="1" frequency="10" logDice="3.21">
+              <comp position="1" type="collocate" sloleks="LE_5b997c4e88dd626d1f19eb6721f9f994">vrata</comp>
+              <comp position="2" type="headword" sloleks="LE_0a69264ea15e5bb7f2ccf5206fd8de8d">odpirala</comp>
+            </collocation>
+            <collocation form="odpiralo vratu" cluster="2" frequency="10" logDice="5.6">
+              <comp position="1" type="headword" sloleks="LE_0a69264ea15e5bb7f2ccf5206fd8de8d">odpiralo</comp>
+              <comp position="2" type="collocate" sloleks="LE_c0bdcc7d80f60bde8acc9a489aa280cb">vratu</comp>
+            </collocation>
+            <collocation form="odpiralo možnosti" cluster="3" frequency="17" logDice="4.01">
+              <comp position="1" type="headword" sloleks="LE_0a69264ea15e5bb7f2ccf5206fd8de8d">odpiralo</comp>
+              <comp position="2" type="collocate" sloleks="LE_2e00efc106e45a8fd5ad17e06d9e6382">možnosti</comp>
+            </collocation>
+            <collocation form="odpiralo vprašanja" cluster="3" frequency="14" logDice="3.58">
+              <comp position="1" type="headword" sloleks="LE_0a69264ea15e5bb7f2ccf5206fd8de8d">odpiralo</comp>
+              <comp position="2" type="collocate" sloleks="LE_18ddad642f4f2459ae6eda5f8fcda990">vprašanja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

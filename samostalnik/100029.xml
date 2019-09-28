@@ -1,0 +1,52 @@
+<entry>
+  <header>
+    <lexical_unit id="100029">zos</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">665</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz iz SBZ2">
+          <collocations>
+            <collocation form="izvleči iz zosa" cluster="1" frequency="4" logDice="4.68">
+              <comp position="1" type="collocate" sloleks="LE_252ef2b3ed535bc1ebaa6f22857c82a4">izvleči</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_01b198d499713331e736ed3f9c2e0f3a">zosa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="pasti v zos" cluster="1" frequency="4" logDice="2.41">
+              <comp position="1" type="collocate" sloleks="LE_9c5333dc145d219ffad1bd55c6515869|LE_65b3289c37b74101215c75d41cc90182">pasti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_01b198d499713331e736ed3f9c2e0f3a">zos</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="kuhati v zosu" cluster="1" frequency="4" logDice="4.84">
+              <comp position="1" type="collocate" sloleks="LE_10c407c3c46e55866d339275844ed14c">kuhati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_01b198d499713331e736ed3f9c2e0f3a">zosu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="krompirjev zos" cluster="1" frequency="8" logDice="4.96">
+              <comp position="1" type="collocate" sloleks="LE_07cefa92b4d6a3888dea16efa258b570">krompirjev</comp>
+              <comp position="2" type="headword" sloleks="LE_01b198d499713331e736ed3f9c2e0f3a">zos</comp>
+            </collocation>
+            <collocation form="podoben zos" cluster="2" frequency="12" logDice="0.62">
+              <comp position="1" type="collocate" sloleks="LE_fe27dd90ab33535f358577dc2b8afbcb">podoben</comp>
+              <comp position="2" type="headword" sloleks="LE_01b198d499713331e736ed3f9c2e0f3a">zos</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

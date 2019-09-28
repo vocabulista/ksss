@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="47688">apologija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">417</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="apologija retributivizem" cluster="1" frequency="8" logDice="9.94">
+              <comp position="1" type="headword" sloleks="LE_22712b218623c240448367f024f69fdd">apologija</comp>
+              <comp position="2" type="collocate" sloleks="">retributivizem</comp>
+            </collocation>
+            <collocation form="apologija fašizma" cluster="2" frequency="12" logDice="6.89">
+              <comp position="1" type="headword" sloleks="LE_22712b218623c240448367f024f69fdd">apologija</comp>
+              <comp position="2" type="collocate" sloleks="LE_93dbdaada51df16e34660a59f9446831">fašizma</comp>
+            </collocation>
+            <collocation form="apologija zgodovine" cluster="3" frequency="25" logDice="4.2">
+              <comp position="1" type="headword" sloleks="LE_22712b218623c240448367f024f69fdd">apologija</comp>
+              <comp position="2" type="collocate" sloleks="LE_b2dc0e37e23a16ae3fe7cfe473a5341b">zgodovine</comp>
+            </collocation>
+            <collocation form="apologija nasilja" cluster="4" frequency="9" logDice="3.37">
+              <comp position="1" type="headword" sloleks="LE_22712b218623c240448367f024f69fdd">apologija</comp>
+              <comp position="2" type="collocate" sloleks="LE_27b212dc14ebed78971b6a76ad7a5f41">nasilja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Platonova apologija" cluster="1" frequency="13" logDice="8.58">
+              <comp position="1" type="collocate" sloleks="LE_dd23ed6293090c2470f460e9f2155e05">Platonova</comp>
+              <comp position="2" type="headword" sloleks="LE_22712b218623c240448367f024f69fdd">apologija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

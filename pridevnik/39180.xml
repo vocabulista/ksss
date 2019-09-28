@@ -1,0 +1,68 @@
+<entry>
+  <header>
+    <lexical_unit id="39180">živilskopredelovalen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">2127</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="živilskopredelovalen in pohištven" cluster="1" frequency="5" logDice="8.65">
+              <comp position="1" type="headword" sloleks="LE_b034dccb70b4d3b26eaf446144452794">živilskopredelovalen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_c68770a956030d9c380d4fb462524fc0">pohištven</comp>
+            </collocation>
+            <collocation form="živilskopredelovalen in/ali kmetijski" cluster="2" frequency="27" logDice="6.77">
+              <comp position="3" type="headword" sloleks="LE_b034dccb70b4d3b26eaf446144452794">živilskopredelovalen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_763dcd34436bac42b772b041ec727bb9">kmetijski</comp>
+              </collocation>
+            <collocation form="živilskopredelovalen in/ali tekstilen" cluster="3" frequency="6" logDice="6.4">
+              <comp position="3" type="headword" sloleks="LE_b034dccb70b4d3b26eaf446144452794">živilskopredelovalen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_199ea79796098f3e2c86f06f9dba774d">tekstilen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="živilskopredelovalna industrija" cluster="1" frequency="1659" logDice="8.96">
+              <comp position="1" type="headword" sloleks="LE_b034dccb70b4d3b26eaf446144452794">živilskopredelovalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_813c93f7f0475b7a4bff75c51d2199e8">industrija</comp>
+            </collocation>
+            <collocation form="živilskopredelovalna dejavnost" cluster="1" frequency="47" logDice="2.44">
+              <comp position="1" type="headword" sloleks="LE_b034dccb70b4d3b26eaf446144452794">živilskopredelovalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_7fd9651ddee6b84cd9c853211be163f8">dejavnost</comp>
+            </collocation>
+            <collocation form="živilskopredelovalna branža" cluster="2" frequency="7" logDice="6.07">
+              <comp position="1" type="headword" sloleks="LE_b034dccb70b4d3b26eaf446144452794">živilskopredelovalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_52dcbaa4474414c94d9d70728b3ec22f">branža</comp>
+            </collocation>
+            <collocation form="živilskopredelovalna panoga" cluster="3" frequency="56" logDice="5.89">
+              <comp position="1" type="headword" sloleks="LE_b034dccb70b4d3b26eaf446144452794">živilskopredelovalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_5dd5d87c49a0de2c33e09014c426d8fd">panoga</comp>
+            </collocation>
+            <collocation form="živilskopredelovalen obrat" cluster="4" frequency="46" logDice="5.65">
+              <comp position="1" type="headword" sloleks="LE_b034dccb70b4d3b26eaf446144452794">živilskopredelovalen</comp>
+              <comp position="2" type="collocate" sloleks="LE_1d1328b147257eb6fe15ebed41be981d">obrat</comp>
+            </collocation>
+            <collocation form="živilskopredelovalno podjetje" cluster="5" frequency="209" logDice="4.02">
+              <comp position="1" type="headword" sloleks="LE_b034dccb70b4d3b26eaf446144452794">živilskopredelovalno</comp>
+              <comp position="2" type="collocate" sloleks="LE_1aed870e4b1c077c155d34b01ab0af57">podjetje</comp>
+            </collocation>
+            <collocation form="živilskopredelovalna veriga" cluster="6" frequency="11" logDice="3.52">
+              <comp position="1" type="headword" sloleks="LE_b034dccb70b4d3b26eaf446144452794">živilskopredelovalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_347d5b5ac772b9f1f32024b5bd186f23">veriga</comp>
+            </collocation>
+            <collocation form="živilskopredelovalen sektor" cluster="7" frequency="14" logDice="2.52">
+              <comp position="1" type="headword" sloleks="LE_b034dccb70b4d3b26eaf446144452794">živilskopredelovalen</comp>
+              <comp position="2" type="collocate" sloleks="LE_d7113705997fb9a704cd3450fc76cb87">sektor</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

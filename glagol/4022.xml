@@ -1,0 +1,77 @@
+<entry>
+  <header>
+    <lexical_unit id="4022">okameneti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">793</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ od sbz2">
+          <collocations>
+            <collocation form="okameneti od groze" cluster="1" frequency="9" logDice="8.45">
+              <comp position="1" type="headword" sloleks="LE_24f474e2dec734b3197680f9b94a3995">okameneti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_992b4c7702cc22e5ae93d2f362e1aa3a">groze</comp>
+            </collocation>
+            <collocation form="okameneti od presenečenja" cluster="2" frequency="5" logDice="7.73">
+              <comp position="1" type="headword" sloleks="LE_24f474e2dec734b3197680f9b94a3995">okameneti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_c7d3ed97171c309517850a1257653d47">presenečenja</comp>
+            </collocation>
+            <collocation form="okameneti od strahu" cluster="3" frequency="10" logDice="7.48">
+              <comp position="1" type="headword" sloleks="LE_24f474e2dec734b3197680f9b94a3995">okameneti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_ec7941261a5b1a40fb742699e58175ca">strahu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="okameneti gozd" cluster="1" frequency="5" logDice="5.07">
+              <comp position="1" type="headword" sloleks="LE_24f474e2dec734b3197680f9b94a3995">okameneti</comp>
+              <comp position="2" type="collocate" sloleks="LE_0ca25687c86a1ca7b486899aeae45de7">gozd</comp>
+            </collocation>
+            <collocation form="okameneti sled" cluster="2" frequency="4" logDice="4.06">
+              <comp position="1" type="headword" sloleks="LE_24f474e2dec734b3197680f9b94a3995">okameneti</comp>
+              <comp position="2" type="collocate" sloleks="LE_dd625ad43e9cf5421631fc70650263c6|LE_291e304cb7e9db1dd763515469187d38">sled</comp>
+            </collocation>
+            <collocation form="okameneti ostanek" cluster="3" frequency="4" logDice="3.91">
+              <comp position="1" type="headword" sloleks="LE_24f474e2dec734b3197680f9b94a3995">okameneti</comp>
+              <comp position="2" type="collocate" sloleks="LE_1e8f1a48f0110a2a2ede2cf44f8963e5">ostanek</comp>
+            </collocation>
+            <collocation form="okameneti srce" cluster="4" frequency="4" logDice="3.23">
+              <comp position="1" type="headword" sloleks="LE_24f474e2dec734b3197680f9b94a3995">okameneti</comp>
+              <comp position="2" type="collocate" sloleks="LE_d24995e836bb300ecd1d5cd3d7e5f543">srce</comp>
+            </collocation>
+            <collocation form="okameneti obraz" cluster="5" frequency="4" logDice="2.79">
+              <comp position="1" type="headword" sloleks="LE_24f474e2dec734b3197680f9b94a3995">okameneti</comp>
+              <comp position="2" type="collocate" sloleks="LE_ace2f15ed5cc3848b7740939ded1abe9">obraz</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="okameneti v trenutku" cluster="1" frequency="5" logDice="0.91">
+              <comp position="1" type="headword" sloleks="LE_24f474e2dec734b3197680f9b94a3995">okameneti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_20e42f7c3b00f5a4a38e89957060a1f2">trenutku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="čisto okameneti" cluster="1" frequency="4" logDice="3.45">
+              <comp position="1" type="collocate" sloleks="LE_94a91e83047bf2e90acf82e14cbb99c9">čisto</comp>
+              <comp position="2" type="headword" sloleks="LE_24f474e2dec734b3197680f9b94a3995">okameneti</comp>
+            </collocation>
+            <collocation form="popolnoma okameneti" cluster="2" frequency="7" logDice="1.84">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_24f474e2dec734b3197680f9b94a3995">okameneti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

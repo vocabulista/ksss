@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="84694">rakitovec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">596</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="plod rakitovca" cluster="1" frequency="11" logDice="4.6">
+              <comp position="1" type="collocate" sloleks="LE_5f1613124a6ae5aee1b7334685a0a2cc">plod</comp>
+              <comp position="2" type="headword" sloleks="LE_701593161a5e6576b5823e04248c2ec4">rakitovca</comp>
+            </collocation>
+            <collocation form="jagoda rakitovca" cluster="1" frequency="9" logDice="8.76">
+              <comp position="1" type="collocate" sloleks="LE_78e809b7b2579e20d34f82a18c961809">jagoda</comp>
+              <comp position="2" type="headword" sloleks="LE_701593161a5e6576b5823e04248c2ec4">rakitovca</comp>
+            </collocation>
+            <collocation form="olje rakitovca" cluster="2" frequency="11" logDice="5.94">
+              <comp position="1" type="collocate" sloleks="LE_edbc216a092bf1781eab880a62d9f53d">olje</comp>
+              <comp position="2" type="headword" sloleks="LE_701593161a5e6576b5823e04248c2ec4">rakitovca</comp>
+            </collocation>
+            <collocation form="sok rakitovca" cluster="2" frequency="10" logDice="5.7">
+              <comp position="1" type="collocate" sloleks="LE_ef25abea46c202690e8d7b5180f341b1">sok</comp>
+              <comp position="2" type="headword" sloleks="LE_701593161a5e6576b5823e04248c2ec4">rakitovca</comp>
+            </collocation>
+            <collocation form="razvoj Rakitovca" cluster="3" frequency="17" logDice="1.37">
+              <comp position="1" type="collocate" sloleks="LE_59210d6d596fdb364ef1653bd49f3a75">razvoj</comp>
+              <comp position="2" type="headword" sloleks="LE_701593161a5e6576b5823e04248c2ec4">Rakitovca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="sok iz rakitovca" cluster="1" frequency="6" logDice="6.8">
+              <comp position="1" type="collocate" sloleks="LE_ef25abea46c202690e8d7b5180f341b1">sok</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_701593161a5e6576b5823e04248c2ec4">rakitovca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 nad SBZ6">
+          <collocations>
+            <collocation form="travnik nad Rakitovcem" cluster="1" frequency="10" logDice="11.28">
+              <comp position="1" type="collocate" sloleks="LE_d65f56774e87f29c95022836e6ffeb30">travnik</comp>
+              <comp position="2" type="other" sloleks="LE_d1a9059d44a24194d17af34039c48e9a">nad</comp>
+              <comp position="3" type="headword" sloleks="LE_701593161a5e6576b5823e04248c2ec4">Rakitovcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

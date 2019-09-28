@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="95343">utopljenec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">796</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="utopljenec iz reke" cluster="1" frequency="5" logDice="7.09">
+              <comp position="1" type="headword" sloleks="LE_6f2c8bc93bb92c7a765210577c9db6be">utopljenec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_6662cfa7fb9c1345baab0f694d5a3590">reke</comp>
+            </collocation>
+            <collocation form="utopljenec iz vode" cluster="2" frequency="7" logDice="6.02">
+              <comp position="1" type="headword" sloleks="LE_6f2c8bc93bb92c7a765210577c9db6be">utopljenec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_0d8cbba4e56fea63657ac746d29cd047">vode</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nesrečen utopljenec" cluster="1" frequency="8" logDice="3.29">
+              <comp position="1" type="collocate" sloleks="LE_e4097f614fb2377028fd50a14c3666a3">nesrečen</comp>
+              <comp position="2" type="headword" sloleks="LE_6f2c8bc93bb92c7a765210577c9db6be">utopljenec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="truplo utopljenca" cluster="1" frequency="28" logDice="7.21">
+              <comp position="1" type="collocate" sloleks="LE_a5d72d089797a1ff99a8658b1b43382f">truplo</comp>
+              <comp position="2" type="headword" sloleks="LE_6f2c8bc93bb92c7a765210577c9db6be">utopljenca</comp>
+            </collocation>
+            <collocation form="oživljanje utopljenca" cluster="2" frequency="14" logDice="6.39">
+              <comp position="1" type="collocate" sloleks="LE_a0c897fe9dc4c1ef69271a9303e043c9">oživljanje</comp>
+              <comp position="2" type="headword" sloleks="LE_6f2c8bc93bb92c7a765210577c9db6be">utopljenca</comp>
+            </collocation>
+            <collocation form="identiteta utopljenca" cluster="3" frequency="6" logDice="4.61">
+              <comp position="1" type="collocate" sloleks="LE_83c316a31cc0abbd58228a73a4210288">identiteta</comp>
+              <comp position="2" type="headword" sloleks="LE_6f2c8bc93bb92c7a765210577c9db6be">utopljenca</comp>
+            </collocation>
+            <collocation form="reševanje utopljenca" cluster="4" frequency="42" logDice="4.36">
+              <comp position="1" type="collocate" sloleks="LE_1ca3bfba8a0ee2bbb56ac27d1c53d46e">reševanje</comp>
+              <comp position="2" type="headword" sloleks="LE_6f2c8bc93bb92c7a765210577c9db6be">utopljenca</comp>
+            </collocation>
+            <collocation form="iskanje utopljenca" cluster="4" frequency="28" logDice="3.56">
+              <comp position="1" type="collocate" sloleks="LE_103c9dad021852fefa50fd064bb29039">iskanje</comp>
+              <comp position="2" type="headword" sloleks="LE_6f2c8bc93bb92c7a765210577c9db6be">utopljenca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

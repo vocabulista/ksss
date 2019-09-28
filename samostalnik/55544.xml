@@ -1,0 +1,44 @@
+<entry>
+  <header>
+    <lexical_unit id="55544">endokrinologija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">431</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="ginekološka endokrinologija" cluster="1" frequency="21" logDice="6.85">
+              <comp position="1" type="collocate" sloleks="LE_5cb17c7e1e97b5c065ba06e15d51c829">ginekološka</comp>
+              <comp position="2" type="headword" sloleks="LE_c2e1715f910d2600d0fa21abd94539ae">endokrinologija</comp>
+            </collocation>
+            <collocation form="pediatrična endokrinologija" cluster="2" frequency="9" logDice="5.02">
+              <comp position="1" type="collocate" sloleks="LE_0743774155eb4b7432ca3419db24f892">pediatrična</comp>
+              <comp position="2" type="headword" sloleks="LE_c2e1715f910d2600d0fa21abd94539ae">endokrinologija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="klinika za endokrinologijo" cluster="1" frequency="49" logDice="9.06">
+              <comp position="1" type="collocate" sloleks="LE_6ae44ed0107a5523589c2c9d7764ab21">klinika</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_c2e1715f910d2600d0fa21abd94539ae">endokrinologijo</comp>
+            </collocation>
+            <collocation form="oddelek za endokrinologijo" cluster="2" frequency="207" logDice="7.08">
+              <comp position="1" type="collocate" sloleks="LE_f73286dd6f89a4307b05a1a8ffe3e326">oddelek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_c2e1715f910d2600d0fa21abd94539ae">endokrinologijo</comp>
+            </collocation>
+            <collocation form="Ambulanta za endokrinologijo" cluster="3" frequency="5" logDice="5.69">
+              <comp position="1" type="collocate" sloleks="LE_c4801ace8b69aa439144de43a047919a">Ambulanta</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_c2e1715f910d2600d0fa21abd94539ae">endokrinologijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

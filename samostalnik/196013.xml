@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="196013">bank</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="bank iz Celovca" cluster="1" frequency="21" logDice="8.48">
+              <comp position="1" type="headword" sloleks="">bank</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_cd5aadbc11b2db5455f0d0bedbd2aeef">Celovca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 pod sbz6">
+          <collocations>
+            <collocation form="bank pod vodstvom" cluster="1" frequency="10" logDice="3.37">
+              <comp position="1" type="headword" sloleks="">bank</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="collocate" sloleks="LE_cfbf3b6eda6e115103a1a0b3fa68f541">vodstvom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="bank upnice" cluster="1" frequency="27" logDice="9.27">
+              <comp position="1" type="headword" sloleks="">bank</comp>
+              <comp position="2" type="collocate" sloleks="LE_c89d72fecf4a29836b297a525a665e5c">upnice</comp>
+            </collocation>
+            <collocation form="bank Slovenije" cluster="2" frequency="67" logDice="2.06">
+              <comp position="1" type="headword" sloleks="">bank</comp>
+              <comp position="2" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Slovenije</comp>
+            </collocation>
+            <collocation form="bank skupine" cluster="2" frequency="10" logDice="0.61">
+              <comp position="1" type="headword" sloleks="">bank</comp>
+              <comp position="2" type="collocate" sloleks="LE_7a31c94cb05484f8e60e8fbc4dad6a50">skupine</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nakupen Bank" cluster="1" frequency="23" logDice="6.87">
+              <comp position="1" type="collocate" sloleks="LE_a69daa24c1bc7540ecd15d5aadd213c7">nakupen</comp>
+              <comp position="2" type="headword" sloleks="">Bank</comp>
+            </collocation>
+            <collocation form="avstrijski Bank" cluster="2" frequency="11" logDice="1.51">
+              <comp position="1" type="collocate" sloleks="LE_2044cc24b18befa1709518ef073627ec">avstrijski</comp>
+              <comp position="2" type="headword" sloleks="">Bank</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

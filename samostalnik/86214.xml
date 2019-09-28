@@ -1,0 +1,83 @@
+<entry>
+  <header>
+    <lexical_unit id="86214">rezbarija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">607</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="rezbarija iz slonovine" cluster="1" frequency="4" logDice="9.56">
+              <comp position="1" type="headword" sloleks="LE_026024fb91b738c09b01663f197d27cf">rezbarija</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_182b42ab57ab3d151e54ca973a8bd37f">slonovine</comp>
+            </collocation>
+            <collocation form="rezbarija iz lesa" cluster="2" frequency="10" logDice="6.23">
+              <comp position="1" type="headword" sloleks="LE_026024fb91b738c09b01663f197d27cf">rezbarija</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_a64d3c025e48884a3606fcff72b3d118">lesa</comp>
+            </collocation>
+            <collocation form="rezbarija iz stoletja" cluster="3" frequency="5" logDice="3.95">
+              <comp position="1" type="headword" sloleks="LE_026024fb91b738c09b01663f197d27cf">rezbarija</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_20c284f688e5a2f02453c420d0dcfc56">stoletja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pozlačena rezbarija" cluster="1" frequency="11" logDice="7.1">
+              <comp position="1" type="collocate" sloleks="LE_311966f11770de141294ec4cae1bd890">pozlačena</comp>
+              <comp position="2" type="headword" sloleks="LE_026024fb91b738c09b01663f197d27cf">rezbarija</comp>
+            </collocation>
+            <collocation form="lesena rezbarija" cluster="2" frequency="48" logDice="4.5">
+              <comp position="1" type="collocate" sloleks="LE_39fa6eac8b3aca677a672c92e27a594c|LE_6be16eebd901c9f88de46c0031bec9fd">lesena</comp>
+              <comp position="2" type="headword" sloleks="LE_026024fb91b738c09b01663f197d27cf">rezbarija</comp>
+            </collocation>
+            <collocation form="čudovita rezbarija" cluster="3" frequency="22" logDice="3.63">
+              <comp position="1" type="collocate" sloleks="LE_f112fda5730820839dd9b5fd4dd0b681">čudovita</comp>
+              <comp position="2" type="headword" sloleks="LE_026024fb91b738c09b01663f197d27cf">rezbarija</comp>
+            </collocation>
+            <collocation form="bogata rezbarija" cluster="3" frequency="15" logDice="1.98">
+              <comp position="1" type="collocate" sloleks="LE_dced9b89c62a9351467866138eb9d57d">bogata</comp>
+              <comp position="2" type="headword" sloleks="LE_026024fb91b738c09b01663f197d27cf">rezbarija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 z SBZ6">
+          <collocations>
+            <collocation form="okrašen z rezbarijo" cluster="1" frequency="24" logDice="7.1">
+              <comp position="1" type="collocate" sloleks="LE_5b2fa0dbaed38c83e234208e65e5c3b6">okrašen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_026024fb91b738c09b01663f197d27cf">rezbarijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="razstava rezbarije" cluster="1" frequency="24" logDice="3.52">
+              <comp position="1" type="collocate" sloleks="LE_5360488843496d51e5802aa5c14a1d93">razstava</comp>
+              <comp position="2" type="headword" sloleks="LE_026024fb91b738c09b01663f197d27cf">rezbarije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="slog z rezbarijo" cluster="1" frequency="4" logDice="7.51">
+              <comp position="1" type="collocate" sloleks="LE_65244e80aea10cbd65a5e9b0824c3fdb">slog</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_026024fb91b738c09b01663f197d27cf">rezbarijo</comp>
+            </collocation>
+            <collocation form="rezbarija z motivom" cluster="2" frequency="6" logDice="5.36">
+              <comp position="1" type="headword" sloleks="LE_026024fb91b738c09b01663f197d27cf">rezbarija</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_b056e9d351398d2c53f0e7e700d09639">motivom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,68 @@
+<entry>
+  <header>
+    <lexical_unit id="69567">mikser</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">519</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="mikser za beton" cluster="1" frequency="4" logDice="7.88">
+              <comp position="1" type="headword" sloleks="LE_ee20ca14a756e3417e1d02f4884c4654">mikser</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_741c2eb9ff263a4bad99c73faf95bfcf">beton</comp>
+            </collocation>
+            <collocation form="mikser za krmo" cluster="2" frequency="5" logDice="7.31">
+              <comp position="1" type="headword" sloleks="LE_ee20ca14a756e3417e1d02f4884c4654">mikser</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b291592b892d5108296d33726c3140fd">krmo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="stresti v mikser" cluster="1" frequency="4" logDice="4.93">
+              <comp position="1" type="collocate" sloleks="LE_be0279fa476b19b5e69724e2d47f6fd8">stresti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_ee20ca14a756e3417e1d02f4884c4654">mikser</comp>
+            </collocation>
+            <collocation form="vreči v mikser" cluster="2" frequency="5" logDice="3.85">
+              <comp position="1" type="collocate" sloleks="LE_956396f0e22de7b8d0b03eab61d2f9f8">vreči</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_ee20ca14a756e3417e1d02f4884c4654">mikser</comp>
+            </collocation>
+            <collocation form="dati v mikser" cluster="3" frequency="7" logDice="2.99">
+              <comp position="1" type="collocate" sloleks="LE_251860b7395e9bef61ae04eb36d0639d">dati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_ee20ca14a756e3417e1d02f4884c4654">mikser</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="zmiksati v mikserju" cluster="1" frequency="8" logDice="10.68">
+              <comp position="1" type="collocate" sloleks="LE_8872ada5f4a13693c6cd9dd61230630d">zmiksati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_ee20ca14a756e3417e1d02f4884c4654">mikserju</comp>
+            </collocation>
+            <collocation form="zmešati v mikserju" cluster="2" frequency="11" logDice="7.01">
+              <comp position="1" type="collocate" sloleks="LE_9bf20da65a03f0772af951bb28f55f1c">zmešati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_ee20ca14a756e3417e1d02f4884c4654">mikserju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="električen mikser" cluster="1" frequency="8" logDice="1.36">
+              <comp position="1" type="collocate" sloleks="LE_e7a50161b6080fce9d60170cb645e7e7">električen</comp>
+              <comp position="2" type="headword" sloleks="LE_ee20ca14a756e3417e1d02f4884c4654">mikser</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

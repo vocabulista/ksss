@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="72540">nepoznavalec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1487</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="nepoznavalec na pogled" cluster="1" frequency="8" logDice="5.67">
+              <comp position="1" type="headword" sloleks="LE_df25155a87b6bfacfec9faf9615bfaad">nepoznavalec</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_456820bc1f399479d902f190585f0938">pogled</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="nepoznavalec razmere" cluster="1" frequency="56" logDice="5.76">
+              <comp position="1" type="headword" sloleks="LE_df25155a87b6bfacfec9faf9615bfaad">nepoznavalec</comp>
+              <comp position="2" type="collocate" sloleks="LE_f9cdd3c7dab1cb0cac2577ae8e353759">razmere</comp>
+            </collocation>
+            <collocation form="nepoznavalec nogometa" cluster="2" frequency="21" logDice="4.89">
+              <comp position="1" type="headword" sloleks="LE_df25155a87b6bfacfec9faf9615bfaad">nepoznavalec</comp>
+              <comp position="2" type="collocate" sloleks="LE_4fa8e92fec914da1dfe29f566aa2740a">nogometa</comp>
+            </collocation>
+            <collocation form="nepoznavalec športa" cluster="2" frequency="12" logDice="3.54">
+              <comp position="1" type="headword" sloleks="LE_df25155a87b6bfacfec9faf9615bfaad">nepoznavalec</comp>
+              <comp position="2" type="collocate" sloleks="LE_8490fcf556ce00e69e0683eec100058e">športa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ3">
+          <collocations>
+            <collocation form="zdeti nepoznavalcu" cluster="1" frequency="11" logDice="5.64">
+              <comp position="1" type="collocate" sloleks="LE_7f35b54253bbb222407f43c155f77cdb">zdeti</comp>
+              <comp position="2" type="headword" sloleks="LE_df25155a87b6bfacfec9faf9615bfaad">nepoznavalcu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="popoln nepoznavalec" cluster="1" frequency="43" logDice="3.51">
+              <comp position="1" type="collocate" sloleks="LE_814a2c9c333ef1e9cb481395c05b7346">popoln</comp>
+              <comp position="2" type="headword" sloleks="LE_df25155a87b6bfacfec9faf9615bfaad">nepoznavalec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

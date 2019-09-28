@@ -1,0 +1,29 @@
+<entry>
+  <header>
+    <lexical_unit id="93809">trabant</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">617</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="vzhodnonemški trabant" cluster="1" frequency="10" logDice="6.9">
+              <comp position="1" type="collocate" sloleks="LE_782fb45307e843cfdcff89eabb3197ab">vzhodnonemški</comp>
+              <comp position="2" type="headword" sloleks="LE_35e37db77d317093aa5efae5c101b21e">trabant</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="voznik trabanta" cluster="1" frequency="10" logDice="2.91">
+              <comp position="1" type="collocate" sloleks="LE_4b861123b30bbee1260eeaec5a436720">voznik</comp>
+              <comp position="2" type="headword" sloleks="LE_35e37db77d317093aa5efae5c101b21e">trabanta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="1225">gospodinjiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">961</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="gospodinjiti na domačiji" cluster="1" frequency="4" logDice="5.76">
+              <comp position="1" type="headword" sloleks="LE_87c89443ab2a002b632f8e28124f7536">gospodinjiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_c542985c6c384275dac319612df8583f">domačiji</comp>
+            </collocation>
+            <collocation form="gospodinjiti na kmetiji" cluster="2" frequency="8" logDice="4.45">
+              <comp position="1" type="headword" sloleks="LE_87c89443ab2a002b632f8e28124f7536">gospodinjiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_4b6dc4ee113f77788107a47c03291f40">kmetiji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="gospodinjiti v domu" cluster="1" frequency="4" logDice="1.83">
+              <comp position="1" type="headword" sloleks="LE_87c89443ab2a002b632f8e28124f7536">gospodinjiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">domu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="doma gospodinjiti" cluster="1" frequency="62" logDice="5.21">
+              <comp position="1" type="collocate" sloleks="LE_e763d76187601d485fd9a1af70a03a8c">doma</comp>
+              <comp position="2" type="headword" sloleks="LE_87c89443ab2a002b632f8e28124f7536">gospodinjiti</comp>
+            </collocation>
+            <collocation form="pridno gospodinjiti" cluster="2" frequency="11" logDice="4.3">
+              <comp position="1" type="collocate" sloleks="LE_e60ffa94c3ea9a856f174e1bf6d8c809">pridno</comp>
+              <comp position="2" type="headword" sloleks="LE_87c89443ab2a002b632f8e28124f7536">gospodinjiti</comp>
+            </collocation>
+            <collocation form="vseskozi gospodinjiti" cluster="3" frequency="7" logDice="3.73">
+              <comp position="1" type="collocate" sloleks="LE_6fcd2992f4eda74ecfec6ac4aa86b121">vseskozi</comp>
+              <comp position="2" type="headword" sloleks="LE_87c89443ab2a002b632f8e28124f7536">gospodinjiti</comp>
+            </collocation>
+            <collocation form="skrbno gospodinjiti" cluster="4" frequency="8" logDice="3.47">
+              <comp position="1" type="collocate" sloleks="LE_c0b34e86b2dfa27e4a7577a1da56226b">skrbno</comp>
+              <comp position="2" type="headword" sloleks="LE_87c89443ab2a002b632f8e28124f7536">gospodinjiti</comp>
+            </collocation>
+            <collocation form="rad gospodinjiti" cluster="5" frequency="10" logDice="0.11">
+              <comp position="1" type="collocate" sloleks="LE_0a2bb08c60a0cb7fd95c85fd75f2bfca">rad</comp>
+              <comp position="2" type="headword" sloleks="LE_87c89443ab2a002b632f8e28124f7536">gospodinjiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

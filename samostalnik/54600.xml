@@ -1,0 +1,69 @@
+<entry>
+  <header>
+    <lexical_unit id="54600">držaj</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">670</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="držaj revolverja" cluster="1" frequency="9" logDice="9.46">
+              <comp position="1" type="headword" sloleks="LE_70f7ee4722889993d3f958dc606060f3">držaj</comp>
+              <comp position="2" type="collocate" sloleks="LE_7c6c90a94684153f3ee11f1c92fd04ca">revolverja</comp>
+            </collocation>
+            <collocation form="držaj metle" cluster="2" frequency="9" logDice="9.01">
+              <comp position="1" type="headword" sloleks="LE_70f7ee4722889993d3f958dc606060f3">držaj</comp>
+              <comp position="2" type="collocate" sloleks="LE_722f35b5fd4ec8870a6a0c304fe2daa1">metle</comp>
+            </collocation>
+            <collocation form="držaj palice" cluster="3" frequency="10" logDice="6.17">
+              <comp position="1" type="headword" sloleks="LE_70f7ee4722889993d3f958dc606060f3">držaj</comp>
+              <comp position="2" type="collocate" sloleks="LE_27073e60a3e26b0b0d0071412cad0c3a">palice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="prijeti za držaj" cluster="1" frequency="9" logDice="4.98">
+              <comp position="1" type="collocate" sloleks="LE_86a017d54c3bacc2dd56709c59290b14">prijeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_70f7ee4722889993d3f958dc606060f3">držaj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="lesen držaj" cluster="1" frequency="28" logDice="3.73">
+              <comp position="1" type="collocate" sloleks="LE_39fa6eac8b3aca677a672c92e27a594c|LE_6be16eebd901c9f88de46c0031bec9fd">lesen</comp>
+              <comp position="2" type="headword" sloleks="LE_70f7ee4722889993d3f958dc606060f3">držaj</comp>
+            </collocation>
+            <collocation form="dolg držaj" cluster="2" frequency="15" logDice="0.57">
+              <comp position="1" type="collocate" sloleks="LE_e4a9ab0324b002b5f34e7335184d3dd1">dolg</comp>
+              <comp position="2" type="headword" sloleks="LE_70f7ee4722889993d3f958dc606060f3">držaj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="bodalo z držajem" cluster="1" frequency="5" logDice="10.57">
+              <comp position="1" type="collocate" sloleks="LE_97251bc79e1b7fec6f560346e1616a55">bodalo</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_70f7ee4722889993d3f958dc606060f3">držajem</comp>
+            </collocation>
+            <collocation form="britvica z držajem" cluster="2" frequency="4" logDice="10.47">
+              <comp position="1" type="collocate" sloleks="LE_42daea5117bdf50a8064d79685455e19">britvica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_70f7ee4722889993d3f958dc606060f3">držajem</comp>
+            </collocation>
+            <collocation form="orožje z držajem" cluster="3" frequency="5" logDice="8.0">
+              <comp position="1" type="collocate" sloleks="LE_470d9247d9b54fd5fe04bf3ddc212a3d">orožje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_70f7ee4722889993d3f958dc606060f3">držajem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

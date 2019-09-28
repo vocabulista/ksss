@@ -1,0 +1,68 @@
+<entry>
+  <header>
+    <lexical_unit id="42000">metodično</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">455</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ gbz">
+          <collocations>
+            <collocation form="metodično prečesati" cluster="1" frequency="4" logDice="7.48">
+              <comp position="1" type="headword" sloleks="LE_ac67837c6a7ce0823c24d3bd48cabfdd">metodično</comp>
+              <comp position="2" type="collocate" sloleks="LE_d48278dd7c332b5c0f757d1f50bd1700">prečesati</comp>
+            </collocation>
+            <collocation form="metodično preiskovati" cluster="2" frequency="6" logDice="6.45">
+              <comp position="1" type="headword" sloleks="LE_ac67837c6a7ce0823c24d3bd48cabfdd">metodično</comp>
+              <comp position="2" type="collocate" sloleks="LE_a46c0d7a5c903b2484096e5075453ea9">preiskovati</comp>
+            </collocation>
+            <collocation form="metodično razkrivati" cluster="3" frequency="5" logDice="5.34">
+              <comp position="1" type="headword" sloleks="LE_ac67837c6a7ce0823c24d3bd48cabfdd">metodično</comp>
+              <comp position="2" type="collocate" sloleks="LE_3efa72102798d4661794d94913a949cd">razkrivati</comp>
+            </collocation>
+            <collocation form="metodično lotiti" cluster="4" frequency="6" logDice="2.87">
+              <comp position="1" type="headword" sloleks="LE_ac67837c6a7ce0823c24d3bd48cabfdd">metodično</comp>
+              <comp position="2" type="collocate" sloleks="LE_7a80508595d7ec5d7741356e7982929b">lotiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ in/ali rbz">
+          <collocations>
+            <collocation form="metodično in didaktično" cluster="1" frequency="8" logDice="11.17">
+              <comp position="1" type="headword" sloleks="LE_ac67837c6a7ce0823c24d3bd48cabfdd">metodično</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_444e92e608422e7a90ae094cb40eb196">didaktično</comp>
+            </collocation>
+            <collocation form="metodično in/ali vsebinsko" cluster="2" frequency="6" logDice="6.62">
+              <comp position="3" type="headword" sloleks="LE_ac67837c6a7ce0823c24d3bd48cabfdd">metodično</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_f699daa3e29aa8076b87a5048653c404">vsebinsko</comp>
+              </collocation>
+            <collocation form="metodično in/ali počasi" cluster="3" frequency="8" logDice="5.53">
+              <comp position="3" type="headword" sloleks="LE_ac67837c6a7ce0823c24d3bd48cabfdd">metodično</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="lotiti metodično" cluster="1" frequency="4" logDice="3.18">
+              <comp position="1" type="collocate" sloleks="LE_7a80508595d7ec5d7741356e7982929b">lotiti</comp>
+              <comp position="2" type="headword" sloleks="LE_ac67837c6a7ce0823c24d3bd48cabfdd">metodično</comp>
+            </collocation>
+            <collocation form="ravnati metodično" cluster="2" frequency="4" logDice="2.58">
+              <comp position="1" type="collocate" sloleks="LE_6bb16a78250b205a0096c7c9292ce6b4">ravnati</comp>
+              <comp position="2" type="headword" sloleks="LE_ac67837c6a7ce0823c24d3bd48cabfdd">metodično</comp>
+            </collocation>
+            <collocation form="začeti metodično" cluster="3" frequency="7" logDice="1.26">
+              <comp position="1" type="collocate" sloleks="LE_5526be99243d6a70e33b06d3eabd15ae">začeti</comp>
+              <comp position="2" type="headword" sloleks="LE_ac67837c6a7ce0823c24d3bd48cabfdd">metodično</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

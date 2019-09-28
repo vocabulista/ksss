@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="96657">vodovje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">603</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="vodovje reke" cluster="1" frequency="15" logDice="4.25">
+              <comp position="1" type="headword" sloleks="LE_7d603d22c0727e52b2a32de89d0a3258">vodovje</comp>
+              <comp position="2" type="collocate" sloleks="LE_6662cfa7fb9c1345baab0f694d5a3590">reke</comp>
+            </collocation>
+            <collocation form="oče vodovja" cluster="2" frequency="6" logDice="3.05">
+              <comp position="1" type="collocate" sloleks="LE_fc6f92b44e0935702b32d3acbccf0142">oče</comp>
+              <comp position="2" type="headword" sloleks="LE_7d603d22c0727e52b2a32de89d0a3258">vodovja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="onesnaženo vodovje" cluster="1" frequency="10" logDice="5.64">
+              <comp position="1" type="collocate" sloleks="LE_19e7b2952332556481f0da7071ac5885">onesnaženo</comp>
+              <comp position="2" type="headword" sloleks="LE_7d603d22c0727e52b2a32de89d0a3258">vodovje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="film o vodovju" cluster="1" frequency="9" logDice="2.8">
+              <comp position="1" type="collocate" sloleks="LE_ef1ac12433b4b7e1e0c31edb0c726d89">film</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_7d603d22c0727e52b2a32de89d0a3258">vodovju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

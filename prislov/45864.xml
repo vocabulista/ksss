@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="45864">vedoč</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">2015</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ za sbz4">
+          <collocations>
+            <collocation form="vedoč za odgovor" cluster="1" frequency="5" logDice="9.42">
+              <comp position="1" type="headword" sloleks="LE_0087804a303420cc8ffad833766e18bc">vedoč</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_6e031483cfd9d26e5eea19be3520c6b2">odgovor</comp>
+            </collocation>
+            <collocation form="vedoč za težavo" cluster="2" frequency="4" logDice="8.65">
+              <comp position="1" type="headword" sloleks="LE_0087804a303420cc8ffad833766e18bc">vedoč</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težavo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz RBZ">
+          <collocations>
+            <collocation form="vnaprej vedoč" cluster="1" frequency="7" logDice="6.93">
+              <comp position="1" type="collocate" sloleks="LE_ad1cb50ed57f9533503dcdd605219223">vnaprej</comp>
+              <comp position="2" type="headword" sloleks="LE_0087804a303420cc8ffad833766e18bc">vedoč</comp>
+            </collocation>
+            <collocation form="dobro vedoč" cluster="2" frequency="39" logDice="6.51">
+              <comp position="1" type="collocate" sloleks="LE_43e8da3e283609f4de7cfdb7a3e3a938">dobro</comp>
+              <comp position="2" type="headword" sloleks="LE_0087804a303420cc8ffad833766e18bc">vedoč</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

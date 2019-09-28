@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="58745">gubanje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">416</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="gubanje čela" cluster="1" frequency="22" logDice="9.4">
+              <comp position="1" type="headword" sloleks="LE_1671e72884b5366bdd17abb11b12a4dc">gubanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_147fccc2e88a7c05d0f77ea0d2836189|LE_56159db6b003731c38bcece0e0c0617b">čela</comp>
+            </collocation>
+            <collocation form="gubanje tkanine" cluster="2" frequency="10" logDice="6.58">
+              <comp position="1" type="headword" sloleks="LE_1671e72884b5366bdd17abb11b12a4dc">gubanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_c6b63bcfb751f19f160100db27ee6b86">tkanine</comp>
+            </collocation>
+            <collocation form="gubanje kože" cluster="3" frequency="60" logDice="5.87">
+              <comp position="1" type="headword" sloleks="LE_1671e72884b5366bdd17abb11b12a4dc">gubanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_1204dd81b00363a398d5f5a84ff9f358">kože</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 k SBZ3">
+          <collocations>
+            <collocation form="nagnjen k gubanju" cluster="1" frequency="8" logDice="5.4">
+              <comp position="1" type="collocate" sloleks="LE_98f523b8e975cda1b2fcc8501942087b">nagnjen</comp>
+              <comp position="2" type="other" sloleks="LE_62b2f33c11cafe70ff4ee2db8f9aeb6c">k</comp>
+              <comp position="3" type="headword" sloleks="LE_1671e72884b5366bdd17abb11b12a4dc">gubanju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

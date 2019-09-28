@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="60036">idiotizem</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">665</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 brez sbz2">
+          <collocations>
+            <collocation form="idiotizem brez primere" cluster="1" frequency="14" logDice="7.0">
+              <comp position="1" type="headword" sloleks="LE_db8808a70813e7f60a58d72bd1665252">idiotizem</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="collocate" sloleks="LE_d31dbfeea190d40b9e72426ff57eb89c">primere</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="totalen idiotizem" cluster="1" frequency="15" logDice="5.95">
+              <comp position="1" type="collocate" sloleks="LE_d02abd0ff4a89d7026e9d36897aec61e">totalen</comp>
+              <comp position="2" type="headword" sloleks="LE_db8808a70813e7f60a58d72bd1665252">idiotizem</comp>
+            </collocation>
+            <collocation form="popoln idiotizem" cluster="2" frequency="13" logDice="1.78">
+              <comp position="1" type="collocate" sloleks="LE_814a2c9c333ef1e9cb481395c05b7346">popoln</comp>
+              <comp position="2" type="headword" sloleks="LE_db8808a70813e7f60a58d72bd1665252">idiotizem</comp>
+            </collocation>
+            <collocation form="čist idiotizem" cluster="3" frequency="10" logDice="1.54">
+              <comp position="1" type="collocate" sloleks="LE_b0f01a4af83087947c0c1f51b4c0c6bc">čist</comp>
+              <comp position="2" type="headword" sloleks="LE_db8808a70813e7f60a58d72bd1665252">idiotizem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="stopnja idiotizma" cluster="1" frequency="5" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_ed1cc20afdfdf1e20fe2e301bae175ee">stopnja</comp>
+              <comp position="2" type="headword" sloleks="LE_db8808a70813e7f60a58d72bd1665252">idiotizma</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

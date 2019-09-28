@@ -1,0 +1,69 @@
+<entry>
+  <header>
+    <lexical_unit id="66859">lektorica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1518</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="lektorica iz Škotske" cluster="1" frequency="4" logDice="9.61">
+              <comp position="1" type="headword" sloleks="LE_901bdf4e0fbff5a1bf2524a21812e27c">lektorica</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_a23fb711cb5dda79df5bbe4e3dfc0929">Škotske</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="lektorica jezika" cluster="1" frequency="36" logDice="4.52">
+              <comp position="1" type="headword" sloleks="LE_901bdf4e0fbff5a1bf2524a21812e27c">lektorica</comp>
+              <comp position="2" type="collocate" sloleks="LE_84e841a4b1d5e4b816efe7f126e1f693">jezika</comp>
+            </collocation>
+            <collocation form="lektorica slovenščine" cluster="1" frequency="12" logDice="5.49">
+              <comp position="1" type="headword" sloleks="LE_901bdf4e0fbff5a1bf2524a21812e27c">lektorica</comp>
+              <comp position="2" type="collocate" sloleks="LE_5754794fc95c674f589cf98c9952fce8">slovenščine</comp>
+            </collocation>
+            <collocation form="opomba lektorice" cluster="2" frequency="5" logDice="7.65">
+              <comp position="1" type="collocate" sloleks="LE_8903c953ed1d420016edb431cb74f3b6">opomba</comp>
+              <comp position="2" type="headword" sloleks="LE_901bdf4e0fbff5a1bf2524a21812e27c">lektorice</comp>
+            </collocation>
+            <collocation form="beseda lektorice" cluster="3" frequency="5" logDice="0.71">
+              <comp position="1" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">beseda</comp>
+              <comp position="2" type="headword" sloleks="LE_901bdf4e0fbff5a1bf2524a21812e27c">lektorice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="lektorica za slovenščino" cluster="1" frequency="12" logDice="8.08">
+              <comp position="1" type="headword" sloleks="LE_901bdf4e0fbff5a1bf2524a21812e27c">lektorica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_5754794fc95c674f589cf98c9952fce8">slovenščino</comp>
+            </collocation>
+            <collocation form="lektorica za jezik" cluster="2" frequency="41" logDice="8.03">
+              <comp position="1" type="headword" sloleks="LE_901bdf4e0fbff5a1bf2524a21812e27c">lektorica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_84e841a4b1d5e4b816efe7f126e1f693">jezik</comp>
+            </collocation>
+            <collocation form="lektorica za govor" cluster="3" frequency="5" logDice="7.18">
+              <comp position="1" type="headword" sloleks="LE_901bdf4e0fbff5a1bf2524a21812e27c">lektorica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_62db55b79816c90308de7c02140fb3d5">govor</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="francoska lektorica" cluster="1" frequency="14" logDice="1.43">
+              <comp position="1" type="collocate" sloleks="LE_a10636c78f7699eb7d5802c9c9863aaf">francoska</comp>
+              <comp position="2" type="headword" sloleks="LE_901bdf4e0fbff5a1bf2524a21812e27c">lektorica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

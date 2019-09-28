@@ -1,0 +1,66 @@
+<entry>
+  <header>
+    <lexical_unit id="88102">sentiment</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">912</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="sentiment investitorja" cluster="1" frequency="9" logDice="5.42">
+              <comp position="1" type="headword" sloleks="LE_eb0f633d65418ab5fed630b165e9598e">sentiment</comp>
+              <comp position="2" type="collocate" sloleks="LE_edb32ca780c98c55627adace259715b9">investitorja</comp>
+            </collocation>
+            <collocation form="sentiment vlagatelja" cluster="2" frequency="9" logDice="4.67">
+              <comp position="1" type="headword" sloleks="LE_eb0f633d65418ab5fed630b165e9598e">sentiment</comp>
+              <comp position="2" type="collocate" sloleks="LE_b3fd695ce417bcd2b3962190eecc886a">vlagatelja</comp>
+            </collocation>
+            <collocation form="sentiment trga" cluster="3" frequency="9" logDice="2.27">
+              <comp position="1" type="headword" sloleks="LE_eb0f633d65418ab5fed630b165e9598e">sentiment</comp>
+              <comp position="2" type="collocate" sloleks="LE_b735dfd291d0abd31eeabd75c4133487">trga</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="protiameriški sentiment" cluster="1" frequency="10" logDice="7.66">
+              <comp position="1" type="collocate" sloleks="LE_68e978dbfbd50617e24c1351408ad57e">protiameriški</comp>
+              <comp position="2" type="headword" sloleks="LE_eb0f633d65418ab5fed630b165e9598e">sentiment</comp>
+            </collocation>
+            <collocation form="panonski sentiment" cluster="2" frequency="13" logDice="6.49">
+              <comp position="1" type="collocate" sloleks="LE_09c5adcc668b2cd52601e2c758f57fea">panonski</comp>
+              <comp position="2" type="headword" sloleks="LE_eb0f633d65418ab5fed630b165e9598e">sentiment</comp>
+            </collocation>
+            <collocation form="nostalgičen sentiment" cluster="3" frequency="9" logDice="6.13">
+              <comp position="1" type="collocate" sloleks="LE_a2f29bcbec1a6ede041855704c278bf5">nostalgičen</comp>
+              <comp position="2" type="headword" sloleks="LE_eb0f633d65418ab5fed630b165e9598e">sentiment</comp>
+            </collocation>
+            <collocation form="negativen sentiment" cluster="4" frequency="19" logDice="3.17">
+              <comp position="1" type="collocate" sloleks="LE_2b00583dfbeb3db6152d2f118b47f9f2">negativen</comp>
+              <comp position="2" type="headword" sloleks="LE_eb0f633d65418ab5fed630b165e9598e">sentiment</comp>
+            </collocation>
+            <collocation form="pozitiven sentiment" cluster="4" frequency="10" logDice="1.73">
+              <comp position="1" type="collocate" sloleks="LE_f6e959273f67991db6849fad746388aa">pozitiven</comp>
+              <comp position="2" type="headword" sloleks="LE_eb0f633d65418ab5fed630b165e9598e">sentiment</comp>
+            </collocation>
+            <collocation form="nacionalen sentiment" cluster="5" frequency="9" logDice="0.7">
+              <comp position="1" type="collocate" sloleks="LE_d407803b9a4821ebeb2e6407465e3c7b">nacionalen</comp>
+              <comp position="2" type="headword" sloleks="LE_eb0f633d65418ab5fed630b165e9598e">sentiment</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 z SBZ6">
+          <collocations>
+            <collocation form="prežet s sentimentom" cluster="1" frequency="4" logDice="5.12">
+              <comp position="1" type="collocate" sloleks="LE_4443cfbb37911c0048c35e36594b1efb">prežet</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_eb0f633d65418ab5fed630b165e9598e">sentimentom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

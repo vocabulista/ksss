@@ -1,0 +1,52 @@
+<entry>
+  <header>
+    <lexical_unit id="90006">soimenjak</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1270</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="soimenjak predsednika" cluster="1" frequency="8" logDice="1.1">
+              <comp position="1" type="headword" sloleks="LE_0792f606001d6a7a3ad975d21dc47386">soimenjak</comp>
+              <comp position="2" type="collocate" sloleks="LE_7b6970ef8cd5ab25e1b3915be0c536bd">predsednika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="pomeriti s soimenjakom" cluster="1" frequency="4" logDice="2.77">
+              <comp position="1" type="collocate" sloleks="LE_057e00909e7a39668c4f89f2c7e67b1f">pomeriti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_0792f606001d6a7a3ad975d21dc47386">soimenjakom</comp>
+            </collocation>
+            <collocation form="primerjati s soimenjakom" cluster="2" frequency="4" logDice="2.46">
+              <comp position="1" type="collocate" sloleks="LE_c927a572c1c3087f0014ac6c8ca54a7c">primerjati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_0792f606001d6a7a3ad975d21dc47386">soimenjakom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="slaven soimenjak" cluster="1" frequency="32" logDice="4.34">
+              <comp position="1" type="collocate" sloleks="LE_412f741689616fdbd844edf33c686a25">slaven</comp>
+              <comp position="2" type="headword" sloleks="LE_0792f606001d6a7a3ad975d21dc47386">soimenjak</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="nasprotje s soimenjakom" cluster="1" frequency="5" logDice="1.47">
+              <comp position="1" type="collocate" sloleks="LE_856a910b1c3332ccea09cc03944b7de2">nasprotje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_0792f606001d6a7a3ad975d21dc47386">soimenjakom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

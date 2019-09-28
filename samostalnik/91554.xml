@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="91554">štiridesetletnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">416</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="štiridesetletnik iz okolice" cluster="1" frequency="5" logDice="3.58">
+              <comp position="1" type="headword" sloleks="LE_9873d3edc2a35ffa42f10e15f740c223">štiridesetletnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_47ad0b8169f925a63d1a9ab41a6ec943">okolice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="generacija štiridesetletnika" cluster="1" frequency="10" logDice="3.51">
+              <comp position="1" type="collocate" sloleks="LE_3ae79f27727e36bc3b9d688dcc7e1dff">generacija</comp>
+              <comp position="2" type="headword" sloleks="LE_9873d3edc2a35ffa42f10e15f740c223">štiridesetletnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

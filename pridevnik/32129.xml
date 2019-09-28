@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="32129">raztepen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">431</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 po sbz5">
+          <collocations>
+            <collocation form="raztepen po svetu" cluster="1" frequency="31" logDice="8.18">
+              <comp position="1" type="headword" sloleks="LE_8bf2536e87169109e2e87525b04633c2">raztepen</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_55184295ed657acc8ec5dcd62f7084bf">svetu</comp>
+            </collocation>
+            <collocation form="raztepen po koncu" cluster="2" frequency="4" logDice="7.96">
+              <comp position="1" type="headword" sloleks="LE_8bf2536e87169109e2e87525b04633c2">raztepen</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_d8d1737076777d9839ea949a2b88751a">koncu</comp>
+            </collocation>
+            <collocation form="raztepen po Sloveniji" cluster="3" frequency="7" logDice="7.52">
+              <comp position="1" type="headword" sloleks="LE_8bf2536e87169109e2e87525b04633c2">raztepen</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Sloveniji</comp>
+            </collocation>
+            <collocation form="raztepen po Evropi" cluster="4" frequency="4" logDice="7.35">
+              <comp position="1" type="headword" sloleks="LE_8bf2536e87169109e2e87525b04633c2">raztepen</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_0c70d71bb49cb550bb4e854282407723">Evropi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="raztepeno jajce" cluster="1" frequency="252" logDice="8.9">
+              <comp position="1" type="headword" sloleks="LE_8bf2536e87169109e2e87525b04633c2">raztepeno</comp>
+              <comp position="2" type="collocate" sloleks="LE_34df10e0b810b1e54b182eae5c69f11f">jajce</comp>
+            </collocation>
+            <collocation form="raztepen rumenjak" cluster="2" frequency="24" logDice="8.87">
+              <comp position="1" type="headword" sloleks="LE_8bf2536e87169109e2e87525b04633c2">raztepen</comp>
+              <comp position="2" type="collocate" sloleks="LE_4ab9c6ba9851c73236426f8d3eec194d">rumenjak</comp>
+            </collocation>
+            <collocation form="raztepen beljak" cluster="3" frequency="14" logDice="8.05">
+              <comp position="1" type="headword" sloleks="LE_8bf2536e87169109e2e87525b04633c2">raztepen</comp>
+              <comp position="2" type="collocate" sloleks="LE_c432290aa6b63a0a38258e9522fb5e37">beljak</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

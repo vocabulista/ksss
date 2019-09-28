@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="8133">skriviti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">672</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz3">
+          <collocations>
+            <collocation form="skriviti lasu" cluster="1" frequency="64" logDice="10.72">
+              <comp position="1" type="headword" sloleks="LE_2a0bf8a151f350ab22a37f764657c290">skriviti</comp>
+              <comp position="2" type="collocate" sloleks="LE_efa5b979af023ef3a1f9a62889d9ad2d">lasu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="skriviti hrbtenico" cluster="1" frequency="4" logDice="5.67">
+              <comp position="1" type="headword" sloleks="LE_2a0bf8a151f350ab22a37f764657c290">skriviti</comp>
+              <comp position="2" type="collocate" sloleks="LE_ff8f2d7753773ec7ffb1f1db69534dd5">hrbtenico</comp>
+            </collocation>
+            <collocation form="skriviti ustnico" cluster="2" frequency="5" logDice="5.48">
+              <comp position="1" type="headword" sloleks="LE_2a0bf8a151f350ab22a37f764657c290">skriviti</comp>
+              <comp position="2" type="collocate" sloleks="LE_e7f2a87a0e07f0f78ed928d807514e00">ustnico</comp>
+            </collocation>
+            <collocation form="skriviti las" cluster="3" frequency="10" logDice="4.58">
+              <comp position="1" type="headword" sloleks="LE_2a0bf8a151f350ab22a37f764657c290">skriviti</comp>
+              <comp position="2" type="collocate" sloleks="LE_efa5b979af023ef3a1f9a62889d9ad2d">las</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="malce skriviti" cluster="1" frequency="4" logDice="1.66">
+              <comp position="1" type="collocate" sloleks="LE_2eec11a38ac5bbb5fa6d7682c1224a82">malce</comp>
+              <comp position="2" type="headword" sloleks="LE_2a0bf8a151f350ab22a37f764657c290">skriviti</comp>
+            </collocation>
+            <collocation form="popolnoma skriviti" cluster="2" frequency="5" logDice="1.36">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_2a0bf8a151f350ab22a37f764657c290">skriviti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

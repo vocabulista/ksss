@@ -1,0 +1,102 @@
+<entry>
+  <header>
+    <lexical_unit id="1328">hospitalizirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">556</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ brez sbz2">
+          <collocations>
+            <collocation form="hospitalizirati brez privolitve" cluster="1" frequency="11" logDice="9.96">
+              <comp position="1" type="headword" sloleks="LE_8efbb48d2066ba0dc0157525025566fd">hospitalizirati</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="collocate" sloleks="LE_97ee0f63f710bdb64c4e28c3f8b22859">privolitve</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="hospitalizirati na oddelku" cluster="1" frequency="10" logDice="5.45">
+              <comp position="1" type="headword" sloleks="LE_8efbb48d2066ba0dc0157525025566fd">hospitalizirati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_f73286dd6f89a4307b05a1a8ffe3e326">oddelku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ proti sbz3">
+          <collocations>
+            <collocation form="hospitalizirati proti volji" cluster="1" frequency="9" logDice="7.28">
+              <comp position="1" type="headword" sloleks="LE_8efbb48d2066ba0dc0157525025566fd">hospitalizirati</comp>
+              <comp position="2" type="other" sloleks="LE_ce0c7e81c2858bb279d87fd9640cfc97">proti</comp>
+              <comp position="3" type="collocate" sloleks="LE_302cfe15db5d997ecf0eab411fa16934">volji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="hospitalizirati v bolnišnico" cluster="1" frequency="6" logDice="3.27">
+              <comp position="1" type="headword" sloleks="LE_8efbb48d2066ba0dc0157525025566fd">hospitalizirati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_33ef2806b73924842b5b4fc3f50f81f3">bolnišnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="hospitalizirati v Polju" cluster="1" frequency="4" logDice="5.58">
+              <comp position="1" type="headword" sloleks="LE_8efbb48d2066ba0dc0157525025566fd">hospitalizirati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_3ea4193f7002a8cf5ffc93d3832da36c">Polju</comp>
+            </collocation>
+            <collocation form="hospitalizirati v bolnišnici" cluster="2" frequency="20" logDice="4.6">
+              <comp position="1" type="headword" sloleks="LE_8efbb48d2066ba0dc0157525025566fd">hospitalizirati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_33ef2806b73924842b5b4fc3f50f81f3">bolnišnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ zaradi sbz2">
+          <collocations>
+            <collocation form="hospitalizirati zaradi depresije" cluster="1" frequency="5" logDice="8.44">
+              <comp position="1" type="headword" sloleks="LE_8efbb48d2066ba0dc0157525025566fd">hospitalizirati</comp>
+              <comp position="2" type="other" sloleks="LE_e2128c24e3c3872c9e5c2981f71b461f">zaradi</comp>
+              <comp position="3" type="collocate" sloleks="LE_6d6f12c9273d081b346f42c5a6d78375">depresije</comp>
+            </collocation>
+            <collocation form="hospitalizirati zaradi zastoja" cluster="2" frequency="4" logDice="8.3">
+              <comp position="1" type="headword" sloleks="LE_8efbb48d2066ba0dc0157525025566fd">hospitalizirati</comp>
+              <comp position="2" type="other" sloleks="LE_e2128c24e3c3872c9e5c2981f71b461f">zaradi</comp>
+              <comp position="3" type="collocate" sloleks="LE_b8e3f485885083b4152db0b2abb15038">zastoja</comp>
+            </collocation>
+            <collocation form="hospitalizirati zaradi težave" cluster="3" frequency="5" logDice="4.23">
+              <comp position="1" type="headword" sloleks="LE_8efbb48d2066ba0dc0157525025566fd">hospitalizirati</comp>
+              <comp position="2" type="other" sloleks="LE_e2128c24e3c3872c9e5c2981f71b461f">zaradi</comp>
+              <comp position="3" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težave</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="prisilno hospitalizirati" cluster="1" frequency="38" logDice="9.01">
+              <comp position="1" type="collocate" sloleks="LE_5146029e55335d32458489319148ccc7">prisilno</comp>
+              <comp position="2" type="headword" sloleks="LE_8efbb48d2066ba0dc0157525025566fd">hospitalizirati</comp>
+            </collocation>
+            <collocation form="nujno hospitalizirati" cluster="2" frequency="4" logDice="1.8">
+              <comp position="1" type="collocate" sloleks="LE_39db29c5797e12d8acad131c7a711754">nujno</comp>
+              <comp position="2" type="headword" sloleks="LE_8efbb48d2066ba0dc0157525025566fd">hospitalizirati</comp>
+            </collocation>
+            <collocation form="znova hospitalizirati" cluster="3" frequency="9" logDice="0.94">
+              <comp position="1" type="collocate" sloleks="LE_4f000489fb7f7a863547f5ae46af4f41">znova</comp>
+              <comp position="2" type="headword" sloleks="LE_8efbb48d2066ba0dc0157525025566fd">hospitalizirati</comp>
+            </collocation>
+            <collocation form="ponovno hospitalizirati" cluster="4" frequency="5" logDice="0.44">
+              <comp position="1" type="collocate" sloleks="LE_d94a650618c4501cb830dca806e400ed">ponovno</comp>
+              <comp position="2" type="headword" sloleks="LE_8efbb48d2066ba0dc0157525025566fd">hospitalizirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

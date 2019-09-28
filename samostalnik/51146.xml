@@ -1,0 +1,40 @@
+<entry>
+  <header>
+    <lexical_unit id="51146">cedejka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">640</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="cedejka s faco" cluster="1" frequency="4" logDice="10.62">
+              <comp position="1" type="headword" sloleks="LE_2420f7ddaf323551ed21adc771493c97">cedejka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_41b66181fc9db2e65322077a4c94e2d3">faco</comp>
+            </collocation>
+            <collocation form="cedejka s posnetkom" cluster="2" frequency="6" logDice="6.74">
+              <comp position="1" type="headword" sloleks="LE_2420f7ddaf323551ed21adc771493c97">cedejka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_d78075353c3af5f2f907864ca32067dd">posnetkom</comp>
+            </collocation>
+            <collocation form="cedejka z naslovom" cluster="3" frequency="7" logDice="1.56">
+              <comp position="1" type="headword" sloleks="LE_2420f7ddaf323551ed21adc771493c97">cedejka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_1aca8621567cc70c42163dfa35048969">naslovom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="izid cedejke" cluster="1" frequency="6" logDice="1.73">
+              <comp position="1" type="collocate" sloleks="LE_402e23363e1ed97b8bb38b1a350de66d">izid</comp>
+              <comp position="2" type="headword" sloleks="LE_2420f7ddaf323551ed21adc771493c97">cedejke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

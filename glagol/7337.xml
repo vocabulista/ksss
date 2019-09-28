@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="7337">radostiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">411</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="radostiti v trenutku" cluster="1" frequency="5" logDice="0.91">
+              <comp position="1" type="headword" sloleks="LE_a663ec06b24e4ab821e7d2418d09faed">radostiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_20e42f7c3b00f5a4a38e89957060a1f2">trenutku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="Tresoče radostiti" cluster="1" frequency="4" logDice="10.05">
+              <comp position="1" type="collocate" sloleks="LE_210ecdfc57d8d42dfce5b74af20c8df1">Tresoče</comp>
+              <comp position="2" type="headword" sloleks="LE_a663ec06b24e4ab821e7d2418d09faed">radostiti</comp>
+            </collocation>
+            <collocation form="posebej radostiti" cluster="2" frequency="6" logDice="1.1">
+              <comp position="1" type="collocate" sloleks="LE_6f32d8a4def4cfd8e9535085f1de4531">posebej</comp>
+              <comp position="2" type="headword" sloleks="LE_a663ec06b24e4ab821e7d2418d09faed">radostiti</comp>
+            </collocation>
+            <collocation form="najbolj radostiti" cluster="3" frequency="6" logDice="0.22">
+              <comp position="1" type="collocate" sloleks="LE_72b2a3522865b723e8c26b8ade696fca">najbolj</comp>
+              <comp position="2" type="headword" sloleks="LE_a663ec06b24e4ab821e7d2418d09faed">radostiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

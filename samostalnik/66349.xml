@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="66349">kvant</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">497</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="kvant svetlobe" cluster="1" frequency="13" logDice="4.61">
+              <comp position="1" type="headword" sloleks="LE_8f2d20e07ee0d032f442bb43d099357f">kvant</comp>
+              <comp position="2" type="collocate" sloleks="LE_7b4aa20123309c3df51797d7759d6ade">svetlobe</comp>
+            </collocation>
+            <collocation form="kvant energije" cluster="2" frequency="19" logDice="2.89">
+              <comp position="1" type="headword" sloleks="LE_8f2d20e07ee0d032f442bb43d099357f">kvant</comp>
+              <comp position="2" type="collocate" sloleks="LE_a5b5cd7c325eb8bbda86e3d9bb680b09">energije</comp>
+            </collocation>
+            <collocation form="energija kvanta" cluster="3" frequency="5" logDice="4.06">
+              <comp position="1" type="collocate" sloleks="LE_a5b5cd7c325eb8bbda86e3d9bb680b09">energija</comp>
+              <comp position="2" type="headword" sloleks="LE_8f2d20e07ee0d032f442bb43d099357f">kvanta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="svetloben kvant" cluster="1" frequency="14" logDice="4.38">
+              <comp position="1" type="collocate" sloleks="LE_abd436fcf8955a26a62d1cdce3fd65bb">svetloben</comp>
+              <comp position="2" type="headword" sloleks="LE_8f2d20e07ee0d032f442bb43d099357f">kvant</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

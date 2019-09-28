@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="74769">ogel</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">514</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="ogel šesterokotnika" cluster="1" frequency="9" logDice="11.17">
+              <comp position="1" type="headword" sloleks="LE_4d913f341dd6e81b0110d158659f40cb">ogel</comp>
+              <comp position="2" type="collocate" sloleks="LE_f9e86bfde5dfbff0fe90d781fe0e9610">šesterokotnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ5">
+          <collocations>
+            <collocation form="čakati na oglu" cluster="1" frequency="7" logDice="4.81">
+              <comp position="1" type="collocate" sloleks="LE_40e471c4d788a258a8c6b151605ab514">čakati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4d913f341dd6e81b0110d158659f40cb">oglu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Pujev ogel" cluster="1" frequency="26" logDice="12.1">
+              <comp position="1" type="collocate" sloleks="">Pujev</comp>
+              <comp position="2" type="headword" sloleks="LE_4d913f341dd6e81b0110d158659f40cb">ogel</comp>
+            </collocation>
+            <collocation form="hišen ogel" cluster="2" frequency="9" logDice="2.65">
+              <comp position="1" type="collocate" sloleks="LE_cb6e38c18afa735d432d4a58f6be2710">hišen</comp>
+              <comp position="2" type="headword" sloleks="LE_4d913f341dd6e81b0110d158659f40cb">ogel</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ5">
+          <collocations>
+            <collocation form="hiša na oglu" cluster="1" frequency="27" logDice="5.96">
+              <comp position="1" type="collocate" sloleks="LE_34e4b2cb65c667c6bf374f39db0e3597">hiša</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4d913f341dd6e81b0110d158659f40cb">oglu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

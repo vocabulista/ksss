@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="666394">enfant</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="enfant terribel" cluster="1" frequency="47" logDice="13.72">
+              <comp position="1" type="headword" sloleks="">enfant</comp>
+              <comp position="2" type="collocate" sloleks="">terribel</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="veljati za enfant" cluster="1" frequency="13" logDice="2.27">
+              <comp position="1" type="collocate" sloleks="LE_d1ea0d9dd4771e211c9eddc0d342acc2">veljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="">enfant</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nekdanji enfant" cluster="1" frequency="32" logDice="1.48">
+              <comp position="1" type="collocate" sloleks="LE_8a7f20bd7c05984d11bf0b9c0d5d8dc4">nekdanji</comp>
+              <comp position="2" type="headword" sloleks="">enfant</comp>
+            </collocation>
+            <collocation form="francoski enfant" cluster="2" frequency="9" logDice="0.8">
+              <comp position="1" type="collocate" sloleks="LE_a10636c78f7699eb7d5802c9c9863aaf">francoski</comp>
+              <comp position="2" type="headword" sloleks="">enfant</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

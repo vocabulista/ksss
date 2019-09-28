@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="91838">štrcelj</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">488</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="štrcelj veje" cluster="1" frequency="11" logDice="5.91">
+              <comp position="1" type="headword" sloleks="LE_7e1bd82353c0a0fcc6323831a5ce1248">štrcelj</comp>
+              <comp position="2" type="collocate" sloleks="LE_3b64510c2ce1abbe1a994ff032f9ea0b">veje</comp>
+            </collocation>
+            <collocation form="štrcelj roke" cluster="2" frequency="10" logDice="3.47">
+              <comp position="1" type="headword" sloleks="LE_7e1bd82353c0a0fcc6323831a5ce1248">štrcelj</comp>
+              <comp position="2" type="collocate" sloleks="LE_5fa1bf1096bd6c7b00158af4c43b33b3">roke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="kratek štrcelj" cluster="1" frequency="11" logDice="0.6">
+              <comp position="1" type="collocate" sloleks="LE_33b72eb56c8dbab2f6093517455066e9">kratek</comp>
+              <comp position="2" type="headword" sloleks="LE_7e1bd82353c0a0fcc6323831a5ce1248">štrcelj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

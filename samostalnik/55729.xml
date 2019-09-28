@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="55729">epoha</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">617</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="geološka epoha" cluster="1" frequency="8" logDice="5.12">
+              <comp position="1" type="collocate" sloleks="LE_284a9a9cc42dbb1a09340ef55c092edb">geološka</comp>
+              <comp position="2" type="headword" sloleks="LE_9cfed02ccb9390058931ecc11c73bcb1">epoha</comp>
+            </collocation>
+            <collocation form="zgodovinska epoha" cluster="2" frequency="31" logDice="3.4">
+              <comp position="1" type="collocate" sloleks="LE_d84686f094c4cb6db7390b0d069179f7">zgodovinska</comp>
+              <comp position="2" type="headword" sloleks="LE_9cfed02ccb9390058931ecc11c73bcb1">epoha</comp>
+            </collocation>
+            <collocation form="moderna epoha" cluster="3" frequency="8" logDice="2.0">
+              <comp position="1" type="collocate" sloleks="LE_ae5afa2257c97ab88834a620cbbe137b">moderna</comp>
+              <comp position="2" type="headword" sloleks="LE_9cfed02ccb9390058931ecc11c73bcb1">epoha</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="zgodovina epohe" cluster="1" frequency="5" logDice="1.02">
+              <comp position="1" type="collocate" sloleks="LE_b2dc0e37e23a16ae3fe7cfe473a5341b">zgodovina</comp>
+              <comp position="2" type="headword" sloleks="LE_9cfed02ccb9390058931ecc11c73bcb1">epohe</comp>
+            </collocation>
+            <collocation form="epoha umetnosti" cluster="2" frequency="10" logDice="2.89">
+              <comp position="1" type="headword" sloleks="LE_9cfed02ccb9390058931ecc11c73bcb1">epoha</comp>
+              <comp position="2" type="collocate" sloleks="LE_14864f40c4c030e3c6501ecbd0a6f10b">umetnosti</comp>
+            </collocation>
+            <collocation form="epoha zgodovine" cluster="3" frequency="9" logDice="2.73">
+              <comp position="1" type="headword" sloleks="LE_9cfed02ccb9390058931ecc11c73bcb1">epoha</comp>
+              <comp position="2" type="collocate" sloleks="LE_b2dc0e37e23a16ae3fe7cfe473a5341b">zgodovine</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

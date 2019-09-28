@@ -1,0 +1,71 @@
+<entry>
+  <header>
+    <lexical_unit id="23631">medpredmeten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">826</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="medpredmetno povezovanje" cluster="1" frequency="304" logDice="9.31">
+              <comp position="1" type="headword" sloleks="LE_abce79043a27e9cb0e42502f615dc6e9">medpredmetno</comp>
+              <comp position="2" type="collocate" sloleks="LE_f128b800bd5e2d4cf8ebf27a0c8dff76">povezovanje</comp>
+            </collocation>
+            <collocation form="medpredmetna povezava" cluster="2" frequency="280" logDice="6.69">
+              <comp position="1" type="headword" sloleks="LE_abce79043a27e9cb0e42502f615dc6e9">medpredmetna</comp>
+              <comp position="2" type="collocate" sloleks="LE_585f5dc11b4e301ea7b13c392b5a0d47">povezava</comp>
+            </collocation>
+            <collocation form="medpredmetna vsebina" cluster="2" frequency="22" logDice="3.38">
+              <comp position="1" type="headword" sloleks="LE_abce79043a27e9cb0e42502f615dc6e9">medpredmetna</comp>
+              <comp position="2" type="collocate" sloleks="LE_6dcb4d18292d5087cc927ab205813347">vsebina</comp>
+            </collocation>
+            <collocation form="medpredmetno načrtovanje" cluster="3" frequency="22" logDice="5.69">
+              <comp position="1" type="headword" sloleks="LE_abce79043a27e9cb0e42502f615dc6e9">medpredmetno</comp>
+              <comp position="2" type="collocate" sloleks="LE_d39ebc949a940382778fe261fd581d31">načrtovanje</comp>
+            </collocation>
+            <collocation form="medpredmetna povezanost" cluster="4" frequency="16" logDice="5.55">
+              <comp position="1" type="headword" sloleks="LE_abce79043a27e9cb0e42502f615dc6e9">medpredmetna</comp>
+              <comp position="2" type="collocate" sloleks="LE_6f4c6a7f2bb5809c273864109f7f2676">povezanost</comp>
+            </collocation>
+            <collocation form="medpredmeten prijem" cluster="5" frequency="9" logDice="3.99">
+              <comp position="1" type="headword" sloleks="LE_abce79043a27e9cb0e42502f615dc6e9">medpredmeten</comp>
+              <comp position="2" type="collocate" sloleks="LE_8ccd3e2b331be3c1b36fc120a8776f5c">prijem</comp>
+            </collocation>
+            <collocation form="medpredmetna spretnost" cluster="6" frequency="6" logDice="3.67">
+              <comp position="1" type="headword" sloleks="LE_abce79043a27e9cb0e42502f615dc6e9">medpredmetna</comp>
+              <comp position="2" type="collocate" sloleks="LE_a87bdad9d86b5c70e98024bfae091181">spretnost</comp>
+            </collocation>
+            <collocation form="medpredmetno področje" cluster="7" frequency="44" logDice="3.28">
+              <comp position="1" type="headword" sloleks="LE_abce79043a27e9cb0e42502f615dc6e9">medpredmetno</comp>
+              <comp position="2" type="collocate" sloleks="LE_66c02e1a651f578a71415b967738b69b">področje</comp>
+            </collocation>
+            <collocation form="medpredmetno sodelovanje" cluster="7" frequency="19" logDice="2.66">
+              <comp position="1" type="headword" sloleks="LE_abce79043a27e9cb0e42502f615dc6e9">medpredmetno</comp>
+              <comp position="2" type="collocate" sloleks="LE_5d0ed32540572fbd41d712e9a23fadb1">sodelovanje</comp>
+            </collocation>
+            <collocation form="medpredmetna komisija" cluster="8" frequency="20" logDice="1.56">
+              <comp position="1" type="headword" sloleks="LE_abce79043a27e9cb0e42502f615dc6e9">medpredmetna</comp>
+              <comp position="2" type="collocate" sloleks="LE_1d71b650207bc9d89d6fe3df1de3762a">komisija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="medpredmeten in/ali kroskurikularen" cluster="1" frequency="5" logDice="12.11">
+              <comp position="3" type="headword" sloleks="LE_abce79043a27e9cb0e42502f615dc6e9">medpredmeten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="">kroskurikularen</comp>
+              </collocation>
+            <collocation form="medpredmeten in/ali predmeten" cluster="2" frequency="7" logDice="9.48">
+              <comp position="3" type="headword" sloleks="LE_abce79043a27e9cb0e42502f615dc6e9">medpredmeten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_fa06d0f586526dc9428004907f2eecee|LE_cbbe656a587265a9ca8128de7e4648fe">predmeten</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

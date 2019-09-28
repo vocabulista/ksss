@@ -1,0 +1,86 @@
+<entry>
+  <header>
+    <lexical_unit id="71992">nedra</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">463</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="nedra hriba" cluster="1" frequency="8" logDice="5.79">
+              <comp position="1" type="headword" sloleks="LE_18e891dfcaac412d5d4c8574565a4681">nedra</comp>
+              <comp position="2" type="collocate" sloleks="LE_39d46a5b58c52c25afb1cb57c2951945">hriba</comp>
+            </collocation>
+            <collocation form="nedra zemlje" cluster="2" frequency="16" logDice="3.96">
+              <comp position="1" type="headword" sloleks="LE_18e891dfcaac412d5d4c8574565a4681">nedra</comp>
+              <comp position="2" type="collocate" sloleks="LE_9f4cbbb2b72bac81739b4274ec0514cc">zemlje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz iz SBZ2">
+          <collocations>
+            <collocation form="pritekati iz neder" cluster="1" frequency="4" logDice="8.31">
+              <comp position="1" type="collocate" sloleks="LE_6ea905495e24ab63a644228268d93ed1">pritekati</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_18e891dfcaac412d5d4c8574565a4681">neder</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="položiti v nedra" cluster="1" frequency="6" logDice="4.84">
+              <comp position="1" type="collocate" sloleks="LE_eb00d085cf10de5a7dc989aeb007c3bb">položiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_18e891dfcaac412d5d4c8574565a4681">nedra</comp>
+            </collocation>
+            <collocation form="sprejeti v nedra" cluster="2" frequency="4" logDice="3.85">
+              <comp position="1" type="collocate" sloleks="LE_8c2773c0d6ada89df427fbd2a83ca07b">sprejeti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_18e891dfcaac412d5d4c8574565a4681">nedra</comp>
+            </collocation>
+            <collocation form="segati v nedra" cluster="3" frequency="4" logDice="3.65">
+              <comp position="1" type="collocate" sloleks="LE_5a6409c25f1ed11370cdac0287687c40">segati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_18e891dfcaac412d5d4c8574565a4681">nedra</comp>
+            </collocation>
+            <collocation form="vabiti v nedra" cluster="4" frequency="4" logDice="3.38">
+              <comp position="1" type="collocate" sloleks="LE_bf3a1728028bb8ec263f84d8b370cef0">vabiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_18e891dfcaac412d5d4c8574565a4681">nedra</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="skrivati v nedrih" cluster="1" frequency="46" logDice="6.67">
+              <comp position="1" type="collocate" sloleks="LE_5e2b29736ec2dfed37f95bcc8ffe5f1a">skrivati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_18e891dfcaac412d5d4c8574565a4681">nedrih</comp>
+            </collocation>
+            <collocation form="hraniti v nedrih" cluster="2" frequency="7" logDice="4.9">
+              <comp position="1" type="collocate" sloleks="LE_3eb2f8b8caad4928e8075ca2669a9ba4">hraniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_18e891dfcaac412d5d4c8574565a4681">nedrih</comp>
+            </collocation>
+            <collocation form="nositi v nedrih" cluster="3" frequency="7" logDice="4.78">
+              <comp position="1" type="collocate" sloleks="LE_12501655c6bc54ad79c0f5528ae02039">nositi</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_18e891dfcaac412d5d4c8574565a4681">nedrih</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="življenje v nedrih" cluster="1" frequency="4" logDice="1.89">
+              <comp position="1" type="collocate" sloleks="LE_b7a6a2019becc6510edb8591e171b0a7">življenje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_18e891dfcaac412d5d4c8574565a4681">nedrih</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="77464">perjad</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">564</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="okrasna perjad" cluster="1" frequency="8" logDice="3.75">
+              <comp position="1" type="collocate" sloleks="LE_7fd0b7a67a4e694fba776a67415585c5">okrasna</comp>
+              <comp position="2" type="headword" sloleks="LE_af1e1944783d4fa2c885849b7a2d6403">perjad</comp>
+            </collocation>
+            <collocation form="vodena perjad" cluster="2" frequency="21" logDice="2.94">
+              <comp position="1" type="collocate" sloleks="LE_699e316f3b1f01451f74cf4af253e729|LE_6fe63b63628e1f9986ca9bba3a514494">vodena</comp>
+              <comp position="2" type="headword" sloleks="LE_af1e1944783d4fa2c885849b7a2d6403">perjad</comp>
+            </collocation>
+            <collocation form="divja perjad" cluster="3" frequency="9" logDice="2.16">
+              <comp position="1" type="collocate" sloleks="LE_5ca5d3ebba6d615ded0f89b606cf0b92">divja</comp>
+              <comp position="2" type="headword" sloleks="LE_af1e1944783d4fa2c885849b7a2d6403">perjad</comp>
+            </collocation>
+            <collocation form="domača perjad" cluster="4" frequency="29" logDice="1.09">
+              <comp position="1" type="collocate" sloleks="LE_a5a1f45c0526da991f5e1fe1ef9f90f5">domača</comp>
+              <comp position="2" type="headword" sloleks="LE_af1e1944783d4fa2c885849b7a2d6403">perjad</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="reja PERJADI" cluster="1" frequency="10" logDice="5.55">
+              <comp position="1" type="collocate" sloleks="LE_7ab9f315ad27dd19d76eb4c6d2e4b90c">reja</comp>
+              <comp position="2" type="headword" sloleks="LE_af1e1944783d4fa2c885849b7a2d6403">PERJADI</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ4">
+          <collocations>
+            <collocation form="lov na perjad" cluster="1" frequency="4" logDice="3.67">
+              <comp position="1" type="collocate" sloleks="LE_edd39bd58891ca70e7f6a1f23509f935">lov</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_af1e1944783d4fa2c885849b7a2d6403">perjad</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="krma za perjad" cluster="1" frequency="5" logDice="7.07">
+              <comp position="1" type="collocate" sloleks="LE_b291592b892d5108296d33726c3140fd">krma</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_af1e1944783d4fa2c885849b7a2d6403">perjad</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

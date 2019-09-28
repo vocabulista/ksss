@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="2446">mediti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">539</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="mediti v predalu" cluster="1" frequency="11" logDice="6.94">
+              <comp position="1" type="headword" sloleks="LE_225bec47681c7b98196319cc85faffd9">mediti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_5b954b3204abb7c88d973ae8bfe9e0d6">predalu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="malo mediti" cluster="1" frequency="7" logDice="0.79">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_225bec47681c7b98196319cc85faffd9">mediti</comp>
+            </collocation>
+            <collocation form="dolgo mediti" cluster="2" frequency="5" logDice="0.67">
+              <comp position="1" type="collocate" sloleks="LE_554690ff0ebb8eed6d3fcb26dfdc3eef">dolgo</comp>
+              <comp position="2" type="headword" sloleks="LE_225bec47681c7b98196319cc85faffd9">mediti</comp>
+            </collocation>
+            <collocation form="dobro mediti" cluster="3" frequency="17" logDice="0.21">
+              <comp position="1" type="collocate" sloleks="LE_43e8da3e283609f4de7cfdb7a3e3a938">dobro</comp>
+              <comp position="2" type="headword" sloleks="LE_225bec47681c7b98196319cc85faffd9">mediti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,40 @@
+<entry>
+  <header>
+    <lexical_unit id="61665">jadikovanje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">544</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 nad sbz6">
+          <collocations>
+            <collocation form="jadikovanje nad usodo" cluster="1" frequency="7" logDice="9.97">
+              <comp position="1" type="headword" sloleks="LE_9b2478e1113ac2311e8903f67ebc2b1b">jadikovanje</comp>
+              <comp position="2" type="other" sloleks="LE_d1a9059d44a24194d17af34039c48e9a">nad</comp>
+              <comp position="3" type="collocate" sloleks="LE_b1d14ebdc7a6abd9b935251ee7b61ba2">usodo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 brez SBZ2">
+          <collocations>
+            <collocation form="svet brez jadikovanja" cluster="1" frequency="4" logDice="5.86">
+              <comp position="1" type="collocate" sloleks="LE_55184295ed657acc8ec5dcd62f7084bf">svet</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_9b2478e1113ac2311e8903f67ebc2b1b">jadikovanja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="vzrok za jadikovanje" cluster="1" frequency="4" logDice="2.02">
+              <comp position="1" type="collocate" sloleks="LE_512feae3d46dd338651f56dfb32f271e">vzrok</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_9b2478e1113ac2311e8903f67ebc2b1b">jadikovanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

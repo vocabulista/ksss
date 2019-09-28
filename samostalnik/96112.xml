@@ -1,0 +1,29 @@
+<entry>
+  <header>
+    <lexical_unit id="96112">vezir</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">450</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="velik vezir" cluster="1" frequency="216" logDice="1.6">
+              <comp position="1" type="collocate" sloleks="LE_6ca59c38ee7f7e489a6c13cd1c322726">velik</comp>
+              <comp position="2" type="headword" sloleks="LE_03d237cc353a9b8950e61684658eda4e">vezir</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="grobnica vezirja" cluster="1" frequency="6" logDice="6.77">
+              <comp position="1" type="collocate" sloleks="LE_79640034c11c64c08b1063b9a9e8db5e">grobnica</comp>
+              <comp position="2" type="headword" sloleks="LE_03d237cc353a9b8950e61684658eda4e">vezirja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

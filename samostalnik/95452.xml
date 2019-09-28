@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="95452">vagabund</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">616</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="vagabund iz Gradca" cluster="1" frequency="6" logDice="6.78">
+              <comp position="1" type="headword" sloleks="LE_b89ccc814b963c6d26cbd4579b1c78fa">vagabund</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_40d7be10a349890843cfc56b666feabe">Gradca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pojoč vagabund" cluster="1" frequency="8" logDice="6.16">
+              <comp position="1" type="collocate" sloleks="LE_6676ddd57f5ed8990db129799e0cb586">pojoč</comp>
+              <comp position="2" type="headword" sloleks="LE_b89ccc814b963c6d26cbd4579b1c78fa">vagabund</comp>
+            </collocation>
+            <collocation form="mrtev vagabund" cluster="2" frequency="26" logDice="4.69">
+              <comp position="1" type="collocate" sloleks="LE_cb5f532d4270d28973cc89f7ded21a6f">mrtev</comp>
+              <comp position="2" type="headword" sloleks="LE_b89ccc814b963c6d26cbd4579b1c78fa">vagabund</comp>
+            </collocation>
+            <collocation form="štajerski vagabund" cluster="3" frequency="9" logDice="3.53">
+              <comp position="1" type="collocate" sloleks="LE_22f0a49fef4ea87e6a9f31135efe77a9">štajerski</comp>
+              <comp position="2" type="headword" sloleks="LE_b89ccc814b963c6d26cbd4579b1c78fa">vagabund</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="uspavanka za vagabunda" cluster="1" frequency="27" logDice="12.38">
+              <comp position="1" type="collocate" sloleks="LE_097cc72241d7efeab619e20d2691b493">uspavanka</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_b89ccc814b963c6d26cbd4579b1c78fa">vagabunda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

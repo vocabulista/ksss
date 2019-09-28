@@ -1,0 +1,71 @@
+<entry>
+  <header>
+    <lexical_unit id="29445">ponovljiv</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">530</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="ponovljiv original" cluster="1" frequency="6" logDice="6.82">
+              <comp position="1" type="headword" sloleks="LE_00e7c0afdca8cf7b6babdc20cc3fbcaf">ponovljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_f009ba4b15bcb475191e4d458ffef41a">original</comp>
+            </collocation>
+            <collocation form="ponovljiv podvig" cluster="2" frequency="10" logDice="3.95">
+              <comp position="1" type="headword" sloleks="LE_00e7c0afdca8cf7b6babdc20cc3fbcaf">ponovljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_556e613afb927d538ed9ff8e2b0b3be6">podvig</comp>
+            </collocation>
+            <collocation form="ponovljiv test" cluster="3" frequency="18" logDice="3.85">
+              <comp position="1" type="headword" sloleks="LE_00e7c0afdca8cf7b6babdc20cc3fbcaf">ponovljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9ec7ab730b3894358b8a9143ca6bfa0">test</comp>
+            </collocation>
+            <collocation form="ponovljiv rezultat" cluster="4" frequency="15" logDice="1.65">
+              <comp position="1" type="headword" sloleks="LE_00e7c0afdca8cf7b6babdc20cc3fbcaf">ponovljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_600a298eeada06fc82a0a77cfb9df123">rezultat</comp>
+            </collocation>
+            <collocation form="ponovljiv dosežek" cluster="4" frequency="13" logDice="2.71">
+              <comp position="1" type="headword" sloleks="LE_00e7c0afdca8cf7b6babdc20cc3fbcaf">ponovljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_404a678dec18a8769d502ebd94365297">dosežek</comp>
+            </collocation>
+            <collocation form="ponovljiva lastnost" cluster="5" frequency="7" logDice="1.69">
+              <comp position="1" type="headword" sloleks="LE_00e7c0afdca8cf7b6babdc20cc3fbcaf">ponovljiva</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9e19f48ce23fa03bd6cf2669b73a296">lastnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="ponovljiv in/ali varen" cluster="1" frequency="18" logDice="5.67">
+              <comp position="3" type="headword" sloleks="LE_00e7c0afdca8cf7b6babdc20cc3fbcaf">ponovljiv</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_bc8c5dc2994bc436e522e289e5f32b43">varen</comp>
+              </collocation>
+            <collocation form="ponovljiv in/ali natančen" cluster="2" frequency="5" logDice="4.65">
+              <comp position="3" type="headword" sloleks="LE_00e7c0afdca8cf7b6babdc20cc3fbcaf">ponovljiv</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_229d70f4dcbb0db8dfccf3b59dec8e3b">natančen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="težko ponovljiv" cluster="1" frequency="197" logDice="7.42">
+              <comp position="1" type="collocate" sloleks="LE_1b2258380d2b90f394d61087a8c6ff51">težko</comp>
+              <comp position="2" type="headword" sloleks="LE_00e7c0afdca8cf7b6babdc20cc3fbcaf">ponovljiv</comp>
+            </collocation>
+            <collocation form="večkrat ponovljiv" cluster="2" frequency="6" logDice="3.54">
+              <comp position="1" type="collocate" sloleks="LE_a632a4cd780b70ff7634918837d4eddb">večkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_00e7c0afdca8cf7b6babdc20cc3fbcaf">ponovljiv</comp>
+            </collocation>
+            <collocation form="nikoli ponovljiv" cluster="2" frequency="6" logDice="3.34">
+              <comp position="1" type="collocate" sloleks="LE_6ffec37fc59ab2f513410468cce388b4">nikoli</comp>
+              <comp position="2" type="headword" sloleks="LE_00e7c0afdca8cf7b6babdc20cc3fbcaf">ponovljiv</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

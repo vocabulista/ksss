@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="76214">otročarija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">432</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="otročarija z Michaelom" cluster="1" frequency="36" logDice="10.92">
+              <comp position="1" type="headword" sloleks="LE_1c8564e6d93051be6b05a1c852ffdc02">otročarija</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_07e3c62354e55797406cb924ce7f9732">Michaelom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="belobarven otročarija" cluster="1" frequency="8" logDice="10.98">
+              <comp position="1" type="collocate" sloleks="">belobarven</comp>
+              <comp position="2" type="headword" sloleks="LE_1c8564e6d93051be6b05a1c852ffdc02">otročarija</comp>
+            </collocation>
+            <collocation form="navadna otročarija" cluster="2" frequency="18" logDice="2.89">
+              <comp position="1" type="collocate" sloleks="LE_f59369d8b37702c03d2e6f31cbe3f5d8">navadna</comp>
+              <comp position="2" type="headword" sloleks="LE_1c8564e6d93051be6b05a1c852ffdc02">otročarija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

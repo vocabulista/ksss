@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="92306">surovost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1108</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="surovost divjine" cluster="1" frequency="10" logDice="6.58">
+              <comp position="1" type="headword" sloleks="LE_4936c3c0e77d4454194f5e80383f6aa6">surovost</comp>
+              <comp position="2" type="collocate" sloleks="LE_df6bb6435aa2ff8eb2f1f68555e19c6c">divjine</comp>
+            </collocation>
+            <collocation form="surovost razmere" cluster="2" frequency="8" logDice="2.96">
+              <comp position="1" type="headword" sloleks="LE_4936c3c0e77d4454194f5e80383f6aa6">surovost</comp>
+              <comp position="2" type="collocate" sloleks="LE_f9cdd3c7dab1cb0cac2577ae8e353759">razmere</comp>
+            </collocation>
+            <collocation form="surovost življenja" cluster="2" frequency="8" logDice="0.51">
+              <comp position="1" type="headword" sloleks="LE_4936c3c0e77d4454194f5e80383f6aa6">surovost</comp>
+              <comp position="2" type="collocate" sloleks="LE_b7a6a2019becc6510edb8591e171b0a7">življenja</comp>
+            </collocation>
+            <collocation form="surovost vojne" cluster="3" frequency="8" logDice="1.89">
+              <comp position="1" type="headword" sloleks="LE_4936c3c0e77d4454194f5e80383f6aa6">surovost</comp>
+              <comp position="2" type="collocate" sloleks="LE_b0936a94a2134cd7fa018cf829ffd67c">vojne</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="občutiti surovost" cluster="1" frequency="13" logDice="5.05">
+              <comp position="1" type="collocate" sloleks="LE_5f9c6521889e4eb5476ff3812b9b8a7c">občutiti</comp>
+              <comp position="2" type="headword" sloleks="LE_4936c3c0e77d4454194f5e80383f6aa6">surovost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="policijska surovost" cluster="1" frequency="8" logDice="1.07">
+              <comp position="1" type="collocate" sloleks="LE_5cb5689f1625557538373d73205c8b4d">policijska</comp>
+              <comp position="2" type="headword" sloleks="LE_4936c3c0e77d4454194f5e80383f6aa6">surovost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="zgodba o surovosti" cluster="1" frequency="4" logDice="1.17">
+              <comp position="1" type="collocate" sloleks="LE_9d9531a39496cd12f07e32ab50c0280f">zgodba</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_4936c3c0e77d4454194f5e80383f6aa6">surovosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

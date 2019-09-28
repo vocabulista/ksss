@@ -1,0 +1,66 @@
+<entry>
+  <header>
+    <lexical_unit id="3624">odkopavati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">432</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="odkopavati premog" cluster="1" frequency="5" logDice="8.26">
+              <comp position="1" type="headword" sloleks="LE_8c2c595d8c9ec8f43e9659dc52fc99a4">odkopavati</comp>
+              <comp position="2" type="collocate" sloleks="LE_9b3132dd64399140b29883ddd1751bdc">premog</comp>
+            </collocation>
+            <collocation form="odkopavati grobišče" cluster="2" frequency="7" logDice="8.11">
+              <comp position="1" type="headword" sloleks="LE_8c2c595d8c9ec8f43e9659dc52fc99a4">odkopavati</comp>
+              <comp position="2" type="collocate" sloleks="LE_df9a6218014b9b89ff838a416097f6e2">grobišče</comp>
+            </collocation>
+            <collocation form="odkopavati rudo" cluster="3" frequency="6" logDice="8.11">
+              <comp position="1" type="headword" sloleks="LE_8c2c595d8c9ec8f43e9659dc52fc99a4">odkopavati</comp>
+              <comp position="2" type="collocate" sloleks="LE_debc1e89edd9b78b06deeb5b39fba374">rudo</comp>
+            </collocation>
+            <collocation form="odkopavati grob" cluster="4" frequency="13" logDice="6.98">
+              <comp position="1" type="headword" sloleks="LE_8c2c595d8c9ec8f43e9659dc52fc99a4">odkopavati</comp>
+              <comp position="2" type="collocate" sloleks="LE_d56403be43e952c9b37f5f1cadb243c2">grob</comp>
+            </collocation>
+            <collocation form="odkopavati kost" cluster="5" frequency="6" logDice="5.75">
+              <comp position="1" type="headword" sloleks="LE_8c2c595d8c9ec8f43e9659dc52fc99a4">odkopavati</comp>
+              <comp position="2" type="collocate" sloleks="LE_ae860e37542710feadcc849ae3977ee1">kost</comp>
+            </collocation>
+            <collocation form="odkopavati zemljo" cluster="6" frequency="17" logDice="5.41">
+              <comp position="1" type="headword" sloleks="LE_8c2c595d8c9ec8f43e9659dc52fc99a4">odkopavati</comp>
+              <comp position="2" type="collocate" sloleks="LE_9f4cbbb2b72bac81739b4274ec0514cc">zemljo</comp>
+            </collocation>
+            <collocation form="odkopavati ostanek" cluster="7" frequency="6" logDice="4.48">
+              <comp position="1" type="headword" sloleks="LE_8c2c595d8c9ec8f43e9659dc52fc99a4">odkopavati</comp>
+              <comp position="2" type="collocate" sloleks="LE_1e8f1a48f0110a2a2ede2cf44f8963e5">ostanek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="odkopavati z roko" cluster="1" frequency="6" logDice="2.43">
+              <comp position="1" type="headword" sloleks="LE_8c2c595d8c9ec8f43e9659dc52fc99a4">odkopavati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_5fa1bf1096bd6c7b00158af4c43b33b3">roko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="intenzivno odkopavati" cluster="1" frequency="5" logDice="3.14">
+              <comp position="1" type="collocate" sloleks="LE_53d0232447bd782d9fae332e003977a1">intenzivno</comp>
+              <comp position="2" type="headword" sloleks="LE_8c2c595d8c9ec8f43e9659dc52fc99a4">odkopavati</comp>
+            </collocation>
+            <collocation form="ponovno odkopavati" cluster="2" frequency="4" logDice="0.12">
+              <comp position="1" type="collocate" sloleks="LE_d94a650618c4501cb830dca806e400ed">ponovno</comp>
+              <comp position="2" type="headword" sloleks="LE_8c2c595d8c9ec8f43e9659dc52fc99a4">odkopavati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="80004">poltema</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">466</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="privaditi na poltemo" cluster="1" frequency="4" logDice="5.78">
+              <comp position="1" type="collocate" sloleks="LE_2d7b315568103e5c6252cdcc1ec6c2ae">privaditi</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_2db996fdfceadbe176d1f4ecb653cd7e">poltemo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="opaziti v poltemi" cluster="1" frequency="7" logDice="4.83">
+              <comp position="1" type="collocate" sloleks="LE_e07c9aefb78235729a37253780933d1c">opaziti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_2db996fdfceadbe176d1f4ecb653cd7e">poltemi</comp>
+            </collocation>
+            <collocation form="sedeti v poltemi" cluster="2" frequency="11" logDice="4.33">
+              <comp position="1" type="collocate" sloleks="LE_6c51fc6acaa9f912c99d28dae2215dbd">sedeti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_2db996fdfceadbe176d1f4ecb653cd7e">poltemi</comp>
+            </collocation>
+            <collocation form="ležati v poltemi" cluster="3" frequency="7" logDice="4.03">
+              <comp position="1" type="collocate" sloleks="LE_6c35ae92ca5f897f949c465c6469f842">ležati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_2db996fdfceadbe176d1f4ecb653cd7e">poltemi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

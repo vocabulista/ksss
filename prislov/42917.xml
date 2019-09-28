@@ -1,0 +1,57 @@
+<entry>
+  <header>
+    <lexical_unit id="42917">nerešeno</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">822</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ gbz">
+          <collocations>
+            <collocation form="nerešeno ostajati" cluster="1" frequency="37" logDice="5.49">
+              <comp position="1" type="headword" sloleks="LE_fa59241cabc2f64468418b9352e23ca1">nerešeno</comp>
+              <comp position="2" type="collocate" sloleks="LE_72f23160dd4bff8889c05bb3031f8b6d">ostajati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="ostajati nerešeno" cluster="1" frequency="71" logDice="6.98">
+              <comp position="1" type="collocate" sloleks="LE_72f23160dd4bff8889c05bb3031f8b6d">ostajati</comp>
+              <comp position="2" type="headword" sloleks="LE_fa59241cabc2f64468418b9352e23ca1">nerešeno</comp>
+            </collocation>
+            <collocation form="ostati nerešeno" cluster="2" frequency="54" logDice="4.69">
+              <comp position="1" type="collocate" sloleks="LE_f2645fccc77ca8ba15862278bf3ee661">ostati</comp>
+              <comp position="2" type="headword" sloleks="LE_fa59241cabc2f64468418b9352e23ca1">nerešeno</comp>
+            </collocation>
+            <collocation form="pustiti nerešeno" cluster="3" frequency="5" logDice="2.99">
+              <comp position="1" type="collocate" sloleks="LE_4a4360d212c83015c6f3002d01d68ff4">pustiti</comp>
+              <comp position="2" type="headword" sloleks="LE_fa59241cabc2f64468418b9352e23ca1">nerešeno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz RBZ">
+          <collocations>
+            <collocation form="dolgo nerešeno" cluster="1" frequency="5" logDice="4.04">
+              <comp position="1" type="collocate" sloleks="LE_554690ff0ebb8eed6d3fcb26dfdc3eef">dolgo</comp>
+              <comp position="2" type="headword" sloleks="LE_fa59241cabc2f64468418b9352e23ca1">nerešeno</comp>
+            </collocation>
+            <collocation form="naprej nerešeno" cluster="2" frequency="6" logDice="3.41">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_fa59241cabc2f64468418b9352e23ca1">nerešeno</comp>
+            </collocation>
+            <collocation form="povsem nerešeno" cluster="3" frequency="10" logDice="2.17">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_fa59241cabc2f64468418b9352e23ca1">nerešeno</comp>
+            </collocation>
+            <collocation form="vedno nerešeno" cluster="4" frequency="21" logDice="1.51">
+              <comp position="1" type="collocate" sloleks="LE_eaabd5718a27f818fd47358031426355">vedno</comp>
+              <comp position="2" type="headword" sloleks="LE_fa59241cabc2f64468418b9352e23ca1">nerešeno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

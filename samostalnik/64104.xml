@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="64104">kockar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">970</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="strasten kockar" cluster="1" frequency="10" logDice="4.71">
+              <comp position="1" type="collocate" sloleks="LE_3cbc6a443ead00ee5004a88a815cd991">strasten</comp>
+              <comp position="2" type="headword" sloleks="LE_1bfc69cfd9403dfe087ba6eaa48787f7">kockar</comp>
+            </collocation>
+            <collocation form="profesionalen kockar" cluster="2" frequency="12" logDice="3.18">
+              <comp position="1" type="collocate" sloleks="LE_aac9726f22dc82ca3f89a0b3cf2193f6">profesionalen</comp>
+              <comp position="2" type="headword" sloleks="LE_1bfc69cfd9403dfe087ba6eaa48787f7">kockar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="čelo s kockarjem" cluster="1" frequency="12" logDice="4.88">
+              <comp position="1" type="collocate" sloleks="LE_147fccc2e88a7c05d0f77ea0d2836189|LE_56159db6b003731c38bcece0e0c0617b">čelo</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_1bfc69cfd9403dfe087ba6eaa48787f7">kockarjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

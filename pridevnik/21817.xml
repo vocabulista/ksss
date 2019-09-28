@@ -1,0 +1,64 @@
+<entry>
+  <header>
+    <lexical_unit id="21817">kotorski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">803</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 do sbz2">
+          <collocations>
+            <collocation form="kotorski do Njeguš" cluster="1" frequency="4" logDice="13.3">
+              <comp position="1" type="headword" sloleks="LE_09812d0bd112771eb1e671d448433324">kotorski</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="">Njeguš</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="kotorski jugopetrol" cluster="1" frequency="18" logDice="10.82">
+              <comp position="1" type="headword" sloleks="LE_09812d0bd112771eb1e671d448433324">kotorski</comp>
+              <comp position="2" type="collocate" sloleks="">jugopetrol</comp>
+            </collocation>
+            <collocation form="kotorski Jugopetrol" cluster="1" frequency="9" logDice="9.86">
+              <comp position="1" type="headword" sloleks="LE_09812d0bd112771eb1e671d448433324">kotorski</comp>
+              <comp position="2" type="collocate" sloleks="">Jugopetrol</comp>
+            </collocation>
+            <collocation form="kotorski zaliv" cluster="2" frequency="51" logDice="5.82">
+              <comp position="1" type="headword" sloleks="LE_09812d0bd112771eb1e671d448433324">kotorski</comp>
+              <comp position="2" type="collocate" sloleks="LE_039e24eff82d7818d2577fac8c64eca9">zaliv</comp>
+            </collocation>
+            <collocation form="kotorska škofija" cluster="3" frequency="6" logDice="4.44">
+              <comp position="1" type="headword" sloleks="LE_09812d0bd112771eb1e671d448433324">kotorska</comp>
+              <comp position="2" type="collocate" sloleks="LE_34abf3c5c27d09126d1278980501c36c">škofija</comp>
+            </collocation>
+            <collocation form="kotorski festival" cluster="4" frequency="7" logDice="1.02">
+              <comp position="1" type="headword" sloleks="LE_09812d0bd112771eb1e671d448433324">kotorski</comp>
+              <comp position="2" type="collocate" sloleks="LE_ced9627635c10e3958ee72069937f6bf">festival</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 v sbz5">
+          <collocations>
+            <collocation form="kotorski v gori" cluster="1" frequency="15" logDice="9.97">
+              <comp position="1" type="headword" sloleks="LE_09812d0bd112771eb1e671d448433324">kotorski</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_8faa372c7e81e800eb88188ec3f5cde9">gori</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 z sbz6">
+          <collocations>
+            <collocation form="Kotorski s postankom" cluster="1" frequency="8" logDice="12.27">
+              <comp position="1" type="headword" sloleks="LE_09812d0bd112771eb1e671d448433324">Kotorski</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_48dde755b7702eb1005ab56afb6c3aa5">postankom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="71052">naftar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">824</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="naftar iz Edmontona" cluster="1" frequency="8" logDice="10.87">
+              <comp position="1" type="headword" sloleks="LE_8ab43d1aca672017ccf5c7fbcb554651">naftar</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_0d5d391df0498dba2d64b02d61474c50">Edmontona</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="teksaški naftar" cluster="1" frequency="14" logDice="6.63">
+              <comp position="1" type="collocate" sloleks="LE_9ef64fda16b6d8efe8812f52698e8aee">teksaški</comp>
+              <comp position="2" type="headword" sloleks="LE_8ab43d1aca672017ccf5c7fbcb554651">naftar</comp>
+            </collocation>
+            <collocation form="lendavski naftar" cluster="2" frequency="12" logDice="5.36">
+              <comp position="1" type="collocate" sloleks="LE_a2ff2f0ce5da2d03f667da49b23efbc7">lendavski</comp>
+              <comp position="2" type="headword" sloleks="LE_8ab43d1aca672017ccf5c7fbcb554651">naftar</comp>
+            </collocation>
+            <collocation form="ruski naftar" cluster="3" frequency="15" logDice="1.76">
+              <comp position="1" type="collocate" sloleks="LE_df4401d7b5a13d70c37499490f9edbaa">ruski</comp>
+              <comp position="2" type="headword" sloleks="LE_8ab43d1aca672017ccf5c7fbcb554651">naftar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="delnica naftarja" cluster="1" frequency="8" logDice="1.85">
+              <comp position="1" type="collocate" sloleks="LE_a4c3bc7b70a19466bd299690c070a28a">delnica</comp>
+              <comp position="2" type="headword" sloleks="LE_8ab43d1aca672017ccf5c7fbcb554651">naftarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

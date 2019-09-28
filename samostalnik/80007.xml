@@ -1,0 +1,68 @@
+<entry>
+  <header>
+    <lexical_unit id="80007">poltovornjak</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">905</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="poltovornjak s pogonom" cluster="1" frequency="4" logDice="4.81">
+              <comp position="1" type="headword" sloleks="LE_5f1c2508c56fb401884103d784ec6e59">poltovornjak</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_4f66efe3bc56e39a131be9f6acd56121">pogonom</comp>
+            </collocation>
+            <collocation form="poltovornjak z oznako" cluster="2" frequency="4" logDice="3.64">
+              <comp position="1" type="headword" sloleks="LE_5f1c2508c56fb401884103d784ec6e59">poltovornjak</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_c30284008706011d571d9d77b13dc6f8">oznako</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="naložiti na poltovornjak" cluster="1" frequency="9" logDice="6.05">
+              <comp position="1" type="collocate" sloleks="LE_6b7cc55d9c773ed8f6deae981085bfe0">naložiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_5f1c2508c56fb401884103d784ec6e59">poltovornjak</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Fordov poltovornjak" cluster="1" frequency="20" logDice="6.92">
+              <comp position="1" type="collocate" sloleks="LE_873621b047bfe276530afab8103d4d0b">Fordov</comp>
+              <comp position="2" type="headword" sloleks="LE_5f1c2508c56fb401884103d784ec6e59">poltovornjak</comp>
+            </collocation>
+            <collocation form="terenski poltovornjak" cluster="2" frequency="73" logDice="6.82">
+              <comp position="1" type="collocate" sloleks="LE_a5c1fbe17cc2b363ded055b76e67261c">terenski</comp>
+              <comp position="2" type="headword" sloleks="LE_5f1c2508c56fb401884103d784ec6e59">poltovornjak</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="voznica poltovornjaka" cluster="1" frequency="5" logDice="5.52">
+              <comp position="1" type="collocate" sloleks="LE_2edcfe08341842c6d621f2e2f9c0dad9">voznica</comp>
+              <comp position="2" type="headword" sloleks="LE_5f1c2508c56fb401884103d784ec6e59">poltovornjaka</comp>
+            </collocation>
+            <collocation form="razred poltovornjaka" cluster="2" frequency="5" logDice="2.63">
+              <comp position="1" type="collocate" sloleks="LE_9e5978e647d0b1b5c8f6b7a8a17b952a">razred</comp>
+              <comp position="2" type="headword" sloleks="LE_5f1c2508c56fb401884103d784ec6e59">poltovornjaka</comp>
+            </collocation>
+            <collocation form="trg poltovornjaka" cluster="3" frequency="11" logDice="2.0">
+              <comp position="1" type="collocate" sloleks="LE_b735dfd291d0abd31eeabd75c4133487">trg</comp>
+              <comp position="2" type="headword" sloleks="LE_5f1c2508c56fb401884103d784ec6e59">poltovornjaka</comp>
+            </collocation>
+            <collocation form="ljubitelj poltovornjaka" cluster="4" frequency="6" logDice="1.5">
+              <comp position="1" type="collocate" sloleks="LE_ab15741bf46c87d81b790fd75553c5d9">ljubitelj</comp>
+              <comp position="2" type="headword" sloleks="LE_5f1c2508c56fb401884103d784ec6e59">poltovornjaka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

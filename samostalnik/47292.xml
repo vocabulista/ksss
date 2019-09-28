@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="47292">anagram</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">774</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="anagram iz številke" cluster="1" frequency="5" logDice="5.74">
+              <comp position="1" type="headword" sloleks="LE_02e30054b7fc2d8e66536f03fd78e49a">anagram</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_ebd741e03af85017076d3a5582503217">številke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="anagram priimka" cluster="1" frequency="13" logDice="7.4">
+              <comp position="1" type="headword" sloleks="LE_02e30054b7fc2d8e66536f03fd78e49a">anagram</comp>
+              <comp position="2" type="collocate" sloleks="LE_560ca10af028f1d2f876912d492351d7">priimka</comp>
+            </collocation>
+            <collocation form="anagram besede" cluster="2" frequency="25" logDice="4.27">
+              <comp position="1" type="headword" sloleks="LE_02e30054b7fc2d8e66536f03fd78e49a">anagram</comp>
+              <comp position="2" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">besede</comp>
+            </collocation>
+            <collocation form="anagram imena" cluster="3" frequency="16" logDice="4.23">
+              <comp position="1" type="headword" sloleks="LE_02e30054b7fc2d8e66536f03fd78e49a">anagram</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">imena</comp>
+            </collocation>
+            <collocation form="rešitev anagrama" cluster="4" frequency="13" logDice="3.18">
+              <comp position="1" type="collocate" sloleks="LE_f5af87b429ea3eb8f2c51afeac0fbfa8">rešitev</comp>
+              <comp position="2" type="headword" sloleks="LE_02e30054b7fc2d8e66536f03fd78e49a">anagrama</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="logogrifen anagram" cluster="1" frequency="13" logDice="11.17">
+              <comp position="1" type="collocate" sloleks="">logogrifen</comp>
+              <comp position="2" type="headword" sloleks="LE_02e30054b7fc2d8e66536f03fd78e49a">anagram</comp>
+            </collocation>
+            <collocation form="nagraden anagram" cluster="2" frequency="30" logDice="3.92">
+              <comp position="1" type="collocate" sloleks="LE_e3c7437815a8a727e8a2c51905b3136b">nagraden</comp>
+              <comp position="2" type="headword" sloleks="LE_02e30054b7fc2d8e66536f03fd78e49a">anagram</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

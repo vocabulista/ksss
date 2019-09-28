@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="90170">sondiranje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">627</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="sondiranje grobišča" cluster="1" frequency="48" logDice="8.85">
+              <comp position="1" type="headword" sloleks="LE_7643683a2837b445606bc6f291702c32">sondiranje</comp>
+              <comp position="2" type="collocate" sloleks="LE_df9a6218014b9b89ff838a416097f6e2">grobišča</comp>
+            </collocation>
+            <collocation form="sondiranje terena" cluster="2" frequency="37" logDice="7.7">
+              <comp position="1" type="headword" sloleks="LE_7643683a2837b445606bc6f291702c32">sondiranje</comp>
+              <comp position="2" type="collocate" sloleks="LE_dc1c160a581734df8b85076aa566efb9">terena</comp>
+            </collocation>
+            <collocation form="rezultat sondiranja" cluster="3" frequency="12" logDice="2.05">
+              <comp position="1" type="collocate" sloleks="LE_600a298eeada06fc82a0a77cfb9df123">rezultat</comp>
+              <comp position="2" type="headword" sloleks="LE_7643683a2837b445606bc6f291702c32">sondiranja</comp>
+            </collocation>
+            <collocation form="postopek sondiranja" cluster="4" frequency="8" logDice="1.45">
+              <comp position="1" type="collocate" sloleks="LE_775481f1f5ba42be7d6b3125176050cb">postopek</comp>
+              <comp position="2" type="headword" sloleks="LE_7643683a2837b445606bc6f291702c32">sondiranja</comp>
+            </collocation>
+            <collocation form="program sondiranja" cluster="5" frequency="7" logDice="0.63">
+              <comp position="1" type="collocate" sloleks="LE_2da10dc9e8a0e2ff7fd5a1ddd0278e88">program</comp>
+              <comp position="2" type="headword" sloleks="LE_7643683a2837b445606bc6f291702c32">sondiranja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="arheološko sondiranje" cluster="1" frequency="40" logDice="6.26">
+              <comp position="1" type="collocate" sloleks="LE_72cc641d29c31362cf8b2cebdb363160">arheološko</comp>
+              <comp position="2" type="headword" sloleks="LE_7643683a2837b445606bc6f291702c32">sondiranje</comp>
+            </collocation>
+            <collocation form="opravljeno sondiranje" cluster="2" frequency="8" logDice="2.11">
+              <comp position="1" type="collocate" sloleks="LE_3988ad74cbb80eab6b672445486f813b">opravljeno</comp>
+              <comp position="2" type="headword" sloleks="LE_7643683a2837b445606bc6f291702c32">sondiranje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="poročilo o sondiranju" cluster="1" frequency="6" logDice="2.36">
+              <comp position="1" type="collocate" sloleks="LE_00452c6ec77fc0b47997a85c80913ca4">poročilo</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_7643683a2837b445606bc6f291702c32">sondiranju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

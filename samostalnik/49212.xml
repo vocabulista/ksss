@@ -1,0 +1,75 @@
+<entry>
+  <header>
+    <lexical_unit id="49212">bibliotekar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">720</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="bibliotekar iz Knjižnice" cluster="1" frequency="5" logDice="7.3">
+              <comp position="1" type="headword" sloleks="LE_ac2b3c73304c79186c3aee6b2cfda09d">bibliotekar</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_4335cf07a92312c0b252e55da6f28918">Knjižnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="diplomiran bibliotekar" cluster="1" frequency="12" logDice="4.85">
+              <comp position="1" type="collocate" sloleks="LE_287ff60a9555550708087b0d742b2bac">diplomiran</comp>
+              <comp position="2" type="headword" sloleks="LE_ac2b3c73304c79186c3aee6b2cfda09d">bibliotekar</comp>
+            </collocation>
+            <collocation form="univerziteten bibliotekar" cluster="1" frequency="11" logDice="3.37">
+              <comp position="1" type="collocate" sloleks="LE_4939c41c603f633c5bca1b48909053f4">univerziteten</comp>
+              <comp position="2" type="headword" sloleks="LE_ac2b3c73304c79186c3aee6b2cfda09d">bibliotekar</comp>
+            </collocation>
+            <collocation form="celjski bibliotekar" cluster="2" frequency="10" logDice="1.25">
+              <comp position="1" type="collocate" sloleks="LE_e6cc1c417aac41b99f591e7e730d043e">celjski</comp>
+              <comp position="2" type="headword" sloleks="LE_ac2b3c73304c79186c3aee6b2cfda09d">bibliotekar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="posvetovanje bibliotekarja" cluster="1" frequency="5" logDice="7.47">
+              <comp position="1" type="collocate" sloleks="LE_bc4788daa10cf31739b1dd477d86d2a8">posvetovanje</comp>
+              <comp position="2" type="headword" sloleks="LE_ac2b3c73304c79186c3aee6b2cfda09d">bibliotekarja</comp>
+            </collocation>
+            <collocation form="poklic bibliotekarja" cluster="2" frequency="5" logDice="4.52">
+              <comp position="1" type="collocate" sloleks="LE_ee2dc2f20fc3eba609ef788b9cb08df4">poklic</comp>
+              <comp position="2" type="headword" sloleks="LE_ac2b3c73304c79186c3aee6b2cfda09d">bibliotekarja</comp>
+            </collocation>
+            <collocation form="izobraževanje bibliotekarja" cluster="2" frequency="5" logDice="3.43">
+              <comp position="1" type="collocate" sloleks="LE_94aeb280aef97194e99f9e24a34d8669">izobraževanje</comp>
+              <comp position="2" type="headword" sloleks="LE_ac2b3c73304c79186c3aee6b2cfda09d">bibliotekarja</comp>
+            </collocation>
+            <collocation form="društvo bibliotekarja" cluster="3" frequency="58" logDice="4.41">
+              <comp position="1" type="collocate" sloleks="LE_f1fd3c17e2206150a5ab762769b6e8ff">društvo</comp>
+              <comp position="2" type="headword" sloleks="LE_ac2b3c73304c79186c3aee6b2cfda09d">bibliotekarja</comp>
+            </collocation>
+            <collocation form="plača bibliotekarja" cluster="4" frequency="5" logDice="2.85">
+              <comp position="1" type="collocate" sloleks="LE_5e60f7e201847a7be65d2212fdd74103">plača</comp>
+              <comp position="2" type="headword" sloleks="LE_ac2b3c73304c79186c3aee6b2cfda09d">bibliotekarja</comp>
+            </collocation>
+            <collocation form="bibliotekar knjižnice" cluster="5" frequency="16" logDice="4.71">
+              <comp position="1" type="headword" sloleks="LE_ac2b3c73304c79186c3aee6b2cfda09d">bibliotekar</comp>
+              <comp position="2" type="collocate" sloleks="LE_4335cf07a92312c0b252e55da6f28918">knjižnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="seminar za bibliotekarja" cluster="1" frequency="4" logDice="5.46">
+              <comp position="1" type="collocate" sloleks="LE_b1e3761a328fce8e39b811f3f4de1103">seminar</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ac2b3c73304c79186c3aee6b2cfda09d">bibliotekarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

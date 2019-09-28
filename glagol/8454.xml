@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="8454">sprogramirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">458</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="sprogramirati tipko" cluster="1" frequency="4" logDice="4.6">
+              <comp position="1" type="headword" sloleks="LE_51024d1d37d891a17b2f53bc8ca7105c">sprogramirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_e8247f107a893dcccbcc962f0edd4cf8">tipko</comp>
+            </collocation>
+            <collocation form="sprogramirati gumb" cluster="2" frequency="4" logDice="3.95">
+              <comp position="1" type="headword" sloleks="LE_51024d1d37d891a17b2f53bc8ca7105c">sprogramirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_c83967a4fce2e95a82761a2cdcb75a8d">gumb</comp>
+            </collocation>
+            <collocation form="sprogramirati računalnik" cluster="3" frequency="5" logDice="3.47">
+              <comp position="1" type="headword" sloleks="LE_51024d1d37d891a17b2f53bc8ca7105c">sprogramirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b8ee172630f061da51fb6d4a9d5549ba">računalnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="skrivaj sprogramirati" cluster="1" frequency="5" logDice="4.36">
+              <comp position="1" type="collocate" sloleks="LE_44d5e938944508333ccd098c533b8116">skrivaj</comp>
+              <comp position="2" type="headword" sloleks="LE_51024d1d37d891a17b2f53bc8ca7105c">sprogramirati</comp>
+            </collocation>
+            <collocation form="vse sprogramirati" cluster="2" frequency="5" logDice="0.01">
+              <comp position="1" type="collocate" sloleks="LE_69e1f6ea0eba690182112fa5f7865561">vse</comp>
+              <comp position="2" type="headword" sloleks="LE_51024d1d37d891a17b2f53bc8ca7105c">sprogramirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

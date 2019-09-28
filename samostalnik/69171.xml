@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="69171">merjenec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">446</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="Merjenec z nadprijemom" cluster="1" frequency="4" logDice="10.62">
+              <comp position="1" type="headword" sloleks="LE_41a85490187045dc39cf3eec68ea8f8f">Merjenec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_7ef8fdaa80e0ed9a8357b75f87701f86">nadprijemom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="vzorec merjenca" cluster="1" frequency="86" logDice="6.66">
+              <comp position="1" type="collocate" sloleks="LE_5042c4687567fc53efbfd828e5440371">vzorec</comp>
+              <comp position="2" type="headword" sloleks="LE_41a85490187045dc39cf3eec68ea8f8f">merjenca</comp>
+            </collocation>
+            <collocation form="masa merjenca" cluster="2" frequency="7" logDice="4.32">
+              <comp position="1" type="collocate" sloleks="LE_63a0fbbb7b40f249d202d61b3ead2f07">masa</comp>
+              <comp position="2" type="headword" sloleks="LE_41a85490187045dc39cf3eec68ea8f8f">merjenca</comp>
+            </collocation>
+            <collocation form="površina merjenca" cluster="3" frequency="8" logDice="3.34">
+              <comp position="1" type="collocate" sloleks="LE_7d18868a4d96322e862a8e6591930019">površina</comp>
+              <comp position="2" type="headword" sloleks="LE_41a85490187045dc39cf3eec68ea8f8f">merjenca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

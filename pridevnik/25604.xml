@@ -1,0 +1,62 @@
+<entry>
+  <header>
+    <lexical_unit id="25604">neopravičen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">864</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="neopravičen izostanek" cluster="1" frequency="223" logDice="11.79">
+              <comp position="1" type="headword" sloleks="LE_e5d0f9ac72dc8e215919412005bb9bdc">neopravičen</comp>
+              <comp position="2" type="collocate" sloleks="LE_6447fb70a3a33143aa06fe924bd825a5">izostanek</comp>
+            </collocation>
+            <collocation form="neopravičeno izostajanje" cluster="2" frequency="24" logDice="9.83">
+              <comp position="1" type="headword" sloleks="LE_e5d0f9ac72dc8e215919412005bb9bdc">neopravičeno</comp>
+              <comp position="2" type="collocate" sloleks="LE_19a366d7e5eecb530cbe6950055e27dd">izostajanje</comp>
+            </collocation>
+            <collocation form="neopravičena odsotnost" cluster="3" frequency="98" logDice="7.99">
+              <comp position="1" type="headword" sloleks="LE_e5d0f9ac72dc8e215919412005bb9bdc">neopravičena</comp>
+              <comp position="2" type="collocate" sloleks="LE_5730a79196049ec4f96d7a3d73132813">odsotnost</comp>
+            </collocation>
+            <collocation form="neopravičena ura" cluster="4" frequency="208" logDice="5.37">
+              <comp position="1" type="headword" sloleks="LE_e5d0f9ac72dc8e215919412005bb9bdc">neopravičena</comp>
+              <comp position="2" type="collocate" sloleks="LE_77e6b5a072871d299d405565eaad4389">ura</comp>
+            </collocation>
+            <collocation form="neopravičena obsodba" cluster="5" frequency="6" logDice="4.55">
+              <comp position="1" type="headword" sloleks="LE_e5d0f9ac72dc8e215919412005bb9bdc">neopravičena</comp>
+              <comp position="2" type="collocate" sloleks="LE_3f782de06d3c138b4a30509a89141e55">obsodba</comp>
+            </collocation>
+            <collocation form="neopravičen razlog" cluster="6" frequency="25" logDice="2.7">
+              <comp position="1" type="headword" sloleks="LE_e5d0f9ac72dc8e215919412005bb9bdc">neopravičen</comp>
+              <comp position="2" type="collocate" sloleks="LE_26c1514e5bfab4dd2b04f4e4711659e1">razlog</comp>
+            </collocation>
+            <collocation form="neopravičen strošek" cluster="7" frequency="6" logDice="0.88">
+              <comp position="1" type="headword" sloleks="LE_e5d0f9ac72dc8e215919412005bb9bdc">neopravičen</comp>
+              <comp position="2" type="collocate" sloleks="LE_c04e68299307d659d0cadde6f5fc0c28">strošek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="neopravičen in/ali opravičen" cluster="1" frequency="34" logDice="13.21">
+              <comp position="3" type="headword" sloleks="LE_e5d0f9ac72dc8e215919412005bb9bdc">neopravičen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_84861284da04e7a966a5a06e590736d6">opravičen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="ekonomsko neopravičen" cluster="1" frequency="6" logDice="4.92">
+              <comp position="1" type="collocate" sloleks="LE_b284ea15d7c5c03a24ce0dca25642089">ekonomsko</comp>
+              <comp position="2" type="headword" sloleks="LE_e5d0f9ac72dc8e215919412005bb9bdc">neopravičen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

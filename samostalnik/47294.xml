@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="47294">anahronizem</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">756</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="anahronizem časa" cluster="1" frequency="9" logDice="0.8">
+              <comp position="1" type="headword" sloleks="LE_1d0501f958a51868b46996e65aa42657">anahronizem</comp>
+              <comp position="2" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">časa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za anahronizem" cluster="1" frequency="12" logDice="-0.02">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_1d0501f958a51868b46996e65aa42657">anahronizem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="svojevrsten anahronizem" cluster="1" frequency="18" logDice="4.79">
+              <comp position="1" type="collocate" sloleks="LE_3eaf6fcace823631c59c8bac019f4296">svojevrsten</comp>
+              <comp position="2" type="headword" sloleks="LE_1d0501f958a51868b46996e65aa42657">anahronizem</comp>
+            </collocation>
+            <collocation form="zgodovinski anahronizem" cluster="1" frequency="9" logDice="1.62">
+              <comp position="1" type="collocate" sloleks="LE_d84686f094c4cb6db7390b0d069179f7">zgodovinski</comp>
+              <comp position="2" type="headword" sloleks="LE_1d0501f958a51868b46996e65aa42657">anahronizem</comp>
+            </collocation>
+            <collocation form="čist anahronizem" cluster="2" frequency="38" logDice="3.47">
+              <comp position="1" type="collocate" sloleks="LE_b0f01a4af83087947c0c1f51b4c0c6bc">čist</comp>
+              <comp position="2" type="headword" sloleks="LE_1d0501f958a51868b46996e65aa42657">anahronizem</comp>
+            </collocation>
+            <collocation form="popoln anahronizem" cluster="2" frequency="22" logDice="2.54">
+              <comp position="1" type="collocate" sloleks="LE_814a2c9c333ef1e9cb481395c05b7346">popoln</comp>
+              <comp position="2" type="headword" sloleks="LE_1d0501f958a51868b46996e65aa42657">anahronizem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

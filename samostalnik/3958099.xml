@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="3958099">supertest</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz na SBZ5">
+          <collocations>
+            <collocation form="imeti na supertest" cluster="1" frequency="11" logDice="2.08">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="">supertest</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="petina supertest" cluster="1" frequency="7" logDice="4.47">
+              <comp position="1" type="collocate" sloleks="LE_0b0f8f1fd0e1191f7a25516a0efe7048">petina</comp>
+              <comp position="2" type="headword" sloleks="">supertest</comp>
+            </collocation>
+            <collocation form="zaključek supertest" cluster="2" frequency="6" logDice="2.3">
+              <comp position="1" type="collocate" sloleks="LE_328c8980782a815414140d30d3b24fe9">zaključek</comp>
+              <comp position="2" type="headword" sloleks="">supertest</comp>
+            </collocation>
+            <collocation form="potek supertest" cluster="3" frequency="5" logDice="2.03">
+              <comp position="1" type="collocate" sloleks="LE_5b5f30425c7ba2bd941f07e6ed8b7a83">potek</comp>
+              <comp position="2" type="headword" sloleks="">supertest</comp>
+            </collocation>
+            <collocation form="konec supertest" cluster="4" frequency="51" logDice="1.8">
+              <comp position="1" type="collocate" sloleks="LE_d8d1737076777d9839ea949a2b88751a">konec</comp>
+              <comp position="2" type="headword" sloleks="">supertest</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

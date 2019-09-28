@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="30209">predrepen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">892</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="predrepna plavut" cluster="1" frequency="705" logDice="11.78">
+              <comp position="1" type="headword" sloleks="LE_f2e235789687d9a2b4bb5ef546dbda47">predrepna</comp>
+              <comp position="2" type="collocate" sloleks="LE_6207e5f958b500b7bd3802438de7777d">plavut</comp>
+            </collocation>
+            <collocation form="predrepna plavutnica" cluster="2" frequency="13" logDice="8.33">
+              <comp position="1" type="headword" sloleks="LE_f2e235789687d9a2b4bb5ef546dbda47">predrepna</comp>
+              <comp position="2" type="collocate" sloleks="LE_9acabf38b89071ecfa4dc87c5cecc390">plavutnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="predrepen in/ali hrbten" cluster="1" frequency="153" logDice="12.2">
+              <comp position="3" type="headword" sloleks="LE_f2e235789687d9a2b4bb5ef546dbda47">predrepen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_902ae9e243eb11075b611a78109656f7">hrbten</comp>
+              </collocation>
+            <collocation form="predrepen in repen" cluster="2" frequency="26" logDice="11.18">
+              <comp position="1" type="headword" sloleks="LE_f2e235789687d9a2b4bb5ef546dbda47">predrepen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_c4751fd7a125b01adb203855a4dec66c">repen</comp>
+            </collocation>
+            <collocation form="predrepen in trebušen" cluster="3" frequency="27" logDice="9.75">
+              <comp position="1" type="headword" sloleks="LE_f2e235789687d9a2b4bb5ef546dbda47">predrepen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_de9d5fa0a1477022e665e808782a0227">trebušen</comp>
+            </collocation>
+            <collocation form="predrepen in/ali prsen" cluster="4" frequency="7" logDice="8.26">
+              <comp position="3" type="headword" sloleks="LE_f2e235789687d9a2b4bb5ef546dbda47">predrepen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_9dd412d70fc69be2dfef44368ac23786">prsen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="80949">posvojenka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">458</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="posvojenka iz Bangladeša" cluster="1" frequency="4" logDice="9.28">
+              <comp position="1" type="headword" sloleks="LE_eebd6d2b3c29b604fc3021cbd7ed3a11">posvojenka</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_1490600f867407e0cbee7d53849f5ddf">Bangladeša</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="posvojenka Lionela" cluster="1" frequency="8" logDice="8.52">
+              <comp position="1" type="headword" sloleks="LE_eebd6d2b3c29b604fc3021cbd7ed3a11">posvojenka</comp>
+              <comp position="2" type="collocate" sloleks="LE_92c45310304e90199f5716b893878269">Lionela</comp>
+            </collocation>
+            <collocation form="posvojenka pevca" cluster="2" frequency="15" logDice="5.59">
+              <comp position="1" type="headword" sloleks="LE_eebd6d2b3c29b604fc3021cbd7ed3a11">posvojenka</comp>
+              <comp position="2" type="collocate" sloleks="LE_23c9ebb15dcb2cadd67e5bf9e8b6f1df">pevca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="poroka s posvojenko" cluster="1" frequency="4" logDice="5.07">
+              <comp position="1" type="collocate" sloleks="LE_70ade28c20c7792013180cafdda513f2">poroka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_eebd6d2b3c29b604fc3021cbd7ed3a11">posvojenko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

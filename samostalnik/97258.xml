@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="97258">vtičnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">475</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="vtičnik za brskalnik" cluster="1" frequency="11" logDice="10.14">
+              <comp position="1" type="headword" sloleks="LE_3a331a55b34f3cace5ea094107b4a827">vtičnik</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_bafadb0baa40158eb503bbad6279a51c">brskalnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="različica vtičnika" cluster="1" frequency="6" logDice="2.33">
+              <comp position="1" type="collocate" sloleks="LE_01eeb2dc69e5d47e92faab5f88e63b8a">različica</comp>
+              <comp position="2" type="headword" sloleks="LE_3a331a55b34f3cace5ea094107b4a827">vtičnika</comp>
+            </collocation>
+            <collocation form="seznam vtičnika" cluster="2" frequency="5" logDice="1.26">
+              <comp position="1" type="collocate" sloleks="LE_8e07f7a6b825d8b6bf5b0aeab2d8d9b7">seznam</comp>
+              <comp position="2" type="headword" sloleks="LE_3a331a55b34f3cace5ea094107b4a827">vtičnika</comp>
+            </collocation>
+            <collocation form="uporaba vtičnika" cluster="3" frequency="13" logDice="1.18">
+              <comp position="1" type="collocate" sloleks="LE_9999e7dc3b8f5571ba09e352c31aea3f">uporaba</comp>
+              <comp position="2" type="headword" sloleks="LE_3a331a55b34f3cace5ea094107b4a827">vtičnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

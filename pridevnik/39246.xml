@@ -1,0 +1,69 @@
+<entry>
+  <header>
+    <lexical_unit id="39246">zlovoljen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">550</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="zlovoljen obraz" cluster="1" frequency="16" logDice="3.21">
+              <comp position="1" type="headword" sloleks="LE_c3d93256bf8e7886c0d25118d1590242">zlovoljen</comp>
+              <comp position="2" type="collocate" sloleks="LE_ace2f15ed5cc3848b7740939ded1abe9">obraz</comp>
+            </collocation>
+            <collocation form="zlovoljen šef" cluster="2" frequency="6" logDice="3.07">
+              <comp position="1" type="headword" sloleks="LE_c3d93256bf8e7886c0d25118d1590242">zlovoljen</comp>
+              <comp position="2" type="collocate" sloleks="LE_f5e6abb6cd9e9f4ebe39c0b147e12534">šef</comp>
+            </collocation>
+            <collocation form="zlovoljen izraz" cluster="3" frequency="7" logDice="2.63">
+              <comp position="1" type="headword" sloleks="LE_c3d93256bf8e7886c0d25118d1590242">zlovoljen</comp>
+              <comp position="2" type="collocate" sloleks="LE_d2d667d478e9b9620d18a0927cab6911">izraz</comp>
+            </collocation>
+            <collocation form="zlovoljen človek" cluster="4" frequency="15" logDice="0.63">
+              <comp position="1" type="headword" sloleks="LE_c3d93256bf8e7886c0d25118d1590242">zlovoljen</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="zlovoljen in/ali čemeren" cluster="1" frequency="7" logDice="9.75">
+              <comp position="3" type="headword" sloleks="LE_c3d93256bf8e7886c0d25118d1590242">zlovoljen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_d541efd2d0cf86e2bb047d0ce7d4c44b">čemeren</comp>
+              </collocation>
+            <collocation form="zlovoljen in/ali mrk" cluster="2" frequency="6" logDice="9.45">
+              <comp position="3" type="headword" sloleks="LE_c3d93256bf8e7886c0d25118d1590242">zlovoljen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_994cfaf03084d1b89ed56179cb362005">mrk</comp>
+              </collocation>
+            <collocation form="zlovoljen in/ali sarkastičen" cluster="3" frequency="5" logDice="9.07">
+              <comp position="3" type="headword" sloleks="LE_c3d93256bf8e7886c0d25118d1590242">zlovoljen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_f7238b59e6dd3872d9e1a5f9777babe1">sarkastičen</comp>
+              </collocation>
+            <collocation form="zlovoljen in/ali utrujen" cluster="4" frequency="14" logDice="6.77">
+              <comp position="3" type="headword" sloleks="LE_c3d93256bf8e7886c0d25118d1590242">zlovoljen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_2aeeb7d3a2ef975ff86ee3dd8b5211f2">utrujen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="malce zlovoljen" cluster="1" frequency="5" logDice="2.19">
+              <comp position="1" type="collocate" sloleks="LE_2eec11a38ac5bbb5fa6d7682c1224a82">malce</comp>
+              <comp position="2" type="headword" sloleks="LE_c3d93256bf8e7886c0d25118d1590242">zlovoljen</comp>
+            </collocation>
+            <collocation form="nekoliko zlovoljen" cluster="2" frequency="6" logDice="0.74">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_c3d93256bf8e7886c0d25118d1590242">zlovoljen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,448 @@
+<entry>
+  <header>
+    <lexical_unit id="42280">narazen</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">5530</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ gbz">
+          <collocations>
+            <collocation form="narazen zapisovati" cluster="1" frequency="4" logDice="5.81">
+              <comp position="1" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+              <comp position="2" type="collocate" sloleks="LE_46d30d3eb816f1f86994bc13d7b2c28a">zapisovati</comp>
+            </collocation>
+            <collocation form="narazen vleči" cluster="2" frequency="8" logDice="4.5">
+              <comp position="1" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+              <comp position="2" type="collocate" sloleks="LE_a30e91cb3238652d108366e7fadaee3e">vleči</comp>
+            </collocation>
+            <collocation form="narazen spraviti" cluster="2" frequency="5" logDice="2.94">
+              <comp position="1" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+              <comp position="2" type="collocate" sloleks="LE_a7c0c39e60597bf9e47c557caa0a38fc">spraviti</comp>
+            </collocation>
+            <collocation form="narazen dati" cluster="3" frequency="7" logDice="1.76">
+              <comp position="1" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+              <comp position="2" type="collocate" sloleks="LE_251860b7395e9bef61ae04eb36d0639d">dati</comp>
+            </collocation>
+            <collocation form="narazen pisati" cluster="3" frequency="6" logDice="1.98">
+              <comp position="1" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+              <comp position="2" type="collocate" sloleks="LE_4173587cb50dc70d0c9a1be18c9c1b96">pisati</comp>
+            </collocation>
+            <collocation form="narazen živeti" cluster="4" frequency="4" logDice="0.74">
+              <comp position="1" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+              <comp position="2" type="collocate" sloleks="LE_42cc4ca3168ca0f408ce857620c0a7d0">živeti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ na sbz4">
+          <collocations>
+            <collocation form="narazen na pekač" cluster="1" frequency="5" logDice="11.7">
+              <comp position="1" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_7087b48b650da74807819277294d7115">pekač</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ po sbz5">
+          <collocations>
+            <collocation form="narazen po letu" cluster="1" frequency="9" logDice="4.56">
+              <comp position="1" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">letu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ v sbz5">
+          <collocations>
+            <collocation form="narazen v širini" cluster="1" frequency="28" logDice="12.77">
+              <comp position="1" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_2e9a075c6df450df32f2675f0dee1ae3">širini</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ za sbz4">
+          <collocations>
+            <collocation form="narazen za širino" cluster="1" frequency="41" logDice="13.38">
+              <comp position="1" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_2e9a075c6df450df32f2675f0dee1ae3">širino</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="spraviti narazen" cluster="1" frequency="181" logDice="9.1">
+              <comp position="1" type="collocate" sloleks="LE_a7c0c39e60597bf9e47c557caa0a38fc">spraviti</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="vleči narazen" cluster="1" frequency="66" logDice="7.77">
+              <comp position="1" type="collocate" sloleks="LE_a30e91cb3238652d108366e7fadaee3e">vleči</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="potegniti narazen" cluster="1" frequency="48" logDice="7.12">
+              <comp position="1" type="collocate" sloleks="LE_179b1691ef7fadabc87cc8c86b4a4a55">potegniti</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="držati narazen" cluster="1" frequency="41" logDice="6.27">
+              <comp position="1" type="collocate" sloleks="LE_77bb755240fa5b5fe8dbfbeac1413c05">držati</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="obdržati narazen" cluster="1" frequency="4" logDice="4.48">
+              <comp position="1" type="collocate" sloleks="LE_2c31ceaf4d4983c270cc4d77511910c4">obdržati</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="lesti narazen" cluster="2" frequency="26" logDice="8.25">
+              <comp position="1" type="collocate" sloleks="LE_547c1da169829c5c846ccb32c74a0abc">lesti</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="zlesti narazen" cluster="2" frequency="4" logDice="5.46">
+              <comp position="1" type="collocate" sloleks="LE_8546bca382f88934bbd5c692732442b5">zlesti</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="spravljati narazen" cluster="3" frequency="5" logDice="6.04">
+              <comp position="1" type="collocate" sloleks="LE_9c985b4175f4f818c74bc007e70523b0">spravljati</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="iti narazen" cluster="4" frequency="811" logDice="6.88">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="živeti narazen" cluster="4" frequency="65" logDice="5.13">
+              <comp position="1" type="collocate" sloleks="LE_42cc4ca3168ca0f408ce857620c0a7d0">živeti</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="dati narazen" cluster="4" frequency="48" logDice="4.65">
+              <comp position="1" type="collocate" sloleks="LE_251860b7395e9bef61ae04eb36d0639d">dati</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="preživeti narazen" cluster="4" frequency="36" logDice="5.78">
+              <comp position="1" type="collocate" sloleks="LE_410951668aef5671eb8fb2da62b13415">preživeti</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="pisati narazen" cluster="4" frequency="35" logDice="5.95">
+              <comp position="1" type="collocate" sloleks="LE_4173587cb50dc70d0c9a1be18c9c1b96">pisati</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="moči narazen" cluster="4" frequency="27" logDice="3.65">
+              <comp position="1" type="collocate" sloleks="LE_d0d5036f97e772cb509411764a3a7f9e">moči</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="morati narazen" cluster="4" frequency="18" logDice="1.56">
+              <comp position="1" type="collocate" sloleks="LE_5a69e334926729c2b878f5735b5ec456">morati</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="hoteti narazen" cluster="4" frequency="14" logDice="3.68">
+              <comp position="1" type="collocate" sloleks="LE_241ed9c84c6998d75befbc0c88f7151e">hoteti</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="dobiti narazen" cluster="4" frequency="8" logDice="1.37">
+              <comp position="1" type="collocate" sloleks="LE_abe97863495bd3d2d1b41f81933061b7">dobiti</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="vzeti narazen" cluster="4" frequency="7" logDice="2.71">
+              <comp position="1" type="collocate" sloleks="LE_af99d0c656cf84ca132dcdca567d80c0">vzeti</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="postaviti narazen" cluster="4" frequency="5" logDice="2.94">
+              <comp position="1" type="collocate" sloleks="LE_76b77023a4d62a0c0ea5867d5d5aa0f7">postaviti</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="dajati narazen" cluster="4" frequency="4" logDice="2.78">
+              <comp position="1" type="collocate" sloleks="LE_d6d8f52b2b1192ce779222d2b9f85fbf">dajati</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="stati narazen" cluster="4" frequency="4" logDice="1.59">
+              <comp position="1" type="collocate" sloleks="LE_440a1718cdb8a6551a352fd055b43ee2|LE_7535b33707f7c7228585ee95cd426db5">stati</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="ostati narazen" cluster="4" frequency="4" logDice="0.89">
+              <comp position="1" type="collocate" sloleks="LE_f2645fccc77ca8ba15862278bf3ee661">ostati</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="pasti narazen" cluster="5" frequency="13" logDice="5.0">
+              <comp position="1" type="collocate" sloleks="LE_9c5333dc145d219ffad1bd55c6515869|LE_65b3289c37b74101215c75d41cc90182">pasti</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="skočiti narazen" cluster="5" frequency="11" logDice="5.84">
+              <comp position="1" type="collocate" sloleks="LE_dfe75638a5071bba1f69b07fc2709f40">skočiti</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="stopiti narazen" cluster="5" frequency="10" logDice="4.77">
+              <comp position="1" type="collocate" sloleks="LE_c12c50e3eb3a6e95291005bd962d3fac">stopiti</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="oditi narazen" cluster="5" frequency="5" logDice="3.29">
+              <comp position="1" type="collocate" sloleks="LE_0031db2b829235876d0aa5105891b401">oditi</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="drseti narazen" cluster="6" frequency="6" logDice="5.8">
+              <comp position="1" type="collocate" sloleks="LE_8dd8b9786e28ce9177f4e5f5fbd76d09">drseti</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="potisniti narazen" cluster="7" frequency="6" logDice="5.19">
+              <comp position="1" type="collocate" sloleks="LE_bb231c81720c273dc88feda4259059a7">potisniti</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="povleči narazen" cluster="7" frequency="5" logDice="5.69">
+              <comp position="1" type="collocate" sloleks="LE_98dcd1121277a4172ecfb9ef78089195">povleči</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="zdržati narazen" cluster="8" frequency="9" logDice="5.48">
+              <comp position="1" type="collocate" sloleks="LE_30c7ef5e710a513c22545c47194ed78f">zdržati</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="uiti narazen" cluster="9" frequency="4" logDice="5.43">
+              <comp position="1" type="collocate" sloleks="LE_2ae914650f16b31aad3f5b3e03d055dc">uiti</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="spati narazen" cluster="10" frequency="4" logDice="4.3">
+              <comp position="1" type="collocate" sloleks="LE_449b7e99c0f0325b3917c7490bd86b9b">spati</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="siliti narazen" cluster="11" frequency="18" logDice="7.53">
+              <comp position="1" type="collocate" sloleks="LE_f86d87a563fc6cae7a7669fe318cf8a8">siliti</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="trgati narazen" cluster="12" frequency="9" logDice="6.95">
+              <comp position="1" type="collocate" sloleks="LE_db6f74b58b904893ed3b61cb24518452">trgati</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="zvleči narazen" cluster="13" frequency="8" logDice="6.79">
+              <comp position="1" type="collocate" sloleks="LE_2d7247eef0191ad5adaa8854d83c7a9a">zvleči</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="štrleti narazen" cluster="14" frequency="6" logDice="6.19">
+              <comp position="1" type="collocate" sloleks="LE_6350e3720bdb44c88b67751aa7c78354">štrleti</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz RBZ">
+          <collocations>
+            <collocation form="predaleč narazen" cluster="1" frequency="28" logDice="9.25">
+              <comp position="1" type="collocate" sloleks="LE_b036d18b404cd97b306939d7028812e4">predaleč</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="daleč narazen" cluster="2" frequency="318" logDice="8.54">
+              <comp position="1" type="collocate" sloleks="LE_46a402cdc1e51af458ef6cfa6139d18f">daleč</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="bolj narazen" cluster="3" frequency="117" logDice="4.49">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="precej narazen" cluster="3" frequency="81" logDice="4.58">
+              <comp position="1" type="collocate" sloleks="LE_e0671a56c827200d0ebc033694e6214b">precej</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="dovolj narazen" cluster="3" frequency="66" logDice="5.8">
+              <comp position="1" type="collocate" sloleks="LE_0b387936af75c9d0092b835e9479f95c">dovolj</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="preveč narazen" cluster="3" frequency="48" logDice="5.79">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="zelo narazen" cluster="3" frequency="44" logDice="1.79">
+              <comp position="1" type="collocate" sloleks="LE_195d60c164b7057008d21b29153e2352">zelo</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="toliko narazen" cluster="3" frequency="34" logDice="4.38">
+              <comp position="1" type="collocate" sloleks="LE_e8a73a0e682431303071ff7537eabf4b">toliko</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="malo narazen" cluster="3" frequency="17" logDice="2.62">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="nekoliko narazen" cluster="3" frequency="14" logDice="2.35">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="močno narazen" cluster="3" frequency="13" logDice="6.59">
+              <comp position="1" type="collocate" sloleks="LE_b061af875766d8e1437febe5ccafe554">močno</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="najbolj narazen" cluster="3" frequency="12" logDice="2.77">
+              <comp position="1" type="collocate" sloleks="LE_72b2a3522865b723e8c26b8ade696fca">najbolj</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="dokaj narazen" cluster="3" frequency="10" logDice="3.56">
+              <comp position="1" type="collocate" sloleks="LE_90c3e789d159a5b43e1f600807dba440">dokaj</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="malce narazen" cluster="3" frequency="10" logDice="3.29">
+              <comp position="1" type="collocate" sloleks="LE_2eec11a38ac5bbb5fa6d7682c1224a82">malce</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="veliko narazen" cluster="3" frequency="8" logDice="0.99">
+              <comp position="1" type="collocate" sloleks="LE_431ef7ec57af288ca0e781bb12f6e7f0">veliko</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="manj narazen" cluster="3" frequency="7" logDice="2.96">
+              <comp position="1" type="collocate" sloleks="LE_ecab8216e0225b7e80d79b53bd9b8959">manj</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="resnično narazen" cluster="3" frequency="5" logDice="3.81">
+              <comp position="1" type="collocate" sloleks="LE_754a9d6c071bd65f0a9baa81771e8712">resnično</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="več narazen" cluster="3" frequency="4" logDice="4.01">
+              <comp position="1" type="collocate" sloleks="LE_35a40117ea9b0ca39c7a43d940592d29">več</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="povsem narazen" cluster="3" frequency="4" logDice="0.82">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="nedaleč narazen" cluster="4" frequency="7" logDice="5.74">
+              <comp position="1" type="collocate" sloleks="LE_16331483710e64cc4acdb37b3377fa92">nedaleč</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="dokončno narazen" cluster="5" frequency="9" logDice="7.14">
+              <comp position="1" type="collocate" sloleks="LE_1b1364db6a65bb7d8e0561ff87f682a5">dokončno</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="drugič narazen" cluster="5" frequency="7" logDice="4.37">
+              <comp position="1" type="collocate" sloleks="LE_e385b216fed6fecf663197faba506adb">drugič</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="uradno narazen" cluster="5" frequency="4" logDice="5.57">
+              <comp position="1" type="collocate" sloleks="LE_ac33465c7a5b3d3ed898a9e5e4999955">uradno</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="prehitro narazen" cluster="5" frequency="4" logDice="6.39">
+              <comp position="1" type="collocate" sloleks="LE_707742b761faeb48856f17112f90c76d">prehitro</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="začasno narazen" cluster="5" frequency="4" logDice="6.12">
+              <comp position="1" type="collocate" sloleks="LE_2ab7d987598c40d493e2f5f8aa7dddca">začasno</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="čimbolj narazen" cluster="6" frequency="4" logDice="5.29">
+              <comp position="1" type="collocate" sloleks="LE_b63870ba331c19a816de07ba9181b506">čimbolj</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="koliko narazen" cluster="7" frequency="6" logDice="4.82">
+              <comp position="1" type="collocate" sloleks="LE_214cf53371854fed94949620c4cf7c47">koliko</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="par narazen" cluster="7" frequency="6" logDice="6.37">
+              <comp position="1" type="collocate" sloleks="LE_48ac8e398df159b2afcfbac63174776a">par</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="spet narazen" cluster="8" frequency="33" logDice="4.43">
+              <comp position="1" type="collocate" sloleks="LE_262d335ce33e8c5f94849e677bc83a19">spet</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="takoj narazen" cluster="8" frequency="10" logDice="3.95">
+              <comp position="1" type="collocate" sloleks="LE_63831e752d3a6105c3245c75b9779495">takoj</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="vedno narazen" cluster="8" frequency="9" logDice="0.28">
+              <comp position="1" type="collocate" sloleks="LE_eaabd5718a27f818fd47358031426355">vedno</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="dolgo narazen" cluster="8" frequency="8" logDice="4.55">
+              <comp position="1" type="collocate" sloleks="LE_554690ff0ebb8eed6d3fcb26dfdc3eef">dolgo</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="prej narazen" cluster="8" frequency="8" logDice="3.84">
+              <comp position="1" type="collocate" sloleks="LE_25430d3959f90161be5f8125f60962ef">prej</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="kmalu narazen" cluster="8" frequency="8" logDice="3.26">
+              <comp position="1" type="collocate" sloleks="LE_ced824ab75f7c67449dd92c1d3fa5432">kmalu</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="hitro narazen" cluster="8" frequency="7" logDice="4.46">
+              <comp position="1" type="collocate" sloleks="LE_cb95fbdb78349dad33e3d99ea7f281a8">hitro</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="hkrati narazen" cluster="8" frequency="7" logDice="3.97">
+              <comp position="1" type="collocate" sloleks="LE_299457349a4451694b53e687e2892a78">hkrati</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="pogosto narazen" cluster="8" frequency="6" logDice="3.47">
+              <comp position="1" type="collocate" sloleks="LE_0c25a8b75185d62f2dab515299cccbfc">pogosto</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="nikoli narazen" cluster="8" frequency="6" logDice="2.87">
+              <comp position="1" type="collocate" sloleks="LE_6ffec37fc59ab2f513410468cce388b4">nikoli</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="enkrat narazen" cluster="8" frequency="6" logDice="2.63">
+              <comp position="1" type="collocate" sloleks="LE_a9aa19f4d3fe9f31d405ae8828e4b2fd">enkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="zdaj narazen" cluster="8" frequency="6" logDice="1.26">
+              <comp position="1" type="collocate" sloleks="LE_d3f3f0cca65a8d1e1eb9565d50304e21">zdaj</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="kako narazen" cluster="8" frequency="6" logDice="0.43">
+              <comp position="1" type="collocate" sloleks="LE_c6fd8628f731e3e158dc366537c82f5f">kako</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="lepo narazen" cluster="8" frequency="4" logDice="4.06">
+              <comp position="1" type="collocate" sloleks="LE_d01061f4e29d96c6aa9cb7941b715be1">lepo</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="večkrat narazen" cluster="8" frequency="4" logDice="3.59">
+              <comp position="1" type="collocate" sloleks="LE_a632a4cd780b70ff7634918837d4eddb">večkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="pol narazen" cluster="8" frequency="4" logDice="3.53">
+              <comp position="1" type="collocate" sloleks="LE_6b1579afc99689c8f16cdc5f38e2e8ab">pol</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="potem narazen" cluster="8" frequency="4" logDice="1.42">
+              <comp position="1" type="collocate" sloleks="LE_f0e885097573d8acf04c06a869f0d332">potem</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="treba narazen" cluster="8" frequency="4" logDice="0.71">
+              <comp position="1" type="collocate" sloleks="LE_1922eb6feec1312f831201e773a0ac0d">treba</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="široko narazen" cluster="9" frequency="23" logDice="8.48">
+              <comp position="1" type="collocate" sloleks="LE_aa2200bc7ba100c6a1aff61f1483dbc9">široko</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="rahlo narazen" cluster="10" frequency="48" logDice="8.35">
+              <comp position="1" type="collocate" sloleks="LE_bc8fa6f6461bdf94aa79ffddcde1c898">rahlo</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="tako narazen" cluster="11" frequency="46" logDice="1.55">
+              <comp position="1" type="collocate" sloleks="LE_a43856b7d4097e8e3ab29718abb1acb7">tako</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+            <collocation form="predolgo narazen" cluster="12" frequency="6" logDice="7.02">
+              <comp position="1" type="collocate" sloleks="LE_6b33df3cef9dd48d7a363756facf80b3">predolgo</comp>
+              <comp position="2" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ in/ali rbz">
+          <collocations>
+            <collocation form="narazen in/ali vzporedno" cluster="1" frequency="33" logDice="11.38">
+              <comp position="3" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_fc1924cc105b8d77c3bf1e0427673ffa">vzporedno</comp>
+              </collocation>
+            <collocation form="narazen ali skupaj" cluster="2" frequency="118" logDice="10.65">
+              <comp position="1" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+              <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_6b2c35f4f994f6854f5f57d777267a77">skupaj</comp>
+            </collocation>
+            <collocation form="narazen in tako" cluster="3" frequency="8" logDice="1.18">
+              <comp position="1" type="headword" sloleks="LE_8a2c83761f967ce26e4871e76f6dc78a">narazen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_a43856b7d4097e8e3ab29718abb1acb7">tako</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

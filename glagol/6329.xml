@@ -1,0 +1,35 @@
+<entry>
+  <header>
+    <lexical_unit id="6329">prehvaliti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">1000</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz INF-GBZ">
+          <collocations>
+            <collocation form="moči prehvaliti" cluster="1" frequency="195" logDice="5.23">
+              <comp position="1" type="collocate" sloleks="LE_d0d5036f97e772cb509411764a3a7f9e">moči</comp>
+              <comp position="2" type="headword" sloleks="LE_7bd36dc2b6b6cadb6210351b1eb2cd58">prehvaliti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz INF-GBZ">
+          <collocations>
+            <collocation form="ne morati prehvaliti" cluster="1" frequency="4" logDice="5.76">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_5a69e334926729c2b878f5735b5ec456">morati</comp>
+              <comp position="3" type="headword" sloleks="LE_7bd36dc2b6b6cadb6210351b1eb2cd58">prehvaliti</comp>
+            </collocation>
+            <collocation form="ne moči prehvaliti" cluster="2" frequency="686" logDice="5.35">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_d0d5036f97e772cb509411764a3a7f9e">moči</comp>
+              <comp position="3" type="headword" sloleks="LE_7bd36dc2b6b6cadb6210351b1eb2cd58">prehvaliti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

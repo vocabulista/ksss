@@ -1,0 +1,77 @@
+<entry>
+  <header>
+    <lexical_unit id="76100">osumljenka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">880</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="osumljenka za umor" cluster="1" frequency="17" logDice="7.18">
+              <comp position="1" type="headword" sloleks="LE_8ba30e03ec11fd30766df4af6f5d622f">osumljenka</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_e1d415ebab0599b221c2915c0deebda5">umor</comp>
+            </collocation>
+            <collocation form="osumljenka za zločin" cluster="2" frequency="5" logDice="4.73">
+              <comp position="1" type="headword" sloleks="LE_8ba30e03ec11fd30766df4af6f5d622f">osumljenka</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_720c478e47266009ba7182f208bb40b3">zločin</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="morati na osumljenko" cluster="1" frequency="15" logDice="4.52">
+              <comp position="1" type="collocate" sloleks="LE_5a69e334926729c2b878f5735b5ec456">morati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8ba30e03ec11fd30766df4af6f5d622f">osumljenko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz zoper SBZ4">
+          <collocations>
+            <collocation form="odrediti zoper osumljenko" cluster="1" frequency="5" logDice="10.29">
+              <comp position="1" type="collocate" sloleks="LE_d13da6d2c604a305400a4975b7050a00">odrediti</comp>
+              <comp position="2" type="other" sloleks="LE_84ea3224a8b63f8ec20e4f7625f00425">zoper</comp>
+              <comp position="3" type="headword" sloleks="LE_8ba30e03ec11fd30766df4af6f5d622f">osumljenko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="glavna osumljenka" cluster="1" frequency="137" logDice="3.32">
+              <comp position="1" type="collocate" sloleks="LE_d2682b9f543a6df6814c2b0dde4cf533">glavna</comp>
+              <comp position="2" type="headword" sloleks="LE_8ba30e03ec11fd30766df4af6f5d622f">osumljenka</comp>
+            </collocation>
+            <collocation form="edina osumljenka" cluster="1" frequency="14" logDice="1.07">
+              <comp position="1" type="collocate" sloleks="LE_94762735964f70f78916c776413ca033">edina</comp>
+              <comp position="2" type="headword" sloleks="LE_8ba30e03ec11fd30766df4af6f5d622f">osumljenka</comp>
+            </collocation>
+            <collocation form="letna osumljenka" cluster="2" frequency="31" logDice="1.39">
+              <comp position="1" type="collocate" sloleks="LE_cf6602afd8be6d6ec6afe92cc03a9207">letna</comp>
+              <comp position="2" type="headword" sloleks="LE_8ba30e03ec11fd30766df4af6f5d622f">osumljenka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="zagovornik osumljenke" cluster="1" frequency="5" logDice="3.2">
+              <comp position="1" type="collocate" sloleks="LE_1ce1eb4b0a4822c4613f3c8bddb9fd7f">zagovornik</comp>
+              <comp position="2" type="headword" sloleks="LE_8ba30e03ec11fd30766df4af6f5d622f">osumljenke</comp>
+            </collocation>
+            <collocation form="osumljenka umora" cluster="2" frequency="19" logDice="5.64">
+              <comp position="1" type="headword" sloleks="LE_8ba30e03ec11fd30766df4af6f5d622f">osumljenka</comp>
+              <comp position="2" type="collocate" sloleks="LE_e1d415ebab0599b221c2915c0deebda5">umora</comp>
+            </collocation>
+            <collocation form="osumljenka dejanja" cluster="3" frequency="15" logDice="3.42">
+              <comp position="1" type="headword" sloleks="LE_8ba30e03ec11fd30766df4af6f5d622f">osumljenka</comp>
+              <comp position="2" type="collocate" sloleks="LE_838099f4290a785c6f8bfe0b75fb429d">dejanja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

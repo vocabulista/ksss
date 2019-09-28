@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="26081">neumetnosten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">421</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="neumetnostno besedilo" cluster="1" frequency="349" logDice="7.39">
+              <comp position="1" type="headword" sloleks="LE_4020f74d0502b5954de53f44a8efb4b7">neumetnostno</comp>
+              <comp position="2" type="collocate" sloleks="LE_c2cf3f2b59c7730608bd4c4e20b22ee6">besedilo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="neumetnosten in/ali umetnosten" cluster="1" frequency="65" logDice="9.54">
+              <comp position="3" type="headword" sloleks="LE_4020f74d0502b5954de53f44a8efb4b7">neumetnosten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_59670f871305bfa3db64c9586c3a8589">umetnosten</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

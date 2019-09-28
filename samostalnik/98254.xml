@@ -1,0 +1,44 @@
+<entry>
+  <header>
+    <lexical_unit id="98254">zapeka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">501</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="kronična zapeka" cluster="1" frequency="11" logDice="4.03">
+              <comp position="1" type="collocate" sloleks="LE_47ec37b468e54218c8732007059d0297">kronična</comp>
+              <comp position="2" type="headword" sloleks="LE_0dd5e39d679243eb4469ffb4ce98dbd9">zapeka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="človek z zapeko" cluster="1" frequency="4" logDice="1.86">
+              <comp position="1" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človek</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_0dd5e39d679243eb4469ffb4ce98dbd9">zapeko</comp>
+            </collocation>
+            <collocation form="težava z zapeko" cluster="2" frequency="9" logDice="1.64">
+              <comp position="1" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težava</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_0dd5e39d679243eb4469ffb4ce98dbd9">zapeko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="vzrok za zapeko" cluster="1" frequency="8" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_512feae3d46dd338651f56dfb32f271e">vzrok</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_0dd5e39d679243eb4469ffb4ce98dbd9">zapeko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

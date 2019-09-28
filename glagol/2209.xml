@@ -1,0 +1,684 @@
+<entry>
+  <header>
+    <lexical_unit id="2209">krajšati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">5740</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ med sbz6">
+          <collocations>
+            <collocation form="krajšati med snemanjem" cluster="1" frequency="4" logDice="5.26">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_01ddddf65876b5fff2f2cc06c24fd0e0">snemanjem</comp>
+            </collocation>
+            <collocation form="krajšati med vožnjo" cluster="2" frequency="6" logDice="4.44">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_cd6b5da723aa271ed871bf1d115652d0">vožnjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="krajšati na račun" cluster="1" frequency="17" logDice="4.01">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_03d4207cd319441760ba30bae2e1320e">račun</comp>
+            </collocation>
+            <collocation form="krajšati na način" cluster="2" frequency="34" logDice="2.6">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_78347f5e8e1e11f66d26223c13ba02df">način</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="krajšati na paši" cluster="1" frequency="5" logDice="8.21">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_7bbf03956b5711638aebc91dde2e32f3|LE_8dd88967e989832053972a941ba15f9d">paši</comp>
+            </collocation>
+            <collocation form="krajšati na vasi" cluster="2" frequency="9" logDice="7.54">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_746c4faa0cb704f82cd12acb408c94d3">vasi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ pri sbz5">
+          <collocations>
+            <collocation form="krajšati pri otroku" cluster="1" frequency="4" logDice="4.7">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otroku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz3">
+          <collocations>
+            <collocation form="krajšati bolniku" cluster="1" frequency="6" logDice="4.82">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b6c5a89fe8af52cbe0faba9f493dfdf3">bolniku</comp>
+            </collocation>
+            <collocation form="krajšati gledalcu" cluster="2" frequency="4" logDice="4.53">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_85e07971e615ac21ed6e5281ab7db6cd">gledalcu</comp>
+            </collocation>
+            <collocation form="krajšati obiskovalcu" cluster="2" frequency="4" logDice="3.98">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_3974f599f2b3fc31c35ea298dce06f1b">obiskovalcu</comp>
+            </collocation>
+            <collocation form="krajšati uporabniku" cluster="3" frequency="6" logDice="3.92">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_44d877680022f19ea8b31a268b1a73a4">uporabniku</comp>
+            </collocation>
+            <collocation form="krajšati otroku" cluster="4" frequency="14" logDice="3.82">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otroku</comp>
+            </collocation>
+            <collocation form="krajšati človeku" cluster="4" frequency="6" logDice="2.11">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človeku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="krajšati čas" cluster="1" frequency="1498" logDice="8.6">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">čas</comp>
+            </collocation>
+            <collocation form="krajšati dan" cluster="1" frequency="174" logDice="5.06">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_687a3a5f213dba3724e626216f1b09da">dan</comp>
+            </collocation>
+            <collocation form="krajšati življenje" cluster="1" frequency="63" logDice="4.19">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b7a6a2019becc6510edb8591e171b0a7">življenje</comp>
+            </collocation>
+            <collocation form="krajšati uro" cluster="1" frequency="41" logDice="4.99">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_77e6b5a072871d299d405565eaad4389">uro</comp>
+            </collocation>
+            <collocation form="krajšati trenutek" cluster="1" frequency="19" logDice="4.87">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_20e42f7c3b00f5a4a38e89957060a1f2">trenutek</comp>
+            </collocation>
+            <collocation form="krajšati vrsto" cluster="1" frequency="9" logDice="2.17">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_4af9091c01f502e405be7dfe91eedee3">vrsto</comp>
+            </collocation>
+            <collocation form="krajšati leto" cluster="1" frequency="9" logDice="0.94">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leto</comp>
+            </collocation>
+            <collocation form="krajšati obdobje" cluster="1" frequency="8" logDice="3.91">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_498f5ebac18d9460a9f193249cd7f0bc">obdobje</comp>
+            </collocation>
+            <collocation form="krajšati teden" cluster="1" frequency="5" logDice="1.15">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_5130fa65a5d85e948e4519c7d93f6a65">teden</comp>
+            </collocation>
+            <collocation form="krajšati urico" cluster="2" frequency="36" logDice="8.22">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_85ab860a95fa9bcd54df088c4ed952e4">urico</comp>
+            </collocation>
+            <collocation form="krajšati samoto" cluster="3" frequency="6" logDice="5.87">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_8151c63d7943ab394d4cf7a62099099c">samoto</comp>
+            </collocation>
+            <collocation form="krajšati delovnik" cluster="4" frequency="5" logDice="5.7">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_db402b162f22d15e93d891f464e11a98">delovnik</comp>
+            </collocation>
+            <collocation form="krajšati delavnik" cluster="4" frequency="4" logDice="5.1">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_966e80ff6389f5607f50c4ad3e4abb34">delavnik</comp>
+            </collocation>
+            <collocation form="krajšati ovinek" cluster="5" frequency="6" logDice="5.63">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_9fa0b6bea96fe1203aae9158596a2cf3">ovinek</comp>
+            </collocation>
+            <collocation form="krajšati popoldan" cluster="6" frequency="24" logDice="7.97">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_59161f8203bb084c4e8a180071b4ab72">popoldan</comp>
+            </collocation>
+            <collocation form="krajšati dopoldan" cluster="6" frequency="4" logDice="5.52">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_c2a0232d8e282b8b166ba27fbace8443">dopoldan</comp>
+            </collocation>
+            <collocation form="krajšati dolžino" cluster="7" frequency="6" logDice="5.13">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_ea78022bf437a447fe17760e4d5292da">dolžino</comp>
+            </collocation>
+            <collocation form="krajšati večer" cluster="8" frequency="101" logDice="7.39">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_19ad54ddbd118041967cb2362c53e3be">večer</comp>
+            </collocation>
+            <collocation form="krajšati noč" cluster="8" frequency="19" logDice="5.1">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b49d362a114e179acbd84b80fefd7959">noč</comp>
+            </collocation>
+            <collocation form="krajšati vejo" cluster="9" frequency="7" logDice="5.1">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_3b64510c2ce1abbe1a994ff032f9ea0b">vejo</comp>
+            </collocation>
+            <collocation form="krajšati odmor" cluster="10" frequency="4" logDice="5.02">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_d6b52ff57a7a4df21f271066c7f47193">odmor</comp>
+            </collocation>
+            <collocation form="krajšati krilo" cluster="11" frequency="9" logDice="5.01">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_0e4d1b91ab20c0747f9b23a00692c709">krilo</comp>
+            </collocation>
+            <collocation form="krajšati pot" cluster="12" frequency="46" logDice="4.09">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6f8aa8d4e7c0d678fee98b890a6d1964|LE_97291a922b54c3ec42af6728cfcc7ab2">pot</comp>
+            </collocation>
+            <collocation form="krajšati potovanje" cluster="12" frequency="9" logDice="4.98">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_21199f43ad8b18505266fa0f432fb8db">potovanje</comp>
+            </collocation>
+            <collocation form="krajšati vožnjo" cluster="12" frequency="8" logDice="4.44">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_cd6b5da723aa271ed871bf1d115652d0">vožnjo</comp>
+            </collocation>
+            <collocation form="krajšati noht" cluster="13" frequency="5" logDice="4.96">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_d64a38ceea543d5b55d464ec0ad4f797">noht</comp>
+            </collocation>
+            <collocation form="krajšati progo" cluster="14" frequency="5" logDice="4.35">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_3fbb0e84948a7ce5b48d64e889948b8d">progo</comp>
+            </collocation>
+            <collocation form="krajšati klopa" cluster="15" frequency="4" logDice="4.27">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_9f5affff3494024c968e3067d7848ffa|LE_e4a03891f2835e9936fba29b9d9405d4">klopa</comp>
+            </collocation>
+            <collocation form="krajšati linijo" cluster="16" frequency="4" logDice="3.84">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_2e3801a6684adc2079cc72c524de1dc5">linijo</comp>
+            </collocation>
+            <collocation form="krajšati seznam" cluster="17" frequency="8" logDice="3.62">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_8e07f7a6b825d8b6bf5b0aeab2d8d9b7">seznam</comp>
+            </collocation>
+            <collocation form="krajšati besedilo" cluster="17" frequency="5" logDice="3.01">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_c2cf3f2b59c7730608bd4c4e20b22ee6">besedilo</comp>
+            </collocation>
+            <collocation form="krajšati prispevek" cluster="17" frequency="4" logDice="2.66">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_31b4b9d1edb0c5ea202549e0e4e23e81">prispevek</comp>
+            </collocation>
+            <collocation form="krajšati poročilo" cluster="17" frequency="4" logDice="1.98">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_00452c6ec77fc0b47997a85c80913ca4">poročilo</comp>
+            </collocation>
+            <collocation form="krajšati las" cluster="18" frequency="6" logDice="3.61">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_efa5b979af023ef3a1f9a62889d9ad2d">las</comp>
+            </collocation>
+            <collocation form="krajšati korak" cluster="19" frequency="6" logDice="2.5">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_715161c775bf3dcbc82618a272267cf0">korak</comp>
+            </collocation>
+            <collocation form="krajšati roko" cluster="20" frequency="5" logDice="1.55">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_5fa1bf1096bd6c7b00158af4c43b33b3">roko</comp>
+            </collocation>
+            <collocation form="krajšati spanec" cluster="21" frequency="20" logDice="7.26">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_76e8c32aa70358e24bc0834edd2fd802">spanec</comp>
+            </collocation>
+            <collocation form="krajšati pravico" cluster="22" frequency="5" logDice="0.77">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_8c0e472df622ea735bcaed6544ab6130">pravico</comp>
+            </collocation>
+            <collocation form="krajšati dobo" cluster="23" frequency="35" logDice="6.89">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_de90dd1327fca7d794058c6493fad6f6">dobo</comp>
+            </collocation>
+            <collocation form="krajšati jadro" cluster="24" frequency="15" logDice="6.84">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b6ad1d9ea90ebdf087fa7ff1a3130217">jadro</comp>
+            </collocation>
+            <collocation form="krajšati razdaljo" cluster="25" frequency="27" logDice="6.79">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_497294f4848960a03bf666b1e4f77095">razdaljo</comp>
+            </collocation>
+            <collocation form="krajšati poganjek" cluster="26" frequency="10" logDice="6.22">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_1a3fec7c642e9abd2630530d29169d23">poganjek</comp>
+            </collocation>
+            <collocation form="krajšati dolgčas" cluster="27" frequency="6" logDice="5.92">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="collocate" sloleks="LE_cf2c3a9c30db5fda2315f6ef0235b9cc">dolgčas</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="krajšati v bolnišnici" cluster="1" frequency="10" logDice="3.59">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_33ef2806b73924842b5b4fc3f50f81f3">bolnišnici</comp>
+            </collocation>
+            <collocation form="krajšati v družbi" cluster="2" frequency="9" logDice="2.78">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_4d78f38b1eeb8492cae54547d0252bf9">družbi</comp>
+            </collocation>
+            <collocation form="krajšati v domu" cluster="3" frequency="6" logDice="2.41">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">domu</comp>
+            </collocation>
+            <collocation form="krajšati v času" cluster="4" frequency="6" logDice="-0.27">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">času</comp>
+            </collocation>
+            <collocation form="krajšati v letu" cluster="5" frequency="6" logDice="-0.95">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">letu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="krajšati z gledanjem" cluster="1" frequency="36" logDice="10.0">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_bb2ab2af831214e26c875c933209639d">gledanjem</comp>
+            </collocation>
+            <collocation form="krajšati z opazovanjem" cluster="1" frequency="5" logDice="6.67">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_21ee4e9fcf2a6b419f4c8b8694435323">opazovanjem</comp>
+            </collocation>
+            <collocation form="krajšati z branjem" cluster="2" frequency="62" logDice="9.79">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_13dc2d254c12c276765c80cba5a73645">branjem</comp>
+            </collocation>
+            <collocation form="krajšati z igranjem" cluster="2" frequency="41" logDice="8.56">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_b101952facbe42aafe406e4903c2c88d">igranjem</comp>
+            </collocation>
+            <collocation form="krajšati z pisanjem" cluster="2" frequency="19" logDice="7.43">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_2912249b30c6b1558ad720acc5a049dc">pisanjem</comp>
+            </collocation>
+            <collocation form="krajšati z reševanjem" cluster="2" frequency="4" logDice="6.18">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_1ca3bfba8a0ee2bbb56ac27d1c53d46e">reševanjem</comp>
+            </collocation>
+            <collocation form="krajšati z ogledom" cluster="3" frequency="15" logDice="7.86">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_6d61c73d7a928fcd2e3971cde100ab73">ogledom</comp>
+            </collocation>
+            <collocation form="krajšati z pogovorom" cluster="3" frequency="14" logDice="7.16">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_4d397baebd70f7228e28d943e00294e3">pogovorom</comp>
+            </collocation>
+            <collocation form="krajšati z obiskom" cluster="3" frequency="7" logDice="5.33">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_b8c2d2adf31d1e34a582d21c6efe5e02">obiskom</comp>
+            </collocation>
+            <collocation form="krajšati s sprehodom" cluster="4" frequency="9" logDice="7.84">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_5f08b3f731799be7a14de115e15d6127">sprehodom</comp>
+            </collocation>
+            <collocation form="krajšati s druženjem" cluster="4" frequency="7" logDice="7.43">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_bec7e86b67c1d7d03ebe09c257fd003e">druženjem</comp>
+            </collocation>
+            <collocation form="krajšati z igrico" cluster="5" frequency="10" logDice="7.78">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_e72093e2f84390a859dd44369b412c9c">igrico</comp>
+            </collocation>
+            <collocation form="krajšati s kvačkanjem" cluster="6" frequency="5" logDice="7.57">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_8d5d71cda88545f85ec7b8351559dc13">kvačkanjem</comp>
+            </collocation>
+            <collocation form="krajšati s spanjem" cluster="7" frequency="6" logDice="7.48">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_54bd143b63802bbd480048803b613a2a">spanjem</comp>
+            </collocation>
+            <collocation form="krajšati s pitjem" cluster="8" frequency="7" logDice="7.29">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_6089fdeb94e5dba8c768d8b319448693">pitjem</comp>
+            </collocation>
+            <collocation form="krajšati s kajenjem" cluster="8" frequency="4" logDice="6.66">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_560b4f784876e53bfabd4966662c60fc">kajenjem</comp>
+            </collocation>
+            <collocation form="krajšati s petjem" cluster="9" frequency="18" logDice="7.28">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_11d02dfaf695f8aba2c24329c3451f47">petjem</comp>
+            </collocation>
+            <collocation form="krajšati s pletenjem" cluster="10" frequency="25" logDice="9.73">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_40d4823f80708b207a4d93952576dc23">pletenjem</comp>
+            </collocation>
+            <collocation form="krajšati z listanjem" cluster="11" frequency="4" logDice="7.23">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_8477c3f2daceb029b231a61d46d47754">listanjem</comp>
+            </collocation>
+            <collocation form="krajšati z ogledovanjem" cluster="12" frequency="4" logDice="7.22">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_3d8f0d409e695549e45b8f8a6b01ad9f">ogledovanjem</comp>
+            </collocation>
+            <collocation form="krajšati s popravljanjem" cluster="13" frequency="4" logDice="7.07">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_08783f12db0fe53e8895414c86df1e91">popravljanjem</comp>
+            </collocation>
+            <collocation form="krajšati s stavo" cluster="14" frequency="4" logDice="6.91">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_171152c39cc843f7cabbab600c94616f">stavo</comp>
+            </collocation>
+            <collocation form="krajšati z udobjem" cluster="15" frequency="4" logDice="6.85">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_605cb67e9ea72e1eac8efd9fe74d1f8f">udobjem</comp>
+            </collocation>
+            <collocation form="krajšati s smučanjem" cluster="16" frequency="4" logDice="6.46">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_72e4fc82310f671181ca76fe84e79778">smučanjem</comp>
+            </collocation>
+            <collocation form="krajšati s klicem" cluster="17" frequency="4" logDice="6.19">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_20aa78edb0e1e04fb9f1bd52210f5363">klicem</comp>
+            </collocation>
+            <collocation form="krajšati z delom" cluster="18" frequency="20" logDice="3.96">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delom</comp>
+            </collocation>
+            <collocation form="krajšati z igro" cluster="18" frequency="19" logDice="5.12">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_61ca0973ad331da91acd1b8da555233b">igro</comp>
+            </collocation>
+            <collocation form="krajšati z dejavnostjo" cluster="18" frequency="9" logDice="4.8">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_7fd9651ddee6b84cd9c853211be163f8">dejavnostjo</comp>
+            </collocation>
+            <collocation form="krajšati z računalnikom" cluster="18" frequency="4" logDice="4.63">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_b8ee172630f061da51fb6d4a9d5549ba">računalnikom</comp>
+            </collocation>
+            <collocation form="krajšati z športom" cluster="18" frequency="4" logDice="3.89">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_8490fcf556ce00e69e0683eec100058e">športom</comp>
+            </collocation>
+            <collocation form="krajšati s pesmijo" cluster="19" frequency="8" logDice="5.08">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_6235b39c027e8b67ccd0ab2a0e87ad16">pesmijo</comp>
+            </collocation>
+            <collocation form="krajšati s glasbo" cluster="19" frequency="7" logDice="4.68">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_b9d4fb1bfd740612d94d302113e10a62">glasbo</comp>
+            </collocation>
+            <collocation form="krajšati s prijateljem" cluster="19" frequency="4" logDice="2.85">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_04d85f43e6fdbc81d853e26c5158132f">prijateljem</comp>
+            </collocation>
+            <collocation form="krajšati s prebiranjem" cluster="20" frequency="12" logDice="8.53">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_1444624e083fc8fb4628900f5fc79926">prebiranjem</comp>
+            </collocation>
+            <collocation form="krajšati s poslušanjem" cluster="20" frequency="10" logDice="8.15">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_bbe4cc9dc4a65e99d515b59d80a883d6">poslušanjem</comp>
+            </collocation>
+            <collocation form="krajšati s kartanjem" cluster="21" frequency="8" logDice="8.25">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_e07a2f0d898098dc08f1bf7e871121c2">kartanjem</comp>
+            </collocation>
+            <collocation form="krajšati s prepevanjem" cluster="22" frequency="9" logDice="8.04">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_a490c0f9f5500365889fc4783583fffd">prepevanjem</comp>
+            </collocation>
+            <collocation form="krajšati z izdelovanjem" cluster="23" frequency="11" logDice="7.98">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_9713e78e437183b8ace18b6dff563198">izdelovanjem</comp>
+            </collocation>
+            <collocation form="krajšati s pripovedovanjem" cluster="24" frequency="9" logDice="7.91">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_1cacef154b66957bcf57fdd3fbe0b753">pripovedovanjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="krajšati za dan" cluster="1" frequency="7" logDice="3.7">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_687a3a5f213dba3724e626216f1b09da">dan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz6">
+          <collocations>
+            <collocation form="krajšati za računalnikom" cluster="1" frequency="4" logDice="6.62">
+              <comp position="1" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b8ee172630f061da51fb6d4a9d5549ba">računalnikom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz INF-GBZ">
+          <collocations>
+            <collocation form="pričeti krajšati" cluster="1" frequency="8" logDice="3.06">
+              <comp position="1" type="collocate" sloleks="LE_ded1741f1de355cb4a0e75c9109c069d">pričeti</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="pomagati krajšati" cluster="2" frequency="13" logDice="2.85">
+              <comp position="1" type="collocate" sloleks="LE_2fc43d313cb40b86ed2a370a430e93c1">pomagati</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="začeti krajšati" cluster="3" frequency="86" logDice="2.58">
+              <comp position="1" type="collocate" sloleks="LE_5526be99243d6a70e33b06d3eabd15ae">začeti</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="znati krajšati" cluster="4" frequency="9" logDice="1.11">
+              <comp position="1" type="collocate" sloleks="LE_6feb882845b743bbe44baa4fc144910c">znati</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz SBZ2">
+          <collocations>
+            <collocation form="ne krajšati dobe" cluster="1" frequency="5" logDice="8.37">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="3" type="collocate" sloleks="LE_de90dd1327fca7d794058c6493fad6f6">dobe</comp>
+            </collocation>
+            <collocation form="ne krajšati časa" cluster="2" frequency="8" logDice="3.28">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+              <comp position="3" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">časa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="čim krajšati" cluster="1" frequency="21" logDice="5.83">
+              <comp position="1" type="collocate" sloleks="LE_30d39493d4fa9bd2b98344f4a46a5a65">čim</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="bistveno krajšati" cluster="1" frequency="9" logDice="2.92">
+              <comp position="1" type="collocate" sloleks="LE_b8d90ca8aa748bdc31ebf068b7d18b56">bistveno</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="počasi krajšati" cluster="2" frequency="22" logDice="3.04">
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="hitro krajšati" cluster="2" frequency="16" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_cb95fbdb78349dad33e3d99ea7f281a8">hitro</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="postopoma krajšati" cluster="2" frequency="11" logDice="4.09">
+              <comp position="1" type="collocate" sloleks="LE_f8f0b77648353a666e440c43b667da04">postopoma</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="rad krajšati" cluster="3" frequency="36" logDice="1.96">
+              <comp position="1" type="collocate" sloleks="LE_0a2bb08c60a0cb7fd95c85fd75f2bfca">rad</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="pogosto krajšati" cluster="3" frequency="20" logDice="1.93">
+              <comp position="1" type="collocate" sloleks="LE_0c25a8b75185d62f2dab515299cccbfc">pogosto</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="najraje krajšati" cluster="3" frequency="13" logDice="3.53">
+              <comp position="1" type="collocate" sloleks="LE_2514976d59e8037f97d95a62ccea46ea">najraje</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="raje krajšati" cluster="3" frequency="12" logDice="1.88">
+              <comp position="1" type="collocate" sloleks="LE_ffbac6bb621f782b67fe85e3adf7bf8e">raje</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="nenehno krajšati" cluster="3" frequency="10" logDice="3.04">
+              <comp position="1" type="collocate" sloleks="LE_51a4baeec25a30e6830b327ef65991b5">nenehno</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="redno krajšati" cluster="3" frequency="10" logDice="2.51">
+              <comp position="1" type="collocate" sloleks="LE_35bbe424d330fd280eb80edb9f0c6e56">redno</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="včasih krajšati" cluster="3" frequency="8" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_84ca3ea3df6ba2df07a3bc55bedb32e2">včasih</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="nekoč krajšati" cluster="3" frequency="7" logDice="1.68">
+              <comp position="1" type="collocate" sloleks="LE_60179edcbf14353a50c5821b3f1a56ef">nekoč</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="uspešno krajšati" cluster="3" frequency="7" logDice="1.18">
+              <comp position="1" type="collocate" sloleks="LE_1261ffe39150e62ae7fb3419f7a831f4">uspešno</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="nekdaj krajšati" cluster="3" frequency="6" logDice="3.01">
+              <comp position="1" type="collocate" sloleks="LE_141e7db8f045c22c00d0a85cfa4e8fb5">nekdaj</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="bolj krajšati" cluster="4" frequency="32" logDice="2.02">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="malo krajšati" cluster="4" frequency="15" logDice="1.88">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="močno krajšati" cluster="4" frequency="13" logDice="1.76">
+              <comp position="1" type="collocate" sloleks="LE_b061af875766d8e1437febe5ccafe554">močno</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="kaj krajšati" cluster="4" frequency="10" logDice="0.24">
+              <comp position="1" type="collocate" sloleks="LE_f9fa365147cf5bfdb5034944905ad608">kaj</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="preveč krajšati" cluster="4" frequency="7" logDice="1.8">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="malce krajšati" cluster="4" frequency="7" logDice="2.44">
+              <comp position="1" type="collocate" sloleks="LE_2eec11a38ac5bbb5fa6d7682c1224a82">malce</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="lahko krajšati" cluster="5" frequency="138" logDice="1.09">
+              <comp position="1" type="collocate" sloleks="LE_4c3da54cd55e36d337ad4ebe20d667c9">lahko</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="tako krajšati" cluster="5" frequency="67" logDice="1.16">
+              <comp position="1" type="collocate" sloleks="LE_a43856b7d4097e8e3ab29718abb1acb7">tako</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="treba krajšati" cluster="5" frequency="27" logDice="0.98">
+              <comp position="1" type="collocate" sloleks="LE_1922eb6feec1312f831201e773a0ac0d">treba</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="naprej krajšati" cluster="5" frequency="12" logDice="1.74">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="sedaj krajšati" cluster="5" frequency="9" logDice="1.23">
+              <comp position="1" type="collocate" sloleks="LE_e50eb5a17c98c735c9fb6d8e08cf2787">sedaj</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="skupaj krajšati" cluster="5" frequency="8" logDice="0.65">
+              <comp position="1" type="collocate" sloleks="LE_6b2c35f4f994f6854f5f57d777267a77">skupaj</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="nato krajšati" cluster="5" frequency="8" logDice="0.32">
+              <comp position="1" type="collocate" sloleks="LE_48b590fef344f946aab71b9b67d40282">nato</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="spet krajšati" cluster="5" frequency="8" logDice="0.03">
+              <comp position="1" type="collocate" sloleks="LE_262d335ce33e8c5f94849e677bc83a19">spet</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="doma krajšati" cluster="5" frequency="6" logDice="1.82">
+              <comp position="1" type="collocate" sloleks="LE_e763d76187601d485fd9a1af70a03a8c">doma</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="potrebno krajšati" cluster="5" frequency="6" logDice="1.28">
+              <comp position="1" type="collocate" sloleks="LE_ccdd4bb46fb5353a68f3c9555a024b92">potrebno</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="torej krajšati" cluster="5" frequency="6" logDice="0.5">
+              <comp position="1" type="collocate" sloleks="LE_77b94d141697df1606f829a597a115e8">torej</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+            <collocation form="verjetno krajšati" cluster="5" frequency="6" logDice="0.23">
+              <comp position="1" type="collocate" sloleks="LE_23cc9a7d67e9245ebf91fd63cd9a3033">verjetno</comp>
+              <comp position="2" type="headword" sloleks="LE_63c5715894605016457ce4639c236f86">krajšati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

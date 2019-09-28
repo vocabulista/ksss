@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="88345">severnjak</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1189</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="hladen severnjak" cluster="1" frequency="12" logDice="2.64">
+              <comp position="1" type="collocate" sloleks="LE_b8506daf875c203121a2f09996c1e77c">hladen</comp>
+              <comp position="2" type="headword" sloleks="LE_d5f8e081843adfa4517e89010d117751">severnjak</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 med SBZ6">
+          <collocations>
+            <collocation form="razlika med severnjakom" cluster="1" frequency="4" logDice="1.9">
+              <comp position="1" type="collocate" sloleks="LE_d8b5c5f08355edee42707780bbb4bdb8">razlika</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_d5f8e081843adfa4517e89010d117751">severnjakom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

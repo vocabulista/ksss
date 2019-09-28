@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="1289362">kom</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="kom na povpre" cluster="1" frequency="7" logDice="13.72">
+              <comp position="1" type="headword" sloleks="">kom</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="">povpre</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="kom pisarne" cluster="1" frequency="15" logDice="6.01">
+              <comp position="1" type="headword" sloleks="">kom</comp>
+              <comp position="2" type="collocate" sloleks="LE_ada0b3b67080bfe4f736eaed10233e9f">pisarne</comp>
+            </collocation>
+            <collocation form="kom doma" cluster="2" frequency="9" logDice="1.81">
+              <comp position="1" type="headword" sloleks="">kom</comp>
+              <comp position="2" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">doma</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="tastar kom" cluster="1" frequency="13" logDice="9.56">
+              <comp position="1" type="collocate" sloleks="">tastar</comp>
+              <comp position="2" type="headword" sloleks="">kom</comp>
+            </collocation>
+            <collocation form="odštekan kom" cluster="2" frequency="10" logDice="6.74">
+              <comp position="1" type="collocate" sloleks="LE_8219bea04e08abc488265fb7e84c5c73">odštekan</comp>
+              <comp position="2" type="headword" sloleks="">kom</comp>
+            </collocation>
+            <collocation form="KUL KOM" cluster="3" frequency="9" logDice="6.52">
+              <comp position="1" type="collocate" sloleks="LE_beaa22cedfe691981a2d414a1d89ca51">KUL</comp>
+              <comp position="2" type="headword" sloleks="">KOM</comp>
+            </collocation>
+            <collocation form="črn kom" cluster="4" frequency="69" logDice="3.25">
+              <comp position="1" type="collocate" sloleks="LE_efad3f083a68e148bcd4aa4f62efd36c">črn</comp>
+              <comp position="2" type="headword" sloleks="">kom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

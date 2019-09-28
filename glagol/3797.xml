@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="3797">odreveneti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">448</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ od sbz2">
+          <collocations>
+            <collocation form="odreveneti od groze" cluster="1" frequency="15" logDice="9.16">
+              <comp position="1" type="headword" sloleks="LE_d203dbb08509a1ef50d0a1fdda95b1fc">odreveneti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_992b4c7702cc22e5ae93d2f362e1aa3a">groze</comp>
+            </collocation>
+            <collocation form="odreveneti od strahu" cluster="2" frequency="14" logDice="7.96">
+              <comp position="1" type="headword" sloleks="LE_d203dbb08509a1ef50d0a1fdda95b1fc">odreveneti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_ec7941261a5b1a40fb742699e58175ca">strahu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="popolnoma odreveneti" cluster="1" frequency="13" logDice="2.74">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_d203dbb08509a1ef50d0a1fdda95b1fc">odreveneti</comp>
+            </collocation>
+            <collocation form="kar odreveneti" cluster="2" frequency="28" logDice="0.92">
+              <comp position="1" type="collocate" sloleks="LE_c135f6fe8de5dfaaa58b36300e2bf493">kar</comp>
+              <comp position="2" type="headword" sloleks="LE_d203dbb08509a1ef50d0a1fdda95b1fc">odreveneti</comp>
+            </collocation>
+            <collocation form="nekoliko odreveneti" cluster="3" frequency="4" logDice="0.73">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_d203dbb08509a1ef50d0a1fdda95b1fc">odreveneti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

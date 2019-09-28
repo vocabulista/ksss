@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="53990">domislek</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">562</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="veljati za domislek" cluster="1" frequency="5" logDice="0.89">
+              <comp position="1" type="collocate" sloleks="LE_d1ea0d9dd4771e211c9eddc0d342acc2">veljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_bf4fedfec0bbda2cb5f128f2f3bf5cec">domislek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="melodičen domislek" cluster="1" frequency="12" logDice="7.07">
+              <comp position="1" type="collocate" sloleks="LE_ad4e54d18408b69a029e27d6baaf75a6">melodičen</comp>
+              <comp position="2" type="headword" sloleks="LE_bf4fedfec0bbda2cb5f128f2f3bf5cec">domislek</comp>
+            </collocation>
+            <collocation form="duhovit domislek" cluster="2" frequency="23" logDice="6.22">
+              <comp position="1" type="collocate" sloleks="LE_94f15d451552c08a787d7f100b78ff28">duhovit</comp>
+              <comp position="2" type="headword" sloleks="LE_bf4fedfec0bbda2cb5f128f2f3bf5cec">domislek</comp>
+            </collocation>
+            <collocation form="izviren domislek" cluster="2" frequency="10" logDice="3.13">
+              <comp position="1" type="collocate" sloleks="LE_b8516998c3064dbae8c1da87dd32967c">izviren</comp>
+              <comp position="2" type="headword" sloleks="LE_bf4fedfec0bbda2cb5f128f2f3bf5cec">domislek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

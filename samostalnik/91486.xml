@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="91486">števnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">632</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="števnik z ničlo" cluster="1" frequency="5" logDice="8.75">
+              <comp position="1" type="headword" sloleks="LE_e024596bfad00fc662ede7565627b497">števnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_65dd220d18d3cdf8d4ceb2257c249f41">ničlo</comp>
+            </collocation>
+            <collocation form="števnik s številko" cluster="2" frequency="4" logDice="3.95">
+              <comp position="1" type="headword" sloleks="LE_e024596bfad00fc662ede7565627b497">števnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_ebd741e03af85017076d3a5582503217">številko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="imenovati s števnikom" cluster="1" frequency="5" logDice="6.38">
+              <comp position="1" type="collocate" sloleks="LE_3e12a706ab8dbd4f47d3004afdf657ec">imenovati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_e024596bfad00fc662ede7565627b497">števnikom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="vrstilen števnik" cluster="1" frequency="90" logDice="12.29">
+              <comp position="1" type="collocate" sloleks="LE_098d01c52051fa03678e9e420db0e3bd">vrstilen</comp>
+              <comp position="2" type="headword" sloleks="LE_e024596bfad00fc662ede7565627b497">števnik</comp>
+            </collocation>
+            <collocation form="glaven števnik" cluster="2" frequency="330" logDice="4.59">
+              <comp position="1" type="collocate" sloleks="LE_d2682b9f543a6df6814c2b0dde4cf533">glaven</comp>
+              <comp position="2" type="headword" sloleks="LE_e024596bfad00fc662ede7565627b497">števnik</comp>
+            </collocation>
+            <collocation form="grški števnik" cluster="3" frequency="18" logDice="3.59">
+              <comp position="1" type="collocate" sloleks="LE_d2c3a5a78719438589d3599c8e208aef">grški</comp>
+              <comp position="2" type="headword" sloleks="LE_e024596bfad00fc662ede7565627b497">števnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="zapis števnika" cluster="1" frequency="8" logDice="4.44">
+              <comp position="1" type="collocate" sloleks="LE_5704e85d99cff0223ab5caec7b19dc4c">zapis</comp>
+              <comp position="2" type="headword" sloleks="LE_e024596bfad00fc662ede7565627b497">števnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

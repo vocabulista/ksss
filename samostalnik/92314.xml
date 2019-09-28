@@ -1,0 +1,77 @@
+<entry>
+  <header>
+    <lexical_unit id="92314">sušec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1854</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 do sbz2">
+          <collocations>
+            <collocation form="sušec do travna" cluster="1" frequency="212" logDice="13.41">
+              <comp position="1" type="headword" sloleks="LE_e53d7c8d2dd1374258a20ee20f386e2a">sušec</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_da332ed89d8ac2c0e4e5978d9edb9b1d">travna</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Sušec iz kronos" cluster="1" frequency="5" logDice="11.05">
+              <comp position="1" type="headword" sloleks="LE_e53d7c8d2dd1374258a20ee20f386e2a">Sušec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">kronos</comp>
+            </collocation>
+            <collocation form="Sušec iz skomar" cluster="2" frequency="6" logDice="11.03">
+              <comp position="1" type="headword" sloleks="LE_e53d7c8d2dd1374258a20ee20f386e2a">Sušec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">skomar</comp>
+            </collocation>
+            <collocation form="Sušec iz Beltinec" cluster="3" frequency="6" logDice="8.35">
+              <comp position="1" type="headword" sloleks="LE_e53d7c8d2dd1374258a20ee20f386e2a">Sušec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">Beltinec</comp>
+            </collocation>
+            <collocation form="Sušec iz Bistrice" cluster="4" frequency="7" logDice="5.64">
+              <comp position="1" type="headword" sloleks="LE_e53d7c8d2dd1374258a20ee20f386e2a">Sušec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_7d95efcfbff72b96d776fde585d87d38">Bistrice</comp>
+            </collocation>
+            <collocation form="sušec iz Velenja" cluster="5" frequency="7" logDice="5.06">
+              <comp position="1" type="headword" sloleks="LE_e53d7c8d2dd1374258a20ee20f386e2a">sušec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_74c8dc0341686cfebe69c0f3dc7ef72c">Velenja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="igrati v sušcu" cluster="1" frequency="4" logDice="0.94">
+              <comp position="1" type="collocate" sloleks="LE_9630b80ef7532c1a2733281463549a9b">igrati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_e53d7c8d2dd1374258a20ee20f386e2a">sušcu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="mesec sušca" cluster="1" frequency="9" logDice="1.58">
+              <comp position="1" type="collocate" sloleks="LE_d87e72e2a6ded77b0ae520112759ad42">mesec</comp>
+              <comp position="2" type="headword" sloleks="LE_e53d7c8d2dd1374258a20ee20f386e2a">sušca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="jagnje v sušcu" cluster="1" frequency="9" logDice="11.2">
+              <comp position="1" type="collocate" sloleks="LE_18a6a95cd521fd78a57da56a2877fff6">jagnje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_e53d7c8d2dd1374258a20ee20f386e2a">sušcu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

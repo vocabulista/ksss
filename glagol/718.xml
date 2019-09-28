@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="718">daniti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">741</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="daniti na vzhodu" cluster="1" frequency="6" logDice="5.07">
+              <comp position="1" type="headword" sloleks="LE_acd61c73c5bd3721b55819d1396c2f7a">daniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_0fd61eb851496b036f1f729794933ada">vzhodu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ nad sbz6">
+          <collocations>
+            <collocation form="daniti nad mestom" cluster="1" frequency="36" logDice="9.54">
+              <comp position="1" type="headword" sloleks="LE_acd61c73c5bd3721b55819d1396c2f7a">daniti</comp>
+              <comp position="2" type="other" sloleks="LE_d1a9059d44a24194d17af34039c48e9a">nad</comp>
+              <comp position="3" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mestom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz INF-GBZ">
+          <collocations>
+            <collocation form="začenjati daniti" cluster="1" frequency="8" logDice="5.04">
+              <comp position="1" type="collocate" sloleks="LE_39c2f42855c6bec54b3baab353b6c081">začenjati</comp>
+              <comp position="2" type="headword" sloleks="LE_acd61c73c5bd3721b55819d1396c2f7a">daniti</comp>
+            </collocation>
+            <collocation form="pričeti daniti" cluster="2" frequency="14" logDice="3.86">
+              <comp position="1" type="collocate" sloleks="LE_ded1741f1de355cb4a0e75c9109c069d">pričeti</comp>
+              <comp position="2" type="headword" sloleks="LE_acd61c73c5bd3721b55819d1396c2f7a">daniti</comp>
+            </collocation>
+            <collocation form="začeti daniti" cluster="3" frequency="142" logDice="3.29">
+              <comp position="1" type="collocate" sloleks="LE_5526be99243d6a70e33b06d3eabd15ae">začeti</comp>
+              <comp position="2" type="headword" sloleks="LE_acd61c73c5bd3721b55819d1396c2f7a">daniti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="zunaj daniti" cluster="1" frequency="8" logDice="4.53">
+              <comp position="1" type="collocate" sloleks="LE_2e74584848f37c2f80778b44e84c7f25">zunaj</comp>
+              <comp position="2" type="headword" sloleks="LE_acd61c73c5bd3721b55819d1396c2f7a">daniti</comp>
+            </collocation>
+            <collocation form="počasi daniti" cluster="2" frequency="6" logDice="1.18">
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              <comp position="2" type="headword" sloleks="LE_acd61c73c5bd3721b55819d1396c2f7a">daniti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

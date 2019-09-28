@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="50077">bradač</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">593</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="bradač iz Slovenije" cluster="1" frequency="10" logDice="3.5">
+              <comp position="1" type="headword" sloleks="LE_ad532b5843ac330f02b51d7eb396f602">bradač</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Slovenije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="srečanje bradača" cluster="1" frequency="79" logDice="5.38">
+              <comp position="1" type="collocate" sloleks="LE_779fa188c4acb969e9354bb72d376b6d">srečanje</comp>
+              <comp position="2" type="headword" sloleks="LE_ad532b5843ac330f02b51d7eb396f602">bradača</comp>
+            </collocation>
+            <collocation form="tekmovanje bradača" cluster="2" frequency="5" logDice="2.96">
+              <comp position="1" type="collocate" sloleks="LE_cf9c71806a842d7c251392dd39734f20">tekmovanje</comp>
+              <comp position="2" type="headword" sloleks="LE_ad532b5843ac330f02b51d7eb396f602">bradača</comp>
+            </collocation>
+            <collocation form="slika bradača" cluster="3" frequency="5" logDice="1.93">
+              <comp position="1" type="collocate" sloleks="LE_593e973f672b71320e37b77b785f08a0">slika</comp>
+              <comp position="2" type="headword" sloleks="LE_ad532b5843ac330f02b51d7eb396f602">bradača</comp>
+            </collocation>
+            <collocation form="izbor bradača" cluster="4" frequency="5" logDice="1.68">
+              <comp position="1" type="collocate" sloleks="LE_dbea8dca0a5d5d74da0f5eea90e9ab2a">izbor</comp>
+              <comp position="2" type="headword" sloleks="LE_ad532b5843ac330f02b51d7eb396f602">bradača</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

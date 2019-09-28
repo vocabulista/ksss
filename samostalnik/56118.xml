@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="56118">far</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">2174</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="far nienta" cluster="1" frequency="20" logDice="12.79">
+              <comp position="1" type="headword" sloleks="LE_9d87d5687633bad75ed116649811fd84">far</comp>
+              <comp position="2" type="collocate" sloleks="">nienta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pedofilski far" cluster="1" frequency="8" logDice="6.82">
+              <comp position="1" type="collocate" sloleks="LE_c5ba365a725e97d9b5ef61dd9257f91f">pedofilski</comp>
+              <comp position="2" type="headword" sloleks="LE_9d87d5687633bad75ed116649811fd84">far</comp>
+            </collocation>
+            <collocation form="vaški far" cluster="2" frequency="8" logDice="3.04">
+              <comp position="1" type="collocate" sloleks="LE_6f68bece59c6bc45dc865ee7515a820f">vaški</comp>
+              <comp position="2" type="headword" sloleks="LE_9d87d5687633bad75ed116649811fd84">far</comp>
+            </collocation>
+            <collocation form="živ Far" cluster="3" frequency="12" logDice="2.17">
+              <comp position="1" type="collocate" sloleks="LE_d631b22ec6f88d4b2d35a791ecefe4f6">živ</comp>
+              <comp position="2" type="headword" sloleks="LE_9d87d5687633bad75ed116649811fd84">Far</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,44 @@
+<entry>
+  <header>
+    <lexical_unit id="19752">iveren</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1421</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="iveren in vlaknen" cluster="1" frequency="9" logDice="12.36">
+              <comp position="1" type="headword" sloleks="LE_28d109f4d0b3f3387d06548c8ec358e8">iveren</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_3766b19e77a0d848b7f3633e63eb8712">vlaknen</comp>
+            </collocation>
+            <collocation form="iveren in panelen" cluster="2" frequency="5" logDice="11.19">
+              <comp position="1" type="headword" sloleks="LE_28d109f4d0b3f3387d06548c8ec358e8">iveren</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_834337c7bac28da06a64422f886c1a67">panelen</comp>
+            </collocation>
+            <collocation form="iveren ali vezan" cluster="3" frequency="12" logDice="9.43">
+              <comp position="1" type="headword" sloleks="LE_28d109f4d0b3f3387d06548c8ec358e8">iveren</comp>
+              <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_9d168478078f3e72a96d3998d1540539">vezan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="iverna plošča" cluster="1" frequency="1376" logDice="9.03">
+              <comp position="1" type="headword" sloleks="LE_28d109f4d0b3f3387d06548c8ec358e8">iverna</comp>
+              <comp position="2" type="collocate" sloleks="LE_75a10c913aa58b7a0188e78adfd52ab4">plošča</comp>
+            </collocation>
+            <collocation form="iverna tovarna" cluster="2" frequency="12" logDice="3.16">
+              <comp position="1" type="headword" sloleks="LE_28d109f4d0b3f3387d06548c8ec358e8">iverna</comp>
+              <comp position="2" type="collocate" sloleks="LE_60c081b7fc653e83aaefd97eb413525c">tovarna</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

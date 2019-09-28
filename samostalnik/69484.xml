@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="69484">mikavnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">447</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="posebna mikavnost" cluster="1" frequency="32" logDice="1.18">
+              <comp position="1" type="collocate" sloleks="LE_c6ac532196f00aeff80a6a291379271e">posebna</comp>
+              <comp position="2" type="headword" sloleks="LE_1743d61eeb68291c903b5a774f98afee">mikavnost</comp>
+            </collocation>
+            <collocation form="turistična mikavnost" cluster="2" frequency="12" logDice="0.96">
+              <comp position="1" type="collocate" sloleks="LE_f87a89a2e9f5592be2bf24dc755bf6b5">turistična</comp>
+              <comp position="2" type="headword" sloleks="LE_1743d61eeb68291c903b5a774f98afee">mikavnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="naselje z mikavnostjo" cluster="1" frequency="6" logDice="7.04">
+              <comp position="1" type="collocate" sloleks="LE_80465edf90bceab77efbdf314b62fe0c">naselje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_1743d61eeb68291c903b5a774f98afee">mikavnostjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

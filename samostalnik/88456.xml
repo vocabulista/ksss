@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="88456">siesta</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">654</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="popoldanska siesta" cluster="1" frequency="59" logDice="6.12">
+              <comp position="1" type="collocate" sloleks="LE_fdb33b40ecdecf3eb21157bec3ac020a">popoldanska</comp>
+              <comp position="2" type="headword" sloleks="LE_3af9b9013303d65904819df6c09a1b83">siesta</comp>
+            </collocation>
+            <collocation form="opoldanska siesta" cluster="1" frequency="12" logDice="5.7">
+              <comp position="1" type="collocate" sloleks="LE_d694c48c8727112ba4f146be83c56b88">opoldanska</comp>
+              <comp position="2" type="headword" sloleks="LE_3af9b9013303d65904819df6c09a1b83">siesta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="čas sieste" cluster="1" frequency="25" logDice="1.64">
+              <comp position="1" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">čas</comp>
+              <comp position="2" type="headword" sloleks="LE_3af9b9013303d65904819df6c09a1b83">sieste</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="tekmovanje v siesti" cluster="1" frequency="15" logDice="4.08">
+              <comp position="1" type="collocate" sloleks="LE_cf9c71806a842d7c251392dd39734f20">tekmovanje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_3af9b9013303d65904819df6c09a1b83">siesti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="čas za siesto" cluster="1" frequency="9" logDice="1.86">
+              <comp position="1" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">čas</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_3af9b9013303d65904819df6c09a1b83">siesto</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

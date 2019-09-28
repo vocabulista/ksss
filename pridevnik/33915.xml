@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="33915">skopuški</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">550</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="skopuški in brezsrčen" cluster="1" frequency="6" logDice="9.95">
+              <comp position="1" type="headword" sloleks="LE_6218f8a604c8e3ac0ef5170664b5cc9c">skopuški</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_64c19654adc25bce25753f45e4e83f37">brezsrčen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="skopuški izposojevalec" cluster="1" frequency="6" logDice="9.18">
+              <comp position="1" type="headword" sloleks="LE_6218f8a604c8e3ac0ef5170664b5cc9c">skopuški</comp>
+              <comp position="2" type="collocate" sloleks="LE_f7d03f6d188222733a507d2d49d3a6dc">izposojevalec</comp>
+            </collocation>
+            <collocation form="skopuški starec" cluster="2" frequency="7" logDice="6.33">
+              <comp position="1" type="headword" sloleks="LE_6218f8a604c8e3ac0ef5170664b5cc9c">skopuški</comp>
+              <comp position="2" type="collocate" sloleks="LE_fe6cbc9611537e2dc58e41f463b8a309">starec</comp>
+            </collocation>
+            <collocation form="skopuška mama" cluster="3" frequency="7" logDice="2.83">
+              <comp position="1" type="headword" sloleks="LE_6218f8a604c8e3ac0ef5170664b5cc9c">skopuška</comp>
+              <comp position="2" type="collocate" sloleks="LE_17accc042a5f6d587dff2dcf3ce1dc83">mama</comp>
+            </collocation>
+            <collocation form="skopuški oče" cluster="4" frequency="8" logDice="2.48">
+              <comp position="1" type="headword" sloleks="LE_6218f8a604c8e3ac0ef5170664b5cc9c">skopuški</comp>
+              <comp position="2" type="collocate" sloleks="LE_fc6f92b44e0935702b32d3acbccf0142">oče</comp>
+            </collocation>
+            <collocation form="skopuški mož" cluster="4" frequency="6" logDice="1.23">
+              <comp position="1" type="headword" sloleks="LE_6218f8a604c8e3ac0ef5170664b5cc9c">skopuški</comp>
+              <comp position="2" type="collocate" sloleks="LE_9294043181f8bc12b9c4f655c1a96b75">mož</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="preveč skopuški" cluster="1" frequency="13" logDice="1.98">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_6218f8a604c8e3ac0ef5170664b5cc9c">skopuški</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

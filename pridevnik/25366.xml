@@ -1,0 +1,78 @@
+<entry>
+  <header>
+    <lexical_unit id="25366">nekompetenten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">596</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nekompetenten sogovornik" cluster="1" frequency="14" logDice="5.36">
+              <comp position="1" type="headword" sloleks="LE_6099e2156549e52701d01217420b3bff">nekompetenten</comp>
+              <comp position="2" type="collocate" sloleks="LE_4330c15f9d6b796900d3cba66797b027">sogovornik</comp>
+            </collocation>
+            <collocation form="nekompetenten funkcionar" cluster="2" frequency="6" logDice="3.09">
+              <comp position="1" type="headword" sloleks="LE_6099e2156549e52701d01217420b3bff">nekompetenten</comp>
+              <comp position="2" type="collocate" sloleks="LE_fff09d1a4861ef538571b5cf11fbc82d">funkcionar</comp>
+            </collocation>
+            <collocation form="nekompetenten človek" cluster="3" frequency="46" logDice="2.25">
+              <comp position="1" type="headword" sloleks="LE_6099e2156549e52701d01217420b3bff">nekompetenten</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človek</comp>
+            </collocation>
+            <collocation form="nekompetenten minister" cluster="3" frequency="13" logDice="0.74">
+              <comp position="1" type="headword" sloleks="LE_6099e2156549e52701d01217420b3bff">nekompetenten</comp>
+              <comp position="2" type="collocate" sloleks="LE_14d03bd4c4af80feb9e303c813fc6d24">minister</comp>
+            </collocation>
+            <collocation form="nekompetenten politik" cluster="3" frequency="8" logDice="1.97">
+              <comp position="1" type="headword" sloleks="LE_6099e2156549e52701d01217420b3bff">nekompetenten</comp>
+              <comp position="2" type="collocate" sloleks="LE_43bf7ab82ddd60104b42f5df3f200f85">politik</comp>
+            </collocation>
+            <collocation form="nekompetenten član" cluster="3" frequency="6" logDice="0.57">
+              <comp position="1" type="headword" sloleks="LE_6099e2156549e52701d01217420b3bff">nekompetenten</comp>
+              <comp position="2" type="collocate" sloleks="LE_39d3a6c0cb58c4df843632f14f2543d3">član</comp>
+            </collocation>
+            <collocation form="nekompetentno vodstvo" cluster="4" frequency="7" logDice="1.82">
+              <comp position="1" type="headword" sloleks="LE_6099e2156549e52701d01217420b3bff">nekompetentno</comp>
+              <comp position="2" type="collocate" sloleks="LE_cfbf3b6eda6e115103a1a0b3fa68f541">vodstvo</comp>
+            </collocation>
+            <collocation form="nekompetentna vlada" cluster="5" frequency="11" logDice="0.72">
+              <comp position="1" type="headword" sloleks="LE_6099e2156549e52701d01217420b3bff">nekompetentna</comp>
+              <comp position="2" type="collocate" sloleks="LE_63d183132c68728be91773043828fb2d">vlada</comp>
+            </collocation>
+            <collocation form="nekompetentna oseba" cluster="5" frequency="11" logDice="0.66">
+              <comp position="1" type="headword" sloleks="LE_6099e2156549e52701d01217420b3bff">nekompetentna</comp>
+              <comp position="2" type="collocate" sloleks="LE_5e8793197d1b4e3a6b3f8ae0aa95a812">oseba</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="nekompetenten in/ali nesposoben" cluster="1" frequency="10" logDice="7.78">
+              <comp position="3" type="headword" sloleks="LE_6099e2156549e52701d01217420b3bff">nekompetenten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_397c55429d56aa7b2878d73fb863f420">nesposoben</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="strokovno nekompetenten" cluster="1" frequency="8" logDice="4.44">
+              <comp position="1" type="collocate" sloleks="LE_9ba8ec346ccaf403d28eae2d8c39a56d">strokovno</comp>
+              <comp position="2" type="headword" sloleks="LE_6099e2156549e52701d01217420b3bff">nekompetenten</comp>
+            </collocation>
+            <collocation form="popolnoma nekompetenten" cluster="2" frequency="19" logDice="2.54">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_6099e2156549e52701d01217420b3bff">nekompetenten</comp>
+            </collocation>
+            <collocation form="povsem nekompetenten" cluster="2" frequency="17" logDice="1.37">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_6099e2156549e52701d01217420b3bff">nekompetenten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

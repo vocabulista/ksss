@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="41959">medvedje</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">714</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ gbz">
+          <collocations>
+            <collocation form="medvedje plaziti" cluster="1" frequency="4" logDice="7.15">
+              <comp position="1" type="headword" sloleks="LE_6413cc9e9339925ead28c3b2625b1f2c">medvedje</comp>
+              <comp position="2" type="collocate" sloleks="LE_ed323905969f6e96e2163dad213e3908">plaziti</comp>
+            </collocation>
+            <collocation form="medvedje ogrožati" cluster="2" frequency="4" logDice="3.99">
+              <comp position="1" type="headword" sloleks="LE_6413cc9e9339925ead28c3b2625b1f2c">medvedje</comp>
+              <comp position="2" type="collocate" sloleks="LE_1786760380a6c4781b9864bc78583d2c">ogrožati</comp>
+            </collocation>
+            <collocation form="medvedje povzročati" cluster="3" frequency="5" logDice="3.8">
+              <comp position="1" type="headword" sloleks="LE_6413cc9e9339925ead28c3b2625b1f2c">medvedje</comp>
+              <comp position="2" type="collocate" sloleks="LE_e585fa38ba51358fcff53433b71cf68e">povzročati</comp>
+            </collocation>
+            <collocation form="medvedje slediti" cluster="4" frequency="5" logDice="2.19">
+              <comp position="1" type="headword" sloleks="LE_6413cc9e9339925ead28c3b2625b1f2c">medvedje</comp>
+              <comp position="2" type="collocate" sloleks="LE_7e8257f6d3f96f4e941dceb09159350b">slediti</comp>
+            </collocation>
+            <collocation form="medvedje prihajati" cluster="5" frequency="4" logDice="1.97">
+              <comp position="1" type="headword" sloleks="LE_6413cc9e9339925ead28c3b2625b1f2c">medvedje</comp>
+              <comp position="2" type="collocate" sloleks="LE_5e81faf8c134458629d8cd3d91de63db">prihajati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="kraljevati medvedje" cluster="1" frequency="4" logDice="7.61">
+              <comp position="1" type="collocate" sloleks="LE_1f7a0d6c9dd2e13bc45f691e2660c9f4">kraljevati</comp>
+              <comp position="2" type="headword" sloleks="LE_6413cc9e9339925ead28c3b2625b1f2c">medvedje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

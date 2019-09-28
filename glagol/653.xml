@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="653">cmeriti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">479</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="cmeriti za figo" cluster="1" frequency="5" logDice="9.4">
+              <comp position="1" type="headword" sloleks="LE_92fc5a4f6fdc6f09a489709baf329d9d">cmeriti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_9e2087856b81c59dc4f4e8a35e2a5895">figo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="nenehno cmeriti" cluster="1" frequency="5" logDice="2.08">
+              <comp position="1" type="collocate" sloleks="LE_51a4baeec25a30e6830b327ef65991b5">nenehno</comp>
+              <comp position="2" type="headword" sloleks="LE_92fc5a4f6fdc6f09a489709baf329d9d">cmeriti</comp>
+            </collocation>
+            <collocation form="doma cmeriti" cluster="2" frequency="4" logDice="1.26">
+              <comp position="1" type="collocate" sloleks="LE_e763d76187601d485fd9a1af70a03a8c">doma</comp>
+              <comp position="2" type="headword" sloleks="LE_92fc5a4f6fdc6f09a489709baf329d9d">cmeriti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

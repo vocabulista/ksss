@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="69199">mešalo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">487</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz na SBZ5">
+          <collocations>
+            <collocation form="premešati na mešalu" cluster="1" frequency="16" logDice="12.57">
+              <comp position="1" type="collocate" sloleks="LE_1799e199ac3c788765f3a091a37fba0b">premešati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_c3ec6fef359919341222876f46bbee71">mešalu</comp>
+            </collocation>
+            <collocation form="mešati na mešalu" cluster="2" frequency="4" logDice="8.44">
+              <comp position="1" type="collocate" sloleks="LE_e9f311c581a1a2d44231fb8c9834210c">mešati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_c3ec6fef359919341222876f46bbee71">mešalu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="magnetno mešalo" cluster="1" frequency="11" logDice="4.83">
+              <comp position="1" type="collocate" sloleks="LE_c603dbc5aa7c295570f649a54314a1f5">magnetno</comp>
+              <comp position="2" type="headword" sloleks="LE_c3ec6fef359919341222876f46bbee71">mešalo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="kaled Mešala" cluster="1" frequency="7" logDice="10.73">
+              <comp position="1" type="collocate" sloleks="">kaled</comp>
+              <comp position="2" type="headword" sloleks="LE_c3ec6fef359919341222876f46bbee71">Mešala</comp>
+            </collocation>
+            <collocation form="mešalo štrene" cluster="2" frequency="54" logDice="12.59">
+              <comp position="1" type="headword" sloleks="LE_c3ec6fef359919341222876f46bbee71">mešalo</comp>
+              <comp position="2" type="collocate" sloleks="LE_4e73ec39a87fcdcbd026465ebb3b5529">štrene</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,77 @@
+<entry>
+  <header>
+    <lexical_unit id="64291">kolesarnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">599</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="kolesarnica bloka" cluster="1" frequency="49" logDice="6.74">
+              <comp position="1" type="headword" sloleks="LE_b981cae9a09a8ebd6aba337150c7e4f4">kolesarnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_856fc91a52317aa8458dd3b464257dd6">bloka</comp>
+            </collocation>
+            <collocation form="streha kolesarnice" cluster="2" frequency="6" logDice="4.3">
+              <comp position="1" type="collocate" sloleks="LE_ce3a8efb09c9c5f6f491b50ef16e4a48">streha</comp>
+              <comp position="2" type="headword" sloleks="LE_b981cae9a09a8ebd6aba337150c7e4f4">kolesarnice</comp>
+            </collocation>
+            <collocation form="gradnja kolesarnice" cluster="3" frequency="6" logDice="0.58">
+              <comp position="1" type="collocate" sloleks="LE_3625065aad7c72d3cd7d1c94e3b12e46">gradnja</comp>
+              <comp position="2" type="headword" sloleks="LE_b981cae9a09a8ebd6aba337150c7e4f4">kolesarnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pokrita kolesarnica" cluster="1" frequency="15" logDice="5.16">
+              <comp position="1" type="collocate" sloleks="LE_9303431d9a42a3e1fccbcf431c0cb25c">pokrita</comp>
+              <comp position="2" type="headword" sloleks="LE_b981cae9a09a8ebd6aba337150c7e4f4">kolesarnica</comp>
+            </collocation>
+            <collocation form="varovana kolesarnica" cluster="2" frequency="9" logDice="4.41">
+              <comp position="1" type="collocate" sloleks="LE_6ba997f3793e39b9a5fbc6cb7eb627e3">varovana</comp>
+              <comp position="2" type="headword" sloleks="LE_b981cae9a09a8ebd6aba337150c7e4f4">kolesarnica</comp>
+            </collocation>
+            <collocation form="šolska kolesarnica" cluster="3" frequency="10" logDice="0.97">
+              <comp position="1" type="collocate" sloleks="LE_ce01686bf12835d64e816a68dc030efb">šolska</comp>
+              <comp position="2" type="headword" sloleks="LE_b981cae9a09a8ebd6aba337150c7e4f4">kolesarnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="kolo iz kolesarnice" cluster="1" frequency="4" logDice="7.63">
+              <comp position="1" type="collocate" sloleks="LE_54e72f78ea9566d5e97d58e9d635c686|LE_a2095f25780ded6d30a95b6a6860e039">kolo</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_b981cae9a09a8ebd6aba337150c7e4f4">kolesarnice</comp>
+            </collocation>
+            <collocation form="neznanec iz kolesarnice" cluster="2" frequency="5" logDice="7.41">
+              <comp position="1" type="collocate" sloleks="LE_e17a3d4fc256554233fcaf15facc009d">neznanec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_b981cae9a09a8ebd6aba337150c7e4f4">kolesarnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ4">
+          <collocations>
+            <collocation form="kolo v kolesarnico" cluster="1" frequency="4" logDice="7.83">
+              <comp position="1" type="collocate" sloleks="LE_54e72f78ea9566d5e97d58e9d635c686|LE_a2095f25780ded6d30a95b6a6860e039">kolo</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_b981cae9a09a8ebd6aba337150c7e4f4">kolesarnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="kolo v kolesarnici" cluster="1" frequency="5" logDice="6.48">
+              <comp position="1" type="collocate" sloleks="LE_54e72f78ea9566d5e97d58e9d635c686|LE_a2095f25780ded6d30a95b6a6860e039">kolo</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_b981cae9a09a8ebd6aba337150c7e4f4">kolesarnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

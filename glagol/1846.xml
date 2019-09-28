@@ -1,0 +1,92 @@
+<entry>
+  <header>
+    <lexical_unit id="1846">izterjevati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">459</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ od sbz2">
+          <collocations>
+            <collocation form="izterjevati od tožnika" cluster="1" frequency="4" logDice="10.37">
+              <comp position="1" type="headword" sloleks="LE_b56ba5c554422bdbfae4704cc12e96a4">izterjevati</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_f85c487d2ecdfc68acad796331aa1dc9">tožnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="izterjevati dolg" cluster="1" frequency="37" logDice="7.26">
+              <comp position="1" type="headword" sloleks="LE_b56ba5c554422bdbfae4704cc12e96a4">izterjevati</comp>
+              <comp position="2" type="collocate" sloleks="LE_a2a11a009e84eefb6bd25beef923d7d6">dolg</comp>
+            </collocation>
+            <collocation form="izterjevati terjatev" cluster="1" frequency="11" logDice="6.54">
+              <comp position="1" type="headword" sloleks="LE_b56ba5c554422bdbfae4704cc12e96a4">izterjevati</comp>
+              <comp position="2" type="collocate" sloleks="LE_7ea34a6ae61cb279bc19b535d6863e11">terjatev</comp>
+            </collocation>
+            <collocation form="izterjevati obveznost" cluster="1" frequency="4" logDice="2.55">
+              <comp position="1" type="headword" sloleks="LE_b56ba5c554422bdbfae4704cc12e96a4">izterjevati</comp>
+              <comp position="2" type="collocate" sloleks="LE_0588885dbe8f39694a2008d1244439fb">obveznost</comp>
+            </collocation>
+            <collocation form="izterjevati članarino" cluster="2" frequency="9" logDice="6.87">
+              <comp position="1" type="headword" sloleks="LE_b56ba5c554422bdbfae4704cc12e96a4">izterjevati</comp>
+              <comp position="2" type="collocate" sloleks="LE_1392d31670f3ec8c206cc3848d24e9c9">članarino</comp>
+            </collocation>
+            <collocation form="izterjevati davek" cluster="3" frequency="27" logDice="5.53">
+              <comp position="1" type="headword" sloleks="LE_b56ba5c554422bdbfae4704cc12e96a4">izterjevati</comp>
+              <comp position="2" type="collocate" sloleks="LE_d770237b6bddbefb51b670883ef45a45">davek</comp>
+            </collocation>
+            <collocation form="izterjevati dajatev" cluster="3" frequency="7" logDice="6.45">
+              <comp position="1" type="headword" sloleks="LE_b56ba5c554422bdbfae4704cc12e96a4">izterjevati</comp>
+              <comp position="2" type="collocate" sloleks="LE_acf927efc9b1316e065ccb8646e81ba9">dajatev</comp>
+            </collocation>
+            <collocation form="izterjevati prispevek" cluster="4" frequency="12" logDice="4.41">
+              <comp position="1" type="headword" sloleks="LE_b56ba5c554422bdbfae4704cc12e96a4">izterjevati</comp>
+              <comp position="2" type="collocate" sloleks="LE_31b4b9d1edb0c5ea202549e0e4e23e81">prispevek</comp>
+            </collocation>
+            <collocation form="izterjevati denar" cluster="4" frequency="12" logDice="1.97">
+              <comp position="1" type="headword" sloleks="LE_b56ba5c554422bdbfae4704cc12e96a4">izterjevati</comp>
+              <comp position="2" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denar</comp>
+            </collocation>
+            <collocation form="izterjevati sredstvo" cluster="4" frequency="4" logDice="1.59">
+              <comp position="1" type="headword" sloleks="LE_b56ba5c554422bdbfae4704cc12e96a4">izterjevati</comp>
+              <comp position="2" type="collocate" sloleks="LE_94c4f4cf5104632466509789b5cde032">sredstvo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="izterjevati s sklepom" cluster="1" frequency="4" logDice="4.12">
+              <comp position="1" type="headword" sloleks="LE_b56ba5c554422bdbfae4704cc12e96a4">izterjevati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_deb91e24f82bff5cd331c1eaac56c861">sklepom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz SBZ2">
+          <collocations>
+            <collocation form="ne izterjevati prispevka" cluster="1" frequency="11" logDice="7.89">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_b56ba5c554422bdbfae4704cc12e96a4">izterjevati</comp>
+              <comp position="3" type="collocate" sloleks="LE_31b4b9d1edb0c5ea202549e0e4e23e81">prispevka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="prisilno izterjevati" cluster="1" frequency="8" logDice="6.8">
+              <comp position="1" type="collocate" sloleks="LE_5146029e55335d32458489319148ccc7">prisilno</comp>
+              <comp position="2" type="headword" sloleks="LE_b56ba5c554422bdbfae4704cc12e96a4">izterjevati</comp>
+            </collocation>
+            <collocation form="dosledno izterjevati" cluster="2" frequency="6" logDice="4.17">
+              <comp position="1" type="collocate" sloleks="LE_0adbcddb6c1a0d4049f5101b3edac31b">dosledno</comp>
+              <comp position="2" type="headword" sloleks="LE_b56ba5c554422bdbfae4704cc12e96a4">izterjevati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

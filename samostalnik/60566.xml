@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="60566">intendant</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">444</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="intendant gledališča" cluster="1" frequency="26" logDice="4.67">
+              <comp position="1" type="headword" sloleks="LE_05145ffd6789ae4bc0e20c4a130d37f2">intendant</comp>
+              <comp position="2" type="collocate" sloleks="LE_9fe96d8226476bff101c6dfd171ff0f4">gledališča</comp>
+            </collocation>
+            <collocation form="intendant opere" cluster="1" frequency="25" logDice="6.14">
+              <comp position="1" type="headword" sloleks="LE_05145ffd6789ae4bc0e20c4a130d37f2">intendant</comp>
+              <comp position="2" type="collocate" sloleks="LE_0a2d9b55849040dc35ccc05d55fecaaf">opere</comp>
+            </collocation>
+            <collocation form="intendant bataljona" cluster="2" frequency="8" logDice="5.76">
+              <comp position="1" type="headword" sloleks="LE_05145ffd6789ae4bc0e20c4a130d37f2">intendant</comp>
+              <comp position="2" type="collocate" sloleks="LE_4eed01f6efbeb12fe6a3409d3ab5d72b">bataljona</comp>
+            </collocation>
+            <collocation form="intendant festivala" cluster="3" frequency="8" logDice="2.37">
+              <comp position="1" type="headword" sloleks="LE_05145ffd6789ae4bc0e20c4a130d37f2">intendant</comp>
+              <comp position="2" type="collocate" sloleks="LE_ced9627635c10e3958ee72069937f6bf">festivala</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="generalen intendant" cluster="1" frequency="26" logDice="2.98">
+              <comp position="1" type="collocate" sloleks="LE_06f67ce472bd282a771011891209eeb2">generalen</comp>
+              <comp position="2" type="headword" sloleks="LE_05145ffd6789ae4bc0e20c4a130d37f2">intendant</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

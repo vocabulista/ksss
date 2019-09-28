@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="21173">kljubovalen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">489</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="kljubovalna drža" cluster="1" frequency="12" logDice="4.3">
+              <comp position="1" type="headword" sloleks="LE_b8fe76aa6582460ea7c4f2baaa37e38f">kljubovalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_2edaef329e1c67ebac6959ae8e84e00b">drža</comp>
+            </collocation>
+            <collocation form="kljubovalno vedenje" cluster="2" frequency="7" logDice="3.23">
+              <comp position="1" type="headword" sloleks="LE_b8fe76aa6582460ea7c4f2baaa37e38f">kljubovalno</comp>
+              <comp position="2" type="collocate" sloleks="LE_3bdf5abfb2a566493af53e72977a2683">vedenje</comp>
+            </collocation>
+            <collocation form="kljubovalen otrok" cluster="3" frequency="8" logDice="0.79">
+              <comp position="1" type="headword" sloleks="LE_b8fe76aa6582460ea7c4f2baaa37e38f">kljubovalen</comp>
+              <comp position="2" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otrok</comp>
+            </collocation>
+            <collocation form="kljubovalna moč" cluster="4" frequency="7" logDice="0.72">
+              <comp position="1" type="headword" sloleks="LE_b8fe76aa6582460ea7c4f2baaa37e38f">kljubovalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_0b71c85c50e39f2c8cb5e91791d67af9">moč</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="kljubovalen in/ali trmast" cluster="1" frequency="5" logDice="6.98">
+              <comp position="3" type="headword" sloleks="LE_b8fe76aa6582460ea7c4f2baaa37e38f">kljubovalen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_912d43f74ffcf08515df7227319682cd">trmast</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

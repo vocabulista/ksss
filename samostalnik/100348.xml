@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="100348">žvečilka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">554</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 brez sbz2">
+          <collocations>
+            <collocation form="žvečilka brez sladkorja" cluster="1" frequency="11" logDice="8.71">
+              <comp position="1" type="headword" sloleks="LE_96efb61105a30538c46df8fdaf1576ff">žvečilka</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="collocate" sloleks="LE_da4f2da25b1df3ceda67d3f1a7d28518">sladkorja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="žvečilka na leto" cluster="1" frequency="6" logDice="2.19">
+              <comp position="1" type="headword" sloleks="LE_96efb61105a30538c46df8fdaf1576ff">žvečilka</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leto</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="žvečilka z okusom" cluster="1" frequency="4" logDice="5.4">
+              <comp position="1" type="headword" sloleks="LE_96efb61105a30538c46df8fdaf1576ff">žvečilka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_d8073f7c60c2504626fd4db48536f904">okusom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="nadomestiti z žvečilko" cluster="1" frequency="4" logDice="3.45">
+              <comp position="1" type="collocate" sloleks="LE_1e42675eef4d1848d56b40df4d3a0ebf">nadomestiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_96efb61105a30538c46df8fdaf1576ff">žvečilko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nikotinska žvečilka" cluster="1" frequency="16" logDice="8.96">
+              <comp position="1" type="collocate" sloleks="LE_d6cb17aada8c7aab88572722bad219bf">nikotinska</comp>
+              <comp position="2" type="headword" sloleks="LE_96efb61105a30538c46df8fdaf1576ff">žvečilka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="žvečenje žvečilke" cluster="1" frequency="12" logDice="9.22">
+              <comp position="1" type="collocate" sloleks="LE_c67e64fcc9fbc403eedbf904f718dcab">žvečenje</comp>
+              <comp position="2" type="headword" sloleks="LE_96efb61105a30538c46df8fdaf1576ff">žvečilke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

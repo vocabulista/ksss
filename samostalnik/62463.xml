@@ -1,0 +1,56 @@
+<entry>
+  <header>
+    <lexical_unit id="62463">jurišnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">761</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="jurišnik iz SD" cluster="1" frequency="4" logDice="7.74">
+              <comp position="1" type="headword" sloleks="LE_f5603f5030f86fc0b19c942c1856ef6e">jurišnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_2eca9731a8eefa52bd249090c389298a|LE_1a52600703d4949e724325c3be7c0456">SD</comp>
+            </collocation>
+            <collocation form="jurišnik iz stranke" cluster="2" frequency="4" logDice="4.6">
+              <comp position="1" type="headword" sloleks="LE_f5603f5030f86fc0b19c942c1856ef6e">jurišnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_945a204a300f28702820c4bc0481d2e7">stranke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="jurišnik na medij" cluster="1" frequency="5" logDice="6.78">
+              <comp position="1" type="headword" sloleks="LE_f5603f5030f86fc0b19c942c1856ef6e">jurišnik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_2fdfb09ca61a23719b60aed391a2d0ea">medij</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Janšev jurišnik" cluster="1" frequency="19" logDice="4.98">
+              <comp position="1" type="collocate" sloleks="LE_e3aa32426ab3a192a21306c5786e4f6e">Janšev</comp>
+              <comp position="2" type="headword" sloleks="LE_f5603f5030f86fc0b19c942c1856ef6e">jurišnik</comp>
+            </collocation>
+            <collocation form="rdeč jurišnik" cluster="2" frequency="11" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_f39824a0a0c94efb31b4fa9dc908ea0f">rdeč</comp>
+              <comp position="2" type="headword" sloleks="LE_f5603f5030f86fc0b19c942c1856ef6e">jurišnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="slog jurišnika" cluster="1" frequency="6" logDice="3.36">
+              <comp position="1" type="collocate" sloleks="LE_65244e80aea10cbd65a5e9b0824c3fdb">slog</comp>
+              <comp position="2" type="headword" sloleks="LE_f5603f5030f86fc0b19c942c1856ef6e">jurišnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

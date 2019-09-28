@@ -1,0 +1,62 @@
+<entry>
+  <header>
+    <lexical_unit id="6581831">štrajkati</lexical_unit>
+    <category>glagol</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="štrajkati zato" cluster="1" frequency="9" logDice="0.83">
+              <comp position="1" type="headword" sloleks="">štrajkati</comp>
+              <comp position="2" type="collocate" sloleks="LE_a8c8d0c329f7b5193130e7eb405193e2">zato</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="štrajkati za plačo" cluster="1" frequency="10" logDice="6.33">
+              <comp position="1" type="headword" sloleks="">štrajkati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_5e60f7e201847a7be65d2212fdd74103">plačo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ zaradi sbz2">
+          <collocations>
+            <collocation form="štrajkati zaradi plače" cluster="1" frequency="4" logDice="7.59">
+              <comp position="1" type="headword" sloleks="">štrajkati</comp>
+              <comp position="2" type="other" sloleks="LE_e2128c24e3c3872c9e5c2981f71b461f">zaradi</comp>
+              <comp position="3" type="collocate" sloleks="LE_5e60f7e201847a7be65d2212fdd74103">plače</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="sedaj štrajkati" cluster="1" frequency="8" logDice="1.07">
+              <comp position="1" type="collocate" sloleks="LE_e50eb5a17c98c735c9fb6d8e08cf2787">sedaj</comp>
+              <comp position="2" type="headword" sloleks="">štrajkati</comp>
+            </collocation>
+            <collocation form="naprej štrajkati" cluster="2" frequency="7" logDice="0.97">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="">štrajkati</comp>
+            </collocation>
+            <collocation form="zakaj štrajkati" cluster="3" frequency="11" logDice="0.63">
+              <comp position="1" type="collocate" sloleks="LE_34b66348359b2773446caee88195586d">zakaj</comp>
+              <comp position="2" type="headword" sloleks="">štrajkati</comp>
+            </collocation>
+            <collocation form="raje štrajkati" cluster="4" frequency="5" logDice="0.63">
+              <comp position="1" type="collocate" sloleks="LE_ffbac6bb621f782b67fe85e3adf7bf8e">raje</comp>
+              <comp position="2" type="headword" sloleks="">štrajkati</comp>
+            </collocation>
+            <collocation form="danes štrajkati" cluster="5" frequency="11" logDice="0.27">
+              <comp position="1" type="collocate" sloleks="LE_1ce30c2bc2ec7609ed31b8f4fa97c156">danes</comp>
+              <comp position="2" type="headword" sloleks="">štrajkati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

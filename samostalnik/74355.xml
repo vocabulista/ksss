@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="74355">odjemalnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1011</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="odjemalnik silaže" cluster="1" frequency="792" logDice="12.46">
+              <comp position="1" type="headword" sloleks="LE_82808c22abdbc3ec1d94d5f535479ded">odjemalnik</comp>
+              <comp position="2" type="collocate" sloleks="LE_aa7daca883544f0b2d99079233191c8b">silaže</comp>
+            </collocation>
+            <collocation form="odjemalnik pošte" cluster="2" frequency="39" logDice="6.13">
+              <comp position="1" type="headword" sloleks="LE_82808c22abdbc3ec1d94d5f535479ded">odjemalnik</comp>
+              <comp position="2" type="collocate" sloleks="LE_ee712e0ab90cf491d47cce41c9c6a049">pošte</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="odjemalnik za pošto" cluster="1" frequency="4" logDice="5.46">
+              <comp position="1" type="headword" sloleks="LE_82808c22abdbc3ec1d94d5f535479ded">odjemalnik</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee712e0ab90cf491d47cce41c9c6a049">pošto</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pocinkan odjemalnik" cluster="1" frequency="9" logDice="7.64">
+              <comp position="1" type="collocate" sloleks="LE_570ff636d28501e6ed09b396eb3a5239">pocinkan</comp>
+              <comp position="2" type="headword" sloleks="LE_82808c22abdbc3ec1d94d5f535479ded">odjemalnik</comp>
+            </collocation>
+            <collocation form="obračalen odjemalnik" cluster="2" frequency="14" logDice="7.0">
+              <comp position="1" type="collocate" sloleks="LE_3dc9f91ff4bdde5643fd0d12a2b99596">obračalen</comp>
+              <comp position="2" type="headword" sloleks="LE_82808c22abdbc3ec1d94d5f535479ded">odjemalnik</comp>
+            </collocation>
+            <collocation form="pošten odjemalnik" cluster="3" frequency="87" logDice="5.42">
+              <comp position="1" type="collocate" sloleks="LE_219a8f61b8a2b992e07f84576a810354|LE_6ed4630561ce13959befbe1ca95cac42">pošten</comp>
+              <comp position="2" type="headword" sloleks="LE_82808c22abdbc3ec1d94d5f535479ded">odjemalnik</comp>
+            </collocation>
+            <collocation form="lahek odjemalnik" cluster="3" frequency="9" logDice="1.71">
+              <comp position="1" type="collocate" sloleks="LE_843da10f6abcee97aa190c17a9be25e0">lahek</comp>
+              <comp position="2" type="headword" sloleks="LE_82808c22abdbc3ec1d94d5f535479ded">odjemalnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

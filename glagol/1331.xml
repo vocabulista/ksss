@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="1331">hrabriti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">476</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="hrabriti nogometaša" cluster="1" frequency="4" logDice="5.59">
+              <comp position="1" type="headword" sloleks="LE_46acc50a4e5b7963d3d0c0ac16b4b0cd">hrabriti</comp>
+              <comp position="2" type="collocate" sloleks="LE_3908091c4493aadc184609c6d6803bee">nogometaša</comp>
+            </collocation>
+            <collocation form="hrabriti javnost" cluster="2" frequency="4" logDice="2.76">
+              <comp position="1" type="headword" sloleks="LE_46acc50a4e5b7963d3d0c0ac16b4b0cd">hrabriti</comp>
+              <comp position="2" type="collocate" sloleks="LE_e2876fc81d3c084862be27e9bd6863ca">javnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="hrabriti z dejstvom" cluster="1" frequency="4" logDice="4.27">
+              <comp position="1" type="headword" sloleks="LE_46acc50a4e5b7963d3d0c0ac16b4b0cd">hrabriti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_255c5ca471183c2c3fe9d12e0951677a">dejstvom</comp>
+            </collocation>
+            <collocation form="hrabriti z besedo" cluster="2" frequency="4" logDice="2.22">
+              <comp position="1" type="headword" sloleks="LE_46acc50a4e5b7963d3d0c0ac16b4b0cd">hrabriti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">besedo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

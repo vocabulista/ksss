@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="3010">našobiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">423</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="našobiti ustnico" cluster="1" frequency="144" logDice="10.29">
+              <comp position="1" type="headword" sloleks="LE_45eb7d7c3b6d8d967c26eeef0450d1fc">našobiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_e7f2a87a0e07f0f78ed928d807514e00">ustnico</comp>
+            </collocation>
+            <collocation form="našobiti usta" cluster="2" frequency="33" logDice="7.11">
+              <comp position="1" type="headword" sloleks="LE_45eb7d7c3b6d8d967c26eeef0450d1fc">našobiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_d00d8a659d9ab66cdd80fac8dbcd0d4c">usta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="našobiti v poljub" cluster="1" frequency="4" logDice="10.49">
+              <comp position="1" type="headword" sloleks="LE_45eb7d7c3b6d8d967c26eeef0450d1fc">našobiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_b90ad545180f971ca237ebb20043dc1a">poljub</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="ljubko našobiti" cluster="1" frequency="4" logDice="7.94">
+              <comp position="1" type="collocate" sloleks="LE_3501b0fc3c275af4856c182e989e2513">ljubko</comp>
+              <comp position="2" type="headword" sloleks="LE_45eb7d7c3b6d8d967c26eeef0450d1fc">našobiti</comp>
+            </collocation>
+            <collocation form="jezno našobiti" cluster="2" frequency="4" logDice="4.88">
+              <comp position="1" type="collocate" sloleks="LE_6e6c1e766127cd36dec8afb449abfe00">jezno</comp>
+              <comp position="2" type="headword" sloleks="LE_45eb7d7c3b6d8d967c26eeef0450d1fc">našobiti</comp>
+            </collocation>
+            <collocation form="rahlo našobiti" cluster="3" frequency="4" logDice="2.66">
+              <comp position="1" type="collocate" sloleks="LE_bc8fa6f6461bdf94aa79ffddcde1c898">rahlo</comp>
+              <comp position="2" type="headword" sloleks="LE_45eb7d7c3b6d8d967c26eeef0450d1fc">našobiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

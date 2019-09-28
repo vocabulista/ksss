@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="25661">nepodkupljiv</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">429</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nepodkupljiva Novinka" cluster="1" frequency="10" logDice="8.04">
+              <comp position="1" type="headword" sloleks="LE_5ee938595e70630511b140588ac321cf">nepodkupljiva</comp>
+              <comp position="2" type="collocate" sloleks="LE_66269c1b88c284cfc00767a7507e7627">Novinka</comp>
+            </collocation>
+            <collocation form="nepodkupljiva Straža" cluster="2" frequency="15" logDice="5.04">
+              <comp position="1" type="headword" sloleks="LE_5ee938595e70630511b140588ac321cf">nepodkupljiva</comp>
+              <comp position="2" type="collocate" sloleks="LE_fd700b9a77dfdf14fc46e1ea295abbc9">Straža</comp>
+            </collocation>
+            <collocation form="nepodkupljiv čuvaj" cluster="3" frequency="6" logDice="4.93">
+              <comp position="1" type="headword" sloleks="LE_5ee938595e70630511b140588ac321cf">nepodkupljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_e08fb80cbc1f21c35fabc240e075b462">čuvaj</comp>
+            </collocation>
+            <collocation form="nepodkupljiv policist" cluster="4" frequency="7" logDice="2.06">
+              <comp position="1" type="headword" sloleks="LE_5ee938595e70630511b140588ac321cf">nepodkupljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_a0327159c89da7a2b20b5d4531b6b5e1">policist</comp>
+            </collocation>
+            <collocation form="nepodkupljiv politik" cluster="4" frequency="6" logDice="1.56">
+              <comp position="1" type="headword" sloleks="LE_5ee938595e70630511b140588ac321cf">nepodkupljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_43bf7ab82ddd60104b42f5df3f200f85">politik</comp>
+            </collocation>
+            <collocation form="nepodkupljiva serija" cluster="5" frequency="9" logDice="1.48">
+              <comp position="1" type="headword" sloleks="LE_5ee938595e70630511b140588ac321cf">nepodkupljiva</comp>
+              <comp position="2" type="collocate" sloleks="LE_7024b0f285ec3f777bbcddad6033b4b0">serija</comp>
+            </collocation>
+            <collocation form="nepodkupljiva nagrada" cluster="6" frequency="8" logDice="0.96">
+              <comp position="1" type="headword" sloleks="LE_5ee938595e70630511b140588ac321cf">nepodkupljiva</comp>
+              <comp position="2" type="collocate" sloleks="LE_36fb26ff3b13dda6ad73d5616b44950c">nagrada</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="nepodkupljiv in/ali pošten" cluster="1" frequency="10" logDice="5.26">
+              <comp position="3" type="headword" sloleks="LE_5ee938595e70630511b140588ac321cf">nepodkupljiv</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_219a8f61b8a2b992e07f84576a810354|LE_6ed4630561ce13959befbe1ca95cac42">pošten</comp>
+              </collocation>
+            <collocation form="nepodkupljiv in/ali zanesljiv" cluster="2" frequency="5" logDice="4.73">
+              <comp position="3" type="headword" sloleks="LE_5ee938595e70630511b140588ac321cf">nepodkupljiv</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_8b14c003f0c77e56e1342ab50a1c0852">zanesljiv</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

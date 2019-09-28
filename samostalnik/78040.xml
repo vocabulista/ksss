@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="78040">pisanost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">543</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="pisanost barve" cluster="1" frequency="11" logDice="3.08">
+              <comp position="1" type="headword" sloleks="LE_f2644f270210f29bd78b18808265c6fe">pisanost</comp>
+              <comp position="2" type="collocate" sloleks="LE_d066cf8419aa6609519c184ed701618e">barve</comp>
+            </collocation>
+            <collocation form="pisanost kulture" cluster="2" frequency="15" logDice="3.03">
+              <comp position="1" type="headword" sloleks="LE_f2644f270210f29bd78b18808265c6fe">pisanost</comp>
+              <comp position="2" type="collocate" sloleks="LE_4edc5c7069eb1ef7bd3436cfbffaee8a">kulture</comp>
+            </collocation>
+            <collocation form="pisanost življenja" cluster="2" frequency="8" logDice="0.51">
+              <comp position="1" type="headword" sloleks="LE_f2644f270210f29bd78b18808265c6fe">pisanost</comp>
+              <comp position="2" type="collocate" sloleks="LE_b7a6a2019becc6510edb8591e171b0a7">življenja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="odeti v pisanost" cluster="1" frequency="4" logDice="6.19">
+              <comp position="1" type="collocate" sloleks="LE_57312241d234f4236a90f2740008bf83">odeti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_f2644f270210f29bd78b18808265c6fe">pisanost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="narodnostna pisanost" cluster="1" frequency="9" logDice="5.15">
+              <comp position="1" type="collocate" sloleks="LE_339e756545941702673e6cfa491cbe11">narodnostna</comp>
+              <comp position="2" type="headword" sloleks="LE_f2644f270210f29bd78b18808265c6fe">pisanost</comp>
+            </collocation>
+            <collocation form="kulturna pisanost" cluster="2" frequency="18" logDice="0.81">
+              <comp position="1" type="collocate" sloleks="LE_5c6df36bdc0a2c223bcdc5b7ff33d0bf">kulturna</comp>
+              <comp position="2" type="headword" sloleks="LE_f2644f270210f29bd78b18808265c6fe">pisanost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="195222">bam</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="priti v Bam" cluster="1" frequency="5" logDice="0.55">
+              <comp position="1" type="collocate" sloleks="LE_fc339e29cc0e8ec9efe1ef0acdfb11b5">priti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="">Bam</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="viv bam" cluster="1" frequency="40" logDice="8.74">
+              <comp position="1" type="collocate" sloleks="">viv</comp>
+              <comp position="2" type="headword" sloleks="">bam</comp>
+            </collocation>
+            <collocation form="zlat bam" cluster="2" frequency="11" logDice="1.21">
+              <comp position="1" type="collocate" sloleks="LE_841fe594eda42d033f6b9f2e7dc246e9">zlat</comp>
+              <comp position="2" type="headword" sloleks="">bam</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

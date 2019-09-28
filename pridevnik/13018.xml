@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="13018">absolventski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1316</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="absolventski staž" cluster="1" frequency="732" logDice="11.86">
+              <comp position="1" type="headword" sloleks="LE_ce91baa73aa186daf0510e5fc32a723f">absolventski</comp>
+              <comp position="2" type="collocate" sloleks="LE_3c4a1d0b8748a963b644deecf774886a">staž</comp>
+            </collocation>
+            <collocation form="absolventski izlet" cluster="2" frequency="324" logDice="8.31">
+              <comp position="1" type="headword" sloleks="LE_ce91baa73aa186daf0510e5fc32a723f">absolventski</comp>
+              <comp position="2" type="collocate" sloleks="LE_dd48061d661bc37cbc1c16e5e96d2b1a">izlet</comp>
+            </collocation>
+            <collocation form="absolventski status" cluster="3" frequency="79" logDice="6.4">
+              <comp position="1" type="headword" sloleks="LE_ce91baa73aa186daf0510e5fc32a723f">absolventski</comp>
+              <comp position="2" type="collocate" sloleks="LE_8ded38ac7a37441b88a8e17272bf1926">status</comp>
+            </collocation>
+            <collocation form="absolventska himna" cluster="4" frequency="9" logDice="4.93">
+              <comp position="1" type="headword" sloleks="LE_ce91baa73aa186daf0510e5fc32a723f">absolventska</comp>
+              <comp position="2" type="collocate" sloleks="LE_d7789e5d4becdb9474b58e3c86f04643">himna</comp>
+            </collocation>
+            <collocation form="absolventski večer" cluster="5" frequency="17" logDice="2.52">
+              <comp position="1" type="headword" sloleks="LE_ce91baa73aa186daf0510e5fc32a723f">absolventski</comp>
+              <comp position="2" type="collocate" sloleks="LE_19ad54ddbd118041967cb2362c53e3be">večer</comp>
+            </collocation>
+            <collocation form="absolventski nastop" cluster="5" frequency="14" logDice="2.17">
+              <comp position="1" type="headword" sloleks="LE_ce91baa73aa186daf0510e5fc32a723f">absolventski</comp>
+              <comp position="2" type="collocate" sloleks="LE_3c02505e3165a041b4879a0ffb8f719b">nastop</comp>
+            </collocation>
+            <collocation form="absolventski koncert" cluster="5" frequency="8" logDice="1.7">
+              <comp position="1" type="headword" sloleks="LE_ce91baa73aa186daf0510e5fc32a723f">absolventski</comp>
+              <comp position="2" type="collocate" sloleks="LE_59413a17c3a8b66da90ba33d0af97c1d">koncert</comp>
+            </collocation>
+            <collocation form="absolventski ples" cluster="5" frequency="7" logDice="2.28">
+              <comp position="1" type="headword" sloleks="LE_ce91baa73aa186daf0510e5fc32a723f">absolventski</comp>
+              <comp position="2" type="collocate" sloleks="LE_0a5139d7e3ed9a03478faf8c1e367d5b">ples</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="absolventski in/ali maturantski" cluster="1" frequency="44" logDice="13.08">
+              <comp position="3" type="headword" sloleks="LE_ce91baa73aa186daf0510e5fc32a723f">absolventski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_8f4b89623143bb58c5f16d0b926f46a9">maturantski</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

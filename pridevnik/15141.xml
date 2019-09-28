@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="15141">častihlepen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">551</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="častihlepna mati" cluster="1" frequency="16" logDice="4.11">
+              <comp position="1" type="headword" sloleks="LE_691b5d521e1c5e91c659b00e50c4bf2d">častihlepna</comp>
+              <comp position="2" type="collocate" sloleks="LE_c60ad337818645beb21c89ff38faccd7">mati</comp>
+            </collocation>
+            <collocation form="častihlepna ženska" cluster="1" frequency="10" logDice="1.56">
+              <comp position="1" type="headword" sloleks="LE_691b5d521e1c5e91c659b00e50c4bf2d">častihlepna</comp>
+              <comp position="2" type="collocate" sloleks="LE_27b2cafdf8a189c632c32da066af1ce5">ženska</comp>
+            </collocation>
+            <collocation form="častihlepen kralj" cluster="2" frequency="6" logDice="2.59">
+              <comp position="1" type="headword" sloleks="LE_691b5d521e1c5e91c659b00e50c4bf2d">častihlepen</comp>
+              <comp position="2" type="collocate" sloleks="LE_d08bfdbe169af8447d4ea3f7e9e60feb">kralj</comp>
+            </collocation>
+            <collocation form="častihlepen načrt" cluster="3" frequency="10" logDice="0.79">
+              <comp position="1" type="headword" sloleks="LE_691b5d521e1c5e91c659b00e50c4bf2d">častihlepen</comp>
+              <comp position="2" type="collocate" sloleks="LE_c5e19f49a5c27ff5e3d4794988f2dda3">načrt</comp>
+            </collocation>
+            <collocation form="častihlepen cilj" cluster="3" frequency="7" logDice="0.8">
+              <comp position="1" type="headword" sloleks="LE_691b5d521e1c5e91c659b00e50c4bf2d">častihlepen</comp>
+              <comp position="2" type="collocate" sloleks="LE_b464dad2fdf74c26f763918a785d788e">cilj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="častihlepen in/ali gospodovalen" cluster="1" frequency="11" logDice="10.21">
+              <comp position="3" type="headword" sloleks="LE_691b5d521e1c5e91c659b00e50c4bf2d">častihlepen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_4ffedde48c5b2d09fa869d3e123bd5f8">gospodovalen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="pretirano častihlepen" cluster="1" frequency="5" logDice="3.62">
+              <comp position="1" type="collocate" sloleks="LE_8de0ab7a7ed22d3cca1b5eb9a04db1af">pretirano</comp>
+              <comp position="2" type="headword" sloleks="LE_691b5d521e1c5e91c659b00e50c4bf2d">častihlepen</comp>
+            </collocation>
+            <collocation form="preveč častihlepen" cluster="2" frequency="20" logDice="2.6">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_691b5d521e1c5e91c659b00e50c4bf2d">častihlepen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

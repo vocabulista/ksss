@@ -1,0 +1,72 @@
+<entry>
+  <header>
+    <lexical_unit id="30628">preran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1476</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="preran in boleč" cluster="1" frequency="89" logDice="9.89">
+              <comp position="1" type="headword" sloleks="LE_47d628c124146a8d2444622c6bec5d68">preran</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_c7ce0eb0a09944784208a77330cff125">boleč</comp>
+            </collocation>
+            <collocation form="preran in nenadomestljiv" cluster="2" frequency="12" logDice="9.18">
+              <comp position="1" type="headword" sloleks="LE_47d628c124146a8d2444622c6bec5d68">preran</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_e86fb0e3f703e3a0b3e12b116e6f3f1a">nenadomestljiv</comp>
+            </collocation>
+            <collocation form="preran in/ali nenaden" cluster="3" frequency="6" logDice="7.59">
+              <comp position="3" type="headword" sloleks="LE_47d628c124146a8d2444622c6bec5d68">preran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_e31caa49a3eecd7f607ee6ed2a8f0dab">nenaden</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="preran grob" cluster="1" frequency="509" logDice="10.38">
+              <comp position="1" type="headword" sloleks="LE_47d628c124146a8d2444622c6bec5d68">preran</comp>
+              <comp position="2" type="collocate" sloleks="LE_d56403be43e952c9b37f5f1cadb243c2">grob</comp>
+            </collocation>
+            <collocation form="prerana izguba" cluster="2" frequency="201" logDice="7.47">
+              <comp position="1" type="headword" sloleks="LE_47d628c124146a8d2444622c6bec5d68">prerana</comp>
+              <comp position="2" type="collocate" sloleks="LE_4d0f2c33fb588403bbea3f70de0eb537">izguba</comp>
+            </collocation>
+            <collocation form="prerana smrt" cluster="3" frequency="235" logDice="7.45">
+              <comp position="1" type="headword" sloleks="LE_47d628c124146a8d2444622c6bec5d68">prerana</comp>
+              <comp position="2" type="collocate" sloleks="LE_7ccde25b582fa3323faaf4d1541c4793">smrt</comp>
+            </collocation>
+            <collocation form="preran počitek" cluster="4" frequency="17" logDice="5.27">
+              <comp position="1" type="headword" sloleks="LE_47d628c124146a8d2444622c6bec5d68">preran</comp>
+              <comp position="2" type="collocate" sloleks="LE_51481014c38e179d4b8ebdf663eb6e87">počitek</comp>
+            </collocation>
+            <collocation form="preran odhod" cluster="5" frequency="7" logDice="4.17">
+              <comp position="1" type="headword" sloleks="LE_47d628c124146a8d2444622c6bec5d68">preran</comp>
+              <comp position="2" type="collocate" sloleks="LE_86a9bbe71d37fb4b03e270de78812538">odhod</comp>
+            </collocation>
+            <collocation form="prerana pot" cluster="6" frequency="81" logDice="3.1">
+              <comp position="1" type="headword" sloleks="LE_47d628c124146a8d2444622c6bec5d68">prerana</comp>
+              <comp position="2" type="collocate" sloleks="LE_6f8aa8d4e7c0d678fee98b890a6d1964|LE_97291a922b54c3ec42af6728cfcc7ab2">pot</comp>
+            </collocation>
+            <collocation form="preran konec" cluster="7" frequency="7" logDice="1.78">
+              <comp position="1" type="headword" sloleks="LE_47d628c124146a8d2444622c6bec5d68">preran</comp>
+              <comp position="2" type="collocate" sloleks="LE_d8d1737076777d9839ea949a2b88751a">konec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="mnogo preran" cluster="1" frequency="175" logDice="7.74">
+              <comp position="1" type="collocate" sloleks="LE_7eb9b6433eefeacffb5e77062e3afd45">mnogo</comp>
+              <comp position="2" type="headword" sloleks="LE_47d628c124146a8d2444622c6bec5d68">preran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

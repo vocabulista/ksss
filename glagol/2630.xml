@@ -1,0 +1,66 @@
+<entry>
+  <header>
+    <lexical_unit id="2630">načuditi</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">1556</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz3">
+          <collocations>
+            <collocation form="načuditi lepoti" cluster="1" frequency="14" logDice="10.03">
+              <comp position="1" type="headword" sloleks="LE_4cb6269ec33b7179b2e8443b90d334d6">načuditi</comp>
+              <comp position="2" type="collocate" sloleks="LE_f002bf62f37ec6117ea8586a142e8b93">lepoti</comp>
+            </collocation>
+            <collocation form="načuditi videzu" cluster="1" frequency="4" logDice="7.07">
+              <comp position="1" type="headword" sloleks="LE_4cb6269ec33b7179b2e8443b90d334d6">načuditi</comp>
+              <comp position="2" type="collocate" sloleks="LE_f9abaea8954bb307fccf53d5ec3c0a8c">videzu</comp>
+            </collocation>
+            <collocation form="načuditi spremembi" cluster="2" frequency="9" logDice="6.15">
+              <comp position="1" type="headword" sloleks="LE_4cb6269ec33b7179b2e8443b90d334d6">načuditi</comp>
+              <comp position="2" type="collocate" sloleks="LE_43a3bb7510833003ff85626ef9cc9915">spremembi</comp>
+            </collocation>
+            <collocation form="načuditi načinu" cluster="2" frequency="6" logDice="6.75">
+              <comp position="1" type="headword" sloleks="LE_4cb6269ec33b7179b2e8443b90d334d6">načuditi</comp>
+              <comp position="2" type="collocate" sloleks="LE_78347f5e8e1e11f66d26223c13ba02df">načinu</comp>
+            </collocation>
+            <collocation form="načuditi izdelku" cluster="2" frequency="5" logDice="7.26">
+              <comp position="1" type="headword" sloleks="LE_4cb6269ec33b7179b2e8443b90d334d6">načuditi</comp>
+              <comp position="2" type="collocate" sloleks="LE_bbffae950f5cec8d80d5d541602c3313">izdelku</comp>
+            </collocation>
+            <collocation form="načuditi številu" cluster="2" frequency="5" logDice="6.68">
+              <comp position="1" type="headword" sloleks="LE_4cb6269ec33b7179b2e8443b90d334d6">načuditi</comp>
+              <comp position="2" type="collocate" sloleks="LE_59f757c87d8de95cdfd38f88b75245a6">številu</comp>
+            </collocation>
+            <collocation form="načuditi izjavi" cluster="3" frequency="4" logDice="7.2">
+              <comp position="1" type="headword" sloleks="LE_4cb6269ec33b7179b2e8443b90d334d6">načuditi</comp>
+              <comp position="2" type="collocate" sloleks="LE_43a60c321a9a7889eb71aacc9ccb368f">izjavi</comp>
+            </collocation>
+            <collocation form="načuditi človeku" cluster="4" frequency="4" logDice="1.51">
+              <comp position="1" type="headword" sloleks="LE_4cb6269ec33b7179b2e8443b90d334d6">načuditi</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človeku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz INF-GBZ">
+          <collocations>
+            <collocation form="moči načuditi" cluster="1" frequency="501" logDice="6.6">
+              <comp position="1" type="collocate" sloleks="LE_d0d5036f97e772cb509411764a3a7f9e">moči</comp>
+              <comp position="2" type="headword" sloleks="LE_4cb6269ec33b7179b2e8443b90d334d6">načuditi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz INF-GBZ">
+          <collocations>
+            <collocation form="ne moči načuditi" cluster="1" frequency="932" logDice="5.8">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_d0d5036f97e772cb509411764a3a7f9e">moči</comp>
+              <comp position="3" type="headword" sloleks="LE_4cb6269ec33b7179b2e8443b90d334d6">načuditi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

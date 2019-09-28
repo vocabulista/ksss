@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="19604">interesanten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">394</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 za sbz4">
+          <collocations>
+            <collocation form="interesanten za javnost" cluster="1" frequency="12" logDice="7.1">
+              <comp position="1" type="headword" sloleks="LE_d3d8c032c7d68ae443ac25608609c614">interesanten</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_e2876fc81d3c084862be27e9bd6863ca">javnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="zelo interesanten" cluster="1" frequency="45" logDice="0.72">
+              <comp position="1" type="collocate" sloleks="LE_195d60c164b7057008d21b29153e2352">zelo</comp>
+              <comp position="2" type="headword" sloleks="LE_d3d8c032c7d68ae443ac25608609c614">interesanten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

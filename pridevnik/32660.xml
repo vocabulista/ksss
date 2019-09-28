@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="32660">roditeljski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1714</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="roditeljski sestanek" cluster="1" frequency="929" logDice="9.56">
+              <comp position="1" type="headword" sloleks="LE_951cc9b3563f6bd32dde5cf9f67c1e43">roditeljski</comp>
+              <comp position="2" type="collocate" sloleks="LE_4606bc44117a002d2752792e0a461c87">sestanek</comp>
+            </collocation>
+            <collocation form="roditeljska pravica" cluster="2" frequency="692" logDice="6.55">
+              <comp position="1" type="headword" sloleks="LE_951cc9b3563f6bd32dde5cf9f67c1e43">roditeljska</comp>
+              <comp position="2" type="collocate" sloleks="LE_8c0e472df622ea735bcaed6544ab6130">pravica</comp>
+            </collocation>
+            <collocation form="roditeljska vloga" cluster="2" frequency="10" logDice="0.81">
+              <comp position="1" type="headword" sloleks="LE_951cc9b3563f6bd32dde5cf9f67c1e43">roditeljska</comp>
+              <comp position="2" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+            </collocation>
+            <collocation form="roditeljska dolžnost" cluster="3" frequency="7" logDice="3.12">
+              <comp position="1" type="headword" sloleks="LE_951cc9b3563f6bd32dde5cf9f67c1e43">roditeljska</comp>
+              <comp position="2" type="collocate" sloleks="LE_8ec3612adea25d80195f8e50f7a45e59">dolžnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

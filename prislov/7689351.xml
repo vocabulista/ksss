@@ -1,0 +1,40 @@
+<entry>
+  <header>
+    <lexical_unit id="7689351">indigo</lexical_unit>
+    <category>prislov</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ sbz2">
+          <collocations>
+            <collocation form="indigo papirja" cluster="1" frequency="11" logDice="8.68">
+              <comp position="1" type="headword" sloleks="">indigo</comp>
+              <comp position="2" type="collocate" sloleks="LE_bd43c7f1c3166c88c6e6fd690b721f1f">papirja</comp>
+            </collocation>
+            <collocation form="indigo barve" cluster="2" frequency="14" logDice="7.99">
+              <comp position="1" type="headword" sloleks="">indigo</comp>
+              <comp position="2" type="collocate" sloleks="LE_d066cf8419aa6609519c184ed701618e">barve</comp>
+            </collocation>
+            <collocation form="indigo otroka" cluster="3" frequency="23" logDice="5.97">
+              <comp position="1" type="headword" sloleks="">indigo</comp>
+              <comp position="2" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otroka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="ujeti indigo" cluster="1" frequency="47" logDice="8.37">
+              <comp position="1" type="collocate" sloleks="LE_d05325c3602790e3c4b8226f75a2d17f">ujeti</comp>
+              <comp position="2" type="headword" sloleks="">indigo</comp>
+            </collocation>
+            <collocation form="pridobivati indigo" cluster="2" frequency="5" logDice="6.49">
+              <comp position="1" type="collocate" sloleks="LE_af23087754c4404f2931110202c619ec">pridobivati</comp>
+              <comp position="2" type="headword" sloleks="">indigo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

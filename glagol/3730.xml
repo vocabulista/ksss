@@ -1,0 +1,66 @@
+<entry>
+  <header>
+    <lexical_unit id="3730">odpisovati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">433</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="odpisovati na pošto" cluster="1" frequency="8" logDice="7.67">
+              <comp position="1" type="headword" sloleks="LE_81337f1b88e920b2555ecc096d2a2be4">odpisovati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee712e0ab90cf491d47cce41c9c6a049">pošto</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="odpisovati vnaprej" cluster="1" frequency="12" logDice="4.47">
+              <comp position="1" type="headword" sloleks="LE_81337f1b88e920b2555ecc096d2a2be4">odpisovati</comp>
+              <comp position="2" type="collocate" sloleks="LE_ad1cb50ed57f9533503dcdd605219223">vnaprej</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="odpisovati terjatev" cluster="1" frequency="18" logDice="7.27">
+              <comp position="1" type="headword" sloleks="LE_81337f1b88e920b2555ecc096d2a2be4">odpisovati</comp>
+              <comp position="2" type="collocate" sloleks="LE_7ea34a6ae61cb279bc19b535d6863e11">terjatev</comp>
+            </collocation>
+            <collocation form="odpisovati dolg" cluster="2" frequency="24" logDice="6.65">
+              <comp position="1" type="headword" sloleks="LE_81337f1b88e920b2555ecc096d2a2be4">odpisovati</comp>
+              <comp position="2" type="collocate" sloleks="LE_a2a11a009e84eefb6bd25beef923d7d6">dolg</comp>
+            </collocation>
+            <collocation form="odpisovati davek" cluster="3" frequency="8" logDice="3.78">
+              <comp position="1" type="headword" sloleks="LE_81337f1b88e920b2555ecc096d2a2be4">odpisovati</comp>
+              <comp position="2" type="collocate" sloleks="LE_d770237b6bddbefb51b670883ef45a45">davek</comp>
+            </collocation>
+            <collocation form="odpisovati prispevek" cluster="4" frequency="5" logDice="3.15">
+              <comp position="1" type="headword" sloleks="LE_81337f1b88e920b2555ecc096d2a2be4">odpisovati</comp>
+              <comp position="2" type="collocate" sloleks="LE_31b4b9d1edb0c5ea202549e0e4e23e81">prispevek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="prehitro odpisovati" cluster="1" frequency="8" logDice="4.58">
+              <comp position="1" type="collocate" sloleks="LE_707742b761faeb48856f17112f90c76d">prehitro</comp>
+              <comp position="2" type="headword" sloleks="LE_81337f1b88e920b2555ecc096d2a2be4">odpisovati</comp>
+            </collocation>
+            <collocation form="delno odpisovati" cluster="2" frequency="9" logDice="3.53">
+              <comp position="1" type="collocate" sloleks="LE_87e833a2c94c4909c5b795940c0b81c6">delno</comp>
+              <comp position="2" type="headword" sloleks="LE_81337f1b88e920b2555ecc096d2a2be4">odpisovati</comp>
+            </collocation>
+            <collocation form="počasi odpisovati" cluster="3" frequency="4" logDice="0.6">
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              <comp position="2" type="headword" sloleks="LE_81337f1b88e920b2555ecc096d2a2be4">odpisovati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

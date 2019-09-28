@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="1742">izpraševati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">462</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="izpraševati vest" cluster="1" frequency="29" logDice="6.94">
+              <comp position="1" type="headword" sloleks="LE_0c2d3dc723521047af5888e3228368f3">izpraševati</comp>
+              <comp position="2" type="collocate" sloleks="LE_f09be7cfd9d06e8d77fc7672e9b72759">vest</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="podrobno izpraševati" cluster="1" frequency="6" logDice="2.66">
+              <comp position="1" type="collocate" sloleks="LE_ab2099b0a9bfc4b299ff2321cf55becd">podrobno</comp>
+              <comp position="2" type="headword" sloleks="LE_0c2d3dc723521047af5888e3228368f3">izpraševati</comp>
+            </collocation>
+            <collocation form="temeljito izpraševati" cluster="2" frequency="4" logDice="2.14">
+              <comp position="1" type="collocate" sloleks="LE_0d1f2dd81c16048b551ab702b238e730">temeljito</comp>
+              <comp position="2" type="headword" sloleks="LE_0c2d3dc723521047af5888e3228368f3">izpraševati</comp>
+            </collocation>
+            <collocation form="natančno izpraševati" cluster="3" frequency="4" logDice="1.22">
+              <comp position="1" type="collocate" sloleks="LE_6862c6cc1601370ffc05cb3f5dc95bc9">natančno</comp>
+              <comp position="2" type="headword" sloleks="LE_0c2d3dc723521047af5888e3228368f3">izpraševati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

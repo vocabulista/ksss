@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="95151">usad</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">663</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="zemeljski usad" cluster="1" frequency="38" logDice="5.16">
+              <comp position="1" type="collocate" sloleks="LE_297ead6892c236bd22315265b1e8a97a">zemeljski</comp>
+              <comp position="2" type="headword" sloleks="LE_24942cd18668e989dfcb87ee855dafc2">usad</comp>
+            </collocation>
+            <collocation form="cesten usad" cluster="2" frequency="33" logDice="3.86">
+              <comp position="1" type="collocate" sloleks="LE_43ad0ad4f80f1079b681ac2e0d7ddb2b">cesten</comp>
+              <comp position="2" type="headword" sloleks="LE_24942cd18668e989dfcb87ee855dafc2">usad</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="sanacija usada" cluster="1" frequency="50" logDice="6.11">
+              <comp position="1" type="collocate" sloleks="LE_b37e7e7121cbca14d5bb2913b13f4e3b">sanacija</comp>
+              <comp position="2" type="headword" sloleks="LE_24942cd18668e989dfcb87ee855dafc2">usada</comp>
+            </collocation>
+            <collocation form="agencija USADA" cluster="2" frequency="8" logDice="4.16">
+              <comp position="1" type="collocate" sloleks="LE_c77074df05d2719216d477bd01d418ad">agencija</comp>
+              <comp position="2" type="headword" sloleks="LE_24942cd18668e989dfcb87ee855dafc2">USADA</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

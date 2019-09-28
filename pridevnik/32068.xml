@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="32068">razpraven</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">971</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="razpravna dvorana" cluster="1" frequency="714" logDice="7.2">
+              <comp position="1" type="headword" sloleks="LE_d52a6745288db3fef76cc828b9de8cd9">razpravna</comp>
+              <comp position="2" type="collocate" sloleks="LE_d64c66af1b698f149c6831679980b777">dvorana</comp>
+            </collocation>
+            <collocation form="razpraven senat" cluster="2" frequency="55" logDice="6.6">
+              <comp position="1" type="headword" sloleks="LE_d52a6745288db3fef76cc828b9de8cd9">razpraven</comp>
+              <comp position="2" type="collocate" sloleks="LE_0f3f4512210653489560cf2d0cbdb715">senat</comp>
+            </collocation>
+            <collocation form="razpravno načelo" cluster="3" frequency="59" logDice="5.69">
+              <comp position="1" type="headword" sloleks="LE_d52a6745288db3fef76cc828b9de8cd9">razpravno</comp>
+              <comp position="2" type="collocate" sloleks="LE_5a443f15d8b4838fe872b4d2b544f4ce">načelo</comp>
+            </collocation>
+            <collocation form="razpravna deska" cluster="4" frequency="6" logDice="3.26">
+              <comp position="1" type="headword" sloleks="LE_d52a6745288db3fef76cc828b9de8cd9">razpravna</comp>
+              <comp position="2" type="collocate" sloleks="LE_61d453dffa90487cca874d5e6c4e00d2">deska</comp>
+            </collocation>
+            <collocation form="razpraven dan" cluster="5" frequency="73" logDice="2.08">
+              <comp position="1" type="headword" sloleks="LE_d52a6745288db3fef76cc828b9de8cd9">razpraven</comp>
+              <comp position="2" type="collocate" sloleks="LE_687a3a5f213dba3724e626216f1b09da">dan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="kar razpraven" cluster="1" frequency="9" logDice="0.94">
+              <comp position="1" type="collocate" sloleks="LE_c135f6fe8de5dfaaa58b36300e2bf493">kar</comp>
+              <comp position="2" type="headword" sloleks="LE_d52a6745288db3fef76cc828b9de8cd9">razpraven</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

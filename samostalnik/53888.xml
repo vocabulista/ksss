@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="53888">dolgolasec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">473</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="dolgolasec iz Liverpoola" cluster="1" frequency="4" logDice="8.29">
+              <comp position="1" type="headword" sloleks="LE_8250cae6eff0d2ebce2799539a378c0f">dolgolasec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_0fea508f5820169a9f2dde5cb637876c">Liverpoola</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="simpatičen dolgolasec" cluster="1" frequency="10" logDice="3.72">
+              <comp position="1" type="collocate" sloleks="LE_04e12cdbc62284fea86d8fe4e1df7b89">simpatičen</comp>
+              <comp position="2" type="headword" sloleks="LE_8250cae6eff0d2ebce2799539a378c0f">dolgolasec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

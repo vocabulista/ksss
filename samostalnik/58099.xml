@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="58099">gosak</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">430</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Gosak iz podjetja" cluster="1" frequency="4" logDice="3.94">
+              <comp position="1" type="headword" sloleks="LE_e969ecf5d01d789b0a72fc381fa778aa">Gosak</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_1aed870e4b1c077c155d34b01ab0af57">podjetja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Alojz Gosaka" cluster="1" frequency="25" logDice="7.23">
+              <comp position="1" type="collocate" sloleks="LE_93d7c2f6bb8ca5495fef6e5d5a8b1696">Alojz</comp>
+              <comp position="2" type="headword" sloleks="LE_e969ecf5d01d789b0a72fc381fa778aa">Gosaka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

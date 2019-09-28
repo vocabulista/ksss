@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="5000">podrezati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">445</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="podrezati v gnezdo" cluster="1" frequency="8" logDice="7.79">
+              <comp position="1" type="headword" sloleks="LE_4915d0937d41f816c74ab8428ce3edaf">podrezati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_0f6e3abd36f0a5440fde2cfb5f037a3a">gnezdo</comp>
+            </collocation>
+            <collocation form="podrezati v ogenj" cluster="2" frequency="11" logDice="7.38">
+              <comp position="1" type="headword" sloleks="LE_4915d0937d41f816c74ab8428ce3edaf">podrezati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_939032824ae6e8829fec4a2f18ab7e9b">ogenj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="podrezati s palico" cluster="1" frequency="9" logDice="5.94">
+              <comp position="1" type="headword" sloleks="LE_4915d0937d41f816c74ab8428ce3edaf">podrezati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_27073e60a3e26b0b0d0071412cad0c3a">palico</comp>
+            </collocation>
+            <collocation form="podrezati z vprašanjem" cluster="2" frequency="6" logDice="3.79">
+              <comp position="1" type="headword" sloleks="LE_4915d0937d41f816c74ab8428ce3edaf">podrezati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_18ddad642f4f2459ae6eda5f8fcda990">vprašanjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="malo podrezati" cluster="1" frequency="42" logDice="3.37">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_4915d0937d41f816c74ab8428ce3edaf">podrezati</comp>
+            </collocation>
+            <collocation form="malce podrezati" cluster="2" frequency="13" logDice="3.36">
+              <comp position="1" type="collocate" sloleks="LE_2eec11a38ac5bbb5fa6d7682c1224a82">malce</comp>
+              <comp position="2" type="headword" sloleks="LE_4915d0937d41f816c74ab8428ce3edaf">podrezati</comp>
+            </collocation>
+            <collocation form="večkrat podrezati" cluster="3" frequency="5" logDice="0.83">
+              <comp position="1" type="collocate" sloleks="LE_a632a4cd780b70ff7634918837d4eddb">večkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_4915d0937d41f816c74ab8428ce3edaf">podrezati</comp>
+            </collocation>
+            <collocation form="znova podrezati" cluster="4" frequency="8" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_4f000489fb7f7a863547f5ae46af4f41">znova</comp>
+              <comp position="2" type="headword" sloleks="LE_4915d0937d41f816c74ab8428ce3edaf">podrezati</comp>
+            </collocation>
+            <collocation form="ponovno podrezati" cluster="5" frequency="5" logDice="0.44">
+              <comp position="1" type="collocate" sloleks="LE_d94a650618c4501cb830dca806e400ed">ponovno</comp>
+              <comp position="2" type="headword" sloleks="LE_4915d0937d41f816c74ab8428ce3edaf">podrezati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

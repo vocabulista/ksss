@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="78079">piškur</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1425</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Piškur iz oddelka" cluster="1" frequency="17" logDice="8.22">
+              <comp position="1" type="headword" sloleks="LE_38366e61190a157b02b90e071ff450a3">Piškur</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_f73286dd6f89a4307b05a1a8ffe3e326">oddelka</comp>
+            </collocation>
+            <collocation form="Piškur iz vasi" cluster="2" frequency="4" logDice="3.27">
+              <comp position="1" type="headword" sloleks="LE_38366e61190a157b02b90e071ff450a3">Piškur</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_746c4faa0cb704f82cd12acb408c94d3">vasi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="Piškur z oddelka" cluster="1" frequency="8" logDice="6.46">
+              <comp position="1" type="headword" sloleks="LE_38366e61190a157b02b90e071ff450a3">Piškur</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_f73286dd6f89a4307b05a1a8ffe3e326">oddelka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="potočen piškur" cluster="1" frequency="16" logDice="7.89">
+              <comp position="1" type="collocate" sloleks="LE_674bbd0de77751eff49c8376563573af|LE_50b4ab0083c81681c847e6289a0b39b4">potočen</comp>
+              <comp position="2" type="headword" sloleks="LE_38366e61190a157b02b90e071ff450a3">piškur</comp>
+            </collocation>
+            <collocation form="ukrajinski piškur" cluster="2" frequency="9" logDice="4.62">
+              <comp position="1" type="collocate" sloleks="LE_c65dc631f212b34b29a9b138524dff1d">ukrajinski</comp>
+              <comp position="2" type="headword" sloleks="LE_38366e61190a157b02b90e071ff450a3">piškur</comp>
+            </collocation>
+            <collocation form="morski piškur" cluster="3" frequency="11" logDice="2.26">
+              <comp position="1" type="collocate" sloleks="LE_57bed162279dc52ad8b850de264a14ad">morski</comp>
+              <comp position="2" type="headword" sloleks="LE_38366e61190a157b02b90e071ff450a3">piškur</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Ben Piškurja" cluster="1" frequency="11" logDice="6.92">
+              <comp position="1" type="collocate" sloleks="LE_37ea37cf4fc9b871cb07aae55c3cb0ae">Ben</comp>
+              <comp position="2" type="headword" sloleks="LE_38366e61190a157b02b90e071ff450a3">Piškurja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

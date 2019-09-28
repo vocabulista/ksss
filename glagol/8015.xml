@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="8015">sidrati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">563</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="sidrati na mestu" cluster="1" frequency="6" logDice="0.83">
+              <comp position="1" type="headword" sloleks="LE_f8ad0cfe85a15d1db682c67b4baec029">sidrati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mestu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="sidrati v zalivu" cluster="1" frequency="26" logDice="7.68">
+              <comp position="1" type="headword" sloleks="LE_f8ad0cfe85a15d1db682c67b4baec029">sidrati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_039e24eff82d7818d2577fac8c64eca9">zalivu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="sidrati s sidrom" cluster="1" frequency="5" logDice="10.51">
+              <comp position="1" type="headword" sloleks="LE_f8ad0cfe85a15d1db682c67b4baec029">sidrati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_0132132dc826817917ce325d918cd5d9">sidrom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="sidrati za objemko" cluster="1" frequency="51" logDice="13.91">
+              <comp position="1" type="headword" sloleks="LE_f8ad0cfe85a15d1db682c67b4baec029">sidrati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_842d0f82ed1361a20f9eb96187a2f194">objemko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="69908">mlačnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">487</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="verska mlačnost" cluster="1" frequency="9" logDice="2.36">
+              <comp position="1" type="collocate" sloleks="LE_cff6e69b2bfa4b45a5330103b7a5351f">verska</comp>
+              <comp position="2" type="headword" sloleks="LE_15ab317fe376d1d27145fed12cb0aa47">mlačnost</comp>
+            </collocation>
+            <collocation form="narodna mlačnost" cluster="2" frequency="10" logDice="1.51">
+              <comp position="1" type="collocate" sloleks="LE_5aeb18f32525d080a73c8c3fa62276cd">narodna</comp>
+              <comp position="2" type="headword" sloleks="LE_15ab317fe376d1d27145fed12cb0aa47">mlačnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="tožilstvo z mlačnostjo" cluster="1" frequency="4" logDice="8.66">
+              <comp position="1" type="collocate" sloleks="LE_bb253f642391d37501cd790adf7d56e6">tožilstvo</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_15ab317fe376d1d27145fed12cb0aa47">mlačnostjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

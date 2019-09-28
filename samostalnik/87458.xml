@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="87458">sanator</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">404</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="sanator podjetja" cluster="1" frequency="20" logDice="1.25">
+              <comp position="1" type="headword" sloleks="LE_620d8c69d088fe961bd08e9735e813b0">sanator</comp>
+              <comp position="2" type="collocate" sloleks="LE_1aed870e4b1c077c155d34b01ab0af57">podjetja</comp>
+            </collocation>
+            <collocation form="vloga sanatorja" cluster="2" frequency="11" logDice="1.52">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_620d8c69d088fe961bd08e9735e813b0">sanatorja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="uspešen sanator" cluster="1" frequency="13" logDice="1.21">
+              <comp position="1" type="collocate" sloleks="LE_e438bbf8ee4ed94f66cf4769faf13136">uspešen</comp>
+              <comp position="2" type="headword" sloleks="LE_620d8c69d088fe961bd08e9735e813b0">sanator</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

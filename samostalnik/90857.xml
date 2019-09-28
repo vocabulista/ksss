@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="90857">sprejetost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">694</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 med sbz6">
+          <collocations>
+            <collocation form="sprejetost med vrstnikom" cluster="1" frequency="5" logDice="7.87">
+              <comp position="1" type="headword" sloleks="LE_0e271d3e0ec29611d9e2dcab0cce217a">sprejetost</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_a18dbd374645853b2907bf7bf42d9ec4">vrstnikom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz4">
+          <collocations>
+            <collocation form="sprejetost v družbo" cluster="1" frequency="5" logDice="4.8">
+              <comp position="1" type="headword" sloleks="LE_0e271d3e0ec29611d9e2dcab0cce217a">sprejetost</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_4d78f38b1eeb8492cae54547d0252bf9">družbo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="družbena sprejetost" cluster="1" frequency="10" logDice="1.21">
+              <comp position="1" type="collocate" sloleks="LE_ed4b1882c5368358c8d65f6b03a4fa79">družbena</comp>
+              <comp position="2" type="headword" sloleks="LE_0e271d3e0ec29611d9e2dcab0cce217a">sprejetost</comp>
+            </collocation>
+            <collocation form="popolna sprejetost" cluster="2" frequency="8" logDice="1.08">
+              <comp position="1" type="collocate" sloleks="LE_814a2c9c333ef1e9cb481395c05b7346">popolna</comp>
+              <comp position="2" type="headword" sloleks="LE_0e271d3e0ec29611d9e2dcab0cce217a">sprejetost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="občutek sprejetosti" cluster="1" frequency="116" logDice="6.23">
+              <comp position="1" type="collocate" sloleks="LE_23671e6156ee6c327e7c512a951bd4f3">občutek</comp>
+              <comp position="2" type="headword" sloleks="LE_0e271d3e0ec29611d9e2dcab0cce217a">sprejetosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 po SBZ5">
+          <collocations>
+            <collocation form="potreba po sprejetosti" cluster="1" frequency="21" logDice="3.86">
+              <comp position="1" type="collocate" sloleks="LE_16bf4d92d7aaee11efd4c8603b6e4ee0">potreba</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_0e271d3e0ec29611d9e2dcab0cce217a">sprejetosti</comp>
+            </collocation>
+            <collocation form="želja po sprejetosti" cluster="2" frequency="10" logDice="2.88">
+              <comp position="1" type="collocate" sloleks="LE_5bbd47ac0286ad82a89f112c6af6067a">želja</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_0e271d3e0ec29611d9e2dcab0cce217a">sprejetosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

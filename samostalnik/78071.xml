@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="78071">piskač</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">429</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="piskač iz Hamelin" cluster="1" frequency="6" logDice="13.26">
+              <comp position="1" type="headword" sloleks="LE_73db136d4188360e77665a25d43ab365">piskač</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">Hamelin</comp>
+            </collocation>
+            <collocation form="piskač iz hamelin" cluster="2" frequency="4" logDice="12.68">
+              <comp position="1" type="headword" sloleks="LE_73db136d4188360e77665a25d43ab365">piskač</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">hamelin</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="hamelinski piskač" cluster="1" frequency="18" logDice="11.76">
+              <comp position="1" type="collocate" sloleks="">hamelinski</comp>
+              <comp position="2" type="headword" sloleks="LE_73db136d4188360e77665a25d43ab365">piskač</comp>
+            </collocation>
+            <collocation form="pisan piskač" cluster="2" frequency="24" logDice="4.79">
+              <comp position="1" type="collocate" sloleks="LE_8e94767c51196b3b4c3688a82597a53c">pisan</comp>
+              <comp position="2" type="headword" sloleks="LE_73db136d4188360e77665a25d43ab365">piskač</comp>
+            </collocation>
+            <collocation form="mesten piskač" cluster="3" frequency="31" logDice="1.79">
+              <comp position="1" type="collocate" sloleks="LE_b04232655aed75edb8456dda8fecc569">mesten</comp>
+              <comp position="2" type="headword" sloleks="LE_73db136d4188360e77665a25d43ab365">piskač</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="stolp piskača" cluster="1" frequency="22" logDice="8.3">
+              <comp position="1" type="collocate" sloleks="LE_41a8eb9bbcf7a16b705c5d9bbf315762">stolp</comp>
+              <comp position="2" type="headword" sloleks="LE_73db136d4188360e77665a25d43ab365">piskača</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

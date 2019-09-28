@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="29469">popadljiv</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">511</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 do sbz2">
+          <collocations>
+            <collocation form="popadljiv do človeka" cluster="1" frequency="4" logDice="6.88">
+              <comp position="1" type="headword" sloleks="LE_c931e20c1946248e06c901d24ef36820">popadljiv</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človeka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="popadljiv in nevaren" cluster="1" frequency="7" logDice="5.07">
+              <comp position="1" type="headword" sloleks="LE_c931e20c1946248e06c901d24ef36820">popadljiv</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_9ee70e95aec9de8d9c727012df1443af">nevaren</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="popadljiv bulmastif" cluster="1" frequency="8" logDice="8.71">
+              <comp position="1" type="headword" sloleks="LE_c931e20c1946248e06c901d24ef36820">popadljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_5cb4d2c157f091573d404a2ca19e3a73">bulmastif</comp>
+            </collocation>
+            <collocation form="popadljiv pes" cluster="2" frequency="99" logDice="6.08">
+              <comp position="1" type="headword" sloleks="LE_c931e20c1946248e06c901d24ef36820">popadljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_ae53f7aac94a7c78c3cb5c344c09f5ff">pes</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz PBZ1">
+          <collocations>
+            <collocation form="postati popadljiv" cluster="1" frequency="19" logDice="3.04">
+              <comp position="1" type="collocate" sloleks="LE_c8e9d4f0bbc764e535f72bddd3507947|LE_c2ff60a03966bdff6d1c8481489399e9">postati</comp>
+              <comp position="2" type="headword" sloleks="LE_c931e20c1946248e06c901d24ef36820">popadljiv</comp>
+            </collocation>
+            <collocation form="postajati popadljiv" cluster="2" frequency="4" logDice="2.87">
+              <comp position="1" type="collocate" sloleks="LE_93fdbbbe07434c8d80d2cd77570a6c4f">postajati</comp>
+              <comp position="2" type="headword" sloleks="LE_c931e20c1946248e06c901d24ef36820">popadljiv</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

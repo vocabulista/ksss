@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="58907">halo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">6324</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Halo iz Cirkulan" cluster="1" frequency="8" logDice="10.41">
+              <comp position="1" type="headword" sloleks="LE_8db101896c052021e0f0a3fc400b2955">Halo</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_f750744ebc18573062c571f711ae9064">Cirkulan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="Halo Toplice" cluster="1" frequency="11" logDice="4.95">
+              <comp position="1" type="headword" sloleks="LE_8db101896c052021e0f0a3fc400b2955">Halo</comp>
+              <comp position="2" type="collocate" sloleks="LE_cd283a4d5d926e225d1d194f7fbcb1b7">Toplice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="galaktičen halo" cluster="1" frequency="9" logDice="7.99">
+              <comp position="1" type="collocate" sloleks="LE_e3e0a253618abf51a828bca18c9051f5">galaktičen</comp>
+              <comp position="2" type="headword" sloleks="LE_8db101896c052021e0f0a3fc400b2955">halo</comp>
+            </collocation>
+            <collocation form="tuj Halo" cluster="2" frequency="176" logDice="4.52">
+              <comp position="1" type="collocate" sloleks="LE_63bb1d06a0acaae554971154531d3e14">tuj</comp>
+              <comp position="2" type="headword" sloleks="LE_8db101896c052021e0f0a3fc400b2955">Halo</comp>
+            </collocation>
+            <collocation form="prejšnji halo" cluster="3" frequency="16" logDice="0.75">
+              <comp position="1" type="collocate" sloleks="LE_ffd8daadc8b754388342dd8f32bc6ef6">prejšnji</comp>
+              <comp position="2" type="headword" sloleks="LE_8db101896c052021e0f0a3fc400b2955">halo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

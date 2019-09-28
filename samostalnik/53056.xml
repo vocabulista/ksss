@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="53056">desetnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1242</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="Desetnica s predstavo" cluster="1" frequency="4" logDice="4.93">
+              <comp position="1" type="headword" sloleks="LE_08b67c060478d12cffe28b318dda4016">Desetnica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_d9b3b0d634fe5397b484fa7a2db17b0c">predstavo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Ana Desetnice" cluster="1" frequency="73" logDice="10.45">
+              <comp position="1" type="collocate" sloleks="LE_d2621d6af1064bd8e4a65a94d3392afe">Ana</comp>
+              <comp position="2" type="headword" sloleks="LE_08b67c060478d12cffe28b318dda4016">Desetnice</comp>
+            </collocation>
+            <collocation form="motiv desetnice" cluster="2" frequency="5" logDice="3.84">
+              <comp position="1" type="collocate" sloleks="LE_b056e9d351398d2c53f0e7e700d09639">motiv</comp>
+              <comp position="2" type="headword" sloleks="LE_08b67c060478d12cffe28b318dda4016">desetnice</comp>
+            </collocation>
+            <collocation form="pesem desetnice" cluster="3" frequency="6" logDice="3.05">
+              <comp position="1" type="collocate" sloleks="LE_6235b39c027e8b67ccd0ab2a0e87ad16">pesem</comp>
+              <comp position="2" type="headword" sloleks="LE_08b67c060478d12cffe28b318dda4016">desetnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

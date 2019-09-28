@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="95627">varstvenik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">503</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="varstvenik narave" cluster="1" frequency="154" logDice="6.79">
+              <comp position="1" type="headword" sloleks="LE_29f99242ad1d99f356a8e1915bd46d88">varstvenik</comp>
+              <comp position="2" type="collocate" sloleks="LE_3720f05aae76a62fa53daa3d96e22c20">narave</comp>
+            </collocation>
+            <collocation form="varstvenik okolja" cluster="1" frequency="95" logDice="5.64">
+              <comp position="1" type="headword" sloleks="LE_29f99242ad1d99f356a8e1915bd46d88">varstvenik</comp>
+              <comp position="2" type="collocate" sloleks="LE_eb922917c5a94eb61166666cf13defaf">okolja</comp>
+            </collocation>
+            <collocation form="varstvenik živali" cluster="2" frequency="91" logDice="5.64">
+              <comp position="1" type="headword" sloleks="LE_29f99242ad1d99f356a8e1915bd46d88">varstvenik</comp>
+              <comp position="2" type="collocate" sloleks="LE_b6200c4865c660bb286b47ec062ae356">živali</comp>
+            </collocation>
+            <collocation form="varstvenik dediščine" cluster="3" frequency="19" logDice="4.55">
+              <comp position="1" type="headword" sloleks="LE_29f99242ad1d99f356a8e1915bd46d88">varstvenik</comp>
+              <comp position="2" type="collocate" sloleks="LE_b2e5547918cfecfb0dafd87858879913">dediščine</comp>
+            </collocation>
+            <collocation form="zahteva varstvenika" cluster="4" frequency="5" logDice="1.47">
+              <comp position="1" type="collocate" sloleks="LE_d4736e57297d5140ba448c30c6d6d744">zahteva</comp>
+              <comp position="2" type="headword" sloleks="LE_29f99242ad1d99f356a8e1915bd46d88">varstvenika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="spomeniški varstvenik" cluster="1" frequency="13" logDice="6.72">
+              <comp position="1" type="collocate" sloleks="LE_262530bcceb5024dd2544f740d483b96">spomeniški</comp>
+              <comp position="2" type="headword" sloleks="LE_29f99242ad1d99f356a8e1915bd46d88">varstvenik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

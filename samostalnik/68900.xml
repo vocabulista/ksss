@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="68900">medigra</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">403</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="medigra kitare" cluster="1" frequency="20" logDice="7.42">
+              <comp position="1" type="headword" sloleks="LE_e0e4b7e555ee7f78f64a1d000d0b4bf6">medigra</comp>
+              <comp position="2" type="collocate" sloleks="LE_d32d4def87d31a3048a547e998fbd750">kitare</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="instrumentalna medigra" cluster="1" frequency="15" logDice="6.47">
+              <comp position="1" type="collocate" sloleks="LE_c3838f551ed1f1f7f74f092178fa5398">instrumentalna</comp>
+              <comp position="2" type="headword" sloleks="LE_e0e4b7e555ee7f78f64a1d000d0b4bf6">medigra</comp>
+            </collocation>
+            <collocation form="orkestrska medigra" cluster="1" frequency="9" logDice="7.53">
+              <comp position="1" type="collocate" sloleks="LE_17f9a3cc7db29ec52db0acadee91a8cb">orkestrska</comp>
+              <comp position="2" type="headword" sloleks="LE_e0e4b7e555ee7f78f64a1d000d0b4bf6">medigra</comp>
+            </collocation>
+            <collocation form="glasbena medigra" cluster="2" frequency="22" logDice="1.4">
+              <comp position="1" type="collocate" sloleks="LE_dac17ddcfd6670f6a6620ba54e7d32db">glasbena</comp>
+              <comp position="2" type="headword" sloleks="LE_e0e4b7e555ee7f78f64a1d000d0b4bf6">medigra</comp>
+            </collocation>
+            <collocation form="kratka medigra" cluster="3" frequency="14" logDice="0.95">
+              <comp position="1" type="collocate" sloleks="LE_33b72eb56c8dbab2f6093517455066e9">kratka</comp>
+              <comp position="2" type="headword" sloleks="LE_e0e4b7e555ee7f78f64a1d000d0b4bf6">medigra</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,71 @@
+<entry>
+  <header>
+    <lexical_unit id="1105">farbati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">642</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="farbati ljudstvo" cluster="1" frequency="6" logDice="6.44">
+              <comp position="1" type="headword" sloleks="LE_2870faf552da09a35fe4fa20c29259ac">farbati</comp>
+              <comp position="2" type="collocate" sloleks="LE_4c7ebeabb373af0fdd62d80d022a264c">ljudstvo</comp>
+            </collocation>
+            <collocation form="farbati narod" cluster="1" frequency="5" logDice="4.79">
+              <comp position="1" type="headword" sloleks="LE_2870faf552da09a35fe4fa20c29259ac">farbati</comp>
+              <comp position="2" type="collocate" sloleks="LE_467863326a5651026d6c2e7a67b4936b">narod</comp>
+            </collocation>
+            <collocation form="farbati volivca" cluster="2" frequency="4" logDice="5.73">
+              <comp position="1" type="headword" sloleks="LE_2870faf552da09a35fe4fa20c29259ac">farbati</comp>
+              <comp position="2" type="collocate" sloleks="LE_7ddc016cb784c4a79b61bacdb30b1f10">volivca</comp>
+            </collocation>
+            <collocation form="farbati pamet" cluster="3" frequency="4" logDice="4.65">
+              <comp position="1" type="headword" sloleks="LE_2870faf552da09a35fe4fa20c29259ac">farbati</comp>
+              <comp position="2" type="collocate" sloleks="LE_77af1ad4546ffc53b9d48297af113476">pamet</comp>
+            </collocation>
+            <collocation form="farbati človeka" cluster="4" frequency="22" logDice="3.48">
+              <comp position="1" type="headword" sloleks="LE_2870faf552da09a35fe4fa20c29259ac">farbati</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človeka</comp>
+            </collocation>
+            <collocation form="farbati javnost" cluster="4" frequency="7" logDice="3.56">
+              <comp position="1" type="headword" sloleks="LE_2870faf552da09a35fe4fa20c29259ac">farbati</comp>
+              <comp position="2" type="collocate" sloleks="LE_e2876fc81d3c084862be27e9bd6863ca">javnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz SBZ2">
+          <collocations>
+            <collocation form="ne farbati naroda" cluster="1" frequency="6" logDice="9.14">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_2870faf552da09a35fe4fa20c29259ac">farbati</comp>
+              <comp position="3" type="collocate" sloleks="LE_467863326a5651026d6c2e7a67b4936b">naroda</comp>
+            </collocation>
+            <collocation form="ne farbati človeka" cluster="2" frequency="5" logDice="4.37">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_2870faf552da09a35fe4fa20c29259ac">farbati</comp>
+              <comp position="3" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človeka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="tukaj farbati" cluster="1" frequency="4" logDice="0.83">
+              <comp position="1" type="collocate" sloleks="LE_b7a3a0c15e0b0d0114aff3c2d358eae1">tukaj</comp>
+              <comp position="2" type="headword" sloleks="LE_2870faf552da09a35fe4fa20c29259ac">farbati</comp>
+            </collocation>
+            <collocation form="lepo farbati" cluster="2" frequency="4" logDice="0.25">
+              <comp position="1" type="collocate" sloleks="LE_d01061f4e29d96c6aa9cb7941b715be1">lepo</comp>
+              <comp position="2" type="headword" sloleks="LE_2870faf552da09a35fe4fa20c29259ac">farbati</comp>
+            </collocation>
+            <collocation form="spet farbati" cluster="3" frequency="8" logDice="0.03">
+              <comp position="1" type="collocate" sloleks="LE_262d335ce33e8c5f94849e677bc83a19">spet</comp>
+              <comp position="2" type="headword" sloleks="LE_2870faf552da09a35fe4fa20c29259ac">farbati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

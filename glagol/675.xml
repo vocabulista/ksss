@@ -1,0 +1,71 @@
+<entry>
+  <header>
+    <lexical_unit id="675">črhniti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">888</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="črhniti besedico" cluster="1" frequency="29" logDice="9.93">
+              <comp position="1" type="headword" sloleks="LE_adb33b1cb87ed699425e3f5d8dccf10c">črhniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_938e8a43c2b4d2b03ff82dbba7aef1aa">besedico</comp>
+            </collocation>
+            <collocation form="črhniti besedo" cluster="2" frequency="29" logDice="4.21">
+              <comp position="1" type="headword" sloleks="LE_adb33b1cb87ed699425e3f5d8dccf10c">črhniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">besedo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz INF-GBZ">
+          <collocations>
+            <collocation form="ne upati črhniti" cluster="1" frequency="25" logDice="5.92">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_fb0368f2fe4e8aa6f5563f18106718c5">upati</comp>
+              <comp position="3" type="headword" sloleks="LE_adb33b1cb87ed699425e3f5d8dccf10c">črhniti</comp>
+            </collocation>
+            <collocation form="ne smeti črhniti" cluster="2" frequency="42" logDice="3.11">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_c624979ae53df9a187bf7b5a598e6cfc">smeti</comp>
+              <comp position="3" type="headword" sloleks="LE_adb33b1cb87ed699425e3f5d8dccf10c">črhniti</comp>
+            </collocation>
+            <collocation form="ne hoteti črhniti" cluster="3" frequency="5" logDice="2.44">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_241ed9c84c6998d75befbc0c88f7151e">hoteti</comp>
+              <comp position="3" type="headword" sloleks="LE_adb33b1cb87ed699425e3f5d8dccf10c">črhniti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz SBZ2">
+          <collocations>
+            <collocation form="ne črhniti besedice" cluster="1" frequency="81" logDice="11.49">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_adb33b1cb87ed699425e3f5d8dccf10c">črhniti</comp>
+              <comp position="3" type="collocate" sloleks="LE_938e8a43c2b4d2b03ff82dbba7aef1aa">besedice</comp>
+            </collocation>
+            <collocation form="ne črhniti bela" cluster="2" frequency="4" logDice="9.18">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_adb33b1cb87ed699425e3f5d8dccf10c">črhniti</comp>
+              <comp position="3" type="collocate" sloleks="">bela</comp>
+            </collocation>
+            <collocation form="ne črhniti besede" cluster="3" frequency="90" logDice="8.07">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_adb33b1cb87ed699425e3f5d8dccf10c">črhniti</comp>
+              <comp position="3" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">besede</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="kaj črhniti" cluster="1" frequency="11" logDice="0.39">
+              <comp position="1" type="collocate" sloleks="LE_f9fa365147cf5bfdb5034944905ad608">kaj</comp>
+              <comp position="2" type="headword" sloleks="LE_adb33b1cb87ed699425e3f5d8dccf10c">črhniti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

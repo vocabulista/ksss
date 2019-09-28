@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="64110">kočnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">591</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="kočnik s ploskvijo" cluster="1" frequency="4" logDice="8.82">
+              <comp position="1" type="headword" sloleks="LE_2aba48483ad4989a311aa8b817ccfa9c">kočnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_70461b78b00546345fa37803b6110748">ploskvijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="st kočnik" cluster="1" frequency="8" logDice="7.49">
+              <comp position="1" type="collocate" sloleks="">st</comp>
+              <comp position="2" type="headword" sloleks="LE_2aba48483ad4989a311aa8b817ccfa9c">kočnik</comp>
+            </collocation>
+            <collocation form="mlečen kočnik" cluster="2" frequency="13" logDice="4.0">
+              <comp position="1" type="collocate" sloleks="LE_dd1f6c328e36a6671d9c50c325fa7646">mlečen</comp>
+              <comp position="2" type="headword" sloleks="LE_2aba48483ad4989a311aa8b817ccfa9c">kočnik</comp>
+            </collocation>
+            <collocation form="stalen kočnik" cluster="3" frequency="12" logDice="2.0">
+              <comp position="1" type="collocate" sloleks="LE_91cd41b52f3491a4ef40603bb291325b">stalen</comp>
+              <comp position="2" type="headword" sloleks="LE_2aba48483ad4989a311aa8b817ccfa9c">kočnik</comp>
+            </collocation>
+            <collocation form="desen kočnik" cluster="4" frequency="9" logDice="1.79">
+              <comp position="1" type="collocate" sloleks="LE_d558f3c83abb115aa873819dc67fbd63">desen</comp>
+              <comp position="2" type="headword" sloleks="LE_2aba48483ad4989a311aa8b817ccfa9c">kočnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="površina kočnika" cluster="1" frequency="5" logDice="2.67">
+              <comp position="1" type="collocate" sloleks="LE_7d18868a4d96322e862a8e6591930019">površina</comp>
+              <comp position="2" type="headword" sloleks="LE_2aba48483ad4989a311aa8b817ccfa9c">kočnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

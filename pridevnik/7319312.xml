@@ -1,0 +1,44 @@
+<entry>
+  <header>
+    <lexical_unit id="7319312">sindiciran</lexical_unit>
+    <category>pridevnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="sindiciran posojilo" cluster="1" frequency="572" logDice="8.93">
+              <comp position="1" type="headword" sloleks="">sindiciran</comp>
+              <comp position="2" type="collocate" sloleks="LE_3948f1046c21233b148c4f2df067a3fc">posojilo</comp>
+            </collocation>
+            <collocation form="sindiciran kredit" cluster="2" frequency="96" logDice="7.22">
+              <comp position="1" type="headword" sloleks="">sindiciran</comp>
+              <comp position="2" type="collocate" sloleks="LE_e7a5c54b9dd726bb095a88279b8d22a7">kredit</comp>
+            </collocation>
+            <collocation form="sindiciran raziskava" cluster="3" frequency="13" logDice="2.39">
+              <comp position="1" type="headword" sloleks="">sindiciran</comp>
+              <comp position="2" type="collocate" sloleks="LE_a52c857738729a3a7a0e2bff72bbb2ac">raziskava</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="dolgoročno sindiciran" cluster="1" frequency="10" logDice="6.06">
+              <comp position="1" type="collocate" sloleks="LE_107f8a24bd88593839cff80ff4812906">dolgoročno</comp>
+              <comp position="2" type="headword" sloleks="">sindiciran</comp>
+            </collocation>
+            <collocation form="novo sindiciran" cluster="2" frequency="9" logDice="4.3">
+              <comp position="1" type="collocate" sloleks="LE_6e9c6bec7b24ac28e591123a0a8a95fe">novo</comp>
+              <comp position="2" type="headword" sloleks="">sindiciran</comp>
+            </collocation>
+            <collocation form="mednarodno sindiciran" cluster="3" frequency="6" logDice="3.78">
+              <comp position="1" type="collocate" sloleks="LE_90159d5411e0c61bce694bdf9264a152">mednarodno</comp>
+              <comp position="2" type="headword" sloleks="">sindiciran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

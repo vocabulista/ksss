@@ -1,0 +1,63 @@
+<entry>
+  <header>
+    <lexical_unit id="29686">posran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">586</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 od sbz2">
+          <collocations>
+            <collocation form="posran od strahu" cluster="1" frequency="8" logDice="8.96">
+              <comp position="1" type="headword" sloleks="LE_412121b83854afb42a21fd20a533cf16">posran</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_ec7941261a5b1a40fb742699e58175ca">strahu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="posrane gate" cluster="1" frequency="17" logDice="8.67">
+              <comp position="1" type="headword" sloleks="LE_412121b83854afb42a21fd20a533cf16">posrane</comp>
+              <comp position="2" type="collocate" sloleks="LE_5a4689c94a0ecec4796705f921402cd9">gate</comp>
+            </collocation>
+            <collocation form="posrana rit" cluster="2" frequency="9" logDice="5.74">
+              <comp position="1" type="headword" sloleks="LE_412121b83854afb42a21fd20a533cf16">posrana</comp>
+              <comp position="2" type="collocate" sloleks="LE_b204b88e2d8c06467e6dce084bb5a60b">rit</comp>
+            </collocation>
+            <collocation form="posran gol" cluster="3" frequency="31" logDice="5.64">
+              <comp position="1" type="headword" sloleks="LE_412121b83854afb42a21fd20a533cf16">posran</comp>
+              <comp position="2" type="collocate" sloleks="LE_07f7f4e51245be158e8beacfff4fa692">gol</comp>
+            </collocation>
+            <collocation form="posrane hlače" cluster="4" frequency="11" logDice="4.11">
+              <comp position="1" type="headword" sloleks="LE_412121b83854afb42a21fd20a533cf16">posrane</comp>
+              <comp position="2" type="collocate" sloleks="LE_a305c5239efe00bca5aa33dc4093e5e8">hlače</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="posran in/ali poscan" cluster="1" frequency="10" logDice="12.49">
+              <comp position="3" type="headword" sloleks="LE_412121b83854afb42a21fd20a533cf16">posran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_03c40d39bb633bbbfd4bbe3f9fcdc28d">poscan</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="čisto posran" cluster="1" frequency="11" logDice="2.58">
+              <comp position="1" type="collocate" sloleks="LE_94a91e83047bf2e90acf82e14cbb99c9">čisto</comp>
+              <comp position="2" type="headword" sloleks="LE_412121b83854afb42a21fd20a533cf16">posran</comp>
+            </collocation>
+            <collocation form="vse posran" cluster="2" frequency="11" logDice="1.5">
+              <comp position="1" type="collocate" sloleks="LE_69e1f6ea0eba690182112fa5f7865561">vse</comp>
+              <comp position="2" type="headword" sloleks="LE_412121b83854afb42a21fd20a533cf16">posran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

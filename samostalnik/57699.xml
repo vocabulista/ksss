@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="57699">glumač</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">612</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Leoncavallov glumač" cluster="1" frequency="20" logDice="11.69">
+              <comp position="1" type="collocate" sloleks="">Leoncavallov</comp>
+              <comp position="2" type="headword" sloleks="LE_c8ac701d95b19329a353c512f82c36b3">glumač</comp>
+            </collocation>
+            <collocation form="rustican glumač" cluster="1" frequency="16" logDice="11.31">
+              <comp position="1" type="collocate" sloleks="">rustican</comp>
+              <comp position="2" type="headword" sloleks="LE_c8ac701d95b19329a353c512f82c36b3">glumač</comp>
+            </collocation>
+            <collocation form="potujoč glumač" cluster="2" frequency="13" logDice="5.65">
+              <comp position="1" type="collocate" sloleks="LE_7b5199d6da184c8b5f5ed30aee62bfb3">potujoč</comp>
+              <comp position="2" type="headword" sloleks="LE_c8ac701d95b19329a353c512f82c36b3">glumač</comp>
+            </collocation>
+            <collocation form="uličen glumač" cluster="3" frequency="9" logDice="4.22">
+              <comp position="1" type="collocate" sloleks="LE_f9f4f4ddb07f013bffee07653f97394c">uličen</comp>
+              <comp position="2" type="headword" sloleks="LE_c8ac701d95b19329a353c512f82c36b3">glumač</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="nastop glumača" cluster="1" frequency="10" logDice="2.8">
+              <comp position="1" type="collocate" sloleks="LE_3c02505e3165a041b4879a0ffb8f719b">nastop</comp>
+              <comp position="2" type="headword" sloleks="LE_c8ac701d95b19329a353c512f82c36b3">glumača</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="Neda v glumaču" cluster="1" frequency="4" logDice="12.14">
+              <comp position="1" type="collocate" sloleks="LE_3982174c6bceee17c9167ac52dc74a90">Neda</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_c8ac701d95b19329a353c512f82c36b3">glumaču</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

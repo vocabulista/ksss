@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="82194">prejudic</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">397</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="prejudic meje" cluster="1" frequency="47" logDice="5.12">
+              <comp position="1" type="headword" sloleks="LE_733b173d4b55239f4fa12a3fa2080fb7">prejudic</comp>
+              <comp position="2" type="collocate" sloleks="LE_9f2a02329b99f686c0effa70a70cb37f">meje</comp>
+            </collocation>
+            <collocation form="vprašanje prejudica" cluster="2" frequency="19" logDice="2.69">
+              <comp position="1" type="collocate" sloleks="LE_18ddad642f4f2459ae6eda5f8fcda990">vprašanje</comp>
+              <comp position="2" type="headword" sloleks="LE_733b173d4b55239f4fa12a3fa2080fb7">prejudica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="prejudic za sodišče" cluster="1" frequency="6" logDice="7.96">
+              <comp position="1" type="headword" sloleks="LE_733b173d4b55239f4fa12a3fa2080fb7">prejudic</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_989f65b9e9021c2bfb10c5161a6e59ab">sodišče</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="fizičen prejudic" cluster="1" frequency="8" logDice="1.92">
+              <comp position="1" type="collocate" sloleks="LE_d0fc668d52ee5c2c447c7f9b347ea465">fizičen</comp>
+              <comp position="2" type="headword" sloleks="LE_733b173d4b55239f4fa12a3fa2080fb7">prejudic</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

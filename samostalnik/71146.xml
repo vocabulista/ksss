@@ -1,0 +1,70 @@
+<entry>
+  <header>
+    <lexical_unit id="71146">najemnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">870</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="najemnica lokala" cluster="1" frequency="45" logDice="6.79">
+              <comp position="1" type="headword" sloleks="LE_abe34fb30836b2997a58ca93e5d52033">najemnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_01a5a1a8780f9f8195bad6f52f34943f">lokala</comp>
+            </collocation>
+            <collocation form="najemnica hotela" cluster="1" frequency="26" logDice="4.7">
+              <comp position="1" type="headword" sloleks="LE_abe34fb30836b2997a58ca93e5d52033">najemnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_11a5bf5cb49046224e398004267e2b90">hotela</comp>
+            </collocation>
+            <collocation form="najemnica gostilne" cluster="1" frequency="9" logDice="6.16">
+              <comp position="1" type="headword" sloleks="LE_abe34fb30836b2997a58ca93e5d52033">najemnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_c768718679304d30d9dda056a08c37e4">gostilne</comp>
+            </collocation>
+            <collocation form="najemnica salona" cluster="1" frequency="9" logDice="5.68">
+              <comp position="1" type="headword" sloleks="LE_abe34fb30836b2997a58ca93e5d52033">najemnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_fe14531050d45fb5d7d5b63a4a43c633">salona</comp>
+            </collocation>
+            <collocation form="najemnica stanovanja" cluster="2" frequency="81" logDice="5.51">
+              <comp position="1" type="headword" sloleks="LE_abe34fb30836b2997a58ca93e5d52033">najemnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_790d388e4f6c9a2d50a5209ec61504cf">stanovanja</comp>
+            </collocation>
+            <collocation form="najemnica prostora" cluster="2" frequency="39" logDice="3.62">
+              <comp position="1" type="headword" sloleks="LE_abe34fb30836b2997a58ca93e5d52033">najemnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostora</comp>
+            </collocation>
+            <collocation form="najemnica hiše" cluster="2" frequency="10" logDice="1.88">
+              <comp position="1" type="headword" sloleks="LE_abe34fb30836b2997a58ca93e5d52033">najemnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_34e4b2cb65c667c6bf374f39db0e3597">hiše</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nekdanja najemnica" cluster="1" frequency="24" logDice="1.07">
+              <comp position="1" type="collocate" sloleks="LE_8a7f20bd7c05984d11bf0b9c0d5d8dc4">nekdanja</comp>
+              <comp position="2" type="headword" sloleks="LE_abe34fb30836b2997a58ca93e5d52033">najemnica</comp>
+            </collocation>
+            <collocation form="bivša najemnica" cluster="1" frequency="9" logDice="1.7">
+              <comp position="1" type="collocate" sloleks="LE_2db2293b59177d3c2a3fb8992eee03ea">bivša</comp>
+              <comp position="2" type="headword" sloleks="LE_abe34fb30836b2997a58ca93e5d52033">najemnica</comp>
+            </collocation>
+            <collocation form="dosedanja najemnica" cluster="2" frequency="9" logDice="1.49">
+              <comp position="1" type="collocate" sloleks="LE_a7835f0ee464fcd07edd5a08f23b221d">dosedanja</comp>
+              <comp position="2" type="headword" sloleks="LE_abe34fb30836b2997a58ca93e5d52033">najemnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="pogodba z najemnico" cluster="1" frequency="6" logDice="2.5">
+              <comp position="1" type="collocate" sloleks="LE_f8f86304f16174105dd9c075264d9c0c">pogodba</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_abe34fb30836b2997a58ca93e5d52033">najemnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

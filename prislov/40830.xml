@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="40830">gosposko</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">488</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ gbz">
+          <collocations>
+            <collocation form="gosposko nositi" cluster="1" frequency="4" logDice="2.53">
+              <comp position="1" type="headword" sloleks="LE_0e4efdecc8ab4a248d6bada5612d2b10">gosposko</comp>
+              <comp position="2" type="collocate" sloleks="LE_12501655c6bc54ad79c0f5528ae02039">nositi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="počutiti gosposko" cluster="1" frequency="7" logDice="2.55">
+              <comp position="1" type="collocate" sloleks="LE_89aa923e6752941cdd9c240ac3d34d97">počutiti</comp>
+              <comp position="2" type="headword" sloleks="LE_0e4efdecc8ab4a248d6bada5612d2b10">gosposko</comp>
+            </collocation>
+            <collocation form="delovati gosposko" cluster="2" frequency="5" logDice="1.21">
+              <comp position="1" type="collocate" sloleks="LE_d0f4c0b2fd032468cea5b16c4a58e364">delovati</comp>
+              <comp position="2" type="headword" sloleks="LE_0e4efdecc8ab4a248d6bada5612d2b10">gosposko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz RBZ">
+          <collocations>
+            <collocation form="preveč gosposko" cluster="1" frequency="4" logDice="2.27">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_0e4efdecc8ab4a248d6bada5612d2b10">gosposko</comp>
+            </collocation>
+            <collocation form="nič gosposko" cluster="2" frequency="9" logDice="2.06">
+              <comp position="1" type="collocate" sloleks="LE_8e90bcbc87a903b29aed9727fd2eee14">nič</comp>
+              <comp position="2" type="headword" sloleks="LE_0e4efdecc8ab4a248d6bada5612d2b10">gosposko</comp>
+            </collocation>
+            <collocation form="bolj gosposko" cluster="3" frequency="19" logDice="1.87">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_0e4efdecc8ab4a248d6bada5612d2b10">gosposko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

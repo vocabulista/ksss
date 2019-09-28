@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="67932">lužica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">505</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="lužica krvi" cluster="1" frequency="13" logDice="3.99">
+              <comp position="1" type="headword" sloleks="LE_b060bb94d4d39039cf099831659f768c">lužica</comp>
+              <comp position="2" type="collocate" sloleks="LE_3f38ba2d1d9b5ab220cbf69f18564673">krvi</comp>
+            </collocation>
+            <collocation form="lužica vode" cluster="2" frequency="9" logDice="1.29">
+              <comp position="1" type="headword" sloleks="LE_b060bb94d4d39039cf099831659f768c">lužica</comp>
+              <comp position="2" type="collocate" sloleks="LE_0d8cbba4e56fea63657ac746d29cd047">vode</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="gornja lužica" cluster="1" frequency="18" logDice="3.41">
+              <comp position="1" type="collocate" sloleks="LE_aa236bad1c26e70a76bc972487ac7d01">gornja</comp>
+              <comp position="2" type="headword" sloleks="LE_b060bb94d4d39039cf099831659f768c">lužica</comp>
+            </collocation>
+            <collocation form="dolnja lužica" cluster="1" frequency="10" logDice="6.77">
+              <comp position="1" type="collocate" sloleks="LE_b96fdb6d2147514e21eee052589b15f4">dolnja</comp>
+              <comp position="2" type="headword" sloleks="LE_b060bb94d4d39039cf099831659f768c">lužica</comp>
+            </collocation>
+            <collocation form="zgornja lužica" cluster="2" frequency="14" logDice="2.28">
+              <comp position="1" type="collocate" sloleks="LE_2c1f378a0eedbda143aa3cbd9699a927">zgornja</comp>
+              <comp position="2" type="headword" sloleks="LE_b060bb94d4d39039cf099831659f768c">lužica</comp>
+            </collocation>
+            <collocation form="spodnja lužica" cluster="2" frequency="14" logDice="2.13">
+              <comp position="1" type="collocate" sloleks="LE_c125bcd8580a683e9f0725c576a9183d">spodnja</comp>
+              <comp position="2" type="headword" sloleks="LE_b060bb94d4d39039cf099831659f768c">lužica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="20686">kanarski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">2533</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="kanarski otok" cluster="1" frequency="2262" logDice="10.27">
+              <comp position="1" type="headword" sloleks="LE_3bf4adf4037ed0614a7a59ad3df895ff">kanarski</comp>
+              <comp position="2" type="collocate" sloleks="LE_976e41875440aa22cfd78269f8eaf545">otok</comp>
+            </collocation>
+            <collocation form="kanarsko otočje" cluster="2" frequency="60" logDice="8.24">
+              <comp position="1" type="headword" sloleks="LE_3bf4adf4037ed0614a7a59ad3df895ff">kanarsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_53327bf609d00c8a923cde0d601245bf">otočje</comp>
+            </collocation>
+            <collocation form="kanarska doga" cluster="3" frequency="11" logDice="6.82">
+              <comp position="1" type="headword" sloleks="LE_3bf4adf4037ed0614a7a59ad3df895ff">kanarska</comp>
+              <comp position="2" type="collocate" sloleks="LE_56ef1f4e4b4281f77cc7dc57fa1b26c6">doga</comp>
+            </collocation>
+            <collocation form="kanarski arhipelag" cluster="4" frequency="10" logDice="6.72">
+              <comp position="1" type="headword" sloleks="LE_3bf4adf4037ed0614a7a59ad3df895ff">kanarski</comp>
+              <comp position="2" type="collocate" sloleks="LE_8b52348a85b25dccc1f574a97700e7df">arhipelag</comp>
+            </collocation>
+            <collocation form="kanarski bor" cluster="5" frequency="12" logDice="6.42">
+              <comp position="1" type="headword" sloleks="LE_3bf4adf4037ed0614a7a59ad3df895ff">kanarski</comp>
+              <comp position="2" type="collocate" sloleks="LE_d99cef3fdc61cd69e97a04601e718990">bor</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

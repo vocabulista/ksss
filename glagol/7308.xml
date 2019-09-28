@@ -1,0 +1,87 @@
+<entry>
+  <header>
+    <lexical_unit id="7308">prožiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">704</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="prožiti takrat" cluster="1" frequency="9" logDice="1.18">
+              <comp position="1" type="headword" sloleks="LE_0504d716279079071365322770399860">prožiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_ac7c3bb48ee04eac75ace79e99f010f0">takrat</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="prožiti plaz" cluster="1" frequency="43" logDice="8.64">
+              <comp position="1" type="headword" sloleks="LE_0504d716279079071365322770399860">prožiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_f8c011b69b3ee49e62127e76f5d12cf3">plaz</comp>
+            </collocation>
+            <collocation form="prožiti puščico" cluster="2" frequency="10" logDice="7.9">
+              <comp position="1" type="headword" sloleks="LE_0504d716279079071365322770399860">prožiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_1032a370ad399a2637dde8a6889729fa">puščico</comp>
+            </collocation>
+            <collocation form="prožiti salvo" cluster="3" frequency="4" logDice="7.86">
+              <comp position="1" type="headword" sloleks="LE_0504d716279079071365322770399860">prožiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_68d3f48dfe82f9c308c015669c899b00">salvo</comp>
+            </collocation>
+            <collocation form="prožiti kamenje" cluster="4" frequency="14" logDice="7.69">
+              <comp position="1" type="headword" sloleks="LE_0504d716279079071365322770399860">prožiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_a7964be66d4f9f615ff616da92211d77">kamenje</comp>
+            </collocation>
+            <collocation form="prožiti impulz" cluster="5" frequency="4" logDice="6.59">
+              <comp position="1" type="headword" sloleks="LE_0504d716279079071365322770399860">prožiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_c295517211118bf76c183bfa88c7fe3e">impulz</comp>
+            </collocation>
+            <collocation form="prožiti metodo" cluster="6" frequency="13" logDice="5.29">
+              <comp position="1" type="headword" sloleks="LE_0504d716279079071365322770399860">prožiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_675bb3300eebea6ea6f395eade13fc2c">metodo</comp>
+            </collocation>
+            <collocation form="prožiti prenos" cluster="7" frequency="5" logDice="4.23">
+              <comp position="1" type="headword" sloleks="LE_0504d716279079071365322770399860">prožiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_420ada0992c76ad3cf51866ecba471c9">prenos</comp>
+            </collocation>
+            <collocation form="prožiti roko" cluster="8" frequency="10" logDice="2.61">
+              <comp position="1" type="headword" sloleks="LE_0504d716279079071365322770399860">prožiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_5fa1bf1096bd6c7b00158af4c43b33b3">roko</comp>
+            </collocation>
+            <collocation form="prožiti program" cluster="9" frequency="5" logDice="1.07">
+              <comp position="1" type="headword" sloleks="LE_0504d716279079071365322770399860">prožiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_2da10dc9e8a0e2ff7fd5a1ddd0278e88">program</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="prožiti v glavo" cluster="1" frequency="4" logDice="3.66">
+              <comp position="1" type="headword" sloleks="LE_0504d716279079071365322770399860">prožiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_49f28ed22f8b4f55f12b45ad1b95d3b0">glavo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz SBZ2">
+          <collocations>
+            <collocation form="ne prožiti kamenja" cluster="1" frequency="10" logDice="12.03">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_0504d716279079071365322770399860">prožiti</comp>
+              <comp position="3" type="collocate" sloleks="LE_a7964be66d4f9f615ff616da92211d77">kamenja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="samodejno prožiti" cluster="1" frequency="5" logDice="3.85">
+              <comp position="1" type="collocate" sloleks="LE_796bc7d84c77b7494c1f108b5dcf3463">samodejno</comp>
+              <comp position="2" type="headword" sloleks="LE_0504d716279079071365322770399860">prožiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,48 @@
+<entry>
+  <header>
+    <lexical_unit id="3154">nažreti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">503</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ do sbz2">
+          <collocations>
+            <collocation form="nažreti do nezavesti" cluster="1" frequency="5" logDice="7.8">
+              <comp position="1" type="headword" sloleks="LE_4c69eb07923e6fa888da3cc56dc7fb00">nažreti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_9ea0779bfeabba2afcbac5c9f5ba443d">nezavesti</comp>
+            </collocation>
+            <collocation form="nažreti do onemoglosti" cluster="2" frequency="9" logDice="7.23">
+              <comp position="1" type="headword" sloleks="LE_4c69eb07923e6fa888da3cc56dc7fb00">nažreti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_c76b15680b1fcf8e73284aa9a12e5aec">onemoglosti</comp>
+            </collocation>
+            <collocation form="nažreti do smrti" cluster="3" frequency="6" logDice="4.54">
+              <comp position="1" type="headword" sloleks="LE_4c69eb07923e6fa888da3cc56dc7fb00">nažreti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_7ccde25b582fa3323faaf4d1541c4793">smrti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="dodobra nažreti" cluster="1" frequency="11" logDice="4.12">
+              <comp position="1" type="collocate" sloleks="LE_3c8bd34eaaa54cedf37e03f66d875dd3">dodobra</comp>
+              <comp position="2" type="headword" sloleks="LE_4c69eb07923e6fa888da3cc56dc7fb00">nažreti</comp>
+            </collocation>
+            <collocation form="preveč nažreti" cluster="2" frequency="16" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_4c69eb07923e6fa888da3cc56dc7fb00">nažreti</comp>
+            </collocation>
+            <collocation form="malo nažreti" cluster="3" frequency="6" logDice="0.57">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_4c69eb07923e6fa888da3cc56dc7fb00">nažreti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

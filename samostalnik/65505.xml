@@ -1,0 +1,29 @@
+<entry>
+  <header>
+    <lexical_unit id="65505">krasota</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">455</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="krasota narave" cluster="1" frequency="13" logDice="3.24">
+              <comp position="1" type="headword" sloleks="LE_dbf6cb41015bc4b727e07bcf2d0339c8">krasota</comp>
+              <comp position="2" type="collocate" sloleks="LE_3720f05aae76a62fa53daa3d96e22c20">narave</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="naravna krasota" cluster="1" frequency="18" logDice="1.78">
+              <comp position="1" type="collocate" sloleks="LE_b80182b9e66e69f83903a4af39604a97">naravna</comp>
+              <comp position="2" type="headword" sloleks="LE_dbf6cb41015bc4b727e07bcf2d0339c8">krasota</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

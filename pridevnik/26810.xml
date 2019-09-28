@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="26810">odbiten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">751</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="odbitna franšiza" cluster="1" frequency="259" logDice="12.05">
+              <comp position="1" type="headword" sloleks="LE_1ec78e04a1ae62dd62b76cc5258fc69d">odbitna</comp>
+              <comp position="2" type="collocate" sloleks="LE_18140ccc9409f8fda2c1403e93d06610">franšiza</comp>
+            </collocation>
+            <collocation form="odbitna postavka" cluster="2" frequency="134" logDice="8.22">
+              <comp position="1" type="headword" sloleks="LE_1ec78e04a1ae62dd62b76cc5258fc69d">odbitna</comp>
+              <comp position="2" type="collocate" sloleks="LE_ad22b33a09b7e4522ac3d3d193efc058">postavka</comp>
+            </collocation>
+            <collocation form="odbiten DDV" cluster="3" frequency="43" logDice="7.86">
+              <comp position="1" type="headword" sloleks="LE_1ec78e04a1ae62dd62b76cc5258fc69d">odbiten</comp>
+              <comp position="2" type="collocate" sloleks="LE_5dabc684d8407345e5383d2ed1d6301b">DDV</comp>
+            </collocation>
+            <collocation form="odbitna sekunda" cluster="4" frequency="59" logDice="7.11">
+              <comp position="1" type="headword" sloleks="LE_1ec78e04a1ae62dd62b76cc5258fc69d">odbitna</comp>
+              <comp position="2" type="collocate" sloleks="LE_28f8e53821d818c4ccde6b78f182c4c0">sekunda</comp>
+            </collocation>
+            <collocation form="odbiten delež" cluster="5" frequency="160" logDice="5.05">
+              <comp position="1" type="headword" sloleks="LE_1ec78e04a1ae62dd62b76cc5258fc69d">odbiten</comp>
+              <comp position="2" type="collocate" sloleks="LE_8f8dbfe55e81431b97506b6dc95f9da4">delež</comp>
+            </collocation>
+            <collocation form="odbiten znesek" cluster="5" frequency="7" logDice="2.18">
+              <comp position="1" type="headword" sloleks="LE_1ec78e04a1ae62dd62b76cc5258fc69d">odbiten</comp>
+              <comp position="2" type="collocate" sloleks="LE_a75997c3fecf67d735c87a0515fc6386">znesek</comp>
+            </collocation>
+            <collocation form="odbiten davek" cluster="6" frequency="30" logDice="4.9">
+              <comp position="1" type="headword" sloleks="LE_1ec78e04a1ae62dd62b76cc5258fc69d">odbiten</comp>
+              <comp position="2" type="collocate" sloleks="LE_d770237b6bddbefb51b670883ef45a45">davek</comp>
+            </collocation>
+            <collocation form="odbitna točka" cluster="7" frequency="26" logDice="2.25">
+              <comp position="1" type="headword" sloleks="LE_1ec78e04a1ae62dd62b76cc5258fc69d">odbitna</comp>
+              <comp position="2" type="collocate" sloleks="LE_bb52716a00bd608f858395465b1c985a">točka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz2">
+          <collocations>
+            <collocation form="odbiten sekunde" cluster="1" frequency="8" logDice="9.66">
+              <comp position="1" type="headword" sloleks="LE_1ec78e04a1ae62dd62b76cc5258fc69d">odbiten</comp>
+              <comp position="2" type="collocate" sloleks="LE_28f8e53821d818c4ccde6b78f182c4c0">sekunde</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="davčno odbiten" cluster="1" frequency="17" logDice="8.28">
+              <comp position="1" type="collocate" sloleks="LE_937deee0017a7b7b7f4ad448a0721563">davčno</comp>
+              <comp position="2" type="headword" sloleks="LE_1ec78e04a1ae62dd62b76cc5258fc69d">odbiten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

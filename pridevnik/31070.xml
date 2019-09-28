@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="31070">pripojen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">437</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 k sbz3">
+          <collocations>
+            <collocation form="pripojen k podjetju" cluster="1" frequency="5" logDice="11.17">
+              <comp position="1" type="headword" sloleks="LE_dcbf0110a72295e01f6d5e37aa103c03">pripojen</comp>
+              <comp position="2" type="other" sloleks="LE_62b2f33c11cafe70ff4ee2db8f9aeb6c">k</comp>
+              <comp position="3" type="collocate" sloleks="LE_1aed870e4b1c077c155d34b01ab0af57">podjetju</comp>
+            </collocation>
+            <collocation form="pripojen k družbi" cluster="2" frequency="4" logDice="10.89">
+              <comp position="1" type="headword" sloleks="LE_dcbf0110a72295e01f6d5e37aa103c03">pripojen</comp>
+              <comp position="2" type="other" sloleks="LE_62b2f33c11cafe70ff4ee2db8f9aeb6c">k</comp>
+              <comp position="3" type="collocate" sloleks="LE_4d78f38b1eeb8492cae54547d0252bf9">družbi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="pripojen k" cluster="1" frequency="11" logDice="6.51">
+              <comp position="1" type="headword" sloleks="LE_dcbf0110a72295e01f6d5e37aa103c03">pripojen</comp>
+              <comp position="2" type="collocate" sloleks="LE_85c5cb7c4e2ae43f3450a97e3e6a9a39">k</comp>
+            </collocation>
+            <collocation form="pripojeno zemljišče" cluster="2" frequency="16" logDice="2.87">
+              <comp position="1" type="headword" sloleks="LE_dcbf0110a72295e01f6d5e37aa103c03">pripojeno</comp>
+              <comp position="2" type="collocate" sloleks="LE_1cfb3ff88e57bbeea24a81c9c41ac50b">zemljišče</comp>
+            </collocation>
+            <collocation form="pripojena banka" cluster="3" frequency="37" logDice="2.56">
+              <comp position="1" type="headword" sloleks="LE_dcbf0110a72295e01f6d5e37aa103c03">pripojena</comp>
+              <comp position="2" type="collocate" sloleks="LE_efdb4fed18a2b60ac11282627b28fcfc">banka</comp>
+            </collocation>
+            <collocation form="pripojena družba" cluster="4" frequency="66" logDice="2.4">
+              <comp position="1" type="headword" sloleks="LE_dcbf0110a72295e01f6d5e37aa103c03">pripojena</comp>
+              <comp position="2" type="collocate" sloleks="LE_4d78f38b1eeb8492cae54547d0252bf9">družba</comp>
+            </collocation>
+            <collocation form="pripojeno podjetje" cluster="5" frequency="31" logDice="1.27">
+              <comp position="1" type="headword" sloleks="LE_dcbf0110a72295e01f6d5e37aa103c03">pripojeno</comp>
+              <comp position="2" type="collocate" sloleks="LE_1aed870e4b1c077c155d34b01ab0af57">podjetje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="novo pripojen" cluster="1" frequency="5" logDice="3.45">
+              <comp position="1" type="collocate" sloleks="LE_6e9c6bec7b24ac28e591123a0a8a95fe">novo</comp>
+              <comp position="2" type="headword" sloleks="LE_dcbf0110a72295e01f6d5e37aa103c03">pripojen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

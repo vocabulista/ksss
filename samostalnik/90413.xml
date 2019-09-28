@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="90413">sovpadanje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">422</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="sovpadanje nasprotja" cluster="1" frequency="13" logDice="7.3">
+              <comp position="1" type="headword" sloleks="LE_4940b7698eb1fb5837a01d6b1606a8c9">sovpadanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_856a910b1c3332ccea09cc03944b7de2">nasprotja</comp>
+            </collocation>
+            <collocation form="sovpadanje datuma" cluster="2" frequency="10" logDice="6.49">
+              <comp position="1" type="headword" sloleks="LE_4940b7698eb1fb5837a01d6b1606a8c9">sovpadanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_06121e42232c6cbb79c6f5ddf8398a9c">datuma</comp>
+            </collocation>
+            <collocation form="sovpadanje dogodka" cluster="3" frequency="18" logDice="3.28">
+              <comp position="1" type="headword" sloleks="LE_4940b7698eb1fb5837a01d6b1606a8c9">sovpadanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_4ebf7faa63d583a7c8baa57987b0f3bf">dogodka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za sovpadanje" cluster="1" frequency="14" logDice="0.21">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_4940b7698eb1fb5837a01d6b1606a8c9">sovpadanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="naključno sovpadanje" cluster="1" frequency="14" logDice="5.22">
+              <comp position="1" type="collocate" sloleks="LE_1ffad636990f69229eca7dc86296071e">naključno</comp>
+              <comp position="2" type="headword" sloleks="LE_4940b7698eb1fb5837a01d6b1606a8c9">sovpadanje</comp>
+            </collocation>
+            <collocation form="časovno sovpadanje" cluster="2" frequency="29" logDice="4.36">
+              <comp position="1" type="collocate" sloleks="LE_97bed18d090bdc4b17f05fbb2679c18a">časovno</comp>
+              <comp position="2" type="headword" sloleks="LE_4940b7698eb1fb5837a01d6b1606a8c9">sovpadanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

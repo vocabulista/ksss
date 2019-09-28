@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="7280">proglašati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">519</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="proglašati vladarja" cluster="1" frequency="4" logDice="8.3">
+              <comp position="1" type="headword" sloleks="LE_1d816270186b031f2e5d51270c01da33">proglašati</comp>
+              <comp position="2" type="collocate" sloleks="LE_0ead73a8e85c1b9aa8a84ce02d4a8bdf">vladarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="proglašati za svetnika" cluster="1" frequency="8" logDice="7.74">
+              <comp position="1" type="headword" sloleks="LE_1d816270186b031f2e5d51270c01da33">proglašati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_c3a391e25fd2c2e6de3f35967dfc9a7c">svetnika</comp>
+            </collocation>
+            <collocation form="proglašati za boga" cluster="2" frequency="4" logDice="6.86">
+              <comp position="1" type="headword" sloleks="LE_1d816270186b031f2e5d51270c01da33">proglašati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_4b293a6111b46265077bf30063fd7037">boga</comp>
+            </collocation>
+            <collocation form="proglašati za zmagovalca" cluster="3" frequency="5" logDice="6.18">
+              <comp position="1" type="headword" sloleks="LE_1d816270186b031f2e5d51270c01da33">proglašati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_80db1175c7a3047dc31811d614d18b11">zmagovalca</comp>
+            </collocation>
+            <collocation form="proglašati za stranko" cluster="4" frequency="5" logDice="5.05">
+              <comp position="1" type="headword" sloleks="LE_1d816270186b031f2e5d51270c01da33">proglašati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_945a204a300f28702820c4bc0481d2e7">stranko</comp>
+            </collocation>
+            <collocation form="proglašati za državo" cluster="5" frequency="5" logDice="4.0">
+              <comp position="1" type="headword" sloleks="LE_1d816270186b031f2e5d51270c01da33">proglašati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">državo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="javno proglašati" cluster="1" frequency="4" logDice="1.59">
+              <comp position="1" type="collocate" sloleks="LE_9b491c373a2c03dacd39956afb8d048a">javno</comp>
+              <comp position="2" type="headword" sloleks="LE_1d816270186b031f2e5d51270c01da33">proglašati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

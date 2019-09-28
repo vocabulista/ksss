@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="100316">žužek</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">821</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="ukvarjati z žužkom" cluster="1" frequency="8" logDice="1.06">
+              <comp position="1" type="collocate" sloleks="LE_d218d442858c415bdeff018dc056aea9">ukvarjati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_b2e7061b20931c0c927ce0c2f800eaa4">žužkom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="žiten žužek" cluster="1" frequency="35" logDice="7.45">
+              <comp position="1" type="collocate" sloleks="LE_598304ce957caa23d94cff47ad94a54d">žiten</comp>
+              <comp position="2" type="headword" sloleks="LE_b2e7061b20931c0c927ce0c2f800eaa4">žužek</comp>
+            </collocation>
+            <collocation form="črn žužek" cluster="2" frequency="38" logDice="2.39">
+              <comp position="1" type="collocate" sloleks="LE_efad3f083a68e148bcd4aa4f62efd36c">črn</comp>
+              <comp position="2" type="headword" sloleks="LE_b2e7061b20931c0c927ce0c2f800eaa4">žužek</comp>
+            </collocation>
+            <collocation form="razen žužek" cluster="3" frequency="8" logDice="1.28">
+              <comp position="1" type="collocate" sloleks="LE_10ab2d5761b41f492d84f334d55dcdd9">razen</comp>
+              <comp position="2" type="headword" sloleks="LE_b2e7061b20931c0c927ce0c2f800eaa4">žužek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="zatiranje žužka" cluster="1" frequency="7" logDice="4.9">
+              <comp position="1" type="collocate" sloleks="LE_3d7dfd670326b6368bb278052347e47c">zatiranje</comp>
+              <comp position="2" type="headword" sloleks="LE_b2e7061b20931c0c927ce0c2f800eaa4">žužka</comp>
+            </collocation>
+            <collocation form="znamenje žužka" cluster="2" frequency="6" logDice="2.19">
+              <comp position="1" type="collocate" sloleks="LE_89ced9910fe1652d14eb02bd6bddca8a">znamenje</comp>
+              <comp position="2" type="headword" sloleks="LE_b2e7061b20931c0c927ce0c2f800eaa4">žužka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

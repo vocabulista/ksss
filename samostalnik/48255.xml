@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="48255">avtopilot</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">602</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="avtopilot za izdelavo" cluster="1" frequency="4" logDice="3.18">
+              <comp position="1" type="headword" sloleks="LE_fd6b3e1224e279f3f630611b559baa38">avtopilot</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_58e4c9eb6d6ddc69a009737fc482eaa5">izdelavo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="vključen avtopilot" cluster="1" frequency="8" logDice="3.19">
+              <comp position="1" type="collocate" sloleks="LE_769a8c72f0ffb6c5ba5658424f76aace">vključen</comp>
+              <comp position="2" type="headword" sloleks="LE_fd6b3e1224e279f3f630611b559baa38">avtopilot</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="pomoč avtopilota" cluster="1" frequency="12" logDice="1.39">
+              <comp position="1" type="collocate" sloleks="LE_84e3f9e3c4e9e1abf42cc69c125b0b58">pomoč</comp>
+              <comp position="2" type="headword" sloleks="LE_fd6b3e1224e279f3f630611b559baa38">avtopilota</comp>
+            </collocation>
+            <collocation form="delovanje avtopilota" cluster="2" frequency="7" logDice="0.91">
+              <comp position="1" type="collocate" sloleks="LE_3af6feb1ad49bf57ea9c005fefeb07cc">delovanje</comp>
+              <comp position="2" type="headword" sloleks="LE_fd6b3e1224e279f3f630611b559baa38">avtopilota</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="težava z avtopilotom" cluster="1" frequency="4" logDice="0.47">
+              <comp position="1" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težava</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_fd6b3e1224e279f3f630611b559baa38">avtopilotom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

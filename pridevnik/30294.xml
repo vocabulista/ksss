@@ -1,0 +1,52 @@
+<entry>
+  <header>
+    <lexical_unit id="30294">prehitevalen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">2815</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="prehitevalen in vozen" cluster="1" frequency="98" logDice="12.31">
+              <comp position="1" type="headword" sloleks="LE_d78d7b9b671d6f1f55a0e76dba2da17d">prehitevalen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_5572d8259920afa8df47c5765bd33d67">vozen</comp>
+            </collocation>
+            <collocation form="prehitevalen in odstaven" cluster="2" frequency="6" logDice="10.12">
+              <comp position="1" type="headword" sloleks="LE_d78d7b9b671d6f1f55a0e76dba2da17d">prehitevalen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_bfc4ad1e49e6ae6f7161aba9cdeb3db2">odstaven</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 na sbz4">
+          <collocations>
+            <collocation form="prehitevalen na pas" cluster="1" frequency="7" logDice="10.4">
+              <comp position="1" type="headword" sloleks="LE_d78d7b9b671d6f1f55a0e76dba2da17d">prehitevalen</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_89ac9c7dc7f715491af648500946332a">pas</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="prehitevalen pas" cluster="1" frequency="2525" logDice="10.28">
+              <comp position="1" type="headword" sloleks="LE_d78d7b9b671d6f1f55a0e76dba2da17d">prehitevalen</comp>
+              <comp position="2" type="collocate" sloleks="LE_89ac9c7dc7f715491af648500946332a">pas</comp>
+            </collocation>
+            <collocation form="prehitevalen manever" cluster="2" frequency="122" logDice="8.85">
+              <comp position="1" type="headword" sloleks="LE_d78d7b9b671d6f1f55a0e76dba2da17d">prehitevalen</comp>
+              <comp position="2" type="collocate" sloleks="LE_8d7c8bacc2a1599bf578cc75d7be2a20">manever</comp>
+            </collocation>
+            <collocation form="prehitevalna cona" cluster="3" frequency="10" logDice="2.74">
+              <comp position="1" type="headword" sloleks="LE_d78d7b9b671d6f1f55a0e76dba2da17d">prehitevalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9b311cee17fff1e51df62f704cbbf2e">cona</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

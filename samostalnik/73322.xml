@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="73322">njutonmeter</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1030</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="njutonmeter navora" cluster="1" frequency="554" logDice="11.33">
+              <comp position="1" type="headword" sloleks="LE_c829df9d8b73049aa5f388e9cbdbeb9a">njutonmeter</comp>
+              <comp position="2" type="collocate" sloleks="LE_eb198daee5202ffe7591cd807e238edf">navora</comp>
+            </collocation>
+            <collocation form="navor njutonmetra" cluster="2" frequency="78" logDice="11.91">
+              <comp position="1" type="collocate" sloleks="LE_eb198daee5202ffe7591cd807e238edf">navor</comp>
+              <comp position="2" type="headword" sloleks="LE_c829df9d8b73049aa5f388e9cbdbeb9a">njutonmetra</comp>
+            </collocation>
+            <collocation form="poplava njutonmetra" cluster="3" frequency="10" logDice="5.36">
+              <comp position="1" type="collocate" sloleks="LE_0114556cd41e492d7e0c4f4dfdf60c88">poplava</comp>
+              <comp position="2" type="headword" sloleks="LE_c829df9d8b73049aa5f388e9cbdbeb9a">njutonmetra</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="streči z njutonmetrom" cluster="1" frequency="6" logDice="7.79">
+              <comp position="1" type="collocate" sloleks="LE_d53b92b16514d32560250df37782dd94">streči</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_c829df9d8b73049aa5f388e9cbdbeb9a">njutonmetrom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ2">
+          <collocations>
+            <collocation form="povečati za njutonmetra" cluster="1" frequency="5" logDice="2.81">
+              <comp position="1" type="collocate" sloleks="LE_97aa5e11f7fdd7a6285c424ebb427459">povečati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_c829df9d8b73049aa5f388e9cbdbeb9a">njutonmetra</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

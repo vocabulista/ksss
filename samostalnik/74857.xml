@@ -1,0 +1,73 @@
+<entry>
+  <header>
+    <lexical_unit id="74857">ograjica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">454</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="ograjica iz jekla" cluster="1" frequency="4" logDice="5.78">
+              <comp position="1" type="headword" sloleks="LE_bf9ca82015f95dfa7e932b41ce4c1e53">ograjica</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_cf1917117e8408a6a3cfcead7603377e">jekla</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="varovalna ograjica" cluster="1" frequency="11" logDice="5.32">
+              <comp position="1" type="collocate" sloleks="LE_b1c944c0109c7985a6b8972e8faf8b2f">varovalna</comp>
+              <comp position="2" type="headword" sloleks="LE_bf9ca82015f95dfa7e932b41ce4c1e53">ograjica</comp>
+            </collocation>
+            <collocation form="krmna ograjica" cluster="2" frequency="8" logDice="5.21">
+              <comp position="1" type="collocate" sloleks="LE_5e3f5ea73636d0e186a4939ca187e969">krmna</comp>
+              <comp position="2" type="headword" sloleks="LE_bf9ca82015f95dfa7e932b41ce4c1e53">ograjica</comp>
+            </collocation>
+            <collocation form="lesena ograjica" cluster="3" frequency="19" logDice="3.16">
+              <comp position="1" type="collocate" sloleks="LE_39fa6eac8b3aca677a672c92e27a594c|LE_6be16eebd901c9f88de46c0031bec9fd">lesena</comp>
+              <comp position="2" type="headword" sloleks="LE_bf9ca82015f95dfa7e932b41ce4c1e53">ograjica</comp>
+            </collocation>
+            <collocation form="kovinska ograjica" cluster="3" frequency="10" logDice="3.32">
+              <comp position="1" type="collocate" sloleks="LE_d61c705f8f5eca448811283c0d5a37f1">kovinska</comp>
+              <comp position="2" type="headword" sloleks="LE_bf9ca82015f95dfa7e932b41ce4c1e53">ograjica</comp>
+            </collocation>
+            <collocation form="zaščitena ograjica" cluster="4" frequency="17" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_8804aae7598c25af7b9b2bced066d3cf|LE_04a753aab404a0b14ef5d19e35f9c4b6">zaščitena</comp>
+              <comp position="2" type="headword" sloleks="LE_bf9ca82015f95dfa7e932b41ce4c1e53">ograjica</comp>
+            </collocation>
+            <collocation form="nizka ograjica" cluster="5" frequency="10" logDice="0.69">
+              <comp position="1" type="collocate" sloleks="LE_06c657d66a4545b511c9f76f39ce55dd">nizka</comp>
+              <comp position="2" type="headword" sloleks="LE_bf9ca82015f95dfa7e932b41ce4c1e53">ograjica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 z SBZ6">
+          <collocations>
+            <collocation form="zavarovan z ograjico" cluster="1" frequency="5" logDice="5.66">
+              <comp position="1" type="collocate" sloleks="LE_e580e656428c9de8122005888823fe35">zavarovan</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_bf9ca82015f95dfa7e932b41ce4c1e53">ograjico</comp>
+            </collocation>
+            <collocation form="obdan z ograjico" cluster="2" frequency="5" logDice="4.38">
+              <comp position="1" type="collocate" sloleks="LE_df84c58e06750dc234ef73e12f75d45a">obdan</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_bf9ca82015f95dfa7e932b41ce4c1e53">ograjico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="posteljica z ograjico" cluster="1" frequency="10" logDice="11.08">
+              <comp position="1" type="collocate" sloleks="LE_e77c20b33cd278eaffc63887a14e738f">posteljica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_bf9ca82015f95dfa7e932b41ce4c1e53">ograjico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

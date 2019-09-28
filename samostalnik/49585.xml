@@ -1,0 +1,73 @@
+<entry>
+  <header>
+    <lexical_unit id="49585">blef</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1353</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="govoriti na blef" cluster="1" frequency="6" logDice="6.09">
+              <comp position="1" type="collocate" sloleks="LE_1da4dedf23c5041ae767d038d2430123">govoriti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_efc70a614b6a188e4b32f152bbdfcf4a">blef</comp>
+            </collocation>
+            <collocation form="iti na blef" cluster="2" frequency="4" logDice="1.01">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_efc70a614b6a188e4b32f152bbdfcf4a">blef</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za blef" cluster="1" frequency="19" logDice="0.65">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_efc70a614b6a188e4b32f152bbdfcf4a">blef</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="totalen blef" cluster="1" frequency="8" logDice="4.99">
+              <comp position="1" type="collocate" sloleks="LE_d02abd0ff4a89d7026e9d36897aec61e">totalen</comp>
+              <comp position="2" type="headword" sloleks="LE_efc70a614b6a188e4b32f152bbdfcf4a">blef</comp>
+            </collocation>
+            <collocation form="navaden blef" cluster="2" frequency="53" logDice="4.44">
+              <comp position="1" type="collocate" sloleks="LE_f59369d8b37702c03d2e6f31cbe3f5d8">navaden</comp>
+              <comp position="2" type="headword" sloleks="LE_efc70a614b6a188e4b32f152bbdfcf4a">blef</comp>
+            </collocation>
+            <collocation form="čist blef" cluster="3" frequency="50" logDice="3.86">
+              <comp position="1" type="collocate" sloleks="LE_b0f01a4af83087947c0c1f51b4c0c6bc">čist</comp>
+              <comp position="2" type="headword" sloleks="LE_efc70a614b6a188e4b32f152bbdfcf4a">blef</comp>
+            </collocation>
+            <collocation form="političen blef" cluster="3" frequency="20" logDice="0.72">
+              <comp position="1" type="collocate" sloleks="LE_a3bb12165721c242382f7e67d68cd13a">političen</comp>
+              <comp position="2" type="headword" sloleks="LE_efc70a614b6a188e4b32f152bbdfcf4a">blef</comp>
+            </collocation>
+            <collocation form="popoln blef" cluster="3" frequency="11" logDice="1.54">
+              <comp position="1" type="collocate" sloleks="LE_814a2c9c333ef1e9cb481395c05b7346">popoln</comp>
+              <comp position="2" type="headword" sloleks="LE_efc70a614b6a188e4b32f152bbdfcf4a">blef</comp>
+            </collocation>
+            <collocation form="sam blef" cluster="4" frequency="43" logDice="1.86">
+              <comp position="1" type="collocate" sloleks="LE_5a6609dcb51dca73f05e113a9b57dea0">sam</comp>
+              <comp position="2" type="headword" sloleks="LE_efc70a614b6a188e4b32f152bbdfcf4a">blef</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="prostor za blef" cluster="1" frequency="6" logDice="1.78">
+              <comp position="1" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostor</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_efc70a614b6a188e4b32f152bbdfcf4a">blef</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

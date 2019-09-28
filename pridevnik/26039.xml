@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="26039">nesvoboden</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">483</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nesvobodno plemstvo" cluster="1" frequency="8" logDice="6.81">
+              <comp position="1" type="headword" sloleks="LE_21af9c3678cf363aaa5f00ab0acbd998">nesvobodno</comp>
+              <comp position="2" type="collocate" sloleks="LE_4a5a233404c2f83c1a21d2bbdd84aacc">plemstvo</comp>
+            </collocation>
+            <collocation form="nesvobodna dežela" cluster="2" frequency="9" logDice="2.12">
+              <comp position="1" type="headword" sloleks="LE_21af9c3678cf363aaa5f00ab0acbd998">nesvobodna</comp>
+              <comp position="2" type="collocate" sloleks="LE_21c89b1f11d02144625685de7b2e94af">dežela</comp>
+            </collocation>
+            <collocation form="nesvoboden človek" cluster="3" frequency="15" logDice="0.63">
+              <comp position="1" type="headword" sloleks="LE_21af9c3678cf363aaa5f00ab0acbd998">nesvoboden</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človek</comp>
+            </collocation>
+            <collocation form="nesvoboden medij" cluster="3" frequency="6" logDice="1.1">
+              <comp position="1" type="headword" sloleks="LE_21af9c3678cf363aaa5f00ab0acbd998">nesvoboden</comp>
+              <comp position="2" type="collocate" sloleks="LE_2fdfb09ca61a23719b60aed391a2d0ea">medij</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="nesvoboden in/ali svoboden" cluster="1" frequency="23" logDice="7.73">
+              <comp position="3" type="headword" sloleks="LE_21af9c3678cf363aaa5f00ab0acbd998">nesvoboden</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_aa02d7ebb07b69a7552d01f87be5f44c">svoboden</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="osebno nesvoboden" cluster="1" frequency="10" logDice="6.16">
+              <comp position="1" type="collocate" sloleks="LE_603e7a8240bc1aa19acb41b9307e8273">osebno</comp>
+              <comp position="2" type="headword" sloleks="LE_21af9c3678cf363aaa5f00ab0acbd998">nesvoboden</comp>
+            </collocation>
+            <collocation form="pretežno nesvoboden" cluster="2" frequency="6" logDice="3.2">
+              <comp position="1" type="collocate" sloleks="LE_3fba79f7907b034134324d67897e3dcb">pretežno</comp>
+              <comp position="2" type="headword" sloleks="LE_21af9c3678cf363aaa5f00ab0acbd998">nesvoboden</comp>
+            </collocation>
+            <collocation form="dokaj nesvoboden" cluster="3" frequency="5" logDice="1.26">
+              <comp position="1" type="collocate" sloleks="LE_90c3e789d159a5b43e1f600807dba440">dokaj</comp>
+              <comp position="2" type="headword" sloleks="LE_21af9c3678cf363aaa5f00ab0acbd998">nesvoboden</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

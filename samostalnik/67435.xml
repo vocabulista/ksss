@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="67435">lizingodajalec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">489</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz SBZ3">
+          <collocations>
+            <collocation form="vrniti lizingodajalcu" cluster="1" frequency="9" logDice="5.03">
+              <comp position="1" type="collocate" sloleks="LE_6f44c8f5bfee336b0a14c31acef7946d">vrniti</comp>
+              <comp position="2" type="headword" sloleks="LE_1848ef92d299a50f3571d128965db485">lizingodajalcu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="last lizingodajalca" cluster="1" frequency="25" logDice="4.06">
+              <comp position="1" type="collocate" sloleks="LE_ee8fa7ae62f4b21cdcdf1be80fa1a321">last</comp>
+              <comp position="2" type="headword" sloleks="LE_1848ef92d299a50f3571d128965db485">lizingodajalca</comp>
+            </collocation>
+            <collocation form="vidik lizingodajalca" cluster="2" frequency="8" logDice="2.66">
+              <comp position="1" type="collocate" sloleks="LE_be1da62d7bc0dde0de684583bfe342d2">vidik</comp>
+              <comp position="2" type="headword" sloleks="LE_1848ef92d299a50f3571d128965db485">lizingodajalca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="pogodba z lizingodajalcem" cluster="1" frequency="4" logDice="1.92">
+              <comp position="1" type="collocate" sloleks="LE_f8f86304f16174105dd9c075264d9c0c">pogodba</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_1848ef92d299a50f3571d128965db485">lizingodajalcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

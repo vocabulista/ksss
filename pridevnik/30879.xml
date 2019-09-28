@@ -1,0 +1,79 @@
+<entry>
+  <header>
+    <lexical_unit id="30879">prezapleten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">565</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="prezapleten pojav" cluster="1" frequency="7" logDice="3.0">
+              <comp position="1" type="headword" sloleks="LE_45089e4af2ff0285e39570817b8da6b7">prezapleten</comp>
+              <comp position="2" type="collocate" sloleks="LE_d0fa033e21261b64a3d4f3b037d66371">pojav</comp>
+            </collocation>
+            <collocation form="prezapleten postopek" cluster="2" frequency="33" logDice="2.22">
+              <comp position="1" type="headword" sloleks="LE_45089e4af2ff0285e39570817b8da6b7">prezapleten</comp>
+              <comp position="2" type="collocate" sloleks="LE_775481f1f5ba42be7d6b3125176050cb">postopek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 za sbz4">
+          <collocations>
+            <collocation form="prezapleten za razumevanje" cluster="1" frequency="4" logDice="6.8">
+              <comp position="1" type="headword" sloleks="LE_45089e4af2ff0285e39570817b8da6b7">prezapleten</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_caf1f40eb722be7b8208c989feb66f1e">razumevanje</comp>
+            </collocation>
+            <collocation form="prezapleten za uporabnika" cluster="2" frequency="4" logDice="6.58">
+              <comp position="1" type="headword" sloleks="LE_45089e4af2ff0285e39570817b8da6b7">prezapleten</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_44d877680022f19ea8b31a268b1a73a4">uporabnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="prezapleten in/ali predolg" cluster="1" frequency="19" logDice="10.19">
+              <comp position="3" type="headword" sloleks="LE_45089e4af2ff0285e39570817b8da6b7">prezapleten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_1ec0a15558e77673c4bdc7e7ffb74ecb">predolg</comp>
+              </collocation>
+            <collocation form="prezapleten in/ali predrag" cluster="2" frequency="18" logDice="9.7">
+              <comp position="3" type="headword" sloleks="LE_45089e4af2ff0285e39570817b8da6b7">prezapleten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_6209320bd5f6d47b7cc7125816922125">predrag</comp>
+              </collocation>
+            <collocation form="prezapleten in prezahteven" cluster="3" frequency="5" logDice="9.24">
+              <comp position="1" type="headword" sloleks="LE_45089e4af2ff0285e39570817b8da6b7">prezapleten</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_035117df3095f23c31553f564b19add0">prezahteven</comp>
+            </collocation>
+            <collocation form="prezapleten in/ali dolgotrajen" cluster="4" frequency="5" logDice="5.17">
+              <comp position="3" type="headword" sloleks="LE_45089e4af2ff0285e39570817b8da6b7">prezapleten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_5a1584a7c3ca53701fbc4fda0e0db950">dolgotrajen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="vedno prezapleten" cluster="1" frequency="12" logDice="0.98">
+              <comp position="1" type="collocate" sloleks="LE_eaabd5718a27f818fd47358031426355">vedno</comp>
+              <comp position="2" type="headword" sloleks="LE_45089e4af2ff0285e39570817b8da6b7">prezapleten</comp>
+            </collocation>
+            <collocation form="očitno prezapleten" cluster="1" frequency="8" logDice="3.23">
+              <comp position="1" type="collocate" sloleks="LE_9d88c71170bcb7a8d34f86bcb6d0c831">očitno</comp>
+              <comp position="2" type="headword" sloleks="LE_45089e4af2ff0285e39570817b8da6b7">prezapleten</comp>
+            </collocation>
+            <collocation form="nekoliko prezapleten" cluster="2" frequency="7" logDice="0.96">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_45089e4af2ff0285e39570817b8da6b7">prezapleten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

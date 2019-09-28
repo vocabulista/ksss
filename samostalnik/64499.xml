@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="64499">kompanija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1293</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="iti v kompanijo" cluster="1" frequency="6" logDice="1.25">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_4238e84de4a74c0003e6399309921837">kompanijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="operativna kompanija" cluster="1" frequency="16" logDice="4.2">
+              <comp position="1" type="collocate" sloleks="LE_b908f2272983fcbf88da31f6802cd527">operativna</comp>
+              <comp position="2" type="headword" sloleks="LE_4238e84de4a74c0003e6399309921837">kompanija</comp>
+            </collocation>
+            <collocation form="naftna kompanija" cluster="2" frequency="11" logDice="3.33">
+              <comp position="1" type="collocate" sloleks="LE_6bbcd074eeb52a3caf55e030638e6ded">naftna</comp>
+              <comp position="2" type="headword" sloleks="LE_4238e84de4a74c0003e6399309921837">kompanija</comp>
+            </collocation>
+            <collocation form="plesna kompanija" cluster="3" frequency="8" logDice="1.88">
+              <comp position="1" type="collocate" sloleks="LE_71064b3ef9c56749b3132d84dc00c5e7">plesna</comp>
+              <comp position="2" type="headword" sloleks="LE_4238e84de4a74c0003e6399309921837">kompanija</comp>
+            </collocation>
+            <collocation form="ostala kompanija" cluster="4" frequency="11" logDice="1.4">
+              <comp position="1" type="collocate" sloleks="LE_a35d925fc34619135ca715f633027fd4">ostala</comp>
+              <comp position="2" type="headword" sloleks="LE_4238e84de4a74c0003e6399309921837">kompanija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

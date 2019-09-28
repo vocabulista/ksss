@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="83583">prisrčnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">752</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="prisrčnost odnosa" cluster="1" frequency="9" logDice="2.84">
+              <comp position="1" type="headword" sloleks="LE_89724853aab811edfd37b746c893dbc8">prisrčnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_77f2f37de07cb9f39cb3dd828efa7919">odnosa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="navdušiti s prisrčnostjo" cluster="1" frequency="8" logDice="5.48">
+              <comp position="1" type="collocate" sloleks="LE_8a17ce819b6433dcfd7105fab843d62b">navdušiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_89724853aab811edfd37b746c893dbc8">prisrčnostjo</comp>
+            </collocation>
+            <collocation form="prevzeti s prisrčnostjo" cluster="2" frequency="4" logDice="5.38">
+              <comp position="1" type="collocate" sloleks="LE_cb2ba1b1e76f7d67ada1d6baa62b956f">prevzeti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_89724853aab811edfd37b746c893dbc8">prisrčnostjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="otroška prisrčnost" cluster="1" frequency="9" logDice="1.08">
+              <comp position="1" type="collocate" sloleks="LE_1fbf9a7270f9b230effd46d49123fdff">otroška</comp>
+              <comp position="2" type="headword" sloleks="LE_89724853aab811edfd37b746c893dbc8">prisrčnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="96057">vestnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1077</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 pri sbz5">
+          <collocations>
+            <collocation form="vestnost pri delu" cluster="1" frequency="50" logDice="6.0">
+              <comp position="1" type="headword" sloleks="LE_95e944275ba4ab82434287a63a86907b">vestnost</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delu</comp>
+            </collocation>
+            <collocation form="vestnost pri opravljanju" cluster="2" frequency="6" logDice="5.94">
+              <comp position="1" type="headword" sloleks="LE_95e944275ba4ab82434287a63a86907b">vestnost</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_d6d80e8b7f3a3efd77ef155ededa75af">opravljanju</comp>
+            </collocation>
+            <collocation form="vestnost pri reševanju" cluster="3" frequency="4" logDice="4.44">
+              <comp position="1" type="headword" sloleks="LE_95e944275ba4ab82434287a63a86907b">vestnost</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_1ca3bfba8a0ee2bbb56ac27d1c53d46e">reševanju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="opravljati z vestnostjo" cluster="1" frequency="7" logDice="5.93">
+              <comp position="1" type="collocate" sloleks="LE_4c9df2ccb77d29125a9d948d24e46e27">opravljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_95e944275ba4ab82434287a63a86907b">vestnostjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="načelo vestnosti" cluster="1" frequency="98" logDice="6.01">
+              <comp position="1" type="collocate" sloleks="LE_5a443f15d8b4838fe872b4d2b544f4ce">načelo</comp>
+              <comp position="2" type="headword" sloleks="LE_95e944275ba4ab82434287a63a86907b">vestnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

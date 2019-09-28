@@ -1,0 +1,31 @@
+<entry>
+  <header>
+    <lexical_unit id="65002">korepetitor</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">516</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="korepetitor za petje" cluster="1" frequency="5" logDice="7.26">
+              <comp position="1" type="headword" sloleks="LE_0b8fd6e152dbdf199a0f30dc0621d85e">korepetitor</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_11d02dfaf695f8aba2c24329c3451f47">petje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="vaja s korepetitorjem" cluster="1" frequency="4" logDice="5.72">
+              <comp position="1" type="collocate" sloleks="LE_6e477d94a905db5ae833309ca1b97dc6">vaja</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_0b8fd6e152dbdf199a0f30dc0621d85e">korepetitorjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

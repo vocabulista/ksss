@@ -1,0 +1,75 @@
+<entry>
+  <header>
+    <lexical_unit id="34994">stegenski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">2908</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="stegenska mišica" cluster="1" frequency="2688" logDice="11.56">
+              <comp position="1" type="headword" sloleks="LE_f158d5ef43448ac24e767adcbbc7c4eb">stegenska</comp>
+              <comp position="2" type="collocate" sloleks="LE_8cb637c99a79db8dda2b76102818f9be">mišica</comp>
+            </collocation>
+            <collocation form="stegenska kost" cluster="1" frequency="24" logDice="5.75">
+              <comp position="1" type="headword" sloleks="LE_f158d5ef43448ac24e767adcbbc7c4eb">stegenska</comp>
+              <comp position="2" type="collocate" sloleks="LE_ae860e37542710feadcc849ae3977ee1">kost</comp>
+            </collocation>
+            <collocation form="stegenska arterija" cluster="2" frequency="31" logDice="7.53">
+              <comp position="1" type="headword" sloleks="LE_f158d5ef43448ac24e767adcbbc7c4eb">stegenska</comp>
+              <comp position="2" type="collocate" sloleks="LE_8bee448ada4aba32dbca757ca777c655">arterija</comp>
+            </collocation>
+            <collocation form="stegensko mišičje" cluster="3" frequency="13" logDice="7.03">
+              <comp position="1" type="headword" sloleks="LE_f158d5ef43448ac24e767adcbbc7c4eb">stegensko</comp>
+              <comp position="2" type="collocate" sloleks="LE_49ca10b3d4f32467748770bee5d08a19">mišičje</comp>
+            </collocation>
+            <collocation form="stegenska vena" cluster="4" frequency="16" logDice="6.87">
+              <comp position="1" type="headword" sloleks="LE_f158d5ef43448ac24e767adcbbc7c4eb">stegenska</comp>
+              <comp position="2" type="collocate" sloleks="LE_13c1142cc009bb8ba660199ef6f7c30a">vena</comp>
+            </collocation>
+            <collocation form="stegenska loža" cluster="5" frequency="9" logDice="5.56">
+              <comp position="1" type="headword" sloleks="LE_f158d5ef43448ac24e767adcbbc7c4eb">stegenska</comp>
+              <comp position="2" type="collocate" sloleks="LE_9703d384b0cef21414f83a17be96cf49">loža</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="stegenski in/ali zadnjičen" cluster="1" frequency="50" logDice="12.62">
+              <comp position="3" type="headword" sloleks="LE_f158d5ef43448ac24e767adcbbc7c4eb">stegenski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_6ae024a57c2c155116b2ebfd4866175d">zadnjičen</comp>
+              </collocation>
+            <collocation form="stegenski in mečen" cluster="2" frequency="5" logDice="10.27">
+              <comp position="1" type="headword" sloleks="LE_f158d5ef43448ac24e767adcbbc7c4eb">stegenski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_0bcc7682bb6edd7e239a8b6c178514ae">mečen</comp>
+            </collocation>
+            <collocation form="stegenski in kolenski" cluster="3" frequency="6" logDice="9.38">
+              <comp position="1" type="headword" sloleks="LE_f158d5ef43448ac24e767adcbbc7c4eb">stegenski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_d47fe87aba35d5c6cd2f5281bb885035">kolenski</comp>
+            </collocation>
+            <collocation form="stegenski in/ali hrbten" cluster="4" frequency="14" logDice="8.9">
+              <comp position="3" type="headword" sloleks="LE_f158d5ef43448ac24e767adcbbc7c4eb">stegenski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_902ae9e243eb11075b611a78109656f7">hrbten</comp>
+              </collocation>
+            <collocation form="stegenski in/ali trebušen" cluster="4" frequency="12" logDice="8.74">
+              <comp position="3" type="headword" sloleks="LE_f158d5ef43448ac24e767adcbbc7c4eb">stegenski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_de9d5fa0a1477022e665e808782a0227">trebušen</comp>
+              </collocation>
+            <collocation form="stegenski in zadnji" cluster="5" frequency="6" logDice="5.01">
+              <comp position="1" type="headword" sloleks="LE_f158d5ef43448ac24e767adcbbc7c4eb">stegenski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_91601e3363ebbfa5c134315888532266">zadnji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

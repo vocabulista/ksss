@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="21153">kličoč</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">551</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="kličoč CLIP" cluster="1" frequency="8" logDice="10.16">
+              <comp position="1" type="headword" sloleks="LE_182af474589b8937e7dece1ccf50ec35">kličoč</comp>
+              <comp position="2" type="collocate" sloleks="">CLIP</comp>
+            </collocation>
+            <collocation form="kličoč priključek" cluster="2" frequency="27" logDice="5.59">
+              <comp position="1" type="headword" sloleks="LE_182af474589b8937e7dece1ccf50ec35">kličoč</comp>
+              <comp position="2" type="collocate" sloleks="LE_7dbad6e36e9b1003faaa0c8df5c08ced">priključek</comp>
+            </collocation>
+            <collocation form="kličoč uporabnik" cluster="3" frequency="15" logDice="3.12">
+              <comp position="1" type="headword" sloleks="LE_182af474589b8937e7dece1ccf50ec35">kličoč</comp>
+              <comp position="2" type="collocate" sloleks="LE_44d877680022f19ea8b31a268b1a73a4">uporabnik</comp>
+            </collocation>
+            <collocation form="kličoč naročnik" cluster="3" frequency="7" logDice="4.0">
+              <comp position="1" type="headword" sloleks="LE_182af474589b8937e7dece1ccf50ec35">kličoč</comp>
+              <comp position="2" type="collocate" sloleks="LE_82eff75ca2b656d1531a39e2867f900a">naročnik</comp>
+            </collocation>
+            <collocation form="kličoča številka" cluster="4" frequency="27" logDice="2.33">
+              <comp position="1" type="headword" sloleks="LE_182af474589b8937e7dece1ccf50ec35">kličoča</comp>
+              <comp position="2" type="collocate" sloleks="LE_ebd741e03af85017076d3a5582503217">številka</comp>
+            </collocation>
+            <collocation form="kličoč proces" cluster="5" frequency="8" logDice="1.35">
+              <comp position="1" type="headword" sloleks="LE_182af474589b8937e7dece1ccf50ec35">kličoč</comp>
+              <comp position="2" type="collocate" sloleks="LE_16c53d1ebb90a9bc6324b676ef5003b8">proces</comp>
+            </collocation>
+            <collocation form="kličoče ime" cluster="6" frequency="7" logDice="0.76">
+              <comp position="1" type="headword" sloleks="LE_182af474589b8937e7dece1ccf50ec35">kličoče</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">ime</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="kličoč in/ali klican" cluster="1" frequency="35" logDice="13.07">
+              <comp position="3" type="headword" sloleks="LE_182af474589b8937e7dece1ccf50ec35">kličoč</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_d1348dbdf37aa31a6733b9168ddbb71e">klican</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="57358">gepard</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">959</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="lev gepard" cluster="1" frequency="8" logDice="1.56">
+              <comp position="1" type="collocate" sloleks="LE_ac776984951e25142b80e23bb26159e4">lev</comp>
+              <comp position="2" type="headword" sloleks="LE_9b8ad3faad7323f7d4913d5534cf1c92">gepard</comp>
+            </collocation>
+            <collocation form="hiter gepard" cluster="2" frequency="9" logDice="0.66">
+              <comp position="1" type="collocate" sloleks="LE_2af28cbb04d2e8afedc54b00a27fc453">hiter</comp>
+              <comp position="2" type="headword" sloleks="LE_9b8ad3faad7323f7d4913d5534cf1c92">gepard</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Lov geparda" cluster="1" frequency="7" logDice="6.09">
+              <comp position="1" type="collocate" sloleks="LE_edd39bd58891ca70e7f6a1f23509f935">Lov</comp>
+              <comp position="2" type="headword" sloleks="LE_9b8ad3faad7323f7d4913d5534cf1c92">geparda</comp>
+            </collocation>
+            <collocation form="vzorec geparda" cluster="2" frequency="15" logDice="4.14">
+              <comp position="1" type="collocate" sloleks="LE_5042c4687567fc53efbfd828e5440371">vzorec</comp>
+              <comp position="2" type="headword" sloleks="LE_9b8ad3faad7323f7d4913d5534cf1c92">geparda</comp>
+            </collocation>
+            <collocation form="družina geparda" cluster="3" frequency="9" logDice="3.56">
+              <comp position="1" type="collocate" sloleks="LE_9a7d912c8ec5a6cbc42d2975b5563b34">družina</comp>
+              <comp position="2" type="headword" sloleks="LE_9b8ad3faad7323f7d4913d5534cf1c92">geparda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

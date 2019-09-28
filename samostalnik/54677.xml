@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="54677">dulec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">800</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="zvezdast dulec" cluster="1" frequency="22" logDice="9.35">
+              <comp position="1" type="collocate" sloleks="LE_817193f665e7038bdbe332c0ee2545ea">zvezdast</comp>
+              <comp position="2" type="headword" sloleks="LE_e1f189d92fde9d74dd43a035368fbd75">dulec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="vrečka z dulcem" cluster="1" frequency="36" logDice="9.01">
+              <comp position="1" type="collocate" sloleks="LE_7ed7e6d228d94919d1cea5e16ebcb593">vrečka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_e1f189d92fde9d74dd43a035368fbd75">dulcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

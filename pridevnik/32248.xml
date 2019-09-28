@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="32248">redarski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1329</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="redarski in inšpekcijski" cluster="1" frequency="40" logDice="11.56">
+              <comp position="1" type="headword" sloleks="LE_53a9ec3e2a8fb6e0f68f407878903ad9">redarski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_b1b57af55383653080d0200073baff5d">inšpekcijski</comp>
+            </collocation>
+            <collocation form="redarski in/ali policijski" cluster="2" frequency="11" logDice="6.94">
+              <comp position="3" type="headword" sloleks="LE_53a9ec3e2a8fb6e0f68f407878903ad9">redarski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_5cb5689f1625557538373d73205c8b4d">policijski</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="redarska služba" cluster="1" frequency="1086" logDice="6.9">
+              <comp position="1" type="headword" sloleks="LE_53a9ec3e2a8fb6e0f68f407878903ad9">redarska</comp>
+              <comp position="2" type="collocate" sloleks="LE_595a77ebd11b27d069e3829b663f2954">služba</comp>
+            </collocation>
+            <collocation form="redarska uniforma" cluster="2" frequency="17" logDice="5.71">
+              <comp position="1" type="headword" sloleks="LE_53a9ec3e2a8fb6e0f68f407878903ad9">redarska</comp>
+              <comp position="2" type="collocate" sloleks="LE_d936f91ff57f6f8bfcc2c04ea939ac04">uniforma</comp>
+            </collocation>
+            <collocation form="redarski nadzor" cluster="3" frequency="37" logDice="4.06">
+              <comp position="1" type="headword" sloleks="LE_53a9ec3e2a8fb6e0f68f407878903ad9">redarski</comp>
+              <comp position="2" type="collocate" sloleks="LE_18a2adc6a9e973e769119006405e1c9d">nadzor</comp>
+            </collocation>
+            <collocation form="redarska naloga" cluster="4" frequency="8" logDice="0.96">
+              <comp position="1" type="headword" sloleks="LE_53a9ec3e2a8fb6e0f68f407878903ad9">redarska</comp>
+              <comp position="2" type="collocate" sloleks="LE_85b4631dc6e0b0f426e7455c2bc6a05e">naloga</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

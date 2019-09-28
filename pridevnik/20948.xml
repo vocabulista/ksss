@@ -1,0 +1,29 @@
+<entry>
+  <header>
+    <lexical_unit id="20948">kazinski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">825</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="kazinska dvorana" cluster="1" frequency="730" logDice="7.23">
+              <comp position="1" type="headword" sloleks="LE_82cc84a018403edbd104b077146e455f">kazinska</comp>
+              <comp position="2" type="collocate" sloleks="LE_d64c66af1b698f149c6831679980b777">dvorana</comp>
+            </collocation>
+            <collocation form="kazinska stavba" cluster="2" frequency="9" logDice="2.16">
+              <comp position="1" type="headword" sloleks="LE_82cc84a018403edbd104b077146e455f">kazinska</comp>
+              <comp position="2" type="collocate" sloleks="LE_d6a366f04b453f7b73bf85471dedf273">stavba</comp>
+            </collocation>
+            <collocation form="kazinsko društvo" cluster="3" frequency="19" logDice="1.48">
+              <comp position="1" type="headword" sloleks="LE_82cc84a018403edbd104b077146e455f">kazinsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_f1fd3c17e2206150a5ab762769b6e8ff">društvo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

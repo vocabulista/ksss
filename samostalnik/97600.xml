@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="97600">zabavnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">540</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="zabavnost vožnje" cluster="1" frequency="8" logDice="3.0">
+              <comp position="1" type="headword" sloleks="LE_8e52e502a73265d8a4fd19081eceff0d">zabavnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_cd6b5da723aa271ed871bf1d115652d0">vožnje</comp>
+            </collocation>
+            <collocation form="nivo zabavnosti" cluster="2" frequency="5" logDice="3.28">
+              <comp position="1" type="collocate" sloleks="LE_757601db641c792c0752d797d30879ba">nivo</comp>
+              <comp position="2" type="headword" sloleks="LE_8e52e502a73265d8a4fd19081eceff0d">zabavnosti</comp>
+            </collocation>
+            <collocation form="občutek zabavnosti" cluster="3" frequency="6" logDice="1.96">
+              <comp position="1" type="collocate" sloleks="LE_23671e6156ee6c327e7c512a951bd4f3">občutek</comp>
+              <comp position="2" type="headword" sloleks="LE_8e52e502a73265d8a4fd19081eceff0d">zabavnosti</comp>
+            </collocation>
+            <collocation form="stopnja zabavnosti" cluster="4" frequency="5" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_ed1cc20afdfdf1e20fe2e301bae175ee">stopnja</comp>
+              <comp position="2" type="headword" sloleks="LE_8e52e502a73265d8a4fd19081eceff0d">zabavnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz k SBZ3">
+          <collocations>
+            <collocation form="prispevati k zabavnosti" cluster="1" frequency="5" logDice="2.0">
+              <comp position="1" type="collocate" sloleks="LE_fa72b6ca3a142db33cb7defbe02c77d8">prispevati</comp>
+              <comp position="2" type="other" sloleks="LE_62b2f33c11cafe70ff4ee2db8f9aeb6c">k</comp>
+              <comp position="3" type="headword" sloleks="LE_8e52e502a73265d8a4fd19081eceff0d">zabavnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

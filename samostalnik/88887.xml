@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="88887">skat</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1003</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="preusmeriti na skata" cluster="1" frequency="8" logDice="6.48">
+              <comp position="1" type="collocate" sloleks="LE_a38a2fe7592d1d98d15cb4b14b86b199">preusmeriti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_1b5572f884f1fe0ec8f9b3fd724ae879">skata</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="imeti za skata" cluster="1" frequency="4" logDice="0.93">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_1b5572f884f1fe0ec8f9b3fd724ae879">skata</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="atlantski skat" cluster="1" frequency="11" logDice="5.38">
+              <comp position="1" type="collocate" sloleks="LE_0fc4d844e11bdb933e08faec24f4db79">atlantski</comp>
+              <comp position="2" type="headword" sloleks="LE_1b5572f884f1fe0ec8f9b3fd724ae879">skat</comp>
+            </collocation>
+            <collocation form="električen skat" cluster="2" frequency="67" logDice="4.42">
+              <comp position="1" type="collocate" sloleks="LE_e7a50161b6080fce9d60170cb645e7e7">električen</comp>
+              <comp position="2" type="headword" sloleks="LE_1b5572f884f1fe0ec8f9b3fd724ae879">skat</comp>
+            </collocation>
+            <collocation form="morski skat" cluster="3" frequency="21" logDice="3.19">
+              <comp position="1" type="collocate" sloleks="LE_57bed162279dc52ad8b850de264a14ad">morski</comp>
+              <comp position="2" type="headword" sloleks="LE_1b5572f884f1fe0ec8f9b3fd724ae879">skat</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="vrsta skata" cluster="1" frequency="13" logDice="0.6">
+              <comp position="1" type="collocate" sloleks="LE_4af9091c01f502e405be7dfe91eedee3">vrsta</comp>
+              <comp position="2" type="headword" sloleks="LE_1b5572f884f1fe0ec8f9b3fd724ae879">skata</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

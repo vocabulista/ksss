@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="33904">skomercializiran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">524</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="skomercializiran praznik" cluster="1" frequency="30" logDice="3.46">
+              <comp position="1" type="headword" sloleks="LE_e407a384dc1bdfa4885f565901224f14">skomercializiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_81b957b96d1a498eb9648be62a120260">praznik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="preveč skomercializiran" cluster="1" frequency="63" logDice="4.26">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_e407a384dc1bdfa4885f565901224f14">skomercializiran</comp>
+            </collocation>
+            <collocation form="skrajno skomercializiran" cluster="2" frequency="6" logDice="3.37">
+              <comp position="1" type="collocate" sloleks="LE_50bd085be9fea6c2fd7222a14ab31702">skrajno</comp>
+              <comp position="2" type="headword" sloleks="LE_e407a384dc1bdfa4885f565901224f14">skomercializiran</comp>
+            </collocation>
+            <collocation form="povsem skomercializiran" cluster="3" frequency="10" logDice="0.61">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_e407a384dc1bdfa4885f565901224f14">skomercializiran</comp>
+            </collocation>
+            <collocation form="popolnoma skomercializiran" cluster="3" frequency="9" logDice="1.46">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_e407a384dc1bdfa4885f565901224f14">skomercializiran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

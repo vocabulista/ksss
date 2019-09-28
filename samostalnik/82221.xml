@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="82221">prekla</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">488</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="prekla za fižol" cluster="1" frequency="9" logDice="11.74">
+              <comp position="1" type="headword" sloleks="LE_8642d1dd4f23ee6198452a58a353dfde">prekla</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_3d410178d1e97977a644f3c81bbbd2cc">fižol</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="ošpičena prekla" cluster="1" frequency="16" logDice="10.9">
+              <comp position="1" type="collocate" sloleks="LE_79db74a6aef70eae1b45dbc65be90858">ošpičena</comp>
+              <comp position="2" type="headword" sloleks="LE_8642d1dd4f23ee6198452a58a353dfde">prekla</comp>
+            </collocation>
+            <collocation form="ušpičen prekla" cluster="1" frequency="9" logDice="10.22">
+              <comp position="1" type="collocate" sloleks="">ušpičen</comp>
+              <comp position="2" type="headword" sloleks="LE_8642d1dd4f23ee6198452a58a353dfde">prekla</comp>
+            </collocation>
+            <collocation form="fižolova prekla" cluster="2" frequency="19" logDice="8.3">
+              <comp position="1" type="collocate" sloleks="LE_728c7bb8360dc4d913a5119fa32a91e3">fižolova</comp>
+              <comp position="2" type="headword" sloleks="LE_8642d1dd4f23ee6198452a58a353dfde">prekla</comp>
+            </collocation>
+            <collocation form="suha prekla" cluster="3" frequency="48" logDice="4.44">
+              <comp position="1" type="collocate" sloleks="LE_1d980acd2a91c076b44dfbb2c62adcf9">suha</comp>
+              <comp position="2" type="headword" sloleks="LE_8642d1dd4f23ee6198452a58a353dfde">prekla</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

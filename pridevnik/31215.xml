@@ -1,0 +1,114 @@
+<entry>
+  <header>
+    <lexical_unit id="31215">prizemljen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">986</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="prizemljena ženska" cluster="1" frequency="13" logDice="1.94">
+              <comp position="1" type="headword" sloleks="LE_cc88f6aea1960b35141d45b15bb2c1b8">prizemljena</comp>
+              <comp position="2" type="collocate" sloleks="LE_27b2cafdf8a189c632c32da066af1ce5">ženska</comp>
+            </collocation>
+            <collocation form="prizemljen človek" cluster="2" frequency="19" logDice="0.96">
+              <comp position="1" type="headword" sloleks="LE_cc88f6aea1960b35141d45b15bb2c1b8">prizemljen</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človek</comp>
+            </collocation>
+            <collocation form="prizemljen fant" cluster="2" frequency="6" logDice="1.82">
+              <comp position="1" type="headword" sloleks="LE_cc88f6aea1960b35141d45b15bb2c1b8">prizemljen</comp>
+              <comp position="2" type="collocate" sloleks="LE_cae40615e4597221831328b93d9050a9">fant</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz PBZ1">
+          <collocations>
+            <collocation form="ostajati prizemljen" cluster="1" frequency="13" logDice="5.09">
+              <comp position="1" type="collocate" sloleks="LE_72f23160dd4bff8889c05bb3031f8b6d">ostajati</comp>
+              <comp position="2" type="headword" sloleks="LE_cc88f6aea1960b35141d45b15bb2c1b8">prizemljen</comp>
+            </collocation>
+            <collocation form="ostati prizemljen" cluster="2" frequency="30" logDice="4.49">
+              <comp position="1" type="collocate" sloleks="LE_f2645fccc77ca8ba15862278bf3ee661">ostati</comp>
+              <comp position="2" type="headword" sloleks="LE_cc88f6aea1960b35141d45b15bb2c1b8">prizemljen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="prizemljen in/ali realen" cluster="1" frequency="9" logDice="6.81">
+              <comp position="3" type="headword" sloleks="LE_cc88f6aea1960b35141d45b15bb2c1b8">prizemljen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_389744ec106f9e8032c6255c6026a5c9">realen</comp>
+              </collocation>
+            <collocation form="prizemljen in/ali praktičen" cluster="1" frequency="7" logDice="5.61">
+              <comp position="3" type="headword" sloleks="LE_cc88f6aea1960b35141d45b15bb2c1b8">prizemljen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_90a1c2583211e0ccd8dfe4aba900d08a">praktičen</comp>
+              </collocation>
+            <collocation form="prizemljen in simpatičen" cluster="2" frequency="7" logDice="6.25">
+              <comp position="1" type="headword" sloleks="LE_cc88f6aea1960b35141d45b15bb2c1b8">prizemljen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_04e12cdbc62284fea86d8fe4e1df7b89">simpatičen</comp>
+            </collocation>
+            <collocation form="prizemljen in/ali prijazen" cluster="3" frequency="8" logDice="4.44">
+              <comp position="3" type="headword" sloleks="LE_cc88f6aea1960b35141d45b15bb2c1b8">prizemljen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_439e00b230a5a160ad9e1edaf6af9e84">prijazen</comp>
+              </collocation>
+            <collocation form="prizemljen in/ali preprost" cluster="3" frequency="5" logDice="4.17">
+              <comp position="3" type="headword" sloleks="LE_cc88f6aea1960b35141d45b15bb2c1b8">prizemljen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_a53fa6e02611481ace6ff204a2ed79b7">preprost</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="trdno prizemljen" cluster="1" frequency="11" logDice="4.82">
+              <comp position="1" type="collocate" sloleks="LE_de79b48e6eaa0eb4f1a564e5b5812260">trdno</comp>
+              <comp position="2" type="headword" sloleks="LE_cc88f6aea1960b35141d45b15bb2c1b8">prizemljen</comp>
+            </collocation>
+            <collocation form="bolj prizemljen" cluster="2" frequency="115" logDice="2.55">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_cc88f6aea1960b35141d45b15bb2c1b8">prizemljen</comp>
+            </collocation>
+            <collocation form="povsem prizemljen" cluster="2" frequency="13" logDice="0.99">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_cc88f6aea1960b35141d45b15bb2c1b8">prizemljen</comp>
+            </collocation>
+            <collocation form="čisto prizemljen" cluster="2" frequency="8" logDice="2.11">
+              <comp position="1" type="collocate" sloleks="LE_94a91e83047bf2e90acf82e14cbb99c9">čisto</comp>
+              <comp position="2" type="headword" sloleks="LE_cc88f6aea1960b35141d45b15bb2c1b8">prizemljen</comp>
+            </collocation>
+            <collocation form="nekako prizemljen" cluster="2" frequency="5" logDice="3.63">
+              <comp position="1" type="collocate" sloleks="LE_a96326ed8c158842276cc429a0b285f7">nekako</comp>
+              <comp position="2" type="headword" sloleks="LE_cc88f6aea1960b35141d45b15bb2c1b8">prizemljen</comp>
+            </collocation>
+            <collocation form="hkrati prizemljen" cluster="2" frequency="5" logDice="2.44">
+              <comp position="1" type="collocate" sloleks="LE_299457349a4451694b53e687e2892a78">hkrati</comp>
+              <comp position="2" type="headword" sloleks="LE_cc88f6aea1960b35141d45b15bb2c1b8">prizemljen</comp>
+            </collocation>
+            <collocation form="zelo prizemljen" cluster="3" frequency="59" logDice="1.11">
+              <comp position="1" type="collocate" sloleks="LE_195d60c164b7057008d21b29153e2352">zelo</comp>
+              <comp position="2" type="headword" sloleks="LE_cc88f6aea1960b35141d45b15bb2c1b8">prizemljen</comp>
+            </collocation>
+            <collocation form="precej prizemljen" cluster="3" frequency="10" logDice="0.65">
+              <comp position="1" type="collocate" sloleks="LE_e0671a56c827200d0ebc033694e6214b">precej</comp>
+              <comp position="2" type="headword" sloleks="LE_cc88f6aea1960b35141d45b15bb2c1b8">prizemljen</comp>
+            </collocation>
+            <collocation form="preveč prizemljen" cluster="3" frequency="9" logDice="1.45">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_cc88f6aea1960b35141d45b15bb2c1b8">prizemljen</comp>
+            </collocation>
+            <collocation form="izjemno prizemljen" cluster="3" frequency="5" logDice="0.72">
+              <comp position="1" type="collocate" sloleks="LE_4685177735c785314580ae2542479197">izjemno</comp>
+              <comp position="2" type="headword" sloleks="LE_cc88f6aea1960b35141d45b15bb2c1b8">prizemljen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

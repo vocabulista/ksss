@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="69862">mitnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">636</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="cestna mitnica" cluster="1" frequency="11" logDice="2.27">
+              <comp position="1" type="collocate" sloleks="LE_43ad0ad4f80f1079b681ac2e0d7ddb2b">cestna</comp>
+              <comp position="2" type="headword" sloleks="LE_a2284e0ff18af94f5257c8b715f3a89a">mitnica</comp>
+            </collocation>
+            <collocation form="kranjska mitnica" cluster="2" frequency="8" logDice="1.44">
+              <comp position="1" type="collocate" sloleks="LE_0bd8e638d4f62a846bbd7f0cc97d5f60">kranjska</comp>
+              <comp position="2" type="headword" sloleks="LE_a2284e0ff18af94f5257c8b715f3a89a">mitnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="ura v Mitnici" cluster="1" frequency="4" logDice="1.29">
+              <comp position="1" type="collocate" sloleks="LE_77e6b5a072871d299d405565eaad4389">ura</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_a2284e0ff18af94f5257c8b715f3a89a">Mitnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

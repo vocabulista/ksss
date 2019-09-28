@@ -1,0 +1,72 @@
+<entry>
+  <header>
+    <lexical_unit id="230100">bioetanol</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="bioetanol iz koruze" cluster="1" frequency="8" logDice="9.73">
+              <comp position="1" type="headword" sloleks="">bioetanol</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_b066ca9150766b264624540e6e3e9592">koruze</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="delovati na bioetanol" cluster="1" frequency="7" logDice="4.45">
+              <comp position="1" type="collocate" sloleks="LE_d0f4c0b2fd032468cea5b16c4a58e364">delovati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="">bioetanol</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="proizvodnja bioetanol" cluster="1" frequency="63" logDice="5.29">
+              <comp position="1" type="collocate" sloleks="LE_4a1754c19d9e05c064189e8d6ddbd00a">proizvodnja</comp>
+              <comp position="2" type="headword" sloleks="">bioetanol</comp>
+            </collocation>
+            <collocation form="izdelava bioetanol" cluster="1" frequency="6" logDice="1.48">
+              <comp position="1" type="collocate" sloleks="LE_58e4c9eb6d6ddc69a009737fc482eaa5">izdelava</comp>
+              <comp position="2" type="headword" sloleks="">bioetanol</comp>
+            </collocation>
+            <collocation form="mešanica bioetanol" cluster="2" frequency="7" logDice="3.52">
+              <comp position="1" type="collocate" sloleks="LE_d638460552637ca98a257506863acb65">mešanica</comp>
+              <comp position="2" type="headword" sloleks="">bioetanol</comp>
+            </collocation>
+            <collocation form="tovarna bioetanol" cluster="3" frequency="7" logDice="3.23">
+              <comp position="1" type="collocate" sloleks="LE_60c081b7fc653e83aaefd97eb413525c">tovarna</comp>
+              <comp position="2" type="headword" sloleks="">bioetanol</comp>
+            </collocation>
+            <collocation form="proizvajalec bioetanol" cluster="3" frequency="5" logDice="2.06">
+              <comp position="1" type="collocate" sloleks="LE_3bf2375e8c2495b2a135a907b9268843">proizvajalec</comp>
+              <comp position="2" type="headword" sloleks="">bioetanol</comp>
+            </collocation>
+            <collocation form="uporaba bioetanol" cluster="4" frequency="19" logDice="1.73">
+              <comp position="1" type="collocate" sloleks="LE_9999e7dc3b8f5571ba09e352c31aea3f">uporaba</comp>
+              <comp position="2" type="headword" sloleks="">bioetanol</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ4">
+          <collocations>
+            <collocation form="motor na bioetanol" cluster="1" frequency="7" logDice="7.39">
+              <comp position="1" type="collocate" sloleks="LE_f2500a2481839c4e1efd6315d8b961cc">motor</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="">bioetanol</comp>
+            </collocation>
+            <collocation form="pogon na bioetanol" cluster="2" frequency="10" logDice="6.95">
+              <comp position="1" type="collocate" sloleks="LE_4f66efe3bc56e39a131be9f6acd56121">pogon</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="">bioetanol</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

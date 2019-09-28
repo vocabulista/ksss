@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="97205">vseved</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">840</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="vseved Novice" cluster="1" frequency="57" logDice="5.58">
+              <comp position="1" type="headword" sloleks="LE_730728d027e409abb67c28504f10d149">vseved</comp>
+              <comp position="2" type="collocate" sloleks="LE_1c81f92292b772e99124d3e1046855b7">Novice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="vseved za potovanje" cluster="1" frequency="6" logDice="5.4">
+              <comp position="1" type="headword" sloleks="LE_730728d027e409abb67c28504f10d149">vseved</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_21199f43ad8b18505266fa0f432fb8db">potovanje</comp>
+            </collocation>
+            <collocation form="beseda za vseveda" cluster="2" frequency="4" logDice="5.07">
+              <comp position="1" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">beseda</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_730728d027e409abb67c28504f10d149">vseveda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="imeti za vseveda" cluster="1" frequency="5" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_730728d027e409abb67c28504f10d149">vseveda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="radoveden vseved" cluster="1" frequency="57" logDice="7.49">
+              <comp position="1" type="collocate" sloleks="LE_91f8de8fad036f40c941e947337b6223">radoveden</comp>
+              <comp position="2" type="headword" sloleks="LE_730728d027e409abb67c28504f10d149">vseved</comp>
+            </collocation>
+            <collocation form="slikoven vseved" cluster="2" frequency="14" logDice="5.08">
+              <comp position="1" type="collocate" sloleks="LE_9f28a3e9516d87e3762d6be35c593ab3">slikoven</comp>
+              <comp position="2" type="headword" sloleks="LE_730728d027e409abb67c28504f10d149">vseved</comp>
+            </collocation>
+            <collocation form="elektronski vseved" cluster="3" frequency="23" logDice="2.56">
+              <comp position="1" type="collocate" sloleks="LE_82aeb3fd59f2e46f8adfcaf1588ad167">elektronski</comp>
+              <comp position="2" type="headword" sloleks="LE_730728d027e409abb67c28504f10d149">vseved</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

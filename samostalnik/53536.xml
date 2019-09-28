@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="53536">disperzija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">456</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="disperzija veziva" cluster="1" frequency="9" logDice="9.01">
+              <comp position="1" type="headword" sloleks="LE_d6f54473898a1490fe0199686b7ade6a">disperzija</comp>
+              <comp position="2" type="collocate" sloleks="LE_8dafbbd567c7a86b5a44c061d8b8856e">veziva</comp>
+            </collocation>
+            <collocation form="disperzija svetlobe" cluster="2" frequency="9" logDice="4.07">
+              <comp position="1" type="headword" sloleks="LE_d6f54473898a1490fe0199686b7ade6a">disperzija</comp>
+              <comp position="2" type="collocate" sloleks="LE_7b4aa20123309c3df51797d7759d6ade">svetlobe</comp>
+            </collocation>
+            <collocation form="disperzija plače" cluster="3" frequency="11" logDice="2.08">
+              <comp position="1" type="headword" sloleks="LE_d6f54473898a1490fe0199686b7ade6a">disperzija</comp>
+              <comp position="2" type="collocate" sloleks="LE_5e60f7e201847a7be65d2212fdd74103">plače</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="polimerna disperzija" cluster="1" frequency="18" logDice="9.15">
+              <comp position="1" type="collocate" sloleks="LE_78b1bbcb42751f3c4bee22ca3a4de606">polimerna</comp>
+              <comp position="2" type="headword" sloleks="LE_d6f54473898a1490fe0199686b7ade6a">disperzija</comp>
+            </collocation>
+            <collocation form="vodena disperzija" cluster="2" frequency="16" logDice="2.55">
+              <comp position="1" type="collocate" sloleks="LE_699e316f3b1f01451f74cf4af253e729|LE_6fe63b63628e1f9986ca9bba3a514494">vodena</comp>
+              <comp position="2" type="headword" sloleks="LE_d6f54473898a1490fe0199686b7ade6a">disperzija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="steklo z disperzijo" cluster="1" frequency="4" logDice="8.49">
+              <comp position="1" type="collocate" sloleks="LE_99a519acd32643bbcc9d11eb32434eb6">steklo</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d6f54473898a1490fe0199686b7ade6a">disperzijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

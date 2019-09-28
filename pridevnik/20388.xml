@@ -1,0 +1,62 @@
+<entry>
+  <header>
+    <lexical_unit id="20388">jezikav</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">574</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="jezikava rapsodija" cluster="1" frequency="10" logDice="8.46">
+              <comp position="1" type="headword" sloleks="LE_fbf8fc6d779d388cfaec56ce913886e5">jezikava</comp>
+              <comp position="2" type="collocate" sloleks="LE_a0ea3978520ff98a29a4e7de95fa5fc5">rapsodija</comp>
+            </collocation>
+            <collocation form="jezikava Ana" cluster="2" frequency="16" logDice="6.88">
+              <comp position="1" type="headword" sloleks="LE_fbf8fc6d779d388cfaec56ce913886e5">jezikava</comp>
+              <comp position="2" type="collocate" sloleks="LE_d2621d6af1064bd8e4a65a94d3392afe">Ana</comp>
+            </collocation>
+            <collocation form="jezikava voditeljica" cluster="3" frequency="16" logDice="5.32">
+              <comp position="1" type="headword" sloleks="LE_fbf8fc6d779d388cfaec56ce913886e5">jezikava</comp>
+              <comp position="2" type="collocate" sloleks="LE_e719c16f2630a9989047546fd30eee17">voditeljica</comp>
+            </collocation>
+            <collocation form="jezikava ženska" cluster="4" frequency="12" logDice="1.82">
+              <comp position="1" type="headword" sloleks="LE_fbf8fc6d779d388cfaec56ce913886e5">jezikava</comp>
+              <comp position="2" type="collocate" sloleks="LE_27b2cafdf8a189c632c32da066af1ce5">ženska</comp>
+            </collocation>
+            <collocation form="jezikava žena" cluster="4" frequency="9" logDice="2.59">
+              <comp position="1" type="headword" sloleks="LE_fbf8fc6d779d388cfaec56ce913886e5">jezikava</comp>
+              <comp position="2" type="collocate" sloleks="LE_412b2e672422f341e6f8b4b4f03f0f24">žena</comp>
+            </collocation>
+            <collocation form="jezikava punca" cluster="4" frequency="6" logDice="4.06">
+              <comp position="1" type="headword" sloleks="LE_fbf8fc6d779d388cfaec56ce913886e5">jezikava</comp>
+              <comp position="2" type="collocate" sloleks="LE_ea87ad62c90598bab4aec107529af156">punca</comp>
+            </collocation>
+            <collocation form="jezikav trener" cluster="5" frequency="6" logDice="1.29">
+              <comp position="1" type="headword" sloleks="LE_fbf8fc6d779d388cfaec56ce913886e5">jezikav</comp>
+              <comp position="2" type="collocate" sloleks="LE_5269bc580e9a4f0ecfae9c1dd766c01a">trener</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="jezikav in/ali razvajen" cluster="1" frequency="5" logDice="7.92">
+              <comp position="3" type="headword" sloleks="LE_fbf8fc6d779d388cfaec56ce913886e5">jezikav</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_c867beb67a8343aa8c2ccc64ee660d1e">razvajen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="preveč jezikav" cluster="1" frequency="15" logDice="2.19">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_fbf8fc6d779d388cfaec56ce913886e5">jezikav</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

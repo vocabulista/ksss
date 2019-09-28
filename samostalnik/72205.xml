@@ -1,0 +1,35 @@
+<entry>
+  <header>
+    <lexical_unit id="72205">nelagodnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">542</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="navdajati z nelagodnostjo" cluster="1" frequency="6" logDice="5.99">
+              <comp position="1" type="collocate" sloleks="LE_18ed67d9655e5537069323dcfab3274c">navdajati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_6ae8e9d9a4346a7d84aa9ad16b014de0">nelagodnostjo</comp>
+            </collocation>
+            <collocation form="spremljati z nelagodnostjo" cluster="2" frequency="7" logDice="5.23">
+              <comp position="1" type="collocate" sloleks="LE_cd780fb13536e3fded66c29a534d6713">spremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_6ae8e9d9a4346a7d84aa9ad16b014de0">nelagodnostjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="občutek nelagodnosti" cluster="1" frequency="37" logDice="4.58">
+              <comp position="1" type="collocate" sloleks="LE_23671e6156ee6c327e7c512a951bd4f3">občutek</comp>
+              <comp position="2" type="headword" sloleks="LE_6ae8e9d9a4346a7d84aa9ad16b014de0">nelagodnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

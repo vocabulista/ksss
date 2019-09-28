@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="33440">servilen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">452</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 do sbz2">
+          <collocations>
+            <collocation form="servilen do oblasti" cluster="1" frequency="6" logDice="9.74">
+              <comp position="1" type="headword" sloleks="LE_90bb8068f586bcfd5fc67d25539943d4">servilen</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_517516784cc4f3948ad94ba945fd370b">oblasti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="servilna drža" cluster="1" frequency="10" logDice="4.05">
+              <comp position="1" type="headword" sloleks="LE_90bb8068f586bcfd5fc67d25539943d4">servilna</comp>
+              <comp position="2" type="collocate" sloleks="LE_2edaef329e1c67ebac6959ae8e84e00b">drža</comp>
+            </collocation>
+            <collocation form="servilen odnos" cluster="2" frequency="25" logDice="2.08">
+              <comp position="1" type="headword" sloleks="LE_90bb8068f586bcfd5fc67d25539943d4">servilen</comp>
+              <comp position="2" type="collocate" sloleks="LE_77f2f37de07cb9f39cb3dd828efa7919">odnos</comp>
+            </collocation>
+            <collocation form="servilen medij" cluster="2" frequency="7" logDice="1.33">
+              <comp position="1" type="headword" sloleks="LE_90bb8068f586bcfd5fc67d25539943d4">servilen</comp>
+              <comp position="2" type="collocate" sloleks="LE_2fdfb09ca61a23719b60aed391a2d0ea">medij</comp>
+            </collocation>
+            <collocation form="servilna politika" cluster="3" frequency="30" logDice="1.92">
+              <comp position="1" type="headword" sloleks="LE_90bb8068f586bcfd5fc67d25539943d4">servilna</comp>
+              <comp position="2" type="collocate" sloleks="LE_d48e3236c14022f821882e8943749375">politika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="pretirano servilen" cluster="1" frequency="5" logDice="3.62">
+              <comp position="1" type="collocate" sloleks="LE_8de0ab7a7ed22d3cca1b5eb9a04db1af">pretirano</comp>
+              <comp position="2" type="headword" sloleks="LE_90bb8068f586bcfd5fc67d25539943d4">servilen</comp>
+            </collocation>
+            <collocation form="preveč servilen" cluster="2" frequency="11" logDice="1.74">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_90bb8068f586bcfd5fc67d25539943d4">servilen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

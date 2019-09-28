@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="30074">prebogat</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">490</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="prebogata hrana" cluster="1" frequency="23" logDice="3.28">
+              <comp position="1" type="headword" sloleks="LE_6d8da35723c5f207b1367560e77cd3a4">prebogata</comp>
+              <comp position="2" type="collocate" sloleks="LE_4b3b80327bf9e7fafcc3a73e85eae950">hrana</comp>
+            </collocation>
+            <collocation form="prebogata prehrana" cluster="1" frequency="8" logDice="2.67">
+              <comp position="1" type="headword" sloleks="LE_6d8da35723c5f207b1367560e77cd3a4">prebogata</comp>
+              <comp position="2" type="collocate" sloleks="LE_cc45ccb9ca4af414d51013e339a1766f">prehrana</comp>
+            </collocation>
+            <collocation form="prebogat obrok" cluster="2" frequency="6" logDice="3.01">
+              <comp position="1" type="headword" sloleks="LE_6d8da35723c5f207b1367560e77cd3a4">prebogat</comp>
+              <comp position="2" type="collocate" sloleks="LE_a37b1a48d56e602455b68874fd499194">obrok</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 z sbz6">
+          <collocations>
+            <collocation form="prebogat s hranilom" cluster="1" frequency="8" logDice="10.4">
+              <comp position="1" type="headword" sloleks="LE_6d8da35723c5f207b1367560e77cd3a4">prebogat</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_7129373f2ccb46ced317f1f4f7760327">hranilom</comp>
+            </collocation>
+            <collocation form="prebogat z maščobo" cluster="2" frequency="6" logDice="9.14">
+              <comp position="1" type="headword" sloleks="LE_6d8da35723c5f207b1367560e77cd3a4">prebogat</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_cd6a14550381c72a11b86eec7a7873ff">maščobo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="energijsko prebogat" cluster="1" frequency="12" logDice="7.12">
+              <comp position="1" type="collocate" sloleks="LE_0f6b6d54d123fe05de4ebbeb5707e626">energijsko</comp>
+              <comp position="2" type="headword" sloleks="LE_6d8da35723c5f207b1367560e77cd3a4">prebogat</comp>
+            </collocation>
+            <collocation form="energetsko prebogat" cluster="2" frequency="6" logDice="5.41">
+              <comp position="1" type="collocate" sloleks="LE_8c5b1444918f843b8cae23a28710ab59">energetsko</comp>
+              <comp position="2" type="headword" sloleks="LE_6d8da35723c5f207b1367560e77cd3a4">prebogat</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

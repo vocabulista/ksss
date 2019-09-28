@@ -1,0 +1,79 @@
+<entry>
+  <header>
+    <lexical_unit id="16504">dominikanski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">3486</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="dominikanski in minoritski" cluster="1" frequency="20" logDice="13.17">
+              <comp position="1" type="headword" sloleks="LE_c40de4743cf05ea402e85925e955352b">dominikanski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_9ded40a587cbf2a06fecddedaf7fc3a5">minoritski</comp>
+            </collocation>
+            <collocation form="dominikanski in/ali tajski" cluster="2" frequency="5" logDice="9.4">
+              <comp position="3" type="headword" sloleks="LE_c40de4743cf05ea402e85925e955352b">dominikanski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_42d930b54636739ae096f9733bb0ab6a">tajski</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="dominikanska republika" cluster="1" frequency="2119" logDice="10.38">
+              <comp position="1" type="headword" sloleks="LE_c40de4743cf05ea402e85925e955352b">dominikanska</comp>
+              <comp position="2" type="collocate" sloleks="LE_9817417d69dfa2826551abbbe0a0f172">republika</comp>
+            </collocation>
+            <collocation form="dominikanski samostan" cluster="2" frequency="619" logDice="10.25">
+              <comp position="1" type="headword" sloleks="LE_c40de4743cf05ea402e85925e955352b">dominikanski</comp>
+              <comp position="2" type="collocate" sloleks="LE_68659746be8572a232576462b708851e">samostan</comp>
+            </collocation>
+            <collocation form="dominikanski brat" cluster="3" frequency="10" logDice="2.99">
+              <comp position="1" type="headword" sloleks="LE_c40de4743cf05ea402e85925e955352b">dominikanski</comp>
+              <comp position="2" type="collocate" sloleks="LE_596080a448c9d7dd107473b477aa03f5">brat</comp>
+            </collocation>
+            <collocation form="dominikanski predsednik" cluster="4" frequency="13" logDice="0.92">
+              <comp position="1" type="headword" sloleks="LE_c40de4743cf05ea402e85925e955352b">dominikanski</comp>
+              <comp position="2" type="collocate" sloleks="LE_7b6970ef8cd5ab25e1b3915be0c536bd">predsednik</comp>
+            </collocation>
+            <collocation form="dominikanski menih" cluster="5" frequency="52" logDice="7.83">
+              <comp position="1" type="headword" sloleks="LE_c40de4743cf05ea402e85925e955352b">dominikanski</comp>
+              <comp position="2" type="collocate" sloleks="LE_f3fbe549f8726d6706a6e001bd27311f">menih</comp>
+            </collocation>
+            <collocation form="dominikanski redovnik" cluster="6" frequency="14" logDice="6.91">
+              <comp position="1" type="headword" sloleks="LE_c40de4743cf05ea402e85925e955352b">dominikanski</comp>
+              <comp position="2" type="collocate" sloleks="LE_79008c9cbc1c4e65473893598fb10635">redovnik</comp>
+            </collocation>
+            <collocation form="dominikanski inkvizitor" cluster="7" frequency="11" logDice="6.5">
+              <comp position="1" type="headword" sloleks="LE_c40de4743cf05ea402e85925e955352b">dominikanski</comp>
+              <comp position="2" type="collocate" sloleks="LE_f74062e1328d07c38daf84fb5498df29">inkvizitor</comp>
+            </collocation>
+            <collocation form="dominikanski pater" cluster="8" frequency="12" logDice="6.46">
+              <comp position="1" type="headword" sloleks="LE_c40de4743cf05ea402e85925e955352b">dominikanski</comp>
+              <comp position="2" type="collocate" sloleks="LE_7f3c137a515dd01e078748b247529af7">pater</comp>
+            </collocation>
+            <collocation form="dominikanski teolog" cluster="9" frequency="12" logDice="6.11">
+              <comp position="1" type="headword" sloleks="LE_c40de4743cf05ea402e85925e955352b">dominikanski</comp>
+              <comp position="2" type="collocate" sloleks="LE_639a2841e5f2bf3381810894dfc78ca8">teolog</comp>
+            </collocation>
+            <collocation form="dominikanska cerkev" cluster="10" frequency="137" logDice="5.41">
+              <comp position="1" type="headword" sloleks="LE_c40de4743cf05ea402e85925e955352b">dominikanska</comp>
+              <comp position="2" type="collocate" sloleks="LE_71364d2c460f04c8b1dbbb72e4901dca">cerkev</comp>
+            </collocation>
+            <collocation form="dominikanski diktator" cluster="11" frequency="13" logDice="5.34">
+              <comp position="1" type="headword" sloleks="LE_c40de4743cf05ea402e85925e955352b">dominikanski</comp>
+              <comp position="2" type="collocate" sloleks="LE_fe7e94a999425ef32c3b8c53ff3beac1">diktator</comp>
+            </collocation>
+            <collocation form="dominikanski red" cluster="12" frequency="69" logDice="3.54">
+              <comp position="1" type="headword" sloleks="LE_c40de4743cf05ea402e85925e955352b">dominikanski</comp>
+              <comp position="2" type="collocate" sloleks="LE_32cc2768fc63beee27ff73cd149852ee">red</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

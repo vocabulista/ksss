@@ -1,0 +1,57 @@
+<entry>
+  <header>
+    <lexical_unit id="43424">opoldan</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">792</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ gbz">
+          <collocations>
+            <collocation form="opoldan zbrati" cluster="1" frequency="6" logDice="2.99">
+              <comp position="1" type="headword" sloleks="LE_9d217b8fde684e0d84c637461cc6549b">opoldan</comp>
+              <comp position="2" type="collocate" sloleks="LE_40502938a8ff2dd818937bd71f99bb6d">zbrati</comp>
+            </collocation>
+            <collocation form="opoldan obiskati" cluster="2" frequency="5" logDice="2.55">
+              <comp position="1" type="headword" sloleks="LE_9d217b8fde684e0d84c637461cc6549b">opoldan</comp>
+              <comp position="2" type="collocate" sloleks="LE_ac330ed125bf741cd131a62e82535952">obiskati</comp>
+            </collocation>
+            <collocation form="opoldan odpreti" cluster="2" frequency="5" logDice="1.84">
+              <comp position="1" type="headword" sloleks="LE_9d217b8fde684e0d84c637461cc6549b">opoldan</comp>
+              <comp position="2" type="collocate" sloleks="LE_e8a0b78c58df134dead0230dc2e801ab">odpreti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="zaključiti opoldan" cluster="1" frequency="4" logDice="5.21">
+              <comp position="1" type="collocate" sloleks="LE_0d8c4650caac4db47bfd5fa126b9e5cf">zaključiti</comp>
+              <comp position="2" type="headword" sloleks="LE_9d217b8fde684e0d84c637461cc6549b">opoldan</comp>
+            </collocation>
+            <collocation form="začeti opoldan" cluster="2" frequency="4" logDice="0.45">
+              <comp position="1" type="collocate" sloleks="LE_5526be99243d6a70e33b06d3eabd15ae">začeti</comp>
+              <comp position="2" type="headword" sloleks="LE_9d217b8fde684e0d84c637461cc6549b">opoldan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz RBZ">
+          <collocations>
+            <collocation form="točno opoldan" cluster="1" frequency="44" logDice="7.53">
+              <comp position="1" type="collocate" sloleks="LE_ed0ec103631b6aac814ce2eafad07f7f">točno</comp>
+              <comp position="2" type="headword" sloleks="LE_9d217b8fde684e0d84c637461cc6549b">opoldan</comp>
+            </collocation>
+            <collocation form="včeraj opoldan" cluster="2" frequency="47" logDice="5.08">
+              <comp position="1" type="collocate" sloleks="LE_87612c451a6a10691f8cceaa7eeff6b1">včeraj</comp>
+              <comp position="2" type="headword" sloleks="LE_9d217b8fde684e0d84c637461cc6549b">opoldan</comp>
+            </collocation>
+            <collocation form="danes opoldan" cluster="3" frequency="27" logDice="3.64">
+              <comp position="1" type="collocate" sloleks="LE_1ce30c2bc2ec7609ed31b8f4fa97c156">danes</comp>
+              <comp position="2" type="headword" sloleks="LE_9d217b8fde684e0d84c637461cc6549b">opoldan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

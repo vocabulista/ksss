@@ -1,0 +1,56 @@
+<entry>
+  <header>
+    <lexical_unit id="86691">romb</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">701</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="romb s stranico" cluster="1" frequency="5" logDice="7.83">
+              <comp position="1" type="headword" sloleks="LE_5ff247e4b87b20f9656f45457b48521a">romb</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_ed37889c1f1dca6ac157151b14a14452">stranico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="razrezati na romb" cluster="1" frequency="12" logDice="7.05">
+              <comp position="1" type="collocate" sloleks="LE_12b7ff1b9583f319a3cefecc86401dbb">razrezati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_5ff247e4b87b20f9656f45457b48521a">romb</comp>
+            </collocation>
+            <collocation form="narezati na romb" cluster="2" frequency="34" logDice="5.69">
+              <comp position="1" type="collocate" sloleks="LE_d980a1f18508c01ef26fd0b325e10a92">narezati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_5ff247e4b87b20f9656f45457b48521a">romb</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="kalifornijski romb" cluster="1" frequency="10" logDice="5.13">
+              <comp position="1" type="collocate" sloleks="LE_e9e8caef7f86cda2f23a4bbd06c9fee0">kalifornijski</comp>
+              <comp position="2" type="headword" sloleks="LE_5ff247e4b87b20f9656f45457b48521a">romb</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="oblika romba" cluster="1" frequency="51" logDice="3.04">
+              <comp position="1" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">oblika</comp>
+              <comp position="2" type="headword" sloleks="LE_5ff247e4b87b20f9656f45457b48521a">romba</comp>
+            </collocation>
+            <collocation form="vzorec romba" cluster="2" frequency="5" logDice="2.56">
+              <comp position="1" type="collocate" sloleks="LE_5042c4687567fc53efbfd828e5440371">vzorec</comp>
+              <comp position="2" type="headword" sloleks="LE_5ff247e4b87b20f9656f45457b48521a">romba</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="16765">drugostopen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">919</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="drugostopen organ" cluster="1" frequency="650" logDice="7.07">
+              <comp position="1" type="headword" sloleks="LE_32e199b716fa4549cf656a2599171435">drugostopen</comp>
+              <comp position="2" type="collocate" sloleks="LE_8562dbeb947da0513f9a50c8151f8a65">organ</comp>
+            </collocation>
+            <collocation form="drugostopna odločba" cluster="2" frequency="131" logDice="6.55">
+              <comp position="1" type="headword" sloleks="LE_32e199b716fa4549cf656a2599171435">drugostopna</comp>
+              <comp position="2" type="collocate" sloleks="LE_100bc75cb89eb96c657f3a2399d648c9">odločba</comp>
+            </collocation>
+            <collocation form="drugostopna sodba" cluster="3" frequency="28" logDice="4.97">
+              <comp position="1" type="headword" sloleks="LE_32e199b716fa4549cf656a2599171435">drugostopna</comp>
+              <comp position="2" type="collocate" sloleks="LE_ba7ab51fa50e0b3e23b9b82cfb40bdf1">sodba</comp>
+            </collocation>
+            <collocation form="drugostopno sodišče" cluster="4" frequency="83" logDice="3.01">
+              <comp position="1" type="headword" sloleks="LE_32e199b716fa4549cf656a2599171435">drugostopno</comp>
+              <comp position="2" type="collocate" sloleks="LE_989f65b9e9021c2bfb10c5161a6e59ab">sodišče</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="drugostopen in/ali prvostopen" cluster="1" frequency="29" logDice="13.72">
+              <comp position="3" type="headword" sloleks="LE_32e199b716fa4549cf656a2599171435">drugostopen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_ac5ece2d7d6c246d7ba41f4be6c1076c">prvostopen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

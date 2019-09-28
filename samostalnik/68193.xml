@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="68193">malar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1117</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="svojga malar" cluster="1" frequency="20" logDice="10.13">
+              <comp position="1" type="collocate" sloleks="">svojga</comp>
+              <comp position="2" type="headword" sloleks="LE_40b433e27d5c16375a0069e1f9657ed0">malar</comp>
+            </collocation>
+            <collocation form="nor malar" cluster="2" frequency="83" logDice="6.36">
+              <comp position="1" type="collocate" sloleks="LE_a23583b5dc9db7b5d672a710f0038177">nor</comp>
+              <comp position="2" type="headword" sloleks="LE_40b433e27d5c16375a0069e1f9657ed0">malar</comp>
+            </collocation>
+            <collocation form="dvoren malar" cluster="3" frequency="11" logDice="5.97">
+              <comp position="1" type="collocate" sloleks="LE_0cb872cd0a7b351ad6c5e368cdfd5d7f">dvoren</comp>
+              <comp position="2" type="headword" sloleks="LE_40b433e27d5c16375a0069e1f9657ed0">malar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="oči malarja" cluster="1" frequency="254" logDice="8.56">
+              <comp position="1" type="collocate" sloleks="LE_6e683e53145b35a6cbb44ad1188b7a9f|LE_f7836a137770b18301878166ca9f053f">oči</comp>
+              <comp position="2" type="headword" sloleks="LE_40b433e27d5c16375a0069e1f9657ed0">malarja</comp>
+            </collocation>
+            <collocation form="maja malarja" cluster="2" frequency="15" logDice="8.13">
+              <comp position="1" type="collocate" sloleks="LE_ff59b954319a5c2f6c0e9579e09eaefe">maja</comp>
+              <comp position="2" type="headword" sloleks="LE_40b433e27d5c16375a0069e1f9657ed0">malarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

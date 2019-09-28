@@ -1,0 +1,709 @@
+<entry>
+  <header>
+    <lexical_unit id="3339">obraniti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">5457</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ brez sbz2">
+          <collocations>
+            <collocation form="obraniti brez težave" cluster="1" frequency="19" logDice="4.16">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težave</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ do sbz2">
+          <collocations>
+            <collocation form="obraniti do cilja" cluster="1" frequency="4" logDice="4.1">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_b464dad2fdf74c26f763918a785d788e">cilja</comp>
+            </collocation>
+            <collocation form="obraniti do konca" cluster="2" frequency="9" logDice="1.95">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_d8d1737076777d9839ea949a2b88751a">konca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="obraniti na način" cluster="1" frequency="12" logDice="1.1">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_78347f5e8e1e11f66d26223c13ba02df">način</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="obraniti na univerzi" cluster="1" frequency="4" logDice="3.57">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_93f79e5817acbd9f06e5ebd6a1b0a66e">univerzi</comp>
+            </collocation>
+            <collocation form="obraniti na fakulteti" cluster="2" frequency="4" logDice="3.4">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_00551f6b0565bbceaf188a9fddd79b4d">fakulteti</comp>
+            </collocation>
+            <collocation form="obraniti na tekmi" cluster="3" frequency="10" logDice="2.08">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_569dcc42a5a400bab2106b20777ed55f">tekmi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ pred sbz4">
+          <collocations>
+            <collocation form="obraniti pred čarovnijo" cluster="1" frequency="4" logDice="13.3">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_380775ccae4533b33dc47eac7df90c03">čarovnijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ pred sbz6">
+          <collocations>
+            <collocation form="obraniti pred agresijo" cluster="1" frequency="5" logDice="8.88">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_f0ba8d05b1f780608a0ec7bf84801fbc">agresijo</comp>
+            </collocation>
+            <collocation form="obraniti pred napadom" cluster="2" frequency="30" logDice="8.75">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_90137343c36c722d5cef55cc198d0e93">napadom</comp>
+            </collocation>
+            <collocation form="obraniti pred boleznijo" cluster="3" frequency="8" logDice="7.24">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_6fa279c9efca851861451ba08fd5fac5">boleznijo</comp>
+            </collocation>
+            <collocation form="obraniti pred posledico" cluster="3" frequency="7" logDice="8.22">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_9e94e198ec2c32de37b2bd7b6e54af2e">posledico</comp>
+            </collocation>
+            <collocation form="obraniti pred nevarnostjo" cluster="3" frequency="4" logDice="6.49">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_748e75bfb8d72b22882f959242b3d560">nevarnostjo</comp>
+            </collocation>
+            <collocation form="obraniti pred inkvizicijo" cluster="4" frequency="4" logDice="8.51">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_d1f8550b12fbb676418972c46aba1675">inkvizicijo</comp>
+            </collocation>
+            <collocation form="obraniti pred nevšečnostjo" cluster="5" frequency="4" logDice="8.44">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_b285592639ffc96cd1e93f2c3cba574b">nevšečnostjo</comp>
+            </collocation>
+            <collocation form="obraniti pred prevzemom" cluster="6" frequency="8" logDice="8.21">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_b2ead7df4b8143cd79c44cccaf330161">prevzemom</comp>
+            </collocation>
+            <collocation form="obraniti pred sovražnikom" cluster="7" frequency="5" logDice="8.12">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_c7e21fd07370d25c0f30c24a9e527af3">sovražnikom</comp>
+            </collocation>
+            <collocation form="obraniti pred tujcem" cluster="7" frequency="4" logDice="8.1">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_0860cd9b487d16ed1fb3a28f1d845667">tujcem</comp>
+            </collocation>
+            <collocation form="obraniti pred turkom" cluster="8" frequency="4" logDice="7.97">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_055306b76ef2af11b883914fc692430f">turkom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="obraniti zlato" cluster="1" frequency="9" logDice="5.04">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_049bf4eaecaacf1c836951133b769cac">zlato</comp>
+            </collocation>
+            <collocation form="obraniti kar" cluster="2" frequency="148" logDice="3.13">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_c135f6fe8de5dfaaa58b36300e2bf493">kar</comp>
+            </collocation>
+            <collocation form="obraniti nekaj" cluster="2" frequency="52" logDice="1.63">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_eb511b2a8ca41b887db9b389e9bd0591">nekaj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="obraniti strel" cluster="1" frequency="273" logDice="10.28">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_7242f71e5b8cc7afc32db8d1c16c8aa8">strel</comp>
+            </collocation>
+            <collocation form="obraniti gol" cluster="1" frequency="12" logDice="4.35">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_07f7f4e51245be158e8beacfff4fa692">gol</comp>
+            </collocation>
+            <collocation form="obraniti sedemmetrovko" cluster="2" frequency="105" logDice="10.16">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_795e50cd980e99794a8d07cb2ee7f836">sedemmetrovko</comp>
+            </collocation>
+            <collocation form="obraniti enajstmetrovko" cluster="2" frequency="56" logDice="8.76">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_0f48135ac7261815f9b11347cfbd4612">enajstmetrovko</comp>
+            </collocation>
+            <collocation form="obraniti neodvisnost" cluster="3" frequency="20" logDice="6.43">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_536f43d9936358d273b06a002abfdca6">neodvisnost</comp>
+            </collocation>
+            <collocation form="obraniti samostojnost" cluster="3" frequency="10" logDice="5.94">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_71f3b07a7083d3e135ba4b19f13bc218">samostojnost</comp>
+            </collocation>
+            <collocation form="obraniti napad" cluster="4" frequency="33" logDice="5.81">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_90137343c36c722d5cef55cc198d0e93">napad</comp>
+            </collocation>
+            <collocation form="obraniti poskus" cluster="4" frequency="21" logDice="6.25">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_19dcd14233df546347e75246f46de4c4">poskus</comp>
+            </collocation>
+            <collocation form="obraniti majico" cluster="5" frequency="23" logDice="6.21">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_ef405a21715b558fe0f3c638e093f863">majico</comp>
+            </collocation>
+            <collocation form="obraniti krono" cluster="6" frequency="7" logDice="5.52">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_7fcc9e06df66403e480f231db6f2c5e3">krono</comp>
+            </collocation>
+            <collocation form="obraniti mejo" cluster="7" frequency="15" logDice="3.97">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_9f2a02329b99f686c0effa70a70cb37f">mejo</comp>
+            </collocation>
+            <collocation form="obraniti ozemlje" cluster="7" frequency="9" logDice="5.49">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_9007e9290e44aa3687c178bea8badf75">ozemlje</comp>
+            </collocation>
+            <collocation form="obraniti območje" cluster="7" frequency="4" logDice="3.01">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_637bb12e70b217aeada98e77f3559b30">območje</comp>
+            </collocation>
+            <collocation form="obraniti celovitost" cluster="8" frequency="4" logDice="5.41">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_c8390972a4ef5588506215f7d75fe717">celovitost</comp>
+            </collocation>
+            <collocation form="obraniti prednost" cluster="9" frequency="66" logDice="5.37">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_2b6030fb5e32724dd65bb3d0f14f9129">prednost</comp>
+            </collocation>
+            <collocation form="obraniti priložnost" cluster="9" frequency="11" logDice="2.33">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_603b647f30f702ed4697c3b9926b382f">priložnost</comp>
+            </collocation>
+            <collocation form="obraniti naskok" cluster="10" frequency="4" logDice="5.32">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_5106916ea787887994133a166177f63d">naskok</comp>
+            </collocation>
+            <collocation form="obraniti trdnjavo" cluster="11" frequency="4" logDice="5.31">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_1d2f4bb3c144631c50c3b2cfd8af98e8">trdnjavo</comp>
+            </collocation>
+            <collocation form="obraniti pokal" cluster="12" frequency="14" logDice="5.21">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_d17e6624973c79af10602120ecbf8483">pokal</comp>
+            </collocation>
+            <collocation form="obraniti tezo" cluster="13" frequency="8" logDice="5.2">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_8f98e42ab3139b15f8df634c5136a89e">tezo</comp>
+            </collocation>
+            <collocation form="obraniti položaj" cluster="14" frequency="28" logDice="4.3">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_0227904f3ee297f8f6c33b433ba96e65">položaj</comp>
+            </collocation>
+            <collocation form="obraniti interes" cluster="14" frequency="19" logDice="4.41">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_852d4c3cd2b3cd0cc21c88ad76a6c9a7">interes</comp>
+            </collocation>
+            <collocation form="obraniti vrednoto" cluster="14" frequency="10" logDice="5.18">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_a9a487406cac0fb4290599f62f8f14c3">vrednoto</comp>
+            </collocation>
+            <collocation form="obraniti pravico" cluster="14" frequency="8" logDice="1.46">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_8c0e472df622ea735bcaed6544ab6130">pravico</comp>
+            </collocation>
+            <collocation form="obraniti svobodo" cluster="14" frequency="6" logDice="3.92">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_f2f25505d5bc8c549facef02b8fbcc04">svobodo</comp>
+            </collocation>
+            <collocation form="obraniti dostojanstvo" cluster="15" frequency="5" logDice="5.15">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_964885ff54661aaa3c63e363241f44f4">dostojanstvo</comp>
+            </collocation>
+            <collocation form="obraniti sloves" cluster="16" frequency="8" logDice="5.1">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_35c269a65c00bd6e19e6e1770c565e4e">sloves</comp>
+            </collocation>
+            <collocation form="obraniti žogo" cluster="17" frequency="20" logDice="4.96">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_5acedd5f09306ad160787c9606bc85a0">žogo</comp>
+            </collocation>
+            <collocation form="obraniti privilegij" cluster="18" frequency="4" logDice="4.71">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_dfc7929617fc383c994b74db2521b52f">privilegij</comp>
+            </collocation>
+            <collocation form="obraniti mesto" cluster="19" frequency="79" logDice="4.1">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesto</comp>
+            </collocation>
+            <collocation form="obraniti Slovenijo" cluster="19" frequency="22" logDice="4.64">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Slovenijo</comp>
+            </collocation>
+            <collocation form="obraniti državo" cluster="19" frequency="18" logDice="3.89">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">državo</comp>
+            </collocation>
+            <collocation form="obraniti delo" cluster="19" frequency="8" logDice="0.83">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+            </collocation>
+            <collocation form="obraniti Evropo" cluster="19" frequency="6" logDice="4.52">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_0c70d71bb49cb550bb4e854282407723">Evropo</comp>
+            </collocation>
+            <collocation form="obraniti dom" cluster="19" frequency="6" logDice="2.94">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">dom</comp>
+            </collocation>
+            <collocation form="obraniti Ljubljano" cluster="19" frequency="5" logDice="4.7">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_ee11c4f6f901052d38c8252202477c9e">Ljubljano</comp>
+            </collocation>
+            <collocation form="obraniti vlado" cluster="19" frequency="5" logDice="2.57">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_63d183132c68728be91773043828fb2d">vlado</comp>
+            </collocation>
+            <collocation form="obraniti družino" cluster="19" frequency="4" logDice="2.44">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_9a7d912c8ec5a6cbc42d2975b5563b34">družino</comp>
+            </collocation>
+            <collocation form="obraniti prostor" cluster="19" frequency="4" logDice="0.83">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostor</comp>
+            </collocation>
+            <collocation form="obraniti strelo" cluster="20" frequency="31" logDice="8.33">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_88e8aae1402f4f6c565e2d46b6364154">strelo</comp>
+            </collocation>
+            <collocation form="obraniti naslov" cluster="21" frequency="418" logDice="7.81">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_1aca8621567cc70c42163dfa35048969">naslov</comp>
+            </collocation>
+            <collocation form="obraniti vodstvo" cluster="21" frequency="14" logDice="4.63">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_cfbf3b6eda6e115103a1a0b3fa68f541">vodstvo</comp>
+            </collocation>
+            <collocation form="obraniti ime" cluster="21" frequency="13" logDice="2.75">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">ime</comp>
+            </collocation>
+            <collocation form="obraniti zmago" cluster="22" frequency="35" logDice="4.38">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_508bb96f40e25186ee8d1a812b97170d">zmago</comp>
+            </collocation>
+            <collocation form="obraniti točko" cluster="22" frequency="8" logDice="2.33">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_bb52716a00bd608f858395465b1c985a">točko</comp>
+            </collocation>
+            <collocation form="obraniti naziv" cluster="23" frequency="7" logDice="3.94">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_c41a5bfe21c18c3ce31490d5080df16e">naziv</comp>
+            </collocation>
+            <collocation form="obraniti disertacijo" cluster="24" frequency="22" logDice="7.97">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_2b61b3f09b0ecba3b4270f13fb15f805">disertacijo</comp>
+            </collocation>
+            <collocation form="obraniti lovoriko" cluster="25" frequency="22" logDice="6.68">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_bdc4ba273f413e35db86cb05fbcc7cae">lovoriko</comp>
+            </collocation>
+            <collocation form="obraniti medaljo" cluster="25" frequency="5" logDice="3.84">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_c88cd3fc7961c7c9eaf6080f86b4f629">medaljo</comp>
+            </collocation>
+            <collocation form="obraniti kolajno" cluster="25" frequency="4" logDice="3.22">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_73907943eee1adf3b6e0d83bc3fbc191">kolajno</comp>
+            </collocation>
+            <collocation form="obraniti kazen" cluster="26" frequency="10" logDice="3.78">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_8fa53f030173ede6213a1a3aa5c8d7a6">kazen</comp>
+            </collocation>
+            <collocation form="obraniti mrežo" cluster="27" frequency="8" logDice="3.74">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_efc57fb68a1d47e16c5af7d40e967e9a">mrežo</comp>
+            </collocation>
+            <collocation form="obraniti zemljo" cluster="28" frequency="4" logDice="3.12">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_9f4cbbb2b72bac81739b4274ec0514cc">zemljo</comp>
+            </collocation>
+            <collocation form="obraniti domovino" cluster="29" frequency="42" logDice="7.87">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_7d718745ccbf88d3f79303ff4baaac6b">domovino</comp>
+            </collocation>
+            <collocation form="obraniti delež" cluster="30" frequency="4" logDice="1.62">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_8f8dbfe55e81431b97506b6dc95f9da4">delež</comp>
+            </collocation>
+            <collocation form="obraniti število" cluster="30" frequency="4" logDice="1.56">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_59f757c87d8de95cdfd38f88b75245a6">število</comp>
+            </collocation>
+            <collocation form="obraniti čast" cluster="31" frequency="50" logDice="7.6">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_31ca04dbfc5eb763c2e89cd4ba9a0eaf">čast</comp>
+            </collocation>
+            <collocation form="obraniti poizkus" cluster="32" frequency="8" logDice="6.68">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_b673e487a72726275318c52041c3bb10">poizkus</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="obraniti v podaljšku" cluster="1" frequency="4" logDice="5.22">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_a1d3e308f46f205e661eb67add922d6c">podaljšku</comp>
+            </collocation>
+            <collocation form="obraniti v minuti" cluster="2" frequency="55" logDice="4.5">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_4dbac25ecbcde2d4ad6049424d74db15">minuti</comp>
+            </collocation>
+            <collocation form="obraniti v sekundi" cluster="2" frequency="7" logDice="4.87">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_28f8e53821d818c4ccde6b78f182c4c0">sekundi</comp>
+            </collocation>
+            <collocation form="obraniti v trenutku" cluster="2" frequency="4" logDice="0.58">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_20e42f7c3b00f5a4a38e89957060a1f2">trenutku</comp>
+            </collocation>
+            <collocation form="obraniti v tekmi" cluster="3" frequency="6" logDice="2.84">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_569dcc42a5a400bab2106b20777ed55f">tekmi</comp>
+            </collocation>
+            <collocation form="obraniti v sezoni" cluster="3" frequency="6" logDice="1.34">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_e4683b52a3640372e171726e214d12fb">sezoni</comp>
+            </collocation>
+            <collocation form="obraniti v akciji" cluster="4" frequency="9" logDice="4.57">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_c6314b87ee5075309a505f26f656ecbd">akciji</comp>
+            </collocation>
+            <collocation form="obraniti v delu" cluster="4" frequency="8" logDice="2.22">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_7ec85158e392e2a539875a30cf8d3436">delu</comp>
+            </collocation>
+            <collocation form="obraniti v knjigi" cluster="4" frequency="7" logDice="3.11">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_fcbd23f52ef0d5c8f302f9c1ba64a0e3">knjigi</comp>
+            </collocation>
+            <collocation form="obraniti v polčasu" cluster="5" frequency="18" logDice="4.75">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_08ce5d09287b1a9e36412ae4cb95c28e">polčasu</comp>
+            </collocation>
+            <collocation form="obraniti v končnici" cluster="5" frequency="4" logDice="4.06">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_5b00b0ee561ec233d3a758e7de54f741">končnici</comp>
+            </collocation>
+            <collocation form="obraniti v tretjini" cluster="6" frequency="4" logDice="4.58">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_15b0bd6adeaf2703f3cb268e8000372c">tretjini</comp>
+            </collocation>
+            <collocation form="obraniti v seriji" cluster="7" frequency="4" logDice="3.77">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_7024b0f285ec3f777bbcddad6033b4b0">seriji</comp>
+            </collocation>
+            <collocation form="obraniti v slogu" cluster="7" frequency="4" logDice="3.05">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_65244e80aea10cbd65a5e9b0824c3fdb">slogu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="obraniti s sekiro" cluster="1" frequency="5" logDice="6.74">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_4252d89049418d0299c0929ad93c7dfc">sekiro</comp>
+            </collocation>
+            <collocation form="obraniti s težavo" cluster="2" frequency="15" logDice="4.38">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težavo</comp>
+            </collocation>
+            <collocation form="obraniti s močjo" cluster="2" frequency="6" logDice="3.61">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_0b71c85c50e39f2c8cb5e91791d67af9">močjo</comp>
+            </collocation>
+            <collocation form="obraniti z lahkoto" cluster="3" frequency="9" logDice="4.23">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_1775909f19f3cbcca70406484db6a28e">lahkoto</comp>
+            </collocation>
+            <collocation form="obraniti z roko" cluster="4" frequency="6" logDice="2.42">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_5fa1bf1096bd6c7b00158af4c43b33b3">roko</comp>
+            </collocation>
+            <collocation form="obraniti z nogo" cluster="4" frequency="5" logDice="4.16">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_85bf97bb223851882a947ddf0be6aea7">nogo</comp>
+            </collocation>
+            <collocation form="obraniti z igralcem" cluster="5" frequency="4" logDice="3.85">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_c5f3764dd8399d57d5e0481ee84f7da6">igralcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="obraniti za ceno" cluster="1" frequency="10" logDice="4.49">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_69b40aa886598a40e47070a0270e9b28">ceno</comp>
+            </collocation>
+            <collocation form="obraniti za zmago" cluster="2" frequency="7" logDice="3.98">
+              <comp position="1" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_508bb96f40e25186ee8d1a812b97170d">zmago</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz INF-GBZ">
+          <collocations>
+            <collocation form="uspeti obraniti" cluster="1" frequency="159" logDice="5.07">
+              <comp position="1" type="collocate" sloleks="LE_f74450fd8cda7d6b987934ed6da89908">uspeti</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="znati obraniti" cluster="1" frequency="33" logDice="2.98">
+              <comp position="1" type="collocate" sloleks="LE_6feb882845b743bbe44baa4fc144910c">znati</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="moči obraniti" cluster="1" frequency="22" logDice="2.08">
+              <comp position="1" type="collocate" sloleks="LE_d0d5036f97e772cb509411764a3a7f9e">moči</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="pomagati obraniti" cluster="1" frequency="11" logDice="2.6">
+              <comp position="1" type="collocate" sloleks="LE_2fc43d313cb40b86ed2a370a430e93c1">pomagati</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="zmoči obraniti" cluster="1" frequency="8" logDice="3.99">
+              <comp position="1" type="collocate" sloleks="LE_a1f2d5d1898f9720764eded7319875fb">zmoči</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="skušati obraniti" cluster="2" frequency="66" logDice="4.1">
+              <comp position="1" type="collocate" sloleks="LE_215674d5e3ac8fdf9f325a2607209864">skušati</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="poskušati obraniti" cluster="2" frequency="47" logDice="3.54">
+              <comp position="1" type="collocate" sloleks="LE_9c7f2d72d37d6705eaaa7d06ef424fb1">poskušati</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="želeti obraniti" cluster="2" frequency="42" logDice="2.03">
+              <comp position="1" type="collocate" sloleks="LE_17ffd1287d6ed148bbb9efebc7ef0868">želeti</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="hoteti obraniti" cluster="2" frequency="25" logDice="1.73">
+              <comp position="1" type="collocate" sloleks="LE_241ed9c84c6998d75befbc0c88f7151e">hoteti</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="dati obraniti" cluster="2" frequency="5" logDice="1.29">
+              <comp position="1" type="collocate" sloleks="LE_251860b7395e9bef61ae04eb36d0639d">dati</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="poskusiti obraniti" cluster="3" frequency="8" logDice="3.59">
+              <comp position="1" type="collocate" sloleks="LE_7e92cd7b4394851a1d8e376ad67990f2">poskusiti</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="truditi obraniti" cluster="4" frequency="6" logDice="3.53">
+              <comp position="1" type="collocate" sloleks="LE_92550d3fd5a172cd81bd62e134e23aef">truditi</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz INF-GBZ">
+          <collocations>
+            <collocation form="ne uspeti obraniti" cluster="1" frequency="37" logDice="4.77">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_f74450fd8cda7d6b987934ed6da89908">uspeti</comp>
+              <comp position="3" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="ne zmoči obraniti" cluster="2" frequency="6" logDice="4.52">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_a1f2d5d1898f9720764eded7319875fb">zmoči</comp>
+              <comp position="3" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="ne dati obraniti" cluster="3" frequency="4" logDice="2.69">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_251860b7395e9bef61ae04eb36d0639d">dati</comp>
+              <comp position="3" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="ne znati obraniti" cluster="4" frequency="5" logDice="1.85">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_6feb882845b743bbe44baa4fc144910c">znati</comp>
+              <comp position="3" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="ne moči obraniti" cluster="5" frequency="41" logDice="1.29">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_d0d5036f97e772cb509411764a3a7f9e">moči</comp>
+              <comp position="3" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz SBZ2">
+          <collocations>
+            <collocation form="ne obraniti naslova" cluster="1" frequency="11" logDice="7.78">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+              <comp position="3" type="collocate" sloleks="LE_1aca8621567cc70c42163dfa35048969">naslova</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="odlično obraniti" cluster="1" frequency="34" logDice="4.53">
+              <comp position="1" type="collocate" sloleks="LE_69856d5b8c174a0b8796f8f89b34859b">odlično</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="mojstrsko obraniti" cluster="1" frequency="21" logDice="7.55">
+              <comp position="1" type="collocate" sloleks="LE_3755751dfe7330f22be3a7d27776af76">mojstrsko</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="izvrstno obraniti" cluster="1" frequency="14" logDice="6.22">
+              <comp position="1" type="collocate" sloleks="LE_e00c632212fd2eb6940eade430491a68">izvrstno</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="sijajno obraniti" cluster="1" frequency="8" logDice="6.27">
+              <comp position="1" type="collocate" sloleks="LE_7df1a4421aeb00d0351f99e0acc104c7">sijajno</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="čudežno obraniti" cluster="2" frequency="22" logDice="7.32">
+              <comp position="1" type="collocate" sloleks="LE_378a92898b6c3efb9c5e2abbecf798aa">čudežno</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="zanesljivo obraniti" cluster="3" frequency="19" logDice="4.58">
+              <comp position="1" type="collocate" sloleks="LE_7560c1c6fb6eb24f4027216ddd244990">zanesljivo</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="zlahka obraniti" cluster="3" frequency="13" logDice="3.84">
+              <comp position="1" type="collocate" sloleks="LE_ebc31a7d1da956cdbb39e94e32d45b5e">zlahka</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="stežka obraniti" cluster="3" frequency="6" logDice="4.77">
+              <comp position="1" type="collocate" sloleks="LE_792c30a117258e54cb756bb9a23026f1">stežka</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="zapored obraniti" cluster="4" frequency="11" logDice="3.98">
+              <comp position="1" type="collocate" sloleks="LE_d571ecab273b81540fa1021a9b6ecdd9">zapored</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="drugič obraniti" cluster="4" frequency="6" logDice="3.55">
+              <comp position="1" type="collocate" sloleks="LE_e385b216fed6fecf663197faba506adb">drugič</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="takole obraniti" cluster="5" frequency="6" logDice="3.34">
+              <comp position="1" type="collocate" sloleks="LE_33165da64364c4f722308cf50db09471">takole</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="kako obraniti" cluster="6" frequency="39" logDice="0.85">
+              <comp position="1" type="collocate" sloleks="LE_c6fd8628f731e3e158dc366537c82f5f">kako</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="najprej obraniti" cluster="6" frequency="28" logDice="1.97">
+              <comp position="1" type="collocate" sloleks="LE_4e4e52d939b2c76f59cb0093c64e5c98">najprej</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="nato obraniti" cluster="6" frequency="21" logDice="1.72">
+              <comp position="1" type="collocate" sloleks="LE_48b590fef344f946aab71b9b67d40282">nato</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="nekako obraniti" cluster="6" frequency="10" logDice="2.63">
+              <comp position="1" type="collocate" sloleks="LE_a96326ed8c158842276cc429a0b285f7">nekako</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="znova obraniti" cluster="6" frequency="9" logDice="0.94">
+              <comp position="1" type="collocate" sloleks="LE_4f000489fb7f7a863547f5ae46af4f41">znova</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="delno obraniti" cluster="6" frequency="7" logDice="3.12">
+              <comp position="1" type="collocate" sloleks="LE_87e833a2c94c4909c5b795940c0b81c6">delno</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="dvakrat obraniti" cluster="6" frequency="6" logDice="2.36">
+              <comp position="1" type="collocate" sloleks="LE_602c564da660b0177b4c9ca91f86275e">dvakrat</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="skupaj obraniti" cluster="6" frequency="6" logDice="0.23">
+              <comp position="1" type="collocate" sloleks="LE_6b2c35f4f994f6854f5f57d777267a77">skupaj</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="uspešno obraniti" cluster="7" frequency="127" logDice="5.37">
+              <comp position="1" type="collocate" sloleks="LE_1261ffe39150e62ae7fb3419f7a831f4">uspešno</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="težko obraniti" cluster="7" frequency="34" logDice="2.31">
+              <comp position="1" type="collocate" sloleks="LE_1b2258380d2b90f394d61087a8c6ff51">težko</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="dobro obraniti" cluster="7" frequency="26" logDice="0.82">
+              <comp position="1" type="collocate" sloleks="LE_43e8da3e283609f4de7cfdb7a3e3a938">dobro</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="lepo obraniti" cluster="7" frequency="16" logDice="2.25">
+              <comp position="1" type="collocate" sloleks="LE_d01061f4e29d96c6aa9cb7941b715be1">lepo</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="učinkovito obraniti" cluster="7" frequency="11" logDice="4.02">
+              <comp position="1" type="collocate" sloleks="LE_874d48a5a96b3eaa58698f8f9a1dcb52">učinkovito</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="lahko obraniti" cluster="8" frequency="93" logDice="0.52">
+              <comp position="1" type="collocate" sloleks="LE_4c3da54cd55e36d337ad4ebe20d667c9">lahko</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+            <collocation form="tako obraniti" cluster="8" frequency="38" logDice="0.34">
+              <comp position="1" type="collocate" sloleks="LE_a43856b7d4097e8e3ab29718abb1acb7">tako</comp>
+              <comp position="2" type="headword" sloleks="LE_6576f7ec5be986179b14fe64fae95fa3">obraniti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

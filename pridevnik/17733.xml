@@ -1,0 +1,626 @@
+<entry>
+  <header>
+    <lexical_unit id="17733">financiran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">4616</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 do sbz2">
+          <collocations>
+            <collocation form="financiran do odstotka" cluster="1" frequency="4" logDice="8.44">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_11ff641b777a9bdc2060c997d306c118">odstotka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="financiran ali sofinanciran" cluster="1" frequency="8" logDice="10.82">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_d1bf00601a4e3c31ef31f27a4605cee0">sofinanciran</comp>
+            </collocation>
+            <collocation form="financiran in/ali organiziran" cluster="2" frequency="16" logDice="7.55">
+              <comp position="3" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_68b134880363d887c74e9a88edb4c332">organiziran</comp>
+              </collocation>
+            <collocation form="financiran in/ali ustanovljen" cluster="2" frequency="12" logDice="10.32">
+              <comp position="3" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_3ee2730029e81313727bedf8b1f2f932">ustanovljen</comp>
+              </collocation>
+            <collocation form="financiran in/ali odobren" cluster="3" frequency="6" logDice="8.83">
+              <comp position="3" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_36141a5ce5df74a65ea2d5b3af115bb4">odobren</comp>
+              </collocation>
+            <collocation form="financiran in/ali priznan" cluster="4" frequency="6" logDice="6.21">
+              <comp position="3" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_666e6361b81942ddc6013aa3d5e020b2">priznan</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 iz sbz2">
+          <collocations>
+            <collocation form="financiran iz sredstva" cluster="1" frequency="364" logDice="12.32">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_94c4f4cf5104632466509789b5cde032">sredstva</comp>
+            </collocation>
+            <collocation form="financiran iz programa" cluster="1" frequency="48" logDice="9.85">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_2da10dc9e8a0e2ff7fd5a1ddd0278e88">programa</comp>
+            </collocation>
+            <collocation form="financiran iz denarja" cluster="1" frequency="43" logDice="9.97">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denarja</comp>
+            </collocation>
+            <collocation form="financiran iz dela" cluster="1" frequency="4" logDice="6.1">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">dela</comp>
+            </collocation>
+            <collocation form="financiran iz države" cluster="1" frequency="4" logDice="5.59">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">države</comp>
+            </collocation>
+            <collocation form="financiran iz proračuna" cluster="2" frequency="342" logDice="12.13">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_a8a062f558dfe355f6b245913044e112">proračuna</comp>
+            </collocation>
+            <collocation form="financiran iz sklada" cluster="2" frequency="104" logDice="10.98">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_799c26a9ef189681d32106d72cb282a0">sklada</comp>
+            </collocation>
+            <collocation form="financiran iz EU" cluster="2" frequency="9" logDice="7.82">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_f4a4c4f250b57db7b964fb76e0012f0b|LE_2b43a390ffa3cfc6540d755cac383a5e">EU</comp>
+            </collocation>
+            <collocation form="financiran iz tujine" cluster="2" frequency="4" logDice="6.33">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_a190901c862adb8e32b97ac0e742f967">tujine</comp>
+            </collocation>
+            <collocation form="financiran iz naslova" cluster="3" frequency="12" logDice="7.7">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_1aca8621567cc70c42163dfa35048969">naslova</comp>
+            </collocation>
+            <collocation form="financiran iz strani" cluster="3" frequency="9" logDice="7.56">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_4432316ca39663f747c84fc21ac8e398">strani</comp>
+            </collocation>
+            <collocation form="financiran iz donacije" cluster="4" frequency="7" logDice="7.53">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_0439c0037964c06e4d4111a82bc9e9e1">donacije</comp>
+            </collocation>
+            <collocation form="financiran iz financ" cluster="5" frequency="7" logDice="7.52">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_1f0bf268c9bf41e662eb967104df6e53">financ</comp>
+            </collocation>
+            <collocation form="financiran iz prispevka" cluster="6" frequency="9" logDice="7.78">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_31b4b9d1edb0c5ea202549e0e4e23e81">prispevka</comp>
+            </collocation>
+            <collocation form="financiran iz davka" cluster="6" frequency="7" logDice="7.51">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_d770237b6bddbefb51b670883ef45a45">davka</comp>
+            </collocation>
+            <collocation form="financiran iz prihodka" cluster="6" frequency="6" logDice="7.27">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_de5cc1b7caa91ade1bbe042baed0e9ad">prihodka</comp>
+            </collocation>
+            <collocation form="financiran iz dobička" cluster="6" frequency="5" logDice="6.96">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_b791a9bb45ba4e9de1faf611b3045015">dobička</comp>
+            </collocation>
+            <collocation form="financiran iz zavarovanja" cluster="6" frequency="5" logDice="6.86">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_22172da81af87a2ec8c76198028b9162">zavarovanja</comp>
+            </collocation>
+            <collocation form="financiran iz žepa" cluster="7" frequency="7" logDice="7.39">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_6c4917b1d9c4253494176700e4c1e611">žepa</comp>
+            </collocation>
+            <collocation form="financiran iz spodbude" cluster="8" frequency="5" logDice="7.05">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_be3ff9625bbeef983024420027d7a0df">spodbude</comp>
+            </collocation>
+            <collocation form="financiran iz fonda" cluster="9" frequency="5" logDice="7.01">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_0f58aa7e6a7441083adf961e22c1148b">fonda</comp>
+            </collocation>
+            <collocation form="financiran iz postavke" cluster="10" frequency="5" logDice="6.99">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_ad22b33a09b7e4522ac3d3d193efc058">postavke</comp>
+            </collocation>
+            <collocation form="financiran iz razpisa" cluster="11" frequency="5" logDice="6.96">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_16f1b539d449294ce50f32e01f7f0595">razpisa</comp>
+            </collocation>
+            <collocation form="financiran iz članarine" cluster="12" frequency="12" logDice="8.27">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_1392d31670f3ec8c206cc3848d24e9c9">članarine</comp>
+            </collocation>
+            <collocation form="financiran iz šolnine" cluster="12" frequency="4" logDice="6.73">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_f38c19d0dc352b18aa6d9b62d1ca55c7">šolnine</comp>
+            </collocation>
+            <collocation form="financiran iz vira" cluster="13" frequency="76" logDice="10.33">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_f2868b5fa7700f4f1a6833f2b2436164">vira</comp>
+            </collocation>
+            <collocation form="financiran iz blagajne" cluster="14" frequency="13" logDice="8.32">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_a4fd964a27b3287a6b165c78ddf79ab1">blagajne</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 na sbz4">
+          <collocations>
+            <collocation form="financiran na način" cluster="1" frequency="17" logDice="5.89">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_78347f5e8e1e11f66d26223c13ba02df">način</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 na sbz5">
+          <collocations>
+            <collocation form="financiran na podlagi" cluster="1" frequency="18" logDice="5.34">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_e6e88eb8a2a7234da435310d47275f97">podlagi</comp>
+            </collocation>
+            <collocation form="financiran na ravni" cluster="2" frequency="4" logDice="5.21">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_1c5879ca919226df3e61cfd0d36941e3">ravni</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 od sbz2">
+          <collocations>
+            <collocation form="financiran od ministrstva" cluster="1" frequency="5" logDice="9.33">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_f330212ca20ea9e446e2adab59f8519d">ministrstva</comp>
+            </collocation>
+            <collocation form="financiran od države" cluster="2" frequency="14" logDice="7.86">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">države</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 po sbz5">
+          <collocations>
+            <collocation form="financiran po dvanajstini" cluster="1" frequency="4" logDice="11.02">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_02f5443e6b37f220b44289114bcdcfb9">dvanajstini</comp>
+            </collocation>
+            <collocation form="financiran po kriteriju" cluster="2" frequency="4" logDice="8.15">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_9e82d78896e1cfd4a1d042160ff1b4ff">kriteriju</comp>
+            </collocation>
+            <collocation form="financiran po zakonu" cluster="3" frequency="7" logDice="6.74">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_b3ce668b2bbbbdfa905463c113c05551">zakonu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 preko sbz2">
+          <collocations>
+            <collocation form="financiran preko dajatve" cluster="1" frequency="4" logDice="12.41">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_1c83663f90b7fc783fcad1a8fcc7d1b3">preko</comp>
+              <comp position="3" type="collocate" sloleks="LE_acf927efc9b1316e065ccb8646e81ba9">dajatve</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 rbz">
+          <collocations>
+            <collocation form="financiran stoodstotno" cluster="1" frequency="15" logDice="10.13">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="collocate" sloleks="">stoodstotno</comp>
+            </collocation>
+            <collocation form="financiran direktno" cluster="2" frequency="16" logDice="9.72">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_99c091f0cb071409828a3fbc2fd92876">direktno</comp>
+            </collocation>
+            <collocation form="financiran neposredno" cluster="2" frequency="16" logDice="7.17">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_f4baee16770b9414bad0fbf607024105">neposredno</comp>
+            </collocation>
+            <collocation form="financiran nelegalno" cluster="3" frequency="7" logDice="9.47">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_3df8fc30b4f1052e686ab7353ca781ca">nelegalno</comp>
+            </collocation>
+            <collocation form="financiran nezakonito" cluster="3" frequency="6" logDice="7.67">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_d02f1c5a5cc420bb6a7d0aa311816a48">nezakonito</comp>
+            </collocation>
+            <collocation form="financiran izključno" cluster="4" frequency="25" logDice="6.82">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_9094d5d5663045696cc79d5ebe64e63a">izključno</comp>
+            </collocation>
+            <collocation form="financiran pretežno" cluster="4" frequency="15" logDice="8.15">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_3fba79f7907b034134324d67897e3dcb">pretežno</comp>
+            </collocation>
+            <collocation form="financiran glede" cluster="5" frequency="11" logDice="4.76">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_ad08ee24f2676cfcdba164f6aa241772">glede</comp>
+            </collocation>
+            <collocation form="financiran tako" cluster="6" frequency="18" logDice="3.13">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_a43856b7d4097e8e3ab29718abb1acb7">tako</comp>
+            </collocation>
+            <collocation form="financiran več" cluster="6" frequency="6" logDice="2.44">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_35a40117ea9b0ca39c7a43d940592d29">več</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="financirana vrednost" cluster="1" frequency="183" logDice="5.08">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_aa6bad87e3fba76f27f4242d3cb9a383">vrednost</comp>
+            </collocation>
+            <collocation form="financiran projekt" cluster="2" frequency="131" logDice="4.36">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_a34c0db39bb0196a80c5f3b9f5391fea">projekt</comp>
+            </collocation>
+            <collocation form="financiran program" cluster="2" frequency="67" logDice="2.11">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_2da10dc9e8a0e2ff7fd5a1ddd0278e88">program</comp>
+            </collocation>
+            <collocation form="financirana dejavnost" cluster="3" frequency="21" logDice="1.29">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_7fd9651ddee6b84cd9c853211be163f8">dejavnost</comp>
+            </collocation>
+            <collocation form="financirana storitev" cluster="3" frequency="11" logDice="1.57">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_abb14230c15d4fd66a15377c1ed699a9">storitev</comp>
+            </collocation>
+            <collocation form="financiran film" cluster="4" frequency="15" logDice="0.76">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_ef1ac12433b4b7e1e0c31edb0c726d89">film</comp>
+            </collocation>
+            <collocation form="financiran prevzem" cluster="5" frequency="8" logDice="3.89">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_b2ead7df4b8143cd79c44cccaf330161">prevzem</comp>
+            </collocation>
+            <collocation form="financirana naložba" cluster="6" frequency="13" logDice="2.67">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_7e54578f86482491986bdc333a002cf2">naložba</comp>
+            </collocation>
+            <collocation form="financirana gradnja" cluster="6" frequency="10" logDice="2.91">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_3625065aad7c72d3cd7d1c94e3b12e46">gradnja</comp>
+            </collocation>
+            <collocation form="financirana ustanova" cluster="7" frequency="16" logDice="2.73">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_5f4eb3d0e3657dd63c1157b9cd629a6d">ustanova</comp>
+            </collocation>
+            <collocation form="financiran zavod" cluster="8" frequency="20" logDice="2.71">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_2777d6c1285e9554661aeab8eb5b4753">zavod</comp>
+            </collocation>
+            <collocation form="financirana raziskava" cluster="9" frequency="15" logDice="2.59">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_a52c857738729a3a7a0e2bff72bbb2ac">raziskava</comp>
+            </collocation>
+            <collocation form="financiran odstotek" cluster="10" frequency="8" logDice="1.95">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_11ff641b777a9bdc2060c997d306c118">odstotek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 v sbz5">
+          <collocations>
+            <collocation form="financiran v okviru" cluster="1" frequency="50" logDice="8.19">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_7ad9953b27a13e215544d77e1a778983">okviru</comp>
+            </collocation>
+            <collocation form="financiran v sklopu" cluster="1" frequency="4" logDice="7.04">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_bad9ac9ff6210bd8a301e6432e1b4209">sklopu</comp>
+            </collocation>
+            <collocation form="financiran v višini" cluster="2" frequency="7" logDice="6.88">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_78ed2829f3f80fbcd2bd004af45712e3">višini</comp>
+            </collocation>
+            <collocation form="financiran v celoti" cluster="3" frequency="12" logDice="6.74">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_2b6fa15c45cebff40d7537ca524056db">celoti</comp>
+            </collocation>
+            <collocation form="financiran v meri" cluster="3" frequency="4" logDice="6.47">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_bb15e9b82aee6708602364eaa5091645">meri</comp>
+            </collocation>
+            <collocation form="financiran v skladu" cluster="4" frequency="6" logDice="4.33">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_799c26a9ef189681d32106d72cb282a0">skladu</comp>
+            </collocation>
+            <collocation form="financiran v letu" cluster="5" frequency="6" logDice="3.43">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">letu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 z sbz2">
+          <collocations>
+            <collocation form="financiran s strani" cluster="1" frequency="108" logDice="9.07">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_4432316ca39663f747c84fc21ac8e398">strani</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 z sbz6">
+          <collocations>
+            <collocation form="financiran s sredstvom" cluster="1" frequency="248" logDice="11.56">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_94c4f4cf5104632466509789b5cde032">sredstvom</comp>
+            </collocation>
+            <collocation form="financiran s denarjem" cluster="1" frequency="115" logDice="10.37">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denarjem</comp>
+            </collocation>
+            <collocation form="financiran s pomočjo" cluster="1" frequency="29" logDice="7.82">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_84e3f9e3c4e9e1abf42cc69c125b0b58">pomočjo</comp>
+            </collocation>
+            <collocation form="financiran s virom" cluster="1" frequency="15" logDice="8.87">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_f2868b5fa7700f4f1a6833f2b2436164">virom</comp>
+            </collocation>
+            <collocation form="financiran s prispevkom" cluster="1" frequency="6" logDice="7.49">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_31b4b9d1edb0c5ea202549e0e4e23e81">prispevkom</comp>
+            </collocation>
+            <collocation form="financiran s delom" cluster="1" frequency="4" logDice="4.19">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delom</comp>
+            </collocation>
+            <collocation form="financiran s posojilom" cluster="2" frequency="52" logDice="10.66">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_3948f1046c21233b148c4f2df067a3fc">posojilom</comp>
+            </collocation>
+            <collocation form="financiran s kapitalom" cluster="2" frequency="19" logDice="9.34">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_e4823bcd29751f1be403134ec610a893">kapitalom</comp>
+            </collocation>
+            <collocation form="financiran s kreditom" cluster="2" frequency="12" logDice="8.91">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_e7a5c54b9dd726bb095a88279b8d22a7">kreditom</comp>
+            </collocation>
+            <collocation form="financiran s davkom" cluster="2" frequency="6" logDice="7.5">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_d770237b6bddbefb51b670883ef45a45">davkom</comp>
+            </collocation>
+            <collocation form="financiran s prihodkom" cluster="2" frequency="6" logDice="7.89">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_de5cc1b7caa91ade1bbe042baed0e9ad">prihodkom</comp>
+            </collocation>
+            <collocation form="financiran z izdajo" cluster="3" frequency="4" logDice="7.21">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_7683011bbc418354ce3ad92abaaaca94">izdajo</comp>
+            </collocation>
+            <collocation form="financiran z izkupičkom" cluster="4" frequency="4" logDice="6.76">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_5e667cce728afa636d08d3b6f7aa4bef">izkupičkom</comp>
+            </collocation>
+            <collocation form="financiran z zadolževanjem" cluster="5" frequency="21" logDice="9.89">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_9cfeff5aec31d1607eb33876ed297c5d">zadolževanjem</comp>
+            </collocation>
+            <collocation form="financiran z lizingom" cluster="6" frequency="10" logDice="8.94">
+              <comp position="1" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_6856330e3e0e9ad024a8e38eafb76471">lizingom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="državno financiran" cluster="1" frequency="62" logDice="9.5">
+              <comp position="1" type="collocate" sloleks="LE_eddda4836fe1fd096c05e3ab2a5475fa">državno</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="evropsko financiran" cluster="1" frequency="7" logDice="5.43">
+              <comp position="1" type="collocate" sloleks="LE_7a453cb4c881416b784310e81cc181a3">evropsko</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="zasebno financiran" cluster="2" frequency="21" logDice="8.54">
+              <comp position="1" type="collocate" sloleks="LE_27cabd60a4bfd8a931a033aba82955e2">zasebno</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="delno financiran" cluster="3" frequency="69" logDice="6.5">
+              <comp position="1" type="collocate" sloleks="LE_87e833a2c94c4909c5b795940c0b81c6">delno</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="deloma financiran" cluster="3" frequency="25" logDice="6.57">
+              <comp position="1" type="collocate" sloleks="LE_b96ccfad0744ce7ae41070b938e5988e">deloma</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="večinoma financiran" cluster="3" frequency="23" logDice="4.71">
+              <comp position="1" type="collocate" sloleks="LE_fc80469a48f40b401752963a170b969a">večinoma</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="pretežno financiran" cluster="3" frequency="21" logDice="4.95">
+              <comp position="1" type="collocate" sloleks="LE_3fba79f7907b034134324d67897e3dcb">pretežno</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="največ financiran" cluster="3" frequency="9" logDice="3.42">
+              <comp position="1" type="collocate" sloleks="LE_8d628c69b249ded817d7ad2cae1d9a95">največ</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="dejansko financiran" cluster="3" frequency="6" logDice="3.56">
+              <comp position="1" type="collocate" sloleks="LE_d4db3398f1a82f689037d86b70b766c2">dejansko</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="drugače financiran" cluster="3" frequency="6" logDice="3.2">
+              <comp position="1" type="collocate" sloleks="LE_1940cb5af59315620f694ad96e54c82f">drugače</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="neustrezno financiran" cluster="4" frequency="6" logDice="6.25">
+              <comp position="1" type="collocate" sloleks="LE_2930c20b268a96330f497ae1def7f913">neustrezno</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="javno financiran" cluster="5" frequency="85" logDice="7.57">
+              <comp position="1" type="collocate" sloleks="LE_9b491c373a2c03dacd39956afb8d048a">javno</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="ustrezno financiran" cluster="5" frequency="28" logDice="5.58">
+              <comp position="1" type="collocate" sloleks="LE_a0616e9dd61d3f4a2c19c7de0cb8734f">ustrezno</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="dodatno financiran" cluster="5" frequency="14" logDice="5.25">
+              <comp position="1" type="collocate" sloleks="LE_d87043505ab09df3263269f8fff045d4">dodatno</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="redno financiran" cluster="5" frequency="10" logDice="4.77">
+              <comp position="1" type="collocate" sloleks="LE_35bbe424d330fd280eb80edb9f0c6e56">redno</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="primerno financiran" cluster="5" frequency="7" logDice="3.71">
+              <comp position="1" type="collocate" sloleks="LE_38c51de989c4a28c1019a479487117ed">primerno</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="različno financiran" cluster="5" frequency="6" logDice="4.08">
+              <comp position="1" type="collocate" sloleks="LE_8f0f6f691648bd067ad15c89d8ce0a1c">različno</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="politično financiran" cluster="5" frequency="6" logDice="3.39">
+              <comp position="1" type="collocate" sloleks="LE_9ed772e9e43890262413b22e2ea14bbc">politično</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="neposredno financiran" cluster="6" frequency="19" logDice="5.21">
+              <comp position="1" type="collocate" sloleks="LE_f4baee16770b9414bad0fbf607024105">neposredno</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="lahko financiran" cluster="6" frequency="12" logDice="0.68">
+              <comp position="1" type="collocate" sloleks="LE_4c3da54cd55e36d337ad4ebe20d667c9">lahko</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="doslej financiran" cluster="6" frequency="9" logDice="2.86">
+              <comp position="1" type="collocate" sloleks="LE_b90468941c375c388507ce9cea1e6bfd">doslej</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="vse financiran" cluster="6" frequency="9" logDice="1.21">
+              <comp position="1" type="collocate" sloleks="LE_69e1f6ea0eba690182112fa5f7865561">vse</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="posebej financiran" cluster="6" frequency="7" logDice="1.52">
+              <comp position="1" type="collocate" sloleks="LE_6f32d8a4def4cfd8e9535085f1de4531">posebej</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="zdaj financiran" cluster="6" frequency="6" logDice="1.1">
+              <comp position="1" type="collocate" sloleks="LE_d3f3f0cca65a8d1e1eb9565d50304e21">zdaj</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="letos financiran" cluster="6" frequency="5" logDice="2.28">
+              <comp position="1" type="collocate" sloleks="LE_f92f60b3b9300c7d2f21f6d4ba0ff509">letos</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="stoodstotno financiran" cluster="7" frequency="36" logDice="8.27">
+              <comp position="1" type="collocate" sloleks="">stoodstotno</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="dobro financiran" cluster="8" frequency="25" logDice="2.01">
+              <comp position="1" type="collocate" sloleks="LE_43e8da3e283609f4de7cfdb7a3e3a938">dobro</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="slabo financiran" cluster="8" frequency="16" logDice="3.84">
+              <comp position="1" type="collocate" sloleks="LE_fd42f0b51f77a35ba2a2c56fdecf36e2">slabo</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="premalo financiran" cluster="8" frequency="9" logDice="3.34">
+              <comp position="1" type="collocate" sloleks="LE_97029bd650818206706ec558c787f45e">premalo</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="izdatno financiran" cluster="9" frequency="18" logDice="7.99">
+              <comp position="1" type="collocate" sloleks="LE_12180d9ea82af73af398eadea3dac2e5">izdatno</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="obilno financiran" cluster="9" frequency="5" logDice="6.59">
+              <comp position="1" type="collocate" sloleks="LE_4ad14a105d6dc0d68851e997f1e0aea1">obilno</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="nezadostno financiran" cluster="10" frequency="10" logDice="7.83">
+              <comp position="1" type="collocate" sloleks="LE_08e2f6ff84b433775f947b2fd513babc">nezadostno</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="stabilno financiran" cluster="11" frequency="6" logDice="7.41">
+              <comp position="1" type="collocate" sloleks="LE_3d38f514d6569bcf05b3608ee097f80a">stabilno</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="sistemsko financiran" cluster="12" frequency="8" logDice="7.04">
+              <comp position="1" type="collocate" sloleks="LE_a57be94a03ebdd7dc08f6fa6da040e8c">sistemsko</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+            <collocation form="programsko financiran" cluster="12" frequency="8" logDice="6.77">
+              <comp position="1" type="collocate" sloleks="LE_bc8b52dafc218a9ff37528164f534e04">programsko</comp>
+              <comp position="2" type="headword" sloleks="LE_0bfc5a8d25bf084f0b6e60cca8893443">financiran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

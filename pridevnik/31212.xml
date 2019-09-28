@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="31212">prizanesen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">921</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 z sbz6">
+          <collocations>
+            <collocation form="prizanesen s škandalom" cluster="1" frequency="4" logDice="8.93">
+              <comp position="1" type="headword" sloleks="LE_fcaea3deb3b5656a161b2fc960991ec4">prizanesen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_6394378f2c6325179b5371f232aadcf7">škandalom</comp>
+            </collocation>
+            <collocation form="prizanesen s poškodbo" cluster="2" frequency="4" logDice="8.39">
+              <comp position="1" type="headword" sloleks="LE_fcaea3deb3b5656a161b2fc960991ec4">prizanesen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_0994f5c2b3a70992ee63cf34cf4e3fa1">poškodbo</comp>
+            </collocation>
+            <collocation form="prizanesen z nasiljem" cluster="3" frequency="4" logDice="7.97">
+              <comp position="1" type="headword" sloleks="LE_fcaea3deb3b5656a161b2fc960991ec4">prizanesen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_27b212dc14ebed78971b6a76ad7a5f41">nasiljem</comp>
+            </collocation>
+            <collocation form="prizanesen z boleznijo" cluster="4" frequency="4" logDice="6.72">
+              <comp position="1" type="headword" sloleks="LE_fcaea3deb3b5656a161b2fc960991ec4">prizanesen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_6fa279c9efca851861451ba08fd5fac5">boleznijo</comp>
+            </collocation>
+            <collocation form="prizanesen s težavo" cluster="5" frequency="4" logDice="6.6">
+              <comp position="1" type="headword" sloleks="LE_fcaea3deb3b5656a161b2fc960991ec4">prizanesen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težavo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="doslej prizanesen" cluster="1" frequency="9" logDice="2.89">
+              <comp position="1" type="collocate" sloleks="LE_b90468941c375c388507ce9cea1e6bfd">doslej</comp>
+              <comp position="2" type="headword" sloleks="LE_fcaea3deb3b5656a161b2fc960991ec4">prizanesen</comp>
+            </collocation>
+            <collocation form="nič prizanesen" cluster="2" frequency="7" logDice="2.61">
+              <comp position="1" type="collocate" sloleks="LE_8e90bcbc87a903b29aed9727fd2eee14">nič</comp>
+              <comp position="2" type="headword" sloleks="LE_fcaea3deb3b5656a161b2fc960991ec4">prizanesen</comp>
+            </collocation>
+            <collocation form="zdaj prizanesen" cluster="3" frequency="7" logDice="1.33">
+              <comp position="1" type="collocate" sloleks="LE_d3f3f0cca65a8d1e1eb9565d50304e21">zdaj</comp>
+              <comp position="2" type="headword" sloleks="LE_fcaea3deb3b5656a161b2fc960991ec4">prizanesen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

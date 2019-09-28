@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="65098">košarkaš</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">638</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="srbski košarkaš" cluster="1" frequency="11" logDice="1.74">
+              <comp position="1" type="collocate" sloleks="LE_61652cfd1896737e7a4583998088c114">srbski</comp>
+              <comp position="2" type="headword" sloleks="LE_3bbfcf490bb8a98af81d8d77b395dea8">košarkaš</comp>
+            </collocation>
+            <collocation form="bivši košarkaš" cluster="1" frequency="8" logDice="1.52">
+              <comp position="1" type="collocate" sloleks="LE_2db2293b59177d3c2a3fb8992eee03ea">bivši</comp>
+              <comp position="2" type="headword" sloleks="LE_3bbfcf490bb8a98af81d8d77b395dea8">košarkaš</comp>
+            </collocation>
+            <collocation form="odličen košarkaš" cluster="2" frequency="10" logDice="0.92">
+              <comp position="1" type="collocate" sloleks="LE_5df9e790d0222ba069d884357b717d12">odličen</comp>
+              <comp position="2" type="headword" sloleks="LE_3bbfcf490bb8a98af81d8d77b395dea8">košarkaš</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="žena košarkaša" cluster="1" frequency="12" logDice="4.71">
+              <comp position="1" type="collocate" sloleks="LE_412b2e672422f341e6f8b4b4f03f0f24">žena</comp>
+              <comp position="2" type="headword" sloleks="LE_3bbfcf490bb8a98af81d8d77b395dea8">košarkaša</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,63 @@
+<entry>
+  <header>
+    <lexical_unit id="51922">cof</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1022</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Cof iz grlava" cluster="1" frequency="5" logDice="11.46">
+              <comp position="1" type="headword" sloleks="LE_2ee550c3e5b65d0e5f8def6b5d14c685">Cof</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">grlava</comp>
+            </collocation>
+            <collocation form="Cof iz Ljubljane" cluster="2" frequency="13" logDice="3.43">
+              <comp position="1" type="headword" sloleks="LE_2ee550c3e5b65d0e5f8def6b5d14c685">Cof</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee11c4f6f901052d38c8252202477c9e">Ljubljane</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="živ Cof" cluster="1" frequency="32" logDice="3.59">
+              <comp position="1" type="collocate" sloleks="LE_d631b22ec6f88d4b2d35a791ecefe4f6">živ</comp>
+              <comp position="2" type="headword" sloleks="LE_2ee550c3e5b65d0e5f8def6b5d14c685">Cof</comp>
+            </collocation>
+            <collocation form="bel cof" cluster="2" frequency="25" logDice="1.65">
+              <comp position="1" type="collocate" sloleks="LE_50f9b0a6743feeba2fd5482919490dd5">bel</comp>
+              <comp position="2" type="headword" sloleks="LE_2ee550c3e5b65d0e5f8def6b5d14c685">cof</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="kapa s cofom" cluster="1" frequency="63" logDice="10.52">
+              <comp position="1" type="collocate" sloleks="LE_9bd31b583b4b381f651846ea77816476">kapa</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_2ee550c3e5b65d0e5f8def6b5d14c685">cofom</comp>
+            </collocation>
+            <collocation form="čepica s cofom" cluster="2" frequency="13" logDice="10.09">
+              <comp position="1" type="collocate" sloleks="LE_a9c77437bfa296fc8f80235d705b3ae9">čepica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_2ee550c3e5b65d0e5f8def6b5d14c685">cofom</comp>
+            </collocation>
+            <collocation form="kap s cofom" cluster="3" frequency="4" logDice="9.16">
+              <comp position="1" type="collocate" sloleks="LE_36eaa0962b6ff5bf4f85670f31946b61">kap</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_2ee550c3e5b65d0e5f8def6b5d14c685">cofom</comp>
+            </collocation>
+            <collocation form="kapica s cofom" cluster="4" frequency="4" logDice="8.79">
+              <comp position="1" type="collocate" sloleks="LE_adb1f1a28c4b26802160744a3020a409">kapica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_2ee550c3e5b65d0e5f8def6b5d14c685">cofom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

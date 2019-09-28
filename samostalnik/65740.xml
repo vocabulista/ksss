@@ -1,0 +1,63 @@
+<entry>
+  <header>
+    <lexical_unit id="65740">kristalizacija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">559</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="kristalizacija minerala" cluster="1" frequency="12" logDice="6.89">
+              <comp position="1" type="headword" sloleks="LE_7d5c692e890368121b7e4408fb746a31">kristalizacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_473476a9ad438b222cc33895ded67a41">minerala</comp>
+            </collocation>
+            <collocation form="kristalizacija rudnine" cluster="1" frequency="9" logDice="8.2">
+              <comp position="1" type="headword" sloleks="LE_7d5c692e890368121b7e4408fb746a31">kristalizacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_55c4f1677494de1c9ac87a08d1aafa89">rudnine</comp>
+            </collocation>
+            <collocation form="kristalizacija medu" cluster="2" frequency="15" logDice="5.75">
+              <comp position="1" type="headword" sloleks="LE_7d5c692e890368121b7e4408fb746a31">kristalizacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_f4b7e575d76dd5dfe82733e6e5391923|LE_2fbb04c44a2e16c8454038d7a4825e78">medu</comp>
+            </collocation>
+            <collocation form="kristalizacija soli" cluster="3" frequency="26" logDice="5.7">
+              <comp position="1" type="headword" sloleks="LE_7d5c692e890368121b7e4408fb746a31">kristalizacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_2d8062c4245f77e3286282fe221cfd10">soli</comp>
+            </collocation>
+            <collocation form="proces kristalizacije" cluster="4" frequency="14" logDice="3.09">
+              <comp position="1" type="collocate" sloleks="LE_16c53d1ebb90a9bc6324b676ef5003b8">proces</comp>
+              <comp position="2" type="headword" sloleks="LE_7d5c692e890368121b7e4408fb746a31">kristalizacije</comp>
+            </collocation>
+            <collocation form="postopek kristalizacije" cluster="4" frequency="8" logDice="1.45">
+              <comp position="1" type="collocate" sloleks="LE_775481f1f5ba42be7d6b3125176050cb">postopek</comp>
+              <comp position="2" type="headword" sloleks="LE_7d5c692e890368121b7e4408fb746a31">kristalizacije</comp>
+            </collocation>
+            <collocation form="metoda kristalizacije" cluster="5" frequency="5" logDice="2.49">
+              <comp position="1" type="collocate" sloleks="LE_675bb3300eebea6ea6f395eade13fc2c">metoda</comp>
+              <comp position="2" type="headword" sloleks="LE_7d5c692e890368121b7e4408fb746a31">kristalizacije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz do SBZ2">
+          <collocations>
+            <collocation form="priti do kristalizacije" cluster="1" frequency="10" logDice="0.63">
+              <comp position="1" type="collocate" sloleks="LE_fc339e29cc0e8ec9efe1ef0acdfb11b5">priti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_7d5c692e890368121b7e4408fb746a31">kristalizacije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="nastati s kristalizacijo" cluster="1" frequency="11" logDice="5.73">
+              <comp position="1" type="collocate" sloleks="LE_e67a61823a7b26bd49e14c9822b23965">nastati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_7d5c692e890368121b7e4408fb746a31">kristalizacijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

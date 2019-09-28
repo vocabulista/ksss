@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="24674">nagravžen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">499</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nagravžen prizor" cluster="1" frequency="8" logDice="3.28">
+              <comp position="1" type="headword" sloleks="LE_8583c1b727fba18c890e91e82ca5c66b">nagravžen</comp>
+              <comp position="2" type="collocate" sloleks="LE_8bb63327d6eb154642411f2be3d7f73d">prizor</comp>
+            </collocation>
+            <collocation form="nagravžna stvar" cluster="2" frequency="7" logDice="0.85">
+              <comp position="1" type="headword" sloleks="LE_8583c1b727fba18c890e91e82ca5c66b">nagravžna</comp>
+              <comp position="2" type="collocate" sloleks="LE_c62e36388a9104c47cf960cd4bdf4ca3">stvar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="res nagravžen" cluster="1" frequency="7" logDice="1.16">
+              <comp position="1" type="collocate" sloleks="LE_f755b561969e89364cdbaba990b8838d">res</comp>
+              <comp position="2" type="headword" sloleks="LE_8583c1b727fba18c890e91e82ca5c66b">nagravžen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

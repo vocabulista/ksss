@@ -1,0 +1,122 @@
+<entry>
+  <header>
+    <lexical_unit id="26234">nezbran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">741</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nezbran branilec" cluster="1" frequency="12" logDice="4.35">
+              <comp position="1" type="headword" sloleks="LE_daa2e5b02a3fef349e5fa68566de6ad4">nezbran</comp>
+              <comp position="2" type="collocate" sloleks="LE_f21194a06bfe363fd334cd6ef507cb48">branilec</comp>
+            </collocation>
+            <collocation form="nezbran napadalec" cluster="1" frequency="6" logDice="2.56">
+              <comp position="1" type="headword" sloleks="LE_daa2e5b02a3fef349e5fa68566de6ad4">nezbran</comp>
+              <comp position="2" type="collocate" sloleks="LE_b79ea339fd2a652e5d0c1120a70d7bad">napadalec</comp>
+            </collocation>
+            <collocation form="nezbrana obramba" cluster="2" frequency="19" logDice="3.89">
+              <comp position="1" type="headword" sloleks="LE_daa2e5b02a3fef349e5fa68566de6ad4">nezbrana</comp>
+              <comp position="2" type="collocate" sloleks="LE_ffbdd8e448810939e9e94f4698b38aa4">obramba</comp>
+            </collocation>
+            <collocation form="nezbrana igra" cluster="3" frequency="91" logDice="3.46">
+              <comp position="1" type="headword" sloleks="LE_daa2e5b02a3fef349e5fa68566de6ad4">nezbrana</comp>
+              <comp position="2" type="collocate" sloleks="LE_61ca0973ad331da91acd1b8da555233b">igra</comp>
+            </collocation>
+            <collocation form="nezbrana pesem" cluster="3" frequency="26" logDice="3.21">
+              <comp position="1" type="headword" sloleks="LE_daa2e5b02a3fef349e5fa68566de6ad4">nezbrana</comp>
+              <comp position="2" type="collocate" sloleks="LE_6235b39c027e8b67ccd0ab2a0e87ad16">pesem</comp>
+            </collocation>
+            <collocation form="nezbran voznik" cluster="4" frequency="17" logDice="3.36">
+              <comp position="1" type="headword" sloleks="LE_daa2e5b02a3fef349e5fa68566de6ad4">nezbran</comp>
+              <comp position="2" type="collocate" sloleks="LE_4b861123b30bbee1260eeaec5a436720">voznik</comp>
+            </collocation>
+            <collocation form="nezbran začetek" cluster="5" frequency="6" logDice="2.17">
+              <comp position="1" type="headword" sloleks="LE_daa2e5b02a3fef349e5fa68566de6ad4">nezbran</comp>
+              <comp position="2" type="collocate" sloleks="LE_ff54e76842fd90ab703dad7694fad404">začetek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 v sbz5">
+          <collocations>
+            <collocation form="nezbran v obrambi" cluster="1" frequency="10" logDice="8.43">
+              <comp position="1" type="headword" sloleks="LE_daa2e5b02a3fef349e5fa68566de6ad4">nezbran</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_ffbdd8e448810939e9e94f4698b38aa4">obrambi</comp>
+            </collocation>
+            <collocation form="nezbran v napadu" cluster="2" frequency="5" logDice="6.82">
+              <comp position="1" type="headword" sloleks="LE_daa2e5b02a3fef349e5fa68566de6ad4">nezbran</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_90137343c36c722d5cef55cc198d0e93">napadu</comp>
+            </collocation>
+            <collocation form="nezbran v trenutku" cluster="3" frequency="8" logDice="6.71">
+              <comp position="1" type="headword" sloleks="LE_daa2e5b02a3fef349e5fa68566de6ad4">nezbran</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_20e42f7c3b00f5a4a38e89957060a1f2">trenutku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="nezbran in/ali nespreten" cluster="1" frequency="5" logDice="8.98">
+              <comp position="3" type="headword" sloleks="LE_daa2e5b02a3fef349e5fa68566de6ad4">nezbran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_27cfb2994760f5202f93a1d8e022b410">nespreten</comp>
+              </collocation>
+            <collocation form="nezbran in/ali nervozen" cluster="2" frequency="6" logDice="8.3">
+              <comp position="3" type="headword" sloleks="LE_daa2e5b02a3fef349e5fa68566de6ad4">nezbran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_4584c98608fc64b4aada551c960991b3">nervozen</comp>
+              </collocation>
+            <collocation form="nezbran in/ali nemiren" cluster="2" frequency="6" logDice="5.4">
+              <comp position="3" type="headword" sloleks="LE_daa2e5b02a3fef349e5fa68566de6ad4">nezbran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_6630782b07c96d3d2975033bde61e1d3">nemiren</comp>
+              </collocation>
+            <collocation form="nezbran in neučinkovit" cluster="3" frequency="9" logDice="7.92">
+              <comp position="1" type="headword" sloleks="LE_daa2e5b02a3fef349e5fa68566de6ad4">nezbran</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_728cce6c5186a751afecbc63c0298392">neučinkovit</comp>
+            </collocation>
+            <collocation form="nezbran in površen" cluster="4" frequency="6" logDice="7.74">
+              <comp position="1" type="headword" sloleks="LE_daa2e5b02a3fef349e5fa68566de6ad4">nezbran</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_3bcb19337adba29dbb1ed8e17043b046">površen</comp>
+            </collocation>
+            <collocation form="nezbran in/ali utrujen" cluster="5" frequency="16" logDice="6.96">
+              <comp position="3" type="headword" sloleks="LE_daa2e5b02a3fef349e5fa68566de6ad4">nezbran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_2aeeb7d3a2ef975ff86ee3dd8b5211f2">utrujen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="prevečkrat nezbran" cluster="1" frequency="5" logDice="6.88">
+              <comp position="1" type="collocate" sloleks="LE_9a4b404003963c1b8426993f21ae007d">prevečkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_daa2e5b02a3fef349e5fa68566de6ad4">nezbran</comp>
+            </collocation>
+            <collocation form="preveč nezbran" cluster="2" frequency="25" logDice="2.93">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_daa2e5b02a3fef349e5fa68566de6ad4">nezbran</comp>
+            </collocation>
+            <collocation form="nekoliko nezbran" cluster="3" frequency="21" logDice="2.55">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_daa2e5b02a3fef349e5fa68566de6ad4">nezbran</comp>
+            </collocation>
+            <collocation form="povsem nezbran" cluster="4" frequency="20" logDice="1.61">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_daa2e5b02a3fef349e5fa68566de6ad4">nezbran</comp>
+            </collocation>
+            <collocation form="popolnoma nezbran" cluster="4" frequency="8" logDice="1.29">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_daa2e5b02a3fef349e5fa68566de6ad4">nezbran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="86084">resje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">748</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 pri sbz5">
+          <collocations>
+            <collocation form="Resje pri Podvin" cluster="1" frequency="60" logDice="13.42">
+              <comp position="1" type="headword" sloleks="LE_397953cddcf55e4fb7da136ce5e35a6f">Resje</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="">Podvin</comp>
+            </collocation>
+            <collocation form="RESJE pri PODVIN" cluster="2" frequency="4" logDice="10.76">
+              <comp position="1" type="headword" sloleks="LE_397953cddcf55e4fb7da136ce5e35a6f">RESJE</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="">PODVIN</comp>
+            </collocation>
+            <collocation form="Resje pri mošnji" cluster="3" frequency="4" logDice="10.2">
+              <comp position="1" type="headword" sloleks="LE_397953cddcf55e4fb7da136ce5e35a6f">Resje</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_7296e57be8c374ea97b133227667789c">mošnji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="cvetoče resje" cluster="1" frequency="8" logDice="4.36">
+              <comp position="1" type="collocate" sloleks="LE_2be005ae4abd4aa1cb6e1542569e47ef">cvetoče</comp>
+              <comp position="2" type="headword" sloleks="LE_397953cddcf55e4fb7da136ce5e35a6f">resje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="sadovnjak v Resju" cluster="1" frequency="6" logDice="8.98">
+              <comp position="1" type="collocate" sloleks="LE_d1403d7a8e8e096349eedfb7625258f0">sadovnjak</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_397953cddcf55e4fb7da136ce5e35a6f">Resju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

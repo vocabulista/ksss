@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="30146">predjamski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1663</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="predjamski grad" cluster="1" frequency="1142" logDice="9.29">
+              <comp position="1" type="headword" sloleks="LE_8336a72b4ac8aae88bdfcfdad0d5090c">predjamski</comp>
+              <comp position="2" type="collocate" sloleks="LE_b32c1e1e605a2353e11ee0a7e2e2e735">grad</comp>
+            </collocation>
+            <collocation form="predjamski vitez" cluster="2" frequency="8" logDice="5.21">
+              <comp position="1" type="headword" sloleks="LE_8336a72b4ac8aae88bdfcfdad0d5090c">predjamski</comp>
+              <comp position="2" type="collocate" sloleks="LE_7962642545c28a2c6cd1b8090a4c7ecf">vitez</comp>
+            </collocation>
+            <collocation form="Predjamski potok" cluster="3" frequency="6" logDice="3.39">
+              <comp position="1" type="headword" sloleks="LE_8336a72b4ac8aae88bdfcfdad0d5090c">Predjamski</comp>
+              <comp position="2" type="collocate" sloleks="LE_caca5ff4235178a10f62624a95430c94">potok</comp>
+            </collocation>
+            <collocation form="predjamska jama" cluster="4" frequency="8" logDice="2.78">
+              <comp position="1" type="headword" sloleks="LE_8336a72b4ac8aae88bdfcfdad0d5090c">predjamska</comp>
+              <comp position="2" type="collocate" sloleks="LE_4a946de9ed27782171dc0d65fb63e6fe">jama</comp>
+            </collocation>
+            <collocation form="predjamski sistem" cluster="5" frequency="79" logDice="2.42">
+              <comp position="1" type="headword" sloleks="LE_8336a72b4ac8aae88bdfcfdad0d5090c">predjamski</comp>
+              <comp position="2" type="collocate" sloleks="LE_b126847d984efa55c2ffad50be4e1dac">sistem</comp>
+            </collocation>
+            <collocation form="predjamski človek" cluster="5" frequency="14" logDice="0.52">
+              <comp position="1" type="headword" sloleks="LE_8336a72b4ac8aae88bdfcfdad0d5090c">predjamski</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="predjamski in/ali postojnski" cluster="1" frequency="47" logDice="11.35">
+              <comp position="3" type="headword" sloleks="LE_8336a72b4ac8aae88bdfcfdad0d5090c">predjamski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_533bb5959cbd8f7602deff5be6bf1eee">postojnski</comp>
+              </collocation>
+            <collocation form="Predjamski ali Ljubljanski" cluster="2" frequency="5" logDice="5.22">
+              <comp position="1" type="headword" sloleks="LE_8336a72b4ac8aae88bdfcfdad0d5090c">Predjamski</comp>
+              <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_2017c528556d77ae4597e9aa4b76d24b">Ljubljanski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

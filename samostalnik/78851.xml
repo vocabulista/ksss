@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="78851">podiplomec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">423</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="dom podiplomca" cluster="1" frequency="88" logDice="5.99">
+              <comp position="1" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">dom</comp>
+              <comp position="2" type="headword" sloleks="LE_d1cb55b77b0ae7fd08f6e99b2922d338">podiplomca</comp>
+            </collocation>
+            <collocation form="zasedenost podiplomca" cluster="2" frequency="5" logDice="5.34">
+              <comp position="1" type="collocate" sloleks="LE_7c997d330c997c3165f6bec403b7031d">zasedenost</comp>
+              <comp position="2" type="headword" sloleks="LE_d1cb55b77b0ae7fd08f6e99b2922d338">podiplomca</comp>
+            </collocation>
+            <collocation form="podiplomec Slovenije" cluster="3" frequency="62" logDice="1.95">
+              <comp position="1" type="headword" sloleks="LE_d1cb55b77b0ae7fd08f6e99b2922d338">podiplomec</comp>
+              <comp position="2" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Slovenije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="dom za podiplomca" cluster="1" frequency="5" logDice="4.49">
+              <comp position="1" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">dom</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d1cb55b77b0ae7fd08f6e99b2922d338">podiplomca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

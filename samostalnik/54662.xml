@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="54662">duhovnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">692</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="evangeličanska duhovnica" cluster="1" frequency="90" logDice="9.63">
+              <comp position="1" type="collocate" sloleks="LE_3c629fa781cf68a94e00e6783511e6fd">evangeličanska</comp>
+              <comp position="2" type="headword" sloleks="LE_893f393a2aee5971b910cebe8ce80e78">duhovnica</comp>
+            </collocation>
+            <collocation form="protestantska duhovnica" cluster="2" frequency="17" logDice="6.33">
+              <comp position="1" type="collocate" sloleks="LE_c9ea894de808c28dbb62fe1339d8718d">protestantska</comp>
+              <comp position="2" type="headword" sloleks="LE_893f393a2aee5971b910cebe8ce80e78">duhovnica</comp>
+            </collocation>
+            <collocation form="posvečena duhovnica" cluster="3" frequency="8" logDice="2.99">
+              <comp position="1" type="collocate" sloleks="LE_64ceee6f3c50f929840e56dd5c6cb9ea">posvečena</comp>
+              <comp position="2" type="headword" sloleks="LE_893f393a2aee5971b910cebe8ce80e78">duhovnica</comp>
+            </collocation>
+            <collocation form="ženska duhovnica" cluster="4" frequency="31" logDice="2.96">
+              <comp position="1" type="collocate" sloleks="LE_8f5391342c1436e129432471f5463767">ženska</comp>
+              <comp position="2" type="headword" sloleks="LE_893f393a2aee5971b910cebe8ce80e78">duhovnica</comp>
+            </collocation>
+            <collocation form="katoliška duhovnica" cluster="5" frequency="9" logDice="2.8">
+              <comp position="1" type="collocate" sloleks="LE_13e70f04b5c2bf2c6e81e464db12495b">katoliška</comp>
+              <comp position="2" type="headword" sloleks="LE_893f393a2aee5971b910cebe8ce80e78">duhovnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="ženska duhovnice" cluster="1" frequency="7" logDice="4.19">
+              <comp position="1" type="collocate" sloleks="LE_27b2cafdf8a189c632c32da066af1ce5">ženska</comp>
+              <comp position="2" type="headword" sloleks="LE_893f393a2aee5971b910cebe8ce80e78">duhovnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="ženska za duhovnico" cluster="1" frequency="7" logDice="6.83">
+              <comp position="1" type="collocate" sloleks="LE_27b2cafdf8a189c632c32da066af1ce5">ženska</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_893f393a2aee5971b910cebe8ce80e78">duhovnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

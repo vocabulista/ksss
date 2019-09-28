@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="41933">materialnopravno</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">470</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ pbz0">
+          <collocations>
+            <collocation form="materialnopravno zmoten" cluster="1" frequency="58" logDice="10.93">
+              <comp position="1" type="headword" sloleks="LE_4a7c964d77e25671aa40bafe38c87ec7">materialnopravno</comp>
+              <comp position="2" type="collocate" sloleks="LE_9cfd3a82938e92fbfb7a55dabf2046ab|LE_ff857788b0e10a9cd64b8071024c7094">zmoten</comp>
+            </collocation>
+            <collocation form="materialnopravno pravilen" cluster="2" frequency="172" logDice="10.21">
+              <comp position="1" type="headword" sloleks="LE_4a7c964d77e25671aa40bafe38c87ec7">materialnopravno</comp>
+              <comp position="2" type="collocate" sloleks="LE_bff36ca363bb719eb18989731d7bfe32">pravilen</comp>
+            </collocation>
+            <collocation form="materialnopravno napačen" cluster="3" frequency="33" logDice="7.51">
+              <comp position="1" type="headword" sloleks="LE_4a7c964d77e25671aa40bafe38c87ec7">materialnopravno</comp>
+              <comp position="2" type="collocate" sloleks="LE_a30077233d2aa852bc3f9a07cb8752a3">napačen</comp>
+            </collocation>
+            <collocation form="materialnopravno nepravilen" cluster="4" frequency="7" logDice="7.51">
+              <comp position="1" type="headword" sloleks="LE_4a7c964d77e25671aa40bafe38c87ec7">materialnopravno</comp>
+              <comp position="2" type="collocate" sloleks="LE_92c08eaead7a272c8f262ac1e2d3a8e0">nepravilen</comp>
+            </collocation>
+            <collocation form="materialnopravno določen" cluster="5" frequency="8" logDice="2.6">
+              <comp position="1" type="headword" sloleks="LE_4a7c964d77e25671aa40bafe38c87ec7">materialnopravno</comp>
+              <comp position="2" type="collocate" sloleks="LE_1499044134494b4e685e3db6251e49b0|LE_fbc6257e78652b267c5adb9b4f487aac">določen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="sprejeti materialnopravno" cluster="1" frequency="28" logDice="5.53">
+              <comp position="1" type="collocate" sloleks="LE_8c2773c0d6ada89df427fbd2a83ca07b">sprejeti</comp>
+              <comp position="2" type="headword" sloleks="LE_4a7c964d77e25671aa40bafe38c87ec7">materialnopravno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,75 @@
+<entry>
+  <header>
+    <lexical_unit id="70824">nabirka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">623</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="nabirka za tisk" cluster="1" frequency="37" logDice="8.13">
+              <comp position="1" type="headword" sloleks="LE_40352f99a5d669a1c3836a5fda296cfb">nabirka</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_aafa3921c770ed248b2daed6c4417ef2">tisk</comp>
+            </collocation>
+            <collocation form="nabirka za obnovo" cluster="2" frequency="4" logDice="3.15">
+              <comp position="1" type="headword" sloleks="LE_40352f99a5d669a1c3836a5fda296cfb">nabirka</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_7208353c21758b771325b4297e697ec9">obnovo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz iz SBZ2">
+          <collocations>
+            <collocation form="nabrati iz nabirke" cluster="1" frequency="6" logDice="9.73">
+              <comp position="1" type="collocate" sloleks="LE_39832ff66631c5087221302f11d09e47">nabrati</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_40352f99a5d669a1c3836a5fda296cfb">nabirke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="zbrati z nabirko" cluster="1" frequency="5" logDice="5.67">
+              <comp position="1" type="collocate" sloleks="LE_40502938a8ff2dd818937bd71f99bb6d">zbrati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_40352f99a5d669a1c3836a5fda296cfb">nabirko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nedeljska nabirka" cluster="1" frequency="11" logDice="2.58">
+              <comp position="1" type="collocate" sloleks="LE_a618d9c6d37c77c01cb3e7b1ad4009ed">nedeljska</comp>
+              <comp position="2" type="headword" sloleks="LE_40352f99a5d669a1c3836a5fda296cfb">nabirka</comp>
+            </collocation>
+            <collocation form="posebna nabirka" cluster="2" frequency="21" logDice="0.57">
+              <comp position="1" type="collocate" sloleks="LE_c6ac532196f00aeff80a6a291379271e">posebna</comp>
+              <comp position="2" type="headword" sloleks="LE_40352f99a5d669a1c3836a5fda296cfb">nabirka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="denar iz nabirke" cluster="1" frequency="6" logDice="4.37">
+              <comp position="1" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denar</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_40352f99a5d669a1c3836a5fda296cfb">nabirke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 od SBZ2">
+          <collocations>
+            <collocation form="denar od nabirke" cluster="1" frequency="8" logDice="5.28">
+              <comp position="1" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denar</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="headword" sloleks="LE_40352f99a5d669a1c3836a5fda296cfb">nabirke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

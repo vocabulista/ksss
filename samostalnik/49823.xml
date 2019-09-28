@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="49823">bokal</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">506</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="bokal vina" cluster="1" frequency="68" logDice="5.33">
+              <comp position="1" type="headword" sloleks="LE_91167876dc7577854270c5e33ca07b9d">bokal</comp>
+              <comp position="2" type="collocate" sloleks="LE_0ae7c92af34780f7f1922cd5b9806ca5">vina</comp>
+            </collocation>
+            <collocation form="bokal piva" cluster="2" frequency="9" logDice="4.3">
+              <comp position="1" type="headword" sloleks="LE_91167876dc7577854270c5e33ca07b9d">bokal</comp>
+              <comp position="2" type="collocate" sloleks="LE_3b490983cf8550a4205b86347b74d62d">piva</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz iz SBZ2">
+          <collocations>
+            <collocation form="piti iz bokala" cluster="1" frequency="4" logDice="7.41">
+              <comp position="1" type="collocate" sloleks="LE_f1e6f53a0806a9bf7f96d79e98ea8d46">piti</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_91167876dc7577854270c5e33ca07b9d">bokala</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="beraški bokal" cluster="1" frequency="15" logDice="8.7">
+              <comp position="1" type="collocate" sloleks="LE_09e392c260ad0874ad8420023c523ab5">beraški</comp>
+              <comp position="2" type="headword" sloleks="LE_91167876dc7577854270c5e33ca07b9d">bokal</comp>
+            </collocation>
+            <collocation form="dvolitrski bokal" cluster="2" frequency="10" logDice="6.11">
+              <comp position="1" type="collocate" sloleks="LE_706db18adef2b4b2a3701ea85fb2e3a2">dvolitrski</comp>
+              <comp position="2" type="headword" sloleks="LE_91167876dc7577854270c5e33ca07b9d">bokal</comp>
+            </collocation>
+            <collocation form="prazen bokal" cluster="3" frequency="27" logDice="3.87">
+              <comp position="1" type="collocate" sloleks="LE_533f0a5e914341357a01cda9a8b9e579">prazen</comp>
+              <comp position="2" type="headword" sloleks="LE_91167876dc7577854270c5e33ca07b9d">bokal</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

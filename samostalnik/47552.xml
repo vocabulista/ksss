@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="47552">antipatija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">493</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 do sbz2">
+          <collocations>
+            <collocation form="antipatija do predsednika" cluster="1" frequency="5" logDice="7.72">
+              <comp position="1" type="headword" sloleks="LE_9292d5784ef4ab587dbe23cd2935acec">antipatija</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_7b6970ef8cd5ab25e1b3915be0c536bd">predsednika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="osebna antipatija" cluster="1" frequency="33" logDice="1.75">
+              <comp position="1" type="collocate" sloleks="LE_9e83056cf1aaf379d3487d2ea9e95113">osebna</comp>
+              <comp position="2" type="headword" sloleks="LE_9292d5784ef4ab587dbe23cd2935acec">antipatija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

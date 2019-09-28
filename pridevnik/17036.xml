@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="17036">efekten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">579</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="efekten triler" cluster="1" frequency="17" logDice="5.61">
+              <comp position="1" type="headword" sloleks="LE_9282b38c784923d2e2495d9a68afeea3">efekten</comp>
+              <comp position="2" type="collocate" sloleks="LE_5a888b00d40014aa92203d264f8b69c0">triler</comp>
+            </collocation>
+            <collocation form="efekten gol" cluster="2" frequency="16" logDice="4.67">
+              <comp position="1" type="headword" sloleks="LE_9282b38c784923d2e2495d9a68afeea3">efekten</comp>
+              <comp position="2" type="collocate" sloleks="LE_07f7f4e51245be158e8beacfff4fa692">gol</comp>
+            </collocation>
+            <collocation form="efekten strel" cluster="2" frequency="6" logDice="2.69">
+              <comp position="1" type="headword" sloleks="LE_9282b38c784923d2e2495d9a68afeea3">efekten</comp>
+              <comp position="2" type="collocate" sloleks="LE_7242f71e5b8cc7afc32db8d1c16c8aa8">strel</comp>
+            </collocation>
+            <collocation form="efekten prizor" cluster="3" frequency="8" logDice="3.27">
+              <comp position="1" type="headword" sloleks="LE_9282b38c784923d2e2495d9a68afeea3">efekten</comp>
+              <comp position="2" type="collocate" sloleks="LE_8bb63327d6eb154642411f2be3d7f73d">prizor</comp>
+            </collocation>
+            <collocation form="efekten konec" cluster="4" frequency="10" logDice="2.32">
+              <comp position="1" type="headword" sloleks="LE_9282b38c784923d2e2495d9a68afeea3">efekten</comp>
+              <comp position="2" type="collocate" sloleks="LE_d8d1737076777d9839ea949a2b88751a">konec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="bolj efekten" cluster="1" frequency="30" logDice="0.61">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_9282b38c784923d2e2495d9a68afeea3">efekten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

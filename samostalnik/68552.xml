@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="68552">marnja</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">400</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za marnjo" cluster="1" frequency="6" logDice="-1.01">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_95dc371c149183f1b82a819bb1a90995">marnjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="prazna marnja" cluster="1" frequency="239" logDice="7.01">
+              <comp position="1" type="collocate" sloleks="LE_533f0a5e914341357a01cda9a8b9e579">prazna</comp>
+              <comp position="2" type="headword" sloleks="LE_95dc371c149183f1b82a819bb1a90995">marnja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

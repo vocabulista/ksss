@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="53503">diskreditiranje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">490</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="diskreditiranje policista" cluster="1" frequency="81" logDice="6.94">
+              <comp position="1" type="headword" sloleks="LE_5cb399cde446e4df029881d5fde1f1ff">diskreditiranje</comp>
+              <comp position="2" type="collocate" sloleks="LE_a0327159c89da7a2b20b5d4531b6b5e1">policista</comp>
+            </collocation>
+            <collocation form="diskreditiranje nasprotnika" cluster="2" frequency="28" logDice="6.22">
+              <comp position="1" type="headword" sloleks="LE_5cb399cde446e4df029881d5fde1f1ff">diskreditiranje</comp>
+              <comp position="2" type="collocate" sloleks="LE_09d7e4752e896fdc530a59483161bb43">nasprotnika</comp>
+            </collocation>
+            <collocation form="poskus diskreditiranja" cluster="3" frequency="139" logDice="6.61">
+              <comp position="1" type="collocate" sloleks="LE_19dcd14233df546347e75246f46de4c4">poskus</comp>
+              <comp position="2" type="headword" sloleks="LE_5cb399cde446e4df029881d5fde1f1ff">diskreditiranja</comp>
+            </collocation>
+            <collocation form="namen diskreditiranja" cluster="4" frequency="18" logDice="3.2">
+              <comp position="1" type="collocate" sloleks="LE_b8bfcb1562b01862546effca7cc27d06">namen</comp>
+              <comp position="2" type="headword" sloleks="LE_5cb399cde446e4df029881d5fde1f1ff">diskreditiranja</comp>
+            </collocation>
+            <collocation form="metoda diskreditiranja" cluster="5" frequency="6" logDice="2.74">
+              <comp position="1" type="collocate" sloleks="LE_675bb3300eebea6ea6f395eade13fc2c">metoda</comp>
+              <comp position="2" type="headword" sloleks="LE_5cb399cde446e4df029881d5fde1f1ff">diskreditiranja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za diskreditiranje" cluster="1" frequency="7" logDice="-0.79">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_5cb399cde446e4df029881d5fde1f1ff">diskreditiranje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

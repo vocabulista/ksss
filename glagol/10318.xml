@@ -1,0 +1,62 @@
+<entry>
+  <header>
+    <lexical_unit id="10318">žicati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">347</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="žicati denar" cluster="1" frequency="28" logDice="3.19">
+              <comp position="1" type="headword" sloleks="LE_1acc4450d70d5cd30dadbf4925d1f080">žicati</comp>
+              <comp position="2" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denar</comp>
+            </collocation>
+            <collocation form="žicati človeka" cluster="2" frequency="4" logDice="1.02">
+              <comp position="1" type="headword" sloleks="LE_1acc4450d70d5cd30dadbf4925d1f080">žicati</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človeka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="žicati za pir" cluster="1" frequency="5" logDice="10.2">
+              <comp position="1" type="headword" sloleks="LE_1acc4450d70d5cd30dadbf4925d1f080">žicati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_5652bd886f01f119e3cf228f1788e07a">pir</comp>
+            </collocation>
+            <collocation form="žicati za cigareto" cluster="2" frequency="4" logDice="8.04">
+              <comp position="1" type="headword" sloleks="LE_1acc4450d70d5cd30dadbf4925d1f080">žicati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_403a9a5c858b57d1293ce169fd8e79c6">cigareto</comp>
+            </collocation>
+            <collocation form="žicati za pivo" cluster="3" frequency="4" logDice="7.97">
+              <comp position="1" type="headword" sloleks="LE_1acc4450d70d5cd30dadbf4925d1f080">žicati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_3b490983cf8550a4205b86347b74d62d">pivo</comp>
+            </collocation>
+            <collocation form="žicati za drobiž" cluster="4" frequency="4" logDice="7.19">
+              <comp position="1" type="headword" sloleks="LE_1acc4450d70d5cd30dadbf4925d1f080">žicati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_6eff5cb18e0eca8a8c3a84eda09c823b">drobiž</comp>
+            </collocation>
+            <collocation form="žicati za denar" cluster="5" frequency="11" logDice="4.66">
+              <comp position="1" type="headword" sloleks="LE_1acc4450d70d5cd30dadbf4925d1f080">žicati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="naprej žicati" cluster="1" frequency="8" logDice="1.17">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_1acc4450d70d5cd30dadbf4925d1f080">žicati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="8031">šinfati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">450</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="šinfati vlado" cluster="1" frequency="7" logDice="3.16">
+              <comp position="1" type="headword" sloleks="LE_f08c877c88e69bc6041e397217df0030">šinfati</comp>
+              <comp position="2" type="collocate" sloleks="LE_63d183132c68728be91773043828fb2d">vlado</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ čez sbz4">
+          <collocations>
+            <collocation form="šinfati čez državo" cluster="1" frequency="4" logDice="9.15">
+              <comp position="1" type="headword" sloleks="LE_f08c877c88e69bc6041e397217df0030">šinfati</comp>
+              <comp position="2" type="other" sloleks="LE_160ad4b4b11d5503081a58eba3acf84d">čez</comp>
+              <comp position="3" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">državo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="toliko šinfati" cluster="1" frequency="4" logDice="1.78">
+              <comp position="1" type="collocate" sloleks="LE_e8a73a0e682431303071ff7537eabf4b">toliko</comp>
+              <comp position="2" type="headword" sloleks="LE_f08c877c88e69bc6041e397217df0030">šinfati</comp>
+            </collocation>
+            <collocation form="nekaj šinfati" cluster="2" frequency="7" logDice="0.73">
+              <comp position="1" type="collocate" sloleks="LE_eb511b2a8ca41b887db9b389e9bd0591">nekaj</comp>
+              <comp position="2" type="headword" sloleks="LE_f08c877c88e69bc6041e397217df0030">šinfati</comp>
+            </collocation>
+            <collocation form="sedaj šinfati" cluster="3" frequency="5" logDice="0.39">
+              <comp position="1" type="collocate" sloleks="LE_e50eb5a17c98c735c9fb6d8e08cf2787">sedaj</comp>
+              <comp position="2" type="headword" sloleks="LE_f08c877c88e69bc6041e397217df0030">šinfati</comp>
+            </collocation>
+            <collocation form="kaj šinfati" cluster="4" frequency="9" logDice="0.09">
+              <comp position="1" type="collocate" sloleks="LE_f9fa365147cf5bfdb5034944905ad608">kaj</comp>
+              <comp position="2" type="headword" sloleks="LE_f08c877c88e69bc6041e397217df0030">šinfati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

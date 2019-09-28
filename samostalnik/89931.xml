@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="89931">sodar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">433</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="izučiti za sodarja" cluster="1" frequency="9" logDice="7.86">
+              <comp position="1" type="collocate" sloleks="LE_4498b4cebaf458584a77552802662855">izučiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_46e39b940be969ac777cd5df1c26f906">sodarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="tacenski sodar" cluster="1" frequency="12" logDice="8.71">
+              <comp position="1" type="collocate" sloleks="LE_485610caf84d29d9868f570c1358a1c2">tacenski</comp>
+              <comp position="2" type="headword" sloleks="LE_46e39b940be969ac777cd5df1c26f906">sodar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

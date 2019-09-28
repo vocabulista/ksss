@@ -1,0 +1,61 @@
+<entry>
+  <header>
+    <lexical_unit id="8173">šlepati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">707</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="šlepati na slavo" cluster="1" frequency="7" logDice="9.53">
+              <comp position="1" type="headword" sloleks="LE_5fd2c6d75ab34741f81336bc2bf1ab5a">šlepati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_0918629be38d9f94933db7ddc9f4c509">slavo</comp>
+            </collocation>
+            <collocation form="šlepati na imidž" cluster="2" frequency="5" logDice="9.2">
+              <comp position="1" type="headword" sloleks="LE_5fd2c6d75ab34741f81336bc2bf1ab5a">šlepati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_cc7dd50ba9661dc24a8bb30e6625a66e">imidž</comp>
+            </collocation>
+            <collocation form="šlepati na ukrep" cluster="3" frequency="5" logDice="7.21">
+              <comp position="1" type="headword" sloleks="LE_5fd2c6d75ab34741f81336bc2bf1ab5a">šlepati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_255f7b84fe0103df32854855e1084ff0">ukrep</comp>
+            </collocation>
+            <collocation form="šlepati na račun" cluster="4" frequency="27" logDice="4.68">
+              <comp position="1" type="headword" sloleks="LE_5fd2c6d75ab34741f81336bc2bf1ab5a">šlepati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_03d4207cd319441760ba30bae2e1320e">račun</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="dobesedno šlepati" cluster="1" frequency="4" logDice="2.28">
+              <comp position="1" type="collocate" sloleks="LE_bffec2e3c44400c319dff55bd9852452">dobesedno</comp>
+              <comp position="2" type="headword" sloleks="LE_5fd2c6d75ab34741f81336bc2bf1ab5a">šlepati</comp>
+            </collocation>
+            <collocation form="običajno šlepati" cluster="2" frequency="5" logDice="1.91">
+              <comp position="1" type="collocate" sloleks="LE_9f1f7ca24c6a115d9da3e83315e02885">običajno</comp>
+              <comp position="2" type="headword" sloleks="LE_5fd2c6d75ab34741f81336bc2bf1ab5a">šlepati</comp>
+            </collocation>
+            <collocation form="nekako šlepati" cluster="3" frequency="5" logDice="1.65">
+              <comp position="1" type="collocate" sloleks="LE_a96326ed8c158842276cc429a0b285f7">nekako</comp>
+              <comp position="2" type="headword" sloleks="LE_5fd2c6d75ab34741f81336bc2bf1ab5a">šlepati</comp>
+            </collocation>
+            <collocation form="dolgo šlepati" cluster="4" frequency="5" logDice="0.67">
+              <comp position="1" type="collocate" sloleks="LE_554690ff0ebb8eed6d3fcb26dfdc3eef">dolgo</comp>
+              <comp position="2" type="headword" sloleks="LE_5fd2c6d75ab34741f81336bc2bf1ab5a">šlepati</comp>
+            </collocation>
+            <collocation form="spet šlepati" cluster="5" frequency="9" logDice="0.2">
+              <comp position="1" type="collocate" sloleks="LE_262d335ce33e8c5f94849e677bc83a19">spet</comp>
+              <comp position="2" type="headword" sloleks="LE_5fd2c6d75ab34741f81336bc2bf1ab5a">šlepati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

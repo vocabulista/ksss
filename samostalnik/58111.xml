@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="58111">goslač</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">501</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz5">
+          <collocations>
+            <collocation form="Goslač na strehi" cluster="1" frequency="327" logDice="10.99">
+              <comp position="1" type="headword" sloleks="LE_202864e2b911ad6c3c3d98d2fbfa484f">Goslač</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_ce3a8efb09c9c5f6f491b50ef16e4a48">strehi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="vražji goslač" cluster="1" frequency="14" logDice="7.09">
+              <comp position="1" type="collocate" sloleks="LE_c83cee0785f241774478458d7dd3c477">vražji</comp>
+              <comp position="2" type="headword" sloleks="LE_202864e2b911ad6c3c3d98d2fbfa484f">goslač</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

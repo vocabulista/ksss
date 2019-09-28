@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="32436">rešnji</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">517</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="rešnje telo" cluster="1" frequency="449" logDice="7.1">
+              <comp position="1" type="headword" sloleks="LE_9197537d9b83e1b0c41fd43763ced43b">rešnje</comp>
+              <comp position="2" type="collocate" sloleks="LE_79b86615dd52e06799792917a906328a">telo</comp>
+            </collocation>
+            <collocation form="rešnji Jezus" cluster="2" frequency="6" logDice="6.39">
+              <comp position="1" type="headword" sloleks="LE_9197537d9b83e1b0c41fd43763ced43b">rešnji</comp>
+              <comp position="2" type="collocate" sloleks="LE_c2dad8d112f9c6d75bf4cfdf44b3ca36">Jezus</comp>
+            </collocation>
+            <collocation form="rešnja kri" cluster="3" frequency="48" logDice="6.29">
+              <comp position="1" type="headword" sloleks="LE_9197537d9b83e1b0c41fd43763ced43b">rešnja</comp>
+              <comp position="2" type="collocate" sloleks="LE_3f38ba2d1d9b5ab220cbf69f18564673">kri</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="presveto rešnji" cluster="1" frequency="6" logDice="11.97">
+              <comp position="1" type="collocate" sloleks="LE_79762cbd56c5819f9933adce02981d58">presveto</comp>
+              <comp position="2" type="headword" sloleks="LE_9197537d9b83e1b0c41fd43763ced43b">rešnji</comp>
+            </collocation>
+            <collocation form="sveto rešnji" cluster="2" frequency="35" logDice="11.19">
+              <comp position="1" type="collocate" sloleks="LE_69b73be884ff60db632bbee6e57a37c1">sveto</comp>
+              <comp position="2" type="headword" sloleks="LE_9197537d9b83e1b0c41fd43763ced43b">rešnji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

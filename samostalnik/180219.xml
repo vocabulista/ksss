@@ -1,0 +1,29 @@
+<entry>
+  <header>
+    <lexical_unit id="180219">avtomatik</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="avtomatik z možnostjo" cluster="1" frequency="6" logDice="4.43">
+              <comp position="1" type="headword" sloleks="">avtomatik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_2e00efc106e45a8fd5ad17e06d9e6382">možnostjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Tomosov avtomatik" cluster="1" frequency="11" logDice="8.93">
+              <comp position="1" type="collocate" sloleks="LE_81d8a8529a44eb086e22f1ab9e2e6caf">Tomosov</comp>
+              <comp position="2" type="headword" sloleks="">avtomatik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

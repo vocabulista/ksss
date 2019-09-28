@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="1048">duškati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">1138</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="duškati na račun" cluster="1" frequency="5" logDice="2.25">
+              <comp position="1" type="headword" sloleks="LE_972175739bbd3d6df879eb5a6f4fc65d">duškati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_03d4207cd319441760ba30bae2e1320e">račun</comp>
+            </collocation>
+            <collocation form="duškati na način" cluster="2" frequency="23" logDice="2.04">
+              <comp position="1" type="headword" sloleks="LE_972175739bbd3d6df879eb5a6f4fc65d">duškati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_78347f5e8e1e11f66d26223c13ba02df">način</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="duškati na področju" cluster="1" frequency="6" logDice="1.53">
+              <comp position="1" type="headword" sloleks="LE_972175739bbd3d6df879eb5a6f4fc65d">duškati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_66c02e1a651f578a71415b967738b69b">področju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="duškati iskreno" cluster="1" frequency="5" logDice="5.15">
+              <comp position="1" type="headword" sloleks="LE_972175739bbd3d6df879eb5a6f4fc65d">duškati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6f8bcaa65298e7ff941ca1ccaa968db7">iskreno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="duškati z besedo" cluster="1" frequency="5" logDice="2.54">
+              <comp position="1" type="headword" sloleks="LE_972175739bbd3d6df879eb5a6f4fc65d">duškati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">besedo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="70628">mučilnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">577</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="mučilnica z živaljo" cluster="1" frequency="4" logDice="4.93">
+              <comp position="1" type="headword" sloleks="LE_447f24d5bf362ed7919c8304188e831e">mučilnica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_b6200c4865c660bb286b47ec062ae356">živaljo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="zapreti v mučilnico" cluster="1" frequency="4" logDice="4.43">
+              <comp position="1" type="collocate" sloleks="LE_969a1a0f2700f3c509e26dc338f84db2">zapreti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_447f24d5bf362ed7919c8304188e831e">mučilnico</comp>
+            </collocation>
+            <collocation form="spremeniti v mučilnico" cluster="2" frequency="6" logDice="2.14">
+              <comp position="1" type="collocate" sloleks="LE_7e38541e80f0b8333acf093049053f3b">spremeniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_447f24d5bf362ed7919c8304188e831e">mučilnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="peklenska mučilnica" cluster="1" frequency="8" logDice="5.07">
+              <comp position="1" type="collocate" sloleks="LE_282f55930a67959a4356c8ce224c3c39">peklenska</comp>
+              <comp position="2" type="headword" sloleks="LE_447f24d5bf362ed7919c8304188e831e">mučilnica</comp>
+            </collocation>
+            <collocation form="srednjeveška mučilnica" cluster="2" frequency="9" logDice="3.81">
+              <comp position="1" type="collocate" sloleks="LE_cdb77872fa94d87c755356e7b380f1bf">srednjeveška</comp>
+              <comp position="2" type="headword" sloleks="LE_447f24d5bf362ed7919c8304188e831e">mučilnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="zapor mučilnice" cluster="1" frequency="5" logDice="5.68">
+              <comp position="1" type="collocate" sloleks="LE_3c194ab9809af6b787d83228f4c8e3cc">zapor</comp>
+              <comp position="2" type="headword" sloleks="LE_447f24d5bf362ed7919c8304188e831e">mučilnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="kokoš v mučilnici" cluster="1" frequency="4" logDice="8.91">
+              <comp position="1" type="collocate" sloleks="LE_448932ec0fcad05901a33a016746f8dc">kokoš</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_447f24d5bf362ed7919c8304188e831e">mučilnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

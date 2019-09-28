@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="31308">prominenten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">401</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="prominentna osebnost" cluster="1" frequency="20" logDice="3.67">
+              <comp position="1" type="headword" sloleks="LE_d91d57814a982bb010169a2e3ca22c7f">prominentna</comp>
+              <comp position="2" type="collocate" sloleks="LE_6da16471e9236f3fb199d59b283a9afe">osebnost</comp>
+            </collocation>
+            <collocation form="prominenten gost" cluster="2" frequency="21" logDice="3.28">
+              <comp position="1" type="headword" sloleks="LE_d91d57814a982bb010169a2e3ca22c7f">prominenten</comp>
+              <comp position="2" type="collocate" sloleks="LE_e6cee54a176357f6ae4eee7d6ef8c850">gost</comp>
+            </collocation>
+            <collocation form="prominentna zasedba" cluster="3" frequency="9" logDice="2.42">
+              <comp position="1" type="headword" sloleks="LE_d91d57814a982bb010169a2e3ca22c7f">prominentna</comp>
+              <comp position="2" type="collocate" sloleks="LE_d065b150971c6bd23c8607ac6b8b3dfe">zasedba</comp>
+            </collocation>
+            <collocation form="prominenten član" cluster="4" frequency="9" logDice="1.15">
+              <comp position="1" type="headword" sloleks="LE_d91d57814a982bb010169a2e3ca22c7f">prominenten</comp>
+              <comp position="2" type="collocate" sloleks="LE_39d3a6c0cb58c4df843632f14f2543d3">član</comp>
+            </collocation>
+            <collocation form="prominentno ime" cluster="5" frequency="9" logDice="1.12">
+              <comp position="1" type="headword" sloleks="LE_d91d57814a982bb010169a2e3ca22c7f">prominentno</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">ime</comp>
+            </collocation>
+            <collocation form="prominentna vloga" cluster="6" frequency="8" logDice="0.5">
+              <comp position="1" type="headword" sloleks="LE_d91d57814a982bb010169a2e3ca22c7f">prominentna</comp>
+              <comp position="2" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="najbolj prominenten" cluster="1" frequency="51" logDice="1.4">
+              <comp position="1" type="collocate" sloleks="LE_72b2a3522865b723e8c26b8ade696fca">najbolj</comp>
+              <comp position="2" type="headword" sloleks="LE_d91d57814a982bb010169a2e3ca22c7f">prominenten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

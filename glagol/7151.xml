@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="7151">priskakljati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">428</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="priskakljati na oder" cluster="1" frequency="18" logDice="5.05">
+              <comp position="1" type="headword" sloleks="LE_d35e7bab5a793004fd7c3e1c37af4f0d">priskakljati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_d35618a413daf132885c889812da44df">oder</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ po sbz5">
+          <collocations>
+            <collocation form="priskakljati po nogi" cluster="1" frequency="5" logDice="7.26">
+              <comp position="1" type="headword" sloleks="LE_d35e7bab5a793004fd7c3e1c37af4f0d">priskakljati</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_85bf97bb223851882a947ddf0be6aea7">nogi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="priskakljati nazaj" cluster="1" frequency="8" logDice="1.69">
+              <comp position="1" type="headword" sloleks="LE_d35e7bab5a793004fd7c3e1c37af4f0d">priskakljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_3717c322e8fa4dddb88c242050491707">nazaj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ skozi sbz4">
+          <collocations>
+            <collocation form="priskakljati skozi vrata" cluster="1" frequency="5" logDice="4.39">
+              <comp position="1" type="headword" sloleks="LE_d35e7bab5a793004fd7c3e1c37af4f0d">priskakljati</comp>
+              <comp position="2" type="other" sloleks="LE_ebc04cc308e03e1880853d61a3c2bb70">skozi</comp>
+              <comp position="3" type="collocate" sloleks="LE_5b997c4e88dd626d1f19eb6721f9f994">vrata</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="priskakljati v studio" cluster="1" frequency="4" logDice="5.47">
+              <comp position="1" type="headword" sloleks="LE_d35e7bab5a793004fd7c3e1c37af4f0d">priskakljati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_64c64d75da241d695e5036144a68ba76">studio</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="mimo priskakljati" cluster="1" frequency="9" logDice="5.59">
+              <comp position="1" type="collocate" sloleks="LE_a0ab5d5cb27c37a3009144f5355000fa">mimo</comp>
+              <comp position="2" type="headword" sloleks="LE_d35e7bab5a793004fd7c3e1c37af4f0d">priskakljati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

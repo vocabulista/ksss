@@ -1,0 +1,638 @@
+<entry>
+  <header>
+    <lexical_unit id="1739">izpovedati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">4966</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ brez sbz2">
+          <collocations>
+            <collocation form="izpovedati brez zadržka" cluster="1" frequency="4" logDice="5.16">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="collocate" sloleks="LE_8cc74705e2131c95a9444f3533e14083">zadržka</comp>
+            </collocation>
+            <collocation form="izpovedati brez besede" cluster="2" frequency="4" logDice="4.25">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">besede</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ do sbz2">
+          <collocations>
+            <collocation form="izpovedati do konca" cluster="1" frequency="4" logDice="0.77">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_d8d1737076777d9839ea949a2b88751a">konca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ med sbz6">
+          <collocations>
+            <collocation form="izpovedati med pričanjem" cluster="1" frequency="5" logDice="9.13">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_b0d0974f2c40b58ff35458dc64205b43">pričanjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="izpovedati na glas" cluster="1" frequency="8" logDice="4.19">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_bdaf56c7a9eddd2562b11c97c0770037">glas</comp>
+            </collocation>
+            <collocation form="izpovedati na način" cluster="2" frequency="24" logDice="2.1">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_78347f5e8e1e11f66d26223c13ba02df">način</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="izpovedati na zaslišanju" cluster="1" frequency="10" logDice="7.09">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_72e916fa60a9bbaa244bc2e32a1708a2">zaslišanju</comp>
+            </collocation>
+            <collocation form="izpovedati na obravnavi" cluster="2" frequency="7" logDice="5.63">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_f167d542794a2674397487e632cbb486">obravnavi</comp>
+            </collocation>
+            <collocation form="izpovedati na sodišču" cluster="3" frequency="17" logDice="3.94">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_989f65b9e9021c2bfb10c5161a6e59ab">sodišču</comp>
+            </collocation>
+            <collocation form="izpovedati na koncu" cluster="4" frequency="9" logDice="1.19">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_d8d1737076777d9839ea949a2b88751a">koncu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ o sbz5">
+          <collocations>
+            <collocation form="izpovedati o okoliščini" cluster="1" frequency="5" logDice="8.44">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="collocate" sloleks="LE_ba188c5851926c05fe6577ad657eeaed">okoliščini</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ po sbz5">
+          <collocations>
+            <collocation form="izpovedati po resnici" cluster="1" frequency="6" logDice="7.4">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_382669cfefeb9ec0a37edec1a50079a1">resnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ pred sbz6">
+          <collocations>
+            <collocation form="izpovedati pred smrtjo" cluster="1" frequency="6" logDice="5.67">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_7ccde25b582fa3323faaf4d1541c4793">smrtjo</comp>
+            </collocation>
+            <collocation form="izpovedati pred kamero" cluster="2" frequency="7" logDice="5.13">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_51d7aec490a3726693efdae64b8d2bc0">kamero</comp>
+            </collocation>
+            <collocation form="izpovedati pred sodiščem" cluster="3" frequency="6" logDice="4.79">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_989f65b9e9021c2bfb10c5161a6e59ab">sodiščem</comp>
+            </collocation>
+            <collocation form="izpovedati pred letom" cluster="4" frequency="4" logDice="-0.72">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">letom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ pri sbz5">
+          <collocations>
+            <collocation form="izpovedati pri zaslišanju" cluster="1" frequency="4" logDice="8.83">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_72e916fa60a9bbaa244bc2e32a1708a2">zaslišanju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="izpovedati drugače" cluster="1" frequency="12" logDice="2.31">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_1940cb5af59315620f694ad96e54c82f">drugače</comp>
+            </collocation>
+            <collocation form="izpovedati povsem" cluster="2" frequency="10" logDice="0.94">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz3">
+          <collocations>
+            <collocation form="izpovedati sostanovalcu" cluster="1" frequency="7" logDice="9.39">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_9787306c8ec47958881e0fa1d79c223b">sostanovalcu</comp>
+            </collocation>
+            <collocation form="izpovedati Sandri" cluster="2" frequency="5" logDice="8.86">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_1d38bee575a8e3928be366edc28de317">Sandri</comp>
+            </collocation>
+            <collocation form="izpovedati prijatelju" cluster="3" frequency="17" logDice="5.21">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_04d85f43e6fdbc81d853e26c5158132f">prijatelju</comp>
+            </collocation>
+            <collocation form="izpovedati partnerju" cluster="3" frequency="10" logDice="6.18">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b03d6d4d3e4d98fc8347daeeb60f3cc6">partnerju</comp>
+            </collocation>
+            <collocation form="izpovedati očetu" cluster="3" frequency="8" logDice="5.48">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_fc6f92b44e0935702b32d3acbccf0142">očetu</comp>
+            </collocation>
+            <collocation form="izpovedati osebi" cluster="3" frequency="6" logDice="5.07">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_5e8793197d1b4e3a6b3f8ae0aa95a812">osebi</comp>
+            </collocation>
+            <collocation form="izpovedati mami" cluster="3" frequency="6" logDice="4.79">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_17accc042a5f6d587dff2dcf3ce1dc83">mami</comp>
+            </collocation>
+            <collocation form="izpovedati staršu" cluster="3" frequency="5" logDice="4.17">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_ee1100b135d34088f91e5c2786123e66">staršu</comp>
+            </collocation>
+            <collocation form="izpovedati policiji" cluster="4" frequency="6" logDice="5.34">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_2cbcc28e51681d01396cf12d363ca178">policiji</comp>
+            </collocation>
+            <collocation form="izpovedati novinarju" cluster="4" frequency="5" logDice="3.88">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_e20eb7206d68378732e9d3ec88e921cc">novinarju</comp>
+            </collocation>
+            <collocation form="izpovedati Bogu" cluster="5" frequency="7" logDice="5.56">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_4b293a6111b46265077bf30063fd7037">Bogu</comp>
+            </collocation>
+            <collocation form="izpovedati duhovniku" cluster="5" frequency="4" logDice="7.24">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_0f0838f94d15e317d4786e329589aa2e">duhovniku</comp>
+            </collocation>
+            <collocation form="izpovedati prijateljici" cluster="6" frequency="8" logDice="7.05">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_0cbb10c099e74643ad9a7583bc858364">prijateljici</comp>
+            </collocation>
+            <collocation form="izpovedati kriminalistu" cluster="7" frequency="4" logDice="6.91">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_8538856197aec071ae4be081bc7c6da2">kriminalistu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="izpovedati ljubezen" cluster="1" frequency="465" logDice="9.75">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_d611157e356b5a208a076a88682815f7">ljubezen</comp>
+            </collocation>
+            <collocation form="izpovedati težavo" cluster="1" frequency="13" logDice="2.17">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težavo</comp>
+            </collocation>
+            <collocation form="izpovedati izkušnjo" cluster="1" frequency="11" logDice="3.32">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_cc1bdf7573b2f228f436611e70021bd9">izkušnjo</comp>
+            </collocation>
+            <collocation form="izpovedati odnos" cluster="1" frequency="7" logDice="2.4">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_77f2f37de07cb9f39cb3dd828efa7919">odnos</comp>
+            </collocation>
+            <collocation form="izpovedati problem" cluster="1" frequency="5" logDice="2.17">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_978368a01311c2094cfb52416d9882f9">problem</comp>
+            </collocation>
+            <collocation form="izpovedati stvar" cluster="1" frequency="5" logDice="1.37">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_c62e36388a9104c47cf960cd4bdf4ca3">stvar</comp>
+            </collocation>
+            <collocation form="izpovedati naravo" cluster="1" frequency="4" logDice="3.55">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_3720f05aae76a62fa53daa3d96e22c20">naravo</comp>
+            </collocation>
+            <collocation form="izpovedati čustvo" cluster="2" frequency="123" logDice="8.42">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b4333f46d41e9e04d7a533dc72a596d0">čustvo</comp>
+            </collocation>
+            <collocation form="izpovedati bolečino" cluster="2" frequency="20" logDice="5.26">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6a7434a210c21ded27b4dc2fde249a7c">bolečino</comp>
+            </collocation>
+            <collocation form="izpovedati občutek" cluster="2" frequency="17" logDice="3.15">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_23671e6156ee6c327e7c512a951bd4f3">občutek</comp>
+            </collocation>
+            <collocation form="izpovedati strah" cluster="2" frequency="5" logDice="3.67">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_ec7941261a5b1a40fb742699e58175ca">strah</comp>
+            </collocation>
+            <collocation form="izpovedati pričo" cluster="3" frequency="6" logDice="5.66">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_4ec60f493c6277003c2ddb15e40a4fe6">pričo</comp>
+            </collocation>
+            <collocation form="izpovedati ideal" cluster="4" frequency="4" logDice="5.64">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_606d0d033719e20900446e75ae26d136">ideal</comp>
+            </collocation>
+            <collocation form="izpovedati radost" cluster="5" frequency="4" logDice="5.45">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_4b966bf3b948e2903ce6bc55089cdcf2">radost</comp>
+            </collocation>
+            <collocation form="izpovedati pripadnost" cluster="6" frequency="10" logDice="6.29">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_3b01ac625a834e8f5697a4a7ce060e10">pripadnost</comp>
+            </collocation>
+            <collocation form="izpovedati zvestobo" cluster="6" frequency="7" logDice="5.44">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_c66d3f31673752a47a18b9667ce6b458">zvestobo</comp>
+            </collocation>
+            <collocation form="izpovedati stisko" cluster="7" frequency="8" logDice="5.21">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_d95b5233a8a36f9e88412886dacecf3d">stisko</comp>
+            </collocation>
+            <collocation form="izpovedati vero" cluster="8" frequency="65" logDice="8.08">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_583319a05698c528b3d8a3b0f4aea875">vero</comp>
+            </collocation>
+            <collocation form="izpovedati prepričanje" cluster="8" frequency="11" logDice="5.16">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_5931d5feabab675f79193bef3e031d83">prepričanje</comp>
+            </collocation>
+            <collocation form="izpovedati zgodbo" cluster="9" frequency="64" logDice="5.67">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_9d9531a39496cd12f07e32ab50c0280f">zgodbo</comp>
+            </collocation>
+            <collocation form="izpovedati resnico" cluster="9" frequency="35" logDice="5.88">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_382669cfefeb9ec0a37edec1a50079a1">resnico</comp>
+            </collocation>
+            <collocation form="izpovedati željo" cluster="9" frequency="18" logDice="4.08">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_5bbd47ac0286ad82a89f112c6af6067a">željo</comp>
+            </collocation>
+            <collocation form="izpovedati misel" cluster="9" frequency="16" logDice="4.71">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_5c7f7f0d0d08b8f576a9107f674e22dd">misel</comp>
+            </collocation>
+            <collocation form="izpovedati mnenje" cluster="9" frequency="11" logDice="2.74">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_570e657c7ba1bf69e788fb96b4ad3409">mnenje</comp>
+            </collocation>
+            <collocation form="izpovedati pogled" cluster="9" frequency="8" logDice="2.85">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_456820bc1f399479d902f190585f0938">pogled</comp>
+            </collocation>
+            <collocation form="izpovedati idejo" cluster="9" frequency="5" logDice="2.78">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_bc08fbdb1d16143d2fda3ad6a491286a">idejo</comp>
+            </collocation>
+            <collocation form="izpovedati stališče" cluster="9" frequency="5" logDice="2.6">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_f258ebe19a870ef3c0529a47abb1480f">stališče</comp>
+            </collocation>
+            <collocation form="izpovedati skrivnost" cluster="10" frequency="8" logDice="4.53">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_973da8220dff8aba695e375e54ec5826">skrivnost</comp>
+            </collocation>
+            <collocation form="izpovedati lepoto" cluster="10" frequency="4" logDice="4.11">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_f002bf62f37ec6117ea8586a142e8b93">lepoto</comp>
+            </collocation>
+            <collocation form="izpovedati voljo" cluster="11" frequency="9" logDice="4.27">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_302cfe15db5d997ecf0eab411fa16934">voljo</comp>
+            </collocation>
+            <collocation form="izpovedati razpoloženje" cluster="12" frequency="4" logDice="4.19">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_8a67a03ef31d21945ab05558e67e2cde">razpoloženje</comp>
+            </collocation>
+            <collocation form="izpovedati dušo" cluster="13" frequency="6" logDice="4.16">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_49c3c08e561667aedbabadad2babbcc0">dušo</comp>
+            </collocation>
+            <collocation form="izpovedati sanjo" cluster="13" frequency="5" logDice="4.15">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_acb16acb48f5515625108b0a496bffb4">sanjo</comp>
+            </collocation>
+            <collocation form="izpovedati dvom" cluster="14" frequency="5" logDice="3.92">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_643caa426387d84416023f529b20cb7c">dvom</comp>
+            </collocation>
+            <collocation form="izpovedati naklonjenost" cluster="15" frequency="9" logDice="5.66">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_9671436478b39ba7443b07d039e5dae2">naklonjenost</comp>
+            </collocation>
+            <collocation form="izpovedati spoštovanje" cluster="15" frequency="5" logDice="3.86">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_dc3e37e555551487c7fbb7208dcbb604">spoštovanje</comp>
+            </collocation>
+            <collocation form="izpovedati greh" cluster="16" frequency="18" logDice="7.28">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_5eb65c354edc10bc2e3d01c62891b52e">greh</comp>
+            </collocation>
+            <collocation form="izpovedati žalost" cluster="17" frequency="8" logDice="6.08">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_9f1004b08bda49a1f49faa6513423d67">žalost</comp>
+            </collocation>
+            <collocation form="izpovedati videnje" cluster="18" frequency="7" logDice="6.05">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="collocate" sloleks="LE_d1c23cf457274388253235ebd1703ea9">videnje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="izpovedati v pričanju" cluster="1" frequency="4" logDice="8.45">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_b0d0974f2c40b58ff35458dc64205b43">pričanju</comp>
+            </collocation>
+            <collocation form="izpovedati v joku" cluster="2" frequency="4" logDice="7.77">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_2a88fca080cfde80e555655b58781fa8">joku</comp>
+            </collocation>
+            <collocation form="izpovedati v pesmi" cluster="3" frequency="23" logDice="7.42">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_6235b39c027e8b67ccd0ab2a0e87ad16">pesmi</comp>
+            </collocation>
+            <collocation form="izpovedati v obliki" cluster="3" frequency="11" logDice="3.41">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">obliki</comp>
+            </collocation>
+            <collocation form="izpovedati v knjigi" cluster="3" frequency="8" logDice="3.3">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_fcbd23f52ef0d5c8f302f9c1ba64a0e3">knjigi</comp>
+            </collocation>
+            <collocation form="izpovedati v imenu" cluster="3" frequency="6" logDice="3.14">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">imenu</comp>
+            </collocation>
+            <collocation form="izpovedati v filmu" cluster="3" frequency="4" logDice="2.05">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_ef1ac12433b4b7e1e0c31edb0c726d89">filmu</comp>
+            </collocation>
+            <collocation form="izpovedati v celoti" cluster="4" frequency="4" logDice="0.77">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_2b6fa15c45cebff40d7537ca524056db">celoti</comp>
+            </collocation>
+            <collocation form="izpovedati v verzu" cluster="5" frequency="5" logDice="7.65">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_6009e3c7ad90cee2fd51bed6d8d61073">verzu</comp>
+            </collocation>
+            <collocation form="izpovedati v preiskavi" cluster="6" frequency="8" logDice="5.87">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_4cbf898967859468ba882defc9c4603a">preiskavi</comp>
+            </collocation>
+            <collocation form="izpovedati v pismu" cluster="7" frequency="6" logDice="3.77">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_bc3ef9b863fbcf5d9ecc2351db390439">pismu</comp>
+            </collocation>
+            <collocation form="izpovedati v intervjuju" cluster="7" frequency="5" logDice="3.64">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_525d513aa5d48a1add551c8f52f37d12">intervjuju</comp>
+            </collocation>
+            <collocation form="izpovedati v govoru" cluster="7" frequency="4" logDice="3.62">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_62db55b79816c90308de7c02140fb3d5">govoru</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="izpovedati z besedo" cluster="1" frequency="15" logDice="4.12">
+              <comp position="1" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">besedo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz INF-GBZ">
+          <collocations>
+            <collocation form="moči izpovedati" cluster="1" frequency="16" logDice="1.63">
+              <comp position="1" type="collocate" sloleks="LE_d0d5036f97e772cb509411764a3a7f9e">moči</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="znati izpovedati" cluster="1" frequency="14" logDice="1.75">
+              <comp position="1" type="collocate" sloleks="LE_6feb882845b743bbe44baa4fc144910c">znati</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="vedeti izpovedati" cluster="1" frequency="9" logDice="5.47">
+              <comp position="1" type="collocate" sloleks="LE_96a1912ad3bc983daf281c87f30e5a02">vedeti</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="odločiti izpovedati" cluster="1" frequency="6" logDice="2.58">
+              <comp position="1" type="collocate" sloleks="LE_1849ab807e0602a0ae7fa9a648251d4b">odločiti</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="drzniti izpovedati" cluster="2" frequency="5" logDice="4.87">
+              <comp position="1" type="collocate" sloleks="LE_c0cb0e089a1092a13358108d40b8083f">drzniti</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="hoteti izpovedati" cluster="3" frequency="41" logDice="2.45">
+              <comp position="1" type="collocate" sloleks="LE_241ed9c84c6998d75befbc0c88f7151e">hoteti</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="želeti izpovedati" cluster="3" frequency="40" logDice="1.96">
+              <comp position="1" type="collocate" sloleks="LE_17ffd1287d6ed148bbb9efebc7ef0868">želeti</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="imeti izpovedati" cluster="3" frequency="9" logDice="2.89">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="poskušati izpovedati" cluster="3" frequency="6" logDice="0.57">
+              <comp position="1" type="collocate" sloleks="LE_9c7f2d72d37d6705eaaa7d06ef424fb1">poskušati</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="skušati izpovedati" cluster="3" frequency="6" logDice="0.64">
+              <comp position="1" type="collocate" sloleks="LE_215674d5e3ac8fdf9f325a2607209864">skušati</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="upati izpovedati" cluster="4" frequency="8" logDice="3.59">
+              <comp position="1" type="collocate" sloleks="LE_fb0368f2fe4e8aa6f5563f18106718c5">upati</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz INF-GBZ">
+          <collocations>
+            <collocation form="ne upati izpovedati" cluster="1" frequency="5" logDice="3.6">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_fb0368f2fe4e8aa6f5563f18106718c5">upati</comp>
+              <comp position="3" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="ne želeti izpovedati" cluster="2" frequency="6" logDice="1.6">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_17ffd1287d6ed148bbb9efebc7ef0868">želeti</comp>
+              <comp position="3" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="ne dati izpovedati" cluster="2" frequency="5" logDice="3.02">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_251860b7395e9bef61ae04eb36d0639d">dati</comp>
+              <comp position="3" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="ne uspeti izpovedati" cluster="3" frequency="4" logDice="1.56">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_f74450fd8cda7d6b987934ed6da89908">uspeti</comp>
+              <comp position="3" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="ne moči izpovedati" cluster="4" frequency="37" logDice="1.14">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_d0d5036f97e772cb509411764a3a7f9e">moči</comp>
+              <comp position="3" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="ne znati izpovedati" cluster="4" frequency="4" logDice="1.53">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_6feb882845b743bbe44baa4fc144910c">znati</comp>
+              <comp position="3" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="skladno izpovedati" cluster="1" frequency="18" logDice="8.63">
+              <comp position="1" type="collocate" sloleks="LE_f14c7ef908eae4e1e6656f3706e8483c">skladno</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="prostodušno izpovedati" cluster="2" frequency="11" logDice="7.1">
+              <comp position="1" type="collocate" sloleks="LE_e525cd9cfe5ccd0645a05bddec619ba9">prostodušno</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="takole izpovedati" cluster="3" frequency="6" logDice="3.34">
+              <comp position="1" type="collocate" sloleks="LE_33165da64364c4f722308cf50db09471">takole</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="rad izpovedati" cluster="4" frequency="25" logDice="1.43">
+              <comp position="1" type="collocate" sloleks="LE_0a2bb08c60a0cb7fd95c85fd75f2bfca">rad</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="končno izpovedati" cluster="4" frequency="20" logDice="2.74">
+              <comp position="1" type="collocate" sloleks="LE_a6b54d29d4623d8017627af2e317e356">končno</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="znova izpovedati" cluster="4" frequency="17" logDice="1.85">
+              <comp position="1" type="collocate" sloleks="LE_4f000489fb7f7a863547f5ae46af4f41">znova</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="zares izpovedati" cluster="4" frequency="14" logDice="3.22">
+              <comp position="1" type="collocate" sloleks="LE_c463693b79eddcba846d107d225f9293">zares</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="enkrat izpovedati" cluster="4" frequency="14" logDice="2.12">
+              <comp position="1" type="collocate" sloleks="LE_a9aa19f4d3fe9f31d405ae8828e4b2fd">enkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="ponovno izpovedati" cluster="4" frequency="12" logDice="1.7">
+              <comp position="1" type="collocate" sloleks="LE_d94a650618c4501cb830dca806e400ed">ponovno</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="spet izpovedati" cluster="4" frequency="10" logDice="0.35">
+              <comp position="1" type="collocate" sloleks="LE_262d335ce33e8c5f94849e677bc83a19">spet</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="raje izpovedati" cluster="4" frequency="9" logDice="1.46">
+              <comp position="1" type="collocate" sloleks="LE_ffbac6bb621f782b67fe85e3adf7bf8e">raje</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="težko izpovedati" cluster="4" frequency="9" logDice="0.39">
+              <comp position="1" type="collocate" sloleks="LE_1b2258380d2b90f394d61087a8c6ff51">težko</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="kaj izpovedati" cluster="4" frequency="9" logDice="0.09">
+              <comp position="1" type="collocate" sloleks="LE_f9fa365147cf5bfdb5034944905ad608">kaj</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="večkrat izpovedati" cluster="4" frequency="7" logDice="1.3">
+              <comp position="1" type="collocate" sloleks="LE_a632a4cd780b70ff7634918837d4eddb">večkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="drugače izpovedati" cluster="4" frequency="6" logDice="1.83">
+              <comp position="1" type="collocate" sloleks="LE_1940cb5af59315620f694ad96e54c82f">drugače</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="prvič izpovedati" cluster="4" frequency="6" logDice="0.61">
+              <comp position="1" type="collocate" sloleks="LE_158f9759a5a0a0e9ff58fb78bcd899f2">prvič</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="malo izpovedati" cluster="4" frequency="6" logDice="0.55">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="javno izpovedati" cluster="5" frequency="71" logDice="5.71">
+              <comp position="1" type="collocate" sloleks="LE_9b491c373a2c03dacd39956afb8d048a">javno</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="jasno izpovedati" cluster="5" frequency="34" logDice="4.19">
+              <comp position="1" type="collocate" sloleks="LE_115765502e00089ae777b31b616c3576">jasno</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="prepričljivo izpovedati" cluster="5" frequency="29" logDice="5.96">
+              <comp position="1" type="collocate" sloleks="LE_944906e8d7bdb74bdd1750d07c371e18">prepričljivo</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="iskreno izpovedati" cluster="5" frequency="22" logDice="4.91">
+              <comp position="1" type="collocate" sloleks="LE_6f8bcaa65298e7ff941ca1ccaa968db7">iskreno</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="odkrito izpovedati" cluster="5" frequency="9" logDice="4.19">
+              <comp position="1" type="collocate" sloleks="LE_dd9bb17675e1d291d8020fd6cbb19fd1">odkrito</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="podrobno izpovedati" cluster="5" frequency="6" logDice="2.63">
+              <comp position="1" type="collocate" sloleks="LE_ab2099b0a9bfc4b299ff2321cf55becd">podrobno</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="čustveno izpovedati" cluster="6" frequency="9" logDice="6.23">
+              <comp position="1" type="collocate" sloleks="LE_d2215c9b3c3245b2b8549dabf0091d31">čustveno</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="lahko izpovedati" cluster="7" frequency="140" logDice="1.11">
+              <comp position="1" type="collocate" sloleks="LE_4c3da54cd55e36d337ad4ebe20d667c9">lahko</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="svobodno izpovedati" cluster="8" frequency="8" logDice="5.32">
+              <comp position="1" type="collocate" sloleks="LE_34bcfc094b9d55369e9c73dbcc34ee3a">svobodno</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+            <collocation form="naravnost izpovedati" cluster="9" frequency="6" logDice="4.55">
+              <comp position="1" type="collocate" sloleks="LE_ab0b27655baba8e8a87cbd747d6a5a91">naravnost</comp>
+              <comp position="2" type="headword" sloleks="LE_adfd607d0d1c1c25f3ec841701c15271">izpovedati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,63 @@
+<entry>
+  <header>
+    <lexical_unit id="93482">tnalo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">432</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="tnalo za sekanje" cluster="1" frequency="7" logDice="10.03">
+              <comp position="1" type="headword" sloleks="LE_1360565bc18d8c1b91496c997dc137a8">tnalo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_37af4a16b24bf37d925a261996eb9dfc">sekanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz med SBZ6">
+          <collocations>
+            <collocation form="znajti med tnalom" cluster="1" frequency="8" logDice="6.53">
+              <comp position="1" type="collocate" sloleks="LE_c7ea193e7027efd5dd87ce5a7383424d">znajti</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_1360565bc18d8c1b91496c997dc137a8">tnalom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ5">
+          <collocations>
+            <collocation form="znajti na tnalu" cluster="1" frequency="13" logDice="4.27">
+              <comp position="1" type="collocate" sloleks="LE_c7ea193e7027efd5dd87ce5a7383424d">znajti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_1360565bc18d8c1b91496c997dc137a8">tnalu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ4">
+          <collocations>
+            <collocation form="tič na tnalo" cluster="1" frequency="4" logDice="11.41">
+              <comp position="1" type="collocate" sloleks="LE_a0ba75bef911f6ddb7cd2446c2667d91">tič</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_1360565bc18d8c1b91496c997dc137a8">tnalo</comp>
+            </collocation>
+            <collocation form="glava na tnalo" cluster="2" frequency="21" logDice="8.13">
+              <comp position="1" type="collocate" sloleks="LE_49f28ed22f8b4f55f12b45ad1b95d3b0">glava</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_1360565bc18d8c1b91496c997dc137a8">tnalo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ5">
+          <collocations>
+            <collocation form="glava na tnalu" cluster="1" frequency="32" logDice="9.51">
+              <comp position="1" type="collocate" sloleks="LE_49f28ed22f8b4f55f12b45ad1b95d3b0">glava</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_1360565bc18d8c1b91496c997dc137a8">tnalu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="3748780">sovoditeljica</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="sovoditeljica iz oddaje" cluster="1" frequency="4" logDice="7.02">
+              <comp position="1" type="headword" sloleks="">sovoditeljica</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_52a0fe564a02d70a3d3b0b3a704b365a">oddaje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="sovoditeljica oddaje" cluster="1" frequency="62" logDice="5.37">
+              <comp position="1" type="headword" sloleks="">sovoditeljica</comp>
+              <comp position="2" type="collocate" sloleks="LE_52a0fe564a02d70a3d3b0b3a704b365a">oddaje</comp>
+            </collocation>
+            <collocation form="sovoditeljica večera" cluster="2" frequency="10" logDice="3.74">
+              <comp position="1" type="headword" sloleks="">sovoditeljica</comp>
+              <comp position="2" type="collocate" sloleks="LE_19ad54ddbd118041967cb2362c53e3be">večera</comp>
+            </collocation>
+            <collocation form="vloga sovoditeljica" cluster="3" frequency="26" logDice="2.77">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="">sovoditeljica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

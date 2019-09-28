@@ -1,0 +1,72 @@
+<entry>
+  <header>
+    <lexical_unit id="60263">impregnacija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">463</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="impregnacija kola" cluster="1" frequency="8" logDice="4.74">
+              <comp position="1" type="headword" sloleks="LE_726bdcb3616098f07df7af1874e9b2bd">impregnacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_e23f67dea919d726d600096e74d83213">kola</comp>
+            </collocation>
+            <collocation form="impregnacija lesa" cluster="2" frequency="16" logDice="4.7">
+              <comp position="1" type="headword" sloleks="LE_726bdcb3616098f07df7af1874e9b2bd">impregnacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_a64d3c025e48884a3606fcff72b3d118">lesa</comp>
+            </collocation>
+            <collocation form="impregnacija oblačila" cluster="3" frequency="13" logDice="4.51">
+              <comp position="1" type="headword" sloleks="LE_726bdcb3616098f07df7af1874e9b2bd">impregnacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_bd99cf35070ea402a178ea6ec61df2cc">oblačila</comp>
+            </collocation>
+            <collocation form="postopek impregnacije" cluster="4" frequency="30" logDice="3.36">
+              <comp position="1" type="collocate" sloleks="LE_775481f1f5ba42be7d6b3125176050cb">postopek</comp>
+              <comp position="2" type="headword" sloleks="LE_726bdcb3616098f07df7af1874e9b2bd">impregnacije</comp>
+            </collocation>
+            <collocation form="učinek impregnacije" cluster="5" frequency="5" logDice="2.0">
+              <comp position="1" type="collocate" sloleks="LE_2353cab56c2f4b095b8ea704f5199db8">učinek</comp>
+              <comp position="2" type="headword" sloleks="LE_726bdcb3616098f07df7af1874e9b2bd">impregnacije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="impregnacija s sredstvom" cluster="1" frequency="6" logDice="4.42">
+              <comp position="1" type="headword" sloleks="LE_726bdcb3616098f07df7af1874e9b2bd">impregnacija</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_94c4f4cf5104632466509789b5cde032">sredstvom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="uporabljati za impregnacijo" cluster="1" frequency="6" logDice="2.45">
+              <comp position="1" type="collocate" sloleks="LE_7a8b477802781e8149004a2a769c51c1">uporabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_726bdcb3616098f07df7af1874e9b2bd">impregnacijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="globinska impregnacija" cluster="1" frequency="19" logDice="7.13">
+              <comp position="1" type="collocate" sloleks="LE_6dc2b0e3733d59b5c0f679bb0e85ade0">globinska</comp>
+              <comp position="2" type="headword" sloleks="LE_726bdcb3616098f07df7af1874e9b2bd">impregnacija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="sredstvo za impregnacijo" cluster="1" frequency="20" logDice="3.35">
+              <comp position="1" type="collocate" sloleks="LE_94c4f4cf5104632466509789b5cde032">sredstvo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_726bdcb3616098f07df7af1874e9b2bd">impregnacijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

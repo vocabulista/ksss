@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="54433">dril</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">558</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="dril za maturo" cluster="1" frequency="15" logDice="8.0">
+              <comp position="1" type="headword" sloleks="LE_1d3155f6c4965973ff7f617a597ca795">dril</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_0a142ca8674320ac1712fafbc8aa2e26">maturo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="narediti z drilom" cluster="1" frequency="4" logDice="3.41">
+              <comp position="1" type="collocate" sloleks="LE_26dfa51ea71580c729d6a49ea3108777">narediti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_1d3155f6c4965973ff7f617a597ca795">drilom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="vojaški dril" cluster="1" frequency="59" logDice="3.52">
+              <comp position="1" type="collocate" sloleks="LE_7148397ee3df6dc9fba14c0f25b252e3">vojaški</comp>
+              <comp position="2" type="headword" sloleks="LE_1d3155f6c4965973ff7f617a597ca795">dril</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="mesec drila" cluster="1" frequency="6" logDice="1.0">
+              <comp position="1" type="collocate" sloleks="LE_d87e72e2a6ded77b0ae520112759ad42">mesec</comp>
+              <comp position="2" type="headword" sloleks="LE_1d3155f6c4965973ff7f617a597ca795">drila</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

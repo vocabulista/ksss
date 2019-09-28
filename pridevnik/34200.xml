@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="34200">smetanast</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">407</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="smetanast in bež" cluster="1" frequency="5" logDice="8.11">
+              <comp position="1" type="headword" sloleks="LE_d207cbdeee273970ede06ed17f6adbe9">smetanast</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_231996655117ba1b17748df792317fe4">bež</comp>
+            </collocation>
+            <collocation form="smetanast in/ali rjav" cluster="2" frequency="5" logDice="5.53">
+              <comp position="3" type="headword" sloleks="LE_d207cbdeee273970ede06ed17f6adbe9">smetanast</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_907b694ff54d40e0f7f867c38196727d">rjav</comp>
+              </collocation>
+            <collocation form="smetanast in/ali bel" cluster="3" frequency="15" logDice="5.12">
+              <comp position="3" type="headword" sloleks="LE_d207cbdeee273970ede06ed17f6adbe9">smetanast</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_50f9b0a6743feeba2fd5482919490dd5">bel</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="smetanast odtenek" cluster="1" frequency="19" logDice="4.56">
+              <comp position="1" type="headword" sloleks="LE_d207cbdeee273970ede06ed17f6adbe9">smetanast</comp>
+              <comp position="2" type="collocate" sloleks="LE_40fdd4b601f68cbf6f6a8017077690fd">odtenek</comp>
+            </collocation>
+            <collocation form="smetanasta barva" cluster="2" frequency="117" logDice="4.55">
+              <comp position="1" type="headword" sloleks="LE_d207cbdeee273970ede06ed17f6adbe9">smetanasta</comp>
+              <comp position="2" type="collocate" sloleks="LE_d066cf8419aa6609519c184ed701618e">barva</comp>
+            </collocation>
+            <collocation form="smetanasta krema" cluster="3" frequency="11" logDice="4.06">
+              <comp position="1" type="headword" sloleks="LE_d207cbdeee273970ede06ed17f6adbe9">smetanasta</comp>
+              <comp position="2" type="collocate" sloleks="LE_c580085f66825beed3ba7cb6bbeb817d">krema</comp>
+            </collocation>
+            <collocation form="smetanasta omaka" cluster="3" frequency="10" logDice="3.8">
+              <comp position="1" type="headword" sloleks="LE_d207cbdeee273970ede06ed17f6adbe9">smetanasta</comp>
+              <comp position="2" type="collocate" sloleks="LE_23544152bbf41e13a1bc96c9137fb2c2">omaka</comp>
+            </collocation>
+            <collocation form="smetanast sir" cluster="4" frequency="7" logDice="3.58">
+              <comp position="1" type="headword" sloleks="LE_d207cbdeee273970ede06ed17f6adbe9">smetanast</comp>
+              <comp position="2" type="collocate" sloleks="LE_7e0c00695c0da6161f60ca2c06d4efd1">sir</comp>
+            </collocation>
+            <collocation form="smetanast okus" cluster="5" frequency="10" logDice="3.02">
+              <comp position="1" type="headword" sloleks="LE_d207cbdeee273970ede06ed17f6adbe9">smetanast</comp>
+              <comp position="2" type="collocate" sloleks="LE_d8073f7c60c2504626fd4db48536f904">okus</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

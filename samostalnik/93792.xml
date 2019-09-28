@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="93792">tožarjenje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">524</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 med sbz6">
+          <collocations>
+            <collocation form="tožarjenje med vlado" cluster="1" frequency="5" logDice="5.12">
+              <comp position="1" type="headword" sloleks="LE_15f4dc683a28621e0f60343a92f388c9">tožarjenje</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_63d183132c68728be91773043828fb2d">vlado</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="tožarjenje za figo" cluster="1" frequency="7" logDice="11.01">
+              <comp position="1" type="headword" sloleks="LE_15f4dc683a28621e0f60343a92f388c9">tožarjenje</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_9e2087856b81c59dc4f4e8a35e2a5895">figo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="dolgotrajno tožarjenje" cluster="1" frequency="11" logDice="3.48">
+              <comp position="1" type="collocate" sloleks="LE_5a1584a7c3ca53701fbc4fda0e0db950">dolgotrajno</comp>
+              <comp position="2" type="headword" sloleks="LE_15f4dc683a28621e0f60343a92f388c9">tožarjenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="desetletje tožarjenja" cluster="1" frequency="5" logDice="3.61">
+              <comp position="1" type="collocate" sloleks="LE_4253ad8e7581fd8e544b601b1a701ed9">desetletje</comp>
+              <comp position="2" type="headword" sloleks="LE_15f4dc683a28621e0f60343a92f388c9">tožarjenja</comp>
+            </collocation>
+            <collocation form="leto tožarjenja" cluster="2" frequency="28" logDice="1.47">
+              <comp position="1" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leto</comp>
+              <comp position="2" type="headword" sloleks="LE_15f4dc683a28621e0f60343a92f388c9">tožarjenja</comp>
+            </collocation>
+            <collocation form="posledica tožarjenja" cluster="3" frequency="6" logDice="0.53">
+              <comp position="1" type="collocate" sloleks="LE_9e94e198ec2c32de37b2bd7b6e54af2e">posledica</comp>
+              <comp position="2" type="headword" sloleks="LE_15f4dc683a28621e0f60343a92f388c9">tožarjenja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

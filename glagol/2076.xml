@@ -1,0 +1,48 @@
+<entry>
+  <header>
+    <lexical_unit id="2076">kliti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">370</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ iz sbz2">
+          <collocations>
+            <collocation form="kliti iz zemlje" cluster="1" frequency="9" logDice="7.25">
+              <comp position="1" type="headword" sloleks="LE_1c90db4106aaa918fe506733e48b814e">kliti</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_9f4cbbb2b72bac81739b4274ec0514cc">zemlje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="kliti v indokina" cluster="1" frequency="6" logDice="11.12">
+              <comp position="1" type="headword" sloleks="LE_1c90db4106aaa918fe506733e48b814e">kliti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="">indokina</comp>
+            </collocation>
+            <collocation form="kliti v srcu" cluster="2" frequency="4" logDice="3.97">
+              <comp position="1" type="headword" sloleks="LE_1c90db4106aaa918fe506733e48b814e">kliti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_d24995e836bb300ecd1d5cd3d7e5f543">srcu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="živo kliti" cluster="1" frequency="8" logDice="4.48">
+              <comp position="1" type="collocate" sloleks="LE_3254cce79bb838ad557144a541c0fa49">živo</comp>
+              <comp position="2" type="headword" sloleks="LE_1c90db4106aaa918fe506733e48b814e">kliti</comp>
+            </collocation>
+            <collocation form="počasi kliti" cluster="2" frequency="4" logDice="0.6">
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              <comp position="2" type="headword" sloleks="LE_1c90db4106aaa918fe506733e48b814e">kliti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

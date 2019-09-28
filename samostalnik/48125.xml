@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="48125">avba</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">437</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="gorenjska avba" cluster="1" frequency="9" logDice="1.96">
+              <comp position="1" type="collocate" sloleks="LE_72adb85d47a88a0222f3847db8b927c4">gorenjska</comp>
+              <comp position="2" type="headword" sloleks="LE_d16d748a1f9feec4d3a0df62a666fcca">avba</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="studijo avbe" cluster="1" frequency="5" logDice="9.45">
+              <comp position="1" type="collocate" sloleks="LE_35a8eecb165b3e56dc0332d96b6fa96b">studijo</comp>
+              <comp position="2" type="headword" sloleks="LE_d16d748a1f9feec4d3a0df62a666fcca">avbe</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="noša z avbo" cluster="1" frequency="6" logDice="10.28">
+              <comp position="1" type="collocate" sloleks="LE_c3b5615775b365c942e3c634c8653649">noša</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d16d748a1f9feec4d3a0df62a666fcca">avbo</comp>
+            </collocation>
+            <collocation form="deklica z avbo" cluster="2" frequency="6" logDice="6.02">
+              <comp position="1" type="collocate" sloleks="LE_1201924cfa45213e53c4c6749335b38c">deklica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d16d748a1f9feec4d3a0df62a666fcca">avbo</comp>
+            </collocation>
+            <collocation form="avba s čelnikom" cluster="3" frequency="8" logDice="12.91">
+              <comp position="1" type="headword" sloleks="LE_d16d748a1f9feec4d3a0df62a666fcca">avba</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_a1eb1856790f49d6d576413c6f957df8">čelnikom</comp>
+            </collocation>
+            <collocation form="avba z vrhom" cluster="4" frequency="7" logDice="7.04">
+              <comp position="1" type="headword" sloleks="LE_d16d748a1f9feec4d3a0df62a666fcca">avba</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_5111d9a7de58321a8ec7f1a0aa9fce76">vrhom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="38836">zaveten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">458</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="zavetno rastišče" cluster="1" frequency="28" logDice="8.04">
+              <comp position="1" type="headword" sloleks="LE_06f77d98962b9f16bb0fe54cf8efd193">zavetno</comp>
+              <comp position="2" type="collocate" sloleks="LE_fbddb441d18099fef50d3113bda4aa57">rastišče</comp>
+            </collocation>
+            <collocation form="zavetna lega" cluster="2" frequency="183" logDice="7.91">
+              <comp position="1" type="headword" sloleks="LE_06f77d98962b9f16bb0fe54cf8efd193">zavetna</comp>
+              <comp position="2" type="collocate" sloleks="LE_7c1c89c47948f9c414a96b3c5f78701b">lega</comp>
+            </collocation>
+            <collocation form="zaveten kotiček" cluster="3" frequency="15" logDice="3.78">
+              <comp position="1" type="headword" sloleks="LE_06f77d98962b9f16bb0fe54cf8efd193">zaveten</comp>
+              <comp position="2" type="collocate" sloleks="LE_bb6271f93c63745f529b0d76d75f7297">kotiček</comp>
+            </collocation>
+            <collocation form="zaveten kot" cluster="4" frequency="7" logDice="2.62">
+              <comp position="1" type="headword" sloleks="LE_06f77d98962b9f16bb0fe54cf8efd193">zaveten</comp>
+              <comp position="2" type="collocate" sloleks="LE_ae787891acc8a9d74ac5833ea12d3e82">kot</comp>
+            </collocation>
+            <collocation form="zaveten prostor" cluster="5" frequency="40" logDice="1.75">
+              <comp position="1" type="headword" sloleks="LE_06f77d98962b9f16bb0fe54cf8efd193">zaveten</comp>
+              <comp position="2" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostor</comp>
+            </collocation>
+            <collocation form="zaveten kraj" cluster="5" frequency="11" logDice="1.73">
+              <comp position="1" type="headword" sloleks="LE_06f77d98962b9f16bb0fe54cf8efd193">zaveten</comp>
+              <comp position="2" type="collocate" sloleks="LE_7f68ad51dbf6aa81c1b08f8afa92155d">kraj</comp>
+            </collocation>
+            <collocation form="zavetno mesto" cluster="6" frequency="47" logDice="1.07">
+              <comp position="1" type="headword" sloleks="LE_06f77d98962b9f16bb0fe54cf8efd193">zavetno</comp>
+              <comp position="2" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesto</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="zaveten in/ali sončen" cluster="1" frequency="35" logDice="8.33">
+              <comp position="3" type="headword" sloleks="LE_06f77d98962b9f16bb0fe54cf8efd193">zaveten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_8c1f776f0fa2589d6cd8e7ab798a9ee3">sončen</comp>
+              </collocation>
+            <collocation form="zaveten in/ali topel" cluster="2" frequency="5" logDice="4.01">
+              <comp position="3" type="headword" sloleks="LE_06f77d98962b9f16bb0fe54cf8efd193">zaveten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_c0675a8403caf39f14d2558793dfdb99">topel</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="17295">enojajčen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">809</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="enojajčen in dvojajčen" cluster="1" frequency="26" logDice="13.86">
+              <comp position="1" type="headword" sloleks="LE_6b2b3ae16600b4ff919bd42eab48fb89">enojajčen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_d8d9781ce1b1b442eb805e15f476e887">dvojajčen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="enojajčen dvojček" cluster="1" frequency="596" logDice="11.45">
+              <comp position="1" type="headword" sloleks="LE_6b2b3ae16600b4ff919bd42eab48fb89">enojajčen</comp>
+              <comp position="2" type="collocate" sloleks="LE_498ae463bc84f6b1184797a8e33ccb07">dvojček</comp>
+            </collocation>
+            <collocation form="enojajčna dvojčica" cluster="2" frequency="96" logDice="10.13">
+              <comp position="1" type="headword" sloleks="LE_6b2b3ae16600b4ff919bd42eab48fb89">enojajčna</comp>
+              <comp position="2" type="collocate" sloleks="LE_113faff1f34dd52cbf89617fcabfe7d0">dvojčica</comp>
+            </collocation>
+            <collocation form="enojajčen četverček" cluster="3" frequency="8" logDice="7.93">
+              <comp position="1" type="headword" sloleks="LE_6b2b3ae16600b4ff919bd42eab48fb89">enojajčen</comp>
+              <comp position="2" type="collocate" sloleks="LE_c5051d168ac2d3f671610a7e961be096">četverček</comp>
+            </collocation>
+            <collocation form="enojajčen trojček" cluster="4" frequency="12" logDice="6.35">
+              <comp position="1" type="headword" sloleks="LE_6b2b3ae16600b4ff919bd42eab48fb89">enojajčen</comp>
+              <comp position="2" type="collocate" sloleks="LE_5b7d53235b4ddc0dd717d2e089d44b6d">trojček</comp>
+            </collocation>
+            <collocation form="enojajčen brat" cluster="5" frequency="13" logDice="3.46">
+              <comp position="1" type="headword" sloleks="LE_6b2b3ae16600b4ff919bd42eab48fb89">enojajčen</comp>
+              <comp position="2" type="collocate" sloleks="LE_596080a448c9d7dd107473b477aa03f5">brat</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

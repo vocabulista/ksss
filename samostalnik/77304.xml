@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="77304">pektin</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">667</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="pektin iz jabolka" cluster="1" frequency="4" logDice="7.86">
+              <comp position="1" type="headword" sloleks="LE_d3efe197919d09d944c86e417be765c7">pektin</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_a104929e83f92e22bd68e5d8d22a2a38">jabolka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="jabolčen pektin" cluster="1" frequency="16" logDice="5.53">
+              <comp position="1" type="collocate" sloleks="LE_d121abce36428f37c53a1630874131ca">jabolčen</comp>
+              <comp position="2" type="headword" sloleks="LE_d3efe197919d09d944c86e417be765c7">pektin</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="vsebnost pektina" cluster="1" frequency="23" logDice="5.45">
+              <comp position="1" type="collocate" sloleks="LE_c106e18be1f139599f4c0b8561c4dc18">vsebnost</comp>
+              <comp position="2" type="headword" sloleks="LE_d3efe197919d09d944c86e417be765c7">pektina</comp>
+            </collocation>
+            <collocation form="dodatek pektina" cluster="2" frequency="8" logDice="4.81">
+              <comp position="1" type="collocate" sloleks="LE_b823bdcf315aa4e078f3dbc0741bde3b">dodatek</comp>
+              <comp position="2" type="headword" sloleks="LE_d3efe197919d09d944c86e417be765c7">pektina</comp>
+            </collocation>
+            <collocation form="g pektina" cluster="3" frequency="7" logDice="1.56">
+              <comp position="1" type="collocate" sloleks="LE_ca18aba540992b5043c6ba88e8ebb544">g</comp>
+              <comp position="2" type="headword" sloleks="LE_d3efe197919d09d944c86e417be765c7">pektina</comp>
+            </collocation>
+            <collocation form="količina pektina" cluster="4" frequency="6" logDice="1.04">
+              <comp position="1" type="collocate" sloleks="LE_962c73eca27e836ddb2ea664db69f933">količina</comp>
+              <comp position="2" type="headword" sloleks="LE_d3efe197919d09d944c86e417be765c7">pektina</comp>
+            </collocation>
+            <collocation form="vir pektina" cluster="4" frequency="5" logDice="1.4">
+              <comp position="1" type="collocate" sloleks="LE_f2868b5fa7700f4f1a6833f2b2436164">vir</comp>
+              <comp position="2" type="headword" sloleks="LE_d3efe197919d09d944c86e417be765c7">pektina</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

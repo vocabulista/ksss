@@ -1,0 +1,686 @@
+<entry>
+  <header>
+    <lexical_unit id="4286">opremljati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">3475</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ po sbz5">
+          <collocations>
+            <collocation form="opremljati po okusu" cluster="1" frequency="5" logDice="4.75">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_d8073f7c60c2504626fd4db48536f904">okusu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ pred sbz6">
+          <collocations>
+            <collocation form="opremljati pred letom" cluster="1" frequency="5" logDice="-0.4">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">letom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="opremljati postopoma" cluster="1" frequency="15" logDice="5.59">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_f8f0b77648353a666e440c43b667da04">postopoma</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="opremljati stanovanje" cluster="1" frequency="143" logDice="7.32">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_790d388e4f6c9a2d50a5209ec61504cf">stanovanje</comp>
+            </collocation>
+            <collocation form="opremljati dom" cluster="1" frequency="39" logDice="5.69">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">dom</comp>
+            </collocation>
+            <collocation form="opremljati hišo" cluster="1" frequency="34" logDice="4.8">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_34e4b2cb65c667c6bf374f39db0e3597">hišo</comp>
+            </collocation>
+            <collocation form="opremljati sobo" cluster="1" frequency="30" logDice="6.35">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_51d0948fdcd403a7c15f9ade2ec2b331">sobo</comp>
+            </collocation>
+            <collocation form="opremljati objekt" cluster="1" frequency="21" logDice="5.37">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_bb14223520452df1f116f86800767b80">objekt</comp>
+            </collocation>
+            <collocation form="opremljati pisarno" cluster="1" frequency="12" logDice="6.03">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_ada0b3b67080bfe4f736eaed10233e9f">pisarno</comp>
+            </collocation>
+            <collocation form="opremljati dvorano" cluster="1" frequency="11" logDice="4.75">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_d64c66af1b698f149c6831679980b777">dvorano</comp>
+            </collocation>
+            <collocation form="opremljati šolo" cluster="1" frequency="10" logDice="3.33">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_9c664dac39a3cc920d3849a80fadafa1">šolo</comp>
+            </collocation>
+            <collocation form="opremljati vrtec" cluster="1" frequency="5" logDice="5.01">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_d5d9fb22d8139d9f364e7dccc5a3b053">vrtec</comp>
+            </collocation>
+            <collocation form="opremljati trgovino" cluster="1" frequency="5" logDice="3.87">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_e6520ed1b394dc72516ec7ff3398e16c">trgovino</comp>
+            </collocation>
+            <collocation form="opremljati stavbo" cluster="1" frequency="4" logDice="4.13">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_d6a366f04b453f7b73bf85471dedf273">stavbo</comp>
+            </collocation>
+            <collocation form="opremljati lokal" cluster="2" frequency="17" logDice="6.41">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_01a5a1a8780f9f8195bad6f52f34943f">lokal</comp>
+            </collocation>
+            <collocation form="opremljati hotel" cluster="2" frequency="10" logDice="5.34">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_11a5bf5cb49046224e398004267e2b90">hotel</comp>
+            </collocation>
+            <collocation form="opremljati studio" cluster="2" frequency="9" logDice="7.12">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_64c64d75da241d695e5036144a68ba76">studio</comp>
+            </collocation>
+            <collocation form="opremljati delavnico" cluster="2" frequency="7" logDice="4.22">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_cdb16d4c515c146a270237e7a121813e">delavnico</comp>
+            </collocation>
+            <collocation form="opremljati jahto" cluster="3" frequency="5" logDice="6.05">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_ecd03c92e15f9f7324a63e9f7a78c6a2">jahto</comp>
+            </collocation>
+            <collocation form="opremljati jadrnico" cluster="4" frequency="6" logDice="5.83">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_1ef3fdbab9e487b8258439443e4860dc">jadrnico</comp>
+            </collocation>
+            <collocation form="opremljati ladjo" cluster="4" frequency="6" logDice="4.82">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_22276d3f354f37114d4e36e499994820">ladjo</comp>
+            </collocation>
+            <collocation form="opremljati plovilo" cluster="4" frequency="4" logDice="5.56">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_e2a47bdc28bc460e5719bcb7c439486b">plovilo</comp>
+            </collocation>
+            <collocation form="opremljati vojsko" cluster="5" frequency="16" logDice="5.81">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_014592c93c5ecc51294b73e71f55d921">vojsko</comp>
+            </collocation>
+            <collocation form="opremljati policijo" cluster="5" frequency="11" logDice="4.78">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_2cbcc28e51681d01396cf12d363ca178">policijo</comp>
+            </collocation>
+            <collocation form="opremljati enoto" cluster="5" frequency="6" logDice="4.43">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_5b2baaa4fc466ab2dbf8c640e98f7c08">enoto</comp>
+            </collocation>
+            <collocation form="opremljati vojaka" cluster="5" frequency="4" logDice="4.3">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_50a152b15610e2758436c8873b44b272">vojaka</comp>
+            </collocation>
+            <collocation form="opremljati notranjost" cluster="6" frequency="9" logDice="5.7">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_00fc6e317e8f7ea30a0ffa258a11fd5e">notranjost</comp>
+            </collocation>
+            <collocation form="opremljati glasilo" cluster="7" frequency="4" logDice="5.6">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_f331c55d7e479292b459405086cca3cb">glasilo</comp>
+            </collocation>
+            <collocation form="opremljati laboratorij" cluster="8" frequency="5" logDice="5.56">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_3f53cda292387faa5be5c9d471804ff4">laboratorij</comp>
+            </collocation>
+            <collocation form="opremljati apartma" cluster="9" frequency="4" logDice="5.45">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_3babc86c82ec37b79a47fc0f5877c9cc">apartma</comp>
+            </collocation>
+            <collocation form="opremljati učilnico" cluster="10" frequency="11" logDice="6.9">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_f2056b21c30178847696eb0ed2cbdc27">učilnico</comp>
+            </collocation>
+            <collocation form="opremljati telovadnico" cluster="10" frequency="4" logDice="5.39">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_d438c6820aeb118a06c1ec1cd8a5062e">telovadnico</comp>
+            </collocation>
+            <collocation form="opremljati moštvo" cluster="11" frequency="17" logDice="5.44">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_debb225ddad7d017db950b83fe872cc5">moštvo</comp>
+            </collocation>
+            <collocation form="opremljati ekipo" cluster="11" frequency="14" logDice="3.87">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9e9e733fb718cd2faed16b97326064f">ekipo</comp>
+            </collocation>
+            <collocation form="opremljati reprezentanco" cluster="11" frequency="8" logDice="4.97">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_ab20d9934c471c4736524ae4ef3b38f6">reprezentanco</comp>
+            </collocation>
+            <collocation form="opremljati vozilo" cluster="12" frequency="23" logDice="5.31">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_267f3855f5e4ffa5815a1263d2a6c788">vozilo</comp>
+            </collocation>
+            <collocation form="opremljati avtomobil" cluster="12" frequency="17" logDice="4.58">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_2d371ce9cfa94488baae8dd8023002e4">avtomobil</comp>
+            </collocation>
+            <collocation form="opremljati izdelek" cluster="12" frequency="15" logDice="3.85">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_bbffae950f5cec8d80d5d541602c3313">izdelek</comp>
+            </collocation>
+            <collocation form="opremljati model" cluster="12" frequency="9" logDice="3.88">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_00f514f4ab76241d7f74b78e7f7fd1e5|LE_2faafd51dc30a40943b7e986dbaa7456">model</comp>
+            </collocation>
+            <collocation form="opremljati računalnik" cluster="12" frequency="8" logDice="4.03">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b8ee172630f061da51fb6d4a9d5549ba">računalnik</comp>
+            </collocation>
+            <collocation form="opremljati motor" cluster="12" frequency="4" logDice="3.34">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_f2500a2481839c4e1efd6315d8b961cc">motor</comp>
+            </collocation>
+            <collocation form="opremljati elektrarno" cluster="13" frequency="4" logDice="5.31">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_5f3bac6b04829934c6017f1a3b1c8368">elektrarno</comp>
+            </collocation>
+            <collocation form="opremljati rod" cluster="14" frequency="5" logDice="5.28">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_0209fb9e7b7e33421f5518f6401df8cf">rod</comp>
+            </collocation>
+            <collocation form="opremljati gnezdo" cluster="15" frequency="4" logDice="5.15">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_0f6e3abd36f0a5440fde2cfb5f037a3a">gnezdo</comp>
+            </collocation>
+            <collocation form="opremljati prostor" cluster="16" frequency="76" logDice="5.1">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostor</comp>
+            </collocation>
+            <collocation form="opremljati območje" cluster="16" frequency="8" logDice="4.08">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_637bb12e70b217aeada98e77f3559b30">območje</comp>
+            </collocation>
+            <collocation form="opremljati večino" cluster="16" frequency="5" logDice="2.45">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_72538287b447b4b7a75d1faf227dd3da">večino</comp>
+            </collocation>
+            <collocation form="opremljati podjetje" cluster="16" frequency="5" logDice="2.17">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_1aed870e4b1c077c155d34b01ab0af57">podjetje</comp>
+            </collocation>
+            <collocation form="opremljati mesto" cluster="16" frequency="5" logDice="0.12">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesto</comp>
+            </collocation>
+            <collocation form="opremljati kuhinjo" cluster="17" frequency="12" logDice="6.3">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_682212ad1ed7800b19f53623f26964dc">kuhinjo</comp>
+            </collocation>
+            <collocation form="opremljati spalnico" cluster="17" frequency="8" logDice="6.77">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_92e238d777db909f56d9ec838ced0e33">spalnico</comp>
+            </collocation>
+            <collocation form="opremljati zemljišče" cluster="18" frequency="10" logDice="4.85">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_1cfb3ff88e57bbeea24a81c9c41ac50b">zemljišče</comp>
+            </collocation>
+            <collocation form="opremljati igrišče" cluster="19" frequency="5" logDice="4.54">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_043011ce60cbc5114bdce3da8f1a4a07">igrišče</comp>
+            </collocation>
+            <collocation form="opremljati sceno" cluster="19" frequency="4" logDice="4.65">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b36c7cac8ddfc37cb3e05f6c9ef7339d">sceno</comp>
+            </collocation>
+            <collocation form="opremljati pošto" cluster="20" frequency="6" logDice="4.59">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_ee712e0ab90cf491d47cce41c9c6a049">pošto</comp>
+            </collocation>
+            <collocation form="opremljati sobico" cluster="21" frequency="6" logDice="6.74">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6c8c2c19b9d307cb3de3403387b51714">sobico</comp>
+            </collocation>
+            <collocation form="opremljati knjigo" cluster="22" frequency="14" logDice="3.18">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_fcbd23f52ef0d5c8f302f9c1ba64a0e3">knjigo</comp>
+            </collocation>
+            <collocation form="opremljati časopis" cluster="22" frequency="5" logDice="3.88">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_34e3ef81e77e995ef88c4b217d0fffce">časopis</comp>
+            </collocation>
+            <collocation form="opremljati članek" cluster="22" frequency="5" logDice="3.51">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_7b76be0a2bcca59d06b588fb3688bdd2">članek</comp>
+            </collocation>
+            <collocation form="opremljati besedilo" cluster="22" frequency="5" logDice="3.1">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_c2cf3f2b59c7730608bd4c4e20b22ee6">besedilo</comp>
+            </collocation>
+            <collocation form="opremljati film" cluster="22" frequency="5" logDice="1.89">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_ef1ac12433b4b7e1e0c31edb0c726d89">film</comp>
+            </collocation>
+            <collocation form="opremljati rezidenco" cluster="23" frequency="6" logDice="6.57">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_5d24c35ead4486329e73582e759d79d3">rezidenco</comp>
+            </collocation>
+            <collocation form="opremljati leto" cluster="24" frequency="17" logDice="1.87">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leto</comp>
+            </collocation>
+            <collocation form="opremljati čas" cluster="24" frequency="5" logDice="0.38">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">čas</comp>
+            </collocation>
+            <collocation form="opremljati cono" cluster="25" frequency="8" logDice="6.2">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9b311cee17fff1e51df62f704cbbf2e">cono</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="opremljati v slogu" cluster="1" frequency="6" logDice="3.65">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_65244e80aea10cbd65a5e9b0824c3fdb">slogu</comp>
+            </collocation>
+            <collocation form="opremljati v sezoni" cluster="2" frequency="4" logDice="0.76">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_e4683b52a3640372e171726e214d12fb">sezoni</comp>
+            </collocation>
+            <collocation form="opremljati v letu" cluster="3" frequency="6" logDice="-0.95">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">letu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="opremljati z napisom" cluster="1" frequency="25" logDice="8.48">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_5fb842be5b9529b5c0ae5eccdd7256f4">napisom</comp>
+            </collocation>
+            <collocation form="opremljati z oznako" cluster="1" frequency="9" logDice="6.87">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_c30284008706011d571d9d77b13dc6f8">oznako</comp>
+            </collocation>
+            <collocation form="opremljati z znakom" cluster="1" frequency="6" logDice="6.23">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_c14b604b2ebc69adbffa17600b4697c8">znakom</comp>
+            </collocation>
+            <collocation form="opremljati z gumo" cluster="2" frequency="18" logDice="8.29">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_fe7d88b7ecacdaa8905419ce69f9fa90">gumo</comp>
+            </collocation>
+            <collocation form="opremljati z pnevmatiko" cluster="2" frequency="5" logDice="6.96">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_919f12d09b708d2d42359dc4141dfff1">pnevmatiko</comp>
+            </collocation>
+            <collocation form="opremljati z nalepko" cluster="3" frequency="7" logDice="7.26">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_a984cc8ef0d3501d93cf70b144d87b7b">nalepko</comp>
+            </collocation>
+            <collocation form="opremljati z oddajnikom" cluster="4" frequency="5" logDice="7.24">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_4ecc011239a3f74092300bb15c0d8c5c">oddajnikom</comp>
+            </collocation>
+            <collocation form="opremljati z oblačilom" cluster="5" frequency="11" logDice="7.23">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_bd99cf35070ea402a178ea6ec61df2cc">oblačilom</comp>
+            </collocation>
+            <collocation form="opremljati z pohištvom" cluster="5" frequency="11" logDice="7.9">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_c2f423a41796133acc52919135a5b6cb">pohištvom</comp>
+            </collocation>
+            <collocation form="opremljati z tehnologijo" cluster="6" frequency="18" logDice="6.92">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_f60ec9358517b03c1fa8e59cbc05b034">tehnologijo</comp>
+            </collocation>
+            <collocation form="opremljati z tehniko" cluster="6" frequency="9" logDice="6.19">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_aa90d51520eb3d2bebaf7c31f2a23c3b">tehniko</comp>
+            </collocation>
+            <collocation form="opremljati z mehanizmom" cluster="6" frequency="8" logDice="7.23">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_934c33c1f444169d1a86a3905821a90c">mehanizmom</comp>
+            </collocation>
+            <collocation form="opremljati z pripomočkom" cluster="6" frequency="6" logDice="6.66">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_708e8688a229e661e0b8e813c4453a4e">pripomočkom</comp>
+            </collocation>
+            <collocation form="opremljati z orodjem" cluster="6" frequency="4" logDice="5.41">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_3b1356a44988927a9313d8fa7c7f7bc1">orodjem</comp>
+            </collocation>
+            <collocation form="opremljati s skrinjico" cluster="7" frequency="4" logDice="7.11">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_60de149ff52a47f1665ff453cccfe583">skrinjico</comp>
+            </collocation>
+            <collocation form="opremljati z sistemom" cluster="8" frequency="30" logDice="7.07">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_b126847d984efa55c2ffad50be4e1dac">sistemom</comp>
+            </collocation>
+            <collocation form="opremljati z opremo" cluster="8" frequency="28" logDice="7.39">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_7c582f88b553e5dc3aeb56af36d217ec">opremo</comp>
+            </collocation>
+            <collocation form="opremljati z napravo" cluster="8" frequency="17" logDice="7.09">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_35970ca9f3b04f4bc834eb0dfdb70a08">napravo</comp>
+            </collocation>
+            <collocation form="opremljati z podatkom" cluster="8" frequency="8" logDice="4.58">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_dceff032dbcde0be8f54f9dd068c8f74">podatkom</comp>
+            </collocation>
+            <collocation form="opremljati z znanjem" cluster="8" frequency="7" logDice="5.25">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_0e6b8ca9c227b92670827830f4032745">znanjem</comp>
+            </collocation>
+            <collocation form="opremljati z dokumentom" cluster="8" frequency="5" logDice="5.24">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_bdaf11a6fa87a4547d55a132f603581b">dokumentom</comp>
+            </collocation>
+            <collocation form="opremljati z informacijo" cluster="8" frequency="5" logDice="4.99">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_3767bb8b14e0a27c8f520cfa7e003a14">informacijo</comp>
+            </collocation>
+            <collocation form="opremljati z računalnikom" cluster="8" frequency="5" logDice="4.93">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_b8ee172630f061da51fb6d4a9d5549ba">računalnikom</comp>
+            </collocation>
+            <collocation form="opremljati z izdelkom" cluster="8" frequency="4" logDice="4.27">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_bbffae950f5cec8d80d5d541602c3313">izdelkom</comp>
+            </collocation>
+            <collocation form="opremljati z delom" cluster="8" frequency="4" logDice="1.63">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delom</comp>
+            </collocation>
+            <collocation form="opremljati s številčnico" cluster="9" frequency="4" logDice="7.06">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_b83b30c158d61e435dd8d6ba4df82738">številčnico</comp>
+            </collocation>
+            <collocation form="opremljati s filtrom" cluster="10" frequency="5" logDice="7.01">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_3b6afed81d9fd97769efea275269890b">filtrom</comp>
+            </collocation>
+            <collocation form="opremljati z motorjem" cluster="11" frequency="32" logDice="6.97">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_f2500a2481839c4e1efd6315d8b961cc">motorjem</comp>
+            </collocation>
+            <collocation form="opremljati z strojem" cluster="11" frequency="7" logDice="6.11">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_92b130473f034fabad4c95de8025d439">strojem</comp>
+            </collocation>
+            <collocation form="opremljati z kolesom" cluster="11" frequency="6" logDice="4.14">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_54e72f78ea9566d5e97d58e9d635c686|LE_a2095f25780ded6d30a95b6a6860e039">kolesom</comp>
+            </collocation>
+            <collocation form="opremljati z vozilom" cluster="11" frequency="4" logDice="3.62">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_267f3855f5e4ffa5815a1263d2a6c788">vozilom</comp>
+            </collocation>
+            <collocation form="opremljati z opombo" cluster="12" frequency="9" logDice="8.06">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_8903c953ed1d420016edb431cb74f3b6">opombo</comp>
+            </collocation>
+            <collocation form="opremljati z ilustracijo" cluster="13" frequency="6" logDice="6.96">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_0f079b2525bf88e83d958a849103150e">ilustracijo</comp>
+            </collocation>
+            <collocation form="opremljati z risbo" cluster="13" frequency="5" logDice="6.87">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_2d472b171e2b5313c89e8e24d787e4e7">risbo</comp>
+            </collocation>
+            <collocation form="opremljati s komentarjem" cluster="14" frequency="11" logDice="6.83">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_19164d0c02318542e790ec82e2ab8301">komentarjem</comp>
+            </collocation>
+            <collocation form="opremljati s opozorilom" cluster="14" frequency="4" logDice="6.38">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_0a3526dee8d3056988461a98a5a82f90">opozorilom</comp>
+            </collocation>
+            <collocation form="opremljati s prevodom" cluster="15" frequency="5" logDice="6.65">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_9073a7b5fb2b8a2664ec317b08fe507c">prevodom</comp>
+            </collocation>
+            <collocation form="opremljati s citatom" cluster="16" frequency="4" logDice="6.55">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_a8dab5276433469c60b84bdb9ee4d051">citatom</comp>
+            </collocation>
+            <collocation form="opremljati z dodatkom" cluster="17" frequency="10" logDice="6.38">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_b823bdcf315aa4e078f3dbc0741bde3b">dodatkom</comp>
+            </collocation>
+            <collocation form="opremljati s fotografijo" cluster="18" frequency="12" logDice="6.3">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_e6df18792975a9b99ce5878081baa979">fotografijo</comp>
+            </collocation>
+            <collocation form="opremljati s naslovom" cluster="18" frequency="5" logDice="4.03">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_1aca8621567cc70c42163dfa35048969">naslovom</comp>
+            </collocation>
+            <collocation form="opremljati s glasbo" cluster="18" frequency="4" logDice="3.86">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_b9d4fb1bfd740612d94d302113e10a62">glasbo</comp>
+            </collocation>
+            <collocation form="opremljati s pasom" cluster="19" frequency="5" logDice="6.16">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_89ac9c7dc7f715491af648500946332a">pasom</comp>
+            </collocation>
+            <collocation form="opremljati z vrvjo" cluster="20" frequency="4" logDice="6.04">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_d47cc59c0a87a60ea3ccd3f7836dbe5e">vrvjo</comp>
+            </collocation>
+            <collocation form="opremljati s kamnom" cluster="21" frequency="4" logDice="5.84">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_541ccb2b48e3b90da037335188199d9d">kamnom</comp>
+            </collocation>
+            <collocation form="opremljati z orožjem" cluster="22" frequency="11" logDice="5.55">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_470d9247d9b54fd5fe04bf3ddc212a3d">orožjem</comp>
+            </collocation>
+            <collocation form="opremljati z žigom" cluster="23" frequency="8" logDice="7.65">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_4f60a924045bea0779fab8612c402188">žigom</comp>
+            </collocation>
+            <collocation form="opremljati s tankomat" cluster="24" frequency="5" logDice="7.47">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="">tankomat</comp>
+            </collocation>
+            <collocation form="opremljati s kodo" cluster="25" frequency="7" logDice="7.42">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_3a18597fdc2ef7d44751afdfb8c535d7">kodo</comp>
+            </collocation>
+            <collocation form="opremljati s starino" cluster="26" frequency="5" logDice="7.35">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_a74eaed95e555da141c44b5dcbebb14b">starino</comp>
+            </collocation>
+            <collocation form="opremljati z elektroniko" cluster="27" frequency="6" logDice="7.28">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_fefc8f0d08d347f989f7ee3e8c9458a6">elektroniko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="opremljati za življenje" cluster="1" frequency="9" logDice="4.44">
+              <comp position="1" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b7a6a2019becc6510edb8591e171b0a7">življenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz INF-GBZ">
+          <collocations>
+            <collocation form="pričeti opremljati" cluster="1" frequency="18" logDice="4.22">
+              <comp position="1" type="collocate" sloleks="LE_ded1741f1de355cb4a0e75c9109c069d">pričeti</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="začeti opremljati" cluster="2" frequency="196" logDice="3.76">
+              <comp position="1" type="collocate" sloleks="LE_5526be99243d6a70e33b06d3eabd15ae">začeti</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="pomagati opremljati" cluster="3" frequency="8" logDice="2.14">
+              <comp position="1" type="collocate" sloleks="LE_2fc43d313cb40b86ed2a370a430e93c1">pomagati</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="komunalno opremljati" cluster="1" frequency="71" logDice="10.87">
+              <comp position="1" type="collocate" sloleks="LE_d8ec940921f6e3ac2a9ef21e0c3d6306">komunalno</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="likovno opremljati" cluster="2" frequency="9" logDice="7.75">
+              <comp position="1" type="collocate" sloleks="LE_ee07ceb40df71ac2101e9d4daf577d86">likovno</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="pospešeno opremljati" cluster="3" frequency="15" logDice="5.43">
+              <comp position="1" type="collocate" sloleks="">pospešeno</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="postopoma opremljati" cluster="3" frequency="13" logDice="4.36">
+              <comp position="1" type="collocate" sloleks="LE_f8f0b77648353a666e440c43b667da04">postopoma</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="počasi opremljati" cluster="3" frequency="11" logDice="2.05">
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="redno opremljati" cluster="3" frequency="8" logDice="2.2">
+              <comp position="1" type="collocate" sloleks="LE_35bbe424d330fd280eb80edb9f0c6e56">redno</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="intenzivno opremljati" cluster="3" frequency="7" logDice="3.58">
+              <comp position="1" type="collocate" sloleks="LE_53d0232447bd782d9fae332e003977a1">intenzivno</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="zdaj opremljati" cluster="4" frequency="33" logDice="1.32">
+              <comp position="1" type="collocate" sloleks="LE_d3f3f0cca65a8d1e1eb9565d50304e21">zdaj</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="rad opremljati" cluster="4" frequency="18" logDice="0.96">
+              <comp position="1" type="collocate" sloleks="LE_0a2bb08c60a0cb7fd95c85fd75f2bfca">rad</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="danes opremljati" cluster="4" frequency="11" logDice="0.27">
+              <comp position="1" type="collocate" sloleks="LE_1ce30c2bc2ec7609ed31b8f4fa97c156">danes</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="večinoma opremljati" cluster="4" frequency="11" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_fc80469a48f40b401752963a170b969a">večinoma</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="naprej opremljati" cluster="4" frequency="10" logDice="1.48">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="sedaj opremljati" cluster="4" frequency="10" logDice="1.38">
+              <comp position="1" type="collocate" sloleks="LE_e50eb5a17c98c735c9fb6d8e08cf2787">sedaj</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="pogosto opremljati" cluster="4" frequency="10" logDice="0.94">
+              <comp position="1" type="collocate" sloleks="LE_0c25a8b75185d62f2dab515299cccbfc">pogosto</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="bolj opremljati" cluster="4" frequency="9" logDice="0.2">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="trenutno opremljati" cluster="4" frequency="8" logDice="1.82">
+              <comp position="1" type="collocate" sloleks="LE_5c9f3e114f691d1136d83ec593637dfd">trenutno</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="nato opremljati" cluster="4" frequency="7" logDice="0.13">
+              <comp position="1" type="collocate" sloleks="LE_48b590fef344f946aab71b9b67d40282">nato</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="očitno opremljati" cluster="4" frequency="6" logDice="0.36">
+              <comp position="1" type="collocate" sloleks="LE_9d88c71170bcb7a8d34f86bcb6d0c831">očitno</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="serijsko opremljati" cluster="5" frequency="13" logDice="7.66">
+              <comp position="1" type="collocate" sloleks="LE_cfef8a05b05981ee78ebe24bf266758a">serijsko</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="dodatno opremljati" cluster="6" frequency="14" logDice="3.23">
+              <comp position="1" type="collocate" sloleks="LE_d87043505ab09df3263269f8fff045d4">dodatno</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="ustrezno opremljati" cluster="6" frequency="8" logDice="3.35">
+              <comp position="1" type="collocate" sloleks="LE_a0616e9dd61d3f4a2c19c7de0cb8734f">ustrezno</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+            <collocation form="odslej opremljati" cluster="6" frequency="6" logDice="3.86">
+              <comp position="1" type="collocate" sloleks="LE_13cd0a12a4e35aa7610d01c7da09576d">odslej</comp>
+              <comp position="2" type="headword" sloleks="LE_4561831f8f9352f50cb64ed2ecb9f440">opremljati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

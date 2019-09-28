@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="6905">prevzgojiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">520</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="prevzgojiti starša" cluster="1" frequency="7" logDice="4.44">
+              <comp position="1" type="headword" sloleks="LE_71ca46a999cb084c0ea5f4155df58f81">prevzgojiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_ee1100b135d34088f91e5c2786123e66">starša</comp>
+            </collocation>
+            <collocation form="prevzgojiti človeka" cluster="2" frequency="5" logDice="1.35">
+              <comp position="1" type="headword" sloleks="LE_71ca46a999cb084c0ea5f4155df58f81">prevzgojiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človeka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="prevzgojiti v komunista" cluster="1" frequency="4" logDice="11.02">
+              <comp position="1" type="headword" sloleks="LE_71ca46a999cb084c0ea5f4155df58f81">prevzgojiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_c1a50ce45a4e0e8c950899fa939dbe60">komunista</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="popolnoma prevzgojiti" cluster="1" frequency="4" logDice="1.04">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_71ca46a999cb084c0ea5f4155df58f81">prevzgojiti</comp>
+            </collocation>
+            <collocation form="treba prevzgojiti" cluster="2" frequency="22" logDice="0.69">
+              <comp position="1" type="collocate" sloleks="LE_1922eb6feec1312f831201e773a0ac0d">treba</comp>
+              <comp position="2" type="headword" sloleks="LE_71ca46a999cb084c0ea5f4155df58f81">prevzgojiti</comp>
+            </collocation>
+            <collocation form="težko prevzgojiti" cluster="3" frequency="7" logDice="0.04">
+              <comp position="1" type="collocate" sloleks="LE_1b2258380d2b90f394d61087a8c6ff51">težko</comp>
+              <comp position="2" type="headword" sloleks="LE_71ca46a999cb084c0ea5f4155df58f81">prevzgojiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

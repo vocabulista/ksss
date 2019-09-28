@@ -1,0 +1,44 @@
+<entry>
+  <header>
+    <lexical_unit id="53540">displej</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">424</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="displej za prikaz" cluster="1" frequency="7" logDice="7.07">
+              <comp position="1" type="headword" sloleks="LE_b316428982f9b8849f0517214bff9f5a">displej</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_85696e09ddab3801fff8602d0bf167cc">prikaz</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ5">
+          <collocations>
+            <collocation form="prikazati na displeju" cluster="1" frequency="4" logDice="4.69">
+              <comp position="1" type="collocate" sloleks="LE_bb281dfec8b211ba0443d78ea4f77cf7">prikazati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_b316428982f9b8849f0517214bff9f5a">displeju</comp>
+            </collocation>
+            <collocation form="pokazati na displeju" cluster="2" frequency="4" logDice="3.75">
+              <comp position="1" type="collocate" sloleks="LE_6484af15523a06b64b3467bae5f2a4ac">pokazati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_b316428982f9b8849f0517214bff9f5a">displeju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="digitalen displej" cluster="1" frequency="19" logDice="3.45">
+              <comp position="1" type="collocate" sloleks="LE_39b8c222fd265f84ce04272f7ea0315f">digitalen</comp>
+              <comp position="2" type="headword" sloleks="LE_b316428982f9b8849f0517214bff9f5a">displej</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

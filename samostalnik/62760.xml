@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="62760">kamerman</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1163</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="poročiti s kamermanom" cluster="1" frequency="7" logDice="4.27">
+              <comp position="1" type="collocate" sloleks="LE_b9c667080dab6d3d75df2d987c7ee965">poročiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_e7902786bff47bdd6ba154515d9890b4">kamermanom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="televizijski kamerman" cluster="1" frequency="17" logDice="2.32">
+              <comp position="1" type="collocate" sloleks="LE_2e9d37c8647ad3002e4f927d5330c563">televizijski</comp>
+              <comp position="2" type="headword" sloleks="LE_e7902786bff47bdd6ba154515d9890b4">kamerman</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="vloga kamermana" cluster="1" frequency="9" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_e7902786bff47bdd6ba154515d9890b4">kamermana</comp>
+            </collocation>
+            <collocation form="kamerman televizije" cluster="2" frequency="22" logDice="4.66">
+              <comp position="1" type="headword" sloleks="LE_e7902786bff47bdd6ba154515d9890b4">kamerman</comp>
+              <comp position="2" type="collocate" sloleks="LE_925f7eba10b60f25ab6778b90fd2e672">televizije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

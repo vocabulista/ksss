@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="74596">odrinjenost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">408</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="odrinjenost na rob" cluster="1" frequency="31" logDice="9.14">
+              <comp position="1" type="headword" sloleks="LE_d5c54b280be2189c71e440ca1e1e4b2a">odrinjenost</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_f77fc4e15f47e160c4247e79bf3ae0fc">rob</comp>
+            </collocation>
+            <collocation form="odrinjenost na obrobje" cluster="2" frequency="5" logDice="7.98">
+              <comp position="1" type="headword" sloleks="LE_d5c54b280be2189c71e440ca1e1e4b2a">odrinjenost</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_fd86c28b61b5370dd9e1ef1410fed3e7">obrobje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="družbena odrinjenost" cluster="1" frequency="14" logDice="1.69">
+              <comp position="1" type="collocate" sloleks="LE_ed4b1882c5368358c8d65f6b03a4fa79">družbena</comp>
+              <comp position="2" type="headword" sloleks="LE_d5c54b280be2189c71e440ca1e1e4b2a">odrinjenost</comp>
+            </collocation>
+            <collocation form="popolna odrinjenost" cluster="2" frequency="8" logDice="1.08">
+              <comp position="1" type="collocate" sloleks="LE_814a2c9c333ef1e9cb481395c05b7346">popolna</comp>
+              <comp position="2" type="headword" sloleks="LE_d5c54b280be2189c71e440ca1e1e4b2a">odrinjenost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="občutek odrinjenosti" cluster="1" frequency="69" logDice="5.48">
+              <comp position="1" type="collocate" sloleks="LE_23671e6156ee6c327e7c512a951bd4f3">občutek</comp>
+              <comp position="2" type="headword" sloleks="LE_d5c54b280be2189c71e440ca1e1e4b2a">odrinjenosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

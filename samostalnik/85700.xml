@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="85700">recitiranje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">494</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="recitiranje odlomka" cluster="1" frequency="9" logDice="7.56">
+              <comp position="1" type="headword" sloleks="LE_bfeb056bad1f0cd3e9afce0ad2e13f18">recitiranje</comp>
+              <comp position="2" type="collocate" sloleks="LE_421af05000b251adfaec5ec4d11c460f">odlomka</comp>
+            </collocation>
+            <collocation form="recitiranje verza" cluster="1" frequency="9" logDice="7.37">
+              <comp position="1" type="headword" sloleks="LE_bfeb056bad1f0cd3e9afce0ad2e13f18">recitiranje</comp>
+              <comp position="2" type="collocate" sloleks="LE_6009e3c7ad90cee2fd51bed6d8d61073">verza</comp>
+            </collocation>
+            <collocation form="recitiranje pesmi" cluster="2" frequency="64" logDice="5.91">
+              <comp position="1" type="headword" sloleks="LE_bfeb056bad1f0cd3e9afce0ad2e13f18">recitiranje</comp>
+              <comp position="2" type="collocate" sloleks="LE_6235b39c027e8b67ccd0ab2a0e87ad16">pesmi</comp>
+            </collocation>
+            <collocation form="recitiranje poezije" cluster="2" frequency="33" logDice="6.48">
+              <comp position="1" type="headword" sloleks="LE_bfeb056bad1f0cd3e9afce0ad2e13f18">recitiranje</comp>
+              <comp position="2" type="collocate" sloleks="LE_e0f00e2bfd3fd7ec695a3f432b315d7c">poezije</comp>
+            </collocation>
+            <collocation form="recitiranje besedila" cluster="2" frequency="9" logDice="3.11">
+              <comp position="1" type="headword" sloleks="LE_bfeb056bad1f0cd3e9afce0ad2e13f18">recitiranje</comp>
+              <comp position="2" type="collocate" sloleks="LE_c2cf3f2b59c7730608bd4c4e20b22ee6">besedila</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="zabavati z recitiranjem" cluster="1" frequency="4" logDice="4.99">
+              <comp position="1" type="collocate" sloleks="LE_90a32b7ed9f46a7f36d8d5c4f05aa04a">zabavati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_bfeb056bad1f0cd3e9afce0ad2e13f18">recitiranjem</comp>
+            </collocation>
+            <collocation form="predstaviti z recitiranjem" cluster="2" frequency="4" logDice="3.26">
+              <comp position="1" type="collocate" sloleks="LE_64ac80e6ae1f424ec2dd34859705e6c0">predstaviti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_bfeb056bad1f0cd3e9afce0ad2e13f18">recitiranjem</comp>
+            </collocation>
+            <collocation form="začeti z recitiranjem" cluster="3" frequency="4" logDice="0.69">
+              <comp position="1" type="collocate" sloleks="LE_5526be99243d6a70e33b06d3eabd15ae">začeti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_bfeb056bad1f0cd3e9afce0ad2e13f18">recitiranjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="tekmovanje v recitiranju" cluster="1" frequency="12" logDice="3.75">
+              <comp position="1" type="collocate" sloleks="LE_cf9c71806a842d7c251392dd39734f20">tekmovanje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_bfeb056bad1f0cd3e9afce0ad2e13f18">recitiranju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="5078">pofukati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">509</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="pofukati ženo" cluster="1" frequency="4" logDice="3.21">
+              <comp position="1" type="headword" sloleks="LE_26c75d01d71c4158dc9c6b6e5e0e893d">pofukati</comp>
+              <comp position="2" type="collocate" sloleks="LE_412b2e672422f341e6f8b4b4f03f0f24">ženo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="pofukati v rit" cluster="1" frequency="10" logDice="7.47">
+              <comp position="1" type="headword" sloleks="LE_26c75d01d71c4158dc9c6b6e5e0e893d">pofukati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_b204b88e2d8c06467e6dce084bb5a60b">rit</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="enkrat pofukati" cluster="1" frequency="6" logDice="0.91">
+              <comp position="1" type="collocate" sloleks="LE_a9aa19f4d3fe9f31d405ae8828e4b2fd">enkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_26c75d01d71c4158dc9c6b6e5e0e893d">pofukati</comp>
+            </collocation>
+            <collocation form="rad pofukati" cluster="2" frequency="11" logDice="0.25">
+              <comp position="1" type="collocate" sloleks="LE_0a2bb08c60a0cb7fd95c85fd75f2bfca">rad</comp>
+              <comp position="2" type="headword" sloleks="LE_26c75d01d71c4158dc9c6b6e5e0e893d">pofukati</comp>
+            </collocation>
+            <collocation form="dobro pofukati" cluster="3" frequency="15" logDice="0.03">
+              <comp position="1" type="collocate" sloleks="LE_43e8da3e283609f4de7cfdb7a3e3a938">dobro</comp>
+              <comp position="2" type="headword" sloleks="LE_26c75d01d71c4158dc9c6b6e5e0e893d">pofukati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

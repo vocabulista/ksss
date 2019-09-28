@@ -1,0 +1,56 @@
+<entry>
+  <header>
+    <lexical_unit id="86784">rotvajler</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">654</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="podivjan rotvajler" cluster="1" frequency="10" logDice="6.31">
+              <comp position="1" type="collocate" sloleks="LE_fbf593b81fb559554a54c3d11cbc913f">podivjan</comp>
+              <comp position="2" type="headword" sloleks="LE_fdea821008adf4b2da208fbdd2a5a195">rotvajler</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="pes rotvajlerja" cluster="1" frequency="13" logDice="6.44">
+              <comp position="1" type="collocate" sloleks="LE_ae53f7aac94a7c78c3cb5c344c09f5ff">pes</comp>
+              <comp position="2" type="headword" sloleks="LE_fdea821008adf4b2da208fbdd2a5a195">rotvajlerja</comp>
+            </collocation>
+            <collocation form="lastnik rotvajlerja" cluster="2" frequency="11" logDice="1.44">
+              <comp position="1" type="collocate" sloleks="LE_66c7de1ac3f03dd18265b3091c93bdc0">lastnik</comp>
+              <comp position="2" type="headword" sloleks="LE_fdea821008adf4b2da208fbdd2a5a195">rotvajlerja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 med SBZ6">
+          <collocations>
+            <collocation form="mešanec med rotvajlerjem" cluster="1" frequency="15" logDice="10.17">
+              <comp position="1" type="collocate" sloleks="LE_1dabca8523dd7607f5597d46d87efde6">mešanec</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_fdea821008adf4b2da208fbdd2a5a195">rotvajlerjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="mešanka z rotvajlerjem" cluster="1" frequency="4" logDice="9.76">
+              <comp position="1" type="collocate" sloleks="LE_9d031c0adb6372e64be0a6506e9626cc">mešanka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_fdea821008adf4b2da208fbdd2a5a195">rotvajlerjem</comp>
+            </collocation>
+            <collocation form="rotvajler z repom" cluster="2" frequency="4" logDice="7.2">
+              <comp position="1" type="headword" sloleks="LE_fdea821008adf4b2da208fbdd2a5a195">rotvajler</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_85cadaa0eacb7595e72a3703d455bafb">repom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

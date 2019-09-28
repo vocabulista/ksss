@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="30753">presunjen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">518</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 nad sbz6">
+          <collocations>
+            <collocation form="presunjen nad ljubeznijo" cluster="1" frequency="4" logDice="10.91">
+              <comp position="1" type="headword" sloleks="LE_a212777a0aed12d6a0dfa81a58bae665">presunjen</comp>
+              <comp position="2" type="other" sloleks="LE_d1a9059d44a24194d17af34039c48e9a">nad</comp>
+              <comp position="3" type="collocate" sloleks="LE_d611157e356b5a208a076a88682815f7">ljubeznijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="vidno presunjen" cluster="1" frequency="13" logDice="5.68">
+              <comp position="1" type="collocate" sloleks="LE_af8523887c9c1966ef6e8e667cd34941">vidno</comp>
+              <comp position="2" type="headword" sloleks="LE_a212777a0aed12d6a0dfa81a58bae665">presunjen</comp>
+            </collocation>
+            <collocation form="globoko presunjen" cluster="2" frequency="18" logDice="5.67">
+              <comp position="1" type="collocate" sloleks="LE_41f4fa45fdf80f6a05a39e6d375238f7">globoko</comp>
+              <comp position="2" type="headword" sloleks="LE_a212777a0aed12d6a0dfa81a58bae665">presunjen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

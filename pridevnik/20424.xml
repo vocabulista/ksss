@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="20424">jokav</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">446</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="jokav oblaček" cluster="1" frequency="8" logDice="7.7">
+              <comp position="1" type="headword" sloleks="LE_641f2045b29d23f09272f2f768eb7310">jokav</comp>
+              <comp position="2" type="collocate" sloleks="LE_41737c2827e6ac7c962dfd804f081840">oblaček</comp>
+            </collocation>
+            <collocation form="jokav glas" cluster="2" frequency="26" logDice="3.2">
+              <comp position="1" type="headword" sloleks="LE_641f2045b29d23f09272f2f768eb7310">jokav</comp>
+              <comp position="2" type="collocate" sloleks="LE_bdaf56c7a9eddd2562b11c97c0770037">glas</comp>
+            </collocation>
+            <collocation form="jokav otrok" cluster="3" frequency="27" logDice="2.55">
+              <comp position="1" type="headword" sloleks="LE_641f2045b29d23f09272f2f768eb7310">jokav</comp>
+              <comp position="2" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otrok</comp>
+            </collocation>
+            <collocation form="jokava zgodba" cluster="4" frequency="10" logDice="1.14">
+              <comp position="1" type="headword" sloleks="LE_641f2045b29d23f09272f2f768eb7310">jokava</comp>
+              <comp position="2" type="collocate" sloleks="LE_9d9531a39496cd12f07e32ab50c0280f">zgodba</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="jokav in/ali razdražljiv" cluster="1" frequency="6" logDice="7.94">
+              <comp position="3" type="headword" sloleks="LE_641f2045b29d23f09272f2f768eb7310">jokav</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_cf26598f0bc7d80bfea985250a88ab6a">razdražljiv</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="malo jokav" cluster="1" frequency="6" logDice="1.22">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_641f2045b29d23f09272f2f768eb7310">jokav</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

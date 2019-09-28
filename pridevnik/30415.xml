@@ -1,0 +1,70 @@
+<entry>
+  <header>
+    <lexical_unit id="30415">premasten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">469</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="premastna hrana" cluster="1" frequency="135" logDice="5.83">
+              <comp position="1" type="headword" sloleks="LE_9e40e3d41824712a965ffd34451db458">premastna</comp>
+              <comp position="2" type="collocate" sloleks="LE_4b3b80327bf9e7fafcc3a73e85eae950">hrana</comp>
+            </collocation>
+            <collocation form="premastna jed" cluster="2" frequency="18" logDice="3.59">
+              <comp position="1" type="headword" sloleks="LE_9e40e3d41824712a965ffd34451db458">premastna</comp>
+              <comp position="2" type="collocate" sloleks="LE_107d16bcf518752aed0a9633fd7c02d0">jed</comp>
+            </collocation>
+            <collocation form="premastna krema" cluster="3" frequency="8" logDice="3.59">
+              <comp position="1" type="headword" sloleks="LE_9e40e3d41824712a965ffd34451db458">premastna</comp>
+              <comp position="2" type="collocate" sloleks="LE_c580085f66825beed3ba7cb6bbeb817d">krema</comp>
+            </collocation>
+            <collocation form="premasten obrok" cluster="4" frequency="7" logDice="3.23">
+              <comp position="1" type="headword" sloleks="LE_9e40e3d41824712a965ffd34451db458">premasten</comp>
+              <comp position="2" type="collocate" sloleks="LE_a37b1a48d56e602455b68874fd499194">obrok</comp>
+            </collocation>
+            <collocation form="premastna koža" cluster="5" frequency="11" logDice="2.93">
+              <comp position="1" type="headword" sloleks="LE_9e40e3d41824712a965ffd34451db458">premastna</comp>
+              <comp position="2" type="collocate" sloleks="LE_1204dd81b00363a398d5f5a84ff9f358">koža</comp>
+            </collocation>
+            <collocation form="premastno meso" cluster="6" frequency="9" logDice="2.8">
+              <comp position="1" type="headword" sloleks="LE_9e40e3d41824712a965ffd34451db458">premastno</comp>
+              <comp position="2" type="collocate" sloleks="LE_4aa90a3e352de0e91eff0dc41f04a0ea">meso</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="premasten in/ali presladek" cluster="1" frequency="22" logDice="12.15">
+              <comp position="3" type="headword" sloleks="LE_9e40e3d41824712a965ffd34451db458">premasten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_41af5c3930c825ab3f9f2be82eb833e4">presladek</comp>
+              </collocation>
+            <collocation form="premasten in/ali preslan" cluster="1" frequency="13" logDice="11.57">
+              <comp position="3" type="headword" sloleks="LE_9e40e3d41824712a965ffd34451db458">premasten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_c69c798031d65733ca34833b96b1359e">preslan</comp>
+              </collocation>
+            <collocation form="premasten in/ali preobilen" cluster="2" frequency="15" logDice="11.34">
+              <comp position="3" type="headword" sloleks="LE_9e40e3d41824712a965ffd34451db458">premasten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_7c19d139cfd8314888f25d1b8a8756a6">preobilen</comp>
+              </collocation>
+            <collocation form="premasten in/ali presuh" cluster="3" frequency="5" logDice="9.17">
+              <comp position="3" type="headword" sloleks="LE_9e40e3d41824712a965ffd34451db458">premasten</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_31bb137005036e520726d876c87dab8e">presuh</comp>
+              </collocation>
+            <collocation form="premasten in/ali pretežek" cluster="4" frequency="5" logDice="8.39">
+              <comp position="3" type="headword" sloleks="LE_9e40e3d41824712a965ffd34451db458">premasten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_56f37fc88039c02593690a8a688fb029">pretežek</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

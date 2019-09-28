@@ -1,0 +1,81 @@
+<entry>
+  <header>
+    <lexical_unit id="28078">patronažen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">3171</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="patronažen in dežuren" cluster="1" frequency="5" logDice="9.65">
+              <comp position="1" type="headword" sloleks="LE_c1271b788755b8fd8420d15cc94daf1e">patronažen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_6bbdafc31d850b0b7630ef1b300fab92">dežuren</comp>
+            </collocation>
+            <collocation form="patronažen in/ali medicinski" cluster="2" frequency="8" logDice="6.85">
+              <comp position="3" type="headword" sloleks="LE_c1271b788755b8fd8420d15cc94daf1e">patronažen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_7f4985b6839b8021f05d377bc4845345">medicinski</comp>
+              </collocation>
+            <collocation form="patronažen in zdravstven" cluster="3" frequency="7" logDice="4.59">
+              <comp position="1" type="headword" sloleks="LE_c1271b788755b8fd8420d15cc94daf1e">patronažen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_aa805fa2c16be8c84d9d66a46e7e5839">zdravstven</comp>
+            </collocation>
+            <collocation form="patronažen in socialen" cluster="4" frequency="15" logDice="4.16">
+              <comp position="1" type="headword" sloleks="LE_c1271b788755b8fd8420d15cc94daf1e">patronažen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_ac5cd5c075dfd74e26da2ffe70a668c0">socialen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="patronažna sestra" cluster="1" frequency="1914" logDice="10.35">
+              <comp position="1" type="headword" sloleks="LE_c1271b788755b8fd8420d15cc94daf1e">patronažna</comp>
+              <comp position="2" type="collocate" sloleks="LE_b3439352341b78a7b6c15e1ad2f3a564">sestra</comp>
+            </collocation>
+            <collocation form="patronažna babica" cluster="1" frequency="9" logDice="5.28">
+              <comp position="1" type="headword" sloleks="LE_c1271b788755b8fd8420d15cc94daf1e">patronažna</comp>
+              <comp position="2" type="collocate" sloleks="LE_c21328090ff71599141ada2e8cb721ee">babica</comp>
+            </collocation>
+            <collocation form="patronažna služba" cluster="2" frequency="882" logDice="6.59">
+              <comp position="1" type="headword" sloleks="LE_c1271b788755b8fd8420d15cc94daf1e">patronažna</comp>
+              <comp position="2" type="collocate" sloleks="LE_595a77ebd11b27d069e3829b663f2954">služba</comp>
+            </collocation>
+            <collocation form="patronažna dejavnost" cluster="2" frequency="52" logDice="2.58">
+              <comp position="1" type="headword" sloleks="LE_c1271b788755b8fd8420d15cc94daf1e">patronažna</comp>
+              <comp position="2" type="collocate" sloleks="LE_7fd9651ddee6b84cd9c853211be163f8">dejavnost</comp>
+            </collocation>
+            <collocation form="patronažna pomoč" cluster="2" frequency="22" logDice="2.03">
+              <comp position="1" type="headword" sloleks="LE_c1271b788755b8fd8420d15cc94daf1e">patronažna</comp>
+              <comp position="2" type="collocate" sloleks="LE_84e3f9e3c4e9e1abf42cc69c125b0b58">pomoč</comp>
+            </collocation>
+            <collocation form="patronažna nega" cluster="3" frequency="47" logDice="5.81">
+              <comp position="1" type="headword" sloleks="LE_c1271b788755b8fd8420d15cc94daf1e">patronažna</comp>
+              <comp position="2" type="collocate" sloleks="LE_ce4792790e054aad3207bae501afdc55">nega</comp>
+            </collocation>
+            <collocation form="patronažna oskrba" cluster="3" frequency="13" logDice="3.77">
+              <comp position="1" type="headword" sloleks="LE_c1271b788755b8fd8420d15cc94daf1e">patronažna</comp>
+              <comp position="2" type="collocate" sloleks="LE_5ab64ec31a5760798f1f234828e92ac9">oskrba</comp>
+            </collocation>
+            <collocation form="patronažno varstvo" cluster="4" frequency="60" logDice="4.83">
+              <comp position="1" type="headword" sloleks="LE_c1271b788755b8fd8420d15cc94daf1e">patronažno</comp>
+              <comp position="2" type="collocate" sloleks="LE_a4772470cb0cf8ed30edb1806bba60c6">varstvo</comp>
+            </collocation>
+            <collocation form="patronažno osebje" cluster="5" frequency="12" logDice="4.16">
+              <comp position="1" type="headword" sloleks="LE_c1271b788755b8fd8420d15cc94daf1e">patronažno</comp>
+              <comp position="2" type="collocate" sloleks="LE_b47f64a4ac70320ddbe37661fc23c343">osebje</comp>
+            </collocation>
+            <collocation form="patronažen obisk" cluster="6" frequency="39" logDice="4.14">
+              <comp position="1" type="headword" sloleks="LE_c1271b788755b8fd8420d15cc94daf1e">patronažen</comp>
+              <comp position="2" type="collocate" sloleks="LE_b8c2d2adf31d1e34a582d21c6efe5e02">obisk</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="8493">standardizirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">487</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="standardizirati postopek" cluster="1" frequency="16" logDice="3.55">
+              <comp position="1" type="headword" sloleks="LE_0f55f3fa0e8b53873e0326b9baa7327d">standardizirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_775481f1f5ba42be7d6b3125176050cb">postopek</comp>
+            </collocation>
+            <collocation form="standardizirati opremo" cluster="2" frequency="6" logDice="3.16">
+              <comp position="1" type="headword" sloleks="LE_0f55f3fa0e8b53873e0326b9baa7327d">standardizirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_7c582f88b553e5dc3aeb56af36d217ec">opremo</comp>
+            </collocation>
+            <collocation form="standardizirati obliko" cluster="3" frequency="5" logDice="2.54">
+              <comp position="1" type="headword" sloleks="LE_0f55f3fa0e8b53873e0326b9baa7327d">standardizirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">obliko</comp>
+            </collocation>
+            <collocation form="standardizirati sistem" cluster="4" frequency="6" logDice="1.96">
+              <comp position="1" type="headword" sloleks="LE_0f55f3fa0e8b53873e0326b9baa7327d">standardizirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b126847d984efa55c2ffad50be4e1dac">sistem</comp>
+            </collocation>
+            <collocation form="standardizirati stvar" cluster="5" frequency="5" logDice="1.4">
+              <comp position="1" type="headword" sloleks="LE_0f55f3fa0e8b53873e0326b9baa7327d">standardizirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_c62e36388a9104c47cf960cd4bdf4ca3">stvar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="težko standardizirati" cluster="1" frequency="7" logDice="0.04">
+              <comp position="1" type="collocate" sloleks="LE_1b2258380d2b90f394d61087a8c6ff51">težko</comp>
+              <comp position="2" type="headword" sloleks="LE_0f55f3fa0e8b53873e0326b9baa7327d">standardizirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

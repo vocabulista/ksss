@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="68966">megabit</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">463</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="megabit na sekundo" cluster="1" frequency="291" logDice="10.54">
+              <comp position="1" type="headword" sloleks="LE_bd0a370c79d902a59538df0a5beb68cb">megabit</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_28f8e53821d818c4ccde6b78f182c4c0">sekundo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="hitrost megabita" cluster="1" frequency="62" logDice="5.66">
+              <comp position="1" type="collocate" sloleks="LE_8ef2306c92022a1532921ccd9a598747">hitrost</comp>
+              <comp position="2" type="headword" sloleks="LE_bd0a370c79d902a59538df0a5beb68cb">megabita</comp>
+            </collocation>
+            <collocation form="zmogljivost megabita" cluster="2" frequency="8" logDice="4.17">
+              <comp position="1" type="collocate" sloleks="LE_35fe4e20a61250df7aa6cdd2972e7697">zmogljivost</comp>
+              <comp position="2" type="headword" sloleks="LE_bd0a370c79d902a59538df0a5beb68cb">megabita</comp>
+            </collocation>
+            <collocation form="prenos megabita" cluster="3" frequency="13" logDice="2.55">
+              <comp position="1" type="collocate" sloleks="LE_420ada0992c76ad3cf51866ecba471c9">prenos</comp>
+              <comp position="2" type="headword" sloleks="LE_bd0a370c79d902a59538df0a5beb68cb">megabita</comp>
+            </collocation>
+            <collocation form="podatek megabita" cluster="4" frequency="6" logDice="1.85">
+              <comp position="1" type="collocate" sloleks="LE_dceff032dbcde0be8f54f9dd068c8f74">podatek</comp>
+              <comp position="2" type="headword" sloleks="LE_bd0a370c79d902a59538df0a5beb68cb">megabita</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

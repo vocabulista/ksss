@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="3958741">surf</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="surf rockerja" cluster="1" frequency="11" logDice="9.07">
+              <comp position="1" type="headword" sloleks="">surf</comp>
+              <comp position="2" type="collocate" sloleks="LE_e831d2491182abbac609462943f854c8">rockerja</comp>
+            </collocation>
+            <collocation form="surf rocka" cluster="2" frequency="17" logDice="6.89">
+              <comp position="1" type="headword" sloleks="">surf</comp>
+              <comp position="2" type="collocate" sloleks="LE_818d78bf42c41b2e2ea972bc1449eb90">rocka</comp>
+            </collocation>
+            <collocation form="surf glasbe" cluster="3" frequency="29" logDice="3.83">
+              <comp position="1" type="headword" sloleks="">surf</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9d4fb1bfd740612d94d302113e10a62">glasbe</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="instrumentalen surf" cluster="1" frequency="11" logDice="6.03">
+              <comp position="1" type="collocate" sloleks="LE_c3838f551ed1f1f7f74f092178fa5398">instrumentalen</comp>
+              <comp position="2" type="headword" sloleks="">surf</comp>
+            </collocation>
+            <collocation form="hrvaški surf" cluster="2" frequency="21" logDice="1.68">
+              <comp position="1" type="collocate" sloleks="LE_49484a5e0458838688f66f7b89fd4295">hrvaški</comp>
+              <comp position="2" type="headword" sloleks="">surf</comp>
+            </collocation>
+            <collocation form="imenovan surf" cluster="2" frequency="15" logDice="1.81">
+              <comp position="1" type="collocate" sloleks="LE_48445856b1ad858d1b8600c1111b730c">imenovan</comp>
+              <comp position="2" type="headword" sloleks="">surf</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ4">
+          <collocations>
+            <collocation form="tekmovanje v surf" cluster="1" frequency="6" logDice="7.89">
+              <comp position="1" type="collocate" sloleks="LE_cf9c71806a842d7c251392dd39734f20">tekmovanje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="">surf</comp>
+            </collocation>
+            <collocation form="ekipa v surf" cluster="2" frequency="4" logDice="7.18">
+              <comp position="1" type="collocate" sloleks="LE_b9e9e733fb718cd2faed16b97326064f">ekipa</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="">surf</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="38024">vseobsežen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">465</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="vseobsežen nadzor" cluster="1" frequency="9" logDice="2.04">
+              <comp position="1" type="headword" sloleks="LE_bdfa4d5ec07dc388ddffc87e4a9ff1f9">vseobsežen</comp>
+              <comp position="2" type="collocate" sloleks="LE_18a2adc6a9e973e769119006405e1c9d">nadzor</comp>
+            </collocation>
+            <collocation form="vseobsežna kriza" cluster="2" frequency="8" logDice="1.29">
+              <comp position="1" type="headword" sloleks="LE_bdfa4d5ec07dc388ddffc87e4a9ff1f9">vseobsežna</comp>
+              <comp position="2" type="collocate" sloleks="LE_629f24cea35bb0632bed89b6a9abe142">kriza</comp>
+            </collocation>
+            <collocation form="vseobsežen razvoj" cluster="3" frequency="10" logDice="1.13">
+              <comp position="1" type="headword" sloleks="LE_bdfa4d5ec07dc388ddffc87e4a9ff1f9">vseobsežen</comp>
+              <comp position="2" type="collocate" sloleks="LE_59210d6d596fdb364ef1653bd49f3a75">razvoj</comp>
+            </collocation>
+            <collocation form="vseobsežen napad" cluster="4" frequency="6" logDice="1.07">
+              <comp position="1" type="headword" sloleks="LE_bdfa4d5ec07dc388ddffc87e4a9ff1f9">vseobsežen</comp>
+              <comp position="2" type="collocate" sloleks="LE_90137343c36c722d5cef55cc198d0e93">napad</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="vseobsežen in/ali splošen" cluster="1" frequency="5" logDice="4.66">
+              <comp position="3" type="headword" sloleks="LE_bdfa4d5ec07dc388ddffc87e4a9ff1f9">vseobsežen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_cdc9eac54f463ddd7c00de56a4c1e7f5">splošen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

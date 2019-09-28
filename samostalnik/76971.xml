@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="76971">pasiv</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">479</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="pasiv bilance" cluster="1" frequency="29" logDice="7.55">
+              <comp position="1" type="headword" sloleks="LE_0e33e25a5678487c44e0dac5e31d239d">pasiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_70fef5226ef4203fbbafceb9326a6531">bilance</comp>
+            </collocation>
+            <collocation form="pasiv banke" cluster="2" frequency="24" logDice="2.6">
+              <comp position="1" type="headword" sloleks="LE_0e33e25a5678487c44e0dac5e31d239d">pasiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_efdb4fed18a2b60ac11282627b28fcfc">banke</comp>
+            </collocation>
+            <collocation form="pasiv družbe" cluster="3" frequency="10" logDice="0.61">
+              <comp position="1" type="headword" sloleks="LE_0e33e25a5678487c44e0dac5e31d239d">pasiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_4d78f38b1eeb8492cae54547d0252bf9">družbe</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="bančen pasiv" cluster="1" frequency="11" logDice="2.55">
+              <comp position="1" type="collocate" sloleks="LE_0dc8c162b086efbc41f074a2a3a54bb0">bančen</comp>
+              <comp position="2" type="headword" sloleks="LE_0e33e25a5678487c44e0dac5e31d239d">pasiv</comp>
+            </collocation>
+            <collocation form="celoten pasiv" cluster="2" frequency="11" logDice="0.63">
+              <comp position="1" type="collocate" sloleks="LE_2a9735c2d6e5b20f692870fd84200f78">celoten</comp>
+              <comp position="2" type="headword" sloleks="LE_0e33e25a5678487c44e0dac5e31d239d">pasiv</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        </gramrels>
+    </sense>
+  </body>
+</entry>

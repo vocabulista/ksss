@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="59877">hudobec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">488</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Hudobec iz risanke" cluster="1" frequency="4" logDice="7.59">
+              <comp position="1" type="headword" sloleks="LE_febd8734aa187d90023b84b29ed66478">Hudobec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_aba983fd3e24e60ea62bce363dda81fa">risanke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="od hudobca" cluster="1" frequency="6" logDice="9.21">
+              <comp position="1" type="collocate" sloleks="">od</comp>
+              <comp position="2" type="headword" sloleks="LE_febd8734aa187d90023b84b29ed66478">hudobca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

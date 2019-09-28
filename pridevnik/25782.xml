@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="25782">nepremoženjski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1639</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nepremoženjska škoda" cluster="1" frequency="1453" logDice="9.46">
+              <comp position="1" type="headword" sloleks="LE_d4c2b4acf4c54df2a579211050b863d8">nepremoženjska</comp>
+              <comp position="2" type="collocate" sloleks="LE_d0eef6fed3fa66df037002eb7e67a633">škoda</comp>
+            </collocation>
+            <collocation form="nepremoženjska korist" cluster="2" frequency="124" logDice="7.03">
+              <comp position="1" type="headword" sloleks="LE_d4c2b4acf4c54df2a579211050b863d8">nepremoženjska</comp>
+              <comp position="2" type="collocate" sloleks="LE_e4a5ebc6dc0230e468f1bd9a503b7685">korist</comp>
+            </collocation>
+            <collocation form="nepremoženjska narava" cluster="3" frequency="14" logDice="3.0">
+              <comp position="1" type="headword" sloleks="LE_d4c2b4acf4c54df2a579211050b863d8">nepremoženjska</comp>
+              <comp position="2" type="collocate" sloleks="LE_3720f05aae76a62fa53daa3d96e22c20">narava</comp>
+            </collocation>
+            <collocation form="nepremoženjsko področje" cluster="4" frequency="7" logDice="0.62">
+              <comp position="1" type="headword" sloleks="LE_d4c2b4acf4c54df2a579211050b863d8">nepremoženjsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_66c02e1a651f578a71415b967738b69b">področje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="nepremoženjski in/ali premoženjski" cluster="1" frequency="127" logDice="11.45">
+              <comp position="3" type="headword" sloleks="LE_d4c2b4acf4c54df2a579211050b863d8">nepremoženjski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_9f316b329e440ab6dc0f1af0f62d6748">premoženjski</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

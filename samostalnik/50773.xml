@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="50773">bukvarna</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">610</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="veselošolski bukvarna" cluster="1" frequency="33" logDice="11.25">
+              <comp position="1" type="collocate" sloleks="">veselošolski</comp>
+              <comp position="2" type="headword" sloleks="LE_8d5de8d4fcd1027157f7326d7d34635d">bukvarna</comp>
+            </collocation>
+            <collocation form="katoliška bukvarna" cluster="2" frequency="24" logDice="4.21">
+              <comp position="1" type="collocate" sloleks="LE_13e70f04b5c2bf2c6e81e464db12495b">katoliška</comp>
+              <comp position="2" type="headword" sloleks="LE_8d5de8d4fcd1027157f7326d7d34635d">bukvarna</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="sejem bukvarne" cluster="1" frequency="7" logDice="3.88">
+              <comp position="1" type="collocate" sloleks="LE_92734f8092514719c471964800f566be">sejem</comp>
+              <comp position="2" type="headword" sloleks="LE_8d5de8d4fcd1027157f7326d7d34635d">bukvarne</comp>
+            </collocation>
+            <collocation form="vrata bukvarne" cluster="2" frequency="5" logDice="2.22">
+              <comp position="1" type="collocate" sloleks="LE_5b997c4e88dd626d1f19eb6721f9f994">vrata</comp>
+              <comp position="2" type="headword" sloleks="LE_8d5de8d4fcd1027157f7326d7d34635d">bukvarne</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="knjiga iz bukvarne" cluster="1" frequency="15" logDice="7.34">
+              <comp position="1" type="collocate" sloleks="LE_fcbd23f52ef0d5c8f302f9c1ba64a0e3">knjiga</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_8d5de8d4fcd1027157f7326d7d34635d">bukvarne</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

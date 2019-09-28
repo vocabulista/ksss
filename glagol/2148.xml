@@ -1,0 +1,63 @@
+<entry>
+  <header>
+    <lexical_unit id="2148">kondenzirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">405</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="kondenzirati na steni" cluster="1" frequency="7" logDice="5.78">
+              <comp position="1" type="headword" sloleks="LE_8a810026bdb4b5fc4272974ca8bd1c27">kondenzirati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_47b154875543bbeb3c61452a95a438a3">steni</comp>
+            </collocation>
+            <collocation form="kondenzirati na površini" cluster="2" frequency="11" logDice="5.56">
+              <comp position="1" type="headword" sloleks="LE_8a810026bdb4b5fc4272974ca8bd1c27">kondenzirati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_7d18868a4d96322e862a8e6591930019">površini</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="kondenzirati v kapljico" cluster="1" frequency="7" logDice="10.51">
+              <comp position="1" type="headword" sloleks="LE_8a810026bdb4b5fc4272974ca8bd1c27">kondenzirati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_8d804d07a00c08e2a6a68799829fa56e">kapljico</comp>
+            </collocation>
+            <collocation form="kondenzirati v oblak" cluster="2" frequency="5" logDice="7.78">
+              <comp position="1" type="headword" sloleks="LE_8a810026bdb4b5fc4272974ca8bd1c27">kondenzirati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_94cfe78a55521626cd7289af571e02c1">oblak</comp>
+            </collocation>
+            <collocation form="kondenzirati v vodo" cluster="3" frequency="4" logDice="2.94">
+              <comp position="1" type="headword" sloleks="LE_8a810026bdb4b5fc4272974ca8bd1c27">kondenzirati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_0d8cbba4e56fea63657ac746d29cd047">vodo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="kondenzirati v trenutku" cluster="1" frequency="4" logDice="0.59">
+              <comp position="1" type="headword" sloleks="LE_8a810026bdb4b5fc4272974ca8bd1c27">kondenzirati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_20e42f7c3b00f5a4a38e89957060a1f2">trenutku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="znova kondenzirati" cluster="1" frequency="5" logDice="0.09">
+              <comp position="1" type="collocate" sloleks="LE_4f000489fb7f7a863547f5ae46af4f41">znova</comp>
+              <comp position="2" type="headword" sloleks="LE_8a810026bdb4b5fc4272974ca8bd1c27">kondenzirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

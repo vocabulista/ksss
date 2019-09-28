@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="13830">babiški</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">545</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="babiška nega" cluster="1" frequency="259" logDice="8.42">
+              <comp position="1" type="headword" sloleks="LE_b8eaaaea4a2d334f7f5d972db6b540bf">babiška</comp>
+              <comp position="2" type="collocate" sloleks="LE_ce4792790e054aad3207bae501afdc55">nega</comp>
+            </collocation>
+            <collocation form="babiški porod" cluster="2" frequency="20" logDice="7.46">
+              <comp position="1" type="headword" sloleks="LE_b8eaaaea4a2d334f7f5d972db6b540bf">babiški</comp>
+              <comp position="2" type="collocate" sloleks="LE_7a7a9d3347ed07c22775ea206dd27d28">porod</comp>
+            </collocation>
+            <collocation form="babiška skrb" cluster="3" frequency="9" logDice="3.51">
+              <comp position="1" type="headword" sloleks="LE_b8eaaaea4a2d334f7f5d972db6b540bf">babiška</comp>
+              <comp position="2" type="collocate" sloleks="LE_8fc9c7c4a52d70b47b50fd6d5d96b148">skrb</comp>
+            </collocation>
+            <collocation form="babiška šola" cluster="4" frequency="94" logDice="2.63">
+              <comp position="1" type="headword" sloleks="LE_b8eaaaea4a2d334f7f5d972db6b540bf">babiška</comp>
+              <comp position="2" type="collocate" sloleks="LE_9c664dac39a3cc920d3849a80fadafa1">šola</comp>
+            </collocation>
+            <collocation form="babiška hiša" cluster="4" frequency="29" logDice="1.63">
+              <comp position="1" type="headword" sloleks="LE_b8eaaaea4a2d334f7f5d972db6b540bf">babiška</comp>
+              <comp position="2" type="collocate" sloleks="LE_34e4b2cb65c667c6bf374f39db0e3597">hiša</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="babiški in/ali zdravstven" cluster="1" frequency="243" logDice="9.68">
+              <comp position="3" type="headword" sloleks="LE_b8eaaaea4a2d334f7f5d972db6b540bf">babiški</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_aa805fa2c16be8c84d9d66a46e7e5839">zdravstven</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

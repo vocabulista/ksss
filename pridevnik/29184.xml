@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="29184">policentričen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">554</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="policentričen in skladen" cluster="1" frequency="5" logDice="7.26">
+              <comp position="1" type="headword" sloleks="LE_0e159dbac0c93ead0fea1cb8008c59c5">policentričen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_a411a480dceb62284fd821e6cc1d7c09">skladen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="policentričen razvoj" cluster="1" frequency="377" logDice="6.35">
+              <comp position="1" type="headword" sloleks="LE_0e159dbac0c93ead0fea1cb8008c59c5">policentričen</comp>
+              <comp position="2" type="collocate" sloleks="LE_59210d6d596fdb364ef1653bd49f3a75">razvoj</comp>
+            </collocation>
+            <collocation form="policentričen koncept" cluster="2" frequency="7" logDice="3.1">
+              <comp position="1" type="headword" sloleks="LE_0e159dbac0c93ead0fea1cb8008c59c5">policentričen</comp>
+              <comp position="2" type="collocate" sloleks="LE_c78435fdc3d23f640de46696634de248">koncept</comp>
+            </collocation>
+            <collocation form="policentričen model" cluster="3" frequency="13" logDice="1.79">
+              <comp position="1" type="headword" sloleks="LE_0e159dbac0c93ead0fea1cb8008c59c5">policentričen</comp>
+              <comp position="2" type="collocate" sloleks="LE_00f514f4ab76241d7f74b78e7f7fd1e5|LE_2faafd51dc30a40943b7e986dbaa7456">model</comp>
+            </collocation>
+            <collocation form="policentričen sistem" cluster="4" frequency="25" logDice="0.77">
+              <comp position="1" type="headword" sloleks="LE_0e159dbac0c93ead0fea1cb8008c59c5">policentričen</comp>
+              <comp position="2" type="collocate" sloleks="LE_b126847d984efa55c2ffad50be4e1dac">sistem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

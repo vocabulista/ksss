@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="40463">efektivno</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">466</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ gbz">
+          <collocations>
+            <collocation form="efektivno delati" cluster="1" frequency="30" logDice="3.2">
+              <comp position="1" type="headword" sloleks="LE_648fc3566939a9644f5f3b7dd70cd9c9">efektivno</comp>
+              <comp position="2" type="collocate" sloleks="LE_240594860749d18971944f6690505af1">delati</comp>
+            </collocation>
+            <collocation form="efektivno plačati" cluster="2" frequency="7" logDice="2.89">
+              <comp position="1" type="headword" sloleks="LE_648fc3566939a9644f5f3b7dd70cd9c9">efektivno</comp>
+              <comp position="2" type="collocate" sloleks="LE_65a8257a4777d91ca083d5d192fee299">plačati</comp>
+            </collocation>
+            <collocation form="efektivno delovati" cluster="3" frequency="4" logDice="1.08">
+              <comp position="1" type="headword" sloleks="LE_648fc3566939a9644f5f3b7dd70cd9c9">efektivno</comp>
+              <comp position="2" type="collocate" sloleks="LE_d0f4c0b2fd032468cea5b16c4a58e364">delovati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="delati efektivno" cluster="1" frequency="11" logDice="2.48">
+              <comp position="1" type="collocate" sloleks="LE_240594860749d18971944f6690505af1">delati</comp>
+              <comp position="2" type="headword" sloleks="LE_648fc3566939a9644f5f3b7dd70cd9c9">efektivno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz RBZ">
+          <collocations>
+            <collocation form="povprečno efektivno" cluster="1" frequency="12" logDice="7.42">
+              <comp position="1" type="collocate" sloleks="LE_5b7a7e44530d73e5f2a79327fbe09dca">povprečno</comp>
+              <comp position="2" type="headword" sloleks="LE_648fc3566939a9644f5f3b7dd70cd9c9">efektivno</comp>
+            </collocation>
+            <collocation form="bolj efektivno" cluster="2" frequency="17" logDice="1.71">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_648fc3566939a9644f5f3b7dd70cd9c9">efektivno</comp>
+            </collocation>
+            <collocation form="najbolj efektivno" cluster="3" frequency="4" logDice="1.22">
+              <comp position="1" type="collocate" sloleks="LE_72b2a3522865b723e8c26b8ade696fca">najbolj</comp>
+              <comp position="2" type="headword" sloleks="LE_648fc3566939a9644f5f3b7dd70cd9c9">efektivno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

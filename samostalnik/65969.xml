@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="65969">krožec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">430</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="čebulen krožec" cluster="1" frequency="19" logDice="7.96">
+              <comp position="1" type="collocate" sloleks="LE_722e256df8b277e6745d08411361a1ad">čebulen</comp>
+              <comp position="2" type="headword" sloleks="LE_7d479c5279b214318f07c17d3e1873a4">krožec</comp>
+            </collocation>
+            <collocation form="rumen krožec" cluster="2" frequency="8" logDice="1.95">
+              <comp position="1" type="collocate" sloleks="LE_7d837051cc47370840e73ef7ef063e1f">rumen</comp>
+              <comp position="2" type="headword" sloleks="LE_7d479c5279b214318f07c17d3e1873a4">krožec</comp>
+            </collocation>
+            <collocation form="rdeč krožec" cluster="3" frequency="21" logDice="1.71">
+              <comp position="1" type="collocate" sloleks="LE_f39824a0a0c94efb31b4fa9dc908ea0f">rdeč</comp>
+              <comp position="2" type="headword" sloleks="LE_7d479c5279b214318f07c17d3e1873a4">krožec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 z SBZ6">
+          <collocations>
+            <collocation form="označen s krožcem" cluster="1" frequency="17" logDice="6.42">
+              <comp position="1" type="collocate" sloleks="LE_f52889f35ddecb537834ea206c424b48">označen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_7d479c5279b214318f07c17d3e1873a4">krožcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="košek s krožcem" cluster="1" frequency="5" logDice="11.46">
+              <comp position="1" type="collocate" sloleks="LE_15d6274d568d4b619c81b2cde8f64725">košek</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_7d479c5279b214318f07c17d3e1873a4">krožcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

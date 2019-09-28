@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="87645">ščavje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">515</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="pulilec ščavja" cluster="1" frequency="5" logDice="10.27">
+              <comp position="1" type="collocate" sloleks="">pulilec</comp>
+              <comp position="2" type="headword" sloleks="LE_3ca1f01afa0b0eb05ec57592a8f6fc1b">ščavja</comp>
+            </collocation>
+            <collocation form="zatiranje ščavja" cluster="2" frequency="42" logDice="7.48">
+              <comp position="1" type="collocate" sloleks="LE_3d7dfd670326b6368bb278052347e47c">zatiranje</comp>
+              <comp position="2" type="headword" sloleks="LE_3ca1f01afa0b0eb05ec57592a8f6fc1b">ščavja</comp>
+            </collocation>
+            <collocation form="rastlina ščavja" cluster="3" frequency="19" logDice="7.3">
+              <comp position="1" type="collocate" sloleks="LE_29b84db176a06b7dc3d3658f8a3cd001">rastlina</comp>
+              <comp position="2" type="headword" sloleks="LE_3ca1f01afa0b0eb05ec57592a8f6fc1b">ščavja</comp>
+            </collocation>
+            <collocation form="lastnost ščavja" cluster="4" frequency="7" logDice="3.23">
+              <comp position="1" type="collocate" sloleks="LE_b9e19f48ce23fa03bd6cf2669b73a296">lastnost</comp>
+              <comp position="2" type="headword" sloleks="LE_3ca1f01afa0b0eb05ec57592a8f6fc1b">ščavja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="težava s ščavjem" cluster="1" frequency="5" logDice="0.79">
+              <comp position="1" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težava</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_3ca1f01afa0b0eb05ec57592a8f6fc1b">ščavjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

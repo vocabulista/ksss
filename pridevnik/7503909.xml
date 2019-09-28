@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="7503909">vulkanizerski</lexical_unit>
+    <category>pridevnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="vulkanizerski delavnica" cluster="1" frequency="278" logDice="6.97">
+              <comp position="1" type="headword" sloleks="">vulkanizerski</comp>
+              <comp position="2" type="collocate" sloleks="LE_cdb16d4c515c146a270237e7a121813e">delavnica</comp>
+            </collocation>
+            <collocation form="vulkanizerski servis" cluster="2" frequency="32" logDice="4.46">
+              <comp position="1" type="headword" sloleks="">vulkanizerski</comp>
+              <comp position="2" type="collocate" sloleks="LE_347a5ec3d7730a862044a0f5776bd988">servis</comp>
+            </collocation>
+            <collocation form="vulkanizerski storitev" cluster="3" frequency="68" logDice="4.21">
+              <comp position="1" type="headword" sloleks="">vulkanizerski</comp>
+              <comp position="2" type="collocate" sloleks="LE_abb14230c15d4fd66a15377c1ed699a9">storitev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="vulkanizerski in/ali avtoličarski" cluster="1" frequency="9" logDice="11.32">
+              <comp position="3" type="headword" sloleks="">vulkanizerski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_bc3627eb05f4efe3448974d76233f5a5">avtoličarski</comp>
+              </collocation>
+            <collocation form="vulkanizerski in/ali avtomehaničen" cluster="2" frequency="6" logDice="11.31">
+              <comp position="3" type="headword" sloleks="">vulkanizerski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_1567d4498d637abf5e38147f6aa9bc78">avtomehaničen</comp>
+              </collocation>
+            <collocation form="vulkanizerski in/ali mehaničen" cluster="3" frequency="7" logDice="9.67">
+              <comp position="3" type="headword" sloleks="">vulkanizerski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_e86edca5c784c78813b3d18b09f6e186">mehaničen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

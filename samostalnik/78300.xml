@@ -1,0 +1,606 @@
+<entry>
+  <header>
+    <lexical_unit id="78300">platnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">3853</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="platnica iz usnja" cluster="1" frequency="10" logDice="7.86">
+              <comp position="1" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_548a220aa858e6c7e17431aff0fa7e2b">usnja</comp>
+            </collocation>
+            <collocation form="platnica iz Krke" cluster="2" frequency="4" logDice="7.83">
+              <comp position="1" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_d6818d79143b5b85449f3389d59c998e">Krke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="platnica zvezka" cluster="1" frequency="32" logDice="8.87">
+              <comp position="1" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_e50fbfc3336a31d34cf7f9fd1acdd6f4">zvezka</comp>
+            </collocation>
+            <collocation form="platnica knjige" cluster="2" frequency="259" logDice="6.63">
+              <comp position="1" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_fcbd23f52ef0d5c8f302f9c1ba64a0e3">knjige</comp>
+            </collocation>
+            <collocation form="platnica zbirke" cluster="2" frequency="16" logDice="4.71">
+              <comp position="1" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_b8e0610165688c675f0bd81c2c79fbd6">zbirke</comp>
+            </collocation>
+            <collocation form="platnica romana" cluster="2" frequency="8" logDice="3.94">
+              <comp position="1" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_51813d02ce991492a6f83a8f5b683a69">romana</comp>
+            </collocation>
+            <collocation form="platnica plošče" cluster="3" frequency="11" logDice="3.9">
+              <comp position="1" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_75a10c913aa58b7a0188e78adfd52ab4">plošče</comp>
+            </collocation>
+            <collocation form="platnica albuma" cluster="3" frequency="8" logDice="4.07">
+              <comp position="1" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_0def491564de1e711c59259b711c3f63">albuma</comp>
+            </collocation>
+            <collocation form="platnica lista" cluster="4" frequency="23" logDice="5.06">
+              <comp position="1" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_83c15927a3c6619d08f16ff12f82390f">lista</comp>
+            </collocation>
+            <collocation form="platnica revije" cluster="4" frequency="18" logDice="3.38">
+              <comp position="1" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_204d5501054914c9e28f5661e901ede4">revije</comp>
+            </collocation>
+            <collocation form="platnica barve" cluster="5" frequency="12" logDice="3.2">
+              <comp position="1" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_d066cf8419aa6609519c184ed701618e">barve</comp>
+            </collocation>
+            <collocation form="platnica kataloga" cluster="6" frequency="9" logDice="6.29">
+              <comp position="1" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_9547b328e89e3fa4fc55ace3a5f6ffb6">kataloga</comp>
+            </collocation>
+            <collocation form="platnica knjižice" cluster="6" frequency="8" logDice="6.41">
+              <comp position="1" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_ac1a9fbde96485a6355a2e514ca419fe">knjižice</comp>
+            </collocation>
+            <collocation form="platnica učbenika" cluster="7" frequency="11" logDice="5.88">
+              <comp position="1" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_b65480e8d924d05f369d8ca44fbeda12">učbenika</comp>
+            </collocation>
+            <collocation form="platnica formata" cluster="8" frequency="10" logDice="5.19">
+              <comp position="1" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_4b828034a716237432d5ee659b069b7e">formata</comp>
+            </collocation>
+            <collocation form="platnica izdaje" cluster="9" frequency="13" logDice="4.93">
+              <comp position="1" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_7683011bbc418354ce3ad92abaaaca94">izdaje</comp>
+            </collocation>
+            <collocation form="mladica platnice" cluster="10" frequency="18" logDice="9.37">
+              <comp position="1" type="collocate" sloleks="LE_05cbd0b796b6dc47f5cced29de90e1dd">mladica</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnice</comp>
+            </collocation>
+            <collocation form="zavihek platnice" cluster="11" frequency="22" logDice="9.25">
+              <comp position="1" type="collocate" sloleks="LE_f4deef555c7c9c0fd858398e21b9a7ab">zavihek</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnice</comp>
+            </collocation>
+            <collocation form="krilo platnice" cluster="12" frequency="5" logDice="4.09">
+              <comp position="1" type="collocate" sloleks="LE_0e4d1b91ab20c0747f9b23a00692c709">krilo</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnice</comp>
+            </collocation>
+            <collocation form="zavarovanje platnice" cluster="13" frequency="6" logDice="2.8">
+              <comp position="1" type="collocate" sloleks="LE_22172da81af87a2ec8c76198028b9162">zavarovanje</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnice</comp>
+            </collocation>
+            <collocation form="izdelava platnice" cluster="14" frequency="13" logDice="2.59">
+              <comp position="1" type="collocate" sloleks="LE_58e4c9eb6d6ddc69a009737fc482eaa5">izdelava</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnice</comp>
+            </collocation>
+            <collocation form="oblikovanje platnice" cluster="14" frequency="8" logDice="1.94">
+              <comp position="1" type="collocate" sloleks="LE_e6837c8d43146ecd172f5bf720d09d3b">oblikovanje</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnice</comp>
+            </collocation>
+            <collocation form="značilnost platnice" cluster="15" frequency="5" logDice="2.47">
+              <comp position="1" type="collocate" sloleks="LE_0453747d6f718a7898399bd0bd02be8e">značilnost</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnice</comp>
+            </collocation>
+            <collocation form="vzreja platnice" cluster="16" frequency="18" logDice="7.31">
+              <comp position="1" type="collocate" sloleks="LE_5998e6e70c9e8d1bb44f3e236b602e31">vzreja</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnice</comp>
+            </collocation>
+            <collocation form="ulov platnice" cluster="17" frequency="5" logDice="6.46">
+              <comp position="1" type="collocate" sloleks="LE_2e05dbbd33c7cf380a802702bd7877d7">ulov</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnice</comp>
+            </collocation>
+            <collocation form="lov platnice" cluster="18" frequency="7" logDice="5.93">
+              <comp position="1" type="collocate" sloleks="LE_edd39bd58891ca70e7f6a1f23509f935">lov</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnice</comp>
+            </collocation>
+            <collocation form="jata platnice" cluster="19" frequency="6" logDice="5.86">
+              <comp position="1" type="collocate" sloleks="LE_711c7c2ba1ef2109df52936fb76281a7">jata</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnice</comp>
+            </collocation>
+            <collocation form="populacija platnice" cluster="20" frequency="9" logDice="5.77">
+              <comp position="1" type="collocate" sloleks="LE_0840ec36ac985c5cfbc71484d3e2c3f1">populacija</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnice</comp>
+            </collocation>
+            <collocation form="hrbet platnice" cluster="21" frequency="7" logDice="5.64">
+              <comp position="1" type="collocate" sloleks="LE_1dc08394d67093dcb5a1daeeaf0eacaa">hrbet</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnice</comp>
+            </collocation>
+            <collocation form="stran platnice" cluster="22" frequency="160" logDice="4.59">
+              <comp position="1" type="collocate" sloleks="LE_4432316ca39663f747c84fc21ac8e398">stran</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnice</comp>
+            </collocation>
+            <collocation form="barva platnice" cluster="23" frequency="21" logDice="4.13">
+              <comp position="1" type="collocate" sloleks="LE_d066cf8419aa6609519c184ed701618e">barva</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="krasiti platnico" cluster="1" frequency="16" logDice="5.85">
+              <comp position="1" type="collocate" sloleks="LE_5d9e7c550f9e7ba2e1a69dc4b8e532b5">krasiti</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="odpreti platnico" cluster="2" frequency="13" logDice="1.8">
+              <comp position="1" type="collocate" sloleks="LE_e8a0b78c58df134dead0230dc2e801ab">odpreti</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz med SBZ4">
+          <collocations>
+            <collocation form="pokukati med platnico" cluster="1" frequency="6" logDice="11.24">
+              <comp position="1" type="collocate" sloleks="LE_b736bc4bafa32f7b48bd7ef50528ad03">pokukati</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="ujeti med platnico" cluster="2" frequency="4" logDice="9.64">
+              <comp position="1" type="collocate" sloleks="LE_d05325c3602790e3c4b8226f75a2d17f">ujeti</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz med SBZ6">
+          <collocations>
+            <collocation form="umoriti med platnico" cluster="1" frequency="4" logDice="9.65">
+              <comp position="1" type="collocate" sloleks="LE_a49108cfd68bfd44ec3edf0d41f51fb1">umoriti</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="skrivati med platnico" cluster="2" frequency="7" logDice="8.24">
+              <comp position="1" type="collocate" sloleks="LE_5e2b29736ec2dfed37f95bcc8ffe5f1a">skrivati</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="znajti med platnico" cluster="3" frequency="4" logDice="5.5">
+              <comp position="1" type="collocate" sloleks="LE_c7ea193e7027efd5dd87ce5a7383424d">znajti</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="najti med platnico" cluster="4" frequency="5" logDice="5.25">
+              <comp position="1" type="collocate" sloleks="LE_843e328fc791979a62059ce2c06a66c8">najti</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="zapisati na platnico" cluster="1" frequency="8" logDice="6.57">
+              <comp position="1" type="collocate" sloleks="LE_c6de090644261696188a3ce198fb6cca">zapisati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="nalepiti na platnico" cluster="2" frequency="4" logDice="5.6">
+              <comp position="1" type="collocate" sloleks="LE_dcd7c8ba4bd8ad6f251020b26d0592cc">nalepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ5">
+          <collocations>
+            <collocation form="pisati na platnici" cluster="1" frequency="37" logDice="7.29">
+              <comp position="1" type="collocate" sloleks="LE_4173587cb50dc70d0c9a1be18c9c1b96">pisati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+            <collocation form="objaviti na platnici" cluster="1" frequency="4" logDice="4.04">
+              <comp position="1" type="collocate" sloleks="LE_9656fb0f6c8a5320fa25ac07780a186c">objaviti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+            <collocation form="prebrati na platnici" cluster="2" frequency="6" logDice="5.44">
+              <comp position="1" type="collocate" sloleks="LE_1ab4a76da79e563f74b035ae0e212279">prebrati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+            <collocation form="brati na platnici" cluster="2" frequency="5" logDice="6.41">
+              <comp position="1" type="collocate" sloleks="LE_dd8c34f8bf37915ad59ec2ffd42b1a6e">brati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+            <collocation form="pustiti na platnici" cluster="3" frequency="4" logDice="3.28">
+              <comp position="1" type="collocate" sloleks="LE_4a4360d212c83015c6f3002d01d68ff4">pustiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+            <collocation form="imeti na platnici" cluster="4" frequency="17" logDice="2.7">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz po SBZ5">
+          <collocations>
+            <collocation form="soditi po platnici" cluster="1" frequency="8" logDice="4.96">
+              <comp position="1" type="collocate" sloleks="LE_527f837053c27c463c45a1411787c8ee">soditi</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="najti v platnico" cluster="1" frequency="7" logDice="7.08">
+              <comp position="1" type="collocate" sloleks="LE_843e328fc791979a62059ce2c06a66c8">najti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ6">
+          <collocations>
+            <collocation form="skrivati za platnico" cluster="1" frequency="9" logDice="5.8">
+              <comp position="1" type="collocate" sloleks="LE_5e2b29736ec2dfed37f95bcc8ffe5f1a">skrivati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="ročajen platnica" cluster="1" frequency="20" logDice="8.73">
+              <comp position="1" type="collocate" sloleks="">ročajen</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="rdečeoka platnica" cluster="2" frequency="8" logDice="7.34">
+              <comp position="1" type="collocate" sloleks="LE_3325d4d1d3baf458fde00a7a651ef3f5">rdečeoka</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="knjižna platnica" cluster="3" frequency="68" logDice="5.67">
+              <comp position="1" type="collocate" sloleks="LE_1d6d4c0ffd4a65b7ad39fab4d7071948|LE_b88f3ff130741099fd9c285f72a05863">knjižna</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="hrbtna platnica" cluster="4" frequency="11" logDice="5.0">
+              <comp position="1" type="collocate" sloleks="LE_902ae9e243eb11075b611a78109656f7">hrbtna</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="trda platnica" cluster="5" frequency="249" logDice="6.83">
+              <comp position="1" type="collocate" sloleks="LE_101d4350f102396faae6f43c7eb55f77">trda</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="mehka platnica" cluster="5" frequency="89" logDice="6.32">
+              <comp position="1" type="collocate" sloleks="LE_f42dee14d6a31c1895861d718d6304d3">mehka</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="debela platnica" cluster="5" frequency="22" logDice="3.7">
+              <comp position="1" type="collocate" sloleks="LE_5e9ecc6d8e05a9e411ef42506ade7cef">debela</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="trdna platnica" cluster="5" frequency="20" logDice="3.94">
+              <comp position="1" type="collocate" sloleks="LE_bbbbae1285728efb9693b8727b51a35e">trdna</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="rdeča platnica" cluster="6" frequency="52" logDice="3.01">
+              <comp position="1" type="collocate" sloleks="LE_f39824a0a0c94efb31b4fa9dc908ea0f">rdeča</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="črna platnica" cluster="6" frequency="40" logDice="2.46">
+              <comp position="1" type="collocate" sloleks="LE_efad3f083a68e148bcd4aa4f62efd36c">črna</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="modra platnica" cluster="6" frequency="30" logDice="3.51">
+              <comp position="1" type="collocate" sloleks="LE_b77d374d59b54f808284a0dca42e2434">modra</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="bela platnica" cluster="6" frequency="28" logDice="1.81">
+              <comp position="1" type="collocate" sloleks="LE_50f9b0a6743feeba2fd5482919490dd5">bela</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="barvna platnica" cluster="6" frequency="15" logDice="3.3">
+              <comp position="1" type="collocate" sloleks="LE_e1a8898e54ce222226d87580cce99b67">barvna</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="rumena platnica" cluster="6" frequency="13" logDice="2.62">
+              <comp position="1" type="collocate" sloleks="LE_7d837051cc47370840e73ef7ef063e1f">rumena</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="rjava platnica" cluster="6" frequency="12" logDice="3.7">
+              <comp position="1" type="collocate" sloleks="LE_907b694ff54d40e0f7f867c38196727d">rjava</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="zelena platnica" cluster="6" frequency="11" logDice="1.53">
+              <comp position="1" type="collocate" sloleks="LE_6e8aa87791d8f00ce04541edfe194c36">zelena</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="lesena platnica" cluster="7" frequency="26" logDice="3.59">
+              <comp position="1" type="collocate" sloleks="LE_39fa6eac8b3aca677a672c92e27a594c|LE_6be16eebd901c9f88de46c0031bec9fd">lesena</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="plastificirana platnica" cluster="8" frequency="8" logDice="6.98">
+              <comp position="1" type="collocate" sloleks="LE_dc4fc894b3c6984e134e54130da20b5b">plastificirana</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="zadnja platnica" cluster="9" frequency="196" logDice="2.55">
+              <comp position="1" type="collocate" sloleks="LE_91601e3363ebbfa5c134315888532266">zadnja</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="notranja platnica" cluster="10" frequency="18" logDice="1.53">
+              <comp position="1" type="collocate" sloleks="LE_bca9138b9a7f57aa3e597de77446f7d5">notranja</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="kartonska platnica" cluster="11" frequency="11" logDice="6.46">
+              <comp position="1" type="collocate" sloleks="LE_2dab732ed5bf2a906d50b3baac6b2064">kartonska</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="odebeljena platnica" cluster="12" frequency="8" logDice="6.46">
+              <comp position="1" type="collocate" sloleks="LE_35723671d57d9f1990e91a9e804f275a">odebeljena</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="klena platnica" cluster="13" frequency="9" logDice="6.28">
+              <comp position="1" type="collocate" sloleks="LE_94b0154f073220104b5b661b8336079a">klena</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="usnjena platnica" cluster="14" frequency="36" logDice="6.26">
+              <comp position="1" type="collocate" sloleks="LE_376ae461cbdc64b5c3999b428d8b3b44">usnjena</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+            <collocation form="sprednja platnica" cluster="15" frequency="40" logDice="5.79">
+              <comp position="1" type="collocate" sloleks="LE_f1f3eddef77c7c7d1c0b9e71bad4f68a">sprednja</comp>
+              <comp position="2" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 na SBZ5">
+          <collocations>
+            <collocation form="natisnjen na platnici" cluster="1" frequency="6" logDice="8.18">
+              <comp position="1" type="collocate" sloleks="LE_877fe7df9f60feadeac5ba746cf7c25c">natisnjen</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+            <collocation form="zapisan na platnici" cluster="2" frequency="11" logDice="7.14">
+              <comp position="1" type="collocate" sloleks="LE_cd2d085babe6bf9537f0c7008c94d8d9">zapisan</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 v SBZ4">
+          <collocations>
+            <collocation form="vezan v platnico" cluster="1" frequency="18" logDice="10.71">
+              <comp position="1" type="collocate" sloleks="LE_9d168478078f3e72a96d3998d1540539">vezan</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="odet v platnico" cluster="2" frequency="4" logDice="5.48">
+              <comp position="1" type="collocate" sloleks="LE_8df39ee60e993a990a9497f5243365b8">odet</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 v SBZ5">
+          <collocations>
+            <collocation form="skrit v platnici" cluster="1" frequency="8" logDice="5.77">
+              <comp position="1" type="collocate" sloleks="LE_58868a672ef2dcbc5baabb5b48da0f05">skrit</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 med SBZ6">
+          <collocations>
+            <collocation form="list med platnico" cluster="1" frequency="4" logDice="10.32">
+              <comp position="1" type="collocate" sloleks="LE_83c15927a3c6619d08f16ff12f82390f">list</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="umor med platnico" cluster="2" frequency="5" logDice="9.87">
+              <comp position="1" type="collocate" sloleks="LE_e1d415ebab0599b221c2915c0deebda5">umor</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="prostor med platnico" cluster="3" frequency="4" logDice="5.62">
+              <comp position="1" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostor</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ4">
+          <collocations>
+            <collocation form="ribolov na platnico" cluster="1" frequency="4" logDice="8.92">
+              <comp position="1" type="collocate" sloleks="LE_a73c21bdc06e9a4954111d8979bed917">ribolov</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="lov na platnico" cluster="2" frequency="6" logDice="4.25">
+              <comp position="1" type="collocate" sloleks="LE_edd39bd58891ca70e7f6a1f23509f935">lov</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ5">
+          <collocations>
+            <collocation form="zemljevid na platnici" cluster="1" frequency="5" logDice="8.55">
+              <comp position="1" type="collocate" sloleks="LE_71735c9c54f4e5229fe9a9253eeb8bdf">zemljevid</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+            <collocation form="fotografija na platnici" cluster="2" frequency="9" logDice="6.55">
+              <comp position="1" type="collocate" sloleks="LE_e6df18792975a9b99ce5878081baa979">fotografija</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+            <collocation form="besedilo na platnici" cluster="2" frequency="8" logDice="6.11">
+              <comp position="1" type="collocate" sloleks="LE_c2cf3f2b59c7730608bd4c4e20b22ee6">besedilo</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+            <collocation form="slika na platnici" cluster="2" frequency="8" logDice="5.51">
+              <comp position="1" type="collocate" sloleks="LE_593e973f672b71320e37b77b785f08a0">slika</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+            <collocation form="zapis na platnici" cluster="2" frequency="7" logDice="7.25">
+              <comp position="1" type="collocate" sloleks="LE_5704e85d99cff0223ab5caec7b19dc4c">zapis</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+            <collocation form="motiv na platnici" cluster="3" frequency="4" logDice="7.07">
+              <comp position="1" type="collocate" sloleks="LE_b056e9d351398d2c53f0e7e700d09639">motiv</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+            <collocation form="črka na platnici" cluster="4" frequency="6" logDice="6.63">
+              <comp position="1" type="collocate" sloleks="LE_e88fb3a5ddae9f97933d9fac2b027fd1">črka</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+            <collocation form="ime na platnici" cluster="5" frequency="7" logDice="6.41">
+              <comp position="1" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">ime</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+            <collocation form="naslov na platnici" cluster="5" frequency="5" logDice="6.04">
+              <comp position="1" type="collocate" sloleks="LE_1aca8621567cc70c42163dfa35048969">naslov</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 po SBZ5">
+          <collocations>
+            <collocation form="knjiga po platnici" cluster="1" frequency="40" logDice="9.81">
+              <comp position="1" type="collocate" sloleks="LE_fcbd23f52ef0d5c8f302f9c1ba64a0e3">knjiga</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="Bakhanal v platnici" cluster="1" frequency="7" logDice="12.02">
+              <comp position="1" type="collocate" sloleks="">Bakhanal</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+            <collocation form="knjiga v platnici" cluster="2" frequency="7" logDice="4.74">
+              <comp position="1" type="collocate" sloleks="LE_fcbd23f52ef0d5c8f302f9c1ba64a0e3">knjiga</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+            <collocation form="delo v platnici" cluster="3" frequency="6" logDice="1.15">
+              <comp position="1" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="zvezek s platnico" cluster="1" frequency="51" logDice="10.97">
+              <comp position="1" type="collocate" sloleks="LE_e50fbfc3336a31d34cf7f9fd1acdd6f4">zvezek</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="knjižica s platnico" cluster="1" frequency="20" logDice="8.33">
+              <comp position="1" type="collocate" sloleks="LE_ac1a9fbde96485a6355a2e514ca419fe">knjižica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="knjiga s platnico" cluster="2" frequency="92" logDice="8.37">
+              <comp position="1" type="collocate" sloleks="LE_fcbd23f52ef0d5c8f302f9c1ba64a0e3">knjiga</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="izdaja s platnico" cluster="2" frequency="17" logDice="9.61">
+              <comp position="1" type="collocate" sloleks="LE_7683011bbc418354ce3ad92abaaaca94">izdaja</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="oblika s platnico" cluster="2" frequency="4" logDice="6.05">
+              <comp position="1" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">oblika</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="notes s platnico" cluster="3" frequency="5" logDice="8.91">
+              <comp position="1" type="collocate" sloleks="LE_254925540bdc9993a1b2015921b2dd6f">notes</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="format s platnico" cluster="4" frequency="6" logDice="8.62">
+              <comp position="1" type="collocate" sloleks="LE_4b828034a716237432d5ee659b069b7e">format</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="mapa s platnico" cluster="5" frequency="7" logDice="7.52">
+              <comp position="1" type="collocate" sloleks="LE_a43c83f0a9ee68c2e3dba68a1bbb22f0">mapa</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="dnevnik s platnico" cluster="6" frequency="5" logDice="7.41">
+              <comp position="1" type="collocate" sloleks="LE_37487cb645ddeef16b628ad882435e8f">dnevnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="album s platnico" cluster="7" frequency="5" logDice="5.33">
+              <comp position="1" type="collocate" sloleks="LE_0def491564de1e711c59259b711c3f63">album</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="platnica s črko" cluster="8" frequency="5" logDice="6.38">
+              <comp position="1" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_e88fb3a5ddae9f97933d9fac2b027fd1">črko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="tekst za platnico" cluster="1" frequency="5" logDice="7.36">
+              <comp position="1" type="collocate" sloleks="LE_2a1dc037ea9be653523a841f84de0814">tekst</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="doba za platnico" cluster="2" frequency="4" logDice="5.59">
+              <comp position="1" type="collocate" sloleks="LE_de90dd1327fca7d794058c6493fad6f6">doba</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnico</comp>
+            </collocation>
+            <collocation form="platnica za shranjevanje" cluster="3" frequency="13" logDice="6.71">
+              <comp position="1" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_28e3ff044a698864df888d7a52084b9d">shranjevanje</comp>
+            </collocation>
+            <collocation form="platnica za knjigo" cluster="4" frequency="4" logDice="4.6">
+              <comp position="1" type="headword" sloleks="LE_8faecf7b81f7c452967263772928aa32">platnica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_fcbd23f52ef0d5c8f302f9c1ba64a0e3">knjigo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

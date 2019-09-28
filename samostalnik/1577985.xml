@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="1577985">look</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="look iz leta" cluster="1" frequency="5" logDice="1.07">
+              <comp position="1" type="headword" sloleks="">look</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="look lika" cluster="1" frequency="38" logDice="9.82">
+              <comp position="1" type="headword" sloleks="">look</comp>
+              <comp position="2" type="collocate" sloleks="">lika</comp>
+            </collocation>
+            <collocation form="look backe" cluster="2" frequency="17" logDice="7.61">
+              <comp position="1" type="headword" sloleks="">look</comp>
+              <comp position="2" type="collocate" sloleks="LE_f1a579c671de117ad5a0d429830b4726">backe</comp>
+            </collocation>
+            <collocation form="look ata" cluster="3" frequency="11" logDice="6.95">
+              <comp position="1" type="headword" sloleks="">look</comp>
+              <comp position="2" type="collocate" sloleks="LE_b55224664dc318a5207b5acd8fa59c26">ata</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="don't look" cluster="1" frequency="13" logDice="8.27">
+              <comp position="1" type="collocate" sloleks="">don't</comp>
+              <comp position="2" type="headword" sloleks="">look</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

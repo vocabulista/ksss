@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="27708">oteževalen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">707</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 kot sbz0">
+          <collocations>
+            <collocation form="oteževalen kot okoliščina" cluster="1" frequency="10" logDice="9.39">
+              <comp position="1" type="headword" sloleks="LE_9cc6ef47c62f35adb66326b2c9430929">oteževalen</comp>
+              <comp position="2" type="other" sloleks="LE_feac626fa40a7cc8a4394d667b7dd8a4">kot</comp>
+              <comp position="3" type="collocate" sloleks="LE_ba188c5851926c05fe6577ad657eeaed">okoliščina</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="oteževalna okoliščina" cluster="1" frequency="602" logDice="8.75">
+              <comp position="1" type="headword" sloleks="LE_9cc6ef47c62f35adb66326b2c9430929">oteževalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_ba188c5851926c05fe6577ad657eeaed">okoliščina</comp>
+            </collocation>
+            <collocation form="oteževalen dejavnik" cluster="2" frequency="19" logDice="3.65">
+              <comp position="1" type="headword" sloleks="LE_9cc6ef47c62f35adb66326b2c9430929">oteževalen</comp>
+              <comp position="2" type="collocate" sloleks="LE_cf8609d892bf4c9b195858a4e75f3684">dejavnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="oteževalen in/ali olajševalen" cluster="1" frequency="31" logDice="13.13">
+              <comp position="3" type="headword" sloleks="LE_9cc6ef47c62f35adb66326b2c9430929">oteževalen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_ac54513284ef861dfa8f9b62658a543e">olajševalen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="prej oteževalen" cluster="1" frequency="10" logDice="2.94">
+              <comp position="1" type="collocate" sloleks="LE_25430d3959f90161be5f8125f60962ef">prej</comp>
+              <comp position="2" type="headword" sloleks="LE_9cc6ef47c62f35adb66326b2c9430929">oteževalen</comp>
+            </collocation>
+            <collocation form="posebno oteževalen" cluster="2" frequency="5" logDice="1.62">
+              <comp position="1" type="collocate" sloleks="LE_eb69744c896971ec70ebb015df8b0c06">posebno</comp>
+              <comp position="2" type="headword" sloleks="LE_9cc6ef47c62f35adb66326b2c9430929">oteževalen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

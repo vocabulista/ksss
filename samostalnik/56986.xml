@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="56986">furgon</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">767</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="furgon z razdaljo" cluster="1" frequency="10" logDice="9.0">
+              <comp position="1" type="headword" sloleks="LE_8b526a0915ea11864d47f1c39662fdb0">furgon</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_497294f4848960a03bf666b1e4f77095">razdaljo</comp>
+            </collocation>
+            <collocation form="furgon s kabino" cluster="2" frequency="8" logDice="8.23">
+              <comp position="1" type="headword" sloleks="LE_8b526a0915ea11864d47f1c39662fdb0">furgon</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_fc4ce06e747b1121a3f0be08b361bdbf">kabino</comp>
+            </collocation>
+            <collocation form="furgon s prostornino" cluster="3" frequency="5" logDice="5.96">
+              <comp position="1" type="headword" sloleks="LE_8b526a0915ea11864d47f1c39662fdb0">furgon</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_060ab88345d5b40e7677a93e9e690b92">prostornino</comp>
+            </collocation>
+            <collocation form="furgon z motorjem" cluster="4" frequency="8" logDice="3.99">
+              <comp position="1" type="headword" sloleks="LE_8b526a0915ea11864d47f1c39662fdb0">furgon</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_f2500a2481839c4e1efd6315d8b961cc">motorjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="različica furgona" cluster="1" frequency="5" logDice="2.07">
+              <comp position="1" type="collocate" sloleks="LE_01eeb2dc69e5d47e92faab5f88e63b8a">različica</comp>
+              <comp position="2" type="headword" sloleks="LE_8b526a0915ea11864d47f1c39662fdb0">furgona</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

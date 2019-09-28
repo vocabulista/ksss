@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="92388">svečan</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1564</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 do sbz2">
+          <collocations>
+            <collocation form="svečan do sušca" cluster="1" frequency="208" logDice="13.98">
+              <comp position="1" type="headword" sloleks="LE_6e56da957fc3e4263250eed095e02485">svečan</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_e53d7c8d2dd1374258a20ee20f386e2a">sušca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="poskrbeti za svečan" cluster="1" frequency="4" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_610c30927c7792ff5bc41d0843ec83a6">poskrbeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6e56da957fc3e4263250eed095e02485">svečan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="grad svečana" cluster="1" frequency="11" logDice="6.35">
+              <comp position="1" type="collocate" sloleks="LE_b32c1e1e605a2353e11ee0a7e2e2e735">grad</comp>
+              <comp position="2" type="headword" sloleks="LE_6e56da957fc3e4263250eed095e02485">svečana</comp>
+            </collocation>
+            <collocation form="Maribor svečana" cluster="2" frequency="7" logDice="4.92">
+              <comp position="1" type="collocate" sloleks="LE_2fd096a507b2c84fb2c3bf085d4e9c1d">Maribor</comp>
+              <comp position="2" type="headword" sloleks="LE_6e56da957fc3e4263250eed095e02485">svečana</comp>
+            </collocation>
+            <collocation form="ura svečana" cluster="3" frequency="37" logDice="4.11">
+              <comp position="1" type="collocate" sloleks="LE_77e6b5a072871d299d405565eaad4389">ura</comp>
+              <comp position="2" type="headword" sloleks="LE_6e56da957fc3e4263250eed095e02485">svečana</comp>
+            </collocation>
+            <collocation form="dom svečana" cluster="4" frequency="5" logDice="1.85">
+              <comp position="1" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">dom</comp>
+              <comp position="2" type="headword" sloleks="LE_6e56da957fc3e4263250eed095e02485">svečana</comp>
+            </collocation>
+            <collocation form="mesec svečana" cluster="5" frequency="7" logDice="1.22">
+              <comp position="1" type="collocate" sloleks="LE_d87e72e2a6ded77b0ae520112759ad42">mesec</comp>
+              <comp position="2" type="headword" sloleks="LE_6e56da957fc3e4263250eed095e02485">svečana</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

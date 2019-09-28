@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="95768">vedež</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">5597</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="vedež bitke" cluster="1" frequency="16" logDice="7.0">
+              <comp position="1" type="headword" sloleks="LE_068579daef38447536793f582e2c683a">vedež</comp>
+              <comp position="2" type="collocate" sloleks="LE_3239feb2d63f3dff4413fd186b1e52d6">bitke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="vedež z naslovom" cluster="1" frequency="7" logDice="1.56">
+              <comp position="1" type="headword" sloleks="LE_068579daef38447536793f582e2c683a">vedež</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_1aca8621567cc70c42163dfa35048969">naslovom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="logaški vedež" cluster="1" frequency="10" logDice="5.7">
+              <comp position="1" type="collocate" sloleks="LE_477d238646d27f06ea503072d7e76f0e">logaški</comp>
+              <comp position="2" type="headword" sloleks="LE_068579daef38447536793f582e2c683a">vedež</comp>
+            </collocation>
+            <collocation form="zrel vedež" cluster="2" frequency="11" logDice="4.0">
+              <comp position="1" type="collocate" sloleks="LE_c33fa4ac7e1ee555e43eeda56e128f26">zrel</comp>
+              <comp position="2" type="headword" sloleks="LE_068579daef38447536793f582e2c683a">vedež</comp>
+            </collocation>
+            <collocation form="mali vedež" cluster="3" frequency="17" logDice="0.94">
+              <comp position="1" type="collocate" sloleks="LE_0b2cc34f00671cbd2bc04dca56aba76b">mali</comp>
+              <comp position="2" type="headword" sloleks="LE_068579daef38447536793f582e2c683a">vedež</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

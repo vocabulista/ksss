@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="53666">dobičkar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">881</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="vojen dobičkar" cluster="1" frequency="456" logDice="7.7">
+              <comp position="1" type="collocate" sloleks="LE_b331707124413301ba74361f068fbd00">vojen</comp>
+              <comp position="2" type="headword" sloleks="LE_23779edda3acd6198a4588a2e5bf97aa">dobičkar</comp>
+            </collocation>
+            <collocation form="povojen dobičkar" cluster="1" frequency="8" logDice="3.42">
+              <comp position="1" type="collocate" sloleks="LE_d9e11f2316ba03f7a2e5147d309ca32c">povojen</comp>
+              <comp position="2" type="headword" sloleks="LE_23779edda3acd6198a4588a2e5bf97aa">dobičkar</comp>
+            </collocation>
+            <collocation form="tranzicijski dobičkar" cluster="2" frequency="11" logDice="5.12">
+              <comp position="1" type="collocate" sloleks="LE_1e27cdef6a7322aacf8d33c704dcbd3e">tranzicijski</comp>
+              <comp position="2" type="headword" sloleks="LE_23779edda3acd6198a4588a2e5bf97aa">dobičkar</comp>
+            </collocation>
+            <collocation form="krizen dobičkar" cluster="3" frequency="11" logDice="4.15">
+              <comp position="1" type="collocate" sloleks="LE_74953102e99f2c25796d2d57d92db25f">krizen</comp>
+              <comp position="2" type="headword" sloleks="LE_23779edda3acd6198a4588a2e5bf97aa">dobičkar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="obračun z dobičkarjem" cluster="1" frequency="5" logDice="4.0">
+              <comp position="1" type="collocate" sloleks="LE_d3e80b1fdfa35353d1647935667ca95d">obračun</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_23779edda3acd6198a4588a2e5bf97aa">dobičkarjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

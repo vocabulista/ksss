@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="7460">razjahati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">461</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="razjahati motocikel" cluster="1" frequency="7" logDice="7.07">
+              <comp position="1" type="headword" sloleks="LE_6a443d6e7385c79f1fd3ebd3a05b6a76">razjahati</comp>
+              <comp position="2" type="collocate" sloleks="LE_2f1c4c26c122c3e50ff724f19ec99856">motocikel</comp>
+            </collocation>
+            <collocation form="razjahati konjiček" cluster="2" frequency="4" logDice="6.59">
+              <comp position="1" type="headword" sloleks="LE_6a443d6e7385c79f1fd3ebd3a05b6a76">razjahati</comp>
+              <comp position="2" type="collocate" sloleks="LE_8978d0455b7cb255a8623a3bce80c0c7">konjiček</comp>
+            </collocation>
+            <collocation form="razjahati konja" cluster="3" frequency="10" logDice="5.78">
+              <comp position="1" type="headword" sloleks="LE_6a443d6e7385c79f1fd3ebd3a05b6a76">razjahati</comp>
+              <comp position="2" type="collocate" sloleks="LE_a528e2f2e480d48407f95d45a8edfe7c">konja</comp>
+            </collocation>
+            <collocation form="razjahati kolo" cluster="4" frequency="11" logDice="5.06">
+              <comp position="1" type="headword" sloleks="LE_6a443d6e7385c79f1fd3ebd3a05b6a76">razjahati</comp>
+              <comp position="2" type="collocate" sloleks="LE_54e72f78ea9566d5e97d58e9d635c686|LE_a2095f25780ded6d30a95b6a6860e039">kolo</comp>
+            </collocation>
+            <collocation form="razjahati motor" cluster="5" frequency="4" logDice="3.48">
+              <comp position="1" type="headword" sloleks="LE_6a443d6e7385c79f1fd3ebd3a05b6a76">razjahati</comp>
+              <comp position="2" type="collocate" sloleks="LE_f2500a2481839c4e1efd6315d8b961cc">motor</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz2">
+          <collocations>
+            <collocation form="razjahati s konja" cluster="1" frequency="5" logDice="8.17">
+              <comp position="1" type="headword" sloleks="LE_6a443d6e7385c79f1fd3ebd3a05b6a76">razjahati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_a528e2f2e480d48407f95d45a8edfe7c">konja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="počasi razjahati" cluster="1" frequency="4" logDice="0.6">
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              <comp position="2" type="headword" sloleks="LE_6a443d6e7385c79f1fd3ebd3a05b6a76">razjahati</comp>
+            </collocation>
+            <collocation form="takoj razjahati" cluster="2" frequency="6" logDice="0.38">
+              <comp position="1" type="collocate" sloleks="LE_63831e752d3a6105c3245c75b9779495">takoj</comp>
+              <comp position="2" type="headword" sloleks="LE_6a443d6e7385c79f1fd3ebd3a05b6a76">razjahati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

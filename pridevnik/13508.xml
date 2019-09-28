@@ -1,0 +1,56 @@
+<entry>
+  <header>
+    <lexical_unit id="13508">apeninski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">2974</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="apeninski polotok" cluster="1" frequency="2651" logDice="12.61">
+              <comp position="1" type="headword" sloleks="LE_9496fca560d865d5fc776417b025b158">apeninski</comp>
+              <comp position="2" type="collocate" sloleks="LE_f4df629f0bacfadf20af3ab90f187f06">polotok</comp>
+            </collocation>
+            <collocation form="apeninski škorenj" cluster="2" frequency="44" logDice="7.31">
+              <comp position="1" type="headword" sloleks="LE_9496fca560d865d5fc776417b025b158">apeninski</comp>
+              <comp position="2" type="collocate" sloleks="LE_86f01314ff0f4ce3153efef27a6db29e">škorenj</comp>
+            </collocation>
+            <collocation form="apeninska ladjedelnica" cluster="3" frequency="11" logDice="6.11">
+              <comp position="1" type="headword" sloleks="LE_9496fca560d865d5fc776417b025b158">apeninska</comp>
+              <comp position="2" type="collocate" sloleks="LE_5d6331219d8c7e8bc433c98c51cff80d">ladjedelnica</comp>
+            </collocation>
+            <collocation form="apeninska avtocesta" cluster="4" frequency="14" logDice="4.52">
+              <comp position="1" type="headword" sloleks="LE_9496fca560d865d5fc776417b025b158">apeninska</comp>
+              <comp position="2" type="collocate" sloleks="LE_e4bc058b90708ab85160b3b42a48057a">avtocesta</comp>
+            </collocation>
+            <collocation form="apeninska javnost" cluster="5" frequency="8" logDice="1.58">
+              <comp position="1" type="headword" sloleks="LE_9496fca560d865d5fc776417b025b158">apeninska</comp>
+              <comp position="2" type="collocate" sloleks="LE_e2876fc81d3c084862be27e9bd6863ca">javnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="apeninski in/ali pirenejski" cluster="1" frequency="17" logDice="12.49">
+              <comp position="3" type="headword" sloleks="LE_9496fca560d865d5fc776417b025b158">apeninski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_1fcca202cb9db3c900bed13882f550e9">pirenejski</comp>
+              </collocation>
+            <collocation form="apeninski in/ali iberski" cluster="2" frequency="10" logDice="12.02">
+              <comp position="3" type="headword" sloleks="LE_9496fca560d865d5fc776417b025b158">apeninski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_2945c69dd0ee583ac134fec6424bdb59">iberski</comp>
+              </collocation>
+            <collocation form="apeninski in balkanski" cluster="3" frequency="22" logDice="9.81">
+              <comp position="1" type="headword" sloleks="LE_9496fca560d865d5fc776417b025b158">apeninski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_9cab2316b01aa2f4cf94f06fcccc4a93">balkanski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

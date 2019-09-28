@@ -1,0 +1,86 @@
+<entry>
+  <header>
+    <lexical_unit id="84595">radodarnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1139</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="radodarnost narave" cluster="1" frequency="13" logDice="3.23">
+              <comp position="1" type="headword" sloleks="LE_df2c12388374e5731be8369e89ab8937">radodarnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_3720f05aae76a62fa53daa3d96e22c20">narave</comp>
+            </collocation>
+            <collocation form="radodarnost države" cluster="2" frequency="36" logDice="1.83">
+              <comp position="1" type="headword" sloleks="LE_df2c12388374e5731be8369e89ab8937">radodarnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">države</comp>
+            </collocation>
+            <collocation form="radodarnost sistema" cluster="2" frequency="11" logDice="1.43">
+              <comp position="1" type="headword" sloleks="LE_df2c12388374e5731be8369e89ab8937">radodarnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_b126847d984efa55c2ffad50be4e1dac">sistema</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="radodarnost s prostorom" cluster="1" frequency="4" logDice="4.88">
+              <comp position="1" type="headword" sloleks="LE_df2c12388374e5731be8369e89ab8937">radodarnost</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostorom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="računati na radodarnost" cluster="1" frequency="8" logDice="3.9">
+              <comp position="1" type="collocate" sloleks="LE_ed3b261568347c34c579b6dd27087628">računati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_df2c12388374e5731be8369e89ab8937">radodarnost</comp>
+            </collocation>
+            <collocation form="vplivati na radodarnost" cluster="2" frequency="4" logDice="0.11">
+              <comp position="1" type="collocate" sloleks="LE_311f98501605bd2a2d7eaa33739357f6">vplivati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_df2c12388374e5731be8369e89ab8937">radodarnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pretirana radodarnost" cluster="1" frequency="24" logDice="4.78">
+              <comp position="1" type="collocate" sloleks="LE_97b9f9bb1479d471e7250254339115ed">pretirana</comp>
+              <comp position="2" type="headword" sloleks="LE_df2c12388374e5731be8369e89ab8937">radodarnost</comp>
+            </collocation>
+            <collocation form="prevelika radodarnost" cluster="1" frequency="18" logDice="3.58">
+              <comp position="1" type="collocate" sloleks="LE_3ddf4404d26d2b6a5d58add21db0bc9f">prevelika</comp>
+              <comp position="2" type="headword" sloleks="LE_df2c12388374e5731be8369e89ab8937">radodarnost</comp>
+            </collocation>
+            <collocation form="prostorska radodarnost" cluster="2" frequency="12" logDice="2.58">
+              <comp position="1" type="collocate" sloleks="LE_b1c4cd8abcc04e97f356186365884415">prostorska</comp>
+              <comp position="2" type="headword" sloleks="LE_df2c12388374e5731be8369e89ab8937">radodarnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 od SBZ2">
+          <collocations>
+            <collocation form="odvisen od radodarnosti" cluster="1" frequency="24" logDice="3.31">
+              <comp position="1" type="collocate" sloleks="LE_54a31c5172f1f3780d126b8a2e13a017">odvisen</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="headword" sloleks="LE_df2c12388374e5731be8369e89ab8937">radodarnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 po SBZ5">
+          <collocations>
+            <collocation form="znan po radodarnosti" cluster="1" frequency="7" logDice="3.41">
+              <comp position="1" type="collocate" sloleks="LE_3ca4e8269ed35ff770799effa47b0eda">znan</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_df2c12388374e5731be8369e89ab8937">radodarnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

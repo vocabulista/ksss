@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="96328">vinotok</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">746</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 do sbz2">
+          <collocations>
+            <collocation form="vinotok do listopada" cluster="1" frequency="214" logDice="13.99">
+              <comp position="1" type="headword" sloleks="LE_c0d617e72209b3b49e768237d4ce3764">vinotok</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_304925143c8fac03dab6b137b6de2143">listopada</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Vreme vinotoka" cluster="1" frequency="12" logDice="7.34">
+              <comp position="1" type="collocate" sloleks="LE_0687a5b41704c2be5a420798d4b269a8">Vreme</comp>
+              <comp position="2" type="headword" sloleks="LE_c0d617e72209b3b49e768237d4ce3764">vinotoka</comp>
+            </collocation>
+            <collocation form="dan vinotoka" cluster="2" frequency="14" logDice="0.85">
+              <comp position="1" type="collocate" sloleks="LE_687a3a5f213dba3724e626216f1b09da">dan</comp>
+              <comp position="2" type="headword" sloleks="LE_c0d617e72209b3b49e768237d4ce3764">vinotoka</comp>
+            </collocation>
+            <collocation form="mesec vinotoka" cluster="3" frequency="5" logDice="0.74">
+              <comp position="1" type="collocate" sloleks="LE_d87e72e2a6ded77b0ae520112759ad42">mesec</comp>
+              <comp position="2" type="headword" sloleks="LE_c0d617e72209b3b49e768237d4ce3764">vinotoka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

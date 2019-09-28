@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="78957">podmeni</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">527</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="podmeni Line" cluster="1" frequency="11" logDice="7.23">
+              <comp position="1" type="headword" sloleks="LE_4c63cbb074453e75832cd5bc44fe9988">podmeni</comp>
+              <comp position="2" type="collocate" sloleks="LE_f55f6ded1e8e0aec6394b68744161301">Line</comp>
+            </collocation>
+            <collocation form="podmeni ukaza" cluster="2" frequency="20" logDice="7.22">
+              <comp position="1" type="headword" sloleks="LE_4c63cbb074453e75832cd5bc44fe9988">podmeni</comp>
+              <comp position="2" type="collocate" sloleks="LE_47ce9d95161d4193879a58d0531f06c2">ukaza</comp>
+            </collocation>
+            <collocation form="ime podmenija" cluster="3" frequency="6" logDice="0.52">
+              <comp position="1" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">ime</comp>
+              <comp position="2" type="headword" sloleks="LE_4c63cbb074453e75832cd5bc44fe9988">podmenija</comp>
+            </collocation>
+            <collocation form="številka podmenija" cluster="3" frequency="5" logDice="1.37">
+              <comp position="1" type="collocate" sloleks="LE_ebd741e03af85017076d3a5582503217">številka</comp>
+              <comp position="2" type="headword" sloleks="LE_4c63cbb074453e75832cd5bc44fe9988">podmenija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz iz SBZ2">
+          <collocations>
+            <collocation form="izbrati iz podmenija" cluster="1" frequency="22" logDice="8.74">
+              <comp position="1" type="collocate" sloleks="LE_9a298309cf1dd67939144a6855fbce8e">izbrati</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_4c63cbb074453e75832cd5bc44fe9988">podmenija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="klikniti v podmeniju" cluster="1" frequency="6" logDice="7.31">
+              <comp position="1" type="collocate" sloleks="LE_d96912dbb8b95e156ab175312a1d7d95">klikniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_4c63cbb074453e75832cd5bc44fe9988">podmeniju</comp>
+            </collocation>
+            <collocation form="izbrati v podmeniju" cluster="2" frequency="17" logDice="6.67">
+              <comp position="1" type="collocate" sloleks="LE_9a298309cf1dd67939144a6855fbce8e">izbrati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_4c63cbb074453e75832cd5bc44fe9988">podmeniju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="možnost v podmeniju" cluster="1" frequency="7" logDice="5.7">
+              <comp position="1" type="collocate" sloleks="LE_2e00efc106e45a8fd5ad17e06d9e6382">možnost</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_4c63cbb074453e75832cd5bc44fe9988">podmeniju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

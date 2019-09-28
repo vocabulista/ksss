@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="65408">kragulj</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">498</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="lunjast kragulj" cluster="1" frequency="8" logDice="11.71">
+              <comp position="1" type="collocate" sloleks="">lunjast</comp>
+              <comp position="2" type="headword" sloleks="LE_9a6246ca6d035ea72e1bf32e5e3fc506">kragulj</comp>
+            </collocation>
+            <collocation form="nočen kragulj" cluster="2" frequency="8" logDice="1.55">
+              <comp position="1" type="collocate" sloleks="LE_a606db4e3d360a1c1698fe851c4a1ce8">nočen</comp>
+              <comp position="2" type="headword" sloleks="LE_9a6246ca6d035ea72e1bf32e5e3fc506">kragulj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="samica kragulja" cluster="1" frequency="5" logDice="7.09">
+              <comp position="1" type="collocate" sloleks="LE_080e1388b925753820def565d305512d">samica</comp>
+              <comp position="2" type="headword" sloleks="LE_9a6246ca6d035ea72e1bf32e5e3fc506">kragulja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

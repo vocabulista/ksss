@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="79498">pojemek</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">457</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 med sbz6">
+          <collocations>
+            <collocation form="pojemek med zaviranjem" cluster="1" frequency="7" logDice="10.3">
+              <comp position="1" type="headword" sloleks="LE_38997cd23ad292f4f8b963495e6c413d">pojemek</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_11210be3872a1751006daf6392213771">zaviranjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="zavoren pojemek" cluster="1" frequency="23" logDice="5.84">
+              <comp position="1" type="collocate" sloleks="LE_f5efa8a01aa0fb3eef48902c9c6953d6">zavoren</comp>
+              <comp position="2" type="headword" sloleks="LE_38997cd23ad292f4f8b963495e6c413d">pojemek</comp>
+            </collocation>
+            <collocation form="povprečen pojemek" cluster="2" frequency="12" logDice="1.95">
+              <comp position="1" type="collocate" sloleks="LE_9360581bf64f561c655406dcf2e16568">povprečen</comp>
+              <comp position="2" type="headword" sloleks="LE_38997cd23ad292f4f8b963495e6c413d">pojemek</comp>
+            </collocation>
+            <collocation form="odličen pojemek" cluster="3" frequency="11" logDice="1.05">
+              <comp position="1" type="collocate" sloleks="LE_5df9e790d0222ba069d884357b717d12">odličen</comp>
+              <comp position="2" type="headword" sloleks="LE_38997cd23ad292f4f8b963495e6c413d">pojemek</comp>
+            </collocation>
+            <collocation form="hiter pojemek" cluster="4" frequency="8" logDice="0.5">
+              <comp position="1" type="collocate" sloleks="LE_2af28cbb04d2e8afedc54b00a27fc453">hiter</comp>
+              <comp position="2" type="headword" sloleks="LE_38997cd23ad292f4f8b963495e6c413d">pojemek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 zaradi SBZ2">
+          <collocations>
+            <collocation form="zdrs zaradi pojemka" cluster="1" frequency="13" logDice="13.34">
+              <comp position="1" type="collocate" sloleks="LE_c98184ed6589b0dc1af2b186545c829d">zdrs</comp>
+              <comp position="2" type="other" sloleks="LE_e2128c24e3c3872c9e5c2981f71b461f">zaradi</comp>
+              <comp position="3" type="headword" sloleks="LE_38997cd23ad292f4f8b963495e6c413d">pojemka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

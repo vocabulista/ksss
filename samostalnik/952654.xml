@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="952654">ilo</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="ilo siloma" cluster="1" frequency="9" logDice="10.42">
+              <comp position="1" type="headword" sloleks="">ilo</comp>
+              <comp position="2" type="collocate" sloleks="">siloma</comp>
+            </collocation>
+            <collocation form="ilo Sung" cluster="2" frequency="8" logDice="9.65">
+              <comp position="1" type="headword" sloleks="">ilo</comp>
+              <comp position="2" type="collocate" sloleks="">Sung</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="ilo za pošiljanje" cluster="1" frequency="5" logDice="7.07">
+              <comp position="1" type="headword" sloleks="">ilo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_6220045c8bf1e0fedc297d94f4cfbf04">pošiljanje</comp>
+            </collocation>
+            <collocation form="ilo za prenos" cluster="2" frequency="5" logDice="4.47">
+              <comp position="1" type="headword" sloleks="">ilo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_420ada0992c76ad3cf51866ecba471c9">prenos</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

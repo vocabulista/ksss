@@ -1,0 +1,62 @@
+<entry>
+  <header>
+    <lexical_unit id="75787">orožnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1201</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="orožnik iz nabrežina" cluster="1" frequency="4" logDice="9.53">
+              <comp position="1" type="headword" sloleks="LE_5dd3dafaa1a0aceeca98c516fa18d102">orožnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">nabrežina</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="bivši orožnik" cluster="1" frequency="12" logDice="2.11">
+              <comp position="1" type="collocate" sloleks="LE_2db2293b59177d3c2a3fb8992eee03ea">bivši</comp>
+              <comp position="2" type="headword" sloleks="LE_5dd3dafaa1a0aceeca98c516fa18d102">orožnik</comp>
+            </collocation>
+            <collocation form="upokojen orožnik" cluster="1" frequency="10" logDice="4.32">
+              <comp position="1" type="collocate" sloleks="LE_7e0b3d69dc109069df38035a09b37567">upokojen</comp>
+              <comp position="2" type="headword" sloleks="LE_5dd3dafaa1a0aceeca98c516fa18d102">orožnik</comp>
+            </collocation>
+            <collocation form="italijanski orožnik" cluster="2" frequency="37" logDice="2.44">
+              <comp position="1" type="collocate" sloleks="LE_913305ff2d1ec7071265c860a231b843">italijanski</comp>
+              <comp position="2" type="headword" sloleks="LE_5dd3dafaa1a0aceeca98c516fa18d102">orožnik</comp>
+            </collocation>
+            <collocation form="nemški orožnik" cluster="2" frequency="23" logDice="1.4">
+              <comp position="1" type="collocate" sloleks="LE_3398f4f093d46af964d6964317ec3e80">nemški</comp>
+              <comp position="2" type="headword" sloleks="LE_5dd3dafaa1a0aceeca98c516fa18d102">orožnik</comp>
+            </collocation>
+            <collocation form="jugoslovanski orožnik" cluster="2" frequency="12" logDice="2.57">
+              <comp position="1" type="collocate" sloleks="LE_aefc34b00d29db79f67ba6076c174067">jugoslovanski</comp>
+              <comp position="2" type="headword" sloleks="LE_5dd3dafaa1a0aceeca98c516fa18d102">orožnik</comp>
+            </collocation>
+            <collocation form="avstrijski orožnik" cluster="2" frequency="8" logDice="1.05">
+              <comp position="1" type="collocate" sloleks="LE_2044cc24b18befa1709518ef073627ec">avstrijski</comp>
+              <comp position="2" type="headword" sloleks="LE_5dd3dafaa1a0aceeca98c516fa18d102">orožnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="poveljstvo orožnika" cluster="1" frequency="13" logDice="6.17">
+              <comp position="1" type="collocate" sloleks="LE_53a8c799d5027b4ed18b003ff7fdb63d">poveljstvo</comp>
+              <comp position="2" type="headword" sloleks="LE_5dd3dafaa1a0aceeca98c516fa18d102">orožnika</comp>
+            </collocation>
+            <collocation form="poveljnik orožnika" cluster="2" frequency="7" logDice="3.58">
+              <comp position="1" type="collocate" sloleks="LE_15a84a954f91245760a26302983194ae">poveljnik</comp>
+              <comp position="2" type="headword" sloleks="LE_5dd3dafaa1a0aceeca98c516fa18d102">orožnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

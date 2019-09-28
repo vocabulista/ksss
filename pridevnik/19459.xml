@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="19459">imuniteten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">687</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="imunitetna komisija" cluster="1" frequency="600" logDice="6.46">
+              <comp position="1" type="headword" sloleks="LE_e9ca11fcf1d98340658f19f1a8892924">imunitetna</comp>
+              <comp position="2" type="collocate" sloleks="LE_1d71b650207bc9d89d6fe3df1de3762a">komisija</comp>
+            </collocation>
+            <collocation form="imunitetna pravica" cluster="2" frequency="24" logDice="1.7">
+              <comp position="1" type="headword" sloleks="LE_e9ca11fcf1d98340658f19f1a8892924">imunitetna</comp>
+              <comp position="2" type="collocate" sloleks="LE_8c0e472df622ea735bcaed6544ab6130">pravica</comp>
+            </collocation>
+            <collocation form="imunitetno vprašanje" cluster="3" frequency="15" logDice="1.1">
+              <comp position="1" type="headword" sloleks="LE_e9ca11fcf1d98340658f19f1a8892924">imunitetno</comp>
+              <comp position="2" type="collocate" sloleks="LE_18ddad642f4f2459ae6eda5f8fcda990">vprašanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="mandatno imuniteten" cluster="1" frequency="51" logDice="12.74">
+              <comp position="1" type="collocate" sloleks="LE_eaea094e4e27c4c44d8aaa894f0a0efe">mandatno</comp>
+              <comp position="2" type="headword" sloleks="LE_e9ca11fcf1d98340658f19f1a8892924">imuniteten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

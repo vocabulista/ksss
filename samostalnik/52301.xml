@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="52301">cvetličarka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">644</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="cvetličarka z izkušnjo" cluster="1" frequency="13" logDice="6.1">
+              <comp position="1" type="headword" sloleks="LE_6dc8326c803c570da3fb4079398802ba">cvetličarka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_cc1bdf7573b2f228f436611e70021bd9">izkušnjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="spoprijateljiti s cvetličarko" cluster="1" frequency="8" logDice="7.31">
+              <comp position="1" type="collocate" sloleks="LE_5a5e3fbb1cdec98ce0b85e0f87e06559">spoprijateljiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_6dc8326c803c570da3fb4079398802ba">cvetličarko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="prijazna cvetličarka" cluster="1" frequency="12" logDice="2.59">
+              <comp position="1" type="collocate" sloleks="LE_439e00b230a5a160ad9e1edaf6af9e84">prijazna</comp>
+              <comp position="2" type="headword" sloleks="LE_6dc8326c803c570da3fb4079398802ba">cvetličarka</comp>
+            </collocation>
+            <collocation form="mlada cvetličarka" cluster="2" frequency="22" logDice="0.52">
+              <comp position="1" type="collocate" sloleks="LE_0ee11dc77f2b35d3d3b7f2db250e72fb">mlada</comp>
+              <comp position="2" type="headword" sloleks="LE_6dc8326c803c570da3fb4079398802ba">cvetličarka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="poklic cvetličarke" cluster="1" frequency="7" logDice="5.01">
+              <comp position="1" type="collocate" sloleks="LE_ee2dc2f20fc3eba609ef788b9cb08df4">poklic</comp>
+              <comp position="2" type="headword" sloleks="LE_6dc8326c803c570da3fb4079398802ba">cvetličarke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

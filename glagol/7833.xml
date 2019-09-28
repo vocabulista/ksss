@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="7833">rjuti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">527</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="rjuti na glas" cluster="1" frequency="5" logDice="3.51">
+              <comp position="1" type="headword" sloleks="LE_8a3feb079bb911083c562fe4e4aa7937">rjuti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_bdaf56c7a9eddd2562b11c97c0770037">glas</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="glasno rjuti" cluster="1" frequency="5" logDice="2.98">
+              <comp position="1" type="collocate" sloleks="LE_8d32e8ffef5c2d930893f51f039b425a">glasno</comp>
+              <comp position="2" type="headword" sloleks="LE_8a3feb079bb911083c562fe4e4aa7937">rjuti</comp>
+            </collocation>
+            <collocation form="naprej rjuti" cluster="2" frequency="4" logDice="0.17">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_8a3feb079bb911083c562fe4e4aa7937">rjuti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

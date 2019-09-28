@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="279122">boxster</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="boxster s streho" cluster="1" frequency="6" logDice="6.22">
+              <comp position="1" type="headword" sloleks="">boxster</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_ce3a8efb09c9c5f6f491b50ef16e4a48">streho</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Porschejev boxster" cluster="1" frequency="17" logDice="8.8">
+              <comp position="1" type="collocate" sloleks="LE_3a0589d44d8b72232706cdd6dcfda6aa">Porschejev</comp>
+              <comp position="2" type="headword" sloleks="">boxster</comp>
+            </collocation>
+            <collocation form="poceni boxster" cluster="2" frequency="15" logDice="3.23">
+              <comp position="1" type="collocate" sloleks="LE_209d55beca5abfa601d61963c5a648bf">poceni</comp>
+              <comp position="2" type="headword" sloleks="">boxster</comp>
+            </collocation>
+            <collocation form="prenovljen boxster" cluster="3" frequency="8" logDice="2.99">
+              <comp position="1" type="collocate" sloleks="LE_08f029ce6128facf7b76c40b6bb26404">prenovljen</comp>
+              <comp position="2" type="headword" sloleks="">boxster</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="porsche boxster" cluster="1" frequency="13" logDice="10.05">
+              <comp position="1" type="collocate" sloleks="LE_38ba1a165f78a4e8e9551505353d655a">porsche</comp>
+              <comp position="2" type="headword" sloleks="">boxster</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,56 @@
+<entry>
+  <header>
+    <lexical_unit id="82386">premet</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">565</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 v sbz4">
+          <collocations>
+            <collocation form="premet v stran" cluster="1" frequency="10" logDice="8.55">
+              <comp position="1" type="headword" sloleks="LE_383793ef395bf1a2f46cfdf3d28cc30e">premet</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_4432316ca39663f747c84fc21ac8e398">stran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="PREMET s POTISKOM" cluster="1" frequency="6" logDice="8.66">
+              <comp position="1" type="headword" sloleks="LE_383793ef395bf1a2f46cfdf3d28cc30e">PREMET</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_713c35ba9153984e58a5b7ea63c7e5fc">POTISKOM</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 čez sbz4">
+          <collocations>
+            <collocation form="premet čez krilo" cluster="1" frequency="12" logDice="12.56">
+              <comp position="1" type="headword" sloleks="LE_383793ef395bf1a2f46cfdf3d28cc30e">premet</comp>
+              <comp position="2" type="other" sloleks="LE_160ad4b4b11d5503081a58eba3acf84d">čez</comp>
+              <comp position="3" type="collocate" sloleks="LE_0e4d1b91ab20c0747f9b23a00692c709">krilo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="izbiren premet" cluster="1" frequency="11" logDice="4.84">
+              <comp position="1" type="collocate" sloleks="LE_ce5d14840a3288ad908f7d6d267dfe31">izbiren</comp>
+              <comp position="2" type="headword" sloleks="LE_383793ef395bf1a2f46cfdf3d28cc30e">premet</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="cilj premeta" cluster="1" frequency="6" logDice="1.75">
+              <comp position="1" type="collocate" sloleks="LE_b464dad2fdf74c26f763918a785d788e">cilj</comp>
+              <comp position="2" type="headword" sloleks="LE_383793ef395bf1a2f46cfdf3d28cc30e">premeta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

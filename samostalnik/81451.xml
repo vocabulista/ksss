@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="81451">pragmatičnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">531</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="pragmatičnost politike" cluster="1" frequency="9" logDice="1.95">
+              <comp position="1" type="headword" sloleks="LE_96a30805c72f2fdbb49c1ec478e1a452">pragmatičnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_d48e3236c14022f821882e8943749375">politike</comp>
+            </collocation>
+            <collocation form="mera pragmatičnosti" cluster="2" frequency="6" logDice="2.76">
+              <comp position="1" type="collocate" sloleks="LE_bb15e9b82aee6708602364eaa5091645">mera</comp>
+              <comp position="2" type="headword" sloleks="LE_96a30805c72f2fdbb49c1ec478e1a452">pragmatičnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za pragmatičnost" cluster="1" frequency="4" logDice="-1.6">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_96a30805c72f2fdbb49c1ec478e1a452">pragmatičnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

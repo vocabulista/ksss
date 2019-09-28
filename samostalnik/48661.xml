@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="48661">barkača</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">488</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="vkrcati na barkačo" cluster="1" frequency="4" logDice="6.05">
+              <comp position="1" type="collocate" sloleks="LE_e6550d84e8a4e3375fea72003681c120">vkrcati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_151692dd8f447d352353aadd40ca5706">barkačo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="ribiška barkača" cluster="1" frequency="30" logDice="4.73">
+              <comp position="1" type="collocate" sloleks="LE_b3b8d384633c17d2d155da66e4694690">ribiška</comp>
+              <comp position="2" type="headword" sloleks="LE_151692dd8f447d352353aadd40ca5706">barkača</comp>
+            </collocation>
+            <collocation form="lesena barkača" cluster="2" frequency="33" logDice="3.96">
+              <comp position="1" type="collocate" sloleks="LE_39fa6eac8b3aca677a672c92e27a594c|LE_6be16eebd901c9f88de46c0031bec9fd">lesena</comp>
+              <comp position="2" type="headword" sloleks="LE_151692dd8f447d352353aadd40ca5706">barkača</comp>
+            </collocation>
+            <collocation form="tovorna barkača" cluster="3" frequency="11" logDice="3.63">
+              <comp position="1" type="collocate" sloleks="LE_5dd51b4561c9b33c2faed8b1b5577142">tovorna</comp>
+              <comp position="2" type="headword" sloleks="LE_151692dd8f447d352353aadd40ca5706">barkača</comp>
+            </collocation>
+            <collocation form="stara barkača" cluster="4" frequency="57" logDice="1.39">
+              <comp position="1" type="collocate" sloleks="LE_a60139f10427cd234d823ade0ac648c8">stara</comp>
+              <comp position="2" type="headword" sloleks="LE_151692dd8f447d352353aadd40ca5706">barkača</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="kapitan barkače" cluster="1" frequency="6" logDice="6.26">
+              <comp position="1" type="collocate" sloleks="LE_6b9203f04ea8570649b44c03868ad0a3">kapitan</comp>
+              <comp position="2" type="headword" sloleks="LE_151692dd8f447d352353aadd40ca5706">barkače</comp>
+            </collocation>
+            <collocation form="krov barkače" cluster="2" frequency="5" logDice="6.18">
+              <comp position="1" type="collocate" sloleks="LE_b4090e60a8a785f9be28f6498d93134d">krov</comp>
+              <comp position="2" type="headword" sloleks="LE_151692dd8f447d352353aadd40ca5706">barkače</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

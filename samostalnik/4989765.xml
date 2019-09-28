@@ -1,0 +1,28 @@
+<entry>
+  <header>
+    <lexical_unit id="4989765">žen</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="žen naroda" cluster="1" frequency="8" logDice="2.15">
+              <comp position="1" type="headword" sloleks="">žen</comp>
+              <comp position="2" type="collocate" sloleks="LE_467863326a5651026d6c2e7a67b4936b">naroda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="beneški žen" cluster="1" frequency="9" logDice="4.12">
+              <comp position="1" type="collocate" sloleks="LE_28e038fb4a9bbac920fd1452d5a8eb0b">beneški</comp>
+              <comp position="2" type="headword" sloleks="">žen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

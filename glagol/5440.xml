@@ -1,0 +1,62 @@
+<entry>
+  <header>
+    <lexical_unit id="5440">pomolsti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">520</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="pomolsti na roko" cluster="1" frequency="4" logDice="4.2">
+              <comp position="1" type="headword" sloleks="LE_b754ebb524b8cddec79a0e6229c670a6">pomolsti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_5fa1bf1096bd6c7b00158af4c43b33b3">roko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="pomolsti kravo" cluster="1" frequency="118" logDice="10.07">
+              <comp position="1" type="headword" sloleks="LE_b754ebb524b8cddec79a0e6229c670a6">pomolsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_2408a7c8e23990552fc99b81139f6421">kravo</comp>
+            </collocation>
+            <collocation form="pomolsti ovco" cluster="1" frequency="4" logDice="5.88">
+              <comp position="1" type="headword" sloleks="LE_b754ebb524b8cddec79a0e6229c670a6">pomolsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_3001c2179e3b4e48629319c439ba0a74">ovco</comp>
+            </collocation>
+            <collocation form="pomolsti kozo" cluster="2" frequency="11" logDice="8.67">
+              <comp position="1" type="headword" sloleks="LE_b754ebb524b8cddec79a0e6229c670a6">pomolsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_3a8169c05dafcda2a42e079828889525">kozo</comp>
+            </collocation>
+            <collocation form="pomolsti toyoto" cluster="3" frequency="5" logDice="8.15">
+              <comp position="1" type="headword" sloleks="LE_b754ebb524b8cddec79a0e6229c670a6">pomolsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_8fdca68e5c09d5693101a2ce800cf52f">toyoto</comp>
+            </collocation>
+            <collocation form="pomolsti živino" cluster="4" frequency="4" logDice="5.33">
+              <comp position="1" type="headword" sloleks="LE_b754ebb524b8cddec79a0e6229c670a6">pomolsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_09191ee1c298e8a332ad3f358052079b">živino</comp>
+            </collocation>
+            <collocation form="pomolsti žival" cluster="5" frequency="4" logDice="3.8">
+              <comp position="1" type="headword" sloleks="LE_b754ebb524b8cddec79a0e6229c670a6">pomolsti</comp>
+              <comp position="2" type="collocate" sloleks="LE_b6200c4865c660bb286b47ec062ae356">žival</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="ročno pomolsti" cluster="1" frequency="4" logDice="4.82">
+              <comp position="1" type="collocate" sloleks="LE_52e50fe0efd0025e3cd5e25b3cf4dad1">ročno</comp>
+              <comp position="2" type="headword" sloleks="LE_b754ebb524b8cddec79a0e6229c670a6">pomolsti</comp>
+            </collocation>
+            <collocation form="potrebno pomolsti" cluster="2" frequency="4" logDice="0.71">
+              <comp position="1" type="collocate" sloleks="LE_ccdd4bb46fb5353a68f3c9555a024b92">potrebno</comp>
+              <comp position="2" type="headword" sloleks="LE_b754ebb524b8cddec79a0e6229c670a6">pomolsti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

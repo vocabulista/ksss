@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="16397">dojet</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">569</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="dojet proces" cluster="1" frequency="7" logDice="1.15">
+              <comp position="1" type="headword" sloleks="LE_39d12da631c056a03217925e897ea235">dojet</comp>
+              <comp position="2" type="collocate" sloleks="LE_16c53d1ebb90a9bc6324b676ef5003b8">proces</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 z sbz6">
+          <collocations>
+            <collocation form="dojet s pomočjo" cluster="1" frequency="6" logDice="5.79">
+              <comp position="1" type="headword" sloleks="LE_39d12da631c056a03217925e897ea235">dojet</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_84e3f9e3c4e9e1abf42cc69c125b0b58">pomočjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="pravilno dojet" cluster="1" frequency="6" logDice="3.81">
+              <comp position="1" type="collocate" sloleks="LE_44bdfefdf121488457dafd037cc5e133">pravilno</comp>
+              <comp position="2" type="headword" sloleks="LE_39d12da631c056a03217925e897ea235">dojet</comp>
+            </collocation>
+            <collocation form="pogosto dojet" cluster="2" frequency="7" logDice="2.51">
+              <comp position="1" type="collocate" sloleks="LE_0c25a8b75185d62f2dab515299cccbfc">pogosto</comp>
+              <comp position="2" type="headword" sloleks="LE_39d12da631c056a03217925e897ea235">dojet</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

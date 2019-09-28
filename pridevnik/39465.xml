@@ -1,0 +1,68 @@
+<entry>
+  <header>
+    <lexical_unit id="39465">zvarjen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">428</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 iz sbz2">
+          <collocations>
+            <collocation form="zvarjen iz cevi" cluster="1" frequency="9" logDice="10.27">
+              <comp position="1" type="headword" sloleks="LE_fd9163f5dfd6c9d11fcae6759096baf1">zvarjen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_a41049d209cfe287da434720342101d3">cevi</comp>
+            </collocation>
+            <collocation form="zvarjen iz palice" cluster="2" frequency="4" logDice="10.23">
+              <comp position="1" type="headword" sloleks="LE_fd9163f5dfd6c9d11fcae6759096baf1">zvarjen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_27073e60a3e26b0b0d0071412cad0c3a">palice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="zvarjeno pivo" cluster="1" frequency="35" logDice="6.96">
+              <comp position="1" type="headword" sloleks="LE_fd9163f5dfd6c9d11fcae6759096baf1">zvarjeno</comp>
+              <comp position="2" type="collocate" sloleks="LE_3b490983cf8550a4205b86347b74d62d">pivo</comp>
+            </collocation>
+            <collocation form="zvarjeno žganje" cluster="2" frequency="7" logDice="5.46">
+              <comp position="1" type="headword" sloleks="LE_fd9163f5dfd6c9d11fcae6759096baf1">zvarjeno</comp>
+              <comp position="2" type="collocate" sloleks="LE_84dc0472ca7bd23e64467b094af9bf5b">žganje</comp>
+            </collocation>
+            <collocation form="zvarjena konstrukcija" cluster="3" frequency="9" logDice="3.86">
+              <comp position="1" type="headword" sloleks="LE_fd9163f5dfd6c9d11fcae6759096baf1">zvarjena</comp>
+              <comp position="2" type="collocate" sloleks="LE_451a22c7dfd47c649512d75403e98026">konstrukcija</comp>
+            </collocation>
+            <collocation form="zvarjena cev" cluster="4" frequency="10" logDice="3.67">
+              <comp position="1" type="headword" sloleks="LE_fd9163f5dfd6c9d11fcae6759096baf1">zvarjena</comp>
+              <comp position="2" type="collocate" sloleks="LE_a41049d209cfe287da434720342101d3">cev</comp>
+            </collocation>
+            <collocation form="zvarjena pijača" cluster="5" frequency="10" logDice="3.09">
+              <comp position="1" type="headword" sloleks="LE_fd9163f5dfd6c9d11fcae6759096baf1">zvarjena</comp>
+              <comp position="2" type="collocate" sloleks="LE_3ff9968d39b88a9b888926d8a42d22dc">pijača</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 v sbz5">
+          <collocations>
+            <collocation form="zvarjen v pivovarni" cluster="1" frequency="5" logDice="10.09">
+              <comp position="1" type="headword" sloleks="LE_fd9163f5dfd6c9d11fcae6759096baf1">zvarjen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_4d84403a8c9bf257774724fb3aa0d451">pivovarni</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="doma zvarjen" cluster="1" frequency="50" logDice="6.37">
+              <comp position="1" type="collocate" sloleks="LE_e763d76187601d485fd9a1af70a03a8c">doma</comp>
+              <comp position="2" type="headword" sloleks="LE_fd9163f5dfd6c9d11fcae6759096baf1">zvarjen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

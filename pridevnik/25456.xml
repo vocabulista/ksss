@@ -1,0 +1,73 @@
+<entry>
+  <header>
+    <lexical_unit id="25456">nemotiviran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">527</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="nemotiviran in nezainteresiran" cluster="1" frequency="5" logDice="9.16">
+              <comp position="1" type="headword" sloleks="LE_16fd9e40e5e700ecb2f2b480d590db3b">nemotiviran</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_41849177cbfae26e88dfc273bf60fe68">nezainteresiran</comp>
+            </collocation>
+            <collocation form="nemotiviran in/ali utrujen" cluster="2" frequency="6" logDice="5.56">
+              <comp position="3" type="headword" sloleks="LE_16fd9e40e5e700ecb2f2b480d590db3b">nemotiviran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_2aeeb7d3a2ef975ff86ee3dd8b5211f2">utrujen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nemotiviran otrok" cluster="1" frequency="7" logDice="0.6">
+              <comp position="1" type="headword" sloleks="LE_16fd9e40e5e700ecb2f2b480d590db3b">nemotiviran</comp>
+              <comp position="2" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otrok</comp>
+            </collocation>
+            <collocation form="nemotiviran sodelavec" cluster="1" frequency="6" logDice="2.0">
+              <comp position="1" type="headword" sloleks="LE_16fd9e40e5e700ecb2f2b480d590db3b">nemotiviran</comp>
+              <comp position="2" type="collocate" sloleks="LE_3c823418d4f6946e6aeaee93c370a7fd">sodelavec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 za sbz4">
+          <collocations>
+            <collocation form="nemotiviran za učenje" cluster="1" frequency="4" logDice="7.48">
+              <comp position="1" type="headword" sloleks="LE_16fd9e40e5e700ecb2f2b480d590db3b">nemotiviran</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_153296075bc8e2b55514336497934195">učenje</comp>
+            </collocation>
+            <collocation form="nemotiviran za delo" cluster="2" frequency="14" logDice="5.62">
+              <comp position="1" type="headword" sloleks="LE_16fd9e40e5e700ecb2f2b480d590db3b">nemotiviran</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="politično nemotiviran" cluster="1" frequency="7" logDice="3.67">
+              <comp position="1" type="collocate" sloleks="LE_9ed772e9e43890262413b22e2ea14bbc">politično</comp>
+              <comp position="2" type="headword" sloleks="LE_16fd9e40e5e700ecb2f2b480d590db3b">nemotiviran</comp>
+            </collocation>
+            <collocation form="zato nemotiviran" cluster="2" frequency="5" logDice="2.31">
+              <comp position="1" type="collocate" sloleks="LE_a8c8d0c329f7b5193130e7eb405193e2">zato</comp>
+              <comp position="2" type="headword" sloleks="LE_16fd9e40e5e700ecb2f2b480d590db3b">nemotiviran</comp>
+            </collocation>
+            <collocation form="popolnoma nemotiviran" cluster="3" frequency="12" logDice="1.88">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_16fd9e40e5e700ecb2f2b480d590db3b">nemotiviran</comp>
+            </collocation>
+            <collocation form="povsem nemotiviran" cluster="4" frequency="23" logDice="1.81">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_16fd9e40e5e700ecb2f2b480d590db3b">nemotiviran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

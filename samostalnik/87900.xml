@@ -1,0 +1,82 @@
+<entry>
+  <header>
+    <lexical_unit id="87900">sejanec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">830</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="sejanec breskve" cluster="1" frequency="35" logDice="9.57">
+              <comp position="1" type="headword" sloleks="LE_dcc4c5538d4b2174a676bd6cfcdf2e18">sejanec</comp>
+              <comp position="2" type="collocate" sloleks="LE_b4b9b1f3669bad145ac5c33cba7df3ef">breskve</comp>
+            </collocation>
+            <collocation form="sejanec češnje" cluster="1" frequency="10" logDice="6.63">
+              <comp position="1" type="headword" sloleks="LE_dcc4c5538d4b2174a676bd6cfcdf2e18">sejanec</comp>
+              <comp position="2" type="collocate" sloleks="LE_e357377810bad56899ac2ed91645c038">češnje</comp>
+            </collocation>
+            <collocation form="padavica sejanca" cluster="2" frequency="9" logDice="10.8">
+              <comp position="1" type="collocate" sloleks="LE_aca76ea552a18c47d42fa9c7f96c81d3">padavica</comp>
+              <comp position="2" type="headword" sloleks="LE_dcc4c5538d4b2174a676bd6cfcdf2e18">sejanca</comp>
+            </collocation>
+            <collocation form="presajanje sejanca" cluster="3" frequency="7" logDice="7.3">
+              <comp position="1" type="collocate" sloleks="LE_3f2a0c3896c4b2c5b07ceb6a0203d40b">presajanje</comp>
+              <comp position="2" type="headword" sloleks="LE_dcc4c5538d4b2174a676bd6cfcdf2e18">sejanca</comp>
+            </collocation>
+            <collocation form="vzgoja sejanca" cluster="4" frequency="10" logDice="4.69">
+              <comp position="1" type="collocate" sloleks="LE_abd62679f71127f35e0ddf4cd067b5ed">vzgoja</comp>
+              <comp position="2" type="headword" sloleks="LE_dcc4c5538d4b2174a676bd6cfcdf2e18">sejanca</comp>
+            </collocation>
+            <collocation form="korenina sejanca" cluster="5" frequency="5" logDice="4.65">
+              <comp position="1" type="collocate" sloleks="LE_94bc901970e4af51d8571e7ea96bfa42">korenina</comp>
+              <comp position="2" type="headword" sloleks="LE_dcc4c5538d4b2174a676bd6cfcdf2e18">sejanca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="cepiti na sejanec" cluster="1" frequency="8" logDice="9.7">
+              <comp position="1" type="collocate" sloleks="LE_90262224fd3824bf119ab595a4321898">cepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_dcc4c5538d4b2174a676bd6cfcdf2e18">sejanec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 na SBZ4">
+          <collocations>
+            <collocation form="cepljen na sejanec" cluster="1" frequency="16" logDice="10.78">
+              <comp position="1" type="collocate" sloleks="LE_832c956d12092f63ed10e429532ca3d6">cepljen</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_dcc4c5538d4b2174a676bd6cfcdf2e18">sejanec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 na SBZ5">
+          <collocations>
+            <collocation form="cepljen na sejancu" cluster="1" frequency="10" logDice="12.39">
+              <comp position="1" type="collocate" sloleks="LE_832c956d12092f63ed10e429532ca3d6">cepljen</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_dcc4c5538d4b2174a676bd6cfcdf2e18">sejancu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ5">
+          <collocations>
+            <collocation form="jablana na sejancu" cluster="1" frequency="7" logDice="10.68">
+              <comp position="1" type="collocate" sloleks="LE_9d9bf32f84c8850ff6d3f704fa893f59">jablana</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_dcc4c5538d4b2174a676bd6cfcdf2e18">sejancu</comp>
+            </collocation>
+            <collocation form="češnja na sejancu" cluster="2" frequency="5" logDice="8.42">
+              <comp position="1" type="collocate" sloleks="LE_e357377810bad56899ac2ed91645c038">češnja</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_dcc4c5538d4b2174a676bd6cfcdf2e18">sejancu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

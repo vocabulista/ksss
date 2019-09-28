@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="85783">rega</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1197</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="zelena rega" cluster="1" frequency="97" logDice="4.69">
+              <comp position="1" type="collocate" sloleks="LE_6e8aa87791d8f00ce04541edfe194c36">zelena</comp>
+              <comp position="2" type="headword" sloleks="LE_b09c02bf7760a446455d84fe8b6e0503">rega</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="obloga rege" cluster="1" frequency="5" logDice="6.78">
+              <comp position="1" type="collocate" sloleks="LE_8bc3beb9bd2a7b60ec1d5c5430cf923a">obloga</comp>
+              <comp position="2" type="headword" sloleks="LE_b09c02bf7760a446455d84fe8b6e0503">rege</comp>
+            </collocation>
+            <collocation form="režiser rege" cluster="2" frequency="6" logDice="3.04">
+              <comp position="1" type="collocate" sloleks="LE_b4d1a81ae7b709a90cdf636c311ecb3b">režiser</comp>
+              <comp position="2" type="headword" sloleks="LE_b09c02bf7760a446455d84fe8b6e0503">rege</comp>
+            </collocation>
+            <collocation form="rega proge" cluster="3" frequency="10" logDice="4.08">
+              <comp position="1" type="headword" sloleks="LE_b09c02bf7760a446455d84fe8b6e0503">rega</comp>
+              <comp position="2" type="collocate" sloleks="LE_3fbb0e84948a7ce5b48d64e889948b8d">proge</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

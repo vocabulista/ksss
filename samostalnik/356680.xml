@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="356680">dalmatinec</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="dalmatinec iz leta" cluster="1" frequency="4" logDice="0.75">
+              <comp position="1" type="headword" sloleks="">dalmatinec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="pes dalmatinec" cluster="1" frequency="5" logDice="5.07">
+              <comp position="1" type="collocate" sloleks="LE_ae53f7aac94a7c78c3cb5c344c09f5ff">pes</comp>
+              <comp position="2" type="headword" sloleks="">dalmatinec</comp>
+            </collocation>
+            <collocation form="film dalmatinec" cluster="2" frequency="8" logDice="2.85">
+              <comp position="1" type="collocate" sloleks="LE_ef1ac12433b4b7e1e0c31edb0c726d89">film</comp>
+              <comp position="2" type="headword" sloleks="">dalmatinec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="65709">kriminalizacija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">479</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="kriminalizacija droge" cluster="1" frequency="13" logDice="4.19">
+              <comp position="1" type="headword" sloleks="LE_079c56c02686100f5d39a7a66a32d20f">kriminalizacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_40c830f1f018b10aa0f1f5ef730ce10f">droge</comp>
+            </collocation>
+            <collocation form="kriminalizacija vojne" cluster="2" frequency="23" logDice="3.42">
+              <comp position="1" type="headword" sloleks="LE_079c56c02686100f5d39a7a66a32d20f">kriminalizacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_b0936a94a2134cd7fa018cf829ffd67c">vojne</comp>
+            </collocation>
+            <collocation form="kriminalizacija družbe" cluster="3" frequency="16" logDice="1.29">
+              <comp position="1" type="headword" sloleks="LE_079c56c02686100f5d39a7a66a32d20f">kriminalizacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_4d78f38b1eeb8492cae54547d0252bf9">družbe</comp>
+            </collocation>
+            <collocation form="kriminalizacija gibanja" cluster="3" frequency="11" logDice="3.29">
+              <comp position="1" type="headword" sloleks="LE_079c56c02686100f5d39a7a66a32d20f">kriminalizacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_fb18a6935ec3df1792bbec130bbfc90d">gibanja</comp>
+            </collocation>
+            <collocation form="poskus kriminalizacije" cluster="4" frequency="40" logDice="4.82">
+              <comp position="1" type="collocate" sloleks="LE_19dcd14233df546347e75246f46de4c4">poskus</comp>
+              <comp position="2" type="headword" sloleks="LE_079c56c02686100f5d39a7a66a32d20f">kriminalizacije</comp>
+            </collocation>
+            <collocation form="stopnja kriminalizacije" cluster="5" frequency="5" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_ed1cc20afdfdf1e20fe2e301bae175ee">stopnja</comp>
+              <comp position="2" type="headword" sloleks="LE_079c56c02686100f5d39a7a66a32d20f">kriminalizacije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="voditi v kriminalizacijo" cluster="1" frequency="4" logDice="2.7">
+              <comp position="1" type="collocate" sloleks="LE_b044981ae81c995865d0ad4c2cd7b62b">voditi</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_079c56c02686100f5d39a7a66a32d20f">kriminalizacijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za kriminalizacijo" cluster="1" frequency="6" logDice="-1.01">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_079c56c02686100f5d39a7a66a32d20f">kriminalizacijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

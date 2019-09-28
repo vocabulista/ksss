@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="57770">goa</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1071</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="goa tranca" cluster="1" frequency="56" logDice="12.66">
+              <comp position="1" type="headword" sloleks="LE_d86b51098b558e23eaed973487b100b0">goa</comp>
+              <comp position="2" type="collocate" sloleks="">tranca</comp>
+            </collocation>
+            <collocation form="plaža Goe" cluster="2" frequency="7" logDice="6.96">
+              <comp position="1" type="collocate" sloleks="LE_c6ae68af95afb38e5c1f932f12b597a6">plaža</comp>
+              <comp position="2" type="headword" sloleks="LE_d86b51098b558e23eaed973487b100b0">Goe</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="indijska goa" cluster="1" frequency="17" logDice="4.17">
+              <comp position="1" type="collocate" sloleks="LE_60df0714af2e91ceae6f532c93893ee8">indijska</comp>
+              <comp position="2" type="headword" sloleks="LE_d86b51098b558e23eaed973487b100b0">goa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

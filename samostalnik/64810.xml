@@ -1,0 +1,75 @@
+<entry>
+  <header>
+    <lexical_unit id="64810">kontura</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">796</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="kontura obraza" cluster="1" frequency="33" logDice="6.08">
+              <comp position="1" type="headword" sloleks="LE_a039448d1c0670144c3e05d1664715ac">kontura</comp>
+              <comp position="2" type="collocate" sloleks="LE_ace2f15ed5cc3848b7740939ded1abe9">obraza</comp>
+            </collocation>
+            <collocation form="kontura telesa" cluster="1" frequency="9" logDice="2.06">
+              <comp position="1" type="headword" sloleks="LE_a039448d1c0670144c3e05d1664715ac">kontura</comp>
+              <comp position="2" type="collocate" sloleks="LE_79b86615dd52e06799792917a906328a">telesa</comp>
+            </collocation>
+            <collocation form="kontura vzorca" cluster="2" frequency="8" logDice="4.03">
+              <comp position="1" type="headword" sloleks="LE_a039448d1c0670144c3e05d1664715ac">kontura</comp>
+              <comp position="2" type="collocate" sloleks="LE_5042c4687567fc53efbfd828e5440371">vzorca</comp>
+            </collocation>
+            <collocation form="kontura predmeta" cluster="2" frequency="8" logDice="3.19">
+              <comp position="1" type="headword" sloleks="LE_a039448d1c0670144c3e05d1664715ac">kontura</comp>
+              <comp position="2" type="collocate" sloleks="LE_d51cd609db6fe289654ca191c3ec4f9a">predmeta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="kontura za steklo" cluster="1" frequency="12" logDice="8.96">
+              <comp position="1" type="headword" sloleks="LE_a039448d1c0670144c3e05d1664715ac">kontura</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_99a519acd32643bbcc9d11eb32434eb6">steklo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="poudarjena kontura" cluster="1" frequency="12" logDice="5.04">
+              <comp position="1" type="collocate" sloleks="LE_4513922764185375651731e2a727ce6f">poudarjena</comp>
+              <comp position="2" type="headword" sloleks="LE_a039448d1c0670144c3e05d1664715ac">kontura</comp>
+            </collocation>
+            <collocation form="jasna kontura" cluster="2" frequency="23" logDice="3.26">
+              <comp position="1" type="collocate" sloleks="LE_5c6b02ec578c448c5f341747dafcc70b">jasna</comp>
+              <comp position="2" type="headword" sloleks="LE_a039448d1c0670144c3e05d1664715ac">kontura</comp>
+            </collocation>
+            <collocation form="ostra kontura" cluster="2" frequency="13" logDice="2.98">
+              <comp position="1" type="collocate" sloleks="LE_2146a7f7b88b104d3fda1b472148a973">ostra</comp>
+              <comp position="2" type="headword" sloleks="LE_a039448d1c0670144c3e05d1664715ac">kontura</comp>
+            </collocation>
+            <collocation form="osnovna kontura" cluster="3" frequency="17" logDice="0.85">
+              <comp position="1" type="collocate" sloleks="LE_24eda9e64ba004b45e2c027c57dc4ea2">osnovna</comp>
+              <comp position="2" type="headword" sloleks="LE_a039448d1c0670144c3e05d1664715ac">kontura</comp>
+            </collocation>
+            <collocation form="črna kontura" cluster="4" frequency="13" logDice="0.85">
+              <comp position="1" type="collocate" sloleks="LE_efad3f083a68e148bcd4aa4f62efd36c">črna</comp>
+              <comp position="2" type="headword" sloleks="LE_a039448d1c0670144c3e05d1664715ac">kontura</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="element s konturo" cluster="1" frequency="4" logDice="7.28">
+              <comp position="1" type="collocate" sloleks="LE_e6d5b239f6648336b94efcc51407108c">element</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_a039448d1c0670144c3e05d1664715ac">konturo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

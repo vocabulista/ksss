@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="26116">neutrudljiv</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">427</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="neutrudljiv in natančen" cluster="1" frequency="8" logDice="5.33">
+              <comp position="1" type="headword" sloleks="LE_f495041794b9dcb6cdfada247e3c119c">neutrudljiv</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_229d70f4dcbb0db8dfccf3b59dec8e3b">natančen</comp>
+            </collocation>
+            <collocation form="neutrudljiv in/ali udoben" cluster="2" frequency="5" logDice="5.12">
+              <comp position="3" type="headword" sloleks="LE_f495041794b9dcb6cdfada247e3c119c">neutrudljiv</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_1d68bc05837607419a0d53deded9b241">udoben</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="neutrudljiv opazovalec" cluster="1" frequency="12" logDice="5.3">
+              <comp position="1" type="headword" sloleks="LE_f495041794b9dcb6cdfada247e3c119c">neutrudljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_df29082fe0329134b3b69201c345727a">opazovalec</comp>
+            </collocation>
+            <collocation form="neutrudljiva vožnja" cluster="2" frequency="20" logDice="3.29">
+              <comp position="1" type="headword" sloleks="LE_f495041794b9dcb6cdfada247e3c119c">neutrudljiva</comp>
+              <comp position="2" type="collocate" sloleks="LE_cd6b5da723aa271ed871bf1d115652d0">vožnja</comp>
+            </collocation>
+            <collocation form="neutrudljiv delavec" cluster="3" frequency="13" logDice="1.57">
+              <comp position="1" type="headword" sloleks="LE_f495041794b9dcb6cdfada247e3c119c">neutrudljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_85630a93aeb01535235f6c83e3750975">delavec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

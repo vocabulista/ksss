@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="99002">zdravilka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">441</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 v sbz4">
+          <collocations>
+            <collocation form="zdravilka v Srbijo" cluster="1" frequency="15" logDice="8.82">
+              <comp position="1" type="headword" sloleks="LE_0a11ab81af9317c7134a371d0b0cea7e">zdravilka</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_a3cc66f9c4aad3329d915db7fec98d6b">Srbijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="čudodelna zdravilka" cluster="1" frequency="9" logDice="8.31">
+              <comp position="1" type="collocate" sloleks="LE_62df937c3a25029f6487da4416a37aa2">čudodelna</comp>
+              <comp position="2" type="headword" sloleks="LE_0a11ab81af9317c7134a371d0b0cea7e">zdravilka</comp>
+            </collocation>
+            <collocation form="znana zdravilka" cluster="2" frequency="22" logDice="1.37">
+              <comp position="1" type="collocate" sloleks="LE_3ca4e8269ed35ff770799effa47b0eda">znana</comp>
+              <comp position="2" type="headword" sloleks="LE_0a11ab81af9317c7134a371d0b0cea7e">zdravilka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="poklic zdravilke" cluster="1" frequency="5" logDice="4.54">
+              <comp position="1" type="collocate" sloleks="LE_ee2dc2f20fc3eba609ef788b9cb08df4">poklic</comp>
+              <comp position="2" type="headword" sloleks="LE_0a11ab81af9317c7134a371d0b0cea7e">zdravilke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

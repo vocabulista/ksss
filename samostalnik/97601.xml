@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="97601">žabec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">741</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="žabec iz Zagreba" cluster="1" frequency="6" logDice="5.58">
+              <comp position="1" type="headword" sloleks="LE_b80ebe2719fad68fd0cbe9946c1ce301">žabec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_031c8321765aa1281943aab59f525b2d">Zagreba</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="zaljubljen žabec" cluster="1" frequency="36" logDice="6.82">
+              <comp position="1" type="collocate" sloleks="LE_00eddebe1fc23842ca7fde7ff1c1cecb">zaljubljen</comp>
+              <comp position="2" type="headword" sloleks="LE_b80ebe2719fad68fd0cbe9946c1ce301">žabec</comp>
+            </collocation>
+            <collocation form="zelen žabec" cluster="2" frequency="8" logDice="1.08">
+              <comp position="1" type="collocate" sloleks="LE_6e8aa87791d8f00ce04541edfe194c36">zelen</comp>
+              <comp position="2" type="headword" sloleks="LE_b80ebe2719fad68fd0cbe9946c1ce301">žabec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="pravljica o žabcu" cluster="1" frequency="4" logDice="5.32">
+              <comp position="1" type="collocate" sloleks="LE_cb17739012afdd088c494ad9d8f3c715">pravljica</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_b80ebe2719fad68fd0cbe9946c1ce301">žabcu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

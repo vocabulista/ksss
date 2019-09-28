@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="61903">jasnina</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">480</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="jasnina neba" cluster="1" frequency="22" logDice="6.59">
+              <comp position="1" type="headword" sloleks="LE_7e9abe77d9d56152c3efa643f365b37b">jasnina</comp>
+              <comp position="2" type="collocate" sloleks="LE_32ed890d953bad09c467fe000c44e7c9">neba</comp>
+            </collocation>
+            <collocation form="območje jasnine" cluster="2" frequency="7" logDice="0.55">
+              <comp position="1" type="collocate" sloleks="LE_637bb12e70b217aeada98e77f3559b30">območje</comp>
+              <comp position="2" type="headword" sloleks="LE_7e9abe77d9d56152c3efa643f365b37b">jasnine</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="popolna jasnina" cluster="1" frequency="10" logDice="1.4">
+              <comp position="1" type="collocate" sloleks="LE_814a2c9c333ef1e9cb481395c05b7346">popolna</comp>
+              <comp position="2" type="headword" sloleks="LE_7e9abe77d9d56152c3efa643f365b37b">jasnina</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

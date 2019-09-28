@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="78212">planer</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">820</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="planer proizvodnje" cluster="1" frequency="15" logDice="3.48">
+              <comp position="1" type="headword" sloleks="LE_24e21e60d255f536cf703ff562fc16d8">planer</comp>
+              <comp position="2" type="collocate" sloleks="LE_4a1754c19d9e05c064189e8d6ddbd00a">proizvodnje</comp>
+            </collocation>
+            <collocation form="planer poti" cluster="2" frequency="8" logDice="2.5">
+              <comp position="1" type="headword" sloleks="LE_24e21e60d255f536cf703ff562fc16d8">planer</comp>
+              <comp position="2" type="collocate" sloleks="LE_6f8aa8d4e7c0d678fee98b890a6d1964|LE_97291a922b54c3ec42af6728cfcc7ab2">poti</comp>
+            </collocation>
+            <collocation form="planer Slovenije" cluster="3" frequency="42" logDice="1.38">
+              <comp position="1" type="headword" sloleks="LE_24e21e60d255f536cf703ff562fc16d8">planer</comp>
+              <comp position="2" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Slovenije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="prostorski planer" cluster="1" frequency="90" logDice="5.48">
+              <comp position="1" type="collocate" sloleks="LE_b1c4cd8abcc04e97f356186365884415">prostorski</comp>
+              <comp position="2" type="headword" sloleks="LE_24e21e60d255f536cf703ff562fc16d8">planer</comp>
+            </collocation>
+            <collocation form="medijski planer" cluster="2" frequency="30" logDice="3.71">
+              <comp position="1" type="collocate" sloleks="LE_e4e503105df5ddf4a88057fd27af3b63">medijski</comp>
+              <comp position="2" type="headword" sloleks="LE_24e21e60d255f536cf703ff562fc16d8">planer</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

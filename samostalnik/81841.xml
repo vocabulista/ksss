@@ -1,0 +1,63 @@
+<entry>
+  <header>
+    <lexical_unit id="81841">predica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">606</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="predica iz Kamnika" cluster="1" frequency="10" logDice="6.68">
+              <comp position="1" type="headword" sloleks="LE_3e1512fa9e32ba6702d34b488e1e0b41">predica</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_8042ba4d1da8476bc32972fc773b90c0">Kamnika</comp>
+            </collocation>
+            <collocation form="predica iz vasi" cluster="2" frequency="5" logDice="3.59">
+              <comp position="1" type="headword" sloleks="LE_3e1512fa9e32ba6702d34b488e1e0b41">predica</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_746c4faa0cb704f82cd12acb408c94d3">vasi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="dobrinski predica" cluster="1" frequency="10" logDice="10.93">
+              <comp position="1" type="collocate" sloleks="">dobrinski</comp>
+              <comp position="2" type="headword" sloleks="LE_3e1512fa9e32ba6702d34b488e1e0b41">predica</comp>
+            </collocation>
+            <collocation form="pridna predica" cluster="2" frequency="11" logDice="4.77">
+              <comp position="1" type="collocate" sloleks="LE_fe35761ae14385d8419a4abac1c70a3e">pridna</comp>
+              <comp position="2" type="headword" sloleks="LE_3e1512fa9e32ba6702d34b488e1e0b41">predica</comp>
+            </collocation>
+            <collocation form="izkušena predica" cluster="2" frequency="9" logDice="2.95">
+              <comp position="1" type="collocate" sloleks="LE_0d759cd59dbcd9c224c6c9cc8983190c">izkušena</comp>
+              <comp position="2" type="headword" sloleks="LE_3e1512fa9e32ba6702d34b488e1e0b41">predica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="pevka Predice" cluster="1" frequency="29" logDice="6.81">
+              <comp position="1" type="collocate" sloleks="LE_d26b19dc412401a1e3b6efb5322aa6f3">pevka</comp>
+              <comp position="2" type="headword" sloleks="LE_3e1512fa9e32ba6702d34b488e1e0b41">Predice</comp>
+            </collocation>
+            <collocation form="pesem predice" cluster="2" frequency="5" logDice="2.79">
+              <comp position="1" type="collocate" sloleks="LE_6235b39c027e8b67ccd0ab2a0e87ad16">pesem</comp>
+              <comp position="2" type="headword" sloleks="LE_3e1512fa9e32ba6702d34b488e1e0b41">predice</comp>
+            </collocation>
+            <collocation form="zbor predice" cluster="3" frequency="5" logDice="1.89">
+              <comp position="1" type="collocate" sloleks="LE_56ae41b6d71148e851cdd275624be8f4">zbor</comp>
+              <comp position="2" type="headword" sloleks="LE_3e1512fa9e32ba6702d34b488e1e0b41">predice</comp>
+            </collocation>
+            <collocation form="skupina predice" cluster="4" frequency="9" logDice="0.72">
+              <comp position="1" type="collocate" sloleks="LE_7a31c94cb05484f8e60e8fbc4dad6a50">skupina</comp>
+              <comp position="2" type="headword" sloleks="LE_3e1512fa9e32ba6702d34b488e1e0b41">predice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

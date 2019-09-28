@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="95273">ustrežljivost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">677</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 do sbz2">
+          <collocations>
+            <collocation form="ustrežljivost do soseda" cluster="1" frequency="4" logDice="8.12">
+              <comp position="1" type="headword" sloleks="LE_f54818cdbf769339eece24263cd29e72">ustrežljivost</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_f53bebed03a5c424ad722f12674ba7e8">soseda</comp>
+            </collocation>
+            <collocation form="ustrežljivost do stranke" cluster="2" frequency="13" logDice="7.97">
+              <comp position="1" type="headword" sloleks="LE_f54818cdbf769339eece24263cd29e72">ustrežljivost</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_945a204a300f28702820c4bc0481d2e7">stranke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="ustrežljivost osebja" cluster="1" frequency="13" logDice="5.96">
+              <comp position="1" type="headword" sloleks="LE_f54818cdbf769339eece24263cd29e72">ustrežljivost</comp>
+              <comp position="2" type="collocate" sloleks="LE_b47f64a4ac70320ddbe37661fc23c343">osebja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pretirana ustrežljivost" cluster="1" frequency="12" logDice="3.78">
+              <comp position="1" type="collocate" sloleks="LE_97b9f9bb1479d471e7250254339115ed">pretirana</comp>
+              <comp position="2" type="headword" sloleks="LE_f54818cdbf769339eece24263cd29e72">ustrežljivost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

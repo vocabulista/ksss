@@ -1,0 +1,48 @@
+<entry>
+  <header>
+    <lexical_unit id="3594826">sine</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="Sine nomina" cluster="1" frequency="24" logDice="12.25">
+              <comp position="1" type="headword" sloleks="">Sine</comp>
+              <comp position="2" type="collocate" sloleks="">nomina</comp>
+            </collocation>
+            <collocation form="sine šekoranje" cluster="2" frequency="8" logDice="9.89">
+              <comp position="1" type="headword" sloleks="">sine</comp>
+              <comp position="2" type="collocate" sloleks="">šekoranje</comp>
+            </collocation>
+            <collocation form="sine lege" cluster="3" frequency="25" logDice="8.89">
+              <comp position="1" type="headword" sloleks="">sine</comp>
+              <comp position="2" type="collocate" sloleks="LE_7c1c89c47948f9c414a96b3c5f78701b">lege</comp>
+            </collocation>
+            <collocation form="sine none" cluster="4" frequency="9" logDice="6.12">
+              <comp position="1" type="headword" sloleks="">sine</comp>
+              <comp position="2" type="collocate" sloleks="LE_c7f671186d68d07b4b1f09f41ed719dc">none</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="polpismen sine" cluster="1" frequency="8" logDice="8.58">
+              <comp position="1" type="collocate" sloleks="LE_40c7e52eb16ca1dac60f7b47f8dfd14f">polpismen</comp>
+              <comp position="2" type="headword" sloleks="">sine</comp>
+            </collocation>
+            <collocation form="mamin sine" cluster="2" frequency="18" logDice="6.01">
+              <comp position="1" type="collocate" sloleks="LE_a45ce11d2dbaaead4370920a31ee6eb5">mamin</comp>
+              <comp position="2" type="headword" sloleks="">sine</comp>
+            </collocation>
+            <collocation form="drag sine" cluster="3" frequency="13" logDice="1.93">
+              <comp position="1" type="collocate" sloleks="LE_3bb482d1c1244ec8fa97ee4afaf36841">drag</comp>
+              <comp position="2" type="headword" sloleks="">sine</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

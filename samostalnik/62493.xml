@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="62493">jutranjica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">512</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="jutranjica za Slovenijo" cluster="1" frequency="15" logDice="4.47">
+              <comp position="1" type="headword" sloleks="LE_8388e278a4f05751c932dcbf501b8758">jutranjica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Slovenijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="glasbena jutranjica" cluster="1" frequency="359" logDice="5.43">
+              <comp position="1" type="collocate" sloleks="LE_dac17ddcfd6670f6a6620ba54e7d32db">glasbena</comp>
+              <comp position="2" type="headword" sloleks="LE_8388e278a4f05751c932dcbf501b8758">jutranjica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

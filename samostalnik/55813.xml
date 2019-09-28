@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="55813">esen</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">377</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="psihokibernetika esena" cluster="1" frequency="97" logDice="13.69">
+              <comp position="1" type="collocate" sloleks="">psihokibernetika</comp>
+              <comp position="2" type="headword" sloleks="LE_22c6c1bf6590bbace51576e882888935">esena</comp>
+            </collocation>
+            <collocation form="ločina esena" cluster="2" frequency="5" logDice="9.13">
+              <comp position="1" type="collocate" sloleks="LE_b19dc1708835fb715d383ede276208c9">ločina</comp>
+              <comp position="2" type="headword" sloleks="LE_22c6c1bf6590bbace51576e882888935">esena</comp>
+            </collocation>
+            <collocation form="znanje esena" cluster="3" frequency="5" logDice="2.73">
+              <comp position="1" type="collocate" sloleks="LE_0e6b8ca9c227b92670827830f4032745">znanje</comp>
+              <comp position="2" type="headword" sloleks="LE_22c6c1bf6590bbace51576e882888935">esena</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="zapornica v esenu" cluster="1" frequency="5" logDice="9.13">
+              <comp position="1" type="collocate" sloleks="LE_55d7025e44532da9365f6347e45c9c7d">zapornica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_22c6c1bf6590bbace51576e882888935">esenu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

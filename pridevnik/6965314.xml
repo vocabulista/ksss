@@ -1,0 +1,40 @@
+<entry>
+  <header>
+    <lexical_unit id="6965314">nenadkriljiv</lexical_unit>
+    <category>pridevnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nenadkriljiv mojster" cluster="1" frequency="31" logDice="4.5">
+              <comp position="1" type="headword" sloleks="">nenadkriljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_1d34c7cacbaf665b8a2421d52e5ac27d">mojster</comp>
+            </collocation>
+            <collocation form="nenadkriljiv lepota" cluster="2" frequency="11" logDice="4.3">
+              <comp position="1" type="headword" sloleks="">nenadkriljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_f002bf62f37ec6117ea8586a142e8b93">lepota</comp>
+            </collocation>
+            <collocation form="nenadkriljiv talent" cluster="3" frequency="8" logDice="3.8">
+              <comp position="1" type="headword" sloleks="">nenadkriljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_7ff09913e50ffc7fb5ad3effc560638b">talent</comp>
+            </collocation>
+            <collocation form="nenadkriljiv strelec" cluster="4" frequency="6" logDice="2.8">
+              <comp position="1" type="headword" sloleks="">nenadkriljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_0027342a0166b7bf0ce7e130e5683eb2">strelec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="doslej nenadkriljiv" cluster="1" frequency="6" logDice="2.3">
+              <comp position="1" type="collocate" sloleks="LE_b90468941c375c388507ce9cea1e6bfd">doslej</comp>
+              <comp position="2" type="headword" sloleks="">nenadkriljiv</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

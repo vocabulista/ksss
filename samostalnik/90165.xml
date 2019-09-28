@@ -1,0 +1,48 @@
+<entry>
+  <header>
+    <lexical_unit id="90165">sončnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">550</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz pod SBZ6">
+          <collocations>
+            <collocation form="sedeti pod sončnikom" cluster="1" frequency="5" logDice="8.9">
+              <comp position="1" type="collocate" sloleks="LE_6c51fc6acaa9f912c99d28dae2215dbd">sedeti</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="headword" sloleks="LE_8907321d175e043e64e1154b2fe5736c">sončnikom</comp>
+            </collocation>
+            <collocation form="ležati pod sončnikom" cluster="2" frequency="4" logDice="6.82">
+              <comp position="1" type="collocate" sloleks="LE_6c35ae92ca5f897f949c465c6469f842">ležati</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="headword" sloleks="LE_8907321d175e043e64e1154b2fe5736c">sončnikom</comp>
+            </collocation>
+            <collocation form="skrivati pod sončnikom" cluster="3" frequency="4" logDice="5.21">
+              <comp position="1" type="collocate" sloleks="LE_5e2b29736ec2dfed37f95bcc8ffe5f1a">skrivati</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="headword" sloleks="LE_8907321d175e043e64e1154b2fe5736c">sončnikom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pisan sončnik" cluster="1" frequency="9" logDice="3.37">
+              <comp position="1" type="collocate" sloleks="LE_8e94767c51196b3b4c3688a82597a53c">pisan</comp>
+              <comp position="2" type="headword" sloleks="LE_8907321d175e043e64e1154b2fe5736c">sončnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="senca sončnika" cluster="1" frequency="8" logDice="4.14">
+              <comp position="1" type="collocate" sloleks="LE_89652c10585ecd1cba0586437ab7cd5e">senca</comp>
+              <comp position="2" type="headword" sloleks="LE_8907321d175e043e64e1154b2fe5736c">sončnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

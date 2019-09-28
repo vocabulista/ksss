@@ -1,0 +1,251 @@
+<entry>
+  <header>
+    <lexical_unit id="57711">gluten</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1420</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="gluten iz prehrane" cluster="1" frequency="7" logDice="10.21">
+              <comp position="1" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">gluten</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_cc45ccb9ca4af414d51013e339a1766f">prehrane</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="vsebovati gluten" cluster="1" frequency="103" logDice="5.63">
+              <comp position="1" type="collocate" sloleks="LE_6ebc5aed70f4b9c95dd96906ce19676c">vsebovati</comp>
+              <comp position="2" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">gluten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz brez SBZ2">
+          <collocations>
+            <collocation form="potrebovati brez glutena" cluster="1" frequency="5" logDice="9.99">
+              <comp position="1" type="collocate" sloleks="LE_1d2dce4b8faea4af518b607a2b8b3ef9">potrebovati</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutena</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz SBZ2">
+          <collocations>
+            <collocation form="ne vsebovati glutena" cluster="1" frequency="119" logDice="8.85">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_6ebc5aed70f4b9c95dd96906ce19676c">vsebovati</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutena</comp>
+            </collocation>
+            <collocation form="ne prenašati glutena" cluster="2" frequency="8" logDice="7.11">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_c6be8dcc20856eacd9871d774cb49db5">prenašati</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutena</comp>
+            </collocation>
+            <collocation form="ne prenesti glutena" cluster="3" frequency="9" logDice="6.01">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_f358be08e87e766edac705b8a9417e6b">prenesti</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutena</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pšeničen gluten" cluster="1" frequency="23" logDice="7.0">
+              <comp position="1" type="collocate" sloleks="LE_744fa9837674f38bc9a5b79cbe8023bd">pšeničen</comp>
+              <comp position="2" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">gluten</comp>
+            </collocation>
+            <collocation form="koruzen gluten" cluster="2" frequency="8" logDice="4.67">
+              <comp position="1" type="collocate" sloleks="LE_318db07dba57c2b8dfddfa50f5ff57a2">koruzen</comp>
+              <comp position="2" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">gluten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 na SBZ4">
+          <collocations>
+            <collocation form="preobčutljiv na gluten" cluster="1" frequency="14" logDice="10.84">
+              <comp position="1" type="collocate" sloleks="LE_da8b3cdd5ab9f493c70ece1eaea563d4">preobčutljiv</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">gluten</comp>
+            </collocation>
+            <collocation form="alergičen na gluten" cluster="2" frequency="21" logDice="8.74">
+              <comp position="1" type="collocate" sloleks="LE_6025a9b5c2451e903743b311f8ab2be0">alergičen</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">gluten</comp>
+            </collocation>
+            <collocation form="občutljiv na gluten" cluster="3" frequency="4" logDice="4.6">
+              <comp position="1" type="collocate" sloleks="LE_fa0d606a7b0b42c86781b0db60768413">občutljiv</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">gluten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 za SBZ4">
+          <collocations>
+            <collocation form="preobčutljiv za gluten" cluster="1" frequency="9" logDice="9.9">
+              <comp position="1" type="collocate" sloleks="LE_da8b3cdd5ab9f493c70ece1eaea563d4">preobčutljiv</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">gluten</comp>
+            </collocation>
+            <collocation form="občutljiv za gluten" cluster="2" frequency="12" logDice="6.32">
+              <comp position="1" type="collocate" sloleks="LE_fa0d606a7b0b42c86781b0db60768413">občutljiv</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">gluten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="breza glutena" cluster="1" frequency="5" logDice="8.87">
+              <comp position="1" type="collocate" sloleks="LE_1eb603d463aec92e70f64b824d52c6fc">breza</comp>
+              <comp position="2" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutena</comp>
+            </collocation>
+            <collocation form="mg glutena" cluster="2" frequency="8" logDice="6.13">
+              <comp position="1" type="collocate" sloleks="LE_9f73f7aa1436edf544443b46a64870c3">mg</comp>
+              <comp position="2" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutena</comp>
+            </collocation>
+            <collocation form="vsebnost glutena" cluster="3" frequency="31" logDice="5.89">
+              <comp position="1" type="collocate" sloleks="LE_c106e18be1f139599f4c0b8561c4dc18">vsebnost</comp>
+              <comp position="2" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutena</comp>
+            </collocation>
+            <collocation form="uvoz glutena" cluster="4" frequency="6" logDice="3.83">
+              <comp position="1" type="collocate" sloleks="LE_6389f84372cfb59b6b953ae8e1e2029c">uvoz</comp>
+              <comp position="2" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutena</comp>
+            </collocation>
+            <collocation form="uživanje glutena" cluster="5" frequency="10" logDice="3.73">
+              <comp position="1" type="collocate" sloleks="LE_fdcbbfcede4c7a01919edd4de2ab5834">uživanje</comp>
+              <comp position="2" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutena</comp>
+            </collocation>
+            <collocation form="značilnost glutena" cluster="6" frequency="5" logDice="2.48">
+              <comp position="1" type="collocate" sloleks="LE_0453747d6f718a7898399bd0bd02be8e">značilnost</comp>
+              <comp position="2" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutena</comp>
+            </collocation>
+            <collocation form="količina glutena" cluster="7" frequency="9" logDice="1.62">
+              <comp position="1" type="collocate" sloleks="LE_962c73eca27e836ddb2ea664db69f933">količina</comp>
+              <comp position="2" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutena</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 brez SBZ2">
+          <collocations>
+            <collocation form="živilo brez glutena" cluster="1" frequency="34" logDice="11.69">
+              <comp position="1" type="collocate" sloleks="LE_0da46ccc13d41690183b64eceaeab0f0">živilo</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutena</comp>
+            </collocation>
+            <collocation form="izdelek brez glutena" cluster="1" frequency="32" logDice="10.46">
+              <comp position="1" type="collocate" sloleks="LE_bbffae950f5cec8d80d5d541602c3313">izdelek</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutena</comp>
+            </collocation>
+            <collocation form="hrana brez glutena" cluster="1" frequency="18" logDice="9.94">
+              <comp position="1" type="collocate" sloleks="LE_4b3b80327bf9e7fafcc3a73e85eae950">hrana</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutena</comp>
+            </collocation>
+            <collocation form="prehrana brez glutena" cluster="1" frequency="16" logDice="10.46">
+              <comp position="1" type="collocate" sloleks="LE_cc45ccb9ca4af414d51013e339a1766f">prehrana</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutena</comp>
+            </collocation>
+            <collocation form="dieta brez glutena" cluster="2" frequency="26" logDice="10.94">
+              <comp position="1" type="collocate" sloleks="LE_ca0f27a96cc08f4b695d5351ab9c7d79">dieta</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutena</comp>
+            </collocation>
+            <collocation form="kruh brez glutena" cluster="3" frequency="25" logDice="10.9">
+              <comp position="1" type="collocate" sloleks="LE_e0dfccb0af83b931a6cf202a952d9fb5">kruh</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutena</comp>
+            </collocation>
+            <collocation form="jed brez glutena" cluster="3" frequency="7" logDice="9.36">
+              <comp position="1" type="collocate" sloleks="LE_107d16bcf518752aed0a9633fd7c02d0">jed</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutena</comp>
+            </collocation>
+            <collocation form="moka brez glutena" cluster="4" frequency="16" logDice="10.88">
+              <comp position="1" type="collocate" sloleks="LE_a241cee9bb10fa419b4c41ff117ba117">moka</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutena</comp>
+            </collocation>
+            <collocation form="sladica brez glutena" cluster="5" frequency="5" logDice="9.32">
+              <comp position="1" type="collocate" sloleks="LE_21172344e2dea5d77581dc46ec2c6184">sladica</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutena</comp>
+            </collocation>
+            <collocation form="testenina brez glutena" cluster="5" frequency="5" logDice="9.3">
+              <comp position="1" type="collocate" sloleks="LE_f17a5a08a17a8056152afdcdbb64d1b3">testenina</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutena</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ4">
+          <collocations>
+            <collocation form="preobčutljivost na gluten" cluster="1" frequency="32" logDice="11.33">
+              <comp position="1" type="collocate" sloleks="LE_90cd384e2fbc3a6e575f0a61c848ff50">preobčutljivost</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">gluten</comp>
+            </collocation>
+            <collocation form="protitelo na gluten" cluster="2" frequency="4" logDice="10.15">
+              <comp position="1" type="collocate" sloleks="LE_ddae8eb33dc53bb3caf4cdf3b47202f0">protitelo</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">gluten</comp>
+            </collocation>
+            <collocation form="organizem na gluten" cluster="3" frequency="4" logDice="8.04">
+              <comp position="1" type="collocate" sloleks="LE_a92d79670a1927db73ed87852805ff63">organizem</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">gluten</comp>
+            </collocation>
+            <collocation form="alergija na gluten" cluster="4" frequency="17" logDice="8.0">
+              <comp position="1" type="collocate" sloleks="LE_b703da8e64cf248a72ffaed6b24f776e">alergija</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">gluten</comp>
+            </collocation>
+            <collocation form="gluten na kilogram" cluster="5" frequency="9" logDice="7.12">
+              <comp position="1" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">gluten</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_758190145382857bd4e278cfd092045b">kilogram</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="živilo z glutenom" cluster="1" frequency="6" logDice="7.23">
+              <comp position="1" type="collocate" sloleks="LE_0da46ccc13d41690183b64eceaeab0f0">živilo</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutenom</comp>
+            </collocation>
+            <collocation form="hrana z glutenom" cluster="2" frequency="7" logDice="6.9">
+              <comp position="1" type="collocate" sloleks="LE_4b3b80327bf9e7fafcc3a73e85eae950">hrana</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">glutenom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="preobčutljivost za gluten" cluster="1" frequency="21" logDice="10.9">
+              <comp position="1" type="collocate" sloleks="LE_90cd384e2fbc3a6e575f0a61c848ff50">preobčutljivost</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">gluten</comp>
+            </collocation>
+            <collocation form="intoleranca za gluten" cluster="2" frequency="6" logDice="10.04">
+              <comp position="1" type="collocate" sloleks="LE_f95e138f6126e43b53d191dd70c21f35">intoleranca</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">gluten</comp>
+            </collocation>
+            <collocation form="občutljivost za gluten" cluster="3" frequency="9" logDice="7.39">
+              <comp position="1" type="collocate" sloleks="LE_77f4c558e26868074502f2e250662f73">občutljivost</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d67408e109eb3b263d778f9ae2572fd0">gluten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

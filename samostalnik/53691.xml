@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="53691">dobričina</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">413</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="veljati za dobričino" cluster="1" frequency="5" logDice="0.89">
+              <comp position="1" type="collocate" sloleks="LE_d1ea0d9dd4771e211c9eddc0d342acc2">veljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_8250eab602fee41f96e2b87b34d2c33c">dobričino</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="prava dobričina" cluster="1" frequency="40" logDice="1.25">
+              <comp position="1" type="collocate" sloleks="LE_b6d87b136784072fa5bb21831fa825be">prava</comp>
+              <comp position="2" type="headword" sloleks="LE_8250eab602fee41f96e2b87b34d2c33c">dobričina</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

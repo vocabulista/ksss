@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="41900">mandatno</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">442</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ pbz0">
+          <collocations>
+            <collocation form="mandatno imuniteten" cluster="1" frequency="51" logDice="12.74">
+              <comp position="1" type="headword" sloleks="LE_eaea094e4e27c4c44d8aaa894f0a0efe">mandatno</comp>
+              <comp position="2" type="collocate" sloleks="LE_e9ca11fcf1d98340658f19f1a8892924">imuniteten</comp>
+            </collocation>
+            <collocation form="mandatno volilen" cluster="2" frequency="120" logDice="9.82">
+              <comp position="1" type="headword" sloleks="LE_eaea094e4e27c4c44d8aaa894f0a0efe">mandatno</comp>
+              <comp position="2" type="collocate" sloleks="LE_35a1213b4004519a46862beb1d036e08">volilen</comp>
+            </collocation>
+            <collocation form="mandatno kaznovan" cluster="3" frequency="8" logDice="6.08">
+              <comp position="1" type="headword" sloleks="LE_eaea094e4e27c4c44d8aaa894f0a0efe">mandatno</comp>
+              <comp position="2" type="collocate" sloleks="LE_acf5874a106197191d595ee7d0d4cc4c">kaznovan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="predložiti Mandatno" cluster="1" frequency="60" logDice="10.43">
+              <comp position="1" type="collocate" sloleks="LE_9b7ac083045a18b167bfb9140e713bb8">predložiti</comp>
+              <comp position="2" type="headword" sloleks="LE_eaea094e4e27c4c44d8aaa894f0a0efe">Mandatno</comp>
+            </collocation>
+            <collocation form="predlagati mandatno" cluster="2" frequency="5" logDice="4.65">
+              <comp position="1" type="collocate" sloleks="LE_bf7e5a6ca425b8fca51489fd0356a878">predlagati</comp>
+              <comp position="2" type="headword" sloleks="LE_eaea094e4e27c4c44d8aaa894f0a0efe">mandatno</comp>
+            </collocation>
+            <collocation form="obravnavati mandatno" cluster="3" frequency="8" logDice="4.36">
+              <comp position="1" type="collocate" sloleks="LE_301ac767ac9927d19d3899c9ce4c99fa">obravnavati</comp>
+              <comp position="2" type="headword" sloleks="LE_eaea094e4e27c4c44d8aaa894f0a0efe">mandatno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

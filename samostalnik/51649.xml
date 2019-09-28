@@ -1,0 +1,56 @@
+<entry>
+  <header>
+    <lexical_unit id="51649">cimer</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">818</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="cimer iz leta" cluster="1" frequency="4" logDice="0.75">
+              <comp position="1" type="headword" sloleks="LE_61fb63da746f20d09a8471dc64eea76a">cimer</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="cimer Marka" cluster="1" frequency="8" logDice="4.03">
+              <comp position="1" type="headword" sloleks="LE_61fb63da746f20d09a8471dc64eea76a">cimer</comp>
+              <comp position="2" type="collocate" sloleks="LE_29b56a468291309fed6790d4a6554b68">Marka</comp>
+            </collocation>
+            <collocation form="diza cimra" cluster="2" frequency="5" logDice="11.32">
+              <comp position="1" type="collocate" sloleks="">diza</comp>
+              <comp position="2" type="headword" sloleks="LE_61fb63da746f20d09a8471dc64eea76a">cimra</comp>
+            </collocation>
+            <collocation form="rubrika Cimra" cluster="3" frequency="9" logDice="6.19">
+              <comp position="1" type="collocate" sloleks="LE_e3a974355489a5f3446059f661703fb5">rubrika</comp>
+              <comp position="2" type="headword" sloleks="LE_61fb63da746f20d09a8471dc64eea76a">Cimra</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="deliti s cimrom" cluster="1" frequency="5" logDice="3.98">
+              <comp position="1" type="collocate" sloleks="LE_72a236e61dc7648e09e27cc90d1b52a4">deliti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_61fb63da746f20d09a8471dc64eea76a">cimrom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ2">
+          <collocations>
+            <collocation form="imeti za cimra" cluster="1" frequency="5" logDice="3.9">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_61fb63da746f20d09a8471dc64eea76a">cimra</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

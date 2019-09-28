@@ -1,0 +1,44 @@
+<entry>
+  <header>
+    <lexical_unit id="1608892">man</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="man utd" cluster="1" frequency="25" logDice="11.6">
+              <comp position="1" type="headword" sloleks="">man</comp>
+              <comp position="2" type="collocate" sloleks="">utd</comp>
+            </collocation>
+            <collocation form="man united" cluster="2" frequency="13" logDice="10.28">
+              <comp position="1" type="headword" sloleks="">man</comp>
+              <comp position="2" type="collocate" sloleks="">united</comp>
+            </collocation>
+            <collocation form="man bande" cluster="3" frequency="21" logDice="8.94">
+              <comp position="1" type="headword" sloleks="">man</comp>
+              <comp position="2" type="collocate" sloleks="LE_93a64fd4ee7b500e9d7f3e92ce4f4222">bande</comp>
+            </collocation>
+            <collocation form="man band" cluster="3" frequency="10" logDice="9.46">
+              <comp position="1" type="headword" sloleks="">man</comp>
+              <comp position="2" type="collocate" sloleks="">band</comp>
+            </collocation>
+            <collocation form="man tuta" cluster="4" frequency="8" logDice="6.38">
+              <comp position="1" type="headword" sloleks="">man</comp>
+              <comp position="2" type="collocate" sloleks="">tuta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="sam man" cluster="1" frequency="35" logDice="1.56">
+              <comp position="1" type="collocate" sloleks="LE_5a6609dcb51dca73f05e113a9b57dea0">sam</comp>
+              <comp position="2" type="headword" sloleks="">man</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="7840">rogati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">729</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="rogati na račun" cluster="1" frequency="8" logDice="2.93">
+              <comp position="1" type="headword" sloleks="LE_a103f2f05f58e3c0128cd9343758f780">rogati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_03d4207cd319441760ba30bae2e1320e">račun</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="rogati v obraz" cluster="1" frequency="7" logDice="5.11">
+              <comp position="1" type="headword" sloleks="LE_a103f2f05f58e3c0128cd9343758f780">rogati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_ace2f15ed5cc3848b7740939ded1abe9">obraz</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="naprej rogati" cluster="1" frequency="4" logDice="0.17">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_a103f2f05f58e3c0128cd9343758f780">rogati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

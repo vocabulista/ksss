@@ -1,0 +1,52 @@
+<entry>
+  <header>
+    <lexical_unit id="7393122">tapravi</lexical_unit>
+    <category>pridevnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="tapravi falot" cluster="1" frequency="37" logDice="10.56">
+              <comp position="1" type="headword" sloleks="">tapravi</comp>
+              <comp position="2" type="collocate" sloleks="LE_15698a77f01a2c26d989bd23a537d915">falot</comp>
+            </collocation>
+            <collocation form="tapravi vernik" cluster="2" frequency="6" logDice="4.83">
+              <comp position="1" type="headword" sloleks="">tapravi</comp>
+              <comp position="2" type="collocate" sloleks="LE_6624d10d455eaff080cdbdfc6557bde7">vernik</comp>
+            </collocation>
+            <collocation form="tapravi komunist" cluster="3" frequency="9" logDice="4.67">
+              <comp position="1" type="headword" sloleks="">tapravi</comp>
+              <comp position="2" type="collocate" sloleks="LE_c1a50ce45a4e0e8c950899fa939dbe60">komunist</comp>
+            </collocation>
+            <collocation form="tapravi ansambel" cluster="4" frequency="8" logDice="3.56">
+              <comp position="1" type="headword" sloleks="">tapravi</comp>
+              <comp position="2" type="collocate" sloleks="LE_068e1dd327c779ce59ba2d63958b3fb1">ansambel</comp>
+            </collocation>
+            <collocation form="tapravi stvar" cluster="5" frequency="8" logDice="1.04">
+              <comp position="1" type="headword" sloleks="">tapravi</comp>
+              <comp position="2" type="collocate" sloleks="LE_c62e36388a9104c47cf960cd4bdf4ca3">stvar</comp>
+            </collocation>
+            <collocation form="tapravi beseda" cluster="6" frequency="9" logDice="0.74">
+              <comp position="1" type="headword" sloleks="">tapravi</comp>
+              <comp position="2" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">beseda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="čisto tapravi" cluster="1" frequency="17" logDice="3.21">
+              <comp position="1" type="collocate" sloleks="LE_94a91e83047bf2e90acf82e14cbb99c9">čisto</comp>
+              <comp position="2" type="headword" sloleks="">tapravi</comp>
+            </collocation>
+            <collocation form="res tapravi" cluster="2" frequency="8" logDice="1.36">
+              <comp position="1" type="collocate" sloleks="LE_f755b561969e89364cdbaba990b8838d">res</comp>
+              <comp position="2" type="headword" sloleks="">tapravi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="38277">zacementiran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">545</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 na sbz5">
+          <collocations>
+            <collocation form="zacementiran na mestu" cluster="1" frequency="5" logDice="4.87">
+              <comp position="1" type="headword" sloleks="LE_1437477353aa7a4e0bb4d1f116695ef2">zacementiran</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mestu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="trdno zacementiran" cluster="1" frequency="16" logDice="5.38">
+              <comp position="1" type="collocate" sloleks="LE_de79b48e6eaa0eb4f1a564e5b5812260">trdno</comp>
+              <comp position="2" type="headword" sloleks="LE_1437477353aa7a4e0bb4d1f116695ef2">zacementiran</comp>
+            </collocation>
+            <collocation form="praktično zacementiran" cluster="2" frequency="7" logDice="3.73">
+              <comp position="1" type="collocate" sloleks="LE_1d2724065d2fbcc820683706ab4ac941">praktično</comp>
+              <comp position="2" type="headword" sloleks="LE_1437477353aa7a4e0bb4d1f116695ef2">zacementiran</comp>
+            </collocation>
+            <collocation form="rekoč zacementiran" cluster="3" frequency="5" logDice="3.45">
+              <comp position="1" type="collocate" sloleks="LE_ebe36e072129b4f73209c9a9f3355a31">rekoč</comp>
+              <comp position="2" type="headword" sloleks="LE_1437477353aa7a4e0bb4d1f116695ef2">zacementiran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

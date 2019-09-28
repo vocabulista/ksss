@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="64093">kočijaž</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1079</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="kočijaž z vprego" cluster="1" frequency="4" logDice="7.08">
+              <comp position="1" type="headword" sloleks="LE_40225e1c8479bbedd65bf122feed746c">kočijaž</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_166e9670276a5093864b3a75ca679a3a">vprego</comp>
+            </collocation>
+            <collocation form="kočija s kočijažem" cluster="2" frequency="7" logDice="9.58">
+              <comp position="1" type="collocate" sloleks="LE_a8e584e6a427389c6866e8831d04ea6c">kočija</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_40225e1c8479bbedd65bf122feed746c">kočijažem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="dunajski kočijaž" cluster="1" frequency="62" logDice="5.78">
+              <comp position="1" type="collocate" sloleks="LE_efc958cdf1989575c5aecacee4091b5f">dunajski</comp>
+              <comp position="2" type="headword" sloleks="LE_40225e1c8479bbedd65bf122feed746c">kočijaž</comp>
+            </collocation>
+            <collocation form="blejski kočijaž" cluster="2" frequency="11" logDice="3.65">
+              <comp position="1" type="collocate" sloleks="LE_aaf0841ddac850987873727e458cfb24">blejski</comp>
+              <comp position="2" type="headword" sloleks="LE_40225e1c8479bbedd65bf122feed746c">kočijaž</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

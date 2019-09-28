@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="63479">kidanje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">461</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="kidanje gnoja" cluster="1" frequency="84" logDice="9.03">
+              <comp position="1" type="headword" sloleks="LE_1fcbc7e7a99b255efd201b1f8ce82e35">kidanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_d95a9082eefda88bc07739dd8f5dee81">gnoja</comp>
+            </collocation>
+            <collocation form="kidanje snega" cluster="2" frequency="220" logDice="8.78">
+              <comp position="1" type="headword" sloleks="LE_1fcbc7e7a99b255efd201b1f8ce82e35">kidanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_f69381a2fcfcf0a3bd618981427fd78f">snega</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz med SBZ6">
+          <collocations>
+            <collocation form="umreti med kidanjem" cluster="1" frequency="4" logDice="6.19">
+              <comp position="1" type="collocate" sloleks="LE_678b76ec9e0cabc0fe3001e0643a8b7d">umreti</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_1fcbc7e7a99b255efd201b1f8ce82e35">kidanjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="lopata za kidanje" cluster="1" frequency="29" logDice="11.38">
+              <comp position="1" type="collocate" sloleks="LE_adaad11f54ad1bdd6ed3d2d9127d191e">lopata</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_1fcbc7e7a99b255efd201b1f8ce82e35">kidanje</comp>
+            </collocation>
+            <collocation form="transporter za kidanje" cluster="2" frequency="6" logDice="9.26">
+              <comp position="1" type="collocate" sloleks="LE_ab9cb3a339929af11e7365b62fa6fec9">transporter</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_1fcbc7e7a99b255efd201b1f8ce82e35">kidanje</comp>
+            </collocation>
+            <collocation form="vila za kidanje" cluster="3" frequency="5" logDice="8.38">
+              <comp position="1" type="collocate" sloleks="LE_8577080e318ac65a4ef6f9485483fd71">vila</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_1fcbc7e7a99b255efd201b1f8ce82e35">kidanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

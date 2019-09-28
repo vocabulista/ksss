@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="66069">krvoses</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">552</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nadležen krvoses" cluster="1" frequency="10" logDice="5.25">
+              <comp position="1" type="collocate" sloleks="LE_b4012fd8088dd6baf377a0156ab944b7">nadležen</comp>
+              <comp position="2" type="headword" sloleks="LE_4314803c74ad884ec4b2b115b84dab20">krvoses</comp>
+            </collocation>
+            <collocation form="krut krvoses" cluster="2" frequency="8" logDice="4.17">
+              <comp position="1" type="collocate" sloleks="LE_d8abcdee8808e4184b4d8a98ba7d88cb">krut</comp>
+              <comp position="2" type="headword" sloleks="LE_4314803c74ad884ec4b2b115b84dab20">krvoses</comp>
+            </collocation>
+            <collocation form="mali krvoses" cluster="3" frequency="13" logDice="0.55">
+              <comp position="1" type="collocate" sloleks="LE_0b2cc34f00671cbd2bc04dca56aba76b">mali</comp>
+              <comp position="2" type="headword" sloleks="LE_4314803c74ad884ec4b2b115b84dab20">krvoses</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="hrošč krvosesa" cluster="1" frequency="5" logDice="8.68">
+              <comp position="1" type="collocate" sloleks="LE_2f315210ec2ccb8cb7c87bd775de18e8">hrošč</comp>
+              <comp position="2" type="headword" sloleks="LE_4314803c74ad884ec4b2b115b84dab20">krvosesa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="32301">regin</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">542</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="regin Cavagnoud" cluster="1" frequency="98" logDice="12.96">
+              <comp position="1" type="headword" sloleks="LE_6ca38bc251a8641bbe230f82e61903b0">regin</comp>
+              <comp position="2" type="collocate" sloleks="">Cavagnoud</comp>
+            </collocation>
+            <collocation form="regin Jernejc" cluster="2" frequency="28" logDice="11.45">
+              <comp position="1" type="headword" sloleks="LE_6ca38bc251a8641bbe230f82e61903b0">regin</comp>
+              <comp position="2" type="collocate" sloleks="">Jernejc</comp>
+            </collocation>
+            <collocation form="regin Häusl" cluster="3" frequency="13" logDice="10.41">
+              <comp position="1" type="headword" sloleks="LE_6ca38bc251a8641bbe230f82e61903b0">regin</comp>
+              <comp position="2" type="collocate" sloleks="">Häusl</comp>
+            </collocation>
+            <collocation form="regin laska" cluster="3" frequency="8" logDice="9.69">
+              <comp position="1" type="headword" sloleks="LE_6ca38bc251a8641bbe230f82e61903b0">regin</comp>
+              <comp position="2" type="collocate" sloleks="">laska</comp>
+            </collocation>
+            <collocation form="regin Pessoa" cluster="4" frequency="11" logDice="10.16">
+              <comp position="1" type="headword" sloleks="LE_6ca38bc251a8641bbe230f82e61903b0">regin</comp>
+              <comp position="2" type="collocate" sloleks="">Pessoa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 v sbz4">
+          <collocations>
+            <collocation form="regin v oči" cluster="1" frequency="6" logDice="9.83">
+              <comp position="1" type="headword" sloleks="LE_6ca38bc251a8641bbe230f82e61903b0">regin</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_6e683e53145b35a6cbb44ad1188b7a9f|LE_f7836a137770b18301878166ca9f053f">oči</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

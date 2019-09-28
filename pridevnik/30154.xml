@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="30154">predkupen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">4412</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="predkupen upravičenec" cluster="1" frequency="511" logDice="9.99">
+              <comp position="1" type="headword" sloleks="LE_5ca48c4133dc9e008a2d7ccb199651f0">predkupen</comp>
+              <comp position="2" type="collocate" sloleks="LE_e48486d8258b8ad3296922abb78b69cd">upravičenec</comp>
+            </collocation>
+            <collocation form="predkupen zavezanec" cluster="1" frequency="17" logDice="4.67">
+              <comp position="1" type="headword" sloleks="LE_5ca48c4133dc9e008a2d7ccb199651f0">predkupen</comp>
+              <comp position="2" type="collocate" sloleks="LE_fd44dd40219c000eaba319186ca0d136">zavezanec</comp>
+            </collocation>
+            <collocation form="predkupna pravica" cluster="2" frequency="3739" logDice="8.97">
+              <comp position="1" type="headword" sloleks="LE_5ca48c4133dc9e008a2d7ccb199651f0">predkupna</comp>
+              <comp position="2" type="collocate" sloleks="LE_8c0e472df622ea735bcaed6544ab6130">pravica</comp>
+            </collocation>
+            <collocation form="predkupna pogodba" cluster="2" frequency="75" logDice="3.65">
+              <comp position="1" type="headword" sloleks="LE_5ca48c4133dc9e008a2d7ccb199651f0">predkupna</comp>
+              <comp position="2" type="collocate" sloleks="LE_f8f86304f16174105dd9c075264d9c0c">pogodba</comp>
+            </collocation>
+            <collocation form="predkupna upravičenka" cluster="3" frequency="16" logDice="6.74">
+              <comp position="1" type="headword" sloleks="LE_5ca48c4133dc9e008a2d7ccb199651f0">predkupna</comp>
+              <comp position="2" type="collocate" sloleks="LE_356bc63279b1005b57230dffc1c670f3">upravičenka</comp>
+            </collocation>
+            <collocation form="predkupna večopravilnost" cluster="4" frequency="14" logDice="6.67">
+              <comp position="1" type="headword" sloleks="LE_5ca48c4133dc9e008a2d7ccb199651f0">predkupna</comp>
+              <comp position="2" type="collocate" sloleks="LE_7799ce58f38ee09506e2bc02a0267005">večopravilnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

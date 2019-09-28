@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="84539">radikalizacija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">448</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="radikalizacija muslimana" cluster="1" frequency="15" logDice="7.0">
+              <comp position="1" type="headword" sloleks="LE_d6e108142496dd3f8473bebee5ed14d7">radikalizacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_2df139c1f6c491d07f523f56e95c9ec2">muslimana</comp>
+            </collocation>
+            <collocation form="radikalizacija stališča" cluster="2" frequency="24" logDice="5.83">
+              <comp position="1" type="headword" sloleks="LE_d6e108142496dd3f8473bebee5ed14d7">radikalizacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_f258ebe19a870ef3c0529a47abb1480f">stališča</comp>
+            </collocation>
+            <collocation form="radikalizacija politike" cluster="2" frequency="13" logDice="2.48">
+              <comp position="1" type="headword" sloleks="LE_d6e108142496dd3f8473bebee5ed14d7">radikalizacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_d48e3236c14022f821882e8943749375">politike</comp>
+            </collocation>
+            <collocation form="radikalizacija razmere" cluster="2" frequency="9" logDice="3.12">
+              <comp position="1" type="headword" sloleks="LE_d6e108142496dd3f8473bebee5ed14d7">radikalizacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_f9cdd3c7dab1cb0cac2577ae8e353759">razmere</comp>
+            </collocation>
+            <collocation form="nevarnost radikalizacije" cluster="3" frequency="5" logDice="2.66">
+              <comp position="1" type="collocate" sloleks="LE_748e75bfb8d72b22882f959242b3d560">nevarnost</comp>
+              <comp position="2" type="headword" sloleks="LE_d6e108142496dd3f8473bebee5ed14d7">radikalizacije</comp>
+            </collocation>
+            <collocation form="napoved radikalizacije" cluster="4" frequency="6" logDice="2.37">
+              <comp position="1" type="collocate" sloleks="LE_857d50f24958cb465551230f8a46f709">napoved</comp>
+              <comp position="2" type="headword" sloleks="LE_d6e108142496dd3f8473bebee5ed14d7">radikalizacije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz do SBZ2">
+          <collocations>
+            <collocation form="priti do radikalizacije" cluster="1" frequency="4" logDice="-0.69">
+              <comp position="1" type="collocate" sloleks="LE_fc339e29cc0e8ec9efe1ef0acdfb11b5">priti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_d6e108142496dd3f8473bebee5ed14d7">radikalizacije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nadaljnja radikalizacija" cluster="1" frequency="9" logDice="1.35">
+              <comp position="1" type="collocate" sloleks="LE_2f160327b697daf29f8f1974d27a59a4">nadaljnja</comp>
+              <comp position="2" type="headword" sloleks="LE_d6e108142496dd3f8473bebee5ed14d7">radikalizacija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="25641">neparlamentaren</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">464</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="neparlamentaren Nsi" cluster="1" frequency="6" logDice="7.6">
+              <comp position="1" type="headword" sloleks="LE_78da9ffdab0618ba8f456b239f542236">neparlamentaren</comp>
+              <comp position="2" type="collocate" sloleks="">Nsi</comp>
+            </collocation>
+            <collocation form="neparlamentarna stranka" cluster="2" frequency="363" logDice="5.08">
+              <comp position="1" type="headword" sloleks="LE_78da9ffdab0618ba8f456b239f542236">neparlamentarna</comp>
+              <comp position="2" type="collocate" sloleks="LE_945a204a300f28702820c4bc0481d2e7">stranka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="neparlamentaren in/ali parlamentaren" cluster="1" frequency="31" logDice="9.24">
+              <comp position="3" type="headword" sloleks="LE_78da9ffdab0618ba8f456b239f542236">neparlamentaren</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_8764af10e1f0aad340a80e41e93d666c">parlamentaren</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

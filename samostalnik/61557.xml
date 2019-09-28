@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="61557">izvesek</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">610</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 nad sbz6">
+          <collocations>
+            <collocation form="izvesek nad vhodom" cluster="1" frequency="9" logDice="9.35">
+              <comp position="1" type="headword" sloleks="LE_e168c7b8692b54fbdc9a150b65b33156">izvesek</comp>
+              <comp position="2" type="other" sloleks="LE_d1a9059d44a24194d17af34039c48e9a">nad</comp>
+              <comp position="3" type="collocate" sloleks="LE_d598a8d007748ecb0f376eaf134efa27">vhodom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="izvesek prodajalne" cluster="1" frequency="8" logDice="5.31">
+              <comp position="1" type="headword" sloleks="LE_e168c7b8692b54fbdc9a150b65b33156">izvesek</comp>
+              <comp position="2" type="collocate" sloleks="LE_f74e83132b5a5cc3ac9ab1ad2d95d012">prodajalne</comp>
+            </collocation>
+            <collocation form="izvesek lokala" cluster="2" frequency="8" logDice="4.33">
+              <comp position="1" type="headword" sloleks="LE_e168c7b8692b54fbdc9a150b65b33156">izvesek</comp>
+              <comp position="2" type="collocate" sloleks="LE_01a5a1a8780f9f8195bad6f52f34943f">lokala</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="izvesek z napisom" cluster="1" frequency="21" logDice="6.41">
+              <comp position="1" type="headword" sloleks="LE_e168c7b8692b54fbdc9a150b65b33156">izvesek</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_5fb842be5b9529b5c0ae5eccdd7256f4">napisom</comp>
+            </collocation>
+            <collocation form="izvesek z imenom" cluster="2" frequency="7" logDice="2.91">
+              <comp position="1" type="headword" sloleks="LE_e168c7b8692b54fbdc9a150b65b33156">izvesek</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">imenom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ5">
+          <collocations>
+            <collocation form="pisati na izvesku" cluster="1" frequency="6" logDice="4.71">
+              <comp position="1" type="collocate" sloleks="LE_4173587cb50dc70d0c9a1be18c9c1b96">pisati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_e168c7b8692b54fbdc9a150b65b33156">izvesku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="reklamen izvesek" cluster="1" frequency="24" logDice="5.45">
+              <comp position="1" type="collocate" sloleks="LE_7188e05b65a98b9fd4a06959a0521c26">reklamen</comp>
+              <comp position="2" type="headword" sloleks="LE_e168c7b8692b54fbdc9a150b65b33156">izvesek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

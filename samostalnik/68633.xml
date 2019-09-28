@@ -1,0 +1,66 @@
+<entry>
+  <header>
+    <lexical_unit id="68633">mašilo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">838</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="mašilo luknje" cluster="1" frequency="9" logDice="6.14">
+              <comp position="1" type="headword" sloleks="LE_f6c8b107e5807e22a98698bb3e61d700">mašilo</comp>
+              <comp position="2" type="collocate" sloleks="LE_ae790feb15693f20a1f9a47c378fcfc2">luknje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="mašilo za praznino" cluster="1" frequency="4" logDice="9.8">
+              <comp position="1" type="headword" sloleks="LE_f6c8b107e5807e22a98698bb3e61d700">mašilo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_8fe3fa24ca98ef13f304e11c3f5c010f">praznino</comp>
+            </collocation>
+            <collocation form="mašilo za pomanjkanje" cluster="2" frequency="5" logDice="8.07">
+              <comp position="1" type="headword" sloleks="LE_f6c8b107e5807e22a98698bb3e61d700">mašilo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_d03659b8343dac2f4bc37255bfab3a40">pomanjkanje</comp>
+            </collocation>
+            <collocation form="mašilo za odsotnost" cluster="3" frequency="4" logDice="7.36">
+              <comp position="1" type="headword" sloleks="LE_f6c8b107e5807e22a98698bb3e61d700">mašilo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_5730a79196049ec4f96d7a3d73132813">odsotnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="služiti za mašilo" cluster="1" frequency="4" logDice="4.42">
+              <comp position="1" type="collocate" sloleks="LE_be76ca9b74372a5dcb7c2e10e1df27f5">služiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_f6c8b107e5807e22a98698bb3e61d700">mašilo</comp>
+            </collocation>
+            <collocation form="iti za mašilo" cluster="2" frequency="4" logDice="-1.6">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_f6c8b107e5807e22a98698bb3e61d700">mašilo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nepotrebno mašilo" cluster="1" frequency="13" logDice="4.14">
+              <comp position="1" type="collocate" sloleks="LE_77431aa6b09bf4481125b3c1154469de">nepotrebno</comp>
+              <comp position="2" type="headword" sloleks="LE_f6c8b107e5807e22a98698bb3e61d700">mašilo</comp>
+            </collocation>
+            <collocation form="programsko mašilo" cluster="2" frequency="10" logDice="1.98">
+              <comp position="1" type="collocate" sloleks="LE_4afb44c9c56470df53a56de3f6d4799d">programsko</comp>
+              <comp position="2" type="headword" sloleks="LE_f6c8b107e5807e22a98698bb3e61d700">mašilo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

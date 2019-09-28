@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="50915">čajček</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">602</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="čajček z rumom" cluster="1" frequency="5" logDice="9.49">
+              <comp position="1" type="headword" sloleks="LE_f5691de80a6175608f64f96457f7d34c">čajček</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_04143a8fe800fa61b86500bb078d590f">rumom</comp>
+            </collocation>
+            <collocation form="čajček z limono" cluster="2" frequency="4" logDice="7.61">
+              <comp position="1" type="headword" sloleks="LE_f5691de80a6175608f64f96457f7d34c">čajček</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_c1ada69b9bfcf4bffa4d2c1dba131a46">limono</comp>
+            </collocation>
+            <collocation form="čajček z medom" cluster="3" frequency="6" logDice="7.07">
+              <comp position="1" type="headword" sloleks="LE_f5691de80a6175608f64f96457f7d34c">čajček</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_f4b7e575d76dd5dfe82733e6e5391923|LE_2fbb04c44a2e16c8454038d7a4825e78">medom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="čajček za lajšanje" cluster="1" frequency="9" logDice="7.2">
+              <comp position="1" type="headword" sloleks="LE_f5691de80a6175608f64f96457f7d34c">čajček</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_044b4bd67b0f86fd3ddeddb6d0b380ca">lajšanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="topel čajček" cluster="1" frequency="20" logDice="3.04">
+              <comp position="1" type="collocate" sloleks="LE_c0675a8403caf39f14d2558793dfdb99">topel</comp>
+              <comp position="2" type="headword" sloleks="LE_f5691de80a6175608f64f96457f7d34c">čajček</comp>
+            </collocation>
+            <collocation form="vroč čajček" cluster="2" frequency="10" logDice="1.81">
+              <comp position="1" type="collocate" sloleks="LE_d2bf1f864be96db461b957828fdd04b2">vroč</comp>
+              <comp position="2" type="headword" sloleks="LE_f5691de80a6175608f64f96457f7d34c">čajček</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

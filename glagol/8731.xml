@@ -1,0 +1,44 @@
+<entry>
+  <header>
+    <lexical_unit id="8731">treskati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">449</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="treskati v vrh" cluster="1" frequency="4" logDice="4.03">
+              <comp position="1" type="headword" sloleks="LE_226a1a3a5f3503b63f659a36f64f1c48">treskati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_5111d9a7de58321a8ec7f1a0aa9fce76">vrh</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="treskati z vrati" cluster="1" frequency="19" logDice="8.82">
+              <comp position="1" type="headword" sloleks="LE_226a1a3a5f3503b63f659a36f64f1c48">treskati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_5b997c4e88dd626d1f19eb6721f9f994">vrati</comp>
+            </collocation>
+            <collocation form="treskati z glavo" cluster="2" frequency="5" logDice="2.73">
+              <comp position="1" type="headword" sloleks="LE_226a1a3a5f3503b63f659a36f64f1c48">treskati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_49f28ed22f8b4f55f12b45ad1b95d3b0">glavo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="močno treskati" cluster="1" frequency="5" logDice="0.39">
+              <comp position="1" type="collocate" sloleks="LE_b061af875766d8e1437febe5ccafe554">močno</comp>
+              <comp position="2" type="headword" sloleks="LE_226a1a3a5f3503b63f659a36f64f1c48">treskati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

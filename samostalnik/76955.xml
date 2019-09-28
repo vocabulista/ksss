@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="76955">pasat</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">436</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="severovzhoden pasat" cluster="1" frequency="18" logDice="5.87">
+              <comp position="1" type="collocate" sloleks="LE_3962ce3e0c65bd93e797dee29f18d3fa">severovzhoden</comp>
+              <comp position="2" type="headword" sloleks="LE_a9dc98939b85b7af411c7e3ba41877a6">pasat</comp>
+            </collocation>
+            <collocation form="jugovzhoden pasat" cluster="2" frequency="11" logDice="4.08">
+              <comp position="1" type="collocate" sloleks="LE_e8d69a16bc90ae57b3716b11f60dfef2">jugovzhoden</comp>
+              <comp position="2" type="headword" sloleks="LE_a9dc98939b85b7af411c7e3ba41877a6">pasat</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="VW pasata" cluster="1" frequency="6" logDice="7.67">
+              <comp position="1" type="collocate" sloleks="">VW</comp>
+              <comp position="2" type="headword" sloleks="LE_a9dc98939b85b7af411c7e3ba41877a6">pasata</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="16146">diametralen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">456</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="diametralno nasprotje" cluster="1" frequency="233" logDice="9.03">
+              <comp position="1" type="headword" sloleks="LE_4b04fd51090e45f7703c30e14a4e4a38">diametralno</comp>
+              <comp position="2" type="collocate" sloleks="LE_856a910b1c3332ccea09cc03944b7de2">nasprotje</comp>
+            </collocation>
+            <collocation form="diametralno stališče" cluster="2" frequency="19" logDice="3.61">
+              <comp position="1" type="headword" sloleks="LE_4b04fd51090e45f7703c30e14a4e4a38">diametralno</comp>
+              <comp position="2" type="collocate" sloleks="LE_f258ebe19a870ef3c0529a47abb1480f">stališče</comp>
+            </collocation>
+            <collocation form="diametralno mnenje" cluster="2" frequency="14" logDice="2.08">
+              <comp position="1" type="headword" sloleks="LE_4b04fd51090e45f7703c30e14a4e4a38">diametralno</comp>
+              <comp position="2" type="collocate" sloleks="LE_570e657c7ba1bf69e788fb96b4ad3409">mnenje</comp>
+            </collocation>
+            <collocation form="diametralna razlika" cluster="3" frequency="6" logDice="1.43">
+              <comp position="1" type="headword" sloleks="LE_4b04fd51090e45f7703c30e14a4e4a38">diametralna</comp>
+              <comp position="2" type="collocate" sloleks="LE_d8b5c5f08355edee42707780bbb4bdb8">razlika</comp>
+            </collocation>
+            <collocation form="diametralen pogled" cluster="4" frequency="6" logDice="1.2">
+              <comp position="1" type="headword" sloleks="LE_4b04fd51090e45f7703c30e14a4e4a38">diametralen</comp>
+              <comp position="2" type="collocate" sloleks="LE_456820bc1f399479d902f190585f0938">pogled</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="popolnoma diametralen" cluster="1" frequency="7" logDice="1.1">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_4b04fd51090e45f7703c30e14a4e4a38">diametralen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

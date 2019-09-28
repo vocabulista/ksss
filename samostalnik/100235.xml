@@ -1,0 +1,67 @@
+<entry>
+  <header>
+    <lexical_unit id="100235">žuborenje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">669</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="žuborenje potočka" cluster="1" frequency="39" logDice="10.65">
+              <comp position="1" type="headword" sloleks="LE_e741eb5e7709ef169953ee2c008bd8ef">žuborenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_b42e0f574e311e0f77d97537f5e28c2a">potočka</comp>
+            </collocation>
+            <collocation form="žuborenje potoka" cluster="2" frequency="91" logDice="8.96">
+              <comp position="1" type="headword" sloleks="LE_e741eb5e7709ef169953ee2c008bd8ef">žuborenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_caca5ff4235178a10f62624a95430c94">potoka</comp>
+            </collocation>
+            <collocation form="žuborenje reke" cluster="2" frequency="15" logDice="4.22">
+              <comp position="1" type="headword" sloleks="LE_e741eb5e7709ef169953ee2c008bd8ef">žuborenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_6662cfa7fb9c1345baab0f694d5a3590">reke</comp>
+            </collocation>
+            <collocation form="žuborenje vode" cluster="3" frequency="152" logDice="5.37">
+              <comp position="1" type="headword" sloleks="LE_e741eb5e7709ef169953ee2c008bd8ef">žuborenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_0d8cbba4e56fea63657ac746d29cd047">vode</comp>
+            </collocation>
+            <collocation form="žuborenje glasu" cluster="4" frequency="12" logDice="3.02">
+              <comp position="1" type="headword" sloleks="LE_e741eb5e7709ef169953ee2c008bd8ef">žuborenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_bdaf56c7a9eddd2562b11c97c0770037">glasu</comp>
+            </collocation>
+            <collocation form="žuborenje besede" cluster="4" frequency="8" logDice="2.61">
+              <comp position="1" type="headword" sloleks="LE_e741eb5e7709ef169953ee2c008bd8ef">žuborenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">besede</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz ob SBZ5">
+          <collocations>
+            <collocation form="uživati ob žuborenju" cluster="1" frequency="4" logDice="4.6">
+              <comp position="1" type="collocate" sloleks="LE_90b3bc770d204b7d425295a8bf82a5e0">uživati</comp>
+              <comp position="2" type="other" sloleks="LE_0d51e0433cde1d7d6610f469ec11e938">ob</comp>
+              <comp position="3" type="headword" sloleks="LE_e741eb5e7709ef169953ee2c008bd8ef">žuborenju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="uživati v žuborenju" cluster="1" frequency="5" logDice="2.01">
+              <comp position="1" type="collocate" sloleks="LE_90b3bc770d204b7d425295a8bf82a5e0">uživati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_e741eb5e7709ef169953ee2c008bd8ef">žuborenju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="prijetno žuborenje" cluster="1" frequency="9" logDice="1.84">
+              <comp position="1" type="collocate" sloleks="LE_c54487f53545d75fcf13a9fa0732e5f5">prijetno</comp>
+              <comp position="2" type="headword" sloleks="LE_e741eb5e7709ef169953ee2c008bd8ef">žuborenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

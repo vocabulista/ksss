@@ -1,0 +1,64 @@
+<entry>
+  <header>
+    <lexical_unit id="59504">hleb</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1217</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="hleb iz Stuttgarta" cluster="1" frequency="4" logDice="7.89">
+              <comp position="1" type="headword" sloleks="LE_9222797e3e4c4d802ad1a9d4e490c047">hleb</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_41f20a57660dcc7ef41d55c01679d54a">Stuttgarta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="hleb kruha" cluster="1" frequency="161" logDice="8.06">
+              <comp position="1" type="headword" sloleks="LE_9222797e3e4c4d802ad1a9d4e490c047">hleb</comp>
+              <comp position="2" type="collocate" sloleks="LE_e0dfccb0af83b931a6cf202a952d9fb5">kruha</comp>
+            </collocation>
+            <collocation form="hleb sira" cluster="2" frequency="19" logDice="5.89">
+              <comp position="1" type="headword" sloleks="LE_9222797e3e4c4d802ad1a9d4e490c047">hleb</comp>
+              <comp position="2" type="collocate" sloleks="LE_7e0c00695c0da6161f60ca2c06d4efd1">sira</comp>
+            </collocation>
+            <collocation form="Aleksander Hleba" cluster="3" frequency="80" logDice="9.06">
+              <comp position="1" type="collocate" sloleks="LE_08ddddcebc45c784d8b022397969756f">Aleksander</comp>
+              <comp position="2" type="headword" sloleks="LE_9222797e3e4c4d802ad1a9d4e490c047">Hleba</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz4">
+          <collocations>
+            <collocation form="hleb v peč" cluster="1" frequency="5" logDice="8.87">
+              <comp position="1" type="headword" sloleks="LE_9222797e3e4c4d802ad1a9d4e490c047">hleb</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_41a582e94586efedde334c0ea4c82bbe">peč</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="oblikovati v hleb" cluster="1" frequency="8" logDice="6.53">
+              <comp position="1" type="collocate" sloleks="LE_b8af991cbfa48ea3855e3984b3ac5ddf">oblikovati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_9222797e3e4c4d802ad1a9d4e490c047">hleb</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="cel hleb" cluster="1" frequency="9" logDice="1.1">
+              <comp position="1" type="collocate" sloleks="LE_f80e0ae3d5b4efeb6ae9ebbfa265a595">cel</comp>
+              <comp position="2" type="headword" sloleks="LE_9222797e3e4c4d802ad1a9d4e490c047">hleb</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

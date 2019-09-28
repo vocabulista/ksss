@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="26210">nezapleten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">400</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nezapletena okužba" cluster="1" frequency="22" logDice="5.69">
+              <comp position="1" type="headword" sloleks="LE_116acedaf268e0e5f484bbc32ad49352">nezapletena</comp>
+              <comp position="2" type="collocate" sloleks="LE_317412be3a9df9cfb98197f161046457">okužba</comp>
+            </collocation>
+            <collocation form="nezapleteno vnetje" cluster="2" frequency="8" logDice="5.13">
+              <comp position="1" type="headword" sloleks="LE_116acedaf268e0e5f484bbc32ad49352">nezapleteno</comp>
+              <comp position="2" type="collocate" sloleks="LE_abd6965752d6b41d58e1c83a6a0606f6">vnetje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="nezapleten in/ali preprost" cluster="1" frequency="7" logDice="4.66">
+              <comp position="3" type="headword" sloleks="LE_116acedaf268e0e5f484bbc32ad49352">nezapleten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_a53fa6e02611481ace6ff204a2ed79b7">preprost</comp>
+              </collocation>
+            <collocation form="nezapleten in/ali hiter" cluster="2" frequency="5" logDice="2.94">
+              <comp position="3" type="headword" sloleks="LE_116acedaf268e0e5f484bbc32ad49352">nezapleten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_2af28cbb04d2e8afedc54b00a27fc453">hiter</comp>
+              </collocation>
+            <collocation form="nezapleten in/ali majhen" cluster="3" frequency="5" logDice="2.91">
+              <comp position="3" type="headword" sloleks="LE_116acedaf268e0e5f484bbc32ad49352">nezapleten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_046f6756496c07b99f5ce226a4c8204d">majhen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="razmeroma nezapleten" cluster="1" frequency="5" logDice="2.18">
+              <comp position="1" type="collocate" sloleks="LE_a6c516af0084b0ba294d749e6042f3b2">razmeroma</comp>
+              <comp position="2" type="headword" sloleks="LE_116acedaf268e0e5f484bbc32ad49352">nezapleten</comp>
+            </collocation>
+            <collocation form="dokaj nezapleten" cluster="2" frequency="7" logDice="1.76">
+              <comp position="1" type="collocate" sloleks="LE_90c3e789d159a5b43e1f600807dba440">dokaj</comp>
+              <comp position="2" type="headword" sloleks="LE_116acedaf268e0e5f484bbc32ad49352">nezapleten</comp>
+            </collocation>
+            <collocation form="povsem nezapleten" cluster="3" frequency="11" logDice="0.75">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_116acedaf268e0e5f484bbc32ad49352">nezapleten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

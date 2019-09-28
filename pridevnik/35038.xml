@@ -1,0 +1,35 @@
+<entry>
+  <header>
+    <lexical_unit id="35038">stesan</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">7537</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 iz sbz2">
+          <collocations>
+            <collocation form="stesan iz debla" cluster="1" frequency="6" logDice="10.71">
+              <comp position="1" type="headword" sloleks="LE_1ddb7a0c00144841c8df7113379c72f9">stesan</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_066d0d64f2cf56065d915485773f8c82">debla</comp>
+            </collocation>
+            <collocation form="stesan iz lesa" cluster="2" frequency="8" logDice="7.78">
+              <comp position="1" type="headword" sloleks="LE_1ddb7a0c00144841c8df7113379c72f9">stesan</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_a64d3c025e48884a3606fcff72b3d118">lesa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="stesana miza" cluster="1" frequency="11" logDice="2.09">
+              <comp position="1" type="headword" sloleks="LE_1ddb7a0c00144841c8df7113379c72f9">stesana</comp>
+              <comp position="2" type="collocate" sloleks="LE_f04e4cc44cf7497b038fc5fc1fd3eb30">miza</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

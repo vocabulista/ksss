@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="44252">pretesno</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">502</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ za sbz4">
+          <collocations>
+            <collocation form="pretesno za obiskovalca" cluster="1" frequency="4" logDice="8.69">
+              <comp position="1" type="headword" sloleks="LE_22e1398a5511d50479a04329b2960ceb">pretesno</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_3974f599f2b3fc31c35ea298dce06f1b">obiskovalca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="postati pretesno" cluster="1" frequency="83" logDice="5.08">
+              <comp position="1" type="collocate" sloleks="LE_c8e9d4f0bbc764e535f72bddd3507947|LE_c2ff60a03966bdff6d1c8481489399e9">postati</comp>
+              <comp position="2" type="headword" sloleks="LE_22e1398a5511d50479a04329b2960ceb">pretesno</comp>
+            </collocation>
+            <collocation form="postajati pretesno" cluster="2" frequency="20" logDice="4.33">
+              <comp position="1" type="collocate" sloleks="LE_93fdbbbe07434c8d80d2cd77570a6c4f">postajati</comp>
+              <comp position="2" type="headword" sloleks="LE_22e1398a5511d50479a04329b2960ceb">pretesno</comp>
+            </collocation>
+            <collocation form="smeti pretesno" cluster="3" frequency="4" logDice="3.11">
+              <comp position="1" type="collocate" sloleks="LE_c624979ae53df9a187bf7b5a598e6cfc">smeti</comp>
+              <comp position="2" type="headword" sloleks="LE_22e1398a5511d50479a04329b2960ceb">pretesno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz RBZ">
+          <collocations>
+            <collocation form="nekam pretesno" cluster="1" frequency="8" logDice="5.48">
+              <comp position="1" type="collocate" sloleks="LE_74a180fdd3c4cc19b78fe203d7dd8232">nekam</comp>
+              <comp position="2" type="headword" sloleks="LE_22e1398a5511d50479a04329b2960ceb">pretesno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="38812">zaukazan</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">587</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="zaukazana molčečnost" cluster="1" frequency="8" logDice="7.97">
+              <comp position="1" type="headword" sloleks="LE_09e4b9e45fe9d2cbf423ca8870f0bc57">zaukazana</comp>
+              <comp position="2" type="collocate" sloleks="LE_5626ad36a188ffd9ab017b05a7517b32">molčečnost</comp>
+            </collocation>
+            <collocation form="zaukazan molk" cluster="2" frequency="27" logDice="7.12">
+              <comp position="1" type="headword" sloleks="LE_09e4b9e45fe9d2cbf423ca8870f0bc57">zaukazan</comp>
+              <comp position="2" type="collocate" sloleks="LE_12de164da463700e6c61d37ea4a8f8e5">molk</comp>
+            </collocation>
+            <collocation form="zaukazan post" cluster="3" frequency="7" logDice="5.37">
+              <comp position="1" type="headword" sloleks="LE_09e4b9e45fe9d2cbf423ca8870f0bc57">zaukazan</comp>
+              <comp position="2" type="collocate" sloleks="LE_d9bbad00bc90626799b0ab98ab73f6f1">post</comp>
+            </collocation>
+            <collocation form="zaukazano varčevanje" cluster="4" frequency="6" logDice="4.6">
+              <comp position="1" type="headword" sloleks="LE_09e4b9e45fe9d2cbf423ca8870f0bc57">zaukazano</comp>
+              <comp position="2" type="collocate" sloleks="LE_94bc156a8a04e0616f0dcecd148ff954">varčevanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 z sbz6">
+          <collocations>
+            <collocation form="zaukazan z zakonom" cluster="1" frequency="4" logDice="3.75">
+              <comp position="1" type="headword" sloleks="LE_09e4b9e45fe9d2cbf423ca8870f0bc57">zaukazan</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_b3ce668b2bbbbdfa905463c113c05551">zakonom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="zakonsko zaukazan" cluster="1" frequency="7" logDice="4.18">
+              <comp position="1" type="collocate" sloleks="LE_34cf1bbcdfef9f3f2da483cb0ea117f7">zakonsko</comp>
+              <comp position="2" type="headword" sloleks="LE_09e4b9e45fe9d2cbf423ca8870f0bc57">zaukazan</comp>
+            </collocation>
+            <collocation form="rekoč zaukazan" cluster="2" frequency="6" logDice="3.72">
+              <comp position="1" type="collocate" sloleks="LE_ebe36e072129b4f73209c9a9f3355a31">rekoč</comp>
+              <comp position="2" type="headword" sloleks="LE_09e4b9e45fe9d2cbf423ca8870f0bc57">zaukazan</comp>
+            </collocation>
+            <collocation form="uradno zaukazan" cluster="3" frequency="5" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_ac33465c7a5b3d3ed898a9e5e4999955">uradno</comp>
+              <comp position="2" type="headword" sloleks="LE_09e4b9e45fe9d2cbf423ca8870f0bc57">zaukazan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

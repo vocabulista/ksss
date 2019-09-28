@@ -1,0 +1,64 @@
+<entry>
+  <header>
+    <lexical_unit id="53719">dobrotnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">682</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="dobrotnica iz Ljubljane" cluster="1" frequency="5" logDice="2.05">
+              <comp position="1" type="headword" sloleks="LE_018272d84a0eb35c3dac94c2b69e12ac">dobrotnica</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee11c4f6f901052d38c8252202477c9e">Ljubljane</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="dobrotnica leta" cluster="1" frequency="117" logDice="2.5">
+              <comp position="1" type="headword" sloleks="LE_018272d84a0eb35c3dac94c2b69e12ac">dobrotnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leta</comp>
+            </collocation>
+            <collocation form="smrt dobrotnice" cluster="2" frequency="6" logDice="2.35">
+              <comp position="1" type="collocate" sloleks="LE_7ccde25b582fa3323faaf4d1541c4793">smrt</comp>
+              <comp position="2" type="headword" sloleks="LE_018272d84a0eb35c3dac94c2b69e12ac">dobrotnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="dobrotnica s posluhom" cluster="1" frequency="4" logDice="7.72">
+              <comp position="1" type="headword" sloleks="LE_018272d84a0eb35c3dac94c2b69e12ac">dobrotnica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_0c9919c4602b45255b4d5d281d212949">posluhom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="razglasiti za dobrotnico" cluster="1" frequency="5" logDice="3.63">
+              <comp position="1" type="collocate" sloleks="LE_bf7aad6c518b6989f7d2c5d7b4806af8">razglasiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_018272d84a0eb35c3dac94c2b69e12ac">dobrotnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="radovljiška dobrotnica" cluster="1" frequency="8" logDice="4.84">
+              <comp position="1" type="collocate" sloleks="LE_48c150997486fab9f11436677aee1132">radovljiška</comp>
+              <comp position="2" type="headword" sloleks="LE_018272d84a0eb35c3dac94c2b69e12ac">dobrotnica</comp>
+            </collocation>
+            <collocation form="znana dobrotnica" cluster="2" frequency="15" logDice="0.83">
+              <comp position="1" type="collocate" sloleks="LE_3ca4e8269ed35ff770799effa47b0eda">znana</comp>
+              <comp position="2" type="headword" sloleks="LE_018272d84a0eb35c3dac94c2b69e12ac">dobrotnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

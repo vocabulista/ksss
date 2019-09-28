@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="1590381">lupus</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="eritematozen lupus" cluster="1" frequency="37" logDice="12.34">
+              <comp position="1" type="collocate" sloleks="">eritematozen</comp>
+              <comp position="2" type="headword" sloleks="">lupus</comp>
+            </collocation>
+            <collocation form="homini lupus" cluster="2" frequency="16" logDice="11.28">
+              <comp position="1" type="collocate" sloleks="">homini</comp>
+              <comp position="2" type="headword" sloleks="">lupus</comp>
+            </collocation>
+            <collocation form="sistemski lupus" cluster="3" frequency="131" logDice="7.16">
+              <comp position="1" type="collocate" sloleks="LE_6b6ac18a66683f87b4d16facb9407d42">sistemski</comp>
+              <comp position="2" type="headword" sloleks="">lupus</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="diagnoza lupus" cluster="1" frequency="5" logDice="6.24">
+              <comp position="1" type="collocate" sloleks="LE_3c42ff06a2554daf4eebd452ef432803">diagnoza</comp>
+              <comp position="2" type="headword" sloleks="">lupus</comp>
+            </collocation>
+            <collocation form="zdravljenje lupus" cluster="2" frequency="11" logDice="3.23">
+              <comp position="1" type="collocate" sloleks="LE_7c0137a5473fd91b204bdf5ea8e08de5">zdravljenje</comp>
+              <comp position="2" type="headword" sloleks="">lupus</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="bolnik z lupus" cluster="1" frequency="35" logDice="5.89">
+              <comp position="1" type="collocate" sloleks="LE_b6c5a89fe8af52cbe0faba9f493dfdf3">bolnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="">lupus</comp>
+            </collocation>
+            <collocation form="ženska z lupus" cluster="2" frequency="4" logDice="3.86">
+              <comp position="1" type="collocate" sloleks="LE_27b2cafdf8a189c632c32da066af1ce5">ženska</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="">lupus</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

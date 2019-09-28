@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="63610">kitaristka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">593</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="odlična kitaristka" cluster="1" frequency="9" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_5df9e790d0222ba069d884357b717d12">odlična</comp>
+              <comp position="2" type="headword" sloleks="LE_14f79270a6cd7b7687e711dc3b3b3d8f">kitaristka</comp>
+            </collocation>
+            <collocation form="mlada kitaristka" cluster="2" frequency="23" logDice="0.59">
+              <comp position="1" type="collocate" sloleks="LE_0ee11dc77f2b35d3d3b7f2db250e72fb">mlada</comp>
+              <comp position="2" type="headword" sloleks="LE_14f79270a6cd7b7687e711dc3b3b3d8f">kitaristka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="spremljava kitaristke" cluster="1" frequency="7" logDice="5.04">
+              <comp position="1" type="collocate" sloleks="LE_e60c53fcb8c486e290ac156932e60f1e">spremljava</comp>
+              <comp position="2" type="headword" sloleks="LE_14f79270a6cd7b7687e711dc3b3b3d8f">kitaristke</comp>
+            </collocation>
+            <collocation form="koncert kitaristke" cluster="2" frequency="22" logDice="4.11">
+              <comp position="1" type="collocate" sloleks="LE_59413a17c3a8b66da90ba33d0af97c1d">koncert</comp>
+              <comp position="2" type="headword" sloleks="LE_14f79270a6cd7b7687e711dc3b3b3d8f">kitaristke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

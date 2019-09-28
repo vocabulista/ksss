@@ -1,0 +1,61 @@
+<entry>
+  <header>
+    <lexical_unit id="44800">scela</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">564</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ gbz">
+          <collocations>
+            <collocation form="scela predati" cluster="1" frequency="6" logDice="4.61">
+              <comp position="1" type="headword" sloleks="LE_45f7ae6dd91a4614be58ae6b1f97cbaa">scela</comp>
+              <comp position="2" type="collocate" sloleks="LE_9ae9b8d58e90cf447de60dcea87e756e">predati</comp>
+            </collocation>
+            <collocation form="scela prepustiti" cluster="2" frequency="5" logDice="4.24">
+              <comp position="1" type="headword" sloleks="LE_45f7ae6dd91a4614be58ae6b1f97cbaa">scela</comp>
+              <comp position="2" type="collocate" sloleks="LE_6244c5efcbe6cd175f9d6456878e9862">prepustiti</comp>
+            </collocation>
+            <collocation form="scela vreči" cluster="3" frequency="4" logDice="3.61">
+              <comp position="1" type="headword" sloleks="LE_45f7ae6dd91a4614be58ae6b1f97cbaa">scela</comp>
+              <comp position="2" type="collocate" sloleks="LE_956396f0e22de7b8d0b03eab61d2f9f8">vreči</comp>
+            </collocation>
+            <collocation form="scela posvetiti" cluster="4" frequency="5" logDice="3.06">
+              <comp position="1" type="headword" sloleks="LE_45f7ae6dd91a4614be58ae6b1f97cbaa">scela</comp>
+              <comp position="2" type="collocate" sloleks="LE_b211c6b00e05de9887ad947116db8b09">posvetiti</comp>
+            </collocation>
+            <collocation form="scela pozabiti" cluster="5" frequency="4" logDice="1.95">
+              <comp position="1" type="headword" sloleks="LE_45f7ae6dd91a4614be58ae6b1f97cbaa">scela</comp>
+              <comp position="2" type="collocate" sloleks="LE_86a513887fa68379f90aeccc1a68d9d7">pozabiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ pbz0">
+          <collocations>
+            <collocation form="scela prepuščen" cluster="1" frequency="4" logDice="5.53">
+              <comp position="1" type="headword" sloleks="LE_45f7ae6dd91a4614be58ae6b1f97cbaa">scela</comp>
+              <comp position="2" type="collocate" sloleks="LE_87f417c70bca5b8e89359cb03227640d">prepuščen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="moči scela" cluster="1" frequency="5" logDice="1.25">
+              <comp position="1" type="collocate" sloleks="LE_d0d5036f97e772cb509411764a3a7f9e">moči</comp>
+              <comp position="2" type="headword" sloleks="LE_45f7ae6dd91a4614be58ae6b1f97cbaa">scela</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz RBZ">
+          <collocations>
+            <collocation form="gledano scela" cluster="1" frequency="8" logDice="6.88">
+              <comp position="1" type="collocate" sloleks="LE_dfeccc0023a800b65943ecc6e4bfffb4">gledano</comp>
+              <comp position="2" type="headword" sloleks="LE_45f7ae6dd91a4614be58ae6b1f97cbaa">scela</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="83971">prot</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">3054</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="prot barc" cluster="1" frequency="24" logDice="11.44">
+              <comp position="1" type="headword" sloleks="LE_8f376e15a576e7c41ce3011e184b2a6d">prot</comp>
+              <comp position="2" type="collocate" sloleks="">barc</comp>
+            </collocation>
+            <collocation form="prot mene" cluster="2" frequency="36" logDice="7.88">
+              <comp position="1" type="headword" sloleks="LE_8f376e15a576e7c41ce3011e184b2a6d">prot</comp>
+              <comp position="2" type="collocate" sloleks="LE_0d7c16563ca08245cab8459a6cd64fe8">mene</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz3">
+          <collocations>
+            <collocation form="prot vratom" cluster="1" frequency="10" logDice="9.32">
+              <comp position="1" type="headword" sloleks="LE_8f376e15a576e7c41ce3011e184b2a6d">prot</comp>
+              <comp position="2" type="collocate" sloleks="LE_5b997c4e88dd626d1f19eb6721f9f994">vratom</comp>
+            </collocation>
+            <collocation form="prot koncu" cluster="2" frequency="10" logDice="9.09">
+              <comp position="1" type="headword" sloleks="LE_8f376e15a576e7c41ce3011e184b2a6d">prot</comp>
+              <comp position="2" type="collocate" sloleks="LE_d8d1737076777d9839ea949a2b88751a">koncu</comp>
+            </collocation>
+            <collocation form="prot realu" cluster="3" frequency="14" logDice="8.95">
+              <comp position="1" type="headword" sloleks="LE_8f376e15a576e7c41ce3011e184b2a6d">prot</comp>
+              <comp position="2" type="collocate" sloleks="LE_9a382751a67647fd44598e939486d016">realu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="terapija s protom" cluster="1" frequency="4" logDice="5.63">
+              <comp position="1" type="collocate" sloleks="LE_ab79f4d18063499c07f234b497542048">terapija</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_8f376e15a576e7c41ce3011e184b2a6d">protom</comp>
+            </collocation>
+            <collocation form="poraz s protom" cluster="2" frequency="4" logDice="4.38">
+              <comp position="1" type="collocate" sloleks="LE_ceda694466e28e1997af386a1b01677c">poraz</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_8f376e15a576e7c41ce3011e184b2a6d">protom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

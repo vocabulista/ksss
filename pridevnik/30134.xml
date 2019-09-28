@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="30134">predikaten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">568</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="predikaten in peneč" cluster="1" frequency="10" logDice="11.28">
+              <comp position="1" type="headword" sloleks="LE_32ba5c98a50ff4cdced364053f5d2773">predikaten</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_6a4857cd1b22f4bd19bb4ed8479330bb">peneč</comp>
+            </collocation>
+            <collocation form="predikaten in/ali vrhunski" cluster="2" frequency="10" logDice="7.78">
+              <comp position="3" type="headword" sloleks="LE_32ba5c98a50ff4cdced364053f5d2773">predikaten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_1f6407ff0f9a015b81566069ad3db72f">vrhunski</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="predikatno vino" cluster="1" frequency="511" logDice="7.79">
+              <comp position="1" type="headword" sloleks="LE_32ba5c98a50ff4cdced364053f5d2773">predikatno</comp>
+              <comp position="2" type="collocate" sloleks="LE_0ae7c92af34780f7f1922cd5b9806ca5">vino</comp>
+            </collocation>
+            <collocation form="predikatna trgatev" cluster="2" frequency="10" logDice="5.88">
+              <comp position="1" type="headword" sloleks="LE_32ba5c98a50ff4cdced364053f5d2773">predikatna</comp>
+              <comp position="2" type="collocate" sloleks="LE_dfaa14fe7fdece23ff312ead4ac0b0a0">trgatev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="kar predikaten" cluster="1" frequency="8" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_c135f6fe8de5dfaaa58b36300e2bf493">kar</comp>
+              <comp position="2" type="headword" sloleks="LE_32ba5c98a50ff4cdced364053f5d2773">predikaten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

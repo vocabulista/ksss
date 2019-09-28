@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="57064">gajbica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">543</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="gajbica za krompir" cluster="1" frequency="38" logDice="10.17">
+              <comp position="1" type="headword" sloleks="LE_dedda4378d64eb1261321a90b5b8c22f">gajbica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_f99eebfcdd2100bf74658668494432f6">krompir</comp>
+            </collocation>
+            <collocation form="gajbica za jabolko" cluster="2" frequency="4" logDice="9.48">
+              <comp position="1" type="headword" sloleks="LE_dedda4378d64eb1261321a90b5b8c22f">gajbica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_a104929e83f92e22bd68e5d8d22a2a38">jabolko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="lesena gajbica" cluster="1" frequency="49" logDice="4.53">
+              <comp position="1" type="collocate" sloleks="LE_39fa6eac8b3aca677a672c92e27a594c|LE_6be16eebd901c9f88de46c0031bec9fd">lesena</comp>
+              <comp position="2" type="headword" sloleks="LE_dedda4378d64eb1261321a90b5b8c22f">gajbica</comp>
+            </collocation>
+            <collocation form="plastična gajbica" cluster="2" frequency="12" logDice="3.42">
+              <comp position="1" type="collocate" sloleks="LE_9b4ec6781ec6c8c099f856ed1e95224e">plastična</comp>
+              <comp position="2" type="headword" sloleks="LE_dedda4378d64eb1261321a90b5b8c22f">gajbica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="postavljanje gajbice" cluster="1" frequency="10" logDice="4.94">
+              <comp position="1" type="collocate" sloleks="LE_ac322cc643e72e7b2de22045668b61d2">postavljanje</comp>
+              <comp position="2" type="headword" sloleks="LE_dedda4378d64eb1261321a90b5b8c22f">gajbice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

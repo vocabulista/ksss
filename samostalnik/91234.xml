@@ -1,0 +1,66 @@
+<entry>
+  <header>
+    <lexical_unit id="91234">starinarnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">853</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="kupiti v starinarnici" cluster="1" frequency="25" logDice="5.92">
+              <comp position="1" type="collocate" sloleks="LE_cfca503c3162d4a887b66b6d1a4f1f46">kupiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_5beef63acd6a21008bdd327289c99124">starinarnici</comp>
+            </collocation>
+            <collocation form="prodajati v starinarnici" cluster="2" frequency="5" logDice="4.31">
+              <comp position="1" type="collocate" sloleks="LE_3f2240489d68f3fe669791a71de84651">prodajati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_5beef63acd6a21008bdd327289c99124">starinarnici</comp>
+            </collocation>
+            <collocation form="najti v starinarnici" cluster="3" frequency="17" logDice="3.44">
+              <comp position="1" type="collocate" sloleks="LE_843e328fc791979a62059ce2c06a66c8">najti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_5beef63acd6a21008bdd327289c99124">starinarnici</comp>
+            </collocation>
+            <collocation form="preživeti v starinarnici" cluster="4" frequency="4" logDice="2.28">
+              <comp position="1" type="collocate" sloleks="LE_410951668aef5671eb8fb2da62b13415">preživeti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_5beef63acd6a21008bdd327289c99124">starinarnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Glasbena starinarnica" cluster="1" frequency="13" logDice="0.65">
+              <comp position="1" type="collocate" sloleks="LE_dac17ddcfd6670f6a6620ba54e7d32db">Glasbena</comp>
+              <comp position="2" type="headword" sloleks="LE_5beef63acd6a21008bdd327289c99124">starinarnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="lastnica starinarnice" cluster="1" frequency="6" logDice="3.46">
+              <comp position="1" type="collocate" sloleks="LE_d39f02c17da134a0c9e790b480bdedf0">lastnica</comp>
+              <comp position="2" type="headword" sloleks="LE_5beef63acd6a21008bdd327289c99124">starinarnice</comp>
+            </collocation>
+            <collocation form="lastnik starinarnice" cluster="2" frequency="14" logDice="1.79">
+              <comp position="1" type="collocate" sloleks="LE_66c7de1ac3f03dd18265b3091c93bdc0">lastnik</comp>
+              <comp position="2" type="headword" sloleks="LE_5beef63acd6a21008bdd327289c99124">starinarnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="delo v starinarnici" cluster="1" frequency="4" logDice="0.57">
+              <comp position="1" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_5beef63acd6a21008bdd327289c99124">starinarnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

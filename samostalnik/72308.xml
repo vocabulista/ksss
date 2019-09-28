@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="72308">nenatančnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">589</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 pri sbz5">
+          <collocations>
+            <collocation form="nenatančnost pri metu" cluster="1" frequency="13" logDice="9.75">
+              <comp position="1" type="headword" sloleks="LE_a19768011bd6396f03a1744be7dc2bc4">nenatančnost</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_842c7a094c946f8c08878a6651a0a952">metu</comp>
+            </collocation>
+            <collocation form="nenatančnost pri strelu" cluster="2" frequency="4" logDice="8.11">
+              <comp position="1" type="headword" sloleks="LE_a19768011bd6396f03a1744be7dc2bc4">nenatančnost</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_7242f71e5b8cc7afc32db8d1c16c8aa8">strelu</comp>
+            </collocation>
+            <collocation form="nenatančnost pri izdelavi" cluster="3" frequency="5" logDice="5.84">
+              <comp position="1" type="headword" sloleks="LE_a19768011bd6396f03a1744be7dc2bc4">nenatančnost</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_58e4c9eb6d6ddc69a009737fc482eaa5">izdelavi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="opravičevati za nenatančnost" cluster="1" frequency="7" logDice="6.25">
+              <comp position="1" type="collocate" sloleks="LE_e8ac3ce1d228a6ff76a2338e76820185">opravičevati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_a19768011bd6396f03a1744be7dc2bc4">nenatančnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="občasna nenatančnost" cluster="1" frequency="11" logDice="4.13">
+              <comp position="1" type="collocate" sloleks="LE_ae01c1b6c7a360f891ca5b8d87fc37cf">občasna</comp>
+              <comp position="2" type="headword" sloleks="LE_a19768011bd6396f03a1744be7dc2bc4">nenatančnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

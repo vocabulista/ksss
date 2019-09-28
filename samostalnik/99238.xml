@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="99238">žepič</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1145</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Žepič iz Šenčurja" cluster="1" frequency="5" logDice="7.45">
+              <comp position="1" type="headword" sloleks="LE_00f6f53ec838f4771134c3589c6b6edc">Žepič</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_df989f958de23ef68ed28a78bc8e8c89">Šenčurja</comp>
+            </collocation>
+            <collocation form="Žepič iz Kranja" cluster="2" frequency="6" logDice="4.2">
+              <comp position="1" type="headword" sloleks="LE_00f6f53ec838f4771134c3589c6b6edc">Žepič</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_870357c99d255779fc7d3027bd15a6b5">Kranja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Damjan Žepiča" cluster="1" frequency="13" logDice="7.15">
+              <comp position="1" type="collocate" sloleks="LE_6cb1bbc4bc7e08f963346018d534cf38">Damjan</comp>
+              <comp position="2" type="headword" sloleks="LE_00f6f53ec838f4771134c3589c6b6edc">Žepiča</comp>
+            </collocation>
+            <collocation form="Mark Žepiča" cluster="2" frequency="17" logDice="4.96">
+              <comp position="1" type="collocate" sloleks="LE_29b56a468291309fed6790d4a6554b68">Mark</comp>
+              <comp position="2" type="headword" sloleks="LE_00f6f53ec838f4771134c3589c6b6edc">Žepiča</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

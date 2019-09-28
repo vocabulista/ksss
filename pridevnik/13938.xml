@@ -1,0 +1,35 @@
+<entry>
+  <header>
+    <lexical_unit id="13938">banjški</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">660</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="banjška planota" cluster="1" frequency="642" logDice="11.2">
+              <comp position="1" type="headword" sloleks="LE_b037f77844164c36e844277f0e57587a">banjška</comp>
+              <comp position="2" type="collocate" sloleks="LE_659a857bbaf5658cf46e7458cfcff7eb">planota</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="banjški in/ali trnovski" cluster="1" frequency="103" logDice="13.6">
+              <comp position="3" type="headword" sloleks="LE_b037f77844164c36e844277f0e57587a">banjški</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_e702f8ae74bb43bb0fae71ae0ba31ca5">trnovski</comp>
+              </collocation>
+            <collocation form="Banjški in Šentviški" cluster="2" frequency="7" logDice="10.5">
+              <comp position="1" type="headword" sloleks="LE_b037f77844164c36e844277f0e57587a">Banjški</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_e6c66cddc9467af8d130ca1d47ac9e68">Šentviški</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

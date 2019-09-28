@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="76433">paberek</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">818</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="paberek s klatenja" cluster="1" frequency="9" logDice="13.58">
+              <comp position="1" type="headword" sloleks="LE_8b1fc6c1e3092b0e4926b547bfd7418c">paberek</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_0979b2a3cf1a833b6bb8c49b90a40830">klatenja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="sevniški paberek" cluster="1" frequency="621" logDice="10.32">
+              <comp position="1" type="collocate" sloleks="LE_65dedd51948f735c89f0eae9543e5544">sevniški</comp>
+              <comp position="2" type="headword" sloleks="LE_8b1fc6c1e3092b0e4926b547bfd7418c">paberek</comp>
+            </collocation>
+            <collocation form="kulturen paberek" cluster="2" frequency="57" logDice="2.47">
+              <comp position="1" type="collocate" sloleks="LE_5c6df36bdc0a2c223bcdc5b7ff33d0bf">kulturen</comp>
+              <comp position="2" type="headword" sloleks="LE_8b1fc6c1e3092b0e4926b547bfd7418c">paberek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

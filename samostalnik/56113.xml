@@ -1,0 +1,48 @@
+<entry>
+  <header>
+    <lexical_unit id="56113">fantiček</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">769</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="fantiček iz Morisa" cluster="1" frequency="6" logDice="11.75">
+              <comp position="1" type="headword" sloleks="LE_94d25154edd01bc5c59ced51395db8ea">fantiček</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_784593d16b92ddf6093b556011496a44">Morisa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="fantiček s staršem" cluster="1" frequency="6" logDice="5.18">
+              <comp position="1" type="headword" sloleks="LE_94d25154edd01bc5c59ced51395db8ea">fantiček</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee1100b135d34088f91e5c2786123e66">staršem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="štirileten fantiček" cluster="1" frequency="8" logDice="4.25">
+              <comp position="1" type="collocate" sloleks="LE_d2c1e518f042843bb5da9301d3d94107">štirileten</comp>
+              <comp position="2" type="headword" sloleks="LE_94d25154edd01bc5c59ced51395db8ea">fantiček</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="zgodba o fantičku" cluster="1" frequency="4" logDice="1.17">
+              <comp position="1" type="collocate" sloleks="LE_9d9531a39496cd12f07e32ab50c0280f">zgodba</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_94d25154edd01bc5c59ced51395db8ea">fantičku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

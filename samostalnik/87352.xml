@@ -1,0 +1,40 @@
+<entry>
+  <header>
+    <lexical_unit id="87352">samospraševanje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">471</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 o sbz5">
+          <collocations>
+            <collocation form="samospraševanje o smislu" cluster="1" frequency="10" logDice="8.6">
+              <comp position="1" type="headword" sloleks="LE_e9d5b6ff5cb56c20cbf491d70b78e7cf">samospraševanje</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="collocate" sloleks="LE_5360d45e9cbd1bd626d7f2caefd4dff5">smislu</comp>
+            </collocation>
+            <collocation form="samospraševanje o usodi" cluster="2" frequency="4" logDice="5.21">
+              <comp position="1" type="headword" sloleks="LE_e9d5b6ff5cb56c20cbf491d70b78e7cf">samospraševanje</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="collocate" sloleks="LE_b1d14ebdc7a6abd9b935251ee7b61ba2">usodi</comp>
+            </collocation>
+            <collocation form="samospraševanje o pomenu" cluster="3" frequency="4" logDice="5.11">
+              <comp position="1" type="headword" sloleks="LE_e9d5b6ff5cb56c20cbf491d70b78e7cf">samospraševanje</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="collocate" sloleks="LE_ef93d9cf9ab8a9c0f3eb6d73736a9dba">pomenu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nenehno samospraševanje" cluster="1" frequency="11" logDice="3.73">
+              <comp position="1" type="collocate" sloleks="LE_5e067753eeef252241ef0e826d166bdb">nenehno</comp>
+              <comp position="2" type="headword" sloleks="LE_e9d5b6ff5cb56c20cbf491d70b78e7cf">samospraševanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

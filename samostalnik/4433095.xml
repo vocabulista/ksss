@@ -1,0 +1,36 @@
+<entry>
+  <header>
+    <lexical_unit id="4433095">vintage</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="vintage popa" cluster="1" frequency="11" logDice="6.45">
+              <comp position="1" type="headword" sloleks="">vintage</comp>
+              <comp position="2" type="collocate" sloleks="LE_876aafd5f384ec876a0918bfd9dd89f7">popa</comp>
+            </collocation>
+            <collocation form="vintage oblačila" cluster="2" frequency="11" logDice="4.27">
+              <comp position="1" type="headword" sloleks="">vintage</comp>
+              <comp position="2" type="collocate" sloleks="LE_bd99cf35070ea402a178ea6ec61df2cc">oblačila</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="rajski vintage" cluster="1" frequency="11" logDice="6.11">
+              <comp position="1" type="collocate" sloleks="LE_0864536887f4906322b4942a70cee2f3">rajski</comp>
+              <comp position="2" type="headword" sloleks="">vintage</comp>
+            </collocation>
+            <collocation form="moderen vintage" cluster="2" frequency="10" logDice="2.33">
+              <comp position="1" type="collocate" sloleks="LE_ae5afa2257c97ab88834a620cbbe137b">moderen</comp>
+              <comp position="2" type="headword" sloleks="">vintage</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

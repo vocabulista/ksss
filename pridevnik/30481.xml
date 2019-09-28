@@ -1,0 +1,61 @@
+<entry>
+  <header>
+    <lexical_unit id="30481">prenasičen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">563</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="prenasičena raztopina" cluster="1" frequency="13" logDice="6.3">
+              <comp position="1" type="headword" sloleks="LE_05f626022f4969aabeb73553614706b5">prenasičena</comp>
+              <comp position="2" type="collocate" sloleks="LE_99118d1cf7e8eb81382696a3adfb3a75">raztopina</comp>
+            </collocation>
+            <collocation form="prenasičeno tržišče" cluster="2" frequency="6" logDice="3.96">
+              <comp position="1" type="headword" sloleks="LE_05f626022f4969aabeb73553614706b5">prenasičeno</comp>
+              <comp position="2" type="collocate" sloleks="LE_56855dfd3b4caa2aa0eb72557782c581">tržišče</comp>
+            </collocation>
+            <collocation form="prenasičen trg" cluster="3" frequency="33" logDice="1.64">
+              <comp position="1" type="headword" sloleks="LE_05f626022f4969aabeb73553614706b5">prenasičen</comp>
+              <comp position="2" type="collocate" sloleks="LE_b735dfd291d0abd31eeabd75c4133487">trg</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 z sbz6">
+          <collocations>
+            <collocation form="prenasičen z vlago" cluster="1" frequency="7" logDice="9.52">
+              <comp position="1" type="headword" sloleks="LE_05f626022f4969aabeb73553614706b5">prenasičen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_a14787eb95aceaceb8202a871351e8cc">vlago</comp>
+            </collocation>
+            <collocation form="prenasičen s podatkom" cluster="2" frequency="10" logDice="7.65">
+              <comp position="1" type="headword" sloleks="LE_05f626022f4969aabeb73553614706b5">prenasičen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_dceff032dbcde0be8f54f9dd068c8f74">podatkom</comp>
+            </collocation>
+            <collocation form="prenasičen z informacijo" cluster="3" frequency="6" logDice="7.59">
+              <comp position="1" type="headword" sloleks="LE_05f626022f4969aabeb73553614706b5">prenasičen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_3767bb8b14e0a27c8f520cfa7e003a14">informacijo</comp>
+            </collocation>
+            <collocation form="prenasičen s ponudbo" cluster="4" frequency="5" logDice="7.34">
+              <comp position="1" type="headword" sloleks="LE_05f626022f4969aabeb73553614706b5">prenasičen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_d9e3765be172d6f3372cede08396a2f8">ponudbo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="nekoliko prenasičen" cluster="1" frequency="8" logDice="1.15">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_05f626022f4969aabeb73553614706b5">prenasičen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

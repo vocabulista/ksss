@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="10341">zlatiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">478</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="zlatiti na igri" cluster="1" frequency="4" logDice="3.68">
+              <comp position="1" type="headword" sloleks="LE_6f2a7a05de6b51b04841d6244b551ad8">zlatiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_61ca0973ad331da91acd1b8da555233b">igri</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="zlatiti globus" cluster="1" frequency="8" logDice="7.34">
+              <comp position="1" type="headword" sloleks="LE_6f2a7a05de6b51b04841d6244b551ad8">zlatiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_4129091fc4c8ce395f499b0e6bf0c6cf">globus</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="zlatiti v kombinaciji" cluster="1" frequency="4" logDice="4.8">
+              <comp position="1" type="headword" sloleks="LE_6f2a7a05de6b51b04841d6244b551ad8">zlatiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_b3ef6b5867abbf2b19225d750dea1b9c">kombinaciji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

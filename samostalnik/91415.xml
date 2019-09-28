@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="91415">stenj</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">398</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="stenj iz tekstila" cluster="1" frequency="5" logDice="9.9">
+              <comp position="1" type="headword" sloleks="LE_07c4be14b9e07899a939186fee92cabf">stenj</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="tleč stenj" cluster="1" frequency="10" logDice="8.54">
+              <comp position="1" type="collocate" sloleks="LE_96514159d7d9432b95b705316c7f415e">tleč</comp>
+              <comp position="2" type="headword" sloleks="LE_07c4be14b9e07899a939186fee92cabf">stenj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="4796237">zlata</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="zlata iz Aten" cluster="1" frequency="5" logDice="6.87">
+              <comp position="1" type="headword" sloleks="">zlata</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_448a8ca000ea8d829530bb45f4ab23f1">Aten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="srebrn zlata" cluster="1" frequency="9" logDice="2.85">
+              <comp position="1" type="collocate" sloleks="LE_449f9d1d6f19cfe7cc5deee30e5ef2e3">srebrn</comp>
+              <comp position="2" type="headword" sloleks="">zlata</comp>
+            </collocation>
+            <collocation form="pravi zlata" cluster="2" frequency="55" logDice="1.71">
+              <comp position="1" type="collocate" sloleks="LE_b6d87b136784072fa5bb21831fa825be">pravi</comp>
+              <comp position="2" type="headword" sloleks="">zlata</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="odtenek zlata" cluster="1" frequency="12" logDice="6.17">
+              <comp position="1" type="collocate" sloleks="LE_40fdd4b601f68cbf6f6a8017077690fd">odtenek</comp>
+              <comp position="2" type="headword" sloleks="">zlata</comp>
+            </collocation>
+            <collocation form="pridih zlata" cluster="2" frequency="8" logDice="5.61">
+              <comp position="1" type="collocate" sloleks="LE_ee064d0efe293315adf9bab78b7d372c">pridih</comp>
+              <comp position="2" type="headword" sloleks="">zlata</comp>
+            </collocation>
+            <collocation form="dobitnik zlata" cluster="3" frequency="8" logDice="3.91">
+              <comp position="1" type="collocate" sloleks="LE_21eda44b81f6cf40bcebf59b22846a4f">dobitnik</comp>
+              <comp position="2" type="headword" sloleks="">zlata</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

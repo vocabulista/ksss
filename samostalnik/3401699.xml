@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="3401699">remaka</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="remaka klasike" cluster="1" frequency="21" logDice="8.0">
+              <comp position="1" type="headword" sloleks="">remaka</comp>
+              <comp position="2" type="collocate" sloleks="LE_13297d7ac26c9dc62bedf184c22badf3">klasike</comp>
+            </collocation>
+            <collocation form="remaka hita" cluster="2" frequency="9" logDice="5.55">
+              <comp position="1" type="headword" sloleks="">remaka</comp>
+              <comp position="2" type="collocate" sloleks="LE_3a1d84f31bf348a0aaf2036911bc162b">hita</comp>
+            </collocation>
+            <collocation form="remaka filma" cluster="3" frequency="96" logDice="4.84">
+              <comp position="1" type="headword" sloleks="">remaka</comp>
+              <comp position="2" type="collocate" sloleks="LE_ef1ac12433b4b7e1e0c31edb0c726d89">filma</comp>
+            </collocation>
+            <collocation form="remaka komedije" cluster="3" frequency="8" logDice="4.7">
+              <comp position="1" type="headword" sloleks="">remaka</comp>
+              <comp position="2" type="collocate" sloleks="LE_61839df385db6c26bcf58200aa5e072e">komedije</comp>
+            </collocation>
+            <collocation form="bistvo remaka" cluster="4" frequency="5" logDice="3.0">
+              <comp position="1" type="collocate" sloleks="LE_6e6c9727155a267a08857d14246e4102">bistvo</comp>
+              <comp position="2" type="headword" sloleks="">remaka</comp>
+            </collocation>
+            <collocation form="film remaka" cluster="5" frequency="8" logDice="2.85">
+              <comp position="1" type="collocate" sloleks="LE_ef1ac12433b4b7e1e0c31edb0c726d89">film</comp>
+              <comp position="2" type="headword" sloleks="">remaka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za remaka" cluster="1" frequency="22" logDice="0.86">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="">remaka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="65346">kozlič</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">626</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="kozlič z rodovnikom" cluster="1" frequency="42" logDice="10.89">
+              <comp position="1" type="headword" sloleks="LE_b95c467691198d21c3fc25488bd1e7e0">kozlič</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_8927c4733f249658170fa77688e1aa81">rodovnikom</comp>
+            </collocation>
+            <collocation form="koza s kozličem" cluster="2" frequency="10" logDice="9.89">
+              <comp position="1" type="collocate" sloleks="LE_3a8169c05dafcda2a42e079828889525">koza</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_b95c467691198d21c3fc25488bd1e7e0">kozličem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="kozlič za zakol" cluster="1" frequency="14" logDice="7.15">
+              <comp position="1" type="headword" sloleks="LE_b95c467691198d21c3fc25488bd1e7e0">kozlič</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_c85da6e3474f7f810f37e1b15c1097c3">zakol</comp>
+            </collocation>
+            <collocation form="kozlič za rejo" cluster="2" frequency="4" logDice="5.79">
+              <comp position="1" type="headword" sloleks="LE_b95c467691198d21c3fc25488bd1e7e0">kozlič</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_7ab9f315ad27dd19d76eb4c6d2e4b90c">rejo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="burski kozlič" cluster="1" frequency="73" logDice="10.53">
+              <comp position="1" type="collocate" sloleks="LE_7bf272fa3d3ad6699d51e0d526e893b2">burski</comp>
+              <comp position="2" type="headword" sloleks="LE_b95c467691198d21c3fc25488bd1e7e0">kozlič</comp>
+            </collocation>
+            <collocation form="gorski kozlič" cluster="2" frequency="15" logDice="3.16">
+              <comp position="1" type="collocate" sloleks="LE_064250407bf8c9840ce362666476644e">gorski</comp>
+              <comp position="2" type="headword" sloleks="LE_b95c467691198d21c3fc25488bd1e7e0">kozlič</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="meso kozliča" cluster="1" frequency="20" logDice="6.85">
+              <comp position="1" type="collocate" sloleks="LE_4aa90a3e352de0e91eff0dc41f04a0ea">meso</comp>
+              <comp position="2" type="headword" sloleks="LE_b95c467691198d21c3fc25488bd1e7e0">kozliča</comp>
+            </collocation>
+            <collocation form="koža kozliča" cluster="2" frequency="10" logDice="5.53">
+              <comp position="1" type="collocate" sloleks="LE_1204dd81b00363a398d5f5a84ff9f358">koža</comp>
+              <comp position="2" type="headword" sloleks="LE_b95c467691198d21c3fc25488bd1e7e0">kozliča</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="34027">sladkosned</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">865</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="sladkosneda mlekarna" cluster="1" frequency="40" logDice="6.85">
+              <comp position="1" type="headword" sloleks="LE_7b59d49b5befd891296f027ba15a1a46">sladkosneda</comp>
+              <comp position="2" type="collocate" sloleks="LE_598d2d5058f43b990f51e0ff15d3fcc7">mlekarna</comp>
+            </collocation>
+            <collocation form="sladkosned medvedek" cluster="2" frequency="11" logDice="6.4">
+              <comp position="1" type="headword" sloleks="LE_7b59d49b5befd891296f027ba15a1a46">sladkosned</comp>
+              <comp position="2" type="collocate" sloleks="LE_b8653822bfd03c0f960fbe86f88ab26d">medvedek</comp>
+            </collocation>
+            <collocation form="sladkosned otrok" cluster="3" frequency="7" logDice="0.6">
+              <comp position="1" type="headword" sloleks="LE_7b59d49b5befd891296f027ba15a1a46">sladkosned</comp>
+              <comp position="2" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otrok</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="preveč sladkosned" cluster="1" frequency="5" logDice="0.61">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_7b59d49b5befd891296f027ba15a1a46">sladkosned</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="83516">priroda</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">450</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="mrtva priroda" cluster="1" frequency="25" logDice="4.63">
+              <comp position="1" type="collocate" sloleks="LE_cb5f532d4270d28973cc89f7ded21a6f">mrtva</comp>
+              <comp position="2" type="headword" sloleks="LE_91e406b9568b8b3f45c5421c932b801d">priroda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="park prirode" cluster="1" frequency="20" logDice="6.1">
+              <comp position="1" type="collocate" sloleks="LE_8defe76333f9efdca7f4ffcd6087c94e">park</comp>
+              <comp position="2" type="headword" sloleks="LE_91e406b9568b8b3f45c5421c932b801d">prirode</comp>
+            </collocation>
+            <collocation form="dar prirode" cluster="2" frequency="6" logDice="5.57">
+              <comp position="1" type="collocate" sloleks="LE_f016e68deb16138987b9d409e40f7569">dar</comp>
+              <comp position="2" type="headword" sloleks="LE_91e406b9568b8b3f45c5421c932b801d">prirode</comp>
+            </collocation>
+            <collocation form="varstvo prirode" cluster="3" frequency="19" logDice="2.85">
+              <comp position="1" type="collocate" sloleks="LE_a4772470cb0cf8ed30edb1806bba60c6">varstvo</comp>
+              <comp position="2" type="headword" sloleks="LE_91e406b9568b8b3f45c5421c932b801d">prirode</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

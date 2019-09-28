@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="349289">consulting</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Consulting iz Ljubljane" cluster="1" frequency="29" logDice="4.58">
+              <comp position="1" type="headword" sloleks="">Consulting</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee11c4f6f901052d38c8252202477c9e">Ljubljane</comp>
+            </collocation>
+            <collocation form="consulting iz Velenja" cluster="2" frequency="4" logDice="4.25">
+              <comp position="1" type="headword" sloleks="">consulting</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_74c8dc0341686cfebe69c0f3dc7ef72c">Velenja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Pay consulting" cluster="1" frequency="11" logDice="11.75">
+              <comp position="1" type="collocate" sloleks="">Pay</comp>
+              <comp position="2" type="headword" sloleks="">consulting</comp>
+            </collocation>
+            <collocation form="kompas consulting" cluster="2" frequency="7" logDice="8.94">
+              <comp position="1" type="collocate" sloleks="LE_bc4ba9f982582e170db78435e4785dc3">kompas</comp>
+              <comp position="2" type="headword" sloleks="">consulting</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

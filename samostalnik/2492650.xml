@@ -1,0 +1,29 @@
+<entry>
+  <header>
+    <lexical_unit id="2492650">peče</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="peče z zvezdnikom" cluster="1" frequency="4" logDice="6.84">
+              <comp position="1" type="headword" sloleks="">peče</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_333e61a47fb19f0de86501a56f64c4f8">zvezdnikom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="sam peče" cluster="1" frequency="21" logDice="0.83">
+              <comp position="1" type="collocate" sloleks="LE_5a6609dcb51dca73f05e113a9b57dea0">sam</comp>
+              <comp position="2" type="headword" sloleks="">peče</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

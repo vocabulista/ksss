@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="1192">globalizirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">455</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="globalizirati poslovanje" cluster="1" frequency="5" logDice="3.83">
+              <comp position="1" type="headword" sloleks="LE_7819d22268f0096790274ece41240434">globalizirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_a40b6deb4d00eb82c4b5b9303ed451e6">poslovanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="pospešeno globalizirati" cluster="1" frequency="7" logDice="4.4">
+              <comp position="1" type="collocate" sloleks="">pospešeno</comp>
+              <comp position="2" type="headword" sloleks="LE_7819d22268f0096790274ece41240434">globalizirati</comp>
+            </collocation>
+            <collocation form="intenzivno globalizirati" cluster="2" frequency="6" logDice="3.4">
+              <comp position="1" type="collocate" sloleks="LE_53d0232447bd782d9fae332e003977a1">intenzivno</comp>
+              <comp position="2" type="headword" sloleks="LE_7819d22268f0096790274ece41240434">globalizirati</comp>
+            </collocation>
+            <collocation form="bolj globalizirati" cluster="3" frequency="28" logDice="1.84">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_7819d22268f0096790274ece41240434">globalizirati</comp>
+            </collocation>
+            <collocation form="hitro globalizirati" cluster="4" frequency="12" logDice="0.84">
+              <comp position="1" type="collocate" sloleks="LE_cb95fbdb78349dad33e3d99ea7f281a8">hitro</comp>
+              <comp position="2" type="headword" sloleks="LE_7819d22268f0096790274ece41240434">globalizirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

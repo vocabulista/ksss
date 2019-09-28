@@ -1,0 +1,57 @@
+<entry>
+  <header>
+    <lexical_unit id="79812">politkomisar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">812</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="politkomisar bataljona" cluster="1" frequency="10" logDice="6.1">
+              <comp position="1" type="headword" sloleks="LE_585aff006665bd55d610619d6d477b84">politkomisar</comp>
+              <comp position="2" type="collocate" sloleks="LE_4eed01f6efbeb12fe6a3409d3ab5d72b">bataljona</comp>
+            </collocation>
+            <collocation form="politkomisar brigade" cluster="1" frequency="8" logDice="5.01">
+              <comp position="1" type="headword" sloleks="LE_585aff006665bd55d610619d6d477b84">politkomisar</comp>
+              <comp position="2" type="collocate" sloleks="LE_2d93bfdd4e0cb091ae4b14a7b6e05fd9">brigade</comp>
+            </collocation>
+            <collocation form="politkomisar divizije" cluster="2" frequency="12" logDice="5.79">
+              <comp position="1" type="headword" sloleks="LE_585aff006665bd55d610619d6d477b84">politkomisar</comp>
+              <comp position="2" type="collocate" sloleks="LE_7832d952bf9275e690550d01a77848f6">divizije</comp>
+            </collocation>
+            <collocation form="pomočnik politkomisarja" cluster="3" frequency="9" logDice="3.99">
+              <comp position="1" type="collocate" sloleks="LE_aff9ec6b441a7e68ce3457ba06108480">pomočnik</comp>
+              <comp position="2" type="headword" sloleks="LE_585aff006665bd55d610619d6d477b84">politkomisarja</comp>
+            </collocation>
+            <collocation form="funkcija politkomisarja" cluster="4" frequency="5" logDice="2.21">
+              <comp position="1" type="collocate" sloleks="LE_d3ec58edca217a31a8eacf1bf15f745f">funkcija</comp>
+              <comp position="2" type="headword" sloleks="LE_585aff006665bd55d610619d6d477b84">politkomisarja</comp>
+            </collocation>
+            <collocation form="vloga politkomisarja" cluster="5" frequency="11" logDice="1.52">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_585aff006665bd55d610619d6d477b84">politkomisarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="partizanski politkomisar" cluster="1" frequency="12" logDice="4.0">
+              <comp position="1" type="collocate" sloleks="LE_f03e2685790b45d1d1d427d8b39e6b69">partizanski</comp>
+              <comp position="2" type="headword" sloleks="LE_585aff006665bd55d610619d6d477b84">politkomisar</comp>
+            </collocation>
+            <collocation form="komunističen politkomisar" cluster="1" frequency="9" logDice="2.91">
+              <comp position="1" type="collocate" sloleks="LE_06af3663b0d0a14b9482ae984fa41d59">komunističen</comp>
+              <comp position="2" type="headword" sloleks="LE_585aff006665bd55d610619d6d477b84">politkomisar</comp>
+            </collocation>
+            <collocation form="razen politkomisar" cluster="2" frequency="9" logDice="1.46">
+              <comp position="1" type="collocate" sloleks="LE_10ab2d5761b41f492d84f334d55dcdd9">razen</comp>
+              <comp position="2" type="headword" sloleks="LE_585aff006665bd55d610619d6d477b84">politkomisar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

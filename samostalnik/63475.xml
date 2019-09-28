@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="63475">kiborg</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">751</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="kiborg iz prihodnosti" cluster="1" frequency="5" logDice="9.15">
+              <comp position="1" type="headword" sloleks="LE_2eaa88dc659b8df3dd2826003d4d0411">kiborg</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_0f987c9335ef2920c7afd61c36a192ed">prihodnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="kiborg z močjo" cluster="1" frequency="6" logDice="3.97">
+              <comp position="1" type="headword" sloleks="LE_2eaa88dc659b8df3dd2826003d4d0411">kiborg</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_0b71c85c50e39f2c8cb5e91791d67af9">močjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="vloga kiborga" cluster="1" frequency="7" logDice="0.87">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_2eaa88dc659b8df3dd2826003d4d0411">kiborga</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

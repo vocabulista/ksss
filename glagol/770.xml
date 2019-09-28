@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="770">demonizirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">441</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ do sbz2">
+          <collocations>
+            <collocation form="demonizirati do skrajnosti" cluster="1" frequency="5" logDice="6.61">
+              <comp position="1" type="headword" sloleks="LE_196edca6a9c525e188a13b0dd60c903e">demonizirati</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_c818d63dde8960c70ce23b043c59f446">skrajnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="demonizirati komunizem" cluster="1" frequency="7" logDice="8.13">
+              <comp position="1" type="headword" sloleks="LE_196edca6a9c525e188a13b0dd60c903e">demonizirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6c95ce1c2055ffe2080794db80555449">komunizem</comp>
+            </collocation>
+            <collocation form="demonizirati nasprotnika" cluster="2" frequency="4" logDice="4.19">
+              <comp position="1" type="headword" sloleks="LE_196edca6a9c525e188a13b0dd60c903e">demonizirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_09d7e4752e896fdc530a59483161bb43">nasprotnika</comp>
+            </collocation>
+            <collocation form="demonizirati moškega" cluster="3" frequency="7" logDice="3.86">
+              <comp position="1" type="headword" sloleks="LE_196edca6a9c525e188a13b0dd60c903e">demonizirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_25c4075e38aa692c9790c4ffdb7260db">moškega</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="preveč demonizirati" cluster="1" frequency="4" logDice="1.02">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_196edca6a9c525e188a13b0dd60c903e">demonizirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

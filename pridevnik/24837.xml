@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="24837">napumpan</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">494</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="napumpan ego" cluster="1" frequency="8" logDice="6.68">
+              <comp position="1" type="headword" sloleks="LE_e2956299db6952a036734e65e06726f2">napumpan</comp>
+              <comp position="2" type="collocate" sloleks="LE_9456d1510d7e3443a0a222c1c68245b3">ego</comp>
+            </collocation>
+            <collocation form="napumpana ustnica" cluster="2" frequency="11" logDice="5.16">
+              <comp position="1" type="headword" sloleks="LE_e2956299db6952a036734e65e06726f2">napumpana</comp>
+              <comp position="2" type="collocate" sloleks="LE_e7f2a87a0e07f0f78ed928d807514e00">ustnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="medijsko napumpan" cluster="1" frequency="5" logDice="5.3">
+              <comp position="1" type="collocate" sloleks="LE_06e1387076ce4fd42510d669f9e70057">medijsko</comp>
+              <comp position="2" type="headword" sloleks="LE_e2956299db6952a036734e65e06726f2">napumpan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

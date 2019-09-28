@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="41464">kmečko</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">651</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ pbz0">
+          <collocations>
+            <collocation form="kmečko zavarovan" cluster="1" frequency="31" logDice="6.85">
+              <comp position="1" type="headword" sloleks="LE_f5dade9483e5af311e158996d925fea0">kmečko</comp>
+              <comp position="2" type="collocate" sloleks="LE_e580e656428c9de8122005888823fe35">zavarovan</comp>
+            </collocation>
+            <collocation form="kmečko oblečen" cluster="2" frequency="15" logDice="5.41">
+              <comp position="1" type="headword" sloleks="LE_f5dade9483e5af311e158996d925fea0">kmečko</comp>
+              <comp position="2" type="collocate" sloleks="LE_907ce3a399860e6fabad64ffedee2fd5">oblečen</comp>
+            </collocation>
+            <collocation form="kmečko povedan" cluster="3" frequency="8" logDice="4.55">
+              <comp position="1" type="headword" sloleks="LE_f5dade9483e5af311e158996d925fea0">kmečko</comp>
+              <comp position="2" type="collocate" sloleks="LE_d2433a4ef765d7a4b902737f4be0fe5f">povedan</comp>
+            </collocation>
+            <collocation form="kmečko rečen" cluster="3" frequency="6" logDice="3.45">
+              <comp position="1" type="headword" sloleks="LE_f5dade9483e5af311e158996d925fea0">kmečko</comp>
+              <comp position="2" type="collocate" sloleks="LE_060a6b25729348633d14f37f873aa6e6|LE_183d5da8633130663bd271cd421da0d6">rečen</comp>
+            </collocation>
+            <collocation form="kmečko obarvan" cluster="4" frequency="5" logDice="3.33">
+              <comp position="1" type="headword" sloleks="LE_f5dade9483e5af311e158996d925fea0">kmečko</comp>
+              <comp position="2" type="collocate" sloleks="LE_a8939ae5f417d746a9f50cc591963dff">obarvan</comp>
+            </collocation>
+            <collocation form="kmečko rdeč" cluster="4" frequency="4" logDice="2.91">
+              <comp position="1" type="headword" sloleks="LE_f5dade9483e5af311e158996d925fea0">kmečko</comp>
+              <comp position="2" type="collocate" sloleks="LE_f39824a0a0c94efb31b4fa9dc908ea0f">rdeč</comp>
+            </collocation>
+            <collocation form="kmečko preprost" cluster="5" frequency="4" logDice="2.37">
+              <comp position="1" type="headword" sloleks="LE_f5dade9483e5af311e158996d925fea0">kmečko</comp>
+              <comp position="2" type="collocate" sloleks="LE_a53fa6e02611481ace6ff204a2ed79b7">preprost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz RBZ">
+          <collocations>
+            <collocation form="zdravo kmečko" cluster="1" frequency="11" logDice="10.26">
+              <comp position="1" type="collocate" sloleks="LE_6b26d61ead5e00ea3ba6772184e3abbb">zdravo</comp>
+              <comp position="2" type="headword" sloleks="LE_f5dade9483e5af311e158996d925fea0">kmečko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="8629">tajati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">584</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="tajati Zuccato" cluster="1" frequency="65" logDice="13.64">
+              <comp position="1" type="headword" sloleks="LE_3163c38bbc07f9c24e554939dd6972ec">tajati</comp>
+              <comp position="2" type="collocate" sloleks="">Zuccato</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="vidno tajati" cluster="1" frequency="6" logDice="4.89">
+              <comp position="1" type="collocate" sloleks="LE_af8523887c9c1966ef6e8e667cd34941">vidno</comp>
+              <comp position="2" type="headword" sloleks="LE_3163c38bbc07f9c24e554939dd6972ec">tajati</comp>
+            </collocation>
+            <collocation form="počasi tajati" cluster="2" frequency="21" logDice="2.99">
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              <comp position="2" type="headword" sloleks="LE_3163c38bbc07f9c24e554939dd6972ec">tajati</comp>
+            </collocation>
+            <collocation form="obenem tajati" cluster="3" frequency="5" logDice="2.49">
+              <comp position="1" type="collocate" sloleks="LE_553cdd1384a7552893c0da0f47e5c881">obenem</comp>
+              <comp position="2" type="headword" sloleks="LE_3163c38bbc07f9c24e554939dd6972ec">tajati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

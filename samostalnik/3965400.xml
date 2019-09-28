@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="3965400">svetek</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="svetek za obred" cluster="1" frequency="4" logDice="4.36">
+              <comp position="1" type="headword" sloleks="">svetek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_ce6dbc4ab57623c0cf8df2a09038acb5">obred</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="petek svetek" cluster="1" frequency="20" logDice="7.76">
+              <comp position="1" type="collocate" sloleks="LE_5bf6b929ad8153cb2bbabdeed66bfc76">petek</comp>
+              <comp position="2" type="headword" sloleks="">svetek</comp>
+            </collocation>
+            <collocation form="Blaž svetek" cluster="2" frequency="6" logDice="5.6">
+              <comp position="1" type="collocate" sloleks="LE_766d71249990c41395b1076d3b669139">Blaž</comp>
+              <comp position="2" type="headword" sloleks="">svetek</comp>
+            </collocation>
+            <collocation form="Franca svetek" cluster="3" frequency="5" logDice="3.87">
+              <comp position="1" type="collocate" sloleks="LE_af951e0f432c2e8cbfdbb389a662c8e7|LE_4156c4bb92fb3fd1350ac80f5a10a209">Franca</comp>
+              <comp position="2" type="headword" sloleks="">svetek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 do SBZ2">
+          <collocations>
+            <collocation form="petek do svetek" cluster="1" frequency="15" logDice="7.68">
+              <comp position="1" type="collocate" sloleks="LE_5bf6b929ad8153cb2bbabdeed66bfc76">petek</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="">svetek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

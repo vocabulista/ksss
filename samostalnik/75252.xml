@@ -1,0 +1,48 @@
+<entry>
+  <header>
+    <lexical_unit id="75252">omelo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">432</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="omelo za prah" cluster="1" frequency="13" logDice="8.79">
+              <comp position="1" type="headword" sloleks="LE_d3eedb65bf61db15f20805ff376987d3">omelo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_f008a2461c4528d811b780a909ecb052">prah</comp>
+            </collocation>
+            <collocation form="omelo za čiščenje" cluster="2" frequency="11" logDice="5.99">
+              <comp position="1" type="headword" sloleks="LE_d3eedb65bf61db15f20805ff376987d3">omelo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_a7f24c46cb9b6a4cef834d73f0207d36">čiščenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="pomesti z omelom" cluster="1" frequency="7" logDice="6.19">
+              <comp position="1" type="collocate" sloleks="LE_a534d30ef27443204d501169d42edee1">pomesti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d3eedb65bf61db15f20805ff376987d3">omelom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pernato omelo" cluster="1" frequency="12" logDice="7.76">
+              <comp position="1" type="collocate" sloleks="LE_ed1f9a473f3fd7b32bd662955edff15e">pernato</comp>
+              <comp position="2" type="headword" sloleks="LE_d3eedb65bf61db15f20805ff376987d3">omelo</comp>
+            </collocation>
+            <collocation form="belo omelo" cluster="2" frequency="35" logDice="2.14">
+              <comp position="1" type="collocate" sloleks="LE_50f9b0a6743feeba2fd5482919490dd5">belo</comp>
+              <comp position="2" type="headword" sloleks="LE_d3eedb65bf61db15f20805ff376987d3">omelo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="77465">perjanica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">526</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="perjanica iz peresa" cluster="1" frequency="4" logDice="9.86">
+              <comp position="1" type="headword" sloleks="LE_2cf65eea0f55fa9e5f8bc03592991368">perjanica</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_da8f6538924a16d19a710b0d88d94761">peresa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="indijanska perjanica" cluster="1" frequency="20" logDice="6.55">
+              <comp position="1" type="collocate" sloleks="LE_88f8089f69d58258eddb98fc6ee9fa63">indijanska</comp>
+              <comp position="2" type="headword" sloleks="LE_2cf65eea0f55fa9e5f8bc03592991368">perjanica</comp>
+            </collocation>
+            <collocation form="pisana perjanica" cluster="2" frequency="9" logDice="3.37">
+              <comp position="1" type="collocate" sloleks="LE_8e94767c51196b3b4c3688a82597a53c">pisana</comp>
+              <comp position="2" type="headword" sloleks="LE_2cf65eea0f55fa9e5f8bc03592991368">perjanica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="papiga s perjanico" cluster="1" frequency="5" logDice="10.51">
+              <comp position="1" type="collocate" sloleks="LE_0502bd15c05d7ae85dfb1e9a0af353ee">papiga</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_2cf65eea0f55fa9e5f8bc03592991368">perjanico</comp>
+            </collocation>
+            <collocation form="Indijanec s perjanico" cluster="2" frequency="4" logDice="9.83">
+              <comp position="1" type="collocate" sloleks="LE_d1c30a63e2dac01f62551a2c40ff93e6">Indijanec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_2cf65eea0f55fa9e5f8bc03592991368">perjanico</comp>
+            </collocation>
+            <collocation form="čelada s perjanico" cluster="3" frequency="5" logDice="8.54">
+              <comp position="1" type="collocate" sloleks="LE_1a63704bfbdb7a7dae0ecc86a26d00cf">čelada</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_2cf65eea0f55fa9e5f8bc03592991368">perjanico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

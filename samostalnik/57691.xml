@@ -1,0 +1,68 @@
+<entry>
+  <header>
+    <lexical_unit id="57691">gluhost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">409</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="gluhost z uporabo" cluster="1" frequency="9" logDice="5.36">
+              <comp position="1" type="headword" sloleks="LE_7fe25ab0628301c2f3192e6f6b79ae5a">gluhost</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_9999e7dc3b8f5571ba09e352c31aea3f">uporabo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za gluhost" cluster="1" frequency="4" logDice="-1.6">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_7fe25ab0628301c2f3192e6f6b79ae5a">gluhost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="dedna gluhost" cluster="1" frequency="10" logDice="5.43">
+              <comp position="1" type="collocate" sloleks="LE_2e4abcdf9ac8f77eec0082617389b913">dedna</comp>
+              <comp position="2" type="headword" sloleks="LE_7fe25ab0628301c2f3192e6f6b79ae5a">gluhost</comp>
+            </collocation>
+            <collocation form="popolna gluhost" cluster="2" frequency="12" logDice="1.67">
+              <comp position="1" type="collocate" sloleks="LE_814a2c9c333ef1e9cb481395c05b7346">popolna</comp>
+              <comp position="2" type="headword" sloleks="LE_7fe25ab0628301c2f3192e6f6b79ae5a">gluhost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="občutek gluhosti" cluster="1" frequency="14" logDice="3.18">
+              <comp position="1" type="collocate" sloleks="LE_23671e6156ee6c327e7c512a951bd4f3">občutek</comp>
+              <comp position="2" type="headword" sloleks="LE_7fe25ab0628301c2f3192e6f6b79ae5a">gluhosti</comp>
+            </collocation>
+            <collocation form="zdravljenje gluhosti" cluster="2" frequency="10" logDice="3.1">
+              <comp position="1" type="collocate" sloleks="LE_7c0137a5473fd91b204bdf5ea8e08de5">zdravljenje</comp>
+              <comp position="2" type="headword" sloleks="LE_7fe25ab0628301c2f3192e6f6b79ae5a">gluhosti</comp>
+            </collocation>
+            <collocation form="oblika gluhosti" cluster="3" frequency="9" logDice="0.54">
+              <comp position="1" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">oblika</comp>
+              <comp position="2" type="headword" sloleks="LE_7fe25ab0628301c2f3192e6f6b79ae5a">gluhosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="vzrok za gluhost" cluster="1" frequency="5" logDice="2.34">
+              <comp position="1" type="collocate" sloleks="LE_512feae3d46dd338651f56dfb32f271e">vzrok</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_7fe25ab0628301c2f3192e6f6b79ae5a">gluhost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

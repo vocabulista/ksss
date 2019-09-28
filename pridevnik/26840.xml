@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="26840">odgovorjen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">635</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 na sbz4">
+          <collocations>
+            <collocation form="odgovorjen na vprašanje" cluster="1" frequency="34" logDice="10.65">
+              <comp position="1" type="headword" sloleks="LE_cfef7e569a6d602a1018521f67049240">odgovorjen</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_18ddad642f4f2459ae6eda5f8fcda990">vprašanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="zadovoljivo odgovorjen" cluster="1" frequency="5" logDice="6.72">
+              <comp position="1" type="collocate" sloleks="LE_b48cbebacc6d0a35c18eccaf4a5849d8">zadovoljivo</comp>
+              <comp position="2" type="headword" sloleks="LE_cfef7e569a6d602a1018521f67049240">odgovorjen</comp>
+            </collocation>
+            <collocation form="nikoli odgovorjen" cluster="2" frequency="19" logDice="5.01">
+              <comp position="1" type="collocate" sloleks="LE_6ffec37fc59ab2f513410468cce388b4">nikoli</comp>
+              <comp position="2" type="headword" sloleks="LE_cfef7e569a6d602a1018521f67049240">odgovorjen</comp>
+            </collocation>
+            <collocation form="pravilno odgovorjen" cluster="3" frequency="9" logDice="4.4">
+              <comp position="1" type="collocate" sloleks="LE_44bdfefdf121488457dafd037cc5e133">pravilno</comp>
+              <comp position="2" type="headword" sloleks="LE_cfef7e569a6d602a1018521f67049240">odgovorjen</comp>
+            </collocation>
+            <collocation form="jasno odgovorjen" cluster="4" frequency="10" logDice="4.1">
+              <comp position="1" type="collocate" sloleks="LE_115765502e00089ae777b31b616c3576">jasno</comp>
+              <comp position="2" type="headword" sloleks="LE_cfef7e569a6d602a1018521f67049240">odgovorjen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

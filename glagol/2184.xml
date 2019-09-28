@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="2184">koreografirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">407</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="koreografirati balet" cluster="1" frequency="5" logDice="8.6">
+              <comp position="1" type="headword" sloleks="LE_ac8a6e5d5f9acff1aab76cd4bbd24995">koreografirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_0ee0367d74b36ba7b793efb7212c223f">balet</comp>
+            </collocation>
+            <collocation form="koreografirati predstavo" cluster="2" frequency="18" logDice="4.74">
+              <comp position="1" type="headword" sloleks="LE_ac8a6e5d5f9acff1aab76cd4bbd24995">koreografirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_d9b3b0d634fe5397b484fa7a2db17b0c">predstavo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="koreografirati za hčer" cluster="1" frequency="7" logDice="9.07">
+              <comp position="1" type="headword" sloleks="LE_ac8a6e5d5f9acff1aab76cd4bbd24995">koreografirati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_548160594c54c41472ed7de0d4dde6b4">hčer</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

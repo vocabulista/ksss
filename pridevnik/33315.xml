@@ -1,0 +1,83 @@
+<entry>
+  <header>
+    <lexical_unit id="33315">sekvenčen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1420</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="sekvenčno prestavljanje" cluster="1" frequency="150" logDice="10.86">
+              <comp position="1" type="headword" sloleks="LE_1a0a34383284863b40d60c7c2a32e2b9">sekvenčno</comp>
+              <comp position="2" type="collocate" sloleks="LE_391c67145037b951e1db487e215fb348">prestavljanje</comp>
+            </collocation>
+            <collocation form="sekvenčno pretikanje" cluster="1" frequency="133" logDice="10.62">
+              <comp position="1" type="headword" sloleks="LE_1a0a34383284863b40d60c7c2a32e2b9">sekvenčno</comp>
+              <comp position="2" type="collocate" sloleks="LE_c79c1003786ab6b49f148c64fa5d6d4e">pretikanje</comp>
+            </collocation>
+            <collocation form="sekvenčen menjalnik" cluster="2" frequency="629" logDice="9.07">
+              <comp position="1" type="headword" sloleks="LE_1a0a34383284863b40d60c7c2a32e2b9">sekvenčen</comp>
+              <comp position="2" type="collocate" sloleks="LE_54ccf2893682aaa92aa1ebcfe899e01f">menjalnik</comp>
+            </collocation>
+            <collocation form="sekvenčno vbrizgavanje" cluster="3" frequency="13" logDice="7.45">
+              <comp position="1" type="headword" sloleks="LE_1a0a34383284863b40d60c7c2a32e2b9">sekvenčno</comp>
+              <comp position="2" type="collocate" sloleks="LE_df7dcc29a8e0b7b29f5e10007c179d21">vbrizgavanje</comp>
+            </collocation>
+            <collocation form="sekvenčen reaktor" cluster="4" frequency="16" logDice="6.52">
+              <comp position="1" type="headword" sloleks="LE_1a0a34383284863b40d60c7c2a32e2b9">sekvenčen</comp>
+              <comp position="2" type="collocate" sloleks="LE_706d5bd1a46b32453e21589afc5b7a6f">reaktor</comp>
+            </collocation>
+            <collocation form="sekvenčen vbrizg" cluster="5" frequency="12" logDice="5.87">
+              <comp position="1" type="headword" sloleks="LE_1a0a34383284863b40d60c7c2a32e2b9">sekvenčen</comp>
+              <comp position="2" type="collocate" sloleks="LE_00c5b9a1090176ec57020b9026620cc4">vbrizg</comp>
+            </collocation>
+            <collocation form="sekvenčen način" cluster="6" frequency="109" logDice="3.86">
+              <comp position="1" type="headword" sloleks="LE_1a0a34383284863b40d60c7c2a32e2b9">sekvenčen</comp>
+              <comp position="2" type="collocate" sloleks="LE_78347f5e8e1e11f66d26223c13ba02df">način</comp>
+            </collocation>
+            <collocation form="sekvenčno branje" cluster="7" frequency="7" logDice="3.54">
+              <comp position="1" type="headword" sloleks="LE_1a0a34383284863b40d60c7c2a32e2b9">sekvenčno</comp>
+              <comp position="2" type="collocate" sloleks="LE_13dc2d254c12c276765c80cba5a73645">branje</comp>
+            </collocation>
+            <collocation form="sekvenčna analiza" cluster="8" frequency="13" logDice="3.12">
+              <comp position="1" type="headword" sloleks="LE_1a0a34383284863b40d60c7c2a32e2b9">sekvenčna</comp>
+              <comp position="2" type="collocate" sloleks="LE_8b551380d4ddc81c02e1998906ac17e3">analiza</comp>
+            </collocation>
+            <collocation form="sekvenčna številka" cluster="9" frequency="13" logDice="1.26">
+              <comp position="1" type="headword" sloleks="LE_1a0a34383284863b40d60c7c2a32e2b9">sekvenčna</comp>
+              <comp position="2" type="collocate" sloleks="LE_ebd741e03af85017076d3a5582503217">številka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="sekvenčen in/ali samodejen" cluster="1" frequency="24" logDice="10.04">
+              <comp position="3" type="headword" sloleks="LE_1a0a34383284863b40d60c7c2a32e2b9">sekvenčen</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_8d0fb4b279d4852fac6431398a0137fc">samodejen</comp>
+              </collocation>
+            <collocation form="sekvenčen in/ali ročen" cluster="2" frequency="6" logDice="6.47">
+              <comp position="3" type="headword" sloleks="LE_1a0a34383284863b40d60c7c2a32e2b9">sekvenčen</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_80a39f11b955c7aa0d74335e7b6c0fcd">ročen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="elektronsko sekvenčen" cluster="1" frequency="8" logDice="6.33">
+              <comp position="1" type="collocate" sloleks="LE_09b988b2bfc97e93d73613576e32c342">elektronsko</comp>
+              <comp position="2" type="headword" sloleks="LE_1a0a34383284863b40d60c7c2a32e2b9">sekvenčen</comp>
+            </collocation>
+            <collocation form="ročno sekvenčen" cluster="2" frequency="16" logDice="6.14">
+              <comp position="1" type="collocate" sloleks="LE_52e50fe0efd0025e3cd5e25b3cf4dad1">ročno</comp>
+              <comp position="2" type="headword" sloleks="LE_1a0a34383284863b40d60c7c2a32e2b9">sekvenčen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

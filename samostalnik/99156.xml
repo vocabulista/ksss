@@ -1,0 +1,81 @@
+<entry>
+  <header>
+    <lexical_unit id="99156">zelnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1380</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Zelnik iz Naklega" cluster="1" frequency="6" logDice="7.93">
+              <comp position="1" type="headword" sloleks="LE_4ff08fc2e4b7a4412189cc5625462ed9">Zelnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_b8ad32b3b73c600d7ea4c36099fe4d21">Naklega</comp>
+            </collocation>
+            <collocation form="zelnik iz Kranja" cluster="2" frequency="4" logDice="3.62">
+              <comp position="1" type="headword" sloleks="LE_4ff08fc2e4b7a4412189cc5625462ed9">zelnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_870357c99d255779fc7d3027bd15a6b5">Kranja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ5">
+          <collocations>
+            <collocation form="zrasti na zelniku" cluster="1" frequency="544" logDice="12.13">
+              <comp position="1" type="collocate" sloleks="LE_2a93ad516783cd5de4f8d7e5f28f9949">zrasti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4ff08fc2e4b7a4412189cc5625462ed9">zelniku</comp>
+            </collocation>
+            <collocation form="rasti na zelniku" cluster="2" frequency="9" logDice="5.94">
+              <comp position="1" type="collocate" sloleks="LE_1e5a7483266aa86ce24127a2f91dc51a">rasti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4ff08fc2e4b7a4412189cc5625462ed9">zelniku</comp>
+            </collocation>
+            <collocation form="nastati na zelniku" cluster="3" frequency="9" logDice="4.77">
+              <comp position="1" type="collocate" sloleks="LE_e67a61823a7b26bd49e14c9822b23965">nastati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4ff08fc2e4b7a4412189cc5625462ed9">zelniku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="skakati v zelnik" cluster="1" frequency="9" logDice="7.23">
+              <comp position="1" type="collocate" sloleks="LE_c41173df8ee492c3c43917d5aa359e6e">skakati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_4ff08fc2e4b7a4412189cc5625462ed9">zelnik</comp>
+            </collocation>
+            <collocation form="hoditi v zelnik" cluster="2" frequency="7" logDice="3.34">
+              <comp position="1" type="collocate" sloleks="LE_ecd5d4ecb63a8422fe3303a9c6e9ae32">hoditi</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_4ff08fc2e4b7a4412189cc5625462ed9">zelnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="tuj zelnik" cluster="1" frequency="29" logDice="1.92">
+              <comp position="1" type="collocate" sloleks="LE_63bb1d06a0acaae554971154531d3e14">tuj</comp>
+              <comp position="2" type="headword" sloleks="LE_4ff08fc2e4b7a4412189cc5625462ed9">zelnik</comp>
+            </collocation>
+            <collocation form="domač zelnik" cluster="2" frequency="25" logDice="0.88">
+              <comp position="1" type="collocate" sloleks="LE_a5a1f45c0526da991f5e1fe1ef9f90f5">domač</comp>
+              <comp position="2" type="headword" sloleks="LE_4ff08fc2e4b7a4412189cc5625462ed9">zelnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 na SBZ5">
+          <collocations>
+            <collocation form="zrasel na zelniku" cluster="1" frequency="32" logDice="12.06">
+              <comp position="1" type="collocate" sloleks="LE_992fdf94e4c97b3bbbe35cea222336e4">zrasel</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4ff08fc2e4b7a4412189cc5625462ed9">zelniku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

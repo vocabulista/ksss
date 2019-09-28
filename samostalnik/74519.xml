@@ -1,0 +1,69 @@
+<entry>
+  <header>
+    <lexical_unit id="74519">odpora</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">735</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 do sbz2">
+          <collocations>
+            <collocation form="odpora do spremembe" cluster="1" frequency="4" logDice="5.92">
+              <comp position="1" type="headword" sloleks="LE_f4054c742d1f713501b070de13a25d7b">odpora</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_43a3bb7510833003ff85626ef9cc9915">spremembe</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 proti sbz3">
+          <collocations>
+            <collocation form="odpora proti spremembi" cluster="1" frequency="5" logDice="6.94">
+              <comp position="1" type="headword" sloleks="LE_f4054c742d1f713501b070de13a25d7b">odpora</comp>
+              <comp position="2" type="other" sloleks="LE_ce0c7e81c2858bb279d87fd9640cfc97">proti</comp>
+              <comp position="3" type="collocate" sloleks="LE_43a3bb7510833003ff85626ef9cc9915">spremembi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="odpora gosta" cluster="1" frequency="13" logDice="3.83">
+              <comp position="1" type="headword" sloleks="LE_f4054c742d1f713501b070de13a25d7b">odpora</comp>
+              <comp position="2" type="collocate" sloleks="LE_e6cee54a176357f6ae4eee7d6ef8c850">gosta</comp>
+            </collocation>
+            <collocation form="gibanje odpore" cluster="2" frequency="18" logDice="4.41">
+              <comp position="1" type="collocate" sloleks="LE_fb18a6935ec3df1792bbec130bbfc90d">gibanje</comp>
+              <comp position="2" type="headword" sloleks="LE_f4054c742d1f713501b070de13a25d7b">odpore</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz do SBZ2">
+          <collocations>
+            <collocation form="imeti do odpore" cluster="1" frequency="6" logDice="4.01">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_f4054c742d1f713501b070de13a25d7b">odpore</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="naleteti na odporo" cluster="1" frequency="7" logDice="2.75">
+              <comp position="1" type="collocate" sloleks="LE_e0671fa23342d164bcc5ad591947a631">naleteti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_f4054c742d1f713501b070de13a25d7b">odporo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="huda odpora" cluster="1" frequency="9" logDice="0.57">
+              <comp position="1" type="collocate" sloleks="LE_52de53dad147ca0010c605df13741ac2">huda</comp>
+              <comp position="2" type="headword" sloleks="LE_f4054c742d1f713501b070de13a25d7b">odpora</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

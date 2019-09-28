@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="6132">prdeti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">407</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="prdeti v postelji" cluster="1" frequency="5" logDice="3.99">
+              <comp position="1" type="headword" sloleks="LE_19a6ee508a13d22e1cd99b98c47fc83d">prdeti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_fe1115a8647757a4e618ef86177eb691">postelji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="stalno prdeti" cluster="1" frequency="6" logDice="3.38">
+              <comp position="1" type="collocate" sloleks="LE_6adc3171a9c6b61b9d6ffa8f3a45a04c">stalno</comp>
+              <comp position="2" type="headword" sloleks="LE_19a6ee508a13d22e1cd99b98c47fc83d">prdeti</comp>
+            </collocation>
+            <collocation form="glasno prdeti" cluster="2" frequency="4" logDice="2.66">
+              <comp position="1" type="collocate" sloleks="LE_8d32e8ffef5c2d930893f51f039b425a">glasno</comp>
+              <comp position="2" type="headword" sloleks="LE_19a6ee508a13d22e1cd99b98c47fc83d">prdeti</comp>
+            </collocation>
+            <collocation form="nenehno prdeti" cluster="3" frequency="7" logDice="2.56">
+              <comp position="1" type="collocate" sloleks="LE_51a4baeec25a30e6830b327ef65991b5">nenehno</comp>
+              <comp position="2" type="headword" sloleks="LE_19a6ee508a13d22e1cd99b98c47fc83d">prdeti</comp>
+            </collocation>
+            <collocation form="preveč prdeti" cluster="4" frequency="6" logDice="1.6">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_19a6ee508a13d22e1cd99b98c47fc83d">prdeti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

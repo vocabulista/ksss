@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="66828">legvan</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">521</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="kopenski legvan" cluster="1" frequency="14" logDice="5.97">
+              <comp position="1" type="collocate" sloleks="LE_41fdf9a25b7bdfe90bca0ec618651f3a">kopenski</comp>
+              <comp position="2" type="headword" sloleks="LE_4ce019cfd0ffacb302e391e1698cc83c">legvan</comp>
+            </collocation>
+            <collocation form="morski legvan" cluster="2" frequency="48" logDice="4.38">
+              <comp position="1" type="collocate" sloleks="LE_57bed162279dc52ad8b850de264a14ad">morski</comp>
+              <comp position="2" type="headword" sloleks="LE_4ce019cfd0ffacb302e391e1698cc83c">legvan</comp>
+            </collocation>
+            <collocation form="zelen legvan" cluster="2" frequency="36" logDice="3.25">
+              <comp position="1" type="collocate" sloleks="LE_6e8aa87791d8f00ce04541edfe194c36">zelen</comp>
+              <comp position="2" type="headword" sloleks="LE_4ce019cfd0ffacb302e391e1698cc83c">legvan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Noč legvana" cluster="1" frequency="10" logDice="8.45">
+              <comp position="1" type="collocate" sloleks="LE_ba821ce506359c16b41c4b63c292f78d|LE_b3c268a1c4d9c136151d5b0aad8dd89e">Noč</comp>
+              <comp position="2" type="headword" sloleks="LE_4ce019cfd0ffacb302e391e1698cc83c">legvana</comp>
+            </collocation>
+            <collocation form="noč legvana" cluster="2" frequency="5" logDice="4.34">
+              <comp position="1" type="collocate" sloleks="LE_b49d362a114e179acbd84b80fefd7959">noč</comp>
+              <comp position="2" type="headword" sloleks="LE_4ce019cfd0ffacb302e391e1698cc83c">legvana</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

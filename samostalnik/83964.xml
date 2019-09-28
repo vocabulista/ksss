@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="83964">prostranost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">453</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="prostranost neba" cluster="1" frequency="9" logDice="5.28">
+              <comp position="1" type="headword" sloleks="LE_3966ea69f4f738841b5b42b90a00f85c">prostranost</comp>
+              <comp position="2" type="collocate" sloleks="LE_32ed890d953bad09c467fe000c44e7c9">neba</comp>
+            </collocation>
+            <collocation form="prostranost morja" cluster="2" frequency="13" logDice="4.25">
+              <comp position="1" type="headword" sloleks="LE_3966ea69f4f738841b5b42b90a00f85c">prostranost</comp>
+              <comp position="2" type="collocate" sloleks="LE_bcd96bfadbb1e224af34457884db42c8">morja</comp>
+            </collocation>
+            <collocation form="prostranost narave" cluster="2" frequency="9" logDice="2.71">
+              <comp position="1" type="headword" sloleks="LE_3966ea69f4f738841b5b42b90a00f85c">prostranost</comp>
+              <comp position="2" type="collocate" sloleks="LE_3720f05aae76a62fa53daa3d96e22c20">narave</comp>
+            </collocation>
+            <collocation form="prostranost prostora" cluster="2" frequency="9" logDice="1.51">
+              <comp position="1" type="headword" sloleks="LE_3966ea69f4f738841b5b42b90a00f85c">prostranost</comp>
+              <comp position="2" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostora</comp>
+            </collocation>
+            <collocation form="občutek prostranosti" cluster="3" frequency="17" logDice="3.46">
+              <comp position="1" type="collocate" sloleks="LE_23671e6156ee6c327e7c512a951bd4f3">občutek</comp>
+              <comp position="2" type="headword" sloleks="LE_3966ea69f4f738841b5b42b90a00f85c">prostranosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="neskončna prostranost" cluster="1" frequency="11" logDice="4.57">
+              <comp position="1" type="collocate" sloleks="LE_6c3a3428fe3a08733a1e7ee332c2f6a2">neskončna</comp>
+              <comp position="2" type="headword" sloleks="LE_3966ea69f4f738841b5b42b90a00f85c">prostranost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

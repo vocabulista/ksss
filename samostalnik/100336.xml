@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="100336">zvar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">422</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="točkoven zvar" cluster="1" frequency="21" logDice="7.55">
+              <comp position="1" type="collocate" sloleks="LE_58cc330ad7ba35bbb29c736be56f922c">točkoven</comp>
+              <comp position="2" type="headword" sloleks="LE_47268c733796b307ad02a1852fb7eca3">zvar</comp>
+            </collocation>
+            <collocation form="koten zvar" cluster="2" frequency="14" logDice="7.07">
+              <comp position="1" type="collocate" sloleks="LE_f1d9bf6bce0f48f244dfc678cd48c94f">koten</comp>
+              <comp position="2" type="headword" sloleks="LE_47268c733796b307ad02a1852fb7eca3">zvar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="debelina zvara" cluster="1" frequency="17" logDice="7.02">
+              <comp position="1" type="collocate" sloleks="LE_10e91df10f5f273e8526ae24e2b9207c">debelina</comp>
+              <comp position="2" type="headword" sloleks="LE_47268c733796b307ad02a1852fb7eca3">zvara</comp>
+            </collocation>
+            <collocation form="simbol zvara" cluster="2" frequency="13" logDice="4.19">
+              <comp position="1" type="collocate" sloleks="LE_bdfd9d5dc1e7d7616f219bd5d751795f">simbol</comp>
+              <comp position="2" type="headword" sloleks="LE_47268c733796b307ad02a1852fb7eca3">zvara</comp>
+            </collocation>
+            <collocation form="dolžina zvara" cluster="3" frequency="8" logDice="3.24">
+              <comp position="1" type="collocate" sloleks="LE_ea78022bf437a447fe17760e4d5292da">dolžina</comp>
+              <comp position="2" type="headword" sloleks="LE_47268c733796b307ad02a1852fb7eca3">zvara</comp>
+            </collocation>
+            <collocation form="kakovost zvara" cluster="4" frequency="5" logDice="1.07">
+              <comp position="1" type="collocate" sloleks="LE_73842cd684801160bcb4054b92481227">kakovost</comp>
+              <comp position="2" type="headword" sloleks="LE_47268c733796b307ad02a1852fb7eca3">zvara</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="napaka v zvaru" cluster="1" frequency="5" logDice="3.95">
+              <comp position="1" type="collocate" sloleks="LE_062a179ee1410808218c093ac1a7b38b">napaka</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_47268c733796b307ad02a1852fb7eca3">zvaru</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

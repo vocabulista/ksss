@@ -1,0 +1,77 @@
+<entry>
+  <header>
+    <lexical_unit id="7536">razmestiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">441</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="razmestiti na meji" cluster="1" frequency="4" logDice="3.97">
+              <comp position="1" type="headword" sloleks="LE_a295b865b6d0747d8a1e113d270f600e">razmestiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_9f2a02329b99f686c0effa70a70cb37f">meji</comp>
+            </collocation>
+            <collocation form="razmestiti na območju" cluster="2" frequency="4" logDice="1.59">
+              <comp position="1" type="headword" sloleks="LE_a295b865b6d0747d8a1e113d270f600e">razmestiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_637bb12e70b217aeada98e77f3559b30">območju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ po sbz5">
+          <collocations>
+            <collocation form="razmestiti po sobi" cluster="1" frequency="8" logDice="6.85">
+              <comp position="1" type="headword" sloleks="LE_a295b865b6d0747d8a1e113d270f600e">razmestiti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_51d0948fdcd403a7c15f9ade2ec2b331">sobi</comp>
+            </collocation>
+            <collocation form="razmestiti po prostoru" cluster="2" frequency="5" logDice="6.03">
+              <comp position="1" type="headword" sloleks="LE_a295b865b6d0747d8a1e113d270f600e">razmestiti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostoru</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="razmestiti okoli" cluster="1" frequency="6" logDice="1.2">
+              <comp position="1" type="headword" sloleks="LE_a295b865b6d0747d8a1e113d270f600e">razmestiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_35c8b4ee5a4876a383c533483220b523">okoli</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="razmestiti figuro" cluster="1" frequency="5" logDice="6.32">
+              <comp position="1" type="headword" sloleks="LE_a295b865b6d0747d8a1e113d270f600e">razmestiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_5e6234dd9bc6f5d984229ed3a049ccb7">figuro</comp>
+            </collocation>
+            <collocation form="razmestiti tekmovalca" cluster="2" frequency="5" logDice="5.99">
+              <comp position="1" type="headword" sloleks="LE_a295b865b6d0747d8a1e113d270f600e">razmestiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_b2b06fc3d1d3cb0873e8073a53a67920">tekmovalca</comp>
+            </collocation>
+            <collocation form="razmestiti silo" cluster="3" frequency="5" logDice="3.93">
+              <comp position="1" type="headword" sloleks="LE_a295b865b6d0747d8a1e113d270f600e">razmestiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_e6be915f21f168cec6cd53810562f1eb">silo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="takole razmestiti" cluster="1" frequency="5" logDice="3.15">
+              <comp position="1" type="collocate" sloleks="LE_33165da64364c4f722308cf50db09471">takole</comp>
+              <comp position="2" type="headword" sloleks="LE_a295b865b6d0747d8a1e113d270f600e">razmestiti</comp>
+            </collocation>
+            <collocation form="pravilno razmestiti" cluster="2" frequency="5" logDice="2.3">
+              <comp position="1" type="collocate" sloleks="LE_44bdfefdf121488457dafd037cc5e133">pravilno</comp>
+              <comp position="2" type="headword" sloleks="LE_a295b865b6d0747d8a1e113d270f600e">razmestiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

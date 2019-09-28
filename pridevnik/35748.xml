@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="35748">teatralen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">614</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="teatralen padec" cluster="1" frequency="22" logDice="4.86">
+              <comp position="1" type="headword" sloleks="LE_9e9f1dac0d2038cdd5a61ebe84256687">teatralen</comp>
+              <comp position="2" type="collocate" sloleks="LE_a260e3efa7fab3d144fd86b06b87bd26">padec</comp>
+            </collocation>
+            <collocation form="teatralen vložek" cluster="2" frequency="13" logDice="4.11">
+              <comp position="1" type="headword" sloleks="LE_9e9f1dac0d2038cdd5a61ebe84256687">teatralen</comp>
+              <comp position="2" type="collocate" sloleks="LE_3686d50354e686a8636274c4b019a3ed">vložek</comp>
+            </collocation>
+            <collocation form="teatralen nastop" cluster="3" frequency="24" logDice="2.96">
+              <comp position="1" type="headword" sloleks="LE_9e9f1dac0d2038cdd5a61ebe84256687">teatralen</comp>
+              <comp position="2" type="collocate" sloleks="LE_3c02505e3165a041b4879a0ffb8f719b">nastop</comp>
+            </collocation>
+            <collocation form="teatralen učinek" cluster="4" frequency="8" logDice="1.25">
+              <comp position="1" type="headword" sloleks="LE_9e9f1dac0d2038cdd5a61ebe84256687">teatralen</comp>
+              <comp position="2" type="collocate" sloleks="LE_2353cab56c2f4b095b8ea704f5199db8">učinek</comp>
+            </collocation>
+            <collocation form="teatralna predstava" cluster="5" frequency="8" logDice="1.21">
+              <comp position="1" type="headword" sloleks="LE_9e9f1dac0d2038cdd5a61ebe84256687">teatralna</comp>
+              <comp position="2" type="collocate" sloleks="LE_d9b3b0d634fe5397b484fa7a2db17b0c">predstava</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="preveč teatralen" cluster="1" frequency="8" logDice="1.29">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_9e9f1dac0d2038cdd5a61ebe84256687">teatralen</comp>
+            </collocation>
+            <collocation form="nekoliko teatralen" cluster="2" frequency="7" logDice="0.96">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_9e9f1dac0d2038cdd5a61ebe84256687">teatralen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

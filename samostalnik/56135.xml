@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="56135">farmacevtka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">544</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="farmacevtka iz lekarne" cluster="1" frequency="10" logDice="8.93">
+              <comp position="1" type="headword" sloleks="LE_8ecaac445729763f821ec2896fd61d94">farmacevtka</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_6900c50c1bc35e61ab280592ce53eee6">lekarne</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="diplomirana farmacevtka" cluster="1" frequency="14" logDice="5.08">
+              <comp position="1" type="collocate" sloleks="LE_287ff60a9555550708087b0d742b2bac">diplomirana</comp>
+              <comp position="2" type="headword" sloleks="LE_8ecaac445729763f821ec2896fd61d94">farmacevtka</comp>
+            </collocation>
+            <collocation form="novomeška farmacevtka" cluster="2" frequency="12" logDice="2.63">
+              <comp position="1" type="collocate" sloleks="LE_0114fbb0b37e42ef3bad163b2339e668">novomeška</comp>
+              <comp position="2" type="headword" sloleks="LE_8ecaac445729763f821ec2896fd61d94">farmacevtka</comp>
+            </collocation>
+            <collocation form="prijazna farmacevtka" cluster="3" frequency="10" logDice="2.33">
+              <comp position="1" type="collocate" sloleks="LE_439e00b230a5a160ad9e1edaf6af9e84">prijazna</comp>
+              <comp position="2" type="headword" sloleks="LE_8ecaac445729763f821ec2896fd61d94">farmacevtka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,66 @@
+<entry>
+  <header>
+    <lexical_unit id="25735">nepozidan</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">665</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nepozidano zemljišče" cluster="1" frequency="269" logDice="6.93">
+              <comp position="1" type="headword" sloleks="LE_bbba62999d42e5ac1dfc422b95bb680d">nepozidano</comp>
+              <comp position="2" type="collocate" sloleks="LE_1cfb3ff88e57bbeea24a81c9c41ac50b">zemljišče</comp>
+            </collocation>
+            <collocation form="nepozidana parcela" cluster="2" frequency="53" logDice="6.46">
+              <comp position="1" type="headword" sloleks="LE_bbba62999d42e5ac1dfc422b95bb680d">nepozidana</comp>
+              <comp position="2" type="collocate" sloleks="LE_4e6af60d5fbeb85215c1d0cdf32ac01a">parcela</comp>
+            </collocation>
+            <collocation form="nepozidana površina" cluster="3" frequency="79" logDice="4.51">
+              <comp position="1" type="headword" sloleks="LE_bbba62999d42e5ac1dfc422b95bb680d">nepozidana</comp>
+              <comp position="2" type="collocate" sloleks="LE_7d18868a4d96322e862a8e6591930019">površina</comp>
+            </collocation>
+            <collocation form="nepozidana zemlja" cluster="3" frequency="8" logDice="3.19">
+              <comp position="1" type="headword" sloleks="LE_bbba62999d42e5ac1dfc422b95bb680d">nepozidana</comp>
+              <comp position="2" type="collocate" sloleks="LE_9f4cbbb2b72bac81739b4274ec0514cc">zemlja</comp>
+            </collocation>
+            <collocation form="nepozidano območje" cluster="4" frequency="37" logDice="2.85">
+              <comp position="1" type="headword" sloleks="LE_bbba62999d42e5ac1dfc422b95bb680d">nepozidano</comp>
+              <comp position="2" type="collocate" sloleks="LE_637bb12e70b217aeada98e77f3559b30">območje</comp>
+            </collocation>
+            <collocation form="nepozidan predel" cluster="5" frequency="6" logDice="2.82">
+              <comp position="1" type="headword" sloleks="LE_bbba62999d42e5ac1dfc422b95bb680d">nepozidan</comp>
+              <comp position="2" type="collocate" sloleks="LE_df08c52b2fb80ff0bf36fdd23050776e">predel</comp>
+            </collocation>
+            <collocation form="nepozidana obala" cluster="6" frequency="6" logDice="2.07">
+              <comp position="1" type="headword" sloleks="LE_bbba62999d42e5ac1dfc422b95bb680d">nepozidana</comp>
+              <comp position="2" type="collocate" sloleks="LE_118da2ffc2ffec695de4779f29bc6ad6">obala</comp>
+            </collocation>
+            <collocation form="nepozidan prostor" cluster="7" frequency="29" logDice="1.28">
+              <comp position="1" type="headword" sloleks="LE_bbba62999d42e5ac1dfc422b95bb680d">nepozidan</comp>
+              <comp position="2" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostor</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="nepozidan in/ali pozidan" cluster="1" frequency="21" logDice="12.1">
+              <comp position="3" type="headword" sloleks="LE_bbba62999d42e5ac1dfc422b95bb680d">nepozidan</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_de59a3b3daf590da4e3f47323d2657e8">pozidan</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="veliko nepozidan" cluster="1" frequency="15" logDice="1.44">
+              <comp position="1" type="collocate" sloleks="LE_431ef7ec57af288ca0e781bb12f6e7f0">veliko</comp>
+              <comp position="2" type="headword" sloleks="LE_bbba62999d42e5ac1dfc422b95bb680d">nepozidan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

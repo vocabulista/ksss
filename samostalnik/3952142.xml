@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="3952142">sub</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="sub iz Kamnika" cluster="1" frequency="4" logDice="5.37">
+              <comp position="1" type="headword" sloleks="">sub</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_8042ba4d1da8476bc32972fc773b90c0">Kamnika</comp>
+            </collocation>
+            <collocation form="sub iz Ljubljane" cluster="2" frequency="16" logDice="3.73">
+              <comp position="1" type="headword" sloleks="">sub</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee11c4f6f901052d38c8252202477c9e">Ljubljane</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="sub specia" cluster="1" frequency="10" logDice="11.51">
+              <comp position="1" type="headword" sloleks="">sub</comp>
+              <comp position="2" type="collocate" sloleks="">specia</comp>
+            </collocation>
+            <collocation form="sub art" cluster="2" frequency="11" logDice="8.71">
+              <comp position="1" type="headword" sloleks="">sub</comp>
+              <comp position="2" type="collocate" sloleks="">art</comp>
+            </collocation>
+            <collocation form="Sub Popa" cluster="3" frequency="16" logDice="6.99">
+              <comp position="1" type="headword" sloleks="">Sub</comp>
+              <comp position="2" type="collocate" sloleks="LE_876aafd5f384ec876a0918bfd9dd89f7">Popa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Sub sub" cluster="1" frequency="23" logDice="11.49">
+              <comp position="1" type="collocate" sloleks="">Sub</comp>
+              <comp position="2" type="headword" sloleks="">sub</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

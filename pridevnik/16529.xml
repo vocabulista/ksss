@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="16529">donački</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1052</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 iz sbz2">
+          <collocations>
+            <collocation form="donački iz Rogatca" cluster="1" frequency="14" logDice="13.38">
+              <comp position="1" type="headword" sloleks="LE_969eba36d92633e115e40e4d2f0d2a4a">donački</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_a1c61cda8fda530a570e127d5a8597fe">Rogatca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="donačka gora" cluster="1" frequency="900" logDice="7.88">
+              <comp position="1" type="headword" sloleks="LE_969eba36d92633e115e40e4d2f0d2a4a">donačka</comp>
+              <comp position="2" type="collocate" sloleks="LE_8faa372c7e81e800eb88188ec3f5cde9">gora</comp>
+            </collocation>
+            <collocation form="donačka Gora" cluster="2" frequency="19" logDice="5.09">
+              <comp position="1" type="headword" sloleks="LE_969eba36d92633e115e40e4d2f0d2a4a">donačka</comp>
+              <comp position="2" type="collocate" sloleks="LE_196c9daba39972f3930897986039d36b">Gora</comp>
+            </collocation>
+            <collocation form="donački Cvet" cluster="3" frequency="8" logDice="3.25">
+              <comp position="1" type="headword" sloleks="LE_969eba36d92633e115e40e4d2f0d2a4a">donački</comp>
+              <comp position="2" type="collocate" sloleks="LE_94d0f7e010ad7f3fd319d2500a8722ff">Cvet</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

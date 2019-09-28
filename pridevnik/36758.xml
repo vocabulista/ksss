@@ -1,0 +1,570 @@
+<entry>
+  <header>
+    <lexical_unit id="36758">umaknjen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">3926</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="umaknjen ali zavrnjen" cluster="1" frequency="5" logDice="8.58">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_f9ce743744877718b177631d1a7b8d1c">zavrnjen</comp>
+            </collocation>
+            <collocation form="umaknjen in/ali zavržen" cluster="2" frequency="5" logDice="7.58">
+              <comp position="3" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_0b7a3e08cbf67b3b9031a687156f4d3c|LE_bb39f20d943d62f300bb3aa00e134048">zavržen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 iz sbz2">
+          <collocations>
+            <collocation form="umaknjen iz prodaje" cluster="1" frequency="62" logDice="11.97">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_73b8ad7802a6ed5de4d0eb5d4f69e0b2">prodaje</comp>
+            </collocation>
+            <collocation form="umaknjen iz prometa" cluster="1" frequency="32" logDice="10.84">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_325a5cddba50a22446da08f7ab272dff">prometa</comp>
+            </collocation>
+            <collocation form="umaknjen iz uporabe" cluster="1" frequency="10" logDice="9.44">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_9999e7dc3b8f5571ba09e352c31aea3f">uporabe</comp>
+            </collocation>
+            <collocation form="umaknjen iz proizvodnje" cluster="1" frequency="6" logDice="8.87">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_4a1754c19d9e05c064189e8d6ddbd00a">proizvodnje</comp>
+            </collocation>
+            <collocation form="umaknjen iz procedure" cluster="2" frequency="25" logDice="10.94">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_5b5d4420d0fe5cdde355fb2759545e8a">procedure</comp>
+            </collocation>
+            <collocation form="umaknjen iz kotacije" cluster="3" frequency="5" logDice="8.66">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_0f1c936c6fa5c601c66544ead62e5749">kotacije</comp>
+            </collocation>
+            <collocation form="umaknjen iz obravnave" cluster="4" frequency="5" logDice="8.52">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_f167d542794a2674397487e632cbb486">obravnave</comp>
+            </collocation>
+            <collocation form="umaknjen iz razprave" cluster="4" frequency="4" logDice="8.16">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_d58e7f8d86be2eef759384195d65ffa5">razprave</comp>
+            </collocation>
+            <collocation form="umaknjen iz tržišča" cluster="5" frequency="4" logDice="8.38">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_56855dfd3b4caa2aa0eb72557782c581">tržišča</comp>
+            </collocation>
+            <collocation form="umaknjen iz postopka" cluster="6" frequency="25" logDice="10.48">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_775481f1f5ba42be7d6b3125176050cb">postopka</comp>
+            </collocation>
+            <collocation form="umaknjen iz programa" cluster="6" frequency="11" logDice="8.7">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_2da10dc9e8a0e2ff7fd5a1ddd0278e88">programa</comp>
+            </collocation>
+            <collocation form="umaknjen iz življenja" cluster="6" frequency="7" logDice="8.19">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_b7a6a2019becc6510edb8591e171b0a7">življenja</comp>
+            </collocation>
+            <collocation form="umaknjen iz politike" cluster="6" frequency="7" logDice="8.98">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_d48e3236c14022f821882e8943749375">politike</comp>
+            </collocation>
+            <collocation form="umaknjen iz ponudbe" cluster="6" frequency="5" logDice="8.32">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_d9e3765be172d6f3372cede08396a2f8">ponudbe</comp>
+            </collocation>
+            <collocation form="umaknjen iz zakona" cluster="6" frequency="4" logDice="7.74">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_b3ce668b2bbbbdfa905463c113c05551">zakona</comp>
+            </collocation>
+            <collocation form="umaknjen iz javnosti" cluster="7" frequency="4" logDice="8.28">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_e2876fc81d3c084862be27e9bd6863ca">javnosti</comp>
+            </collocation>
+            <collocation form="umaknjen iz razloga" cluster="8" frequency="5" logDice="5.99">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_26c1514e5bfab4dd2b04f4e4711659e1">razloga</comp>
+            </collocation>
+            <collocation form="umaknjen iz obtoka" cluster="9" frequency="18" logDice="10.46">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_7adf5db7c80e7165491c8e91a725f8bb">obtoka</comp>
+            </collocation>
+            <collocation form="umaknjen iz trgovanja" cluster="10" frequency="7" logDice="9.15">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_ef126895c8ab9ba6cd2b122c02fd121e">trgovanja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 na sbz4">
+          <collocations>
+            <collocation form="umaknjen na razdaljo" cluster="1" frequency="7" logDice="10.58">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_497294f4848960a03bf666b1e4f77095">razdaljo</comp>
+            </collocation>
+            <collocation form="umaknjen na rob" cluster="2" frequency="17" logDice="8.74">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_f77fc4e15f47e160c4247e79bf3ae0fc">rob</comp>
+            </collocation>
+            <collocation form="umaknjen na obrobje" cluster="3" frequency="4" logDice="8.07">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_fd86c28b61b5370dd9e1ef1410fed3e7">obrobje</comp>
+            </collocation>
+            <collocation form="umaknjen na zahtevo" cluster="4" frequency="7" logDice="8.03">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_d4736e57297d5140ba448c30c6d6d744">zahtevo</comp>
+            </collocation>
+            <collocation form="umaknjen na predlog" cluster="4" frequency="4" logDice="7.81">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_32ddbbc939261949e07545f599a96666">predlog</comp>
+            </collocation>
+            <collocation form="umaknjen na tir" cluster="5" frequency="4" logDice="7.7">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_b894121de3bba3a4b6dc91ff5557c062">tir</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 od sbz2">
+          <collocations>
+            <collocation form="umaknjen od vrveža" cluster="1" frequency="16" logDice="10.84">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_b69e627353253fa8a1a574d8b5838696">vrveža</comp>
+            </collocation>
+            <collocation form="umaknjen od sveta" cluster="2" frequency="10" logDice="7.12">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_55184295ed657acc8ec5dcd62f7084bf">sveta</comp>
+            </collocation>
+            <collocation form="umaknjen od javnosti" cluster="2" frequency="9" logDice="10.38">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_e2876fc81d3c084862be27e9bd6863ca">javnosti</comp>
+            </collocation>
+            <collocation form="umaknjen od okolja" cluster="2" frequency="4" logDice="7.8">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_eb922917c5a94eb61166666cf13defaf">okolja</comp>
+            </collocation>
+            <collocation form="umaknjen od ceste" cluster="3" frequency="13" logDice="9.74">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_0e822f9721ddeb3fd7d90e02f70c9a2f">ceste</comp>
+            </collocation>
+            <collocation form="umaknjen od stresa" cluster="4" frequency="4" logDice="9.56">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_08986f6d7423e1509b66ea3014632006">stresa</comp>
+            </collocation>
+            <collocation form="umaknjen od oči" cluster="5" frequency="5" logDice="9.43">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_6e683e53145b35a6cbb44ad1188b7a9f|LE_f7836a137770b18301878166ca9f053f">oči</comp>
+            </collocation>
+            <collocation form="umaknjen od središča" cluster="6" frequency="11" logDice="9.24">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_9dcd9cc0d8f8ec1e5b9359a56c159356">središča</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 rbz">
+          <collocations>
+            <collocation form="umaknjen takoj" cluster="1" frequency="6" logDice="4.9">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="collocate" sloleks="LE_63831e752d3a6105c3245c75b9779495">takoj</comp>
+            </collocation>
+            <collocation form="umaknjen zato" cluster="2" frequency="9" logDice="3.62">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="collocate" sloleks="LE_a8c8d0c329f7b5193130e7eb405193e2">zato</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="umaknjena obtožnica" cluster="1" frequency="18" logDice="6.9">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjena</comp>
+              <comp position="2" type="collocate" sloleks="LE_0a3461b0a4d40b2fc58e9f45906ef78e">obtožnica</comp>
+            </collocation>
+            <collocation form="umaknjen amandma" cluster="2" frequency="17" logDice="5.44">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="collocate" sloleks="LE_a666d1b62ff50c41af9ed2549215ccc3">amandma</comp>
+            </collocation>
+            <collocation form="umaknjena stopnja" cluster="3" frequency="15" logDice="2.32">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjena</comp>
+              <comp position="2" type="collocate" sloleks="LE_ed1cc20afdfdf1e20fe2e301bae175ee">stopnja</comp>
+            </collocation>
+            <collocation form="umaknjena obravnava" cluster="3" frequency="9" logDice="2.49">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjena</comp>
+              <comp position="2" type="collocate" sloleks="LE_f167d542794a2674397487e632cbb486">obravnava</comp>
+            </collocation>
+            <collocation form="umaknjena analiza" cluster="3" frequency="8" logDice="2.43">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjena</comp>
+              <comp position="2" type="collocate" sloleks="LE_8b551380d4ddc81c02e1998906ac17e3">analiza</comp>
+            </collocation>
+            <collocation form="umaknjen pogled" cluster="4" frequency="10" logDice="1.92">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="collocate" sloleks="LE_456820bc1f399479d902f190585f0938">pogled</comp>
+            </collocation>
+            <collocation form="umaknjen predlog" cluster="5" frequency="65" logDice="4.55">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="collocate" sloleks="LE_32ddbbc939261949e07545f599a96666">predlog</comp>
+            </collocation>
+            <collocation form="umaknjen zakon" cluster="5" frequency="18" logDice="1.49">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="collocate" sloleks="LE_b3ce668b2bbbbdfa905463c113c05551">zakon</comp>
+            </collocation>
+            <collocation form="umaknjen postopek" cluster="5" frequency="12" logDice="0.76">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="collocate" sloleks="LE_775481f1f5ba42be7d6b3125176050cb">postopek</comp>
+            </collocation>
+            <collocation form="umaknjeno življenje" cluster="6" frequency="22" logDice="1.4">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjeno</comp>
+              <comp position="2" type="collocate" sloleks="LE_b7a6a2019becc6510edb8591e171b0a7">življenje</comp>
+            </collocation>
+            <collocation form="umaknjen izdelek" cluster="7" frequency="11" logDice="1.07">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="collocate" sloleks="LE_bbffae950f5cec8d80d5d541602c3313">izdelek</comp>
+            </collocation>
+            <collocation form="umaknjena tožba" cluster="8" frequency="22" logDice="5.03">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjena</comp>
+              <comp position="2" type="collocate" sloleks="LE_9f718c700eea732afc9e078f2a455ae2">tožba</comp>
+            </collocation>
+            <collocation form="umaknjena oznaka" cluster="9" frequency="19" logDice="4.96">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjena</comp>
+              <comp position="2" type="collocate" sloleks="LE_c30284008706011d571d9d77b13dc6f8">oznaka</comp>
+            </collocation>
+            <collocation form="umaknjena kandidatura" cluster="10" frequency="8" logDice="4.55">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjena</comp>
+              <comp position="2" type="collocate" sloleks="LE_4c631123d16e68b48b2586c8d08ca487">kandidatura</comp>
+            </collocation>
+            <collocation form="umaknjena delnica" cluster="11" frequency="15" logDice="3.32">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjena</comp>
+              <comp position="2" type="collocate" sloleks="LE_a4c3bc7b70a19466bd299690c070a28a">delnica</comp>
+            </collocation>
+            <collocation form="umaknjeno zdravilo" cluster="12" frequency="12" logDice="2.9">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjeno</comp>
+              <comp position="2" type="collocate" sloleks="LE_005f608d88779abbae906ed3762c1400">zdravilo</comp>
+            </collocation>
+            <collocation form="umaknjena točka" cluster="13" frequency="40" logDice="2.87">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjena</comp>
+              <comp position="2" type="collocate" sloleks="LE_bb52716a00bd608f858395465b1c985a">točka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 v sbz4">
+          <collocations>
+            <collocation form="umaknjen v zaledje" cluster="1" frequency="7" logDice="10.57">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_5c713bc6cefe9a2a0febbb6ff2603bc2">zaledje</comp>
+            </collocation>
+            <collocation form="umaknjen v zasebnost" cluster="2" frequency="5" logDice="9.87">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_a081aa501c3c580afc532773c90b8f37">zasebnost</comp>
+            </collocation>
+            <collocation form="umaknjen v tišino" cluster="3" frequency="6" logDice="9.75">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_f5df135605eb238a7e8f6efb5d84b0c4">tišino</comp>
+            </collocation>
+            <collocation form="umaknjen v samoto" cluster="3" frequency="4" logDice="9.46">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_8151c63d7943ab394d4cf7a62099099c">samoto</comp>
+            </collocation>
+            <collocation form="umaknjen v ozadje" cluster="4" frequency="22" logDice="9.73">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_bf3b7687a9bf6d4557593ee6c54e0e83">ozadje</comp>
+            </collocation>
+            <collocation form="umaknjen v zelenje" cluster="5" frequency="5" logDice="9.73">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_1081eeedf115119bf17a57c092776be5">zelenje</comp>
+            </collocation>
+            <collocation form="umaknjen v notranjost" cluster="6" frequency="7" logDice="9.45">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_00fc6e317e8f7ea30a0ffa258a11fd5e">notranjost</comp>
+            </collocation>
+            <collocation form="umaknjen v ohišje" cluster="7" frequency="5" logDice="7.54">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_6ea09bb1337382d73b4952fb4ceb69d1">ohišje</comp>
+            </collocation>
+            <collocation form="umaknjen v svet" cluster="8" frequency="9" logDice="7.19">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_55184295ed657acc8ec5dcd62f7084bf">svet</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 z sbz2">
+          <collocations>
+            <collocation form="umaknjen z reda" cluster="1" frequency="173" logDice="13.05">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_32cc2768fc63beee27ff73cd149852ee">reda</comp>
+            </collocation>
+            <collocation form="umaknjen z seznama" cluster="1" frequency="18" logDice="9.71">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_8e07f7a6b825d8b6bf5b0aeab2d8d9b7">seznama</comp>
+            </collocation>
+            <collocation form="umaknjen s trga" cluster="2" frequency="48" logDice="11.28">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_b735dfd291d0abd31eeabd75c4133487">trga</comp>
+            </collocation>
+            <collocation form="umaknjen s strani" cluster="2" frequency="15" logDice="6.15">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_4432316ca39663f747c84fc21ac8e398">strani</comp>
+            </collocation>
+            <collocation form="umaknjen s programa" cluster="2" frequency="10" logDice="9.35">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_2da10dc9e8a0e2ff7fd5a1ddd0278e88">programa</comp>
+            </collocation>
+            <collocation form="umaknjen s položaja" cluster="2" frequency="8" logDice="8.27">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_0227904f3ee297f8f6c33b433ba96e65">položaja</comp>
+            </collocation>
+            <collocation form="umaknjen s mesta" cluster="2" frequency="8" logDice="8.13">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesta</comp>
+            </collocation>
+            <collocation form="umaknjen z repertoarja" cluster="3" frequency="4" logDice="8.11">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_5946838ab2d93cc7d34ddc604fc3f1ef">repertoarja</comp>
+            </collocation>
+            <collocation form="umaknjen z mize" cluster="4" frequency="4" logDice="8.03">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_f04e4cc44cf7497b038fc5fc1fd3eb30">mize</comp>
+            </collocation>
+            <collocation form="umaknjen z odra" cluster="4" frequency="4" logDice="7.99">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_d35618a413daf132885c889812da44df">odra</comp>
+            </collocation>
+            <collocation form="umaknjen s ceste" cluster="5" frequency="5" logDice="8.0">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_0e822f9721ddeb3fd7d90e02f70c9a2f">ceste</comp>
+            </collocation>
+            <collocation form="umaknjen s sporeda" cluster="6" frequency="24" logDice="10.62">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_c0c6be00dc323c0c07b9fb9cbbf5f771">sporeda</comp>
+            </collocation>
+            <collocation form="umaknjen s seje" cluster="7" frequency="20" logDice="10.3">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_69dcab59c30b954c56acd84e9b699cd0">seje</comp>
+            </collocation>
+            <collocation form="umaknjen z borze" cluster="8" frequency="19" logDice="10.3">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_5b68991d4b193faf5497fd0ed973ef1e">borze</comp>
+            </collocation>
+            <collocation form="umaknjen z tržišča" cluster="8" frequency="12" logDice="9.67">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_56855dfd3b4caa2aa0eb72557782c581">tržišča</comp>
+            </collocation>
+            <collocation form="umaknjen s police" cluster="9" frequency="20" logDice="10.25">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_e4ac3c64d714498678e90a03a52bb3f4">police</comp>
+            </collocation>
+            <collocation form="umaknjen s spleta" cluster="10" frequency="6" logDice="8.6">
+              <comp position="1" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_8e62aba5543fcbb3ea275cf0c5259be4">spleta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="diskretno umaknjen" cluster="1" frequency="13" logDice="8.31">
+              <comp position="1" type="collocate" sloleks="LE_0f03403bf43e05a5c2f39619adfabddf">diskretno</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="kasno umaknjen" cluster="2" frequency="38" logDice="6.99">
+              <comp position="1" type="collocate" sloleks="LE_6e7e2f90ec6d83d93e91cac7243e475d">kasno</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="zdaj umaknjen" cluster="2" frequency="27" logDice="3.26">
+              <comp position="1" type="collocate" sloleks="LE_d3f3f0cca65a8d1e1eb9565d50304e21">zdaj</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="nato umaknjen" cluster="2" frequency="18" logDice="5.03">
+              <comp position="1" type="collocate" sloleks="LE_48b590fef344f946aab71b9b67d40282">nato</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="pozno umaknjen" cluster="2" frequency="17" logDice="5.88">
+              <comp position="1" type="collocate" sloleks="LE_6a03f5f7a628324b4df5029b57463629">pozno</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="zato umaknjen" cluster="2" frequency="10" logDice="3.29">
+              <comp position="1" type="collocate" sloleks="LE_a8c8d0c329f7b5193130e7eb405193e2">zato</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="verjetno umaknjen" cluster="2" frequency="10" logDice="3.12">
+              <comp position="1" type="collocate" sloleks="LE_23cc9a7d67e9245ebf91fd63cd9a3033">verjetno</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="potem umaknjen" cluster="2" frequency="9" logDice="3.7">
+              <comp position="1" type="collocate" sloleks="LE_f0e885097573d8acf04c06a869f0d332">potem</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="hitro umaknjen" cluster="2" frequency="9" logDice="3.37">
+              <comp position="1" type="collocate" sloleks="LE_cb95fbdb78349dad33e3d99ea7f281a8">hitro</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="spet umaknjen" cluster="2" frequency="8" logDice="2.68">
+              <comp position="1" type="collocate" sloleks="LE_262d335ce33e8c5f94849e677bc83a19">spet</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="enkrat umaknjen" cluster="2" frequency="7" logDice="4.03">
+              <comp position="1" type="collocate" sloleks="LE_a9aa19f4d3fe9f31d405ae8828e4b2fd">enkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="lani umaknjen" cluster="2" frequency="7" logDice="3.32">
+              <comp position="1" type="collocate" sloleks="LE_bbe4416be0a23e0094aa4e407c851df6">lani</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="torej umaknjen" cluster="2" frequency="7" logDice="1.99">
+              <comp position="1" type="collocate" sloleks="LE_77b94d141697df1606f829a597a115e8">torej</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="res umaknjen" cluster="2" frequency="6" logDice="0.94">
+              <comp position="1" type="collocate" sloleks="LE_f755b561969e89364cdbaba990b8838d">res</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="včeraj umaknjen" cluster="2" frequency="5" logDice="3.37">
+              <comp position="1" type="collocate" sloleks="LE_87612c451a6a10691f8cceaa7eeff6b1">včeraj</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="sedaj umaknjen" cluster="2" frequency="5" logDice="2.36">
+              <comp position="1" type="collocate" sloleks="LE_e50eb5a17c98c735c9fb6d8e08cf2787">sedaj</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="trenutno umaknjen" cluster="2" frequency="5" logDice="2.31">
+              <comp position="1" type="collocate" sloleks="LE_5c9f3e114f691d1136d83ec593637dfd">trenutno</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="letos umaknjen" cluster="2" frequency="5" logDice="2.28">
+              <comp position="1" type="collocate" sloleks="LE_f92f60b3b9300c7d2f21f6d4ba0ff509">letos</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="prej umaknjen" cluster="2" frequency="5" logDice="1.92">
+              <comp position="1" type="collocate" sloleks="LE_25430d3959f90161be5f8125f60962ef">prej</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="danes umaknjen" cluster="2" frequency="5" logDice="1.52">
+              <comp position="1" type="collocate" sloleks="LE_1ce30c2bc2ec7609ed31b8f4fa97c156">danes</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="nekoliko umaknjen" cluster="3" frequency="24" logDice="2.73">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="precej umaknjen" cluster="3" frequency="15" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_e0671a56c827200d0ebc033694e6214b">precej</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="povsem umaknjen" cluster="3" frequency="14" logDice="1.1">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="malce umaknjen" cluster="3" frequency="11" logDice="3.3">
+              <comp position="1" type="collocate" sloleks="LE_2eec11a38ac5bbb5fa6d7682c1224a82">malce</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="malo umaknjen" cluster="3" frequency="9" logDice="1.8">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="dovolj umaknjen" cluster="3" frequency="9" logDice="1.18">
+              <comp position="1" type="collocate" sloleks="LE_0b387936af75c9d0092b835e9479f95c">dovolj</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="popolnoma umaknjen" cluster="3" frequency="8" logDice="1.29">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="nekako umaknjen" cluster="3" frequency="7" logDice="4.08">
+              <comp position="1" type="collocate" sloleks="LE_a96326ed8c158842276cc429a0b285f7">nekako</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="začasno umaknjen" cluster="4" frequency="24" logDice="6.9">
+              <comp position="1" type="collocate" sloleks="LE_2ab7d987598c40d493e2f5f8aa7dddca">začasno</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="kmalu umaknjen" cluster="4" frequency="16" logDice="5.4">
+              <comp position="1" type="collocate" sloleks="LE_ced824ab75f7c67449dd92c1d3fa5432">kmalu</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="dokončno umaknjen" cluster="4" frequency="12" logDice="5.26">
+              <comp position="1" type="collocate" sloleks="LE_1b1364db6a65bb7d8e0561ff87f682a5">dokončno</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="takoj umaknjen" cluster="4" frequency="9" logDice="4.76">
+              <comp position="1" type="collocate" sloleks="LE_63831e752d3a6105c3245c75b9779495">takoj</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="uradno umaknjen" cluster="4" frequency="8" logDice="3.65">
+              <comp position="1" type="collocate" sloleks="LE_ac33465c7a5b3d3ed898a9e5e4999955">uradno</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="nedavno umaknjen" cluster="4" frequency="5" logDice="3.93">
+              <comp position="1" type="collocate" sloleks="LE_3563f1897d67e64054cb382a19f643ff">nedavno</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+            <collocation form="naknadno umaknjen" cluster="5" frequency="5" logDice="6.19">
+              <comp position="1" type="collocate" sloleks="LE_799142117ac2cdd37adc0888965c9ea8">naknadno</comp>
+              <comp position="2" type="headword" sloleks="LE_91a1ad320d97e8be9881f8d437a083f9">umaknjen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="27421">oprostilen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">2770</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="oprostilna sodba" cluster="1" frequency="2441" logDice="11.34">
+              <comp position="1" type="headword" sloleks="LE_7467a0f76d8d18db0ddfcffa576a93d5">oprostilna</comp>
+              <comp position="2" type="collocate" sloleks="LE_ba7ab51fa50e0b3e23b9b82cfb40bdf1">sodba</comp>
+            </collocation>
+            <collocation form="oprostilna odločba" cluster="1" frequency="9" logDice="2.63">
+              <comp position="1" type="headword" sloleks="LE_7467a0f76d8d18db0ddfcffa576a93d5">oprostilna</comp>
+              <comp position="2" type="collocate" sloleks="LE_100bc75cb89eb96c657f3a2399d648c9">odločba</comp>
+            </collocation>
+            <collocation form="oprostilna razsodba" cluster="2" frequency="63" logDice="8.79">
+              <comp position="1" type="headword" sloleks="LE_7467a0f76d8d18db0ddfcffa576a93d5">oprostilna</comp>
+              <comp position="2" type="collocate" sloleks="LE_6b496b3c2c87f5d49e1ff43c34a4e1eb">razsodba</comp>
+            </collocation>
+            <collocation form="oprostilna obsodba" cluster="3" frequency="10" logDice="4.99">
+              <comp position="1" type="headword" sloleks="LE_7467a0f76d8d18db0ddfcffa576a93d5">oprostilna</comp>
+              <comp position="2" type="collocate" sloleks="LE_3f782de06d3c138b4a30509a89141e55">obsodba</comp>
+            </collocation>
+            <collocation form="oprostilno pismo" cluster="4" frequency="9" logDice="2.5">
+              <comp position="1" type="headword" sloleks="LE_7467a0f76d8d18db0ddfcffa576a93d5">oprostilno</comp>
+              <comp position="2" type="collocate" sloleks="LE_bc3ef9b863fbcf5d9ecc2351db390439">pismo</comp>
+            </collocation>
+            <collocation form="oprostilen učinek" cluster="5" frequency="10" logDice="1.54">
+              <comp position="1" type="headword" sloleks="LE_7467a0f76d8d18db0ddfcffa576a93d5">oprostilen</comp>
+              <comp position="2" type="collocate" sloleks="LE_2353cab56c2f4b095b8ea704f5199db8">učinek</comp>
+            </collocation>
+            <collocation form="oprostilen del" cluster="6" frequency="46" logDice="1.51">
+              <comp position="1" type="headword" sloleks="LE_7467a0f76d8d18db0ddfcffa576a93d5">oprostilen</comp>
+              <comp position="2" type="collocate" sloleks="LE_7ec85158e392e2a539875a30cf8d3436">del</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="oprostilen in/ali obsodilen" cluster="1" frequency="19" logDice="13.39">
+              <comp position="3" type="headword" sloleks="LE_7467a0f76d8d18db0ddfcffa576a93d5">oprostilen</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_80b2d9111316cef76a58ee2944043c92">obsodilen</comp>
+              </collocation>
+            <collocation form="oprostilen in zavrnilen" cluster="2" frequency="7" logDice="11.92">
+              <comp position="1" type="headword" sloleks="LE_7467a0f76d8d18db0ddfcffa576a93d5">oprostilen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_b8e09cbc3cdd9b90a5b9d3dc6ad6bcb4">zavrnilen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

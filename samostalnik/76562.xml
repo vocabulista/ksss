@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="76562">palčnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1112</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="palčnik s cevjo" cluster="1" frequency="4" logDice="6.58">
+              <comp position="1" type="headword" sloleks="LE_2250967a374f84d1ed95c290be9e2b44">palčnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_a41049d209cfe287da434720342101d3">cevjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="preizkušen palčnik" cluster="1" frequency="9" logDice="5.04">
+              <comp position="1" type="collocate" sloleks="LE_2ad077ef5f649767fbdd9d7887e52c10">preizkušen</comp>
+              <comp position="2" type="headword" sloleks="LE_2250967a374f84d1ed95c290be9e2b44">palčnik</comp>
+            </collocation>
+            <collocation form="poceni palčnik" cluster="2" frequency="20" logDice="3.65">
+              <comp position="1" type="collocate" sloleks="LE_209d55beca5abfa601d61963c5a648bf">poceni</comp>
+              <comp position="2" type="headword" sloleks="LE_2250967a374f84d1ed95c290be9e2b44">palčnik</comp>
+            </collocation>
+            <collocation form="povprečen palčnik" cluster="2" frequency="19" logDice="2.61">
+              <comp position="1" type="collocate" sloleks="LE_9360581bf64f561c655406dcf2e16568">povprečen</comp>
+              <comp position="2" type="headword" sloleks="LE_2250967a374f84d1ed95c290be9e2b44">palčnik</comp>
+            </collocation>
+            <collocation form="navaden palčnik" cluster="2" frequency="9" logDice="1.89">
+              <comp position="1" type="collocate" sloleks="LE_f59369d8b37702c03d2e6f31cbe3f5d8">navaden</comp>
+              <comp position="2" type="headword" sloleks="LE_2250967a374f84d1ed95c290be9e2b44">palčnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

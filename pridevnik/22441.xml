@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="22441">laponski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">615</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 na sbz5">
+          <collocations>
+            <collocation form="laponski na Finskem" cluster="1" frequency="5" logDice="9.94">
+              <comp position="1" type="headword" sloleks="LE_74331b55451539b94e58199643f7f1e6">laponski</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_93c9494facc7f95f5176701aaecaa6ad">Finskem</comp>
+            </collocation>
+            <collocation form="laponski na severu" cluster="2" frequency="7" logDice="9.55">
+              <comp position="1" type="headword" sloleks="LE_74331b55451539b94e58199643f7f1e6">laponski</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_c90ed5430235ed9d0d2bd8c107bc9a34">severu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="laponski Božiček" cluster="1" frequency="17" logDice="8.92">
+              <comp position="1" type="headword" sloleks="LE_74331b55451539b94e58199643f7f1e6">laponski</comp>
+              <comp position="2" type="collocate" sloleks="LE_dcad7fc9c7a238c8c22e9768d5472d01">Božiček</comp>
+            </collocation>
+            <collocation form="laponska noša" cluster="2" frequency="6" logDice="3.99">
+              <comp position="1" type="headword" sloleks="LE_74331b55451539b94e58199643f7f1e6">laponska</comp>
+              <comp position="2" type="collocate" sloleks="LE_c3b5615775b365c942e3c634c8653649">noša</comp>
+            </collocation>
+            <collocation form="laponski pes" cluster="3" frequency="14" logDice="3.26">
+              <comp position="1" type="headword" sloleks="LE_74331b55451539b94e58199643f7f1e6">laponski</comp>
+              <comp position="2" type="collocate" sloleks="LE_ae53f7aac94a7c78c3cb5c344c09f5ff">pes</comp>
+            </collocation>
+            <collocation form="laponska pokrajina" cluster="4" frequency="14" logDice="3.09">
+              <comp position="1" type="headword" sloleks="LE_74331b55451539b94e58199643f7f1e6">laponska</comp>
+              <comp position="2" type="collocate" sloleks="LE_a4352cd395b4e0e04d0dd806a900fb73">pokrajina</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

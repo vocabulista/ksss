@@ -1,0 +1,68 @@
+<entry>
+  <header>
+    <lexical_unit id="25833">nepristojen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">527</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nepristojen organ" cluster="1" frequency="113" logDice="4.56">
+              <comp position="1" type="headword" sloleks="LE_13dd8e60fd3c603cf12b2673f216cb62">nepristojen</comp>
+              <comp position="2" type="collocate" sloleks="LE_8562dbeb947da0513f9a50c8151f8a65">organ</comp>
+            </collocation>
+            <collocation form="nepristojno sodišče" cluster="2" frequency="83" logDice="3.01">
+              <comp position="1" type="headword" sloleks="LE_13dd8e60fd3c603cf12b2673f216cb62">nepristojno</comp>
+              <comp position="2" type="collocate" sloleks="LE_989f65b9e9021c2bfb10c5161a6e59ab">sodišče</comp>
+            </collocation>
+            <collocation form="nepristojen tožilec" cluster="3" frequency="6" logDice="2.19">
+              <comp position="1" type="headword" sloleks="LE_13dd8e60fd3c603cf12b2673f216cb62">nepristojen</comp>
+              <comp position="2" type="collocate" sloleks="LE_8e7a141814970713c1b152c4b2ddd0ed">tožilec</comp>
+            </collocation>
+            <collocation form="nepristojna zadeva" cluster="4" frequency="16" logDice="1.42">
+              <comp position="1" type="headword" sloleks="LE_13dd8e60fd3c603cf12b2673f216cb62">nepristojna</comp>
+              <comp position="2" type="collocate" sloleks="LE_4aa8d2e0c34be9b2fa77533511451a66">zadeva</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 v sbz5">
+          <collocations>
+            <collocation form="nepristojen v primeru" cluster="1" frequency="4" logDice="4.9">
+              <comp position="1" type="headword" sloleks="LE_13dd8e60fd3c603cf12b2673f216cb62">nepristojen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_8e6db377d52cf3acd614b87429fb9858">primeru</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 za sbz4">
+          <collocations>
+            <collocation form="nepristojen za odločanje" cluster="1" frequency="21" logDice="8.9">
+              <comp position="1" type="headword" sloleks="LE_13dd8e60fd3c603cf12b2673f216cb62">nepristojen</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_edd033f14ed11384781810b0ad4dc153">odločanje</comp>
+            </collocation>
+            <collocation form="nepristojen za reševanje" cluster="2" frequency="5" logDice="6.77">
+              <comp position="1" type="headword" sloleks="LE_13dd8e60fd3c603cf12b2673f216cb62">nepristojen</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_1ca3bfba8a0ee2bbb56ac27d1c53d46e">reševanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="stvarno nepristojen" cluster="1" frequency="36" logDice="10.13">
+              <comp position="1" type="collocate" sloleks="LE_567636c78093a7fd71854461bfb4c4d9">stvarno</comp>
+              <comp position="2" type="headword" sloleks="LE_13dd8e60fd3c603cf12b2673f216cb62">nepristojen</comp>
+            </collocation>
+            <collocation form="krajevno nepristojen" cluster="2" frequency="19" logDice="8.21">
+              <comp position="1" type="collocate" sloleks="LE_5ecafbac5a3583081818830c2f16dca4">krajevno</comp>
+              <comp position="2" type="headword" sloleks="LE_13dd8e60fd3c603cf12b2673f216cb62">nepristojen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

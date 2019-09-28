@@ -1,0 +1,36 @@
+<entry>
+  <header>
+    <lexical_unit id="69583">milenij</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">729</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="Milenij v Oplotnici" cluster="1" frequency="49" logDice="10.68">
+              <comp position="1" type="headword" sloleks="LE_3e63cd36f77dd68536d41265835de197">Milenij</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_b3c71aa7a9e0c9d868459ef0921033f6">Oplotnici</comp>
+            </collocation>
+            <collocation form="Milenij v Beogradu" cluster="2" frequency="7" logDice="3.75">
+              <comp position="1" type="headword" sloleks="LE_3e63cd36f77dd68536d41265835de197">Milenij</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_80a90aa79ad855b97899202e3fe1c559">Beogradu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 ob SBZ5">
+          <collocations>
+            <collocation form="tovarna ob mileniju" cluster="1" frequency="9" logDice="11.15">
+              <comp position="1" type="collocate" sloleks="LE_60c081b7fc653e83aaefd97eb413525c">tovarna</comp>
+              <comp position="2" type="other" sloleks="LE_0d51e0433cde1d7d6610f469ec11e938">ob</comp>
+              <comp position="3" type="headword" sloleks="LE_3e63cd36f77dd68536d41265835de197">mileniju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="63586">kiropraktika</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">525</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="ukvarjati s kiropraktiko" cluster="1" frequency="4" logDice="0.06">
+              <comp position="1" type="collocate" sloleks="LE_d218d442858c415bdeff018dc056aea9">ukvarjati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_9890c01eecfdd176401ba4e2dc869a67">kiropraktiko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="doktor kiropraktike" cluster="1" frequency="24" logDice="6.17">
+              <comp position="1" type="collocate" sloleks="LE_d24c9f4103195ee8b01c8cda9833cee3">doktor</comp>
+              <comp position="2" type="headword" sloleks="LE_9890c01eecfdd176401ba4e2dc869a67">kiropraktike</comp>
+            </collocation>
+            <collocation form="zdravnik kiropraktike" cluster="2" frequency="12" logDice="5.34">
+              <comp position="1" type="collocate" sloleks="LE_4fd33b942f59a17455a10dc0ef8cb604">zdravnik</comp>
+              <comp position="2" type="headword" sloleks="LE_9890c01eecfdd176401ba4e2dc869a67">kiropraktike</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="zakon o kiropraktiki" cluster="1" frequency="10" logDice="0.1">
+              <comp position="1" type="collocate" sloleks="LE_b3ce668b2bbbbdfa905463c113c05551">zakon</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_9890c01eecfdd176401ba4e2dc869a67">kiropraktiki</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

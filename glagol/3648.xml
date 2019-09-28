@@ -1,0 +1,665 @@
+<entry>
+  <header>
+    <lexical_unit id="3648">odlepiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">3325</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ brez sbz2">
+          <collocations>
+            <collocation form="odlepiti brez težave" cluster="1" frequency="4" logDice="1.91">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težave</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="odlepiti na prednost" cluster="1" frequency="10" logDice="9.39">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_2b6030fb5e32724dd65bb3d0f14f9129">prednost</comp>
+            </collocation>
+            <collocation form="odlepiti na zadetek" cluster="2" frequency="13" logDice="8.87">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_ff53514b16622225843cbe2fefb8a5ec">zadetek</comp>
+            </collocation>
+            <collocation form="odlepiti na razdaljo" cluster="3" frequency="10" logDice="7.88">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_497294f4848960a03bf666b1e4f77095">razdaljo</comp>
+            </collocation>
+            <collocation form="odlepiti na razliko" cluster="4" frequency="6" logDice="6.79">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_d8b5c5f08355edee42707780bbb4bdb8">razliko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="odlepiti na lestvici" cluster="1" frequency="7" logDice="3.94">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_84bcb21133c438ef7a1197cc20331b78">lestvici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ od sbz2">
+          <collocations>
+            <collocation form="odlepiti od dna" cluster="1" frequency="121" logDice="11.13">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_8f6f4070d6b85a43d44684026158d421">dna</comp>
+            </collocation>
+            <collocation form="odlepiti od roba" cluster="1" frequency="5" logDice="6.51">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_f77fc4e15f47e160c4247e79bf3ae0fc">roba</comp>
+            </collocation>
+            <collocation form="odlepiti od tal" cluster="2" frequency="194" logDice="11.09">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_eb748b49130a91779627e8f89256bf42">tal</comp>
+            </collocation>
+            <collocation form="odlepiti od zemlje" cluster="2" frequency="14" logDice="7.9">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_9f4cbbb2b72bac81739b4274ec0514cc">zemlje</comp>
+            </collocation>
+            <collocation form="odlepiti od območja" cluster="2" frequency="9" logDice="7.51">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_637bb12e70b217aeada98e77f3559b30">območja</comp>
+            </collocation>
+            <collocation form="odlepiti od površine" cluster="2" frequency="6" logDice="6.85">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_7d18868a4d96322e862a8e6591930019">površine</comp>
+            </collocation>
+            <collocation form="odlepiti od steze" cluster="3" frequency="14" logDice="8.22">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_7af935df9961e2f997261a0ac6c9e325">steze</comp>
+            </collocation>
+            <collocation form="odlepiti od podlage" cluster="4" frequency="33" logDice="9.31">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_e6e88eb8a2a7234da435310d47275f97">podlage</comp>
+            </collocation>
+            <collocation form="odlepiti od ravni" cluster="4" frequency="17" logDice="8.51">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_1c5879ca919226df3e61cfd0d36941e3">ravni</comp>
+            </collocation>
+            <collocation form="odlepiti od nivoja" cluster="4" frequency="13" logDice="8.17">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_757601db641c792c0752d797d30879ba">nivoja</comp>
+            </collocation>
+            <collocation form="odlepiti od mesta" cluster="5" frequency="36" logDice="8.61">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesta</comp>
+            </collocation>
+            <collocation form="odlepiti od skupine" cluster="5" frequency="22" logDice="8.07">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_7a31c94cb05484f8e60e8fbc4dad6a50">skupine</comp>
+            </collocation>
+            <collocation form="odlepiti od dela" cluster="5" frequency="9" logDice="6.11">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">dela</comp>
+            </collocation>
+            <collocation form="odlepiti od ekipe" cluster="5" frequency="5" logDice="6.03">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_b9e9e733fb718cd2faed16b97326064f">ekipe</comp>
+            </collocation>
+            <collocation form="odlepiti od stranke" cluster="5" frequency="5" logDice="5.67">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_945a204a300f28702820c4bc0481d2e7">stranke</comp>
+            </collocation>
+            <collocation form="odlepiti od družbe" cluster="5" frequency="5" logDice="5.64">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_4d78f38b1eeb8492cae54547d0252bf9">družbe</comp>
+            </collocation>
+            <collocation form="odlepiti od sveta" cluster="5" frequency="4" logDice="5.21">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_55184295ed657acc8ec5dcd62f7084bf">sveta</comp>
+            </collocation>
+            <collocation form="odlepiti od hiše" cluster="5" frequency="4" logDice="5.16">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_34e4b2cb65c667c6bf374f39db0e3597">hiše</comp>
+            </collocation>
+            <collocation form="odlepiti od države" cluster="5" frequency="4" logDice="3.73">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">države</comp>
+            </collocation>
+            <collocation form="odlepiti od tekmeca" cluster="6" frequency="34" logDice="9.08">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_55073eb3c7e25a303ba55c8d9b98f917">tekmeca</comp>
+            </collocation>
+            <collocation form="odlepiti od nasprotnika" cluster="6" frequency="13" logDice="8.02">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_09d7e4752e896fdc530a59483161bb43">nasprotnika</comp>
+            </collocation>
+            <collocation form="odlepiti od gostitelja" cluster="6" frequency="7" logDice="7.14">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_c4c1b18d0865e68593ede31d3d26263a">gostitelja</comp>
+            </collocation>
+            <collocation form="odlepiti od tekmice" cluster="7" frequency="11" logDice="7.89">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_f08b37047f46cf59895c1703a6991703">tekmice</comp>
+            </collocation>
+            <collocation form="odlepiti od konkurenta" cluster="7" frequency="5" logDice="6.69">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_7bd747c5a6577b0f2dfe9dd7c9036c94">konkurenta</comp>
+            </collocation>
+            <collocation form="odlepiti od šanka" cluster="8" frequency="10" logDice="7.8">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_908ab10fe87e10ad04108c2707045634">šanka</comp>
+            </collocation>
+            <collocation form="odlepiti od konkurence" cluster="9" frequency="11" logDice="7.61">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_44368d329a64986da6594a0b0420236c">konkurence</comp>
+            </collocation>
+            <collocation form="odlepiti od vzorca" cluster="10" frequency="9" logDice="7.48">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_5042c4687567fc53efbfd828e5440371">vzorca</comp>
+            </collocation>
+            <collocation form="odlepiti od zasledovalca" cluster="11" frequency="58" logDice="10.27">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_32854ec13f67f22bef2db4b8aead7567">zasledovalca</comp>
+            </collocation>
+            <collocation form="odlepiti od računalnika" cluster="12" frequency="9" logDice="7.4">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_b8ee172630f061da51fb6d4a9d5549ba">računalnika</comp>
+            </collocation>
+            <collocation form="odlepiti od zaslona" cluster="12" frequency="4" logDice="6.41">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_c6886886bbb27cc007fcafab35a9e4eb">zaslona</comp>
+            </collocation>
+            <collocation form="odlepiti od pomola" cluster="13" frequency="6" logDice="7.06">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_fac162d63db45e8ce565760a9a93ee03">pomola</comp>
+            </collocation>
+            <collocation form="odlepiti od Balkana" cluster="14" frequency="5" logDice="6.77">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_4aaf2aa6765d22249badddc401ccafbe">Balkana</comp>
+            </collocation>
+            <collocation form="odlepiti od telesa" cluster="15" frequency="6" logDice="6.77">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_79b86615dd52e06799792917a906328a">telesa</comp>
+            </collocation>
+            <collocation form="odlepiti od vode" cluster="15" frequency="5" logDice="6.58">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_0d8cbba4e56fea63657ac746d29cd047">vode</comp>
+            </collocation>
+            <collocation form="odlepiti od povprečja" cluster="16" frequency="8" logDice="6.73">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_ea2a73acea6e10b811c98e06db80dc68">povprečja</comp>
+            </collocation>
+            <collocation form="odlepiti od vrednosti" cluster="16" frequency="6" logDice="6.59">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_aa6bad87e3fba76f27f4242d3cb9a383">vrednosti</comp>
+            </collocation>
+            <collocation form="odlepiti od meje" cluster="17" frequency="6" logDice="6.66">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_9f2a02329b99f686c0effa70a70cb37f">meje</comp>
+            </collocation>
+            <collocation form="odlepiti od obale" cluster="18" frequency="6" logDice="6.52">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_118da2ffc2ffec695de4779f29bc6ad6">obale</comp>
+            </collocation>
+            <collocation form="odlepiti od kasetofona" cluster="19" frequency="4" logDice="6.52">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_3a765329bbbe2ab39921963cfbcf1166">kasetofona</comp>
+            </collocation>
+            <collocation form="odlepiti od svežnja" cluster="20" frequency="4" logDice="6.51">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_5b2781bea8d7c4817116955c6be953ab">svežnja</comp>
+            </collocation>
+            <collocation form="odlepiti od ustnice" cluster="21" frequency="4" logDice="6.5">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_e7f2a87a0e07f0f78ed928d807514e00">ustnice</comp>
+            </collocation>
+            <collocation form="odlepiti od sprejemnika" cluster="22" frequency="4" logDice="6.49">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_ef9087ed89ad6fca7ad8e4dd7c126f03">sprejemnika</comp>
+            </collocation>
+            <collocation form="odlepiti od stekla" cluster="23" frequency="4" logDice="6.48">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_99a519acd32643bbcc9d11eb32434eb6">stekla</comp>
+            </collocation>
+            <collocation form="odlepiti od gladine" cluster="24" frequency="4" logDice="6.46">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_c8adefba077c3a2e05ad8713f5cb1efc">gladine</comp>
+            </collocation>
+            <collocation form="odlepiti od papirja" cluster="25" frequency="4" logDice="6.44">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_bd43c7f1c3166c88c6e6fd690b721f1f">papirja</comp>
+            </collocation>
+            <collocation form="odlepiti od SDS" cluster="26" frequency="4" logDice="6.44">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_874c267ddfb56ab78440528839a23538|LE_5a920e95aa13d6df0e89c1f86a25f5c2">SDS</comp>
+            </collocation>
+            <collocation form="odlepiti od izhodišča" cluster="27" frequency="4" logDice="6.4">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_55300e8f0ca313d1fcbe6b44ebf15d16">izhodišča</comp>
+            </collocation>
+            <collocation form="odlepiti od starša" cluster="28" frequency="9" logDice="6.22">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee1100b135d34088f91e5c2786123e66">starša</comp>
+            </collocation>
+            <collocation form="odlepiti od gosta" cluster="28" frequency="4" logDice="5.99">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_e6cee54a176357f6ae4eee7d6ef8c850">gosta</comp>
+            </collocation>
+            <collocation form="odlepiti od matere" cluster="28" frequency="4" logDice="5.97">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_c60ad337818645beb21c89ff38faccd7">matere</comp>
+            </collocation>
+            <collocation form="odlepiti od mize" cluster="29" frequency="5" logDice="6.0">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_f04e4cc44cf7497b038fc5fc1fd3eb30">mize</comp>
+            </collocation>
+            <collocation form="odlepiti od stene" cluster="30" frequency="23" logDice="8.59">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_47b154875543bbeb3c61452a95a438a3">stene</comp>
+            </collocation>
+            <collocation form="odlepiti od glavnine" cluster="31" frequency="17" logDice="8.49">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_f229c6415b8c5446f444b5210c6c43b0">glavnine</comp>
+            </collocation>
+            <collocation form="odlepiti od pekača" cluster="32" frequency="15" logDice="8.38">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_7087b48b650da74807819277294d7115">pekača</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ po sbz5">
+          <collocations>
+            <collocation form="odlepiti po štartu" cluster="1" frequency="4" logDice="6.63">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_a670babfb3cd28600a9d7c9800fd36b4">štartu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="odlepiti folijo" cluster="1" frequency="6" logDice="7.52">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_92cc6efae63dbe0d5d16e305910ec6fb">folijo</comp>
+            </collocation>
+            <collocation form="odlepiti obliž" cluster="2" frequency="4" logDice="7.49">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_ac3e9d06572869bd049cd25007a43b12">obliž</comp>
+            </collocation>
+            <collocation form="odlepiti nalepko" cluster="3" frequency="11" logDice="7.29">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_a984cc8ef0d3501d93cf70b144d87b7b">nalepko</comp>
+            </collocation>
+            <collocation form="odlepiti brk" cluster="4" frequency="4" logDice="6.91">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_ced974026341afd5466e9e9e49fac983">brk</comp>
+            </collocation>
+            <collocation form="odlepiti trak" cluster="5" frequency="19" logDice="6.69">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_b8c455f489fc7f52c6d73969880288f5">trak</comp>
+            </collocation>
+            <collocation form="odlepiti kos" cluster="6" frequency="4" logDice="3.74">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_35ebb87a8e1c98db89588996cdc03ee1">kos</comp>
+            </collocation>
+            <collocation form="odlepiti oči" cluster="7" frequency="12" logDice="3.7">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_6e683e53145b35a6cbb44ad1188b7a9f|LE_f7836a137770b18301878166ca9f053f">oči</comp>
+            </collocation>
+            <collocation form="odlepiti pogled" cluster="7" frequency="8" logDice="2.91">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_456820bc1f399479d902f190585f0938">pogled</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="odlepiti v četrtini" cluster="1" frequency="6" logDice="4.65">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_8297c9815c4b68fc0eaca78810929f22">četrtini</comp>
+            </collocation>
+            <collocation form="odlepiti v minuti" cluster="2" frequency="13" logDice="2.43">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_4dbac25ecbcde2d4ad6049424d74db15">minuti</comp>
+            </collocation>
+            <collocation form="odlepiti v trenutku" cluster="3" frequency="4" logDice="0.59">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_20e42f7c3b00f5a4a38e89957060a1f2">trenutku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz2">
+          <collocations>
+            <collocation form="odlepiti z dna" cluster="1" frequency="38" logDice="9.88">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_8f6f4070d6b85a43d44684026158d421">dna</comp>
+            </collocation>
+            <collocation form="odlepiti s podlage" cluster="2" frequency="6" logDice="9.47">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_e6e88eb8a2a7234da435310d47275f97">podlage</comp>
+            </collocation>
+            <collocation form="odlepiti s površine" cluster="2" frequency="4" logDice="7.38">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_7d18868a4d96322e862a8e6591930019">površine</comp>
+            </collocation>
+            <collocation form="odlepiti s tal" cluster="2" frequency="4" logDice="6.36">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_eb748b49130a91779627e8f89256bf42">tal</comp>
+            </collocation>
+            <collocation form="odlepiti s stekla" cluster="3" frequency="4" logDice="9.31">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_99a519acd32643bbcc9d11eb32434eb6">stekla</comp>
+            </collocation>
+            <collocation form="odlepiti s pekača" cluster="4" frequency="4" logDice="9.2">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_7087b48b650da74807819277294d7115">pekača</comp>
+            </collocation>
+            <collocation form="odlepiti z mesta" cluster="5" frequency="24" logDice="6.9">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesta</comp>
+            </collocation>
+            <collocation form="odlepiti s steze" cluster="6" frequency="5" logDice="6.81">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_7af935df9961e2f997261a0ac6c9e325">steze</comp>
+            </collocation>
+            <collocation form="odlepiti z obraza" cluster="7" frequency="4" logDice="6.46">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_ace2f15ed5cc3848b7740939ded1abe9">obraza</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="odlepiti z lopatko" cluster="1" frequency="10" logDice="10.11">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_013daa7f7b9f29311952ce320fd402c0">lopatko</comp>
+            </collocation>
+            <collocation form="odlepiti z nožem" cluster="2" frequency="4" logDice="4.08">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_7d4ddc25fa427a9f102158111391e200">nožem</comp>
+            </collocation>
+            <collocation form="odlepiti z lahkoto" cluster="3" frequency="7" logDice="3.87">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_1775909f19f3cbcca70406484db6a28e">lahkoto</comp>
+            </collocation>
+            <collocation form="odlepiti s težavo" cluster="4" frequency="5" logDice="2.8">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težavo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="odlepiti za zadetek" cluster="1" frequency="4" logDice="6.39">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_ff53514b16622225843cbe2fefb8a5ec">zadetek</comp>
+            </collocation>
+            <collocation form="odlepiti za točko" cluster="2" frequency="12" logDice="5.2">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_bb52716a00bd608f858395465b1c985a">točko</comp>
+            </collocation>
+            <collocation form="odlepiti za trenutek" cluster="3" frequency="8" logDice="4.03">
+              <comp position="1" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_20e42f7c3b00f5a4a38e89957060a1f2">trenutek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz INF-GBZ">
+          <collocations>
+            <collocation form="uspeti odlepiti" cluster="1" frequency="108" logDice="4.52">
+              <comp position="1" type="collocate" sloleks="LE_f74450fd8cda7d6b987934ed6da89908">uspeti</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="moči odlepiti" cluster="2" frequency="80" logDice="3.95">
+              <comp position="1" type="collocate" sloleks="LE_d0d5036f97e772cb509411764a3a7f9e">moči</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="znati odlepiti" cluster="2" frequency="7" logDice="0.74">
+              <comp position="1" type="collocate" sloleks="LE_6feb882845b743bbe44baa4fc144910c">znati</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="hoteti odlepiti" cluster="3" frequency="25" logDice="1.73">
+              <comp position="1" type="collocate" sloleks="LE_241ed9c84c6998d75befbc0c88f7151e">hoteti</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="želeti odlepiti" cluster="3" frequency="15" logDice="0.55">
+              <comp position="1" type="collocate" sloleks="LE_17ffd1287d6ed148bbb9efebc7ef0868">želeti</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="skušati odlepiti" cluster="3" frequency="14" logDice="1.87">
+              <comp position="1" type="collocate" sloleks="LE_215674d5e3ac8fdf9f325a2607209864">skušati</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="poskušati odlepiti" cluster="3" frequency="11" logDice="1.45">
+              <comp position="1" type="collocate" sloleks="LE_9c7f2d72d37d6705eaaa7d06ef424fb1">poskušati</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz INF-GBZ">
+          <collocations>
+            <collocation form="ne uspeti odlepiti" cluster="1" frequency="77" logDice="5.82">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_f74450fd8cda7d6b987934ed6da89908">uspeti</comp>
+              <comp position="3" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="ne hoteti odlepiti" cluster="2" frequency="9" logDice="3.27">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_241ed9c84c6998d75befbc0c88f7151e">hoteti</comp>
+              <comp position="3" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="ne moči odlepiti" cluster="3" frequency="157" logDice="3.23">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_d0d5036f97e772cb509411764a3a7f9e">moči</comp>
+              <comp position="3" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="ne znati odlepiti" cluster="4" frequency="5" logDice="1.84">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_6feb882845b743bbe44baa4fc144910c">znati</comp>
+              <comp position="3" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="rezultatsko odlepiti" cluster="1" frequency="15" logDice="8.5">
+              <comp position="1" type="collocate" sloleks="">rezultatsko</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="previdno odlepiti" cluster="2" frequency="19" logDice="5.64">
+              <comp position="1" type="collocate" sloleks="LE_10458565afb0ca3ac4c6f25eaa4b941b">previdno</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="hitro odlepiti" cluster="3" frequency="41" logDice="2.6">
+              <comp position="1" type="collocate" sloleks="LE_cb95fbdb78349dad33e3d99ea7f281a8">hitro</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="spet odlepiti" cluster="3" frequency="41" logDice="2.39">
+              <comp position="1" type="collocate" sloleks="LE_262d335ce33e8c5f94849e677bc83a19">spet</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="končno odlepiti" cluster="3" frequency="38" logDice="3.67">
+              <comp position="1" type="collocate" sloleks="LE_a6b54d29d4623d8017627af2e317e356">končno</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="dokončno odlepiti" cluster="3" frequency="26" logDice="4.31">
+              <comp position="1" type="collocate" sloleks="LE_1b1364db6a65bb7d8e0561ff87f682a5">dokončno</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="težko odlepiti" cluster="3" frequency="24" logDice="1.81">
+              <comp position="1" type="collocate" sloleks="LE_1b2258380d2b90f394d61087a8c6ff51">težko</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="znova odlepiti" cluster="3" frequency="23" logDice="2.29">
+              <comp position="1" type="collocate" sloleks="LE_4f000489fb7f7a863547f5ae46af4f41">znova</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="prvič odlepiti" cluster="3" frequency="21" logDice="2.42">
+              <comp position="1" type="collocate" sloleks="LE_158f9759a5a0a0e9ff58fb78bcd899f2">prvič</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="počasi odlepiti" cluster="3" frequency="17" logDice="2.67">
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="ponovno odlepiti" cluster="3" frequency="14" logDice="1.92">
+              <comp position="1" type="collocate" sloleks="LE_d94a650618c4501cb830dca806e400ed">ponovno</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="zlahka odlepiti" cluster="3" frequency="13" logDice="3.84">
+              <comp position="1" type="collocate" sloleks="LE_ebc31a7d1da956cdbb39e94e32d45b5e">zlahka</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="preprosto odlepiti" cluster="3" frequency="12" logDice="2.36">
+              <comp position="1" type="collocate" sloleks="LE_9aa4c8fe2067ba27e01dd34632bb062a">preprosto</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="takoj odlepiti" cluster="3" frequency="11" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_63831e752d3a6105c3245c75b9779495">takoj</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="prej odlepiti" cluster="3" frequency="8" logDice="0.89">
+              <comp position="1" type="collocate" sloleks="LE_25430d3959f90161be5f8125f60962ef">prej</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="kmalu odlepiti" cluster="3" frequency="8" logDice="0.85">
+              <comp position="1" type="collocate" sloleks="LE_ced824ab75f7c67449dd92c1d3fa5432">kmalu</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="zopet odlepiti" cluster="3" frequency="7" logDice="3.14">
+              <comp position="1" type="collocate" sloleks="LE_425cc478f2213268c8c4e26eb40ad876">zopet</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="vnovič odlepiti" cluster="3" frequency="7" logDice="3.37">
+              <comp position="1" type="collocate" sloleks="LE_3d4c02847e38d9597bd5b68b5f060602">vnovič</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="enostavno odlepiti" cluster="3" frequency="6" logDice="2.24">
+              <comp position="1" type="collocate" sloleks="LE_1742969fa982d14b68f426dd1a897788">enostavno</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="komaj odlepiti" cluster="4" frequency="8" logDice="2.44">
+              <comp position="1" type="collocate" sloleks="LE_9ea33a120c61abccd692d0a2ee823d0c">komaj</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="nekoliko odlepiti" cluster="5" frequency="58" logDice="4.58">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="bolj odlepiti" cluster="5" frequency="23" logDice="1.54">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="malce odlepiti" cluster="5" frequency="12" logDice="3.22">
+              <comp position="1" type="collocate" sloleks="LE_2eec11a38ac5bbb5fa6d7682c1224a82">malce</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="povsem odlepiti" cluster="5" frequency="11" logDice="2.17">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="malo odlepiti" cluster="5" frequency="10" logDice="1.29">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="nekako odlepiti" cluster="5" frequency="8" logDice="2.31">
+              <comp position="1" type="collocate" sloleks="LE_a96326ed8c158842276cc429a0b285f7">nekako</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="stežka odlepiti" cluster="6" frequency="6" logDice="4.78">
+              <comp position="1" type="collocate" sloleks="LE_792c30a117258e54cb756bb9a23026f1">stežka</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="uspešno odlepiti" cluster="7" frequency="6" logDice="0.96">
+              <comp position="1" type="collocate" sloleks="LE_1261ffe39150e62ae7fb3419f7a831f4">uspešno</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="nato odlepiti" cluster="8" frequency="9" logDice="0.5">
+              <comp position="1" type="collocate" sloleks="LE_48b590fef344f946aab71b9b67d40282">nato</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+            <collocation form="občutno odlepiti" cluster="9" frequency="9" logDice="4.68">
+              <comp position="1" type="collocate" sloleks="LE_bf8e7f4519ce8ea66bc4ee227aa8306c">občutno</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1b93d4d3146e30db25725b2528e3e1">odlepiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

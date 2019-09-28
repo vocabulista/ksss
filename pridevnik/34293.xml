@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="34293">socialnodemokratski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">529</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="socialnodemokratski ali socialističen" cluster="1" frequency="7" logDice="8.39">
+              <comp position="1" type="headword" sloleks="LE_6037766f5aec1276d2e47a3c9a7e0b29">socialnodemokratski</comp>
+              <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_c433e8a757ba578b834f516a94b41979">socialističen</comp>
+            </collocation>
+            <collocation form="socialnodemokratski in/ali liberalen" cluster="2" frequency="5" logDice="6.81">
+              <comp position="3" type="headword" sloleks="LE_6037766f5aec1276d2e47a3c9a7e0b29">socialnodemokratski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_d6300700bbed4057c190a69735347637">liberalen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="socialnodemokratska stranka" cluster="1" frequency="270" logDice="4.66">
+              <comp position="1" type="headword" sloleks="LE_6037766f5aec1276d2e47a3c9a7e0b29">socialnodemokratska</comp>
+              <comp position="2" type="collocate" sloleks="LE_945a204a300f28702820c4bc0481d2e7">stranka</comp>
+            </collocation>
+            <collocation form="socialnodemokratska vlada" cluster="1" frequency="21" logDice="1.66">
+              <comp position="1" type="headword" sloleks="LE_6037766f5aec1276d2e47a3c9a7e0b29">socialnodemokratska</comp>
+              <comp position="2" type="collocate" sloleks="LE_63d183132c68728be91773043828fb2d">vlada</comp>
+            </collocation>
+            <collocation form="socialnodemokratska zveza" cluster="1" frequency="13" logDice="0.61">
+              <comp position="1" type="headword" sloleks="LE_6037766f5aec1276d2e47a3c9a7e0b29">socialnodemokratska</comp>
+              <comp position="2" type="collocate" sloleks="LE_f685db62cc2d867e40d31988d86fbd1e">zveza</comp>
+            </collocation>
+            <collocation form="socialnodemokratski kancler" cluster="2" frequency="7" logDice="4.36">
+              <comp position="1" type="headword" sloleks="LE_6037766f5aec1276d2e47a3c9a7e0b29">socialnodemokratski</comp>
+              <comp position="2" type="collocate" sloleks="LE_a81fce873565cd35e133e52a2336e55e">kancler</comp>
+            </collocation>
+            <collocation form="socialnodemokratska vrednota" cluster="3" frequency="7" logDice="2.47">
+              <comp position="1" type="headword" sloleks="LE_6037766f5aec1276d2e47a3c9a7e0b29">socialnodemokratska</comp>
+              <comp position="2" type="collocate" sloleks="LE_a9a487406cac0fb4290599f62f8f14c3">vrednota</comp>
+            </collocation>
+            <collocation form="socialnodemokratsko gibanje" cluster="4" frequency="6" logDice="1.37">
+              <comp position="1" type="headword" sloleks="LE_6037766f5aec1276d2e47a3c9a7e0b29">socialnodemokratsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_fb18a6935ec3df1792bbec130bbfc90d">gibanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

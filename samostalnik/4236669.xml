@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="4236669">unikatnost</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="unikatnost izdelka" cluster="1" frequency="16" logDice="2.52">
+              <comp position="1" type="headword" sloleks="">unikatnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_bbffae950f5cec8d80d5d541602c3313">izdelka</comp>
+            </collocation>
+            <collocation form="unikatnost filma" cluster="2" frequency="9" logDice="1.43">
+              <comp position="1" type="headword" sloleks="">unikatnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_ef1ac12433b4b7e1e0c31edb0c726d89">filma</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="prisegati na unikatnost" cluster="1" frequency="5" logDice="4.13">
+              <comp position="1" type="collocate" sloleks="LE_b5cff920756d1caf931dea08f5750698">prisegati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="">unikatnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="neznosen unikatnost" cluster="1" frequency="8" logDice="5.27">
+              <comp position="1" type="collocate" sloleks="LE_c9273f3b4c8e07e6d16c556d7cc2a8a0">neznosen</comp>
+              <comp position="2" type="headword" sloleks="">unikatnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

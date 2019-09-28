@@ -1,0 +1,84 @@
+<entry>
+  <header>
+    <lexical_unit id="8022">sikniti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">1305</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ med sbz6">
+          <collocations>
+            <collocation form="sikniti med zobom" cluster="1" frequency="10" logDice="9.27">
+              <comp position="1" type="headword" sloleks="LE_9fe016818e351ec4919d2e57bfae69f4">sikniti</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_28d7c5202ac368a2a16ad5dfaf607cf6">zobom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="sikniti nazaj" cluster="1" frequency="11" logDice="2.15">
+              <comp position="1" type="headword" sloleks="LE_9fe016818e351ec4919d2e57bfae69f4">sikniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_3717c322e8fa4dddb88c242050491707">nazaj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ skozi sbz4">
+          <collocations>
+            <collocation form="sikniti skozi zob" cluster="1" frequency="81" logDice="11.95">
+              <comp position="1" type="headword" sloleks="LE_9fe016818e351ec4919d2e57bfae69f4">sikniti</comp>
+              <comp position="2" type="other" sloleks="LE_ebc04cc308e03e1880853d61a3c2bb70">skozi</comp>
+              <comp position="3" type="collocate" sloleks="LE_28d7c5202ac368a2a16ad5dfaf607cf6">zob</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="sikniti z glasom" cluster="1" frequency="5" logDice="3.56">
+              <comp position="1" type="headword" sloleks="LE_9fe016818e351ec4919d2e57bfae69f4">sikniti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_bdaf56c7a9eddd2562b11c97c0770037">glasom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="strupeno sikniti" cluster="1" frequency="4" logDice="8.3">
+              <comp position="1" type="collocate" sloleks="LE_82dfae592800ec9c8803fdf1b9e507ae">strupeno</comp>
+              <comp position="2" type="headword" sloleks="LE_9fe016818e351ec4919d2e57bfae69f4">sikniti</comp>
+            </collocation>
+            <collocation form="jezno sikniti" cluster="2" frequency="22" logDice="7.3">
+              <comp position="1" type="collocate" sloleks="LE_6e6c1e766127cd36dec8afb449abfe00">jezno</comp>
+              <comp position="2" type="headword" sloleks="LE_9fe016818e351ec4919d2e57bfae69f4">sikniti</comp>
+            </collocation>
+            <collocation form="besno sikniti" cluster="2" frequency="16" logDice="7.6">
+              <comp position="1" type="collocate" sloleks="LE_eccc5c4775e017ef7c31b6fd9c405b89">besno</comp>
+              <comp position="2" type="headword" sloleks="LE_9fe016818e351ec4919d2e57bfae69f4">sikniti</comp>
+            </collocation>
+            <collocation form="hladno sikniti" cluster="3" frequency="5" logDice="5.69">
+              <comp position="1" type="collocate" sloleks="LE_bfacc457ec54c23723ebe53e4358b714">hladno</comp>
+              <comp position="2" type="headword" sloleks="LE_9fe016818e351ec4919d2e57bfae69f4">sikniti</comp>
+            </collocation>
+            <collocation form="tiho sikniti" cluster="4" frequency="7" logDice="4.15">
+              <comp position="1" type="collocate" sloleks="LE_6caaa1caafbcefef7dcc792f954c5913">tiho</comp>
+              <comp position="2" type="headword" sloleks="LE_9fe016818e351ec4919d2e57bfae69f4">sikniti</comp>
+            </collocation>
+            <collocation form="glasno sikniti" cluster="4" frequency="7" logDice="3.45">
+              <comp position="1" type="collocate" sloleks="LE_8d32e8ffef5c2d930893f51f039b425a">glasno</comp>
+              <comp position="2" type="headword" sloleks="LE_9fe016818e351ec4919d2e57bfae69f4">sikniti</comp>
+            </collocation>
+            <collocation form="nekajkrat sikniti" cluster="4" frequency="5" logDice="2.63">
+              <comp position="1" type="collocate" sloleks="LE_08ea693dafe4d3da0d85fa9d66577823">nekajkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_9fe016818e351ec4919d2e57bfae69f4">sikniti</comp>
+            </collocation>
+            <collocation form="mimogrede sikniti" cluster="4" frequency="4" logDice="3.53">
+              <comp position="1" type="collocate" sloleks="LE_70e6281511988e8c91d61a137b0d5350">mimogrede</comp>
+              <comp position="2" type="headword" sloleks="LE_9fe016818e351ec4919d2e57bfae69f4">sikniti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

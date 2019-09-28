@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="802">dezertirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">402</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ iz sbz2">
+          <collocations>
+            <collocation form="dezertirati iz JLA" cluster="1" frequency="11" logDice="10.68">
+              <comp position="1" type="headword" sloleks="LE_8097cc68dfe51ff2e73c1daecdadbe63">dezertirati</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_ae7dbe1b082e2aed0f625ee83f15d00c|LE_7a18613d52c6aa5ef788170f9c57a0e5">JLA</comp>
+            </collocation>
+            <collocation form="dezertirati iz armade" cluster="2" frequency="6" logDice="10.6">
+              <comp position="1" type="headword" sloleks="LE_8097cc68dfe51ff2e73c1daecdadbe63">dezertirati</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_2e1d19a515723ecfa205b850a141245f">armade</comp>
+            </collocation>
+            <collocation form="dezertirati iz vojske" cluster="3" frequency="23" logDice="9.54">
+              <comp position="1" type="headword" sloleks="LE_8097cc68dfe51ff2e73c1daecdadbe63">dezertirati</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_014592c93c5ecc51294b73e71f55d921">vojske</comp>
+            </collocation>
+            <collocation form="dezertirati iz partizana" cluster="4" frequency="4" logDice="9.28">
+              <comp position="1" type="headword" sloleks="LE_8097cc68dfe51ff2e73c1daecdadbe63">dezertirati</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_9f6e9baa85675dad429a3406ef675baf">partizana</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ med sbz6">
+          <collocations>
+            <collocation form="dezertirati med vojno" cluster="1" frequency="8" logDice="3.54">
+              <comp position="1" type="headword" sloleks="LE_8097cc68dfe51ff2e73c1daecdadbe63">dezertirati</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_b0936a94a2134cd7fa018cf829ffd67c">vojno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="množično dezertirati" cluster="1" frequency="11" logDice="4.93">
+              <comp position="1" type="collocate" sloleks="LE_8db81a4430a5bc712186a408897cf300">množično</comp>
+              <comp position="2" type="headword" sloleks="LE_8097cc68dfe51ff2e73c1daecdadbe63">dezertirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

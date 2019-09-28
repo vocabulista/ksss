@@ -1,0 +1,61 @@
+<entry>
+  <header>
+    <lexical_unit id="5692">poscati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">611</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="poscati na grob" cluster="1" frequency="4" logDice="6.78">
+              <comp position="1" type="headword" sloleks="LE_283833eb0fa37244e5208784ee4be28b">poscati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_d56403be43e952c9b37f5f1cadb243c2">grob</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ od sbz2">
+          <collocations>
+            <collocation form="poscati od smeha" cluster="1" frequency="11" logDice="7.61">
+              <comp position="1" type="headword" sloleks="LE_283833eb0fa37244e5208784ee4be28b">poscati</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_3c4ec3ec1188a2f4a5fa0b066496c90d">smeha</comp>
+            </collocation>
+            <collocation form="poscati od strahu" cluster="2" frequency="7" logDice="6.98">
+              <comp position="1" type="headword" sloleks="LE_283833eb0fa37244e5208784ee4be28b">poscati</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_ec7941261a5b1a40fb742699e58175ca">strahu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="poscati v hlače" cluster="1" frequency="10" logDice="7.9">
+              <comp position="1" type="headword" sloleks="LE_283833eb0fa37244e5208784ee4be28b">poscati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_a305c5239efe00bca5aa33dc4093e5e8">hlače</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="dobesedno poscati" cluster="1" frequency="6" logDice="2.86">
+              <comp position="1" type="collocate" sloleks="LE_bffec2e3c44400c319dff55bd9852452">dobesedno</comp>
+              <comp position="2" type="headword" sloleks="LE_283833eb0fa37244e5208784ee4be28b">poscati</comp>
+            </collocation>
+            <collocation form="enostavno poscati" cluster="2" frequency="4" logDice="1.68">
+              <comp position="1" type="collocate" sloleks="LE_1742969fa982d14b68f426dd1a897788">enostavno</comp>
+              <comp position="2" type="headword" sloleks="LE_283833eb0fa37244e5208784ee4be28b">poscati</comp>
+            </collocation>
+            <collocation form="raje poscati" cluster="3" frequency="4" logDice="0.31">
+              <comp position="1" type="collocate" sloleks="LE_ffbac6bb621f782b67fe85e3adf7bf8e">raje</comp>
+              <comp position="2" type="headword" sloleks="LE_283833eb0fa37244e5208784ee4be28b">poscati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

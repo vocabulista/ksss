@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="29316">poltog</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1005</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="poltoga prema" cluster="1" frequency="899" logDice="12.01">
+              <comp position="1" type="headword" sloleks="LE_4c895d4b0bb369d7417545aa1aee6979">poltoga</comp>
+              <comp position="2" type="collocate" sloleks="LE_9e83fee0553c4294dff0fa765a83ec7a">prema</comp>
+            </collocation>
+            <collocation form="poltoga vzmet" cluster="2" frequency="18" logDice="6.67">
+              <comp position="1" type="headword" sloleks="LE_4c895d4b0bb369d7417545aa1aee6979">poltoga</comp>
+              <comp position="2" type="collocate" sloleks="LE_91fc27781b8aa87f0a91524967d0d428">vzmet</comp>
+            </collocation>
+            <collocation form="poltogo vodilo" cluster="3" frequency="11" logDice="4.52">
+              <comp position="1" type="headword" sloleks="LE_4c895d4b0bb369d7417545aa1aee6979">poltogo</comp>
+              <comp position="2" type="collocate" sloleks="LE_90175db4ff819a517fc6b3d785e0d233">vodilo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="zadaj poltog" cluster="1" frequency="331" logDice="11.15">
+              <comp position="1" type="collocate" sloleks="LE_6a7d6c4f5d82e0b18dede47545b3e169">zadaj</comp>
+              <comp position="2" type="headword" sloleks="LE_4c895d4b0bb369d7417545aa1aee6979">poltog</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

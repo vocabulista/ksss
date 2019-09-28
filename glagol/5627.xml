@@ -1,0 +1,787 @@
+<entry>
+  <header>
+    <lexical_unit id="5627">porabljati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">4784</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ brez sbz2">
+          <collocations>
+            <collocation form="porabljati brez nadzora" cluster="1" frequency="4" logDice="6.93">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="collocate" sloleks="LE_18a2adc6a9e973e769119006405e1c9d">nadzora</comp>
+            </collocation>
+            <collocation form="porabljati brez potrebe" cluster="2" frequency="4" logDice="6.41">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="collocate" sloleks="LE_16bf4d92d7aaee11efd4c8603b6e4ee0">potrebe</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ med sbz6">
+          <collocations>
+            <collocation form="porabljati med vadbo" cluster="1" frequency="8" logDice="8.47">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_c6822286ba08e7ba8bd35ce06b38ce02">vadbo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="porabljati na način" cluster="1" frequency="23" logDice="2.04">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_78347f5e8e1e11f66d26223c13ba02df">način</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="porabljati na področju" cluster="1" frequency="5" logDice="1.26">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_66c02e1a651f578a71415b967738b69b">področju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ pri sbz5">
+          <collocations>
+            <collocation form="porabljati pri tlaku" cluster="1" frequency="5" logDice="9.09">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_03e4aaf90c3328279b3a0f35ddf7a257">tlaku</comp>
+            </collocation>
+            <collocation form="porabljati pri reakciji" cluster="2" frequency="9" logDice="9.02">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_a314cc18ca84b3101f505a1c1b53ec3e">reakciji</comp>
+            </collocation>
+            <collocation form="porabljati pri dihanju" cluster="3" frequency="5" logDice="8.79">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_72acaba17d11877d28ed5ad61b317973">dihanju</comp>
+            </collocation>
+            <collocation form="porabljati pri proizvodnji" cluster="4" frequency="5" logDice="7.2">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_4a1754c19d9e05c064189e8d6ddbd00a">proizvodnji</comp>
+            </collocation>
+            <collocation form="porabljati pri delu" cluster="5" frequency="5" logDice="2.8">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="porabljati nenamensko" cluster="1" frequency="23" logDice="9.64">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_97187b9966eec72d1a53baca4e43d6b9">nenamensko</comp>
+            </collocation>
+            <collocation form="porabljati neracionalno" cluster="1" frequency="9" logDice="8.27">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_2535714d1af763331756e7d63508759e">neracionalno</comp>
+            </collocation>
+            <collocation form="porabljati namensko" cluster="2" frequency="29" logDice="9.07">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_674a61966771ca734598fa04ab79622a">namensko</comp>
+            </collocation>
+            <collocation form="porabljati neposredno" cluster="3" frequency="15" logDice="3.79">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_f4baee16770b9414bad0fbf607024105">neposredno</comp>
+            </collocation>
+            <collocation form="porabljati izključno" cluster="3" frequency="8" logDice="3.21">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_9094d5d5663045696cc79d5ebe64e63a">izključno</comp>
+            </collocation>
+            <collocation form="porabljati več" cluster="4" frequency="86" logDice="2.25">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_35a40117ea9b0ca39c7a43d940592d29">več</comp>
+            </collocation>
+            <collocation form="porabljati veliko" cluster="4" frequency="63" logDice="2.19">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_431ef7ec57af288ca0e781bb12f6e7f0">veliko</comp>
+            </collocation>
+            <collocation form="porabljati manj" cluster="4" frequency="53" logDice="4.26">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_ecab8216e0225b7e80d79b53bd9b8959">manj</comp>
+            </collocation>
+            <collocation form="porabljati preveč" cluster="4" frequency="26" logDice="2.6">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+            </collocation>
+            <collocation form="porabljati zelo" cluster="4" frequency="24" logDice="0.56">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_195d60c164b7057008d21b29153e2352">zelo</comp>
+            </collocation>
+            <collocation form="porabljati vse" cluster="4" frequency="17" logDice="0.82">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_69e1f6ea0eba690182112fa5f7865561">vse</comp>
+            </collocation>
+            <collocation form="porabljati toliko" cluster="4" frequency="16" logDice="1.86">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_e8a73a0e682431303071ff7537eabf4b">toliko</comp>
+            </collocation>
+            <collocation form="porabljati vedno" cluster="4" frequency="11" logDice="0.24">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_eaabd5718a27f818fd47358031426355">vedno</comp>
+            </collocation>
+            <collocation form="porabljati največ" cluster="4" frequency="10" logDice="1.73">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_8d628c69b249ded817d7ad2cae1d9a95">največ</comp>
+            </collocation>
+            <collocation form="porabljati bolj" cluster="4" frequency="10" logDice="0.17">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+            </collocation>
+            <collocation form="porabljati sproti" cluster="5" frequency="11" logDice="5.4">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_ce593b33a1546924b2c4514ccc2a3bab">sproti</comp>
+            </collocation>
+            <collocation form="porabljati hitro" cluster="5" frequency="8" logDice="1.75">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_cb95fbdb78349dad33e3d99ea7f281a8">hitro</comp>
+            </collocation>
+            <collocation form="porabljati racionalno" cluster="6" frequency="13" logDice="7.33">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_a7f51e8748d461cf373bf9f8028fd4d9">racionalno</comp>
+            </collocation>
+            <collocation form="porabljati smotrno" cluster="6" frequency="8" logDice="6.74">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_1039215bd6fb4dca73e99b6f2d7cfbb7">smotrno</comp>
+            </collocation>
+            <collocation form="porabljati ogromno" cluster="7" frequency="9" logDice="3.21">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_51c1e5f0ff5769e6642d9381e1f14558">ogromno</comp>
+            </collocation>
+            <collocation form="porabljati čedalje" cluster="7" frequency="8" logDice="3.73">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_c34784b7371f5498bb6493344ad93037">čedalje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="porabljati kalorijo" cluster="1" frequency="49" logDice="9.52">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_a3afd6952d77ebe747957182201d532e">kalorijo</comp>
+            </collocation>
+            <collocation form="porabljati kisik" cluster="2" frequency="73" logDice="9.36">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b08d9220f272f83dd41d5b78d77c3210">kisik</comp>
+            </collocation>
+            <collocation form="porabljati rezervo" cluster="3" frequency="20" logDice="6.72">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_4a2f434692b6b0568a041c3ab242ff68">rezervo</comp>
+            </collocation>
+            <collocation form="porabljati elektriko" cluster="4" frequency="20" logDice="6.59">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_c960b0de93041afd6648c441bcb0c382">elektriko</comp>
+            </collocation>
+            <collocation form="porabljati hidrat" cluster="5" frequency="6" logDice="6.44">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_3f53f332fdb0f8c5a21fc48fbc45db20">hidrat</comp>
+            </collocation>
+            <collocation form="porabljati glukozo" cluster="5" frequency="6" logDice="6.78">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_e40ef094069a9674071e278aaec84eed">glukozo</comp>
+            </collocation>
+            <collocation form="porabljati dioksid" cluster="6" frequency="4" logDice="6.27">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6ca8caa4bfc217f46f5750e98a5099ad">dioksid</comp>
+            </collocation>
+            <collocation form="porabljati maščobo" cluster="7" frequency="43" logDice="8.22">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_cd6a14550381c72a11b86eec7a7873ff">maščobo</comp>
+            </collocation>
+            <collocation form="porabljati snov" cluster="7" frequency="18" logDice="5.64">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_e3520ad3a55d265bbaf91aacf6222027">snov</comp>
+            </collocation>
+            <collocation form="porabljati sladkor" cluster="7" frequency="10" logDice="5.22">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_da4f2da25b1df3ceda67d3f1a7d28518">sladkor</comp>
+            </collocation>
+            <collocation form="porabljati vitamin" cluster="7" frequency="7" logDice="5.88">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_0bd7ff521eca4f96eea3119f05ca7924">vitamin</comp>
+            </collocation>
+            <collocation form="porabljati dobrino" cluster="8" frequency="4" logDice="5.55">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_96764f8483833022d9ea21c4fa618ef3">dobrino</comp>
+            </collocation>
+            <collocation form="porabljati denar" cluster="9" frequency="331" logDice="6.74">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denar</comp>
+            </collocation>
+            <collocation form="porabljati energijo" cluster="9" frequency="314" logDice="8.64">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_a5b5cd7c325eb8bbda86e3d9bb680b09">energijo</comp>
+            </collocation>
+            <collocation form="porabljati sredstvo" cluster="9" frequency="147" logDice="6.74">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_94c4f4cf5104632466509789b5cde032">sredstvo</comp>
+            </collocation>
+            <collocation form="porabljati vir" cluster="9" frequency="20" logDice="5.54">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_f2868b5fa7700f4f1a6833f2b2436164">vir</comp>
+            </collocation>
+            <collocation form="porabljati moč" cluster="9" frequency="11" logDice="2.82">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_0b71c85c50e39f2c8cb5e91791d67af9">moč</comp>
+            </collocation>
+            <collocation form="porabljati hrano" cluster="9" frequency="7" logDice="3.08">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_4b3b80327bf9e7fafcc3a73e85eae950">hrano</comp>
+            </collocation>
+            <collocation form="porabljati gorivo" cluster="10" frequency="30" logDice="7.46">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_80d289a950bb91a0a536512300030724">gorivo</comp>
+            </collocation>
+            <collocation form="porabljati bencin" cluster="10" frequency="5" logDice="5.51">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6984b11fb24ba064cf76ac80900b5543">bencin</comp>
+            </collocation>
+            <collocation form="porabljati nafto" cluster="10" frequency="4" logDice="4.81">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_2aa2118f9df21c936cbc2fb16d52484d">nafto</comp>
+            </collocation>
+            <collocation form="porabljati dohodek" cluster="11" frequency="41" logDice="7.34">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_ec784d5d1024ff76eeea2a16583f1cd1">dohodek</comp>
+            </collocation>
+            <collocation form="porabljati vsoto" cluster="11" frequency="9" logDice="4.71">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_970da04f77d31547dfc885d0ecfe5ecc">vsoto</comp>
+            </collocation>
+            <collocation form="porabljati prihranek" cluster="11" frequency="7" logDice="5.27">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_12be0f8348d7244f50b5115dcd9e4165">prihranek</comp>
+            </collocation>
+            <collocation form="porabljati presežek" cluster="11" frequency="6" logDice="5.14">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_2da04cb1b6d4e7b28d8f24e4e0e1f1e6">presežek</comp>
+            </collocation>
+            <collocation form="porabljati količino" cluster="12" frequency="31" logDice="5.26">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_962c73eca27e836ddb2ea664db69f933">količino</comp>
+            </collocation>
+            <collocation form="porabljati zalogo" cluster="12" frequency="22" logDice="6.81">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_635fdef94aa6842d3ac1b159a8587903">zalogo</comp>
+            </collocation>
+            <collocation form="porabljati toploto" cluster="13" frequency="6" logDice="5.26">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_5372ef325ce1c25b8a022db84cf6546b">toploto</comp>
+            </collocation>
+            <collocation form="porabljati maso" cluster="14" frequency="6" logDice="4.95">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_63a0fbbb7b40f249d202d61b3ead2f07">maso</comp>
+            </collocation>
+            <collocation form="porabljati vodo" cluster="15" frequency="22" logDice="4.46">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_0d8cbba4e56fea63657ac746d29cd047">vodo</comp>
+            </collocation>
+            <collocation form="porabljati dopust" cluster="16" frequency="5" logDice="4.23">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_ea3b759d817dc95ae095d25e04fad9bd">dopust</comp>
+            </collocation>
+            <collocation form="porabljati mišico" cluster="17" frequency="6" logDice="4.18">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_8cb637c99a79db8dda2b76102818f9be">mišico</comp>
+            </collocation>
+            <collocation form="porabljati tok" cluster="18" frequency="5" logDice="3.95">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_9c9e617811ddd36d62c6aedbd73b9db5">tok</comp>
+            </collocation>
+            <collocation form="porabljati čas" cluster="19" frequency="50" logDice="3.7">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">čas</comp>
+            </collocation>
+            <collocation form="porabljati dan" cluster="19" frequency="10" logDice="0.94">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_687a3a5f213dba3724e626216f1b09da">dan</comp>
+            </collocation>
+            <collocation form="porabljati mesec" cluster="19" frequency="6" logDice="2.15">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_d87e72e2a6ded77b0ae520112759ad42">mesec</comp>
+            </collocation>
+            <collocation form="porabljati leto" cluster="19" frequency="5" logDice="0.1">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leto</comp>
+            </collocation>
+            <collocation form="porabljati milijon" cluster="20" frequency="9" logDice="3.27">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_2a2331d56b991dd431d773c6fd13ad7f">milijon</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="porabljati v namen" cluster="1" frequency="22" logDice="4.66">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_b8bfcb1562b01862546effca7cc27d06">namen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="porabljati v mirovanju" cluster="1" frequency="6" logDice="8.49">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_48adc983682b933bef2ae21e37356d38">mirovanju</comp>
+            </collocation>
+            <collocation form="porabljati v skladu" cluster="2" frequency="12" logDice="2.82">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_799c26a9ef189681d32106d72cb282a0">skladu</comp>
+            </collocation>
+            <collocation form="porabljati v procesu" cluster="2" frequency="9" logDice="5.21">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_16c53d1ebb90a9bc6324b676ef5003b8">procesu</comp>
+            </collocation>
+            <collocation form="porabljati v količini" cluster="3" frequency="4" logDice="4.46">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_962c73eca27e836ddb2ea664db69f933">količini</comp>
+            </collocation>
+            <collocation form="porabljati v vodi" cluster="4" frequency="5" logDice="3.04">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_0d8cbba4e56fea63657ac746d29cd047">vodi</comp>
+            </collocation>
+            <collocation form="porabljati v meri" cluster="5" frequency="7" logDice="2.25">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_bb15e9b82aee6708602364eaa5091645">meri</comp>
+            </collocation>
+            <collocation form="porabljati v trenutku" cluster="5" frequency="4" logDice="0.58">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_20e42f7c3b00f5a4a38e89957060a1f2">trenutku</comp>
+            </collocation>
+            <collocation form="porabljati v času" cluster="6" frequency="5" logDice="-0.53">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">času</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="porabljati za financiranje" cluster="1" frequency="22" logDice="8.02">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_1974c3c559c990795cb0de77b5c9da8e">financiranje</comp>
+            </collocation>
+            <collocation form="porabljati za vzdrževanje" cluster="1" frequency="8" logDice="6.33">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_6743d322a85bec0387db75539eea1f33">vzdrževanje</comp>
+            </collocation>
+            <collocation form="porabljati za reševanje" cluster="1" frequency="6" logDice="5.74">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_1ca3bfba8a0ee2bbb56ac27d1c53d46e">reševanje</comp>
+            </collocation>
+            <collocation form="porabljati za izdelavo" cluster="1" frequency="5" logDice="5.1">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_58e4c9eb6d6ddc69a009737fc482eaa5">izdelavo</comp>
+            </collocation>
+            <collocation form="porabljati za izvedbo" cluster="1" frequency="4" logDice="4.72">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_eac3c24d63d8726c39a0f4570aa48a38">izvedbo</comp>
+            </collocation>
+            <collocation form="porabljati za obnavljanje" cluster="2" frequency="5" logDice="7.45">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_2c5148abe9d08898475ee6c5f42fc2e4">obnavljanje</comp>
+            </collocation>
+            <collocation form="porabljati za plačilo" cluster="3" frequency="6" logDice="5.3">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_3bb5e78707260b905240767d7a877341">plačilo</comp>
+            </collocation>
+            <collocation form="porabljati za plačevanje" cluster="3" frequency="4" logDice="6.73">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_94140f5f661b1cd220c1a624d412d1a1">plačevanje</comp>
+            </collocation>
+            <collocation form="porabljati za delovanje" cluster="4" frequency="26" logDice="6.68">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_3af6feb1ad49bf57ea9c005fefeb07cc">delovanje</comp>
+            </collocation>
+            <collocation form="porabljati za nakup" cluster="4" frequency="15" logDice="4.73">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_a1ab00519230d9a2b9b9d13c6d348162">nakup</comp>
+            </collocation>
+            <collocation form="porabljati za delo" cluster="4" frequency="12" logDice="2.94">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+            </collocation>
+            <collocation form="porabljati za projekt" cluster="4" frequency="11" logDice="4.83">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_a34c0db39bb0196a80c5f3b9f5391fea">projekt</comp>
+            </collocation>
+            <collocation form="porabljati za proizvodnjo" cluster="4" frequency="9" logDice="6.52">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_4a1754c19d9e05c064189e8d6ddbd00a">proizvodnjo</comp>
+            </collocation>
+            <collocation form="porabljati za naložbo" cluster="4" frequency="9" logDice="5.21">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_7e54578f86482491986bdc333a002cf2">naložbo</comp>
+            </collocation>
+            <collocation form="porabljati za dejavnost" cluster="4" frequency="8" logDice="4.95">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_7fd9651ddee6b84cd9c853211be163f8">dejavnost</comp>
+            </collocation>
+            <collocation form="porabljati za potrebo" cluster="4" frequency="8" logDice="4.79">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_16bf4d92d7aaee11efd4c8603b6e4ee0">potrebo</comp>
+            </collocation>
+            <collocation form="porabljati za razvoj" cluster="4" frequency="6" logDice="3.97">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_59210d6d596fdb364ef1653bd49f3a75">razvoj</comp>
+            </collocation>
+            <collocation form="porabljati za program" cluster="4" frequency="4" logDice="4.09">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_2da10dc9e8a0e2ff7fd5a1ddd0278e88">program</comp>
+            </collocation>
+            <collocation form="porabljati za gradnjo" cluster="4" frequency="4" logDice="3.86">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_3625065aad7c72d3cd7d1c94e3b12e46">gradnjo</comp>
+            </collocation>
+            <collocation form="porabljati za pogon" cluster="5" frequency="8" logDice="6.64">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_4f66efe3bc56e39a131be9f6acd56121">pogon</comp>
+            </collocation>
+            <collocation form="porabljati za ogrevanje" cluster="6" frequency="6" logDice="6.05">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_cbc81690d51d39f194b62fd889409e78">ogrevanje</comp>
+            </collocation>
+            <collocation form="porabljati za kampanjo" cluster="7" frequency="5" logDice="5.85">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_7f48b30980344a89a30c05d544406e49">kampanjo</comp>
+            </collocation>
+            <collocation form="porabljati za zabavo" cluster="8" frequency="5" logDice="4.93">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_f424c0aa3f9592f5a7a6b9d1f1271d3d">zabavo</comp>
+            </collocation>
+            <collocation form="porabljati za izlet" cluster="8" frequency="4" logDice="5.76">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_dd48061d661bc37cbc1c16e5e96d2b1a">izlet</comp>
+            </collocation>
+            <collocation form="porabljati za rast" cluster="9" frequency="16" logDice="7.16">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_e649e98037534a2cb6188b5771233fe9">rast</comp>
+            </collocation>
+            <collocation form="porabljati za stvar" cluster="9" frequency="14" logDice="5.74">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_c62e36388a9104c47cf960cd4bdf4ca3">stvar</comp>
+            </collocation>
+            <collocation form="porabljati za energijo" cluster="9" frequency="8" logDice="6.92">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_a5b5cd7c325eb8bbda86e3d9bb680b09">energijo</comp>
+            </collocation>
+            <collocation form="porabljati za zadevo" cluster="9" frequency="7" logDice="4.08">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_4aa8d2e0c34be9b2fa77533511451a66">zadevo</comp>
+            </collocation>
+            <collocation form="porabljati za hobi" cluster="10" frequency="5" logDice="7.31">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_2856d079d356cb200ec6b916aa4debf2">hobi</comp>
+            </collocation>
+            <collocation form="porabljati za namen" cluster="11" frequency="54" logDice="7.19">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b8bfcb1562b01862546effca7cc27d06">namen</comp>
+            </collocation>
+            <collocation form="porabljati za tvorbo" cluster="12" frequency="4" logDice="7.19">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_84f1d53bd0cc89734a773f6b4a6011af">tvorbo</comp>
+            </collocation>
+            <collocation form="porabljati za pokrivanje" cluster="13" frequency="7" logDice="7.18">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_d17554a7dfdac08b074c9b9e36bfc2d0">pokrivanje</comp>
+            </collocation>
+            <collocation form="porabljati za razgradnjo" cluster="14" frequency="4" logDice="7.12">
+              <comp position="1" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_301a5efaa1af5556395152abb6f9bbba">razgradnjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz INF-GBZ">
+          <collocations>
+            <collocation form="pričeti porabljati" cluster="1" frequency="12" logDice="3.65">
+              <comp position="1" type="collocate" sloleks="LE_ded1741f1de355cb4a0e75c9109c069d">pričeti</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="začeti porabljati" cluster="2" frequency="62" logDice="2.1">
+              <comp position="1" type="collocate" sloleks="LE_5526be99243d6a70e33b06d3eabd15ae">začeti</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="pomagati porabljati" cluster="3" frequency="6" logDice="1.73">
+              <comp position="1" type="collocate" sloleks="LE_2fc43d313cb40b86ed2a370a430e93c1">pomagati</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="smeti porabljati" cluster="4" frequency="6" logDice="1.23">
+              <comp position="1" type="collocate" sloleks="LE_c624979ae53df9a187bf7b5a598e6cfc">smeti</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz SBZ2">
+          <collocations>
+            <collocation form="ne porabljati energije" cluster="1" frequency="56" logDice="9.74">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="3" type="collocate" sloleks="LE_a5b5cd7c325eb8bbda86e3d9bb680b09">energije</comp>
+            </collocation>
+            <collocation form="ne porabljati denarja" cluster="1" frequency="14" logDice="4.36">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="3" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denarja</comp>
+            </collocation>
+            <collocation form="ne porabljati sredstva" cluster="1" frequency="7" logDice="4.99">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="3" type="collocate" sloleks="LE_94c4f4cf5104632466509789b5cde032">sredstva</comp>
+            </collocation>
+            <collocation form="ne porabljati moči" cluster="1" frequency="4" logDice="4.47">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="3" type="collocate" sloleks="LE_0b71c85c50e39f2c8cb5e91791d67af9">moči</comp>
+            </collocation>
+            <collocation form="ne porabljati goriva" cluster="2" frequency="7" logDice="8.93">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="3" type="collocate" sloleks="LE_80d289a950bb91a0a536512300030724">goriva</comp>
+            </collocation>
+            <collocation form="ne porabljati bencina" cluster="2" frequency="6" logDice="9.32">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="3" type="collocate" sloleks="LE_6984b11fb24ba064cf76ac80900b5543">bencina</comp>
+            </collocation>
+            <collocation form="ne porabljati kalorije" cluster="3" frequency="6" logDice="8.74">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="3" type="collocate" sloleks="LE_a3afd6952d77ebe747957182201d532e">kalorije</comp>
+            </collocation>
+            <collocation form="ne porabljati maščobe" cluster="4" frequency="7" logDice="8.32">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="3" type="collocate" sloleks="LE_cd6a14550381c72a11b86eec7a7873ff">maščobe</comp>
+            </collocation>
+            <collocation form="ne porabljati časa" cluster="5" frequency="6" logDice="2.85">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="3" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">časa</comp>
+            </collocation>
+            <collocation form="ne porabljati vode" cluster="5" frequency="4" logDice="5.24">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+              <comp position="3" type="collocate" sloleks="LE_0d8cbba4e56fea63657ac746d29cd047">vode</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="nenamensko porabljati" cluster="1" frequency="35" logDice="9.77">
+              <comp position="1" type="collocate" sloleks="LE_97187b9966eec72d1a53baca4e43d6b9">nenamensko</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="neracionalno porabljati" cluster="1" frequency="20" logDice="8.94">
+              <comp position="1" type="collocate" sloleks="LE_2535714d1af763331756e7d63508759e">neracionalno</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="negospodarno porabljati" cluster="1" frequency="9" logDice="7.91">
+              <comp position="1" type="collocate" sloleks="LE_f84e2a9bc34de1b356c5c3fb2416fd89">negospodarno</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="nesmotrno porabljati" cluster="1" frequency="9" logDice="7.83">
+              <comp position="1" type="collocate" sloleks="LE_e21908b07acd63219870bc4a8beccbc8">nesmotrno</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="učinkovito porabljati" cluster="2" frequency="31" logDice="5.5">
+              <comp position="1" type="collocate" sloleks="LE_874d48a5a96b3eaa58698f8f9a1dcb52">učinkovito</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="uspešno porabljati" cluster="2" frequency="6" logDice="0.96">
+              <comp position="1" type="collocate" sloleks="LE_1261ffe39150e62ae7fb3419f7a831f4">uspešno</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="smotrno porabljati" cluster="3" frequency="13" logDice="7.04">
+              <comp position="1" type="collocate" sloleks="LE_1039215bd6fb4dca73e99b6f2d7cfbb7">smotrno</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="koristno porabljati" cluster="3" frequency="11" logDice="5.81">
+              <comp position="1" type="collocate" sloleks="LE_c258c229049c1a401c2a8c607d35a224">koristno</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="pametno porabljati" cluster="3" frequency="7" logDice="4.52">
+              <comp position="1" type="collocate" sloleks="LE_e6ed5421e68dfad31f4585711681abf6">pametno</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="sproti porabljati" cluster="4" frequency="38" logDice="6.13">
+              <comp position="1" type="collocate" sloleks="LE_ce593b33a1546924b2c4514ccc2a3bab">sproti</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="pridno porabljati" cluster="4" frequency="10" logDice="4.08">
+              <comp position="1" type="collocate" sloleks="LE_e60ffa94c3ea9a856f174e1bf6d8c809">pridno</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="pospešeno porabljati" cluster="4" frequency="6" logDice="4.06">
+              <comp position="1" type="collocate" sloleks="">pospešeno</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="intenzivno porabljati" cluster="4" frequency="6" logDice="3.32">
+              <comp position="1" type="collocate" sloleks="LE_53d0232447bd782d9fae332e003977a1">intenzivno</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="hitro porabljati" cluster="5" frequency="50" logDice="2.89">
+              <comp position="1" type="collocate" sloleks="LE_cb95fbdb78349dad33e3d99ea7f281a8">hitro</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="počasi porabljati" cluster="5" frequency="14" logDice="2.39">
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="raje porabljati" cluster="5" frequency="12" logDice="1.87">
+              <comp position="1" type="collocate" sloleks="LE_ffbac6bb621f782b67fe85e3adf7bf8e">raje</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="običajno porabljati" cluster="5" frequency="6" logDice="2.14">
+              <comp position="1" type="collocate" sloleks="LE_9f1f7ca24c6a115d9da3e83315e02885">običajno</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="dodatno porabljati" cluster="5" frequency="6" logDice="2.0">
+              <comp position="1" type="collocate" sloleks="LE_d87043505ab09df3263269f8fff045d4">dodatno</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="kako porabljati" cluster="6" frequency="95" logDice="2.14">
+              <comp position="1" type="collocate" sloleks="LE_c6fd8628f731e3e158dc366537c82f5f">kako</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="lahko porabljati" cluster="6" frequency="74" logDice="0.19">
+              <comp position="1" type="collocate" sloleks="LE_4c3da54cd55e36d337ad4ebe20d667c9">lahko</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="tako porabljati" cluster="6" frequency="34" logDice="0.18">
+              <comp position="1" type="collocate" sloleks="LE_a43856b7d4097e8e3ab29718abb1acb7">tako</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="skupaj porabljati" cluster="6" frequency="27" logDice="2.4">
+              <comp position="1" type="collocate" sloleks="LE_6b2c35f4f994f6854f5f57d777267a77">skupaj</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="zdaj porabljati" cluster="6" frequency="19" logDice="0.52">
+              <comp position="1" type="collocate" sloleks="LE_d3f3f0cca65a8d1e1eb9565d50304e21">zdaj</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="vedno porabljati" cluster="6" frequency="18" logDice="0.37">
+              <comp position="1" type="collocate" sloleks="LE_eaabd5718a27f818fd47358031426355">vedno</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="zakaj porabljati" cluster="6" frequency="17" logDice="1.26">
+              <comp position="1" type="collocate" sloleks="LE_34b66348359b2773446caee88195586d">zakaj</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="treba porabljati" cluster="6" frequency="14" logDice="0.03">
+              <comp position="1" type="collocate" sloleks="LE_1922eb6feec1312f831201e773a0ac0d">treba</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="naprej porabljati" cluster="6" frequency="11" logDice="1.62">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="torej porabljati" cluster="6" frequency="11" logDice="1.37">
+              <comp position="1" type="collocate" sloleks="LE_77b94d141697df1606f829a597a115e8">torej</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="nato porabljati" cluster="6" frequency="11" logDice="0.78">
+              <comp position="1" type="collocate" sloleks="LE_48b590fef344f946aab71b9b67d40282">nato</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="manj porabljati" cluster="6" frequency="10" logDice="2.6">
+              <comp position="1" type="collocate" sloleks="LE_ecab8216e0225b7e80d79b53bd9b8959">manj</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="več porabljati" cluster="6" frequency="10" logDice="1.96">
+              <comp position="1" type="collocate" sloleks="LE_35a40117ea9b0ca39c7a43d940592d29">več</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="sedaj porabljati" cluster="6" frequency="10" logDice="1.37">
+              <comp position="1" type="collocate" sloleks="LE_e50eb5a17c98c735c9fb6d8e08cf2787">sedaj</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="bolj porabljati" cluster="6" frequency="10" logDice="0.34">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="veliko porabljati" cluster="6" frequency="8" logDice="0.57">
+              <comp position="1" type="collocate" sloleks="LE_431ef7ec57af288ca0e781bb12f6e7f0">veliko</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="zato porabljati" cluster="6" frequency="8" logDice="0.47">
+              <comp position="1" type="collocate" sloleks="LE_a8c8d0c329f7b5193130e7eb405193e2">zato</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="preveč porabljati" cluster="6" frequency="7" logDice="1.8">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="trenutno porabljati" cluster="6" frequency="7" logDice="1.62">
+              <comp position="1" type="collocate" sloleks="LE_5c9f3e114f691d1136d83ec593637dfd">trenutno</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="racionalno porabljati" cluster="7" frequency="36" logDice="8.63">
+              <comp position="1" type="collocate" sloleks="LE_a7f51e8748d461cf373bf9f8028fd4d9">racionalno</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="namensko porabljati" cluster="8" frequency="10" logDice="7.35">
+              <comp position="1" type="collocate" sloleks="LE_674a61966771ca734598fa04ab79622a">namensko</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+            <collocation form="nekoristno porabljati" cluster="9" frequency="6" logDice="7.34">
+              <comp position="1" type="collocate" sloleks="LE_5fe8bfa2b9a246963073c721de13a22a">nekoristno</comp>
+              <comp position="2" type="headword" sloleks="LE_899509d32e99260572469bd9d1badf34">porabljati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

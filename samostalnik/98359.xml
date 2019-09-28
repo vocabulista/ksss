@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="98359">zapravljivost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">403</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="zapravljivost države" cluster="1" frequency="15" logDice="0.56">
+              <comp position="1" type="headword" sloleks="LE_7f3ac5a180c8a40dee4ffb235f846152">zapravljivost</comp>
+              <comp position="2" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">države</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pretirana zapravljivost" cluster="1" frequency="12" logDice="3.78">
+              <comp position="1" type="collocate" sloleks="LE_97b9f9bb1479d471e7250254339115ed">pretirana</comp>
+              <comp position="2" type="headword" sloleks="LE_7f3ac5a180c8a40dee4ffb235f846152">zapravljivost</comp>
+            </collocation>
+            <collocation form="prevelika zapravljivost" cluster="2" frequency="8" logDice="2.41">
+              <comp position="1" type="collocate" sloleks="LE_3ddf4404d26d2b6a5d58add21db0bc9f">prevelika</comp>
+              <comp position="2" type="headword" sloleks="LE_7f3ac5a180c8a40dee4ffb235f846152">zapravljivost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

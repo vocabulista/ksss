@@ -1,0 +1,648 @@
+<entry>
+  <header>
+    <lexical_unit id="81968">predračun</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">3671</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="predračun iz ponudbe" cluster="1" frequency="4" logDice="6.66">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_d9e3765be172d6f3372cede08396a2f8">ponudbe</comp>
+            </collocation>
+            <collocation form="predračun iz leta" cluster="2" frequency="5" logDice="1.07">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leta</comp>
+            </collocation>
+            <collocation form="postavka iz predračuna" cluster="3" frequency="13" logDice="10.65">
+              <comp position="1" type="collocate" sloleks="LE_ad22b33a09b7e4522ac3d3d193efc058">postavka</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="cena iz predračuna" cluster="4" frequency="7" logDice="7.89">
+              <comp position="1" type="collocate" sloleks="LE_69b40aa886598a40e47070a0270e9b28">cena</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="enota iz predračuna" cluster="5" frequency="4" logDice="6.73">
+              <comp position="1" type="collocate" sloleks="LE_5b2baaa4fc466ab2dbf8c640e98f7c08">enota</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="predračun z dne" cluster="1" frequency="10" logDice="3.71">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_687a3a5f213dba3724e626216f1b09da">dne</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz2">
+          <collocations>
+            <collocation form="predračun za dela" cluster="1" frequency="4" logDice="6.7">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">dela</comp>
+            </collocation>
+            <collocation form="predračun za milijona" cluster="2" frequency="6" logDice="3.75">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_2a2331d56b991dd431d773c6fd13ad7f">milijona</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="predračun za konstrukcijo" cluster="1" frequency="5" logDice="7.87">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_451a22c7dfd47c649512d75403e98026">konstrukcijo</comp>
+            </collocation>
+            <collocation form="predračun za storitev" cluster="2" frequency="10" logDice="5.45">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_abb14230c15d4fd66a15377c1ed699a9">storitev</comp>
+            </collocation>
+            <collocation form="predračun za objekt" cluster="2" frequency="4" logDice="5.04">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_bb14223520452df1f116f86800767b80">objekt</comp>
+            </collocation>
+            <collocation form="predračun za opremo" cluster="2" frequency="4" logDice="4.71">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_7c582f88b553e5dc3aeb56af36d217ec">opremo</comp>
+            </collocation>
+            <collocation form="predračun za material" cluster="2" frequency="4" logDice="6.27">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_3c83a59228fd24befce6e7dbf8479f4f">material</comp>
+            </collocation>
+            <collocation form="predračun za obnovo" cluster="3" frequency="24" logDice="5.7">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_7208353c21758b771325b4297e697ec9">obnovo</comp>
+            </collocation>
+            <collocation form="predračun za nakup" cluster="3" frequency="20" logDice="4.44">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_a1ab00519230d9a2b9b9d13c6d348162">nakup</comp>
+            </collocation>
+            <collocation form="predračun za sanacijo" cluster="3" frequency="20" logDice="6.82">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b37e7e7121cbca14d5bb2913b13f4e3b">sanacijo</comp>
+            </collocation>
+            <collocation form="predračun za investicijo" cluster="3" frequency="15" logDice="6.46">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_d306feabca387b50867dab1e1a81ce0b">investicijo</comp>
+            </collocation>
+            <collocation form="predračun za gradnjo" cluster="3" frequency="13" logDice="3.99">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_3625065aad7c72d3cd7d1c94e3b12e46">gradnjo</comp>
+            </collocation>
+            <collocation form="predračun za izvedbo" cluster="3" frequency="8" logDice="4.06">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_eac3c24d63d8726c39a0f4570aa48a38">izvedbo</comp>
+            </collocation>
+            <collocation form="predračun za naložbo" cluster="3" frequency="8" logDice="5.06">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_7e54578f86482491986bdc333a002cf2">naložbo</comp>
+            </collocation>
+            <collocation form="predračun za postavitev" cluster="3" frequency="6" logDice="5.01">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_0d434a9fecdadbb9b047c1def3adddd0">postavitev</comp>
+            </collocation>
+            <collocation form="predračun za izgradnjo" cluster="3" frequency="4" logDice="4.12">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_fd7ceda7e06b05f5056cc5d5b0f89b30">izgradnjo</comp>
+            </collocation>
+            <collocation form="predračun za ureditev" cluster="3" frequency="4" logDice="3.5">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_baceef1543487bd151f8558130614f0e">ureditev</comp>
+            </collocation>
+            <collocation form="predračun za delo" cluster="4" frequency="29" logDice="2.96">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+            </collocation>
+            <collocation form="predračun za leto" cluster="4" frequency="14" logDice="2.3">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leto</comp>
+            </collocation>
+            <collocation form="predračun za film" cluster="4" frequency="10" logDice="4.49">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_ef1ac12433b4b7e1e0c31edb0c726d89">film</comp>
+            </collocation>
+            <collocation form="predračun za projekt" cluster="4" frequency="9" logDice="4.69">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_a34c0db39bb0196a80c5f3b9f5391fea">projekt</comp>
+            </collocation>
+            <collocation form="predračun za organizacijo" cluster="4" frequency="4" logDice="4.19">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_513f9f374314ddaf09bb7d123d083113">organizacijo</comp>
+            </collocation>
+            <collocation form="predračun za popravilo" cluster="5" frequency="15" logDice="7.69">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_a24b26c8b8f3255eee18ca95f385291d">popravilo</comp>
+            </collocation>
+            <collocation form="predračun za sezono" cluster="6" frequency="5" logDice="3.59">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_e4683b52a3640372e171726e214d12fb">sezono</comp>
+            </collocation>
+            <collocation form="predračun za adaptacijo" cluster="7" frequency="4" logDice="7.24">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_361d7ef42fc44b250967335006a5fb1d">adaptacijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="izstaviti predračun" cluster="1" frequency="17" logDice="7.87">
+              <comp position="1" type="collocate" sloleks="LE_8a6c76464f9bbc5a4f65af13e217f0ac">izstaviti</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="predložiti predračun" cluster="2" frequency="38" logDice="6.34">
+              <comp position="1" type="collocate" sloleks="LE_9b7ac083045a18b167bfb9140e713bb8">predložiti</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="pripraviti predračun" cluster="3" frequency="51" logDice="3.1">
+              <comp position="1" type="collocate" sloleks="LE_8e690e3b791e31c28e29ebc586de523c">pripraviti</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="narediti predračun" cluster="3" frequency="34" logDice="2.84">
+              <comp position="1" type="collocate" sloleks="LE_26dfa51ea71580c729d6a49ea3108777">narediti</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="zahtevati predračun" cluster="3" frequency="27" logDice="2.55">
+              <comp position="1" type="collocate" sloleks="LE_3ea255c52c394ad6ab59d37ae7f738e3">zahtevati</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="poslati predračun" cluster="3" frequency="26" logDice="3.33">
+              <comp position="1" type="collocate" sloleks="LE_2873647ece0cee5270a6a7e35345f894">poslati</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="dobiti predračun" cluster="3" frequency="23" logDice="0.82">
+              <comp position="1" type="collocate" sloleks="LE_abe97863495bd3d2d1b41f81933061b7">dobiti</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="pridobiti predračun" cluster="3" frequency="21" logDice="2.96">
+              <comp position="1" type="collocate" sloleks="LE_aa02220c234e3b2081fe3dffb01f8f5a">pridobiti</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="znašati predračun" cluster="4" frequency="10" logDice="5.16">
+              <comp position="1" type="collocate" sloleks="LE_b285465aa6a1e0485c3a726291e0e645">znašati</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="preseči predračun" cluster="4" frequency="8" logDice="3.32">
+              <comp position="1" type="collocate" sloleks="LE_cb0bf51dfbc06ab0e43b4dee2b7f393d">preseči</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="izdelati predračun" cluster="5" frequency="37" logDice="5.01">
+              <comp position="1" type="collocate" sloleks="LE_0af557569edd5fc4b73908aa496f2969">izdelati</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="naročiti predračun" cluster="5" frequency="8" logDice="4.0">
+              <comp position="1" type="collocate" sloleks="LE_c631077f83e93f7dad1290fa198367e8">naročiti</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz po SBZ5">
+          <collocations>
+            <collocation form="stati po predračunu" cluster="1" frequency="76" logDice="10.16">
+              <comp position="1" type="collocate" sloleks="LE_440a1718cdb8a6551a352fd055b43ee2|LE_7535b33707f7c7228585ee95cd426db5">stati</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračunu</comp>
+            </collocation>
+            <collocation form="veljati po predračunu" cluster="1" frequency="19" logDice="7.73">
+              <comp position="1" type="collocate" sloleks="LE_d1ea0d9dd4771e211c9eddc0d342acc2">veljati</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračunu</comp>
+            </collocation>
+            <collocation form="znašati po predračunu" cluster="2" frequency="29" logDice="8.17">
+              <comp position="1" type="collocate" sloleks="LE_b285465aa6a1e0485c3a726291e0e645">znašati</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračunu</comp>
+            </collocation>
+            <collocation form="nameniti po predračunu" cluster="2" frequency="4" logDice="7.2">
+              <comp position="1" type="collocate" sloleks="LE_4d2a1a986a6ff297b4f1734f98b0c8bf">nameniti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračunu</comp>
+            </collocation>
+            <collocation form="plačati po predračunu" cluster="3" frequency="12" logDice="7.81">
+              <comp position="1" type="collocate" sloleks="LE_65a8257a4777d91ca083d5d192fee299">plačati</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračunu</comp>
+            </collocation>
+            <collocation form="potrebovati po predračunu" cluster="3" frequency="10" logDice="7.35">
+              <comp position="1" type="collocate" sloleks="LE_1d2dce4b8faea4af518b607a2b8b3ef9">potrebovati</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračunu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="predvideti v predračunu" cluster="1" frequency="5" logDice="6.74">
+              <comp position="1" type="collocate" sloleks="LE_4d0afb66a5831f56ffa0fff51f95134b">predvideti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračunu</comp>
+            </collocation>
+            <collocation form="navesti v predračunu" cluster="2" frequency="7" logDice="5.53">
+              <comp position="1" type="collocate" sloleks="LE_674c00f454f0b5318c7fa402dac40259">navesti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračunu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="dogovoriti za predračun" cluster="1" frequency="4" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_3a50887fd57c2a7c09a24d05d26c3cf1">dogovoriti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="prositi za predračun" cluster="2" frequency="7" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_8964780e933272192255d479aad46f53">prositi</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="zaprositi za predračun" cluster="3" frequency="5" logDice="2.95">
+              <comp position="1" type="collocate" sloleks="LE_06fe44110342c7d9db3d9f91c1ffbd75">zaprositi</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="iti za predračun" cluster="4" frequency="12" logDice="-0.02">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="ponudben predračun" cluster="1" frequency="253" logDice="11.36">
+              <comp position="1" type="collocate" sloleks="LE_9c4a03f84001a9072227208cacec950f">ponudben</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="projektantski predračun" cluster="2" frequency="66" logDice="10.0">
+              <comp position="1" type="collocate" sloleks="LE_8ae2e9c3ab20e64da13ce9d33459502d">projektantski</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="finančen predračun" cluster="3" frequency="18" logDice="0.94">
+              <comp position="1" type="collocate" sloleks="LE_76df384d79317d3c493a25954b5b46e8">finančen</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="prvoten predračun" cluster="4" frequency="21" logDice="4.26">
+              <comp position="1" type="collocate" sloleks="LE_55b29e621d48c4f86ce4282c1247bd98">prvoten</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="celoten predračun" cluster="4" frequency="19" logDice="1.42">
+              <comp position="1" type="collocate" sloleks="LE_2a9735c2d6e5b20f692870fd84200f78">celoten</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="sedanji predračun" cluster="4" frequency="8" logDice="0.72">
+              <comp position="1" type="collocate" sloleks="LE_deed9694cf13ddeba89b181f10251ba4">sedanji</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="okviren predračun" cluster="5" frequency="22" logDice="5.94">
+              <comp position="1" type="collocate" sloleks="LE_8a80efd8acdf7da2c72e36d18a12ab00">okviren</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="predložen predračun" cluster="6" frequency="10" logDice="5.23">
+              <comp position="1" type="collocate" sloleks="LE_3f7899d669d3099208e596d6d84d3df1|LE_efa2c262a87f9e08593bc9d27753e7cc">predložen</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="potrjen predračun" cluster="7" frequency="9" logDice="4.6">
+              <comp position="1" type="collocate" sloleks="LE_5549fbc901b15c8c3c3114d6fc268188">potrjen</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="izdelan predračun" cluster="8" frequency="10" logDice="3.52">
+              <comp position="1" type="collocate" sloleks="LE_2e30656a603ccd30389840de0af87e22">izdelan</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="ugoden predračun" cluster="9" frequency="17" logDice="2.71">
+              <comp position="1" type="collocate" sloleks="LE_81973d1bb12349cdd5c8fca3e2935e54|LE_0ab53231073b4b9b194e9d3f1baf8ed8">ugoden</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+            <collocation form="natančen predračun" cluster="10" frequency="12" logDice="2.7">
+              <comp position="1" type="collocate" sloleks="LE_229d70f4dcbb0db8dfccf3b59dec8e3b">natančen</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 na SBZ5">
+          <collocations>
+            <collocation form="zapisan na predračunu" cluster="1" frequency="4" logDice="5.7">
+              <comp position="1" type="collocate" sloleks="LE_cd2d085babe6bf9537f0c7008c94d8d9">zapisan</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračunu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 od SBZ2">
+          <collocations>
+            <collocation form="visok od predračuna" cluster="1" frequency="8" logDice="4.9">
+              <comp position="1" type="collocate" sloleks="LE_4233591f5096276ee0d2cc73b3e78e36">visok</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 v SBZ5">
+          <collocations>
+            <collocation form="predviden v predračunu" cluster="1" frequency="6" logDice="5.4">
+              <comp position="1" type="collocate" sloleks="LE_983de7234181d85fed098337b63f463e">predviden</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračunu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="obrazec predračuna" cluster="1" frequency="63" logDice="8.97">
+              <comp position="1" type="collocate" sloleks="LE_4e1a09c6d3fc1d46868289c310c75ddf">obrazec</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="tabela predračuna" cluster="1" frequency="5" logDice="5.77">
+              <comp position="1" type="collocate" sloleks="LE_7357dc85c218891f99bb60eb3475fffc">tabela</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="izstavitev predračuna" cluster="2" frequency="7" logDice="7.59">
+              <comp position="1" type="collocate" sloleks="LE_b3fd08028d5e53e95c1f1930fcbd74fb">izstavitev</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="kopija predračuna" cluster="3" frequency="6" logDice="3.84">
+              <comp position="1" type="collocate" sloleks="LE_dd0940eed247f743100a6d188a6b53ee">kopija</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="podlaga predračuna" cluster="4" frequency="52" logDice="3.25">
+              <comp position="1" type="collocate" sloleks="LE_e6e88eb8a2a7234da435310d47275f97">podlaga</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="osnova predračuna" cluster="4" frequency="19" logDice="3.43">
+              <comp position="1" type="collocate" sloleks="LE_25d7e9c6fd68f8446f6a04b8cfe6afcd">osnova</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="okvir predračuna" cluster="4" frequency="16" logDice="1.6">
+              <comp position="1" type="collocate" sloleks="LE_7ad9953b27a13e215544d77e1a778983">okvir</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="izdelava predračuna" cluster="5" frequency="141" logDice="6.03">
+              <comp position="1" type="collocate" sloleks="LE_58e4c9eb6d6ddc69a009737fc482eaa5">izdelava</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="priprava predračuna" cluster="5" frequency="30" logDice="3.4">
+              <comp position="1" type="collocate" sloleks="LE_bdb43273740fff938591c6ba74f8869f">priprava</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="izdaja predračuna" cluster="5" frequency="6" logDice="1.67">
+              <comp position="1" type="collocate" sloleks="LE_7683011bbc418354ce3ad92abaaaca94">izdaja</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="plačilo predračuna" cluster="6" frequency="13" logDice="2.92">
+              <comp position="1" type="collocate" sloleks="LE_3bb5e78707260b905240767d7a877341">plačilo</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="predlog predračuna" cluster="6" frequency="10" logDice="0.85">
+              <comp position="1" type="collocate" sloleks="LE_32ddbbc939261949e07545f599a96666">predlog</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="račun predračuna" cluster="6" frequency="5" logDice="1.27">
+              <comp position="1" type="collocate" sloleks="LE_03d4207cd319441760ba30bae2e1320e">račun</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="višina predračuna" cluster="7" frequency="8" logDice="1.13">
+              <comp position="1" type="collocate" sloleks="LE_78ed2829f3f80fbcd2bd004af45712e3">višina</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="vrednost predračuna" cluster="7" frequency="6" logDice="0.5">
+              <comp position="1" type="collocate" sloleks="LE_aa6bad87e3fba76f27f4242d3cb9a383">vrednost</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="postavka predračuna" cluster="8" frequency="22" logDice="7.52">
+              <comp position="1" type="collocate" sloleks="LE_ad22b33a09b7e4522ac3d3d193efc058">postavka</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="prekoračitev predračuna" cluster="9" frequency="8" logDice="5.87">
+              <comp position="1" type="collocate" sloleks="LE_a100fbb08366583aad6dd9be2381d7de">prekoračitev</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="predložitev predračuna" cluster="10" frequency="7" logDice="5.16">
+              <comp position="1" type="collocate" sloleks="LE_740bed53361a2397618ccc917b5e607b">predložitev</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="odobritev predračuna" cluster="11" frequency="5" logDice="4.27">
+              <comp position="1" type="collocate" sloleks="LE_65d9d5cb2b58dea58e02235a73d95f7c">odobritev</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="izdajanje predračuna" cluster="12" frequency="5" logDice="3.99">
+              <comp position="1" type="collocate" sloleks="LE_fc9f434e3c87def88e4e9b7b78aca952">izdajanje</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="revizija predračuna" cluster="13" frequency="6" logDice="3.9">
+              <comp position="1" type="collocate" sloleks="LE_26a50e83f754b2e6efae5903184ce1a3">revizija</comp>
+              <comp position="2" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračuna</comp>
+            </collocation>
+            <collocation form="predračun ponudnika" cluster="14" frequency="30" logDice="5.99">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="collocate" sloleks="LE_087c79c797be08976739c79b38708e56">ponudnika</comp>
+            </collocation>
+            <collocation form="predračun izvajalca" cluster="14" frequency="27" logDice="5.84">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="collocate" sloleks="LE_890949e2964248cfa7b77bb03c2c6b83">izvajalca</comp>
+            </collocation>
+            <collocation form="predračun dobavitelja" cluster="14" frequency="12" logDice="6.1">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="collocate" sloleks="LE_9f2b26df45739df2e7d509d16b34ac43">dobavitelja</comp>
+            </collocation>
+            <collocation form="predračun dela" cluster="15" frequency="24" logDice="0.97">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">dela</comp>
+            </collocation>
+            <collocation form="predračun projekta" cluster="15" frequency="20" logDice="2.48">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="collocate" sloleks="LE_a34c0db39bb0196a80c5f3b9f5391fea">projekta</comp>
+            </collocation>
+            <collocation form="predračun podjetja" cluster="15" frequency="12" logDice="0.51">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="collocate" sloleks="LE_1aed870e4b1c077c155d34b01ab0af57">podjetja</comp>
+            </collocation>
+            <collocation form="predračun filma" cluster="15" frequency="10" logDice="1.57">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="collocate" sloleks="LE_ef1ac12433b4b7e1e0c31edb0c726d89">filma</comp>
+            </collocation>
+            <collocation form="predračun stroška" cluster="16" frequency="98" logDice="5.65">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="collocate" sloleks="LE_c04e68299307d659d0cadde6f5fc0c28">stroška</comp>
+            </collocation>
+            <collocation form="predračun sredstva" cluster="16" frequency="9" logDice="1.24">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="collocate" sloleks="LE_94c4f4cf5104632466509789b5cde032">sredstva</comp>
+            </collocation>
+            <collocation form="predračun obnove" cluster="17" frequency="12" logDice="4.91">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="collocate" sloleks="LE_7208353c21758b771325b4297e697ec9">obnove</comp>
+            </collocation>
+            <collocation form="predračun gradnje" cluster="17" frequency="8" logDice="2.58">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="collocate" sloleks="LE_3625065aad7c72d3cd7d1c94e3b12e46">gradnje</comp>
+            </collocation>
+            <collocation form="predračun milijona" cluster="18" frequency="52" logDice="4.21">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="collocate" sloleks="LE_2a2331d56b991dd431d773c6fd13ad7f">milijona</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 med SBZ6">
+          <collocations>
+            <collocation form="razlika med predračunom" cluster="1" frequency="11" logDice="3.36">
+              <comp position="1" type="collocate" sloleks="LE_d8b5c5f08355edee42707780bbb4bdb8">razlika</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračunom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 po SBZ5">
+          <collocations>
+            <collocation form="plačilo po predračunu" cluster="1" frequency="24" logDice="9.09">
+              <comp position="1" type="collocate" sloleks="LE_3bb5e78707260b905240767d7a877341">plačilo</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračunu</comp>
+            </collocation>
+            <collocation form="naložba po predračunu" cluster="2" frequency="5" logDice="8.38">
+              <comp position="1" type="collocate" sloleks="LE_7e54578f86482491986bdc333a002cf2">naložba</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračunu</comp>
+            </collocation>
+            <collocation form="projekt po predračunu" cluster="3" frequency="4" logDice="6.41">
+              <comp position="1" type="collocate" sloleks="LE_a34c0db39bb0196a80c5f3b9f5391fea">projekt</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračunu</comp>
+            </collocation>
+            <collocation form="delo po predračunu" cluster="4" frequency="4" logDice="4.67">
+              <comp position="1" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračunu</comp>
+            </collocation>
+            <collocation form="cena po predračunu" cluster="5" frequency="6" logDice="4.58">
+              <comp position="1" type="collocate" sloleks="LE_69b40aa886598a40e47070a0270e9b28">cena</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračunu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ4">
+          <collocations>
+            <collocation form="vpogled v predračun" cluster="1" frequency="10" logDice="4.25">
+              <comp position="1" type="collocate" sloleks="LE_8dc844b5a0a260fb12c58800d1e36ff3">vpogled</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="postavka v predračunu" cluster="1" frequency="7" logDice="7.51">
+              <comp position="1" type="collocate" sloleks="LE_ad22b33a09b7e4522ac3d3d193efc058">postavka</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračunu</comp>
+            </collocation>
+            <collocation form="predračun v znesku" cluster="2" frequency="7" logDice="4.6">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_a75997c3fecf67d735c87a0515fc6386">znesku</comp>
+            </collocation>
+            <collocation form="predračun v obliki" cluster="3" frequency="19" logDice="3.45">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">obliki</comp>
+            </collocation>
+            <collocation form="predračun v višini" cluster="4" frequency="14" logDice="3.03">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_78ed2829f3f80fbcd2bd004af45712e3">višini</comp>
+            </collocation>
+            <collocation form="predračun v vrednosti" cluster="5" frequency="5" logDice="2.66">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_aa6bad87e3fba76f27f4242d3cb9a383">vrednosti</comp>
+            </collocation>
+            <collocation form="predračun v primeru" cluster="6" frequency="5" logDice="1.52">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_8e6db377d52cf3acd614b87429fb9858">primeru</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="stroškovnik s predračunom" cluster="1" frequency="6" logDice="11.41">
+              <comp position="1" type="collocate" sloleks="LE_216e74ca0d61d812b91fd5feb6635621">stroškovnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračunom</comp>
+            </collocation>
+            <collocation form="nasad s predračunom" cluster="2" frequency="4" logDice="8.41">
+              <comp position="1" type="collocate" sloleks="LE_40cce179ada181f6c35c2170d42c6afa">nasad</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračunom</comp>
+            </collocation>
+            <collocation form="oprema s predračunom" cluster="3" frequency="4" logDice="6.65">
+              <comp position="1" type="collocate" sloleks="LE_7c582f88b553e5dc3aeb56af36d217ec">oprema</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračunom</comp>
+            </collocation>
+            <collocation form="del s predračunom" cluster="4" frequency="7" logDice="5.84">
+              <comp position="1" type="collocate" sloleks="LE_7ec85158e392e2a539875a30cf8d3436">del</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračunom</comp>
+            </collocation>
+            <collocation form="predračun z jamstvom" cluster="5" frequency="8" logDice="8.52">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_557e5f14dccb9f5d3a7f1e7ff28d82c9">jamstvom</comp>
+            </collocation>
+            <collocation form="predračun z analizo" cluster="6" frequency="4" logDice="7.42">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_8b551380d4ddc81c02e1998906ac17e3">analizo</comp>
+            </collocation>
+            <collocation form="predračun z navodilom" cluster="7" frequency="9" logDice="6.48">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_8daf57fcde59301e5309061d8310ca38">navodilom</comp>
+            </collocation>
+            <collocation form="predračun s ceno" cluster="8" frequency="6" logDice="5.24">
+              <comp position="1" type="headword" sloleks="LE_d6735c3ffaececff7c1c706f62b325df">predračun</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_69b40aa886598a40e47070a0270e9b28">ceno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

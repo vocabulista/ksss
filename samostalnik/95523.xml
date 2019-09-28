@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="95523">valjavec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1364</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz od SBZ2">
+          <collocations>
+            <collocation form="pričakovati od Valjavca" cluster="1" frequency="7" logDice="3.44">
+              <comp position="1" type="collocate" sloleks="LE_0601f236f1fbe93013228d5ca1f6716f">pričakovati</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="headword" sloleks="LE_d43ea51bc811330e02c80651fcffe13e">Valjavca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Tadej Valjavca" cluster="1" frequency="120" logDice="10.82">
+              <comp position="1" type="collocate" sloleks="LE_f85365db7b294c3cdb36890f854c0d9b">Tadej</comp>
+              <comp position="2" type="headword" sloleks="LE_d43ea51bc811330e02c80651fcffe13e">Valjavca</comp>
+            </collocation>
+            <collocation form="Matija Valjavca" cluster="2" frequency="9" logDice="6.02">
+              <comp position="1" type="collocate" sloleks="LE_b3cc4aec1dfe772fdd8d17202760d245">Matija</comp>
+              <comp position="2" type="headword" sloleks="LE_d43ea51bc811330e02c80651fcffe13e">Valjavca</comp>
+            </collocation>
+            <collocation form="nastop Valjavca" cluster="3" frequency="5" logDice="1.79">
+              <comp position="1" type="collocate" sloleks="LE_3c02505e3165a041b4879a0ffb8f719b">nastop</comp>
+              <comp position="2" type="headword" sloleks="LE_d43ea51bc811330e02c80651fcffe13e">Valjavca</comp>
+            </collocation>
+            <collocation form="mesto Valjavca" cluster="4" frequency="9" logDice="1.31">
+              <comp position="1" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesto</comp>
+              <comp position="2" type="headword" sloleks="LE_d43ea51bc811330e02c80651fcffe13e">Valjavca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ3">
+          <collocations>
+            <collocation form="Tadej Valjavcu" cluster="1" frequency="45" logDice="11.9">
+              <comp position="1" type="collocate" sloleks="LE_f85365db7b294c3cdb36890f854c0d9b">Tadej</comp>
+              <comp position="2" type="headword" sloleks="LE_d43ea51bc811330e02c80651fcffe13e">Valjavcu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="18509">govorilen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1586</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="govorilna ura" cluster="1" frequency="1485" logDice="8.19">
+              <comp position="1" type="headword" sloleks="LE_12b1d117548aeb64929ad47332d887b9">govorilna</comp>
+              <comp position="2" type="collocate" sloleks="LE_77e6b5a072871d299d405565eaad4389">ura</comp>
+            </collocation>
+            <collocation form="govorilna napravica" cluster="2" frequency="27" logDice="7.83">
+              <comp position="1" type="headword" sloleks="LE_12b1d117548aeb64929ad47332d887b9">govorilna</comp>
+              <comp position="2" type="collocate" sloleks="LE_7506839bd3ac8143796e00969a7e5ded">napravica</comp>
+            </collocation>
+            <collocation form="govorilen organ" cluster="3" frequency="20" logDice="2.05">
+              <comp position="1" type="headword" sloleks="LE_12b1d117548aeb64929ad47332d887b9">govorilen</comp>
+              <comp position="2" type="collocate" sloleks="LE_8562dbeb947da0513f9a50c8151f8a65">organ</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz2">
+          <collocations>
+            <collocation form="govorilen ure" cluster="1" frequency="34" logDice="8.63">
+              <comp position="1" type="headword" sloleks="LE_12b1d117548aeb64929ad47332d887b9">govorilen</comp>
+              <comp position="2" type="collocate" sloleks="LE_77e6b5a072871d299d405565eaad4389">ure</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

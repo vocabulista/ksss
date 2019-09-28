@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="83051">prevoj</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">912</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 do sbz2">
+          <collocations>
+            <collocation form="Prevoj do Trojan" cluster="1" frequency="8" logDice="10.95">
+              <comp position="1" type="headword" sloleks="LE_1d6e59ec70bea988d42684471a0776fe">Prevoj</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_92c68d1535af0bba1c30cb19a9664a32">Trojan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 pri sbz5">
+          <collocations>
+            <collocation form="prevoj pri Šentvidu" cluster="1" frequency="47" logDice="12.21">
+              <comp position="1" type="headword" sloleks="LE_1d6e59ec70bea988d42684471a0776fe">prevoj</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_97a4bd2427ac0be693d4387cd58ddebb">Šentvidu</comp>
+            </collocation>
+            <collocation form="prevoj pri ŠENTVID" cluster="2" frequency="4" logDice="10.51">
+              <comp position="1" type="headword" sloleks="LE_1d6e59ec70bea988d42684471a0776fe">prevoj</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="">ŠENTVID</comp>
+            </collocation>
+            <collocation form="Prevoj pri Lukovici" cluster="3" frequency="11" logDice="8.72">
+              <comp position="1" type="headword" sloleks="LE_1d6e59ec70bea988d42684471a0776fe">Prevoj</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_5a0896f929ec29cc23673406af4c8eb1">Lukovici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        </gramrels>
+    </sense>
+  </body>
+</entry>

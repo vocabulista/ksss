@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="26230">nezazidan</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1580</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nezazidano zemljišče" cluster="1" frequency="1409" logDice="9.31">
+              <comp position="1" type="headword" sloleks="LE_8b98f1dd187f21d80e960d740c623ebf">nezazidano</comp>
+              <comp position="2" type="collocate" sloleks="LE_1cfb3ff88e57bbeea24a81c9c41ac50b">zemljišče</comp>
+            </collocation>
+            <collocation form="nezazidana parcela" cluster="2" frequency="22" logDice="5.12">
+              <comp position="1" type="headword" sloleks="LE_8b98f1dd187f21d80e960d740c623ebf">nezazidana</comp>
+              <comp position="2" type="collocate" sloleks="LE_4e6af60d5fbeb85215c1d0cdf32ac01a">parcela</comp>
+            </collocation>
+            <collocation form="nezazidana površina" cluster="3" frequency="38" logDice="3.44">
+              <comp position="1" type="headword" sloleks="LE_8b98f1dd187f21d80e960d740c623ebf">nezazidana</comp>
+              <comp position="2" type="collocate" sloleks="LE_7d18868a4d96322e862a8e6591930019">površina</comp>
+            </collocation>
+            <collocation form="nezazidano območje" cluster="4" frequency="11" logDice="1.09">
+              <comp position="1" type="headword" sloleks="LE_8b98f1dd187f21d80e960d740c623ebf">nezazidano</comp>
+              <comp position="2" type="collocate" sloleks="LE_637bb12e70b217aeada98e77f3559b30">območje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="nezazidan in/ali zazidan" cluster="1" frequency="136" logDice="13.78">
+              <comp position="3" type="headword" sloleks="LE_8b98f1dd187f21d80e960d740c623ebf">nezazidan</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_57843249344afb49f2b1a9c4bb182198">zazidan</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="komunalno nezazidan" cluster="1" frequency="10" logDice="6.93">
+              <comp position="1" type="collocate" sloleks="LE_d8ec940921f6e3ac2a9ef21e0c3d6306">komunalno</comp>
+              <comp position="2" type="headword" sloleks="LE_8b98f1dd187f21d80e960d740c623ebf">nezazidan</comp>
+            </collocation>
+            <collocation form="veliko nezazidan" cluster="2" frequency="10" logDice="0.85">
+              <comp position="1" type="collocate" sloleks="LE_431ef7ec57af288ca0e781bb12f6e7f0">veliko</comp>
+              <comp position="2" type="headword" sloleks="LE_8b98f1dd187f21d80e960d740c623ebf">nezazidan</comp>
+            </collocation>
+            <collocation form="več nezazidan" cluster="3" frequency="7" logDice="0.52">
+              <comp position="1" type="collocate" sloleks="LE_35a40117ea9b0ca39c7a43d940592d29">več</comp>
+              <comp position="2" type="headword" sloleks="LE_8b98f1dd187f21d80e960d740c623ebf">nezazidan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

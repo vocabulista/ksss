@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="25219">neestetski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">401</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="neestetska nadloga" cluster="1" frequency="9" logDice="6.26">
+              <comp position="1" type="headword" sloleks="LE_287ca683aeb93ca84c471e562ce80898">neestetska</comp>
+              <comp position="2" type="collocate" sloleks="LE_f2b0f7b84e52cffe29041512f11f8723">nadloga</comp>
+            </collocation>
+            <collocation form="neestetski videz" cluster="2" frequency="36" logDice="4.72">
+              <comp position="1" type="headword" sloleks="LE_287ca683aeb93ca84c471e562ce80898">neestetski</comp>
+              <comp position="2" type="collocate" sloleks="LE_f9abaea8954bb307fccf53d5ec3c0a8c">videz</comp>
+            </collocation>
+            <collocation form="neestetska posledica" cluster="3" frequency="6" logDice="1.34">
+              <comp position="1" type="headword" sloleks="LE_287ca683aeb93ca84c471e562ce80898">neestetska</comp>
+              <comp position="2" type="collocate" sloleks="LE_9e94e198ec2c32de37b2bd7b6e54af2e">posledica</comp>
+            </collocation>
+            <collocation form="neestetski objekt" cluster="4" frequency="6" logDice="0.63">
+              <comp position="1" type="headword" sloleks="LE_287ca683aeb93ca84c471e562ce80898">neestetski</comp>
+              <comp position="2" type="collocate" sloleks="LE_bb14223520452df1f116f86800767b80">objekt</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="neestetski in/ali estetski" cluster="1" frequency="5" logDice="6.25">
+              <comp position="3" type="headword" sloleks="LE_287ca683aeb93ca84c471e562ce80898">neestetski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_1ec6ab1564c8b9cf0b90a646453d2887">estetski</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

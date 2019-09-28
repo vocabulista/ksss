@@ -1,0 +1,74 @@
+<entry>
+  <header>
+    <lexical_unit id="85460">razteg</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">625</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="razteg mišice" cluster="1" frequency="48" logDice="6.71">
+              <comp position="1" type="headword" sloleks="LE_1442b6ea35061aa2a17fd67324309361">razteg</comp>
+              <comp position="2" type="collocate" sloleks="LE_8cb637c99a79db8dda2b76102818f9be">mišice</comp>
+            </collocation>
+            <collocation form="razteg telesa" cluster="2" frequency="8" logDice="1.89">
+              <comp position="1" type="headword" sloleks="LE_1442b6ea35061aa2a17fd67324309361">razteg</comp>
+              <comp position="2" type="collocate" sloleks="LE_79b86615dd52e06799792917a906328a">telesa</comp>
+            </collocation>
+            <collocation form="možnost raztega" cluster="3" frequency="9" logDice="0.78">
+              <comp position="1" type="collocate" sloleks="LE_2e00efc106e45a8fd5ad17e06d9e6382">možnost</comp>
+              <comp position="2" type="headword" sloleks="LE_1442b6ea35061aa2a17fd67324309361">raztega</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="RAZTEG za iztegovalko" cluster="1" frequency="4" logDice="10.95">
+              <comp position="1" type="headword" sloleks="LE_1442b6ea35061aa2a17fd67324309361">RAZTEG</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_98675e232027b9dd74167ca35a04afec">iztegovalko</comp>
+            </collocation>
+            <collocation form="razteg za prsi" cluster="2" frequency="11" logDice="10.02">
+              <comp position="1" type="headword" sloleks="LE_1442b6ea35061aa2a17fd67324309361">razteg</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_3d025b17cd66a42ec9792b218a4cb1ac">prsi</comp>
+            </collocation>
+            <collocation form="RAZTEG za rame" cluster="3" frequency="5" logDice="9.71">
+              <comp position="1" type="headword" sloleks="LE_1442b6ea35061aa2a17fd67324309361">RAZTEG</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_68beaa787a833bb9b3cb1a8278848665">rame</comp>
+            </collocation>
+            <collocation form="razteg za mišico" cluster="4" frequency="10" logDice="8.49">
+              <comp position="1" type="headword" sloleks="LE_1442b6ea35061aa2a17fd67324309361">razteg</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_8cb637c99a79db8dda2b76102818f9be">mišico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nastavljiv razteg" cluster="1" frequency="11" logDice="5.98">
+              <comp position="1" type="collocate" sloleks="LE_deb2a418290cc8d123640663419a55b2">nastavljiv</comp>
+              <comp position="2" type="headword" sloleks="LE_1442b6ea35061aa2a17fd67324309361">razteg</comp>
+            </collocation>
+            <collocation form="prijeten razteg" cluster="2" frequency="9" logDice="1.84">
+              <comp position="1" type="collocate" sloleks="LE_c54487f53545d75fcf13a9fa0732e5f5">prijeten</comp>
+              <comp position="2" type="headword" sloleks="LE_1442b6ea35061aa2a17fd67324309361">razteg</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="blaženje v raztegu" cluster="1" frequency="6" logDice="12.22">
+              <comp position="1" type="collocate" sloleks="LE_8f7faab710c2c3009ace7d9ea1b95510">blaženje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_1442b6ea35061aa2a17fd67324309361">raztegu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

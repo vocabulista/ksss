@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="20052">izvedeniški</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">954</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="izvedeniško mnenje" cluster="1" frequency="871" logDice="8.04">
+              <comp position="1" type="headword" sloleks="LE_484d8c12781952c4a4dcf4d9c0066b03">izvedeniško</comp>
+              <comp position="2" type="collocate" sloleks="LE_570e657c7ba1bf69e788fb96b4ad3409">mnenje</comp>
+            </collocation>
+            <collocation form="izvedeniško poročilo" cluster="2" frequency="10" logDice="1.88">
+              <comp position="1" type="headword" sloleks="LE_484d8c12781952c4a4dcf4d9c0066b03">izvedeniško</comp>
+              <comp position="2" type="collocate" sloleks="LE_00452c6ec77fc0b47997a85c80913ca4">poročilo</comp>
+            </collocation>
+            <collocation form="izvedeniški pregled" cluster="3" frequency="9" logDice="1.65">
+              <comp position="1" type="headword" sloleks="LE_484d8c12781952c4a4dcf4d9c0066b03">izvedeniški</comp>
+              <comp position="2" type="collocate" sloleks="LE_f84d3e1b7c509859312a86eee2d89a39">pregled</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="sodno izvedeniški" cluster="1" frequency="15" logDice="8.66">
+              <comp position="1" type="collocate" sloleks="LE_916b537937b1a7679db135fab26b0bf5">sodno</comp>
+              <comp position="2" type="headword" sloleks="LE_484d8c12781952c4a4dcf4d9c0066b03">izvedeniški</comp>
+            </collocation>
+            <collocation form="pisno izvedeniški" cluster="2" frequency="5" logDice="6.57">
+              <comp position="1" type="collocate" sloleks="LE_4acd0ef6574ae2cdc43843c3194b2bac">pisno</comp>
+              <comp position="2" type="headword" sloleks="LE_484d8c12781952c4a4dcf4d9c0066b03">izvedeniški</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

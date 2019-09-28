@@ -1,0 +1,996 @@
+<entry>
+  <header>
+    <lexical_unit id="91256">starostnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">8205</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 do sbz2">
+          <collocations>
+            <collocation form="starostnik do leta" cluster="1" frequency="5" logDice="1.46">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leta</comp>
+            </collocation>
+            <collocation form="dojenček do starostnika" cluster="2" frequency="15" logDice="11.24">
+              <comp position="1" type="collocate" sloleks="LE_b00ca94744826befd8c2284db9c88025">dojenček</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="mladostnik do starostnika" cluster="3" frequency="5" logDice="10.3">
+              <comp position="1" type="collocate" sloleks="LE_9808ed3e460ff9c5333ced58d86d8323">mladostnik</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="otrok do starostnika" cluster="4" frequency="16" logDice="8.2">
+              <comp position="1" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otrok</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="pozornost do starostnika" cluster="5" frequency="5" logDice="7.42">
+              <comp position="1" type="collocate" sloleks="LE_8a059b87daf5dd86ead417ece04403df">pozornost</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="odnos do starostnika" cluster="6" frequency="11" logDice="2.63">
+              <comp position="1" type="collocate" sloleks="LE_77f2f37de07cb9f39cb3dd828efa7919">odnos</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="starostnik iz skupnosti" cluster="1" frequency="14" logDice="8.11">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_a54e3d34cf1afe3eafb013c4eaa4f477">skupnosti</comp>
+            </collocation>
+            <collocation form="starostnik iz občine" cluster="1" frequency="13" logDice="5.4">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_7b31296251a77ba2585c256bbbe52eb9">občine</comp>
+            </collocation>
+            <collocation form="starostnik iz okoliša" cluster="2" frequency="4" logDice="7.72">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_b35d926fcb41d46db703ed83a08f43f2">okoliša</comp>
+            </collocation>
+            <collocation form="starostnik iz doma" cluster="3" frequency="13" logDice="7.15">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">doma</comp>
+            </collocation>
+            <collocation form="starostnik iz okolja" cluster="4" frequency="15" logDice="6.35">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_eb922917c5a94eb61166666cf13defaf">okolja</comp>
+            </collocation>
+            <collocation form="starostnik iz Slovenije" cluster="4" frequency="4" logDice="2.17">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Slovenije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="starostnik na voljo" cluster="1" frequency="4" logDice="2.06">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_302cfe15db5d997ecf0eab411fa16934">voljo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 na sbz5">
+          <collocations>
+            <collocation form="starostnik na Fari" cluster="1" frequency="7" logDice="9.37">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_a3df20acbbaa0375d5f445524e986d44">Fari</comp>
+            </collocation>
+            <collocation form="starostnik na Prevaljah" cluster="2" frequency="19" logDice="8.41">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_d6839474c28801373a35cbb1c980989f">Prevaljah</comp>
+            </collocation>
+            <collocation form="starostnik na področju" cluster="3" frequency="4" logDice="-0.3">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_66c02e1a651f578a71415b967738b69b">področju</comp>
+            </collocation>
+            <collocation form="starostnik na Fužinah" cluster="4" frequency="4" logDice="8.33">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_f26940264ffb86fd62f4c96bbf3566ca">Fužinah</comp>
+            </collocation>
+            <collocation form="starostnik na Studencu" cluster="5" frequency="4" logDice="7.94">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_1753b9373ed561c42c3ccbeca9a30621">Studencu</comp>
+            </collocation>
+            <collocation form="starostnik na domu" cluster="6" frequency="45" logDice="6.27">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">domu</comp>
+            </collocation>
+            <collocation form="starostnik na območju" cluster="6" frequency="12" logDice="2.4">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_637bb12e70b217aeada98e77f3559b30">območju</comp>
+            </collocation>
+            <collocation form="starostnik na kmetiji" cluster="6" frequency="5" logDice="3.33">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_4b6dc4ee113f77788107a47c03291f40">kmetiji</comp>
+            </collocation>
+            <collocation form="starostnik na Jesenicah" cluster="7" frequency="15" logDice="6.06">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_5c8f8280ff04bc4563b3952edc8a092b">Jesenicah</comp>
+            </collocation>
+            <collocation form="starostnik na Koroškem" cluster="7" frequency="5" logDice="2.79">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_fdab5358a319fc6f43ef0ee0b20b72f2">Koroškem</comp>
+            </collocation>
+            <collocation form="starostnik na srečanju" cluster="8" frequency="7" logDice="4.52">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_779fa188c4acb969e9354bb72d376b6d">srečanju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 od sbz2">
+          <collocations>
+            <collocation form="starostnik od leta" cluster="1" frequency="4" logDice="2.3">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz4">
+          <collocations>
+            <collocation form="starostnik v dom" cluster="1" frequency="15" logDice="6.44">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">dom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="starostnik v Črnečah" cluster="1" frequency="35" logDice="10.92">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="">Črnečah</comp>
+            </collocation>
+            <collocation form="starostnik v Črneče" cluster="1" frequency="17" logDice="9.94">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="">Črneče</comp>
+            </collocation>
+            <collocation form="starostnik v črneča" cluster="1" frequency="9" logDice="9.04">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="">črneča</comp>
+            </collocation>
+            <collocation form="starostnik v Černeče" cluster="1" frequency="4" logDice="7.91">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="">Černeče</comp>
+            </collocation>
+            <collocation form="starostnik v Žireh" cluster="2" frequency="10" logDice="7.5">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_76b56a29f42ab06dd69461674108d945">Žireh</comp>
+            </collocation>
+            <collocation form="starostnik v Idriji" cluster="2" frequency="5" logDice="5.83">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_54a8f95c7dc2df8b1d9bc734957946dc">Idriji</comp>
+            </collocation>
+            <collocation form="starostnik v Radovljici" cluster="2" frequency="5" logDice="4.85">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_cb53064eddbe6f0e553bf8568df29678">Radovljici</comp>
+            </collocation>
+            <collocation form="starostnik v domu" cluster="3" frequency="66" logDice="5.7">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">domu</comp>
+            </collocation>
+            <collocation form="starostnik v okolju" cluster="3" frequency="29" logDice="5.2">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_eb922917c5a94eb61166666cf13defaf">okolju</comp>
+            </collocation>
+            <collocation form="starostnik v kraju" cluster="3" frequency="9" logDice="3.57">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_7f68ad51dbf6aa81c1b08f8afa92155d">kraju</comp>
+            </collocation>
+            <collocation form="starostnik v VASI" cluster="3" frequency="6" logDice="2.99">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_746c4faa0cb704f82cd12acb408c94d3">VASI</comp>
+            </collocation>
+            <collocation form="starostnik v hotelu" cluster="3" frequency="5" logDice="3.13">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_11a5bf5cb49046224e398004267e2b90">hotelu</comp>
+            </collocation>
+            <collocation form="starostnik v centru" cluster="3" frequency="5" logDice="2.69">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_2f065577a7792f26481f7fba67e1e5ab">centru</comp>
+            </collocation>
+            <collocation form="starostnik v Slovenj" cluster="4" frequency="5" logDice="4.7">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_06868fadcc5b4db2deaf063eacf01f2f">Slovenj</comp>
+            </collocation>
+            <collocation form="starostnik v stiski" cluster="5" frequency="5" logDice="4.09">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_d95b5233a8a36f9e88412886dacecf3d">stiski</comp>
+            </collocation>
+            <collocation form="starostnik v občini" cluster="6" frequency="25" logDice="3.75">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_7b31296251a77ba2585c256bbbe52eb9">občini</comp>
+            </collocation>
+            <collocation form="starostnik v Sloveniji" cluster="6" frequency="20" logDice="1.64">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Sloveniji</comp>
+            </collocation>
+            <collocation form="starostnik v družbi" cluster="6" frequency="8" logDice="2.56">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_4d78f38b1eeb8492cae54547d0252bf9">družbi</comp>
+            </collocation>
+            <collocation form="starostnik v družini" cluster="6" frequency="7" logDice="3.48">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_9a7d912c8ec5a6cbc42d2975b5563b34">družini</comp>
+            </collocation>
+            <collocation form="starostnik v letu" cluster="6" frequency="7" logDice="0.11">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">letu</comp>
+            </collocation>
+            <collocation form="starostnik v času" cluster="6" frequency="6" logDice="1.01">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">času</comp>
+            </collocation>
+            <collocation form="starostnik v državi" cluster="6" frequency="4" logDice="0.23">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">državi</comp>
+            </collocation>
+            <collocation form="starostnik v Rusiji" cluster="7" frequency="4" logDice="3.64">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_9cc2d1115d92c9b1bfdcc25b5d75a3c0">Rusiji</comp>
+            </collocation>
+            <collocation form="starostnik v Mariboru" cluster="7" frequency="4" logDice="1.29">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_2fd096a507b2c84fb2c3bf085d4e9c1d">Mariboru</comp>
+            </collocation>
+            <collocation form="starostnik v dolini" cluster="8" frequency="4" logDice="2.32">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_3cfd82133483d61493479af0121a6728">dolini</comp>
+            </collocation>
+            <collocation form="starostnik v ŠKOCJAN" cluster="9" frequency="4" logDice="7.77">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="">ŠKOCJAN</comp>
+            </collocation>
+            <collocation form="starostnik v Lovrencu" cluster="10" frequency="4" logDice="7.36">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_78d35431de678294fa75f7fc743207be">Lovrencu</comp>
+            </collocation>
+            <collocation form="starostnik v selcu" cluster="11" frequency="4" logDice="7.22">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_d827526f653c63e1a5a3957838aae65e">selcu</comp>
+            </collocation>
+            <collocation form="starostnik v lesu" cluster="12" frequency="6" logDice="7.09">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_a64d3c025e48884a3606fcff72b3d118">lesu</comp>
+            </collocation>
+            <collocation form="starostnik v Šmartnem" cluster="13" frequency="6" logDice="6.24">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_91ee70fb5e9a4b65800b7ff9c0ddc657">Šmartnem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="starostnik z vidika" cluster="1" frequency="5" logDice="4.38">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_be1da62d7bc0dde0de684583bfe342d2">vidika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ3">
+          <collocations>
+            <collocation form="nuditi starostniku" cluster="1" frequency="16" logDice="6.17">
+              <comp position="1" type="collocate" sloleks="LE_cacd030adaeba0412cc384e40ea0ae4e">nuditi</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostniku</comp>
+            </collocation>
+            <collocation form="omogočiti starostniku" cluster="1" frequency="10" logDice="3.91">
+              <comp position="1" type="collocate" sloleks="LE_ab7fecc694cf928d1eaa6b15ed291e37">omogočiti</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostniku</comp>
+            </collocation>
+            <collocation form="zagotoviti starostniku" cluster="1" frequency="8" logDice="4.65">
+              <comp position="1" type="collocate" sloleks="LE_cd0f1e930d86d8fbe9367f835a1cc92f">zagotoviti</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostniku</comp>
+            </collocation>
+            <collocation form="pomagati starostniku" cluster="2" frequency="42" logDice="4.6">
+              <comp position="1" type="collocate" sloleks="LE_2fc43d313cb40b86ed2a370a430e93c1">pomagati</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostniku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="obiskati starostnika" cluster="1" frequency="29" logDice="4.13">
+              <comp position="1" type="collocate" sloleks="LE_ac330ed125bf741cd131a62e82535952">obiskati</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="obiskovati starostnika" cluster="1" frequency="17" logDice="4.56">
+              <comp position="1" type="collocate" sloleks="LE_f452086e1712e32155f19f2e6b506c5f">obiskovati</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz med SBZ4">
+          <collocations>
+            <collocation form="uvrščati med starostnika" cluster="1" frequency="4" logDice="4.36">
+              <comp position="1" type="collocate" sloleks="LE_38d553b09d2f8a515b0a4b0ccc286620">uvrščati</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz o SBZ5">
+          <collocations>
+            <collocation form="oddajati o starostniku" cluster="1" frequency="8" logDice="5.48">
+              <comp position="1" type="collocate" sloleks="LE_e382dd10dc850e87f3fe0c252283366a">oddajati</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostniku</comp>
+            </collocation>
+            <collocation form="govoriti o starostniku" cluster="2" frequency="4" logDice="-0.16">
+              <comp position="1" type="collocate" sloleks="LE_1da4dedf23c5041ae767d038d2430123">govoriti</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostniku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz pri SBZ5">
+          <collocations>
+            <collocation form="pojaviti pri starostniku" cluster="1" frequency="4" logDice="5.28">
+              <comp position="1" type="collocate" sloleks="LE_78f165721639becb5d5fbba5a9c90b25">pojaviti</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostniku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="družiti s starostnikom" cluster="1" frequency="4" logDice="4.23">
+              <comp position="1" type="collocate" sloleks="LE_10595b075eb2922051fcd94f1a2ca194">družiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnikom</comp>
+            </collocation>
+            <collocation form="ravnati s starostnikom" cluster="2" frequency="4" logDice="3.98">
+              <comp position="1" type="collocate" sloleks="LE_6bb16a78250b205a0096c7c9292ce6b4">ravnati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnikom</comp>
+            </collocation>
+            <collocation form="srečevati s starostnikom" cluster="3" frequency="5" logDice="3.4">
+              <comp position="1" type="collocate" sloleks="LE_7f9c9c8bad074b8858f6ab1faee09d85">srečevati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnikom</comp>
+            </collocation>
+            <collocation form="srečati s starostnikom" cluster="3" frequency="4" logDice="2.32">
+              <comp position="1" type="collocate" sloleks="LE_049fc92dfae25894d858637e2cc2c59c">srečati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnikom</comp>
+            </collocation>
+            <collocation form="ukvarjati s starostnikom" cluster="4" frequency="7" logDice="0.86">
+              <comp position="1" type="collocate" sloleks="LE_d218d442858c415bdeff018dc056aea9">ukvarjati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnikom</comp>
+            </collocation>
+            <collocation form="delati s starostnikom" cluster="4" frequency="6" logDice="3.3">
+              <comp position="1" type="collocate" sloleks="LE_240594860749d18971944f6690505af1">delati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnikom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ2">
+          <collocations>
+            <collocation form="skrbeti za starostnika" cluster="1" frequency="8" logDice="6.46">
+              <comp position="1" type="collocate" sloleks="LE_ede1f4889f5d12d03cea1e42693522c8">skrbeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="skrbeti za starostnika" cluster="1" frequency="47" logDice="4.05">
+              <comp position="1" type="collocate" sloleks="LE_ede1f4889f5d12d03cea1e42693522c8">skrbeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="narediti za starostnika" cluster="2" frequency="4" logDice="3.31">
+              <comp position="1" type="collocate" sloleks="LE_26dfa51ea71580c729d6a49ea3108777">narediti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="poskrbeti za starostnika" cluster="3" frequency="11" logDice="2.22">
+              <comp position="1" type="collocate" sloleks="LE_610c30927c7792ff5bc41d0843ec83a6">poskrbeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="veljati za starostnika" cluster="4" frequency="7" logDice="1.37">
+              <comp position="1" type="collocate" sloleks="LE_d1ea0d9dd4771e211c9eddc0d342acc2">veljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="iti za starostnika" cluster="5" frequency="7" logDice="-0.79">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="dementen starostnik" cluster="1" frequency="43" logDice="9.74">
+              <comp position="1" type="collocate" sloleks="LE_bac1a8742ecce4fb7f539100d60d6c47">dementen</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+            </collocation>
+            <collocation form="onemogel starostnik" cluster="1" frequency="9" logDice="7.53">
+              <comp position="1" type="collocate" sloleks="LE_1aee7c150f833d6ec9248997c37518f5">onemogel</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+            </collocation>
+            <collocation form="odrasel starostnik" cluster="2" frequency="30" logDice="4.73">
+              <comp position="1" type="collocate" sloleks="LE_8f53633d70b707c06d30d569d35b2c9e">odrasel</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+            </collocation>
+            <collocation form="zbran starostnik" cluster="2" frequency="10" logDice="2.94">
+              <comp position="1" type="collocate" sloleks="LE_284076f073eee97824ac940b4472e061">zbran</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+            </collocation>
+            <collocation form="namenjen starostnik" cluster="3" frequency="36" logDice="2.78">
+              <comp position="1" type="collocate" sloleks="LE_eed44a3aaf6fe7ffbbb56cff0a5bde3b">namenjen</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+            </collocation>
+            <collocation form="številen starostnik" cluster="4" frequency="28" logDice="1.31">
+              <comp position="1" type="collocate" sloleks="LE_4f31fb911f8a68938dce145d431affa8">številen</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+            </collocation>
+            <collocation form="današnji starostnik" cluster="4" frequency="16" logDice="1.67">
+              <comp position="1" type="collocate" sloleks="LE_3eca79d9ce3974a5dbf4794dc47c96d5">današnji</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+            </collocation>
+            <collocation form="mirnopeški starostnik" cluster="5" frequency="8" logDice="6.68">
+              <comp position="1" type="collocate" sloleks="LE_48e34e8f697a1f5b4fa7de93f501c504">mirnopeški</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+            </collocation>
+            <collocation form="anketiran starostnik" cluster="6" frequency="9" logDice="6.17">
+              <comp position="1" type="collocate" sloleks="LE_44c7613667d353f2971de7d9b2a85474">anketiran</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+            </collocation>
+            <collocation form="bolan starostnik" cluster="7" frequency="36" logDice="5.8">
+              <comp position="1" type="collocate" sloleks="LE_12f3c0d081dfc8a8c68f6cfbbd4f2c30">bolan</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+            </collocation>
+            <collocation form="ogrožen starostnik" cluster="7" frequency="31" logDice="4.9">
+              <comp position="1" type="collocate" sloleks="LE_119a68958210239e7ef4b2d2a448f126">ogrožen</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+            </collocation>
+            <collocation form="osamljen starostnik" cluster="7" frequency="20" logDice="5.43">
+              <comp position="1" type="collocate" sloleks="LE_dfb12054bca4e628d46cb58fb784b090">osamljen</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+            </collocation>
+            <collocation form="zdrav starostnik" cluster="8" frequency="36" logDice="3.41">
+              <comp position="1" type="collocate" sloleks="LE_faa86fb771784f958e4d2e0eb9bdde65">zdrav</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+            </collocation>
+            <collocation form="aktiven starostnik" cluster="8" frequency="19" logDice="3.05">
+              <comp position="1" type="collocate" sloleks="LE_3abd74abf188260b09b1ae5c6d2cd818">aktiven</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ3">
+          <collocations>
+            <collocation form="namenjen starostniku" cluster="1" frequency="11" logDice="2.91">
+              <comp position="1" type="collocate" sloleks="LE_eed44a3aaf6fe7ffbbb56cff0a5bde3b">namenjen</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostniku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 za SBZ4">
+          <collocations>
+            <collocation form="značilen za starostnika" cluster="1" frequency="4" logDice="3.12">
+              <comp position="1" type="collocate" sloleks="LE_d8eb3ebee84215090028a473fe20e5b1">značilen</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="primeren za starostnika" cluster="2" frequency="9" logDice="2.55">
+              <comp position="1" type="collocate" sloleks="LE_729f9977a82c3542ae4d4d8191bc0804">primeren</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz SBZ2">
+          <collocations>
+            <collocation form="doma starostnika" cluster="1" frequency="107" logDice="9.8">
+              <comp position="1" type="collocate" sloleks="LE_e763d76187601d485fd9a1af70a03a8c">doma</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="več starostnika" cluster="2" frequency="31" logDice="1.06">
+              <comp position="1" type="collocate" sloleks="LE_35a40117ea9b0ca39c7a43d940592d29">več</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="veliko starostnika" cluster="2" frequency="29" logDice="1.54">
+              <comp position="1" type="collocate" sloleks="LE_431ef7ec57af288ca0e781bb12f6e7f0">veliko</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="največ starostnika" cluster="3" frequency="10" logDice="1.51">
+              <comp position="1" type="collocate" sloleks="LE_8d628c69b249ded817d7ad2cae1d9a95">največ</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="dom starostnika" cluster="1" frequency="872" logDice="9.22">
+              <comp position="1" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">dom</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="življenje starostnika" cluster="1" frequency="73" logDice="5.21">
+              <comp position="1" type="collocate" sloleks="LE_b7a6a2019becc6510edb8591e171b0a7">življenje</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="skupina starostnika" cluster="1" frequency="33" logDice="2.57">
+              <comp position="1" type="collocate" sloleks="LE_7a31c94cb05484f8e60e8fbc4dad6a50">skupina</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="dan starostnika" cluster="1" frequency="28" logDice="1.84">
+              <comp position="1" type="collocate" sloleks="LE_687a3a5f213dba3724e626216f1b09da">dan</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="leto starostnika" cluster="1" frequency="18" logDice="0.82">
+              <comp position="1" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leto</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="varstvo starostnika" cluster="2" frequency="89" logDice="5.03">
+              <comp position="1" type="collocate" sloleks="LE_a4772470cb0cf8ed30edb1806bba60c6">varstvo</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="oskrba starostnika" cluster="2" frequency="87" logDice="7.79">
+              <comp position="1" type="collocate" sloleks="LE_5ab64ec31a5760798f1f234828e92ac9">oskrba</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="prehrana starostnika" cluster="2" frequency="20" logDice="5.94">
+              <comp position="1" type="collocate" sloleks="LE_cc45ccb9ca4af414d51013e339a1766f">prehrana</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="zdravljenje starostnika" cluster="2" frequency="15" logDice="3.58">
+              <comp position="1" type="collocate" sloleks="LE_7c0137a5473fd91b204bdf5ea8e08de5">zdravljenje</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="zdravje starostnika" cluster="2" frequency="9" logDice="3.52">
+              <comp position="1" type="collocate" sloleks="LE_29e97c6cfa37e48dbd4d90acdc642453">zdravje</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="svojec starostnika" cluster="3" frequency="10" logDice="5.88">
+              <comp position="1" type="collocate" sloleks="LE_53c1f0ce14f4c3ded3e2c55d3adae447">svojec</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="stanovalec starostnika" cluster="3" frequency="8" logDice="4.86">
+              <comp position="1" type="collocate" sloleks="LE_5fe40d980a2b5f9104c9f7cc0fde7032">stanovalec</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="težava starostnika" cluster="4" frequency="24" logDice="4.79">
+              <comp position="1" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težava</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="problem starostnika" cluster="4" frequency="21" logDice="3.45">
+              <comp position="1" type="collocate" sloleks="LE_978368a01311c2094cfb52416d9882f9">problem</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="bolezen starostnika" cluster="4" frequency="15" logDice="3.92">
+              <comp position="1" type="collocate" sloleks="LE_6fa279c9efca851861451ba08fd5fac5">bolezen</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="stanje starostnika" cluster="4" frequency="12" logDice="2.77">
+              <comp position="1" type="collocate" sloleks="LE_2ad4e1571957d685096e1a60acee4119">stanje</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="položaj starostnika" cluster="4" frequency="10" logDice="2.14">
+              <comp position="1" type="collocate" sloleks="LE_0227904f3ee297f8f6c33b433ba96e65">položaj</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="potreba starostnika" cluster="5" frequency="40" logDice="4.59">
+              <comp position="1" type="collocate" sloleks="LE_16bf4d92d7aaee11efd4c8603b6e4ee0">potreba</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="pravica starostnika" cluster="5" frequency="9" logDice="2.12">
+              <comp position="1" type="collocate" sloleks="LE_8c0e472df622ea735bcaed6544ab6130">pravica</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="namestitev starostnika" cluster="6" frequency="8" logDice="4.24">
+              <comp position="1" type="collocate" sloleks="LE_6ed75c04910308fd8f090317b21e02df">namestitev</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="srečanje starostnika" cluster="7" frequency="335" logDice="7.4">
+              <comp position="1" type="collocate" sloleks="LE_779fa188c4acb969e9354bb72d376b6d">srečanje</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="obravnava starostnika" cluster="7" frequency="20" logDice="4.05">
+              <comp position="1" type="collocate" sloleks="LE_f167d542794a2674397487e632cbb486">obravnava</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="obisk starostnika" cluster="7" frequency="13" logDice="2.51">
+              <comp position="1" type="collocate" sloleks="LE_b8c2d2adf31d1e34a582d21c6efe5e02">obisk</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="sposobnost starostnika" cluster="8" frequency="16" logDice="3.87">
+              <comp position="1" type="collocate" sloleks="LE_e99f5cd7345d772faca1731b231e7652">sposobnost</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="problematika starostnika" cluster="8" frequency="9" logDice="3.59">
+              <comp position="1" type="collocate" sloleks="LE_2fdb60174a8be4bfdfd09c22eb19246e">problematika</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="gradnja starostnika" cluster="9" frequency="46" logDice="3.49">
+              <comp position="1" type="collocate" sloleks="LE_3625065aad7c72d3cd7d1c94e3b12e46">gradnja</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="izgradnja starostnika" cluster="9" frequency="9" logDice="2.86">
+              <comp position="1" type="collocate" sloleks="LE_fd7ceda7e06b05f5056cc5d5b0f89b30">izgradnja</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="število starostnika" cluster="10" frequency="87" logDice="3.23">
+              <comp position="1" type="collocate" sloleks="LE_59f757c87d8de95cdfd38f88b75245a6">število</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="odstotek starostnika" cluster="10" frequency="43" logDice="2.41">
+              <comp position="1" type="collocate" sloleks="LE_11ff641b777a9bdc2060c997d306c118">odstotek</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="večina starostnika" cluster="10" frequency="35" logDice="1.98">
+              <comp position="1" type="collocate" sloleks="LE_72538287b447b4b7a75d1faf227dd3da">večina</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="delež starostnika" cluster="10" frequency="24" logDice="3.14">
+              <comp position="1" type="collocate" sloleks="LE_8f8dbfe55e81431b97506b6dc95f9da4">delež</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="polovica starostnika" cluster="10" frequency="10" logDice="1.22">
+              <comp position="1" type="collocate" sloleks="LE_e06fd3f6a407c754a3938adbe4897da0">polovica</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="tretjina starostnika" cluster="10" frequency="8" logDice="2.54">
+              <comp position="1" type="collocate" sloleks="LE_15b0bd6adeaf2703f3cb268e8000372c">tretjina</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="smrt starostnika" cluster="11" frequency="11" logDice="3.12">
+              <comp position="1" type="collocate" sloleks="LE_7ccde25b582fa3323faaf4d1541c4793">smrt</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="bivanje starostnika" cluster="12" frequency="28" logDice="7.12">
+              <comp position="1" type="collocate" sloleks="LE_281d88828d5069c311dcaa925a687d6c">bivanje</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="druženje starostnika" cluster="12" frequency="16" logDice="6.26">
+              <comp position="1" type="collocate" sloleks="LE_bec7e86b67c1d7d03ebe09c257fd003e">druženje</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="obdaritev starostnika" cluster="13" frequency="14" logDice="7.11">
+              <comp position="1" type="collocate" sloleks="LE_e90010b0f7e3e405c5cee44c26f7ba3f">obdaritev</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="nega starostnika" cluster="14" frequency="40" logDice="6.04">
+              <comp position="1" type="collocate" sloleks="LE_ce4792790e054aad3207bae501afdc55">nega</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="starostnik pomladi" cluster="15" frequency="9" logDice="4.8">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="collocate" sloleks="LE_749973fc7791f076eee77c1ee24bb80f">pomladi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ3">
+          <collocations>
+            <collocation form="pomoč starostniku" cluster="1" frequency="46" logDice="5.56">
+              <comp position="1" type="collocate" sloleks="LE_84e3f9e3c4e9e1abf42cc69c125b0b58">pomoč</comp>
+              <comp position="2" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostniku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 nad SBZ6">
+          <collocations>
+            <collocation form="nasilje nad starostnikom" cluster="1" frequency="10" logDice="5.83">
+              <comp position="1" type="collocate" sloleks="LE_27b212dc14ebed78971b6a76ad7a5f41">nasilje</comp>
+              <comp position="2" type="other" sloleks="LE_d1a9059d44a24194d17af34039c48e9a">nad</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnikom</comp>
+            </collocation>
+            <collocation form="starostnik nad letom" cluster="2" frequency="13" logDice="9.22">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_d1a9059d44a24194d17af34039c48e9a">nad</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">letom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="podatek o starostniku" cluster="1" frequency="5" logDice="0.83">
+              <comp position="1" type="collocate" sloleks="LE_dceff032dbcde0be8f54f9dd068c8f74">podatek</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostniku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 pri SBZ5">
+          <collocations>
+            <collocation form="kolk pri starostniku" cluster="1" frequency="10" logDice="10.72">
+              <comp position="1" type="collocate" sloleks="LE_9b5e2aec216f22211dcaa84ecf6623e5">kolk</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostniku</comp>
+            </collocation>
+            <collocation form="demenca pri starostniku" cluster="2" frequency="4" logDice="9.73">
+              <comp position="1" type="collocate" sloleks="LE_cb91248e00797989729c9ab1d1592965">demenca</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostniku</comp>
+            </collocation>
+            <collocation form="slepota pri starostniku" cluster="3" frequency="4" logDice="9.69">
+              <comp position="1" type="collocate" sloleks="LE_3cfa629208cbcb3729d2a8bb6919e4a0">slepota</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostniku</comp>
+            </collocation>
+            <collocation form="ožilje pri starostniku" cluster="4" frequency="4" logDice="9.59">
+              <comp position="1" type="collocate" sloleks="LE_6a31007dd8009d6de132bb6423698422">ožilje</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostniku</comp>
+            </collocation>
+            <collocation form="sladkor pri starostniku" cluster="5" frequency="4" logDice="9.08">
+              <comp position="1" type="collocate" sloleks="LE_da4f2da25b1df3ceda67d3f1a7d28518">sladkor</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostniku</comp>
+            </collocation>
+            <collocation form="depresija pri starostniku" cluster="6" frequency="4" logDice="8.7">
+              <comp position="1" type="collocate" sloleks="LE_6d6f12c9273d081b346f42c5a6d78375">depresija</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostniku</comp>
+            </collocation>
+            <collocation form="bolečina pri starostniku" cluster="6" frequency="4" logDice="6.48">
+              <comp position="1" type="collocate" sloleks="LE_6a7434a210c21ded27b4dc2fde249a7c">bolečina</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostniku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="druženje s starostnikom" cluster="1" frequency="7" logDice="5.14">
+              <comp position="1" type="collocate" sloleks="LE_bec7e86b67c1d7d03ebe09c257fd003e">druženje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnikom</comp>
+            </collocation>
+            <collocation form="delo s starostnikom" cluster="2" frequency="43" logDice="4.89">
+              <comp position="1" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnikom</comp>
+            </collocation>
+            <collocation form="srečanje s starostnikom" cluster="3" frequency="9" logDice="2.93">
+              <comp position="1" type="collocate" sloleks="LE_779fa188c4acb969e9354bb72d376b6d">srečanje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnikom</comp>
+            </collocation>
+            <collocation form="stik s starostnikom" cluster="4" frequency="6" logDice="1.35">
+              <comp position="1" type="collocate" sloleks="LE_b931e487f490576cea08c70755539ef5">stik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnikom</comp>
+            </collocation>
+            <collocation form="starostnik z demenco" cluster="5" frequency="25" logDice="8.63">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_cb91248e00797989729c9ab1d1592965">demenco</comp>
+            </collocation>
+            <collocation form="starostnik s posteljo" cluster="6" frequency="8" logDice="7.26">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_fe1115a8647757a4e618ef86177eb691">posteljo</comp>
+            </collocation>
+            <collocation form="starostnik s pokojnino" cluster="7" frequency="4" logDice="6.88">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_5627d18054fecd197d25ea0a9fcfcbac">pokojnino</comp>
+            </collocation>
+            <collocation form="starostnik z boleznijo" cluster="8" frequency="7" logDice="4.87">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_6fa279c9efca851861451ba08fd5fac5">boleznijo</comp>
+            </collocation>
+            <collocation form="starostnik z težavo" cluster="8" frequency="4" logDice="4.11">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težavo</comp>
+            </collocation>
+            <collocation form="starostnik z motnjo" cluster="9" frequency="4" logDice="4.38">
+              <comp position="1" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_e07067dc89f16fa43aba5c323406c3a7">motnjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="dom za starostnika" cluster="1" frequency="397" logDice="10.65">
+              <comp position="1" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">dom</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="center za starostnika" cluster="1" frequency="39" logDice="4.33">
+              <comp position="1" type="collocate" sloleks="LE_2f065577a7792f26481f7fba67e1e5ab">center</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="program za starostnika" cluster="1" frequency="12" logDice="3.18">
+              <comp position="1" type="collocate" sloleks="LE_2da10dc9e8a0e2ff7fd5a1ddd0278e88">program</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="mesto za starostnika" cluster="1" frequency="6" logDice="3.74">
+              <comp position="1" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesto</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="država za starostnika" cluster="1" frequency="4" logDice="3.84">
+              <comp position="1" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">država</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="naselje za starostnika" cluster="2" frequency="11" logDice="8.26">
+              <comp position="1" type="collocate" sloleks="LE_80465edf90bceab77efbdf314b62fe0c">naselje</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="oddaja za starostnika" cluster="3" frequency="9" logDice="5.44">
+              <comp position="1" type="collocate" sloleks="LE_52a0fe564a02d70a3d3b0b3a704b365a">oddaja</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="srečanje za starostnika" cluster="3" frequency="8" logDice="6.69">
+              <comp position="1" type="collocate" sloleks="LE_779fa188c4acb969e9354bb72d376b6d">srečanje</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="prispodoba za starostnika" cluster="4" frequency="4" logDice="6.55">
+              <comp position="1" type="collocate" sloleks="LE_fb468562a86ec14563efbdb2ace2dd61">prispodoba</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="vadba za starostnika" cluster="5" frequency="6" logDice="6.44">
+              <comp position="1" type="collocate" sloleks="LE_c6822286ba08e7ba8bd35ce06b38ce02">vadba</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="izlet za starostnika" cluster="6" frequency="4" logDice="6.41">
+              <comp position="1" type="collocate" sloleks="LE_dd48061d661bc37cbc1c16e5e96d2b1a">izlet</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="stanovanje za starostnika" cluster="7" frequency="21" logDice="7.55">
+              <comp position="1" type="collocate" sloleks="LE_790d388e4f6c9a2d50a5209ec61504cf">stanovanje</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="hotel za starostnika" cluster="7" frequency="11" logDice="7.53">
+              <comp position="1" type="collocate" sloleks="LE_11a5bf5cb49046224e398004267e2b90">hotel</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="bolnišnica za starostnika" cluster="7" frequency="6" logDice="6.1">
+              <comp position="1" type="collocate" sloleks="LE_33ef2806b73924842b5b4fc3f50f81f3">bolnišnica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="soba za starostnika" cluster="7" frequency="5" logDice="4.96">
+              <comp position="1" type="collocate" sloleks="LE_51d0948fdcd403a7c15f9ade2ec2b331">soba</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="objekt za starostnika" cluster="7" frequency="5" logDice="4.89">
+              <comp position="1" type="collocate" sloleks="LE_bb14223520452df1f116f86800767b80">objekt</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="skrb za starostnika" cluster="8" frequency="57" logDice="5.82">
+              <comp position="1" type="collocate" sloleks="LE_8fc9c7c4a52d70b47b50fd6d5d96b148">skrb</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="moč za starostnika" cluster="8" frequency="4" logDice="4.18">
+              <comp position="1" type="collocate" sloleks="LE_0b71c85c50e39f2c8cb5e91791d67af9">moč</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="varstvo za starostnika" cluster="9" frequency="7" logDice="6.86">
+              <comp position="1" type="collocate" sloleks="LE_a4772470cb0cf8ed30edb1806bba60c6">varstvo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="storitev za starostnika" cluster="9" frequency="5" logDice="4.66">
+              <comp position="1" type="collocate" sloleks="LE_abb14230c15d4fd66a15377c1ed699a9">storitev</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="oskrba za starostnika" cluster="9" frequency="5" logDice="7.04">
+              <comp position="1" type="collocate" sloleks="LE_5ab64ec31a5760798f1f234828e92ac9">oskrba</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="postelja za starostnika" cluster="10" frequency="10" logDice="7.64">
+              <comp position="1" type="collocate" sloleks="LE_fe1115a8647757a4e618ef86177eb691">postelja</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="olajšava za starostnika" cluster="11" frequency="4" logDice="4.18">
+              <comp position="1" type="collocate" sloleks="LE_3f38e885050c66c752dc8bbf4e396ab7">olajšava</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="oddelek za starostnika" cluster="12" frequency="6" logDice="1.95">
+              <comp position="1" type="collocate" sloleks="LE_f73286dd6f89a4307b05a1a8ffe3e326">oddelek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="urad za starostnika" cluster="12" frequency="5" logDice="2.13">
+              <comp position="1" type="collocate" sloleks="LE_b4dd3f87e9bdfa5ee33d22f2c1685678">urad</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="oddih za starostnika" cluster="13" frequency="5" logDice="7.31">
+              <comp position="1" type="collocate" sloleks="LE_676a29d6029e25b496ef47931aaae7f8">oddih</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="namestitev za starostnika" cluster="14" frequency="4" logDice="7.06">
+              <comp position="1" type="collocate" sloleks="LE_6ed75c04910308fd8f090317b21e02df">namestitev</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+            <collocation form="plenica za starostnika" cluster="15" frequency="4" logDice="6.81">
+              <comp position="1" type="collocate" sloleks="LE_5d912933543d61dfa50df213c03d67a1">plenica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f589b4eb6fa1f37660035d62e232a31">starostnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="77556">pešak</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">587</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="Pešak za govor" cluster="1" frequency="5" logDice="7.23">
+              <comp position="1" type="headword" sloleks="LE_31433732a2030b5696afcf8950b97d39">Pešak</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_62db55b79816c90308de7c02140fb3d5">govor</comp>
+            </collocation>
+            <collocation form="Pešak za besedo" cluster="2" frequency="18" logDice="5.69">
+              <comp position="1" type="headword" sloleks="LE_31433732a2030b5696afcf8950b97d39">Pešak</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">besedo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="oborožen pešak" cluster="1" frequency="10" logDice="3.69">
+              <comp position="1" type="collocate" sloleks="LE_21b26231189b02a267b35d934d14621f">oborožen</comp>
+              <comp position="2" type="headword" sloleks="LE_31433732a2030b5696afcf8950b97d39">pešak</comp>
+            </collocation>
+            <collocation form="navaden pešak" cluster="2" frequency="15" logDice="2.63">
+              <comp position="1" type="collocate" sloleks="LE_f59369d8b37702c03d2e6f31cbe3f5d8">navaden</comp>
+              <comp position="2" type="headword" sloleks="LE_31433732a2030b5696afcf8950b97d39">pešak</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="REŠEVANJE PEŠAKA" cluster="1" frequency="5" logDice="1.29">
+              <comp position="1" type="collocate" sloleks="LE_1ca3bfba8a0ee2bbb56ac27d1c53d46e">REŠEVANJE</comp>
+              <comp position="2" type="headword" sloleks="LE_31433732a2030b5696afcf8950b97d39">PEŠAKA</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

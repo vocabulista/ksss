@@ -1,0 +1,76 @@
+<entry>
+  <header>
+    <lexical_unit id="35382">stvarnopraven</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">848</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="stvarnopraven zakonik" cluster="1" frequency="506" logDice="9.69">
+              <comp position="1" type="headword" sloleks="LE_1346d3d113f63efbd7de42fa99f31bbf">stvarnopraven</comp>
+              <comp position="2" type="collocate" sloleks="LE_8ef05e837aab850bcfd523bd58858a93">zakonik</comp>
+            </collocation>
+            <collocation form="stvarnopravno upravičenje" cluster="2" frequency="10" logDice="7.12">
+              <comp position="1" type="headword" sloleks="LE_1346d3d113f63efbd7de42fa99f31bbf">stvarnopravno</comp>
+              <comp position="2" type="collocate" sloleks="LE_825396ce9ffc05349f1c93fc9025caf4">upravičenje</comp>
+            </collocation>
+            <collocation form="stvarnopraven zahtevek" cluster="3" frequency="28" logDice="5.1">
+              <comp position="1" type="headword" sloleks="LE_1346d3d113f63efbd7de42fa99f31bbf">stvarnopraven</comp>
+              <comp position="2" type="collocate" sloleks="LE_7bcdc549eea4e68e1e974f54e94b7be2">zahtevek</comp>
+            </collocation>
+            <collocation form="stvarnopravno razmerje" cluster="4" frequency="125" logDice="5.08">
+              <comp position="1" type="headword" sloleks="LE_1346d3d113f63efbd7de42fa99f31bbf">stvarnopravno</comp>
+              <comp position="2" type="collocate" sloleks="LE_34acd9846cdc68db26c51b6d15765ea9">razmerje</comp>
+            </collocation>
+            <collocation form="stvarnopraven status" cluster="5" frequency="6" logDice="2.7">
+              <comp position="1" type="headword" sloleks="LE_1346d3d113f63efbd7de42fa99f31bbf">stvarnopraven</comp>
+              <comp position="2" type="collocate" sloleks="LE_8ded38ac7a37441b88a8e17272bf1926">status</comp>
+            </collocation>
+            <collocation form="stvarnopraven posel" cluster="5" frequency="6" logDice="1.45">
+              <comp position="1" type="headword" sloleks="LE_1346d3d113f63efbd7de42fa99f31bbf">stvarnopraven</comp>
+              <comp position="2" type="collocate" sloleks="LE_4944cd3b7cdda05428aed18cfcac7eb9">posel</comp>
+            </collocation>
+            <collocation form="stvarnopravna pravica" cluster="6" frequency="41" logDice="2.48">
+              <comp position="1" type="headword" sloleks="LE_1346d3d113f63efbd7de42fa99f31bbf">stvarnopravna</comp>
+              <comp position="2" type="collocate" sloleks="LE_8c0e472df622ea735bcaed6544ab6130">pravica</comp>
+            </collocation>
+            <collocation form="stvarnopraven smisel" cluster="7" frequency="6" logDice="2.36">
+              <comp position="1" type="headword" sloleks="LE_1346d3d113f63efbd7de42fa99f31bbf">stvarnopraven</comp>
+              <comp position="2" type="collocate" sloleks="LE_5360d45e9cbd1bd626d7f2caefd4dff5">smisel</comp>
+            </collocation>
+            <collocation form="stvarnopravna posledica" cluster="8" frequency="7" logDice="1.55">
+              <comp position="1" type="headword" sloleks="LE_1346d3d113f63efbd7de42fa99f31bbf">stvarnopravna</comp>
+              <comp position="2" type="collocate" sloleks="LE_9e94e198ec2c32de37b2bd7b6e54af2e">posledica</comp>
+            </collocation>
+            <collocation form="stvarnopraven učinek" cluster="9" frequency="9" logDice="1.41">
+              <comp position="1" type="headword" sloleks="LE_1346d3d113f63efbd7de42fa99f31bbf">stvarnopraven</comp>
+              <comp position="2" type="collocate" sloleks="LE_2353cab56c2f4b095b8ea704f5199db8">učinek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="stvarnopraven in/ali obligacijski" cluster="1" frequency="70" logDice="13.17">
+              <comp position="3" type="headword" sloleks="LE_1346d3d113f63efbd7de42fa99f31bbf">stvarnopraven</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_1bbf8653785ea4292f95a5667cc128f6">obligacijski</comp>
+              </collocation>
+            <collocation form="stvarnopraven in obligacijskopraven" cluster="2" frequency="14" logDice="12.02">
+              <comp position="1" type="headword" sloleks="LE_1346d3d113f63efbd7de42fa99f31bbf">stvarnopraven</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="">obligacijskopraven</comp>
+            </collocation>
+            <collocation form="stvarnopraven in stanovanjski" cluster="3" frequency="8" logDice="6.38">
+              <comp position="1" type="headword" sloleks="LE_1346d3d113f63efbd7de42fa99f31bbf">stvarnopraven</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_3917a76508b660426dfe74b81d7cf5aa">stanovanjski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

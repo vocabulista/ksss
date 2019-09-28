@@ -1,0 +1,77 @@
+<entry>
+  <header>
+    <lexical_unit id="30633">prerazporejen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">550</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 iz sbz2">
+          <collocations>
+            <collocation form="prerazporejen iz enote" cluster="1" frequency="4" logDice="8.57">
+              <comp position="1" type="headword" sloleks="LE_81a2f8725a5586f93a3e3442eb5e1a44">prerazporejen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_5b2baaa4fc466ab2dbf8c640e98f7c08">enote</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 na sbz4">
+          <collocations>
+            <collocation form="prerazporejen na ministrstvo" cluster="1" frequency="5" logDice="8.71">
+              <comp position="1" type="headword" sloleks="LE_81a2f8725a5586f93a3e3442eb5e1a44">prerazporejen</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_f330212ca20ea9e446e2adab59f8519d">ministrstvo</comp>
+            </collocation>
+            <collocation form="prerazporejen na projekt" cluster="2" frequency="4" logDice="8.52">
+              <comp position="1" type="headword" sloleks="LE_81a2f8725a5586f93a3e3442eb5e1a44">prerazporejen</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_a34c0db39bb0196a80c5f3b9f5391fea">projekt</comp>
+            </collocation>
+            <collocation form="prerazporejen na mesto" cluster="3" frequency="39" logDice="8.23">
+              <comp position="1" type="headword" sloleks="LE_81a2f8725a5586f93a3e3442eb5e1a44">prerazporejen</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesto</comp>
+            </collocation>
+            <collocation form="prerazporejen na delo" cluster="4" frequency="6" logDice="6.62">
+              <comp position="1" type="headword" sloleks="LE_81a2f8725a5586f93a3e3442eb5e1a44">prerazporejen</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 v sbz4">
+          <collocations>
+            <collocation form="prerazporejen v enoto" cluster="1" frequency="6" logDice="9.26">
+              <comp position="1" type="headword" sloleks="LE_81a2f8725a5586f93a3e3442eb5e1a44">prerazporejen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_5b2baaa4fc466ab2dbf8c640e98f7c08">enoto</comp>
+            </collocation>
+            <collocation form="prerazporejen v službo" cluster="2" frequency="4" logDice="8.3">
+              <comp position="1" type="headword" sloleks="LE_81a2f8725a5586f93a3e3442eb5e1a44">prerazporejen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_595a77ebd11b27d069e3829b663f2954">službo</comp>
+            </collocation>
+            <collocation form="prerazporejen v družbo" cluster="3" frequency="4" logDice="7.09">
+              <comp position="1" type="headword" sloleks="LE_81a2f8725a5586f93a3e3442eb5e1a44">prerazporejen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_4d78f38b1eeb8492cae54547d0252bf9">družbo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="začasno prerazporejen" cluster="1" frequency="11" logDice="5.93">
+              <comp position="1" type="collocate" sloleks="LE_2ab7d987598c40d493e2f5f8aa7dddca">začasno</comp>
+              <comp position="2" type="headword" sloleks="LE_81a2f8725a5586f93a3e3442eb5e1a44">prerazporejen</comp>
+            </collocation>
+            <collocation form="nekoliko prerazporejen" cluster="2" frequency="8" logDice="1.15">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_81a2f8725a5586f93a3e3442eb5e1a44">prerazporejen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

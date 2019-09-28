@@ -1,0 +1,36 @@
+<entry>
+  <header>
+    <lexical_unit id="480604">disco</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="disco uspešnice" cluster="1" frequency="14" logDice="5.58">
+              <comp position="1" type="headword" sloleks="">disco</comp>
+              <comp position="2" type="collocate" sloleks="LE_d3a166ebd669cdb6927d246094480258">uspešnice</comp>
+            </collocation>
+            <collocation form="disco glasbe" cluster="2" frequency="34" logDice="4.06">
+              <comp position="1" type="headword" sloleks="">disco</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9d4fb1bfd740612d94d302113e10a62">glasbe</comp>
+            </collocation>
+            <collocation form="disco kluba" cluster="3" frequency="10" logDice="1.37">
+              <comp position="1" type="headword" sloleks="">disco</comp>
+              <comp position="2" type="collocate" sloleks="LE_205ce919e68ed95a2dc64567475887d3">kluba</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="mini disco" cluster="1" frequency="16" logDice="4.35">
+              <comp position="1" type="collocate" sloleks="LE_9408b5ec38616010c5e47e98b502ef1d">mini</comp>
+              <comp position="2" type="headword" sloleks="">disco</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

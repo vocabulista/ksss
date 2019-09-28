@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="228557">bike</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="bike ride" cluster="1" frequency="11" logDice="9.82">
+              <comp position="1" type="headword" sloleks="">bike</comp>
+              <comp position="2" type="collocate" sloleks="LE_0f4a21830c8eb092fbd5480267e4ca08">ride</comp>
+            </collocation>
+            <collocation form="Bike parka" cluster="2" frequency="43" logDice="5.79">
+              <comp position="1" type="headword" sloleks="">Bike</comp>
+              <comp position="2" type="collocate" sloleks="LE_8defe76333f9efdca7f4ffcd6087c94e">parka</comp>
+            </collocation>
+            <collocation form="Bike centra" cluster="2" frequency="11" logDice="2.02">
+              <comp position="1" type="headword" sloleks="">Bike</comp>
+              <comp position="2" type="collocate" sloleks="LE_2f065577a7792f26481f7fba67e1e5ab">centra</comp>
+            </collocation>
+            <collocation form="bike pasme" cluster="3" frequency="10" logDice="5.3">
+              <comp position="1" type="headword" sloleks="">bike</comp>
+              <comp position="2" type="collocate" sloleks="LE_81203a47fa46351f9b9156ae16eb7c3e">pasme</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="bike z napitkom" cluster="1" frequency="4" logDice="8.87">
+              <comp position="1" type="headword" sloleks="">bike</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_d5e4f9e17aba76780983575f2f73331c">napitkom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="rdeč bike" cluster="1" frequency="15" logDice="1.23">
+              <comp position="1" type="collocate" sloleks="LE_f39824a0a0c94efb31b4fa9dc908ea0f">rdeč</comp>
+              <comp position="2" type="headword" sloleks="">bike</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

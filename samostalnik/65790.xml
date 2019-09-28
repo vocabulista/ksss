@@ -1,0 +1,35 @@
+<entry>
+  <header>
+    <lexical_unit id="65790">krivolovec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">539</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="domneven krivolovec" cluster="1" frequency="10" logDice="2.96">
+              <comp position="1" type="collocate" sloleks="LE_51b990968199257e3ebee812a04ca930">domneven</comp>
+              <comp position="2" type="headword" sloleks="LE_dad22ce7ddd8d856d2ceab9817bb1de0">krivolovec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="postopek s krivolovcem" cluster="1" frequency="12" logDice="6.52">
+              <comp position="1" type="collocate" sloleks="LE_775481f1f5ba42be7d6b3125176050cb">postopek</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_dad22ce7ddd8d856d2ceab9817bb1de0">krivolovcem</comp>
+            </collocation>
+            <collocation form="posel s krivolovcem" cluster="2" frequency="4" logDice="3.75">
+              <comp position="1" type="collocate" sloleks="LE_4944cd3b7cdda05428aed18cfcac7eb9">posel</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_dad22ce7ddd8d856d2ceab9817bb1de0">krivolovcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

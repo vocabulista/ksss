@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="48306">azimut</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">963</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="metrski azimut" cluster="1" frequency="8" logDice="4.35">
+              <comp position="1" type="collocate" sloleks="LE_d23c5e75381a18607011744420b01dbe">metrski</comp>
+              <comp position="2" type="headword" sloleks="LE_99aebcc43ee1cfac70114d5e61287cb4">azimut</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="zunanjost azimuta" cluster="1" frequency="5" logDice="6.13">
+              <comp position="1" type="collocate" sloleks="LE_70f0af52fa888d5928edcedc44a6b39b">zunanjost</comp>
+              <comp position="2" type="headword" sloleks="LE_99aebcc43ee1cfac70114d5e61287cb4">azimuta</comp>
+            </collocation>
+            <collocation form="merjenje azimuta" cluster="2" frequency="6" logDice="3.44">
+              <comp position="1" type="collocate" sloleks="LE_898f0ac92b4c465bd6de6dffd3539632">merjenje</comp>
+              <comp position="2" type="headword" sloleks="LE_99aebcc43ee1cfac70114d5e61287cb4">azimuta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

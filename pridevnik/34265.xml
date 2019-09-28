@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="34265">snobovski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">629</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="snobovsko letovišče" cluster="1" frequency="8" logDice="5.37">
+              <comp position="1" type="headword" sloleks="LE_4554076e0d1fd91eccb9253794496421">snobovsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_a9d3a99b4746b928540deac8af29836d">letovišče</comp>
+            </collocation>
+            <collocation form="snobovski starš" cluster="2" frequency="11" logDice="3.29">
+              <comp position="1" type="headword" sloleks="LE_4554076e0d1fd91eccb9253794496421">snobovski</comp>
+              <comp position="2" type="collocate" sloleks="LE_ee1100b135d34088f91e5c2786123e66">starš</comp>
+            </collocation>
+            <collocation form="snobovska restavracija" cluster="3" frequency="6" logDice="3.06">
+              <comp position="1" type="headword" sloleks="LE_4554076e0d1fd91eccb9253794496421">snobovska</comp>
+              <comp position="2" type="collocate" sloleks="LE_62277ea2c9ab537082f0f227fcb253d6">restavracija</comp>
+            </collocation>
+            <collocation form="snobovski šport" cluster="4" frequency="10" logDice="2.36">
+              <comp position="1" type="headword" sloleks="LE_4554076e0d1fd91eccb9253794496421">snobovski</comp>
+              <comp position="2" type="collocate" sloleks="LE_8490fcf556ce00e69e0683eec100058e">šport</comp>
+            </collocation>
+            <collocation form="snobovska družina" cluster="5" frequency="18" logDice="2.0">
+              <comp position="1" type="headword" sloleks="LE_4554076e0d1fd91eccb9253794496421">snobovska</comp>
+              <comp position="2" type="collocate" sloleks="LE_9a7d912c8ec5a6cbc42d2975b5563b34">družina</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="snobovski in/ali bogat" cluster="1" frequency="5" logDice="3.07">
+              <comp position="3" type="headword" sloleks="LE_4554076e0d1fd91eccb9253794496421">snobovski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_dced9b89c62a9351467866138eb9d57d">bogat</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="malce snobovski" cluster="1" frequency="8" logDice="2.86">
+              <comp position="1" type="collocate" sloleks="LE_2eec11a38ac5bbb5fa6d7682c1224a82">malce</comp>
+              <comp position="2" type="headword" sloleks="LE_4554076e0d1fd91eccb9253794496421">snobovski</comp>
+            </collocation>
+            <collocation form="preveč snobovski" cluster="2" frequency="11" logDice="1.74">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_4554076e0d1fd91eccb9253794496421">snobovski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

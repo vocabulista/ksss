@@ -1,0 +1,36 @@
+<entry>
+  <header>
+    <lexical_unit id="4699">pisniti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">478</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ o sbz5">
+          <collocations>
+            <collocation form="pisniti o problemu" cluster="1" frequency="4" logDice="4.93">
+              <comp position="1" type="headword" sloleks="LE_d1e38ff9e5cebb12fb6e25d4afa894f5">pisniti</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="collocate" sloleks="LE_978368a01311c2094cfb52416d9882f9">problemu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz INF-GBZ">
+          <collocations>
+            <collocation form="ne upati pisniti" cluster="1" frequency="28" logDice="6.08">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_fb0368f2fe4e8aa6f5563f18106718c5">upati</comp>
+              <comp position="3" type="headword" sloleks="LE_d1e38ff9e5cebb12fb6e25d4afa894f5">pisniti</comp>
+            </collocation>
+            <collocation form="ne smeti pisniti" cluster="2" frequency="35" logDice="2.85">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_c624979ae53df9a187bf7b5a598e6cfc">smeti</comp>
+              <comp position="3" type="headword" sloleks="LE_d1e38ff9e5cebb12fb6e25d4afa894f5">pisniti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

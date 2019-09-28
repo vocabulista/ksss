@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="95862">veleslalomistka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">407</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="veleslalomistka sezone" cluster="1" frequency="16" logDice="2.38">
+              <comp position="1" type="headword" sloleks="LE_3255b6930b84c4a13e333142ea1f8ce5">veleslalomistka</comp>
+              <comp position="2" type="collocate" sloleks="LE_e4683b52a3640372e171726e214d12fb">sezone</comp>
+            </collocation>
+            <collocation form="veleslalomistka sveta" cluster="2" frequency="50" logDice="2.36">
+              <comp position="1" type="headword" sloleks="LE_3255b6930b84c4a13e333142ea1f8ce5">veleslalomistka</comp>
+              <comp position="2" type="collocate" sloleks="LE_55184295ed657acc8ec5dcd62f7084bf">sveta</comp>
+            </collocation>
+            <collocation form="trideseterica veleslalomistke" cluster="3" frequency="7" logDice="9.83">
+              <comp position="1" type="collocate" sloleks="LE_d8f591392bb99bc88d229bdb9b8f7d52">trideseterica</comp>
+              <comp position="2" type="headword" sloleks="LE_3255b6930b84c4a13e333142ea1f8ce5">veleslalomistke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="dobra veleslalomistka" cluster="1" frequency="153" logDice="1.81">
+              <comp position="1" type="collocate" sloleks="LE_39b34fc93830e14cfc02d48d7839f18f">dobra</comp>
+              <comp position="2" type="headword" sloleks="LE_3255b6930b84c4a13e333142ea1f8ce5">veleslalomistka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

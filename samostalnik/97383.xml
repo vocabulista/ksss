@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="97383">vzhodnjak</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1034</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="reven vzhodnjak" cluster="1" frequency="10" logDice="3.6">
+              <comp position="1" type="collocate" sloleks="LE_3602df2804cd4a7e1a840b97a5f95254">reven</comp>
+              <comp position="2" type="headword" sloleks="LE_cbdc2874f227ea57540edda7315aa3c2">vzhodnjak</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 med SBZ6">
+          <collocations>
+            <collocation form="mesto med vzhodnjakom" cluster="1" frequency="4" logDice="3.59">
+              <comp position="1" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesto</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_cbdc2874f227ea57540edda7315aa3c2">vzhodnjakom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

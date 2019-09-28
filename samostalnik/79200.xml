@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="79200">podtlak</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">648</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 pod sbz6">
+          <collocations>
+            <collocation form="podtlak pod vozilom" cluster="1" frequency="4" logDice="10.89">
+              <comp position="1" type="headword" sloleks="LE_becc41eb01698f6bfe766c619eb96a96">podtlak</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="collocate" sloleks="LE_267f3855f5e4ffa5815a1263d2a6c788">vozilom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="nihanje podtlaka" cluster="1" frequency="6" logDice="5.37">
+              <comp position="1" type="collocate" sloleks="LE_9c2ddd6d242ca6b15fd0443c103d9667">nihanje</comp>
+              <comp position="2" type="headword" sloleks="LE_becc41eb01698f6bfe766c619eb96a96">podtlaka</comp>
+            </collocation>
+            <collocation form="ustvarjanje podtlaka" cluster="2" frequency="19" logDice="4.47">
+              <comp position="1" type="collocate" sloleks="LE_a9b8f505a91792fd791348acd2dd1604">ustvarjanje</comp>
+              <comp position="2" type="headword" sloleks="LE_becc41eb01698f6bfe766c619eb96a96">podtlaka</comp>
+            </collocation>
+            <collocation form="stopnja podtlaka" cluster="3" frequency="6" logDice="1.03">
+              <comp position="1" type="collocate" sloleks="LE_ed1cc20afdfdf1e20fe2e301bae175ee">stopnja</comp>
+              <comp position="2" type="headword" sloleks="LE_becc41eb01698f6bfe766c619eb96a96">podtlaka</comp>
+            </collocation>
+            <collocation form="pomoč podtlaka" cluster="4" frequency="7" logDice="0.61">
+              <comp position="1" type="collocate" sloleks="LE_84e3f9e3c4e9e1abf42cc69c125b0b58">pomoč</comp>
+              <comp position="2" type="headword" sloleks="LE_becc41eb01698f6bfe766c619eb96a96">podtlaka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="soba s podtlakom" cluster="1" frequency="13" logDice="6.25">
+              <comp position="1" type="collocate" sloleks="LE_51d0948fdcd403a7c15f9ade2ec2b331">soba</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_becc41eb01698f6bfe766c619eb96a96">podtlakom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

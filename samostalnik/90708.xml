@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="90708">spokoj</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">553</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="miren spokoj" cluster="1" frequency="13" logDice="2.8">
+              <comp position="1" type="collocate" sloleks="LE_e0a6931b9da14dd0e7717b4933b95dc6">miren</comp>
+              <comp position="2" type="headword" sloleks="LE_3fb8089ae0630a48633160b10f88b002">spokoj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="trenutek spokoja" cluster="1" frequency="5" logDice="2.42">
+              <comp position="1" type="collocate" sloleks="LE_20e42f7c3b00f5a4a38e89957060a1f2">trenutek</comp>
+              <comp position="2" type="headword" sloleks="LE_3fb8089ae0630a48633160b10f88b002">spokoja</comp>
+            </collocation>
+            <collocation form="občutek spokoja" cluster="2" frequency="5" logDice="1.7">
+              <comp position="1" type="collocate" sloleks="LE_23671e6156ee6c327e7c512a951bd4f3">občutek</comp>
+              <comp position="2" type="headword" sloleks="LE_3fb8089ae0630a48633160b10f88b002">spokoja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

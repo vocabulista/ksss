@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="37475">videč</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">517</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="videč in/ali slep" cluster="1" frequency="25" logDice="6.6">
+              <comp position="3" type="headword" sloleks="LE_53177e4967f3d04ff7fb34d23efc28d2">videč</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_c50c8f3face7146985f6aed520fc1f1f">slep</comp>
+              </collocation>
+            <collocation form="videč in/ali slaboviden" cluster="2" frequency="7" logDice="5.04">
+              <comp position="3" type="headword" sloleks="LE_53177e4967f3d04ff7fb34d23efc28d2">videč</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_74bbbd58bfe09476ecd2844c031ff5f8">slaboviden</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="normalno videč" cluster="1" frequency="7" logDice="6.03">
+              <comp position="1" type="collocate" sloleks="LE_7dc5f9ecfdc5afc2f6b73bfe9596eb84">normalno</comp>
+              <comp position="2" type="headword" sloleks="LE_53177e4967f3d04ff7fb34d23efc28d2">videč</comp>
+            </collocation>
+            <collocation form="slabo videč" cluster="2" frequency="5" logDice="2.19">
+              <comp position="1" type="collocate" sloleks="LE_fd42f0b51f77a35ba2a2c56fdecf36e2">slabo</comp>
+              <comp position="2" type="headword" sloleks="LE_53177e4967f3d04ff7fb34d23efc28d2">videč</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

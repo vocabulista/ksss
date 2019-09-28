@@ -1,0 +1,72 @@
+<entry>
+  <header>
+    <lexical_unit id="1489">izbruhati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">611</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="izbruhati na plan" cluster="1" frequency="4" logDice="4.97">
+              <comp position="1" type="headword" sloleks="LE_ded71e918ede3b9e31b4dbe8abdf7038">izbruhati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_d4a36ed66efe1abd9f311f5f522d3d55">plan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="izbruhati gnev" cluster="1" frequency="6" logDice="8.25">
+              <comp position="1" type="headword" sloleks="LE_ded71e918ede3b9e31b4dbe8abdf7038">izbruhati</comp>
+              <comp position="2" type="collocate" sloleks="LE_893f968f3c818b69ca5e3a70ced85561">gnev</comp>
+            </collocation>
+            <collocation form="izbruhati hrano" cluster="2" frequency="11" logDice="3.81">
+              <comp position="1" type="headword" sloleks="LE_ded71e918ede3b9e31b4dbe8abdf7038">izbruhati</comp>
+              <comp position="2" type="collocate" sloleks="LE_4b3b80327bf9e7fafcc3a73e85eae950">hrano</comp>
+            </collocation>
+            <collocation form="izbruhati vsebino" cluster="3" frequency="5" logDice="3.03">
+              <comp position="1" type="headword" sloleks="LE_ded71e918ede3b9e31b4dbe8abdf7038">izbruhati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6dcb4d18292d5087cc927ab205813347">vsebino</comp>
+            </collocation>
+            <collocation form="izbruhati količino" cluster="4" frequency="5" logDice="2.7">
+              <comp position="1" type="headword" sloleks="LE_ded71e918ede3b9e31b4dbe8abdf7038">izbruhati</comp>
+              <comp position="2" type="collocate" sloleks="LE_962c73eca27e836ddb2ea664db69f933">količino</comp>
+            </collocation>
+            <collocation form="izbruhati vodo" cluster="5" frequency="4" logDice="2.06">
+              <comp position="1" type="headword" sloleks="LE_ded71e918ede3b9e31b4dbe8abdf7038">izbruhati</comp>
+              <comp position="2" type="collocate" sloleks="LE_0d8cbba4e56fea63657ac746d29cd047">vodo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="izbruhati v ozračje" cluster="1" frequency="6" logDice="7.04">
+              <comp position="1" type="headword" sloleks="LE_ded71e918ede3b9e31b4dbe8abdf7038">izbruhati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_8291caba614922a8b9995df3a775e560">ozračje</comp>
+            </collocation>
+            <collocation form="izbruhati v zrak" cluster="2" frequency="4" logDice="3.7">
+              <comp position="1" type="headword" sloleks="LE_ded71e918ede3b9e31b4dbe8abdf7038">izbruhati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_d3b9b2b5ce24a4cb7da4e0e9da2b1348">zrak</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="vse izbruhati" cluster="1" frequency="39" logDice="2.97">
+              <comp position="1" type="collocate" sloleks="LE_69e1f6ea0eba690182112fa5f7865561">vse</comp>
+              <comp position="2" type="headword" sloleks="LE_ded71e918ede3b9e31b4dbe8abdf7038">izbruhati</comp>
+            </collocation>
+            <collocation form="takoj izbruhati" cluster="2" frequency="14" logDice="1.59">
+              <comp position="1" type="collocate" sloleks="LE_63831e752d3a6105c3245c75b9779495">takoj</comp>
+              <comp position="2" type="headword" sloleks="LE_ded71e918ede3b9e31b4dbe8abdf7038">izbruhati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

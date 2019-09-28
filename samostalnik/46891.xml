@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="46891">akterka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">434</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="akterka šova" cluster="1" frequency="15" logDice="6.27">
+              <comp position="1" type="headword" sloleks="LE_16c6e510eb3306733994b5038dd5b3ba">akterka</comp>
+              <comp position="2" type="collocate" sloleks="LE_4cbb5a9b864f6d1c1994b569c72ea6c7">šova</comp>
+            </collocation>
+            <collocation form="akterka dogajanja" cluster="2" frequency="8" logDice="3.16">
+              <comp position="1" type="headword" sloleks="LE_16c6e510eb3306733994b5038dd5b3ba">akterka</comp>
+              <comp position="2" type="collocate" sloleks="LE_074089eeaa23c9e20e21a161e79f6956">dogajanja</comp>
+            </collocation>
+            <collocation form="akterka oddaje" cluster="3" frequency="9" logDice="2.58">
+              <comp position="1" type="headword" sloleks="LE_16c6e510eb3306733994b5038dd5b3ba">akterka</comp>
+              <comp position="2" type="collocate" sloleks="LE_52a0fe564a02d70a3d3b0b3a704b365a">oddaje</comp>
+            </collocation>
+            <collocation form="vloga akterke" cluster="4" frequency="9" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_16c6e510eb3306733994b5038dd5b3ba">akterke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="glavna akterka" cluster="1" frequency="152" logDice="3.47">
+              <comp position="1" type="collocate" sloleks="LE_d2682b9f543a6df6814c2b0dde4cf533">glavna</comp>
+              <comp position="2" type="headword" sloleks="LE_16c6e510eb3306733994b5038dd5b3ba">akterka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

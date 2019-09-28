@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="50575">broker</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1484</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Broker iz Maribora" cluster="1" frequency="14" logDice="5.08">
+              <comp position="1" type="headword" sloleks="LE_f64d3bc920a69cf81a7fca46c34f525b">Broker</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_2fd096a507b2c84fb2c3bf085d4e9c1d">Maribora</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="broker z delnico" cluster="1" frequency="19" logDice="6.4">
+              <comp position="1" type="headword" sloleks="LE_f64d3bc920a69cf81a7fca46c34f525b">broker</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_a4c3bc7b70a19466bd299690c070a28a">delnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="tutunski broker" cluster="1" frequency="8" logDice="8.12">
+              <comp position="1" type="collocate" sloleks="">tutunski</comp>
+              <comp position="2" type="headword" sloleks="LE_f64d3bc920a69cf81a7fca46c34f525b">broker</comp>
+            </collocation>
+            <collocation form="delniški broker" cluster="2" frequency="26" logDice="4.72">
+              <comp position="1" type="collocate" sloleks="LE_91197aee5873d2a134792c64dd3dd9ae">delniški</comp>
+              <comp position="2" type="headword" sloleks="LE_f64d3bc920a69cf81a7fca46c34f525b">broker</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Branik Brokerja" cluster="1" frequency="40" logDice="11.91">
+              <comp position="1" type="collocate" sloleks="LE_49c3c0496985afc53ea7343f414eac75">Branik</comp>
+              <comp position="2" type="headword" sloleks="LE_f64d3bc920a69cf81a7fca46c34f525b">Brokerja</comp>
+            </collocation>
+            <collocation form="branik Brokerja" cluster="2" frequency="12" logDice="8.68">
+              <comp position="1" type="collocate" sloleks="LE_7332ce0f49cd9f0e7018d1e3ad60ca7a">branik</comp>
+              <comp position="2" type="headword" sloleks="LE_f64d3bc920a69cf81a7fca46c34f525b">Brokerja</comp>
+            </collocation>
+            <collocation form="obnašanje brokerja" cluster="3" frequency="5" logDice="4.35">
+              <comp position="1" type="collocate" sloleks="LE_fa7e99fad8557cb425899963d8ab21c7">obnašanje</comp>
+              <comp position="2" type="headword" sloleks="LE_f64d3bc920a69cf81a7fca46c34f525b">brokerja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

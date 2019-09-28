@@ -1,0 +1,68 @@
+<entry>
+  <header>
+    <lexical_unit id="10519">zvračati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">513</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="zvračati na drugo" cluster="1" frequency="6" logDice="7.5">
+              <comp position="1" type="headword" sloleks="LE_f111420c1cf5be1d515fbab930c8331b">zvračati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_f603c95c87f82ab928660bfce9e906b1">drugo</comp>
+            </collocation>
+            <collocation form="zvračati na vlado" cluster="2" frequency="8" logDice="6.22">
+              <comp position="1" type="headword" sloleks="LE_f111420c1cf5be1d515fbab930c8331b">zvračati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_63d183132c68728be91773043828fb2d">vlado</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="zvračati krivdo" cluster="1" frequency="111" logDice="8.9">
+              <comp position="1" type="headword" sloleks="LE_f111420c1cf5be1d515fbab930c8331b">zvračati</comp>
+              <comp position="2" type="collocate" sloleks="LE_c6ffc93cfd1a5ddd2a27d12ffb2d1844">krivdo</comp>
+            </collocation>
+            <collocation form="zvračati kozarček" cluster="2" frequency="6" logDice="6.52">
+              <comp position="1" type="headword" sloleks="LE_f111420c1cf5be1d515fbab930c8331b">zvračati</comp>
+              <comp position="2" type="collocate" sloleks="LE_dbe3a479ad8638b480292d84d7019d26">kozarček</comp>
+            </collocation>
+            <collocation form="zvračati odgovornost" cluster="3" frequency="31" logDice="5.31">
+              <comp position="1" type="headword" sloleks="LE_f111420c1cf5be1d515fbab930c8331b">zvračati</comp>
+              <comp position="2" type="collocate" sloleks="LE_78b8e290fdd5f5b0bc9917b4526825e5">odgovornost</comp>
+            </collocation>
+            <collocation form="zvračati kozarec" cluster="4" frequency="7" logDice="4.79">
+              <comp position="1" type="headword" sloleks="LE_f111420c1cf5be1d515fbab930c8331b">zvračati</comp>
+              <comp position="2" type="collocate" sloleks="LE_fff7749669d83bd3bc9e860b08fe3343">kozarec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz SBZ2">
+          <collocations>
+            <collocation form="ne zvračati krivde" cluster="1" frequency="13" logDice="9.05">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_f111420c1cf5be1d515fbab930c8331b">zvračati</comp>
+              <comp position="3" type="collocate" sloleks="LE_c6ffc93cfd1a5ddd2a27d12ffb2d1844">krivde</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="preveč zvračati" cluster="1" frequency="4" logDice="1.02">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_f111420c1cf5be1d515fbab930c8331b">zvračati</comp>
+            </collocation>
+            <collocation form="rad zvračati" cluster="2" frequency="10" logDice="0.11">
+              <comp position="1" type="collocate" sloleks="LE_0a2bb08c60a0cb7fd95c85fd75f2bfca">rad</comp>
+              <comp position="2" type="headword" sloleks="LE_f111420c1cf5be1d515fbab930c8331b">zvračati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

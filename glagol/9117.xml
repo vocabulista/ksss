@@ -1,0 +1,48 @@
+<entry>
+  <header>
+    <lexical_unit id="9117">vbiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">527</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ pred sbz6">
+          <collocations>
+            <collocation form="vbiti pred časom" cluster="1" frequency="14" logDice="3.37">
+              <comp position="1" type="headword" sloleks="LE_110d9a8164c496a8fc259d2a91b79181">vbiti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">časom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="vbiti v glavo" cluster="1" frequency="357" logDice="10.09">
+              <comp position="1" type="headword" sloleks="LE_110d9a8164c496a8fc259d2a91b79181">vbiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_49f28ed22f8b4f55f12b45ad1b95d3b0">glavo</comp>
+            </collocation>
+            <collocation form="vbiti v betico" cluster="2" frequency="6" logDice="8.85">
+              <comp position="1" type="headword" sloleks="LE_110d9a8164c496a8fc259d2a91b79181">vbiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_fc699bddf46d5b105d7da10744e2b9b2">betico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="nekaj vbiti" cluster="1" frequency="14" logDice="1.73">
+              <comp position="1" type="collocate" sloleks="LE_eb511b2a8ca41b887db9b389e9bd0591">nekaj</comp>
+              <comp position="2" type="headword" sloleks="LE_110d9a8164c496a8fc259d2a91b79181">vbiti</comp>
+            </collocation>
+            <collocation form="enkrat vbiti" cluster="2" frequency="4" logDice="0.33">
+              <comp position="1" type="collocate" sloleks="LE_a9aa19f4d3fe9f31d405ae8828e4b2fd">enkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_110d9a8164c496a8fc259d2a91b79181">vbiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="2002686">nik</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="nik društva" cluster="1" frequency="11" logDice="1.19">
+              <comp position="1" type="headword" sloleks="">nik</comp>
+              <comp position="2" type="collocate" sloleks="LE_f1fd3c17e2206150a5ab762769b6e8ff">društva</comp>
+            </collocation>
+            <collocation form="predsed nik" cluster="2" frequency="8" logDice="11.61">
+              <comp position="1" type="collocate" sloleks="">predsed</comp>
+              <comp position="2" type="headword" sloleks="">nik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="nik za obred" cluster="1" frequency="17" logDice="6.44">
+              <comp position="1" type="headword" sloleks="">nik</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_ce6dbc4ab57623c0cf8df2a09038acb5">obred</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="zdrav nik" cluster="1" frequency="19" logDice="2.5">
+              <comp position="1" type="collocate" sloleks="LE_faa86fb771784f958e4d2e0eb9bdde65">zdrav</comp>
+              <comp position="2" type="headword" sloleks="">nik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

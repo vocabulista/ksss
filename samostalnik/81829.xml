@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="81829">predfilm</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">450</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="predfilm za film" cluster="1" frequency="10" logDice="4.52">
+              <comp position="1" type="headword" sloleks="LE_33df168228624358f62a3a39077d92a0">predfilm</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_ef1ac12433b4b7e1e0c31edb0c726d89">film</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="kratek predfilm" cluster="1" frequency="16" logDice="1.14">
+              <comp position="1" type="collocate" sloleks="LE_33b72eb56c8dbab2f6093517455066e9">kratek</comp>
+              <comp position="2" type="headword" sloleks="LE_33df168228624358f62a3a39077d92a0">predfilm</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

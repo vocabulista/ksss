@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="70031">mnoštvo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">913</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="mnoštvo resnice" cluster="1" frequency="9" logDice="4.21">
+              <comp position="1" type="headword" sloleks="LE_dcf7e0e5ef81251f9508734ddcec5398">mnoštvo</comp>
+              <comp position="2" type="collocate" sloleks="LE_382669cfefeb9ec0a37edec1a50079a1">resnice</comp>
+            </collocation>
+            <collocation form="mnoštvo informacije" cluster="1" frequency="9" logDice="2.5">
+              <comp position="1" type="headword" sloleks="LE_dcf7e0e5ef81251f9508734ddcec5398">mnoštvo</comp>
+              <comp position="2" type="collocate" sloleks="LE_3767bb8b14e0a27c8f520cfa7e003a14">informacije</comp>
+            </collocation>
+            <collocation form="mnoštvo zgodbe" cluster="1" frequency="8" logDice="2.73">
+              <comp position="1" type="headword" sloleks="LE_dcf7e0e5ef81251f9508734ddcec5398">mnoštvo</comp>
+              <comp position="2" type="collocate" sloleks="LE_9d9531a39496cd12f07e32ab50c0280f">zgodbe</comp>
+            </collocation>
+            <collocation form="mnoštvo interesa" cluster="2" frequency="9" logDice="3.23">
+              <comp position="1" type="headword" sloleks="LE_dcf7e0e5ef81251f9508734ddcec5398">mnoštvo</comp>
+              <comp position="2" type="collocate" sloleks="LE_852d4c3cd2b3cd0cc21c88ad76a6c9a7">interesa</comp>
+            </collocation>
+            <collocation form="mnoštvo jezika" cluster="3" frequency="9" logDice="2.51">
+              <comp position="1" type="headword" sloleks="LE_dcf7e0e5ef81251f9508734ddcec5398">mnoštvo</comp>
+              <comp position="2" type="collocate" sloleks="LE_84e841a4b1d5e4b816efe7f126e1f693">jezika</comp>
+            </collocation>
+            <collocation form="Slovnica mnoštva" cluster="4" frequency="23" logDice="10.41">
+              <comp position="1" type="collocate" sloleks="LE_87d7f99c1e1a076c694a556edb17beef">Slovnica</comp>
+              <comp position="2" type="headword" sloleks="LE_dcf7e0e5ef81251f9508734ddcec5398">mnoštva</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za mnoštvo" cluster="1" frequency="6" logDice="-1.01">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_dcf7e0e5ef81251f9508734ddcec5398">mnoštvo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,82 @@
+<entry>
+  <header>
+    <lexical_unit id="48260">avtopsija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">681</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="avtopsija trupla" cluster="1" frequency="22" logDice="7.15">
+              <comp position="1" type="headword" sloleks="LE_66f258bd39491297b4a5629eeb8bec29">avtopsija</comp>
+              <comp position="2" type="collocate" sloleks="LE_a5d72d089797a1ff99a8658b1b43382f">trupla</comp>
+            </collocation>
+            <collocation form="izsledek avtopsije" cluster="2" frequency="6" logDice="4.63">
+              <comp position="1" type="collocate" sloleks="LE_6d6162a4dbe2807a705e997d20522be3">izsledek</comp>
+              <comp position="2" type="headword" sloleks="LE_66f258bd39491297b4a5629eeb8bec29">avtopsije</comp>
+            </collocation>
+            <collocation form="rezultat avtopsije" cluster="3" frequency="19" logDice="2.71">
+              <comp position="1" type="collocate" sloleks="LE_600a298eeada06fc82a0a77cfb9df123">rezultat</comp>
+              <comp position="2" type="headword" sloleks="LE_66f258bd39491297b4a5629eeb8bec29">avtopsije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz ob SBZ5">
+          <collocations>
+            <collocation form="ugotoviti ob avtopsiji" cluster="1" frequency="4" logDice="7.56">
+              <comp position="1" type="collocate" sloleks="LE_13d2f4db58563a6e619ca040c91242a2">ugotoviti</comp>
+              <comp position="2" type="other" sloleks="LE_0d51e0433cde1d7d6610f469ec11e938">ob</comp>
+              <comp position="3" type="headword" sloleks="LE_66f258bd39491297b4a5629eeb8bec29">avtopsiji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="ugotoviti z avtopsijo" cluster="1" frequency="4" logDice="4.59">
+              <comp position="1" type="collocate" sloleks="LE_13d2f4db58563a6e619ca040c91242a2">ugotoviti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_66f258bd39491297b4a5629eeb8bec29">avtopsijo</comp>
+            </collocation>
+            <collocation form="ukvarjati z avtopsijo" cluster="2" frequency="5" logDice="0.38">
+              <comp position="1" type="collocate" sloleks="LE_d218d442858c415bdeff018dc056aea9">ukvarjati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_66f258bd39491297b4a5629eeb8bec29">avtopsijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="opravljena avtopsija" cluster="1" frequency="10" logDice="2.43">
+              <comp position="1" type="collocate" sloleks="LE_3988ad74cbb80eab6b672445486f813b">opravljena</comp>
+              <comp position="2" type="headword" sloleks="LE_66f258bd39491297b4a5629eeb8bec29">avtopsija</comp>
+            </collocation>
+            <collocation form="dejanska avtopsija" cluster="2" frequency="8" logDice="2.22">
+              <comp position="1" type="collocate" sloleks="LE_954f5d3d1bcfd4bc34501deaa78f807d">dejanska</comp>
+              <comp position="2" type="headword" sloleks="LE_66f258bd39491297b4a5629eeb8bec29">avtopsija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="poročilo o avtopsiji" cluster="1" frequency="13" logDice="3.48">
+              <comp position="1" type="collocate" sloleks="LE_00452c6ec77fc0b47997a85c80913ca4">poročilo</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_66f258bd39491297b4a5629eeb8bec29">avtopsiji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="miza za avtopsijo" cluster="1" frequency="7" logDice="7.09">
+              <comp position="1" type="collocate" sloleks="LE_f04e4cc44cf7497b038fc5fc1fd3eb30">miza</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_66f258bd39491297b4a5629eeb8bec29">avtopsijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

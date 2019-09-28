@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="87333">samoprevara</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">445</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="živeti v samoprevari" cluster="1" frequency="9" logDice="1.37">
+              <comp position="1" type="collocate" sloleks="LE_42cc4ca3168ca0f408ce857620c0a7d0">živeti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_cd9062df59a14b1e98c349ee83fed0bd">samoprevari</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za samoprevaro" cluster="1" frequency="6" logDice="-1.01">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_cd9062df59a14b1e98c349ee83fed0bd">samoprevaro</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="lokalna samoprevara" cluster="1" frequency="35" logDice="2.47">
+              <comp position="1" type="collocate" sloleks="LE_c4c329be50ab16177a6a46f6a9806c81">lokalna</comp>
+              <comp position="2" type="headword" sloleks="LE_cd9062df59a14b1e98c349ee83fed0bd">samoprevara</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="žrtev samoprevare" cluster="1" frequency="9" logDice="2.42">
+              <comp position="1" type="collocate" sloleks="LE_f46ebb4646225631d376c958798abe48">žrtev</comp>
+              <comp position="2" type="headword" sloleks="LE_cd9062df59a14b1e98c349ee83fed0bd">samoprevare</comp>
+            </collocation>
+            <collocation form="projekt samoprevare" cluster="2" frequency="5" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_a34c0db39bb0196a80c5f3b9f5391fea">projekt</comp>
+              <comp position="2" type="headword" sloleks="LE_cd9062df59a14b1e98c349ee83fed0bd">samoprevare</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

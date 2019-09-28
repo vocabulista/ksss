@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="17929">frišen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">526</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="frišne gate" cluster="1" frequency="13" logDice="8.24">
+              <comp position="1" type="headword" sloleks="LE_64f16a1cd53d7bcdb22c2f2469564961">frišne</comp>
+              <comp position="2" type="collocate" sloleks="LE_5a4689c94a0ecec4796705f921402cd9">gate</comp>
+            </collocation>
+            <collocation form="frišna figa" cluster="2" frequency="6" logDice="6.34">
+              <comp position="1" type="headword" sloleks="LE_64f16a1cd53d7bcdb22c2f2469564961">frišna</comp>
+              <comp position="2" type="collocate" sloleks="LE_9e2087856b81c59dc4f4e8a35e2a5895">figa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="čisto frišen" cluster="1" frequency="52" logDice="4.82">
+              <comp position="1" type="collocate" sloleks="LE_94a91e83047bf2e90acf82e14cbb99c9">čisto</comp>
+              <comp position="2" type="headword" sloleks="LE_64f16a1cd53d7bcdb22c2f2469564961">frišen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

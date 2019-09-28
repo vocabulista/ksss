@@ -1,0 +1,85 @@
+<entry>
+  <header>
+    <lexical_unit id="70345">morfologija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1247</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="morfologija terena" cluster="1" frequency="12" logDice="6.07">
+              <comp position="1" type="headword" sloleks="LE_d5b9a7000c98540fe1f76f98181cc762">morfologija</comp>
+              <comp position="2" type="collocate" sloleks="LE_dc1c160a581734df8b85076aa566efb9">terena</comp>
+            </collocation>
+            <collocation form="morfologija pravljice" cluster="2" frequency="17" logDice="5.97">
+              <comp position="1" type="headword" sloleks="LE_d5b9a7000c98540fe1f76f98181cc762">morfologija</comp>
+              <comp position="2" type="collocate" sloleks="LE_cb17739012afdd088c494ad9d8f3c715">pravljice</comp>
+            </collocation>
+            <collocation form="morfologija ploda" cluster="3" frequency="9" logDice="5.91">
+              <comp position="1" type="headword" sloleks="LE_d5b9a7000c98540fe1f76f98181cc762">morfologija</comp>
+              <comp position="2" type="collocate" sloleks="LE_5f1613124a6ae5aee1b7334685a0a2cc">ploda</comp>
+            </collocation>
+            <collocation form="morfologija rastline" cluster="4" frequency="8" logDice="2.81">
+              <comp position="1" type="headword" sloleks="LE_d5b9a7000c98540fe1f76f98181cc762">morfologija</comp>
+              <comp position="2" type="collocate" sloleks="LE_29b84db176a06b7dc3d3658f8a3cd001">rastline</comp>
+            </collocation>
+            <collocation form="morfologija organa" cluster="5" frequency="8" logDice="2.19">
+              <comp position="1" type="headword" sloleks="LE_d5b9a7000c98540fe1f76f98181cc762">morfologija</comp>
+              <comp position="2" type="collocate" sloleks="LE_8562dbeb947da0513f9a50c8151f8a65">organa</comp>
+            </collocation>
+            <collocation form="morfologija telesa" cluster="5" frequency="8" logDice="1.89">
+              <comp position="1" type="headword" sloleks="LE_d5b9a7000c98540fe1f76f98181cc762">morfologija</comp>
+              <comp position="2" type="collocate" sloleks="LE_79b86615dd52e06799792917a906328a">telesa</comp>
+            </collocation>
+            <collocation form="sprememba morfologije" cluster="6" frequency="7" logDice="0.65">
+              <comp position="1" type="collocate" sloleks="LE_43a3bb7510833003ff85626ef9cc9915">sprememba</comp>
+              <comp position="2" type="headword" sloleks="LE_d5b9a7000c98540fe1f76f98181cc762">morfologije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="patološka morfologija" cluster="1" frequency="40" logDice="8.41">
+              <comp position="1" type="collocate" sloleks="LE_9c4bd57639107307bfcd3e4e80fd81ed">patološka</comp>
+              <comp position="2" type="headword" sloleks="LE_d5b9a7000c98540fe1f76f98181cc762">morfologija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 od SBZ2">
+          <collocations>
+            <collocation form="odvisen od morfologije" cluster="1" frequency="10" logDice="2.04">
+              <comp position="1" type="collocate" sloleks="LE_54a31c5172f1f3780d126b8a2e13a017">odvisen</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="headword" sloleks="LE_d5b9a7000c98540fe1f76f98181cc762">morfologije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="razlika v morfologiji" cluster="1" frequency="4" logDice="2.18">
+              <comp position="1" type="collocate" sloleks="LE_d8b5c5f08355edee42707780bbb4bdb8">razlika</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_d5b9a7000c98540fe1f76f98181cc762">morfologiji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="oddelek za morfologijo" cluster="1" frequency="17" logDice="3.48">
+              <comp position="1" type="collocate" sloleks="LE_f73286dd6f89a4307b05a1a8ffe3e326">oddelek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d5b9a7000c98540fe1f76f98181cc762">morfologijo</comp>
+            </collocation>
+            <collocation form="inštitut za morfologijo" cluster="2" frequency="9" logDice="3.25">
+              <comp position="1" type="collocate" sloleks="LE_656c06c9eac2e2d364a723c828c33be4">inštitut</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d5b9a7000c98540fe1f76f98181cc762">morfologijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

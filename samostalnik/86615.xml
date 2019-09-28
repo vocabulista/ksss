@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="86615">rokavec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">435</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="rokavec iz platna" cluster="1" frequency="6" logDice="8.22">
+              <comp position="1" type="headword" sloleks="LE_44562e624e1ab4786965d47c9c09488b">rokavec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_0bacb66d9f002b0fa86fb0b86530009f">platna</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="rokavec s čipko" cluster="1" frequency="5" logDice="8.19">
+              <comp position="1" type="headword" sloleks="LE_44562e624e1ab4786965d47c9c09488b">rokavec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_c0caeedfcd295c95bd29e26224e158d5">čipko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="bel rokavec" cluster="1" frequency="17" logDice="1.1">
+              <comp position="1" type="collocate" sloleks="LE_50f9b0a6743feeba2fd5482919490dd5">bel</comp>
+              <comp position="2" type="headword" sloleks="LE_44562e624e1ab4786965d47c9c09488b">rokavec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

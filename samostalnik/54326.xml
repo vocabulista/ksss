@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="54326">dražilo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">814</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="dražilo za živec" cluster="1" frequency="4" logDice="8.3">
+              <comp position="1" type="headword" sloleks="LE_543c807b6cc7414bc237f425faa24fd6">dražilo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_fc308c087f0bce7c6b473f4d5dc92d90">živec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="spolno dražilo" cluster="1" frequency="17" logDice="2.85">
+              <comp position="1" type="collocate" sloleks="LE_0d56e1388b1d26a013733a7e1fa383df">spolno</comp>
+              <comp position="2" type="headword" sloleks="LE_543c807b6cc7414bc237f425faa24fd6">dražilo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="nafta dražila" cluster="1" frequency="7" logDice="6.77">
+              <comp position="1" type="collocate" sloleks="LE_2aa2118f9df21c936cbc2fb16d52484d">nafta</comp>
+              <comp position="2" type="headword" sloleks="LE_543c807b6cc7414bc237f425faa24fd6">dražila</comp>
+            </collocation>
+            <collocation form="hrana dražila" cluster="2" frequency="5" logDice="5.4">
+              <comp position="1" type="collocate" sloleks="LE_4b3b80327bf9e7fafcc3a73e85eae950">hrana</comp>
+              <comp position="2" type="headword" sloleks="LE_543c807b6cc7414bc237f425faa24fd6">dražila</comp>
+            </collocation>
+            <collocation form="mesec dražila" cluster="3" frequency="6" logDice="0.99">
+              <comp position="1" type="collocate" sloleks="LE_d87e72e2a6ded77b0ae520112759ad42">mesec</comp>
+              <comp position="2" type="headword" sloleks="LE_543c807b6cc7414bc237f425faa24fd6">dražila</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

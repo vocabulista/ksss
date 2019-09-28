@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="923111">hruševec</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="prihajati v Hruševec" cluster="1" frequency="6" logDice="3.1">
+              <comp position="1" type="collocate" sloleks="LE_5e81faf8c134458629d8cd3d91de63db">prihajati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="">Hruševec</comp>
+            </collocation>
+            <collocation form="priti v Hruševec" cluster="2" frequency="5" logDice="0.55">
+              <comp position="1" type="collocate" sloleks="LE_fc339e29cc0e8ec9efe1ef0acdfb11b5">priti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="">Hruševec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="Vidic iz hruševec" cluster="1" frequency="6" logDice="9.96">
+              <comp position="1" type="collocate" sloleks="LE_448121c4fc93777490b999c5266eb5a3|LE_5e164a9855d3b51ff6de03683192f803">Vidic</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="">hruševec</comp>
+            </collocation>
+            <collocation form="Hruševec iz Šentjurja" cluster="2" frequency="8" logDice="6.96">
+              <comp position="1" type="headword" sloleks="">Hruševec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_81213b989af560f96e5b64f5aa0ca86f">Šentjurja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="dvorana v hruševec" cluster="1" frequency="4" logDice="3.24">
+              <comp position="1" type="collocate" sloleks="LE_d64c66af1b698f149c6831679980b777">dvorana</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="">hruševec</comp>
+            </collocation>
+            <collocation form="sezona v hruševec" cluster="2" frequency="4" logDice="3.16">
+              <comp position="1" type="collocate" sloleks="LE_e4683b52a3640372e171726e214d12fb">sezona</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="">hruševec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

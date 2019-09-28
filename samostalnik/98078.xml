@@ -1,0 +1,35 @@
+<entry>
+  <header>
+    <lexical_unit id="98078">žalujka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">421</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="Žalujka za organizacijo" cluster="1" frequency="18" logDice="6.44">
+              <comp position="1" type="headword" sloleks="LE_25218f0d40358dd249cc80fdbdc3d4bc">Žalujka</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_513f9f374314ddaf09bb7d123d083113">organizacijo</comp>
+            </collocation>
+            <collocation form="Žalujka za storitev" cluster="2" frequency="4" logDice="4.2">
+              <comp position="1" type="headword" sloleks="LE_25218f0d40358dd249cc80fdbdc3d4bc">Žalujka</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_abb14230c15d4fd66a15377c1ed699a9">storitev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="vrba žalujke" cluster="1" frequency="67" logDice="13.14">
+              <comp position="1" type="collocate" sloleks="LE_c22036e96479b8387dc8c0023a928c19">vrba</comp>
+              <comp position="2" type="headword" sloleks="LE_25218f0d40358dd249cc80fdbdc3d4bc">žalujke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

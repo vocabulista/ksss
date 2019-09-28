@@ -1,0 +1,64 @@
+<entry>
+  <header>
+    <lexical_unit id="29110">pokončan</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">520</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="pokončana srna" cluster="1" frequency="7" logDice="8.39">
+              <comp position="1" type="headword" sloleks="LE_9c79d43a1f81a33e776a960b7244fb23">pokončana</comp>
+              <comp position="2" type="collocate" sloleks="LE_e541531f0bdab5e48139e1fd28e9e018">srna</comp>
+            </collocation>
+            <collocation form="pokončana ovca" cluster="2" frequency="19" logDice="6.63">
+              <comp position="1" type="headword" sloleks="LE_9c79d43a1f81a33e776a960b7244fb23">pokončana</comp>
+              <comp position="2" type="collocate" sloleks="LE_3001c2179e3b4e48629319c439ba0a74">ovca</comp>
+            </collocation>
+            <collocation form="pokončana žival" cluster="3" frequency="21" logDice="3.32">
+              <comp position="1" type="headword" sloleks="LE_9c79d43a1f81a33e776a960b7244fb23">pokončana</comp>
+              <comp position="2" type="collocate" sloleks="LE_b6200c4865c660bb286b47ec062ae356">žival</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 z sbz6">
+          <collocations>
+            <collocation form="pokončan z mečem" cluster="1" frequency="6" logDice="10.21">
+              <comp position="1" type="headword" sloleks="LE_9c79d43a1f81a33e776a960b7244fb23">pokončan</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_913e12a41df3d2e87c2da7a60cb8d89e">mečem</comp>
+            </collocation>
+            <collocation form="pokončan z bogom" cluster="2" frequency="4" logDice="8.96">
+              <comp position="1" type="headword" sloleks="LE_9c79d43a1f81a33e776a960b7244fb23">pokončan</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_4b293a6111b46265077bf30063fd7037">bogom</comp>
+            </collocation>
+            <collocation form="pokončan z orožjem" cluster="3" frequency="5" logDice="7.56">
+              <comp position="1" type="headword" sloleks="LE_9c79d43a1f81a33e776a960b7244fb23">pokončan</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_470d9247d9b54fd5fe04bf3ddc212a3d">orožjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="nasilno pokončan" cluster="1" frequency="5" logDice="7.28">
+              <comp position="1" type="collocate" sloleks="LE_48cdc3a09f69d667642d85ff6a3369db">nasilno</comp>
+              <comp position="2" type="headword" sloleks="LE_9c79d43a1f81a33e776a960b7244fb23">pokončan</comp>
+            </collocation>
+            <collocation form="kmalu pokončan" cluster="2" frequency="5" logDice="3.81">
+              <comp position="1" type="collocate" sloleks="LE_ced824ab75f7c67449dd92c1d3fa5432">kmalu</comp>
+              <comp position="2" type="headword" sloleks="LE_9c79d43a1f81a33e776a960b7244fb23">pokončan</comp>
+            </collocation>
+            <collocation form="enako pokončan" cluster="3" frequency="5" logDice="2.16">
+              <comp position="1" type="collocate" sloleks="LE_2ddbda0b3215ff4aa82ee26195f65a80">enako</comp>
+              <comp position="2" type="headword" sloleks="LE_9c79d43a1f81a33e776a960b7244fb23">pokončan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

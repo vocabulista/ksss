@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="25609">neopredmeten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">776</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="neopredmeteno sredstvo" cluster="1" frequency="706" logDice="6.57">
+              <comp position="1" type="headword" sloleks="LE_748e80863ef0ca0d153200b3452f341f">neopredmeteno</comp>
+              <comp position="2" type="collocate" sloleks="LE_94c4f4cf5104632466509789b5cde032">sredstvo</comp>
+            </collocation>
+            <collocation form="neopredmetena dediščina" cluster="2" frequency="17" logDice="2.78">
+              <comp position="1" type="headword" sloleks="LE_748e80863ef0ca0d153200b3452f341f">neopredmetena</comp>
+              <comp position="2" type="collocate" sloleks="LE_b2e5547918cfecfb0dafd87858879913">dediščina</comp>
+            </collocation>
+            <collocation form="neopredmeteno premoženje" cluster="3" frequency="10" logDice="2.74">
+              <comp position="1" type="headword" sloleks="LE_748e80863ef0ca0d153200b3452f341f">neopredmeteno</comp>
+              <comp position="2" type="collocate" sloleks="LE_e230d10f69ce9dd3656c6b70d5646127">premoženje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="neopredmeten in/ali opredmeten" cluster="1" frequency="75" logDice="13.75">
+              <comp position="3" type="headword" sloleks="LE_748e80863ef0ca0d153200b3452f341f">neopredmeten</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_e037c3feced3ccb770fc9105db230083">opredmeten</comp>
+              </collocation>
+            <collocation form="neopredmeten in/ali osnoven" cluster="2" frequency="8" logDice="4.94">
+              <comp position="3" type="headword" sloleks="LE_748e80863ef0ca0d153200b3452f341f">neopredmeten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_24eda9e64ba004b45e2c027c57dc4ea2">osnoven</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,61 @@
+<entry>
+  <header>
+    <lexical_unit id="41706">lačno</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">436</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ gbz">
+          <collocations>
+            <collocation form="lačno bolščati" cluster="1" frequency="4" logDice="8.29">
+              <comp position="1" type="headword" sloleks="LE_42c91bd0948d72f3c5db63c861784fbd">lačno</comp>
+              <comp position="2" type="collocate" sloleks="LE_bf62893f2214592f3b5f0f508fbe0923">bolščati</comp>
+            </collocation>
+            <collocation form="lačno pogledovati" cluster="2" frequency="4" logDice="5.87">
+              <comp position="1" type="headword" sloleks="LE_42c91bd0948d72f3c5db63c861784fbd">lačno</comp>
+              <comp position="2" type="collocate" sloleks="LE_328e3cae068b7b936c66cae67514847c">pogledovati</comp>
+            </collocation>
+            <collocation form="lačno gledati" cluster="3" frequency="7" logDice="2.09">
+              <comp position="1" type="headword" sloleks="LE_42c91bd0948d72f3c5db63c861784fbd">lačno</comp>
+              <comp position="2" type="collocate" sloleks="LE_20e7c0495c6f388c7c6440a4c081af85">gledati</comp>
+            </collocation>
+            <collocation form="lačno čakati" cluster="4" frequency="4" logDice="0.73">
+              <comp position="1" type="headword" sloleks="LE_42c91bd0948d72f3c5db63c861784fbd">lačno</comp>
+              <comp position="2" type="collocate" sloleks="LE_40e471c4d788a258a8c6b151605ab514">čakati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ sbz2">
+          <collocations>
+            <collocation form="lačno zmage" cluster="1" frequency="6" logDice="6.68">
+              <comp position="1" type="headword" sloleks="LE_42c91bd0948d72f3c5db63c861784fbd">lačno</comp>
+              <comp position="2" type="collocate" sloleks="LE_508bb96f40e25186ee8d1a812b97170d">zmage</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="pustiti lačno" cluster="1" frequency="5" logDice="3.0">
+              <comp position="1" type="collocate" sloleks="LE_4a4360d212c83015c6f3002d01d68ff4">pustiti</comp>
+              <comp position="2" type="headword" sloleks="LE_42c91bd0948d72f3c5db63c861784fbd">lačno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz RBZ">
+          <collocations>
+            <collocation form="bolj lačno" cluster="1" frequency="17" logDice="1.71">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_42c91bd0948d72f3c5db63c861784fbd">lačno</comp>
+            </collocation>
+            <collocation form="vedno lačno" cluster="2" frequency="9" logDice="0.28">
+              <comp position="1" type="collocate" sloleks="LE_eaabd5718a27f818fd47358031426355">vedno</comp>
+              <comp position="2" type="headword" sloleks="LE_42c91bd0948d72f3c5db63c861784fbd">lačno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

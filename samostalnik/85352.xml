@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="85352">razredčilo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">402</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="razredčilo za barvo" cluster="1" frequency="14" logDice="9.05">
+              <comp position="1" type="headword" sloleks="LE_eed4c31bdf45ce8b5e5272bf85801c57">razredčilo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_d066cf8419aa6609519c184ed701618e">barvo</comp>
+            </collocation>
+            <collocation form="razredčilo za lak" cluster="2" frequency="4" logDice="8.82">
+              <comp position="1" type="headword" sloleks="LE_eed4c31bdf45ce8b5e5272bf85801c57">razredčilo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b5d0a7812ad6a8ce5843fb86e0f1d72a">lak</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="očistiti z razredčilom" cluster="1" frequency="8" logDice="7.24">
+              <comp position="1" type="collocate" sloleks="LE_1e92ae4f508e479c6a7e4a4274833f2b">očistiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_eed4c31bdf45ce8b5e5272bf85801c57">razredčilom</comp>
+            </collocation>
+            <collocation form="politi z razredčilom" cluster="2" frequency="8" logDice="6.49">
+              <comp position="1" type="collocate" sloleks="LE_870013ba8c834793a652cef2555c82e7">politi</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_eed4c31bdf45ce8b5e5272bf85801c57">razredčilom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="1142094">jumping</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="skočiti z jumping" cluster="1" frequency="141" logDice="11.87">
+              <comp position="1" type="collocate" sloleks="LE_dfe75638a5071bba1f69b07fc2709f40">skočiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="">jumping</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="bungee jumping" cluster="1" frequency="164" logDice="13.62">
+              <comp position="1" type="collocate" sloleks="">bungee</comp>
+              <comp position="2" type="headword" sloleks="">jumping</comp>
+            </collocation>
+            <collocation form="ski jumping" cluster="2" frequency="61" logDice="8.25">
+              <comp position="1" type="collocate" sloleks="">ski</comp>
+              <comp position="2" type="headword" sloleks="">jumping</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="68200">malčica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">570</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="malčica iz vrtca" cluster="1" frequency="4" logDice="4.83">
+              <comp position="1" type="headword" sloleks="LE_ddc96c4412e2af25bcf89a6a22939faf">malčica</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_d5d9fb22d8139d9f364e7dccc5a3b053">vrtca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="slavna malčica" cluster="1" frequency="8" logDice="2.35">
+              <comp position="1" type="collocate" sloleks="LE_412f741689616fdbd844edf33c686a25">slavna</comp>
+              <comp position="2" type="headword" sloleks="LE_ddc96c4412e2af25bcf89a6a22939faf">malčica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Ljutomer malčice" cluster="1" frequency="8" logDice="9.9">
+              <comp position="1" type="collocate" sloleks="LE_9fe2c64c8517af3eff716260ad87efd7">Ljutomer</comp>
+              <comp position="2" type="headword" sloleks="LE_ddc96c4412e2af25bcf89a6a22939faf">malčice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="Manikura za malčico" cluster="1" frequency="4" logDice="12.35">
+              <comp position="1" type="collocate" sloleks="LE_65705af8e56c170652ad6efdd508208e">Manikura</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ddc96c4412e2af25bcf89a6a22939faf">malčico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

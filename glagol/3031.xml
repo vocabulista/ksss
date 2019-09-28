@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="3031">naštimati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">401</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="naštimati na verz" cluster="1" frequency="6" logDice="10.93">
+              <comp position="1" type="headword" sloleks="LE_25a2dde844dd248d76da5974ab429423">naštimati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_6009e3c7ad90cee2fd51bed6d8d61073">verz</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="naštimati kamero" cluster="1" frequency="5" logDice="5.07">
+              <comp position="1" type="headword" sloleks="LE_25a2dde844dd248d76da5974ab429423">naštimati</comp>
+              <comp position="2" type="collocate" sloleks="LE_51d7aec490a3726693efdae64b8d2bc0">kamero</comp>
+            </collocation>
+            <collocation form="naštimati uro" cluster="2" frequency="6" logDice="2.3">
+              <comp position="1" type="headword" sloleks="LE_25a2dde844dd248d76da5974ab429423">naštimati</comp>
+              <comp position="2" type="collocate" sloleks="LE_77e6b5a072871d299d405565eaad4389">uro</comp>
+            </collocation>
+            <collocation form="naštimati program" cluster="3" frequency="4" logDice="0.74">
+              <comp position="1" type="headword" sloleks="LE_25a2dde844dd248d76da5974ab429423">naštimati</comp>
+              <comp position="2" type="collocate" sloleks="LE_2da10dc9e8a0e2ff7fd5a1ddd0278e88">program</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="lepo naštimati" cluster="1" frequency="8" logDice="1.25">
+              <comp position="1" type="collocate" sloleks="LE_d01061f4e29d96c6aa9cb7941b715be1">lepo</comp>
+              <comp position="2" type="headword" sloleks="LE_25a2dde844dd248d76da5974ab429423">naštimati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

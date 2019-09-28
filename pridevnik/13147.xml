@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="13147">akcepten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">560</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="akcepten nalog" cluster="1" frequency="400" logDice="9.82">
+              <comp position="1" type="headword" sloleks="LE_8b311b5bcb62c28694a7db37a99d1adb">akcepten</comp>
+              <comp position="2" type="collocate" sloleks="LE_d65430df2a3d3864d7624af3436646f5">nalog</comp>
+            </collocation>
+            <collocation form="akceptna naloga" cluster="2" frequency="142" logDice="5.12">
+              <comp position="1" type="headword" sloleks="LE_8b311b5bcb62c28694a7db37a99d1adb">akceptna</comp>
+              <comp position="2" type="collocate" sloleks="LE_85b4631dc6e0b0f426e7455c2bc6a05e">naloga</comp>
+            </collocation>
+            <collocation form="akceptna izjava" cluster="3" frequency="6" logDice="1.6">
+              <comp position="1" type="headword" sloleks="LE_8b311b5bcb62c28694a7db37a99d1adb">akceptna</comp>
+              <comp position="2" type="collocate" sloleks="LE_43a60c321a9a7889eb71aacc9ccb368f">izjava</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="bianco akcepten" cluster="1" frequency="30" logDice="12.79">
+              <comp position="1" type="collocate" sloleks="LE_e3f817f53170af370927c7944efe6e99">bianco</comp>
+              <comp position="2" type="headword" sloleks="LE_8b311b5bcb62c28694a7db37a99d1adb">akcepten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

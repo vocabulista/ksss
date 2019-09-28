@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="53379">diletant</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">589</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="imeti za diletanta" cluster="1" frequency="4" logDice="0.92">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_c62567a0dc1bfbdad16581ac91dea790">diletanta</comp>
+            </collocation>
+            <collocation form="iti za diletanta" cluster="2" frequency="4" logDice="-1.6">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_c62567a0dc1bfbdad16581ac91dea790">diletanta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="popoln diletant" cluster="1" frequency="15" logDice="1.99">
+              <comp position="1" type="collocate" sloleks="LE_814a2c9c333ef1e9cb481395c05b7346">popoln</comp>
+              <comp position="2" type="headword" sloleks="LE_c62567a0dc1bfbdad16581ac91dea790">diletant</comp>
+            </collocation>
+            <collocation form="političen diletant" cluster="2" frequency="22" logDice="0.86">
+              <comp position="1" type="collocate" sloleks="LE_a3bb12165721c242382f7e67d68cd13a">političen</comp>
+              <comp position="2" type="headword" sloleks="LE_c62567a0dc1bfbdad16581ac91dea790">diletant</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

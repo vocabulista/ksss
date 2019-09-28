@@ -1,0 +1,64 @@
+<entry>
+  <header>
+    <lexical_unit id="34566">špedicijski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">408</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="špedicijsko podjetje" cluster="1" frequency="139" logDice="3.43">
+              <comp position="1" type="headword" sloleks="LE_455705214f9f684e0b64812bb01520c5">špedicijsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_1aed870e4b1c077c155d34b01ab0af57">podjetje</comp>
+            </collocation>
+            <collocation form="špedicijski posel" cluster="2" frequency="23" logDice="3.4">
+              <comp position="1" type="headword" sloleks="LE_455705214f9f684e0b64812bb01520c5">špedicijski</comp>
+              <comp position="2" type="collocate" sloleks="LE_4944cd3b7cdda05428aed18cfcac7eb9">posel</comp>
+            </collocation>
+            <collocation form="špedicijska dejavnost" cluster="3" frequency="63" logDice="2.88">
+              <comp position="1" type="headword" sloleks="LE_455705214f9f684e0b64812bb01520c5">špedicijska</comp>
+              <comp position="2" type="collocate" sloleks="LE_7fd9651ddee6b84cd9c853211be163f8">dejavnost</comp>
+            </collocation>
+            <collocation form="špedicijska storitev" cluster="3" frequency="29" logDice="2.98">
+              <comp position="1" type="headword" sloleks="LE_455705214f9f684e0b64812bb01520c5">špedicijska</comp>
+              <comp position="2" type="collocate" sloleks="LE_abb14230c15d4fd66a15377c1ed699a9">storitev</comp>
+            </collocation>
+            <collocation form="špedicijski strošek" cluster="4" frequency="15" logDice="2.2">
+              <comp position="1" type="headword" sloleks="LE_455705214f9f684e0b64812bb01520c5">špedicijski</comp>
+              <comp position="2" type="collocate" sloleks="LE_c04e68299307d659d0cadde6f5fc0c28">strošek</comp>
+            </collocation>
+            <collocation form="špedicijska družba" cluster="5" frequency="29" logDice="1.21">
+              <comp position="1" type="headword" sloleks="LE_455705214f9f684e0b64812bb01520c5">špedicijska</comp>
+              <comp position="2" type="collocate" sloleks="LE_4d78f38b1eeb8492cae54547d0252bf9">družba</comp>
+            </collocation>
+            <collocation form="špedicijska služba" cluster="5" frequency="22" logDice="1.28">
+              <comp position="1" type="headword" sloleks="LE_455705214f9f684e0b64812bb01520c5">špedicijska</comp>
+              <comp position="2" type="collocate" sloleks="LE_595a77ebd11b27d069e3829b663f2954">služba</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="špedicijski in/ali transporten" cluster="1" frequency="14" logDice="8.79">
+              <comp position="3" type="headword" sloleks="LE_455705214f9f684e0b64812bb01520c5">špedicijski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_481212d82392c8384b601e9c1aa9bd8b">transporten</comp>
+              </collocation>
+            <collocation form="špedicijski in/ali logističen" cluster="2" frequency="7" logDice="7.64">
+              <comp position="3" type="headword" sloleks="LE_455705214f9f684e0b64812bb01520c5">špedicijski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_96c71b7997de25f88bde1d51813abd49">logističen</comp>
+              </collocation>
+            <collocation form="špedicijski in/ali carinski" cluster="3" frequency="8" logDice="7.54">
+              <comp position="3" type="headword" sloleks="LE_455705214f9f684e0b64812bb01520c5">špedicijski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_aaaf7bd12e2c7a4286b636d81ac86583">carinski</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

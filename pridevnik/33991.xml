@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="33991">skuliran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">415</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="skuliran tip" cluster="1" frequency="10" logDice="3.21">
+              <comp position="1" type="headword" sloleks="LE_0a6e62b15b3c401ce22388b279a48f07">skuliran</comp>
+              <comp position="2" type="collocate" sloleks="LE_8caa7f32790a1c710809c10a30d8579f">tip</comp>
+            </collocation>
+            <collocation form="skuliran človek" cluster="2" frequency="15" logDice="0.63">
+              <comp position="1" type="headword" sloleks="LE_0a6e62b15b3c401ce22388b279a48f07">skuliran</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="totalno skuliran" cluster="1" frequency="5" logDice="5.53">
+              <comp position="1" type="collocate" sloleks="LE_975b093a1a8bd0cd64c7bc4a3b3aefeb">totalno</comp>
+              <comp position="2" type="headword" sloleks="LE_0a6e62b15b3c401ce22388b279a48f07">skuliran</comp>
+            </collocation>
+            <collocation form="čisto skuliran" cluster="2" frequency="8" logDice="2.11">
+              <comp position="1" type="collocate" sloleks="LE_94a91e83047bf2e90acf82e14cbb99c9">čisto</comp>
+              <comp position="2" type="headword" sloleks="LE_0a6e62b15b3c401ce22388b279a48f07">skuliran</comp>
+            </collocation>
+            <collocation form="popolnoma skuliran" cluster="3" frequency="6" logDice="0.88">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_0a6e62b15b3c401ce22388b279a48f07">skuliran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

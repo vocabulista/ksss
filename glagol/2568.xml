@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="2568">mrščiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">415</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="mrščiti čelo" cluster="1" frequency="39" logDice="9.64">
+              <comp position="1" type="headword" sloleks="LE_1e470e408e4acc4826d550af0f8bac6e">mrščiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_147fccc2e88a7c05d0f77ea0d2836189|LE_56159db6b003731c38bcece0e0c0617b">čelo</comp>
+            </collocation>
+            <collocation form="mrščiti obrv" cluster="2" frequency="30" logDice="8.92">
+              <comp position="1" type="headword" sloleks="LE_1e470e408e4acc4826d550af0f8bac6e">mrščiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_b4fe0ba58dd9097a0c32070f91d34c6b">obrv</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="neprestano mrščiti" cluster="1" frequency="4" logDice="3.32">
+              <comp position="1" type="collocate" sloleks="LE_e794c36d8c0974eac39cc447b8d47c84">neprestano</comp>
+              <comp position="2" type="headword" sloleks="LE_1e470e408e4acc4826d550af0f8bac6e">mrščiti</comp>
+            </collocation>
+            <collocation form="naprej mrščiti" cluster="2" frequency="7" logDice="0.98">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_1e470e408e4acc4826d550af0f8bac6e">mrščiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

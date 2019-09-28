@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="14062">begajoč</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">453</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="begajoče oči" cluster="1" frequency="29" logDice="4.14">
+              <comp position="1" type="headword" sloleks="LE_98041df081b435f6da2bb73ce2468bdf">begajoče</comp>
+              <comp position="2" type="collocate" sloleks="LE_6e683e53145b35a6cbb44ad1188b7a9f|LE_f7836a137770b18301878166ca9f053f">oči</comp>
+            </collocation>
+            <collocation form="begajoč pogled" cluster="2" frequency="35" logDice="3.75">
+              <comp position="1" type="headword" sloleks="LE_98041df081b435f6da2bb73ce2468bdf">begajoč</comp>
+              <comp position="2" type="collocate" sloleks="LE_456820bc1f399479d902f190585f0938">pogled</comp>
+            </collocation>
+            <collocation form="begajoč občutek" cluster="2" frequency="6" logDice="1.95">
+              <comp position="1" type="headword" sloleks="LE_98041df081b435f6da2bb73ce2468bdf">begajoč</comp>
+              <comp position="2" type="collocate" sloleks="LE_23671e6156ee6c327e7c512a951bd4f3">občutek</comp>
+            </collocation>
+            <collocation form="begajoča misel" cluster="3" frequency="15" logDice="3.45">
+              <comp position="1" type="headword" sloleks="LE_98041df081b435f6da2bb73ce2468bdf">begajoča</comp>
+              <comp position="2" type="collocate" sloleks="LE_5c7f7f0d0d08b8f576a9107f674e22dd">misel</comp>
+            </collocation>
+            <collocation form="begajoča izkušnja" cluster="3" frequency="7" logDice="0.83">
+              <comp position="1" type="headword" sloleks="LE_98041df081b435f6da2bb73ce2468bdf">begajoča</comp>
+              <comp position="2" type="collocate" sloleks="LE_cc1bdf7573b2f228f436611e70021bd9">izkušnja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="nekoliko begajoč" cluster="1" frequency="6" logDice="0.74">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_98041df081b435f6da2bb73ce2468bdf">begajoč</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

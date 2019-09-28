@@ -1,0 +1,61 @@
+<entry>
+  <header>
+    <lexical_unit id="8039">siriti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">680</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ iz sbz2">
+          <collocations>
+            <collocation form="siriti iz mleka" cluster="1" frequency="6" logDice="8.71">
+              <comp position="1" type="headword" sloleks="LE_b82f0f76e9aa8631610f873386e1a057">siriti</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_6a2577a60d20ec9dbe386e7b751d266d">mleka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="siriti na način" cluster="1" frequency="5" logDice="-0.16">
+              <comp position="1" type="headword" sloleks="LE_b82f0f76e9aa8631610f873386e1a057">siriti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_78347f5e8e1e11f66d26223c13ba02df">način</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="siriti na planini" cluster="1" frequency="6" logDice="6.05">
+              <comp position="1" type="headword" sloleks="LE_b82f0f76e9aa8631610f873386e1a057">siriti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_3627874c5d915aefdc9f6b307cfcc343">planini</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="siriti mleko" cluster="1" frequency="11" logDice="5.22">
+              <comp position="1" type="headword" sloleks="LE_b82f0f76e9aa8631610f873386e1a057">siriti</comp>
+              <comp position="2" type="collocate" sloleks="LE_6a2577a60d20ec9dbe386e7b751d266d">mleko</comp>
+            </collocation>
+            <collocation form="siriti vero" cluster="2" frequency="6" logDice="4.89">
+              <comp position="1" type="headword" sloleks="LE_b82f0f76e9aa8631610f873386e1a057">siriti</comp>
+              <comp position="2" type="collocate" sloleks="LE_583319a05698c528b3d8a3b0f4aea875">vero</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="siriti s plesnijo" cluster="1" frequency="12" logDice="11.23">
+              <comp position="1" type="headword" sloleks="LE_b82f0f76e9aa8631610f873386e1a057">siriti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_c0ee622809008300dd5c9db7001889cc">plesnijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

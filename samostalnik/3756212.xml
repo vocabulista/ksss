@@ -1,0 +1,32 @@
+<entry>
+  <header>
+    <lexical_unit id="3756212">speed</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="Speed Zone" cluster="1" frequency="886" logDice="13.12">
+              <comp position="1" type="headword" sloleks="">Speed</comp>
+              <comp position="2" type="collocate" sloleks="LE_bc9eb699d1568793a90b02868f5020c6">Zone</comp>
+            </collocation>
+            <collocation form="speed metala" cluster="2" frequency="16" logDice="7.44">
+              <comp position="1" type="headword" sloleks="">speed</comp>
+              <comp position="2" type="collocate" sloleks="LE_6489c1ac6093b7acc37d1bc7434deb23">metala</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="imenovan speed" cluster="1" frequency="13" logDice="1.6">
+              <comp position="1" type="collocate" sloleks="LE_48445856b1ad858d1b8600c1111b730c">imenovan</comp>
+              <comp position="2" type="headword" sloleks="">speed</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

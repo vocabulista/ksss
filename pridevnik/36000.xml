@@ -1,0 +1,25 @@
+<entry>
+  <header>
+    <lexical_unit id="36000">tipkarski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">455</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="tipkarski škrat" cluster="1" frequency="29" logDice="7.95">
+              <comp position="1" type="headword" sloleks="LE_2661ec7918fdc1cd4cae8c70393e174d">tipkarski</comp>
+              <comp position="2" type="collocate" sloleks="LE_fe7b916322cb7c2f032b36ac246442cc">škrat</comp>
+            </collocation>
+            <collocation form="tipkarska napaka" cluster="2" frequency="333" logDice="6.9">
+              <comp position="1" type="headword" sloleks="LE_2661ec7918fdc1cd4cae8c70393e174d">tipkarska</comp>
+              <comp position="2" type="collocate" sloleks="LE_062a179ee1410808218c093ac1a7b38b">napaka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

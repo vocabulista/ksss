@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="2036">kihati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">686</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="kihati v robček" cluster="1" frequency="4" logDice="9.64">
+              <comp position="1" type="headword" sloleks="LE_3de3f261de14c716c2ac0997523430de">kihati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_2e925b09a650bac2bf6c68bf824176fb">robček</comp>
+            </collocation>
+            <collocation form="kihati v del" cluster="2" frequency="4" logDice="3.96">
+              <comp position="1" type="headword" sloleks="LE_3de3f261de14c716c2ac0997523430de">kihati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_7ec85158e392e2a539875a30cf8d3436">del</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="razburjeno kihati" cluster="1" frequency="5" logDice="7.51">
+              <comp position="1" type="collocate" sloleks="">razburjeno</comp>
+              <comp position="2" type="headword" sloleks="LE_3de3f261de14c716c2ac0997523430de">kihati</comp>
+            </collocation>
+            <collocation form="nenehno kihati" cluster="2" frequency="8" logDice="2.76">
+              <comp position="1" type="collocate" sloleks="LE_51a4baeec25a30e6830b327ef65991b5">nenehno</comp>
+              <comp position="2" type="headword" sloleks="LE_3de3f261de14c716c2ac0997523430de">kihati</comp>
+            </collocation>
+            <collocation form="močno kihati" cluster="2" frequency="7" logDice="0.88">
+              <comp position="1" type="collocate" sloleks="LE_b061af875766d8e1437febe5ccafe554">močno</comp>
+              <comp position="2" type="headword" sloleks="LE_3de3f261de14c716c2ac0997523430de">kihati</comp>
+            </collocation>
+            <collocation form="glasno kihati" cluster="3" frequency="4" logDice="2.66">
+              <comp position="1" type="collocate" sloleks="LE_8d32e8ffef5c2d930893f51f039b425a">glasno</comp>
+              <comp position="2" type="headword" sloleks="LE_3de3f261de14c716c2ac0997523430de">kihati</comp>
+            </collocation>
+            <collocation form="pogosto kihati" cluster="4" frequency="21" logDice="2.01">
+              <comp position="1" type="collocate" sloleks="LE_0c25a8b75185d62f2dab515299cccbfc">pogosto</comp>
+              <comp position="2" type="headword" sloleks="LE_3de3f261de14c716c2ac0997523430de">kihati</comp>
+            </collocation>
+            <collocation form="naprej kihati" cluster="4" frequency="5" logDice="0.49">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_3de3f261de14c716c2ac0997523430de">kihati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

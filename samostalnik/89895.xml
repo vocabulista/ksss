@@ -1,0 +1,527 @@
+<entry>
+  <header>
+    <lexical_unit id="89895">sociala</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">7179</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="sociala na račun" cluster="1" frequency="5" logDice="2.39">
+              <comp position="1" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociala</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_03d4207cd319441760ba30bae2e1320e">račun</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="sociala v imenu" cluster="1" frequency="4" logDice="3.04">
+              <comp position="1" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociala</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">imenu</comp>
+            </collocation>
+            <collocation form="sociala v državi" cluster="2" frequency="5" logDice="0.56">
+              <comp position="1" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociala</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">državi</comp>
+            </collocation>
+            <collocation form="sociala v Sloveniji" cluster="3" frequency="9" logDice="0.49">
+              <comp position="1" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociala</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Sloveniji</comp>
+            </collocation>
+            <collocation form="sociala v letu" cluster="4" frequency="4" logDice="-0.69">
+              <comp position="1" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociala</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">letu</comp>
+            </collocation>
+            <collocation form="delavec v sociali" cluster="5" frequency="4" logDice="2.72">
+              <comp position="1" type="collocate" sloleks="LE_85630a93aeb01535235f6c83e3750975">delavec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociali</comp>
+            </collocation>
+            <collocation form="delo v sociali" cluster="6" frequency="5" logDice="0.89">
+              <comp position="1" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociali</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="ukiniti socialo" cluster="1" frequency="8" logDice="4.84">
+              <comp position="1" type="collocate" sloleks="LE_53fa62eb8979308f8287cfa23b052d78">ukiniti</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="vleči socialo" cluster="2" frequency="9" logDice="4.82">
+              <comp position="1" type="collocate" sloleks="LE_a30e91cb3238652d108366e7fadaee3e">vleči</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="iti socialo" cluster="3" frequency="16" logDice="4.06">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="iti na socialo" cluster="1" frequency="5" logDice="1.33">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ5">
+          <collocations>
+            <collocation form="živeti na sociali" cluster="1" frequency="7" logDice="3.48">
+              <comp position="1" type="collocate" sloleks="LE_42cc4ca3168ca0f408ce857620c0a7d0">živeti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociali</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz o SBZ5">
+          <collocations>
+            <collocation form="govoriti o sociali" cluster="1" frequency="21" logDice="2.24">
+              <comp position="1" type="collocate" sloleks="LE_1da4dedf23c5041ae767d038d2430123">govoriti</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociali</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz od SBZ2">
+          <collocations>
+            <collocation form="živeti od sociale" cluster="1" frequency="8" logDice="4.99">
+              <comp position="1" type="collocate" sloleks="LE_42cc4ca3168ca0f408ce857620c0a7d0">živeti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+            <collocation form="dobiti od sociale" cluster="2" frequency="5" logDice="3.25">
+              <comp position="1" type="collocate" sloleks="LE_abe97863495bd3d2d1b41f81933061b7">dobiti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="vlagati v socialo" cluster="1" frequency="5" logDice="3.43">
+              <comp position="1" type="collocate" sloleks="LE_143c95806399b04c3527f52148c7caf3">vlagati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="delati v sociali" cluster="1" frequency="8" logDice="2.46">
+              <comp position="1" type="collocate" sloleks="LE_240594860749d18971944f6690505af1">delati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociali</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="ukvarjati s socialo" cluster="1" frequency="24" logDice="2.64">
+              <comp position="1" type="collocate" sloleks="LE_d218d442858c415bdeff018dc056aea9">ukvarjati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="namenjati za socialo" cluster="1" frequency="13" logDice="6.82">
+              <comp position="1" type="collocate" sloleks="LE_23cf8a715709cdd8c638f886a1498ebd">namenjati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="nameniti za socialo" cluster="1" frequency="12" logDice="4.31">
+              <comp position="1" type="collocate" sloleks="LE_4d2a1a986a6ff297b4f1734f98b0c8bf">nameniti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="zavzemati za socialo" cluster="2" frequency="9" logDice="3.59">
+              <comp position="1" type="collocate" sloleks="LE_e817b3f56233039e108ac09c5a8d200b">zavzemati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="skrbeti za socialo" cluster="3" frequency="14" logDice="2.3">
+              <comp position="1" type="collocate" sloleks="LE_ede1f4889f5d12d03cea1e42693522c8">skrbeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="poskrbeti za socialo" cluster="3" frequency="7" logDice="1.57">
+              <comp position="1" type="collocate" sloleks="LE_610c30927c7792ff5bc41d0843ec83a6">poskrbeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="porabiti za socialo" cluster="3" frequency="5" logDice="2.99">
+              <comp position="1" type="collocate" sloleks="LE_3aa8017f73a46ac29ad59c7a495aab83">porabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="iti za socialo" cluster="4" frequency="16" logDice="0.4">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="lažna sociala" cluster="1" frequency="9" logDice="3.93">
+              <comp position="1" type="collocate" sloleks="LE_4df0103c461ede02543f7c59d30bfc15">lažna</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociala</comp>
+            </collocation>
+            <collocation form="študentska sociala" cluster="2" frequency="16" logDice="2.74">
+              <comp position="1" type="collocate" sloleks="LE_03b10ae1759381e050ac50216dfc4d8c">študentska</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociala</comp>
+            </collocation>
+            <collocation form="urejena sociala" cluster="3" frequency="11" logDice="2.34">
+              <comp position="1" type="collocate" sloleks="LE_ce47be4ef2a051504f7ac1423727f7e8">urejena</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociala</comp>
+            </collocation>
+            <collocation form="namenjena sociala" cluster="3" frequency="9" logDice="0.79">
+              <comp position="1" type="collocate" sloleks="LE_eed44a3aaf6fe7ffbbb56cff0a5bde3b">namenjena</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociala</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 na SBZ4">
+          <collocations>
+            <collocation form="vezan na socialo" cluster="1" frequency="4" logDice="2.42">
+              <comp position="1" type="collocate" sloleks="LE_9d168478078f3e72a96d3998d1540539">vezan</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 od SBZ2">
+          <collocations>
+            <collocation form="odvisen od sociale" cluster="1" frequency="7" logDice="1.53">
+              <comp position="1" type="collocate" sloleks="LE_54a31c5172f1f3780d126b8a2e13a017">odvisen</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 z SBZ6">
+          <collocations>
+            <collocation form="povezan s socialo" cluster="1" frequency="10" logDice="1.27">
+              <comp position="1" type="collocate" sloleks="LE_84ef5df7d933128064d85c58468c7559">povezan</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 za SBZ4">
+          <collocations>
+            <collocation form="zadolžen za socialo" cluster="1" frequency="7" logDice="4.6">
+              <comp position="1" type="collocate" sloleks="LE_5ae5f064f40a5940ee488b92d453ed07">zadolžen</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="pristojen za socialo" cluster="2" frequency="10" logDice="3.86">
+              <comp position="1" type="collocate" sloleks="LE_20891b5f4fefa4ac5f3fea9ad57706e9">pristojen</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="namenjen za socialo" cluster="3" frequency="6" logDice="3.67">
+              <comp position="1" type="collocate" sloleks="LE_eed44a3aaf6fe7ffbbb56cff0a5bde3b">namenjen</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="odgovoren za socialo" cluster="4" frequency="4" logDice="2.15">
+              <comp position="1" type="collocate" sloleks="LE_dcd5c3eff4e18689752137b261cab738">odgovoren</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz SBZ2">
+          <collocations>
+            <collocation form="preveč sociale" cluster="1" frequency="12" logDice="3.25">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+            <collocation form="manj sociale" cluster="2" frequency="20" logDice="3.01">
+              <comp position="1" type="collocate" sloleks="LE_ecab8216e0225b7e80d79b53bd9b8959">manj</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="storia sociale" cluster="1" frequency="20" logDice="8.98">
+              <comp position="1" type="collocate" sloleks="">storia</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+            <collocation form="Movimento sociale" cluster="2" frequency="19" logDice="8.98">
+              <comp position="1" type="collocate" sloleks="">Movimento</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+            <collocation form="utilit sociale" cluster="2" frequency="11" logDice="8.21">
+              <comp position="1" type="collocate" sloleks="">utilit</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+            <collocation form="mesec sociale" cluster="3" frequency="74" logDice="4.6">
+              <comp position="1" type="collocate" sloleks="LE_d87e72e2a6ded77b0ae520112759ad42">mesec</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+            <collocation form="področje sociale" cluster="4" frequency="521" logDice="6.03">
+              <comp position="1" type="collocate" sloleks="LE_66c02e1a651f578a71415b967738b69b">področje</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+            <collocation form="račun sociale" cluster="4" frequency="19" logDice="3.19">
+              <comp position="1" type="collocate" sloleks="LE_03d4207cd319441760ba30bae2e1320e">račun</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+            <collocation form="vprašanje sociale" cluster="4" frequency="11" logDice="1.88">
+              <comp position="1" type="collocate" sloleks="LE_18ddad642f4f2459ae6eda5f8fcda990">vprašanje</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+            <collocation form="sistem sociale" cluster="4" frequency="9" logDice="1.3">
+              <comp position="1" type="collocate" sloleks="LE_b126847d984efa55c2ffad50be4e1dac">sistem</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+            <collocation form="stvar sociale" cluster="4" frequency="8" logDice="3.22">
+              <comp position="1" type="collocate" sloleks="LE_c62e36388a9104c47cf960cd4bdf4ca3">stvar</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+            <collocation form="problem sociale" cluster="4" frequency="7" logDice="1.9">
+              <comp position="1" type="collocate" sloleks="LE_978368a01311c2094cfb52416d9882f9">problem</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+            <collocation form="strošek sociale" cluster="4" frequency="6" logDice="0.91">
+              <comp position="1" type="collocate" sloleks="LE_c04e68299307d659d0cadde6f5fc0c28">strošek</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+            <collocation form="reforma sociale" cluster="5" frequency="5" logDice="3.15">
+              <comp position="1" type="collocate" sloleks="LE_6c1f1ffef5dbc88a133cc16ff63c5b81">reforma</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+            <collocation form="rob sociale" cluster="6" frequency="6" logDice="1.65">
+              <comp position="1" type="collocate" sloleks="LE_f77fc4e15f47e160c4247e79bf3ae0fc">rob</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+            <collocation form="vist sociale" cluster="7" frequency="15" logDice="8.59">
+              <comp position="1" type="collocate" sloleks="LE_4455c74967f003f9327dc713b85032b0">vist</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+            <collocation form="associazion sociale" cluster="8" frequency="14" logDice="8.55">
+              <comp position="1" type="collocate" sloleks="">associazion</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+            <collocation form="repubblica sociale" cluster="9" frequency="7" logDice="7.53">
+              <comp position="1" type="collocate" sloleks="">repubblica</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+            <collocation form="e sociale" cluster="10" frequency="14" logDice="6.57">
+              <comp position="1" type="collocate" sloleks="LE_057ba3b651a36bc6493c706e135d4ce9">e</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+            <collocation form="implementacija sociale" cluster="11" frequency="10" logDice="6.46">
+              <comp position="1" type="collocate" sloleks="LE_e6d3eee47260d8855bcb6c364e38d52f">implementacija</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+            <collocation form="posvet sociale" cluster="12" frequency="10" logDice="6.08">
+              <comp position="1" type="collocate" sloleks="LE_93686ffb946fbd9bfdd6a3ca48544eba">posvet</comp>
+              <comp position="2" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociale</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 med SBZ6">
+          <collocations>
+            <collocation form="ravnotežje med socialo" cluster="1" frequency="5" logDice="5.96">
+              <comp position="1" type="collocate" sloleks="LE_ed00600096b21b440d010399e3bb9526">ravnotežje</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ5">
+          <collocations>
+            <collocation form="banda na SOCIALI" cluster="1" frequency="4" logDice="9.8">
+              <comp position="1" type="collocate" sloleks="LE_93a64fd4ee7b500e9d7f3e92ce4f4222">banda</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">SOCIALI</comp>
+            </collocation>
+            <collocation form="večina na sociali" cluster="2" frequency="4" logDice="6.89">
+              <comp position="1" type="collocate" sloleks="LE_72538287b447b4b7a75d1faf227dd3da">večina</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociali</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="govor o sociali" cluster="1" frequency="4" logDice="3.92">
+              <comp position="1" type="collocate" sloleks="LE_62db55b79816c90308de7c02140fb3d5">govor</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociali</comp>
+            </collocation>
+            <collocation form="pogovor o sociali" cluster="2" frequency="4" logDice="2.99">
+              <comp position="1" type="collocate" sloleks="LE_4d397baebd70f7228e28d943e00294e3">pogovor</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">sociali</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ4">
+          <collocations>
+            <collocation form="poseg v socialo" cluster="1" frequency="4" logDice="2.74">
+              <comp position="1" type="collocate" sloleks="LE_beb682ab085ea21d29d7513eeee202da">poseg</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="resor za socialo" cluster="1" frequency="86" logDice="10.64">
+              <comp position="1" type="collocate" sloleks="LE_9ceaf2dea99777b451eca487888babfc">resor</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="sekretar za socialo" cluster="2" frequency="76" logDice="8.24">
+              <comp position="1" type="collocate" sloleks="LE_63262a5652b32e7bc3d0a8f4156df7e6">sekretar</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="ministrica za socialo" cluster="2" frequency="51" logDice="6.3">
+              <comp position="1" type="collocate" sloleks="LE_6f7dda99ac98cae2816d522f5fa0612f">ministrica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="sekretarka za socialo" cluster="2" frequency="23" logDice="8.46">
+              <comp position="1" type="collocate" sloleks="LE_f290a6c40967883a3db0a8ee374b104c">sekretarka</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="minister za socialo" cluster="3" frequency="183" logDice="5.88">
+              <comp position="1" type="collocate" sloleks="LE_14d03bd4c4af80feb9e303c813fc6d24">minister</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="odbor za socialo" cluster="3" frequency="58" logDice="5.15">
+              <comp position="1" type="collocate" sloleks="LE_8a88fc8558d7aaf0322ca909aacb4ac0">odbor</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="ministrstvo za socialo" cluster="3" frequency="57" logDice="3.01">
+              <comp position="1" type="collocate" sloleks="LE_f330212ca20ea9e446e2adab59f8519d">ministrstvo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="komisija za socialo" cluster="3" frequency="20" logDice="3.69">
+              <comp position="1" type="collocate" sloleks="LE_1d71b650207bc9d89d6fe3df1de3762a">komisija</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="svet za socialo" cluster="3" frequency="9" logDice="3.15">
+              <comp position="1" type="collocate" sloleks="LE_55184295ed657acc8ec5dcd62f7084bf">svet</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="direktorat za socialo" cluster="4" frequency="15" logDice="5.76">
+              <comp position="1" type="collocate" sloleks="LE_a5a5e9678176603c5f58a4e3546c522f">direktorat</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="denar za socialo" cluster="5" frequency="31" logDice="4.17">
+              <comp position="1" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denar</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="sredstvo za socialo" cluster="5" frequency="22" logDice="3.47">
+              <comp position="1" type="collocate" sloleks="LE_94c4f4cf5104632466509789b5cde032">sredstvo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="prispevek za socialo" cluster="5" frequency="20" logDice="5.34">
+              <comp position="1" type="collocate" sloleks="LE_31b4b9d1edb0c5ea202549e0e4e23e81">prispevek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="proračun za socialo" cluster="5" frequency="7" logDice="3.52">
+              <comp position="1" type="collocate" sloleks="LE_a8a062f558dfe355f6b245913044e112">proračun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="strošek za socialo" cluster="5" frequency="6" logDice="3.29">
+              <comp position="1" type="collocate" sloleks="LE_c04e68299307d659d0cadde6f5fc0c28">strošek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="čut za socialo" cluster="6" frequency="29" logDice="7.54">
+              <comp position="1" type="collocate" sloleks="LE_15554cd0b5a05f14a4673e02ded5a5f2">čut</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="posluh za socialo" cluster="6" frequency="7" logDice="5.03">
+              <comp position="1" type="collocate" sloleks="LE_0c9919c4602b45255b4d5d281d212949">posluh</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="skrb za socialo" cluster="7" frequency="21" logDice="4.37">
+              <comp position="1" type="collocate" sloleks="LE_8fc9c7c4a52d70b47b50fd6d5d96b148">skrb</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="občutek za socialo" cluster="7" frequency="11" logDice="4.75">
+              <comp position="1" type="collocate" sloleks="LE_23671e6156ee6c327e7c512a951bd4f3">občutek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="oddelek za socialo" cluster="8" frequency="20" logDice="3.69">
+              <comp position="1" type="collocate" sloleks="LE_f73286dd6f89a4307b05a1a8ffe3e326">oddelek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="center za socialo" cluster="8" frequency="15" logDice="2.95">
+              <comp position="1" type="collocate" sloleks="LE_2f065577a7792f26481f7fba67e1e5ab">center</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="sektor za socialo" cluster="8" frequency="4" logDice="3.89">
+              <comp position="1" type="collocate" sloleks="LE_d7113705997fb9a704cd3450fc76cb87">sektor</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="ŠOU za socialo" cluster="9" frequency="8" logDice="8.05">
+              <comp position="1" type="collocate" sloleks="LE_dad613e56921f2d7ef414780f357f57e">ŠOU</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="ŠOS za socialo" cluster="10" frequency="5" logDice="7.37">
+              <comp position="1" type="collocate" sloleks="">ŠOS</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="izdatek za socialo" cluster="11" frequency="35" logDice="7.3">
+              <comp position="1" type="collocate" sloleks="LE_ee0269dba3c636555ff77674d79755b6">izdatek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="poraba za socialo" cluster="11" frequency="4" logDice="6.13">
+              <comp position="1" type="collocate" sloleks="LE_63e978077b91a4ad7085987f878f0ff7">poraba</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+            <collocation form="odbornik za socialo" cluster="12" frequency="4" logDice="6.44">
+              <comp position="1" type="collocate" sloleks="LE_5985b8a7ea44c090f647cd2797169820">odbornik</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ea29ecaa581ed395cef54d81b3f652d3">socialo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

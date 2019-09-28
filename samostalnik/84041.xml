@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="84041">protislovnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">428</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="opozarjati na protislovnost" cluster="1" frequency="4" logDice="2.0">
+              <comp position="1" type="collocate" sloleks="LE_2b0d3172ed316ac5b17087cc44769a7a">opozarjati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_3eeb1c2a64548f6b3447653e91c5b86c">protislovnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="notranja protislovnost" cluster="1" frequency="19" logDice="1.62">
+              <comp position="1" type="collocate" sloleks="LE_bca9138b9a7f57aa3e597de77446f7d5">notranja</comp>
+              <comp position="2" type="headword" sloleks="LE_3eeb1c2a64548f6b3447653e91c5b86c">protislovnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

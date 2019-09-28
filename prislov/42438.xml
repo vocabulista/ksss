@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="42438">nedostopno</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">458</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="rbz RBZ">
+          <collocations>
+            <collocation form="rekoč nedostopno" cluster="1" frequency="5" logDice="4.55">
+              <comp position="1" type="collocate" sloleks="LE_ebe36e072129b4f73209c9a9f3355a31">rekoč</comp>
+              <comp position="2" type="headword" sloleks="LE_3f8ca59bbe5e11e9701c8807c4c161dd">nedostopno</comp>
+            </collocation>
+            <collocation form="povsem nedostopno" cluster="2" frequency="11" logDice="2.3">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_3f8ca59bbe5e11e9701c8807c4c161dd">nedostopno</comp>
+            </collocation>
+            <collocation form="malce nedostopno" cluster="3" frequency="4" logDice="2.01">
+              <comp position="1" type="collocate" sloleks="LE_2eec11a38ac5bbb5fa6d7682c1224a82">malce</comp>
+              <comp position="2" type="headword" sloleks="LE_3f8ca59bbe5e11e9701c8807c4c161dd">nedostopno</comp>
+            </collocation>
+            <collocation form="zato nedostopno" cluster="4" frequency="5" logDice="1.79">
+              <comp position="1" type="collocate" sloleks="LE_a8c8d0c329f7b5193130e7eb405193e2">zato</comp>
+              <comp position="2" type="headword" sloleks="LE_3f8ca59bbe5e11e9701c8807c4c161dd">nedostopno</comp>
+            </collocation>
+            <collocation form="bolj nedostopno" cluster="5" frequency="6" logDice="0.21">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_3f8ca59bbe5e11e9701c8807c4c161dd">nedostopno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ in/ali rbz">
+          <collocations>
+            <collocation form="nedostopno in/ali vzvišeno" cluster="1" frequency="5" logDice="9.32">
+              <comp position="3" type="headword" sloleks="LE_3f8ca59bbe5e11e9701c8807c4c161dd">nedostopno</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_f9284850ffd13356b6b73b46c49d1488">vzvišeno</comp>
+              </collocation>
+            <collocation form="nedostopno in hladno" cluster="2" frequency="20" logDice="8.9">
+              <comp position="1" type="headword" sloleks="LE_3f8ca59bbe5e11e9701c8807c4c161dd">nedostopno</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_bfacc457ec54c23723ebe53e4358b714">hladno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

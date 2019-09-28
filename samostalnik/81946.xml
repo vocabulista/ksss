@@ -1,0 +1,116 @@
+<entry>
+  <header>
+    <lexical_unit id="81946">predpona</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">861</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="predpona za spremenljivko" cluster="1" frequency="5" logDice="10.66">
+              <comp position="1" type="headword" sloleks="LE_fb7e3dbb69b04f49f36fd0a911967525">predpona</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_3cc81ed85e8a89dcebabd459207ae7bd">spremenljivko</comp>
+            </collocation>
+            <collocation form="predpona za izbiro" cluster="2" frequency="6" logDice="5.2">
+              <comp position="1" type="headword" sloleks="LE_fb7e3dbb69b04f49f36fd0a911967525">predpona</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_0183b3b968bada8d6e824d361c1c2bd2">izbiro</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="dodati predpono" cluster="1" frequency="21" logDice="2.8">
+              <comp position="1" type="collocate" sloleks="LE_c650260a47b57510d011b500dfe60df5">dodati</comp>
+              <comp position="2" type="headword" sloleks="LE_fb7e3dbb69b04f49f36fd0a911967525">predpono</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="zapisati s predpono" cluster="1" frequency="5" logDice="6.28">
+              <comp position="1" type="collocate" sloleks="LE_c6de090644261696188a3ce198fb6cca">zapisati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_fb7e3dbb69b04f49f36fd0a911967525">predpono</comp>
+            </collocation>
+            <collocation form="označiti s predpono" cluster="2" frequency="5" logDice="5.37">
+              <comp position="1" type="collocate" sloleks="LE_290bb6195501b752ddc22d4214372880">označiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_fb7e3dbb69b04f49f36fd0a911967525">predpono</comp>
+            </collocation>
+            <collocation form="začenjati s predpono" cluster="3" frequency="4" logDice="4.53">
+              <comp position="1" type="collocate" sloleks="LE_39c2f42855c6bec54b3baab353b6c081">začenjati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_fb7e3dbb69b04f49f36fd0a911967525">predpono</comp>
+            </collocation>
+            <collocation form="začeti s predpono" cluster="4" frequency="5" logDice="1.01">
+              <comp position="1" type="collocate" sloleks="LE_5526be99243d6a70e33b06d3eabd15ae">začeti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_fb7e3dbb69b04f49f36fd0a911967525">predpono</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="trebušna predpona" cluster="1" frequency="15" logDice="5.12">
+              <comp position="1" type="collocate" sloleks="LE_de9d5fa0a1477022e665e808782a0227">trebušna</comp>
+              <comp position="2" type="headword" sloleks="LE_fb7e3dbb69b04f49f36fd0a911967525">predpona</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 iz SBZ2">
+          <collocations>
+            <collocation form="sestavljen iz predpone" cluster="1" frequency="12" logDice="4.32">
+              <comp position="1" type="collocate" sloleks="LE_4f8ef7c592d4c23cf2ec5675a1399ad5">sestavljen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_fb7e3dbb69b04f49f36fd0a911967525">predpone</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 z SBZ6">
+          <collocations>
+            <collocation form="označen s predpono" cluster="1" frequency="5" logDice="4.66">
+              <comp position="1" type="collocate" sloleks="LE_f52889f35ddecb537834ea206c424b48">označen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_fb7e3dbb69b04f49f36fd0a911967525">predpono</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="raba predpone" cluster="1" frequency="5" logDice="2.56">
+              <comp position="1" type="collocate" sloleks="LE_1cd13218e774ca6d3e52eec7f9a82211">raba</comp>
+              <comp position="2" type="headword" sloleks="LE_fb7e3dbb69b04f49f36fd0a911967525">predpone</comp>
+            </collocation>
+            <collocation form="uporaba predpone" cluster="2" frequency="9" logDice="0.65">
+              <comp position="1" type="collocate" sloleks="LE_9999e7dc3b8f5571ba09e352c31aea3f">uporaba</comp>
+              <comp position="2" type="headword" sloleks="LE_fb7e3dbb69b04f49f36fd0a911967525">predpone</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="ločevanje s predpono" cluster="1" frequency="5" logDice="10.81">
+              <comp position="1" type="collocate" sloleks="LE_242b1487f4e961328dd4ae272748612c">ločevanje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_fb7e3dbb69b04f49f36fd0a911967525">predpono</comp>
+            </collocation>
+            <collocation form="številka s predpono" cluster="2" frequency="17" logDice="9.63">
+              <comp position="1" type="collocate" sloleks="LE_ebd741e03af85017076d3a5582503217">številka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_fb7e3dbb69b04f49f36fd0a911967525">predpono</comp>
+            </collocation>
+            <collocation form="ime s predpono" cluster="3" frequency="4" logDice="7.07">
+              <comp position="1" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">ime</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_fb7e3dbb69b04f49f36fd0a911967525">predpono</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

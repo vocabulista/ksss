@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="70300">montažer</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1276</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="montažer filma" cluster="1" frequency="32" logDice="3.26">
+              <comp position="1" type="headword" sloleks="LE_c691b64bb6b0344bbb0a5b1143c3f949">montažer</comp>
+              <comp position="2" type="collocate" sloleks="LE_ef1ac12433b4b7e1e0c31edb0c726d89">filma</comp>
+            </collocation>
+            <collocation form="montažer slike" cluster="1" frequency="8" logDice="2.47">
+              <comp position="1" type="headword" sloleks="LE_c691b64bb6b0344bbb0a5b1143c3f949">montažer</comp>
+              <comp position="2" type="collocate" sloleks="LE_593e973f672b71320e37b77b785f08a0">slike</comp>
+            </collocation>
+            <collocation form="montažer naprave" cluster="2" frequency="11" logDice="3.15">
+              <comp position="1" type="headword" sloleks="LE_c691b64bb6b0344bbb0a5b1143c3f949">montažer</comp>
+              <comp position="2" type="collocate" sloleks="LE_35970ca9f3b04f4bc834eb0dfdb70a08">naprave</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="filmski montažer" cluster="1" frequency="10" logDice="1.1">
+              <comp position="1" type="collocate" sloleks="LE_2727ea40e1c4e31719f79893e7f51c83">filmski</comp>
+              <comp position="2" type="headword" sloleks="LE_c691b64bb6b0344bbb0a5b1143c3f949">montažer</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

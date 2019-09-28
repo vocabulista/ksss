@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="64019">knjigovodja</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">713</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="finančen knjigovodja" cluster="1" frequency="45" logDice="2.27">
+              <comp position="1" type="collocate" sloleks="LE_76df384d79317d3c493a25954b5b46e8">finančen</comp>
+              <comp position="2" type="headword" sloleks="LE_469b2a96a29c83760314b12cc40e3ca6">knjigovodja</comp>
+            </collocation>
+            <collocation form="materialen knjigovodja" cluster="1" frequency="42" logDice="4.91">
+              <comp position="1" type="collocate" sloleks="LE_2955219c9246919ab0996811ec1c2df6">materialen</comp>
+              <comp position="2" type="headword" sloleks="LE_469b2a96a29c83760314b12cc40e3ca6">knjigovodja</comp>
+            </collocation>
+            <collocation form="samostojen knjigovodja" cluster="2" frequency="26" logDice="3.0">
+              <comp position="1" type="collocate" sloleks="LE_c8b494365143993203f3570245cc214b">samostojen</comp>
+              <comp position="2" type="headword" sloleks="LE_469b2a96a29c83760314b12cc40e3ca6">knjigovodja</comp>
+            </collocation>
+            <collocation form="blagoven knjigovodja" cluster="3" frequency="9" logDice="2.05">
+              <comp position="1" type="collocate" sloleks="LE_d075808e67f57611b52857cbe65d0de6">blagoven</comp>
+              <comp position="2" type="headword" sloleks="LE_469b2a96a29c83760314b12cc40e3ca6">knjigovodja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="sin knjigovodja" cluster="1" frequency="5" logDice="2.64">
+              <comp position="1" type="collocate" sloleks="LE_79e0b2d02a57a50544ca32d11914a5a7">sin</comp>
+              <comp position="2" type="headword" sloleks="LE_469b2a96a29c83760314b12cc40e3ca6">knjigovodja</comp>
+            </collocation>
+            <collocation form="mesto knjigovodja" cluster="2" frequency="9" logDice="1.31">
+              <comp position="1" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesto</comp>
+              <comp position="2" type="headword" sloleks="LE_469b2a96a29c83760314b12cc40e3ca6">knjigovodja</comp>
+            </collocation>
+            <collocation form="društvo knjigovodja" cluster="3" frequency="5" logDice="0.88">
+              <comp position="1" type="collocate" sloleks="LE_f1fd3c17e2206150a5ab762769b6e8ff">društvo</comp>
+              <comp position="2" type="headword" sloleks="LE_469b2a96a29c83760314b12cc40e3ca6">knjigovodja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

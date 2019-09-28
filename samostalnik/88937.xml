@@ -1,0 +1,40 @@
+<entry>
+  <header>
+    <lexical_unit id="88937">skicirka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">404</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="skicirka z risbo" cluster="1" frequency="4" logDice="8.57">
+              <comp position="1" type="headword" sloleks="LE_2b0bd243e68e78e90ffd09a23c61e9e0">skicirka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_2d472b171e2b5313c89e8e24d787e4e7">risbo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="hoditi s skicirko" cluster="1" frequency="4" logDice="4.45">
+              <comp position="1" type="collocate" sloleks="LE_ecd5d4ecb63a8422fe3303a9c6e9ae32">hoditi</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_2b0bd243e68e78e90ffd09a23c61e9e0">skicirko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="risba iz skicirke" cluster="1" frequency="4" logDice="8.6">
+              <comp position="1" type="collocate" sloleks="LE_2d472b171e2b5313c89e8e24d787e4e7">risba</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_2b0bd243e68e78e90ffd09a23c61e9e0">skicirke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

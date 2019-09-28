@@ -1,0 +1,29 @@
+<entry>
+  <header>
+    <lexical_unit id="55146">eksekutor</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">488</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="hladnokrven eksekutor" cluster="1" frequency="8" logDice="6.44">
+              <comp position="1" type="collocate" sloleks="LE_965404438be6064b0c53d9596aefd479">hladnokrven</comp>
+              <comp position="2" type="headword" sloleks="LE_a2c37f93209af166acb8060d049c6e35">eksekutor</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="vloga eksekutorja" cluster="1" frequency="20" logDice="2.39">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_a2c37f93209af166acb8060d049c6e35">eksekutorja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

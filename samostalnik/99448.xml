@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="99448">žilavost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">466</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="žilavost materiala" cluster="1" frequency="9" logDice="3.21">
+              <comp position="1" type="headword" sloleks="LE_9b6b4eb08bdda3fe38520c67e8a10d08">žilavost</comp>
+              <comp position="2" type="collocate" sloleks="LE_3c83a59228fd24befce6e7dbf8479f4f">materiala</comp>
+            </collocation>
+            <collocation form="povečanje žilavosti" cluster="2" frequency="6" logDice="1.76">
+              <comp position="1" type="collocate" sloleks="LE_775e9a0b70911bd3453b668832678d14">povečanje</comp>
+              <comp position="2" type="headword" sloleks="LE_9b6b4eb08bdda3fe38520c67e8a10d08">žilavosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="udarna žilavost" cluster="1" frequency="15" logDice="5.33">
+              <comp position="1" type="collocate" sloleks="LE_4788ffbb1899e0d06c3d88d0330ff716">udarna</comp>
+              <comp position="2" type="headword" sloleks="LE_9b6b4eb08bdda3fe38520c67e8a10d08">žilavost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

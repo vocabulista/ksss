@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="72219">nelson</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">387</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="fundacija Nelsona" cluster="1" frequency="6" logDice="6.71">
+              <comp position="1" type="collocate" sloleks="LE_bc4a479cd68c7de5d75c721466109250">fundacija</comp>
+              <comp position="2" type="headword" sloleks="LE_53a316fcbc780a62c0655fc38919c59b">Nelsona</comp>
+            </collocation>
+            <collocation form="svoboda Nelsona" cluster="2" frequency="12" logDice="4.03">
+              <comp position="1" type="collocate" sloleks="LE_f2f25505d5bc8c549facef02b8fbcc04">svoboda</comp>
+              <comp position="2" type="headword" sloleks="LE_53a316fcbc780a62c0655fc38919c59b">Nelsona</comp>
+            </collocation>
+            <collocation form="sklad Nelsona" cluster="3" frequency="7" logDice="2.49">
+              <comp position="1" type="collocate" sloleks="LE_799c26a9ef189681d32106d72cb282a0">sklad</comp>
+              <comp position="2" type="headword" sloleks="LE_53a316fcbc780a62c0655fc38919c59b">Nelsona</comp>
+            </collocation>
+            <collocation form="nelson Mandele" cluster="4" frequency="99" logDice="12.05">
+              <comp position="1" type="headword" sloleks="LE_53a316fcbc780a62c0655fc38919c59b">nelson</comp>
+              <comp position="2" type="collocate" sloleks="LE_f1c8222eaf894c063ad603abc5817f04|LE_760dad2cd1b2dcd1abd6e4c79ccda5b5">Mandele</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="film o Nelsonu" cluster="1" frequency="21" logDice="4.02">
+              <comp position="1" type="collocate" sloleks="LE_ef1ac12433b4b7e1e0c31edb0c726d89">film</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_53a316fcbc780a62c0655fc38919c59b">Nelsonu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="srečanje z Nelsonom" cluster="1" frequency="8" logDice="2.76">
+              <comp position="1" type="collocate" sloleks="LE_779fa188c4acb969e9354bb72d376b6d">srečanje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_53a316fcbc780a62c0655fc38919c59b">Nelsonom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

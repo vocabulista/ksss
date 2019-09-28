@@ -1,0 +1,67 @@
+<entry>
+  <header>
+    <lexical_unit id="56973">fundus</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">598</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="fundus HTV" cluster="1" frequency="18" logDice="10.39">
+              <comp position="1" type="headword" sloleks="LE_9d6a93762b41e6d4cd675078447c817e">fundus</comp>
+              <comp position="2" type="collocate" sloleks="LE_188cca950d5caca15bc61944ae16ad2a|LE_a5efb2903f4194d35efed06ce55a7a48">HTV</comp>
+            </collocation>
+            <collocation form="fundus galerije" cluster="2" frequency="8" logDice="4.26">
+              <comp position="1" type="headword" sloleks="LE_9d6a93762b41e6d4cd675078447c817e">fundus</comp>
+              <comp position="2" type="collocate" sloleks="LE_0bd27f88aedb85ccf93891ce3c58c7e6">galerije</comp>
+            </collocation>
+            <collocation form="fundus stavbe" cluster="3" frequency="10" logDice="3.31">
+              <comp position="1" type="headword" sloleks="LE_9d6a93762b41e6d4cd675078447c817e">fundus</comp>
+              <comp position="2" type="collocate" sloleks="LE_d6a366f04b453f7b73bf85471dedf273">stavbe</comp>
+            </collocation>
+            <collocation form="fundus gledališča" cluster="3" frequency="9" logDice="3.14">
+              <comp position="1" type="headword" sloleks="LE_9d6a93762b41e6d4cd675078447c817e">fundus</comp>
+              <comp position="2" type="collocate" sloleks="LE_9fe96d8226476bff101c6dfd171ff0f4">gledališča</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="imeti v fundusu" cluster="1" frequency="5" logDice="-0.65">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_9d6a93762b41e6d4cd675078447c817e">fundusu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="gledališki fundus" cluster="1" frequency="16" logDice="2.83">
+              <comp position="1" type="collocate" sloleks="LE_905a71a4ea38105ad5fdbd87bbf1d90e">gledališki</comp>
+              <comp position="2" type="headword" sloleks="LE_9d6a93762b41e6d4cd675078447c817e">fundus</comp>
+            </collocation>
+            <collocation form="bogat fundus" cluster="2" frequency="9" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_dced9b89c62a9351467866138eb9d57d">bogat</comp>
+              <comp position="2" type="headword" sloleks="LE_9d6a93762b41e6d4cd675078447c817e">fundus</comp>
+            </collocation>
+            <collocation form="televizijski fundus" cluster="3" frequency="8" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_2e9d37c8647ad3002e4f927d5330c563">televizijski</comp>
+              <comp position="2" type="headword" sloleks="LE_9d6a93762b41e6d4cd675078447c817e">fundus</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="kostum iz fundusa" cluster="1" frequency="5" logDice="9.51">
+              <comp position="1" type="collocate" sloleks="LE_e64d9bc58890a5572afc431fbc814475">kostum</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_9d6a93762b41e6d4cd675078447c817e">fundusa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

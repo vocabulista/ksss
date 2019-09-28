@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="71005">nadučitelj</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">440</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="gornjegrajski nadučitelj" cluster="1" frequency="15" logDice="7.97">
+              <comp position="1" type="collocate" sloleks="LE_fc3fe4ac55760c4ee3b650f4dfc12bb3">gornjegrajski</comp>
+              <comp position="2" type="headword" sloleks="LE_af0058c9e1158f406ccbd0214ddafcb1">nadučitelj</comp>
+            </collocation>
+            <collocation form="takraten nadučitelj" cluster="2" frequency="8" logDice="2.1">
+              <comp position="1" type="collocate" sloleks="LE_8e434c78026afd9fc639dbd745261e26">takraten</comp>
+              <comp position="2" type="headword" sloleks="LE_af0058c9e1158f406ccbd0214ddafcb1">nadučitelj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="pobuda nadučitelja" cluster="1" frequency="7" logDice="3.14">
+              <comp position="1" type="collocate" sloleks="LE_0e157023e7803534aba420a52c307c19">pobuda</comp>
+              <comp position="2" type="headword" sloleks="LE_af0058c9e1158f406ccbd0214ddafcb1">nadučitelja</comp>
+            </collocation>
+            <collocation form="družina nadučitelja" cluster="2" frequency="5" logDice="2.71">
+              <comp position="1" type="collocate" sloleks="LE_9a7d912c8ec5a6cbc42d2975b5563b34">družina</comp>
+              <comp position="2" type="headword" sloleks="LE_af0058c9e1158f406ccbd0214ddafcb1">nadučitelja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,975 @@
+<entry>
+  <header>
+    <lexical_unit id="92907">tekstil</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">7490</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz5">
+          <collocations>
+            <collocation form="tekstil na ulici" cluster="1" frequency="9" logDice="3.7">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_554c79ab5e7baf29f70e8135a860c0e8">ulici</comp>
+            </collocation>
+            <collocation form="tekstil na lokaciji" cluster="2" frequency="4" logDice="3.59">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_e6c9530c024ea7e27466163b1a94b9f5">lokaciji</comp>
+            </collocation>
+            <collocation form="tekstil na fakulteti" cluster="3" frequency="5" logDice="2.73">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_00551f6b0565bbceaf188a9fddd79b4d">fakulteti</comp>
+            </collocation>
+            <collocation form="tekstil na cesti" cluster="4" frequency="6" logDice="1.67">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_0e822f9721ddeb3fd7d90e02f70c9a2f">cesti</comp>
+            </collocation>
+            <collocation form="tekstil na trgu" cluster="5" frequency="6" logDice="0.69">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_b735dfd291d0abd31eeabd75c4133487">trgu</comp>
+            </collocation>
+            <collocation form="madež na tekstilu" cluster="6" frequency="12" logDice="7.93">
+              <comp position="1" type="collocate" sloleks="LE_496b6d8de965434dfaca11695d4ea1ae">madež</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilu</comp>
+            </collocation>
+            <collocation form="vzorec na tekstilu" cluster="7" frequency="7" logDice="7.44">
+              <comp position="1" type="collocate" sloleks="LE_5042c4687567fc53efbfd828e5440371">vzorec</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="tekstil v KRANJ" cluster="1" frequency="5" logDice="7.4">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="">KRANJ</comp>
+            </collocation>
+            <collocation form="Tekstil v stečaju" cluster="2" frequency="4" logDice="4.99">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">Tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_ad39fd6c8748c29b49b7dab3d28d7ad2">stečaju</comp>
+            </collocation>
+            <collocation form="tekstil v Sloveniji" cluster="3" frequency="8" logDice="0.31">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Sloveniji</comp>
+            </collocation>
+            <collocation form="tekstil v mestu" cluster="3" frequency="7" logDice="1.56">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mestu</comp>
+            </collocation>
+            <collocation form="tekstil v prostoru" cluster="3" frequency="5" logDice="1.79">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostoru</comp>
+            </collocation>
+            <collocation form="tekstil v Evropi" cluster="3" frequency="5" logDice="1.42">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_0c70d71bb49cb550bb4e854282407723">Evropi</comp>
+            </collocation>
+            <collocation form="tekstil v okviru" cluster="4" frequency="6" logDice="1.68">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_7ad9953b27a13e215544d77e1a778983">okviru</comp>
+            </collocation>
+            <collocation form="tekstil v obsegu" cluster="4" frequency="4" logDice="4.48">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_664a95da2cc6b19f039092a59f3a525f">obsegu</comp>
+            </collocation>
+            <collocation form="tekstil v barvi" cluster="5" frequency="6" logDice="4.06">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_d066cf8419aa6609519c184ed701618e">barvi</comp>
+            </collocation>
+            <collocation form="tekstil v ulici" cluster="6" frequency="5" logDice="3.26">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_554c79ab5e7baf29f70e8135a860c0e8">ulici</comp>
+            </collocation>
+            <collocation form="tekstil v trgovini" cluster="6" frequency="4" logDice="2.89">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_e6520ed1b394dc72516ec7ff3398e16c">trgovini</comp>
+            </collocation>
+            <collocation form="razmera v Tekstilu" cluster="7" frequency="4" logDice="1.84">
+              <comp position="1" type="collocate" sloleks="LE_f9cdd3c7dab1cb0cac2577ae8e353759">razmera</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">Tekstilu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz2">
+          <collocations>
+            <collocation form="tekstil za odstotka" cluster="1" frequency="4" logDice="2.31">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_11ff641b777a9bdc2060c997d306c118">odstotka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="prodajati tekstil" cluster="1" frequency="28" logDice="4.76">
+              <comp position="1" type="collocate" sloleks="LE_3f2240489d68f3fe669791a71de84651">prodajati</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="ponujati tekstil" cluster="1" frequency="16" logDice="2.63">
+              <comp position="1" type="collocate" sloleks="LE_88f0935094203778c8c0128032bfb22b">ponujati</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="kupovati tekstil" cluster="1" frequency="8" logDice="3.29">
+              <comp position="1" type="collocate" sloleks="LE_95a562f9a3a897aec1fad7503f871d57">kupovati</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="izdelovati tekstil" cluster="2" frequency="12" logDice="3.86">
+              <comp position="1" type="collocate" sloleks="LE_f2cd6091dbd3db9ab4e533b259e40cf7">izdelovati</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="vsebovati tekstil" cluster="3" frequency="11" logDice="2.4">
+              <comp position="1" type="collocate" sloleks="LE_6ebc5aed70f4b9c95dd96906ce19676c">vsebovati</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="tiskati na tekstil" cluster="1" frequency="5" logDice="8.42">
+              <comp position="1" type="collocate" sloleks="LE_d2f418adc81a60ad5bb55d2e5aa1c6e4">tiskati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="slikati na tekstil" cluster="2" frequency="4" logDice="7.61">
+              <comp position="1" type="collocate" sloleks="LE_33bfaae11fdf9b69b34898233bdd344e">slikati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="nanašati na tekstil" cluster="3" frequency="4" logDice="1.58">
+              <comp position="1" type="collocate" sloleks="LE_46381f291eec79ae96eb98b68f2842c0">nanašati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz o SBZ5">
+          <collocations>
+            <collocation form="vedeti o tekstilu" cluster="1" frequency="14" logDice="5.21">
+              <comp position="1" type="collocate" sloleks="LE_96a1912ad3bc983daf281c87f30e5a02">vedeti</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="pripravljati s tekstilom" cluster="1" frequency="4" logDice="5.14">
+              <comp position="1" type="collocate" sloleks="LE_aa276ee22368f98ca51880c3db9b1ae1">pripravljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+            <collocation form="ukvarjati s tekstilom" cluster="2" frequency="25" logDice="2.7">
+              <comp position="1" type="collocate" sloleks="LE_d218d442858c415bdeff018dc056aea9">ukvarjati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="začeti za tekstil" cluster="1" frequency="4" logDice="4.78">
+              <comp position="1" type="collocate" sloleks="LE_5526be99243d6a70e33b06d3eabd15ae">začeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="iti za tekstil" cluster="2" frequency="5" logDice="-1.28">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="prosenjakovski tekstil" cluster="1" frequency="12" logDice="8.68">
+              <comp position="1" type="collocate" sloleks="LE_528c35c38ab8923907e753d493e47ce6">prosenjakovski</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="netkan tekstil" cluster="2" frequency="12" logDice="8.49">
+              <comp position="1" type="collocate" sloleks="LE_e30e09c52111887a82173d620f3082c4">netkan</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="gospodinjski tekstil" cluster="3" frequency="12" logDice="4.47">
+              <comp position="1" type="collocate" sloleks="LE_286f6e1e8afd7ce7bcaa207283fb7798">gospodinjski</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="kuhinjski tekstil" cluster="3" frequency="12" logDice="4.41">
+              <comp position="1" type="collocate" sloleks="LE_7d2d8bfa023d795a6e7f2f38111f972a">kuhinjski</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="odpaden tekstil" cluster="4" frequency="14" logDice="4.14">
+              <comp position="1" type="collocate" sloleks="LE_596d968242f80f495ecb2e6f5ec40c03">odpaden</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="rabljen tekstil" cluster="5" frequency="9" logDice="4.03">
+              <comp position="1" type="collocate" sloleks="LE_f6b53d615cf929fa998baac1a5760001">rabljen</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="poceni tekstil" cluster="6" frequency="23" logDice="3.84">
+              <comp position="1" type="collocate" sloleks="LE_209d55beca5abfa601d61963c5a648bf">poceni</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="kakovosten tekstil" cluster="6" frequency="9" logDice="1.82">
+              <comp position="1" type="collocate" sloleks="LE_710f6dce892ab63276dc352325c1a355">kakovosten</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="tehničen tekstil" cluster="7" frequency="34" logDice="3.05">
+              <comp position="1" type="collocate" sloleks="LE_35870759c8f0b4c42ca951b12ea7d9bd">tehničen</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="stanovanjski tekstil" cluster="7" frequency="9" logDice="1.33">
+              <comp position="1" type="collocate" sloleks="LE_3917a76508b660426dfe74b81d7cf5aa">stanovanjski</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="otroški tekstil" cluster="8" frequency="9" logDice="1.07">
+              <comp position="1" type="collocate" sloleks="LE_1fbf9a7270f9b230effd46d49123fdff">otroški</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="kitajski tekstil" cluster="9" frequency="63" logDice="4.69">
+              <comp position="1" type="collocate" sloleks="LE_fb185a15f7fbc97760ca90b27e8bf70f">kitajski</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="ljubljanski tekstil" cluster="9" frequency="19" logDice="1.01">
+              <comp position="1" type="collocate" sloleks="LE_2017c528556d77ae4597e9aa4b76d24b">ljubljanski</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="adlešiški tekstil" cluster="10" frequency="8" logDice="7.98">
+              <comp position="1" type="collocate" sloleks="LE_eca02fa70675d817ad3dc1cbfa87ab6e">adlešiški</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="prodajalen tekstil" cluster="11" frequency="21" logDice="6.73">
+              <comp position="1" type="collocate" sloleks="LE_9bafed7ec426a5b257e59fe940fe01ca">prodajalen</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="kopalniški tekstil" cluster="12" frequency="8" logDice="6.56">
+              <comp position="1" type="collocate" sloleks="LE_d32e9950fe89ef419aeb15facad6edfc">kopalniški</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="hišen tekstil" cluster="13" frequency="103" logDice="6.14">
+              <comp position="1" type="collocate" sloleks="LE_cb6e38c18afa735d432d4a58f6be2710">hišen</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="pohištven tekstil" cluster="14" frequency="9" logDice="5.72">
+              <comp position="1" type="collocate" sloleks="LE_c68770a956030d9c380d4fb462524fc0">pohištven</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="dekorativen tekstil" cluster="15" frequency="9" logDice="5.63">
+              <comp position="1" type="collocate" sloleks="LE_b819dc656e5635355071a7ad03f9135d">dekorativen</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="cenen tekstil" cluster="16" frequency="13" logDice="5.41">
+              <comp position="1" type="collocate" sloleks="LE_1e8f6aa2953a6c02256cf3df6ec74490">cenen</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 iz SBZ2">
+          <collocations>
+            <collocation form="izdelan iz tekstila" cluster="1" frequency="10" logDice="5.48">
+              <comp position="1" type="collocate" sloleks="LE_2e30656a603ccd30389840de0af87e22">izdelan</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="narejen iz tekstila" cluster="2" frequency="5" logDice="4.27">
+              <comp position="1" type="collocate" sloleks="LE_1a0f345ebf58dafa96fd143b980fa0bb">narejen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 v SBZ4">
+          <collocations>
+            <collocation form="oblečen v tekstil" cluster="1" frequency="8" logDice="4.63">
+              <comp position="1" type="collocate" sloleks="LE_907ce3a399860e6fabad64ffedee2fd5">oblečen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 v SBZ5">
+          <collocations>
+            <collocation form="zaposlen v tekstilu" cluster="1" frequency="11" logDice="2.89">
+              <comp position="1" type="collocate" sloleks="LE_c33b174db8aa48dfa586d3eadfccf2fe">zaposlen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 z SBZ6">
+          <collocations>
+            <collocation form="založen s tekstilom" cluster="1" frequency="4" logDice="6.72">
+              <comp position="1" type="collocate" sloleks="LE_2b196e811baa91ed3385ccc236028d23|LE_9add4c031d952a4388250695d8b3f97b">založen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+            <collocation form="prekrit s tekstilom" cluster="2" frequency="12" logDice="5.98">
+              <comp position="1" type="collocate" sloleks="LE_9bf76ff78a158c282f06a205d7cf90ff">prekrit</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+            <collocation form="povezan s tekstilom" cluster="3" frequency="6" logDice="0.53">
+              <comp position="1" type="collocate" sloleks="LE_84ef5df7d933128064d85c58468c7559">povezan</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="razprodaja tekstila" cluster="1" frequency="169" logDice="9.72">
+              <comp position="1" type="collocate" sloleks="LE_c7a3ed6601daeb3f2ef4d5be12743f33">razprodaja</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="prodajalka tekstila" cluster="2" frequency="40" logDice="8.38">
+              <comp position="1" type="collocate" sloleks="LE_c6615434acc5ca6c54af8926d625792e">prodajalka</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="sejem tekstila" cluster="3" frequency="49" logDice="6.51">
+              <comp position="1" type="collocate" sloleks="LE_92734f8092514719c471964800f566be">sejem</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="razstava tekstila" cluster="3" frequency="14" logDice="2.7">
+              <comp position="1" type="collocate" sloleks="LE_5360488843496d51e5802aa5c14a1d93">razstava</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="proizvajalec tekstila" cluster="4" frequency="58" logDice="5.52">
+              <comp position="1" type="collocate" sloleks="LE_3bf2375e8c2495b2a135a907b9268843">proizvajalec</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="prodajalec tekstila" cluster="4" frequency="36" logDice="6.46">
+              <comp position="1" type="collocate" sloleks="LE_c111b06cc21d73e72c27cd45219eea83">prodajalec</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="izdelovalec tekstila" cluster="4" frequency="14" logDice="4.56">
+              <comp position="1" type="collocate" sloleks="LE_2c3c4dd55bb31fdd281184e91528e76e">izdelovalec</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="ponudnik tekstila" cluster="4" frequency="9" logDice="3.6">
+              <comp position="1" type="collocate" sloleks="LE_087c79c797be08976739c79b38708e56">ponudnik</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="trgovec tekstila" cluster="4" frequency="5" logDice="5.47">
+              <comp position="1" type="collocate" sloleks="LE_3993e5ce3f42afe24c248b78ce911c44">trgovec</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="izvoznik tekstila" cluster="5" frequency="8" logDice="6.22">
+              <comp position="1" type="collocate" sloleks="LE_dc81ad57f449057bb52af83a461a6d69">izvoznik</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="impregnacija tekstila" cluster="6" frequency="5" logDice="6.19">
+              <comp position="1" type="collocate" sloleks="LE_726bdcb3616098f07df7af1874e9b2bd">impregnacija</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="uvoz tekstila" cluster="7" frequency="88" logDice="7.51">
+              <comp position="1" type="collocate" sloleks="LE_6389f84372cfb59b6b953ae8e1e2029c">uvoz</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="izvoz tekstila" cluster="7" frequency="29" logDice="6.08">
+              <comp position="1" type="collocate" sloleks="LE_d09fe72509c738b07cbd34537cb7425d">izvoz</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="prodaja tekstila" cluster="8" frequency="127" logDice="5.04">
+              <comp position="1" type="collocate" sloleks="LE_73b8ad7802a6ed5de4d0eb5d4f69e0b2">prodaja</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="proizvodnja tekstila" cluster="8" frequency="84" logDice="5.65">
+              <comp position="1" type="collocate" sloleks="LE_4a1754c19d9e05c064189e8d6ddbd00a">proizvodnja</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="nakup tekstila" cluster="8" frequency="25" logDice="2.82">
+              <comp position="1" type="collocate" sloleks="LE_a1ab00519230d9a2b9b9d13c6d348162">nakup</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="uporaba tekstila" cluster="8" frequency="12" logDice="1.04">
+              <comp position="1" type="collocate" sloleks="LE_9999e7dc3b8f5571ba09e352c31aea3f">uporaba</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="prevzem tekstila" cluster="8" frequency="6" logDice="2.39">
+              <comp position="1" type="collocate" sloleks="LE_b2ead7df4b8143cd79c44cccaf330161">prevzem</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="poraba tekstila" cluster="8" frequency="6" logDice="1.73">
+              <comp position="1" type="collocate" sloleks="LE_63e978077b91a4ad7085987f878f0ff7">poraba</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="Dom tekstila" cluster="9" frequency="19" logDice="3.72">
+              <comp position="1" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">Dom</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="trgovina tekstila" cluster="9" frequency="13" logDice="5.53">
+              <comp position="1" type="collocate" sloleks="LE_e6520ed1b394dc72516ec7ff3398e16c">trgovina</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="nega tekstila" cluster="10" frequency="26" logDice="5.47">
+              <comp position="1" type="collocate" sloleks="LE_ce4792790e054aad3207bae501afdc55">nega</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="okraševanje tekstila" cluster="11" frequency="18" logDice="7.66">
+              <comp position="1" type="collocate" sloleks="LE_9b3c2be7147891aeacc3544a6876de7d">okraševanje</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="kosa tekstila" cluster="12" frequency="6" logDice="5.44">
+              <comp position="1" type="collocate" sloleks="LE_87def1c9af1e6ea32b7922cbf7c51455">kosa</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="tiskanje tekstila" cluster="13" frequency="10" logDice="5.42">
+              <comp position="1" type="collocate" sloleks="LE_c4be1624966080c55b282ba082bb4aae">tiskanje</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="oblikovanje tekstila" cluster="14" frequency="87" logDice="5.35">
+              <comp position="1" type="collocate" sloleks="LE_e6837c8d43146ecd172f5bf720d09d3b">oblikovanje</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="obdelava tekstila" cluster="14" frequency="20" logDice="4.6">
+              <comp position="1" type="collocate" sloleks="LE_063b3719783db06d89054c8063d9b18b">obdelava</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="izdelava tekstila" cluster="14" frequency="20" logDice="3.18">
+              <comp position="1" type="collocate" sloleks="LE_58e4c9eb6d6ddc69a009737fc482eaa5">izdelava</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="zbiranje tekstila" cluster="14" frequency="13" logDice="3.22">
+              <comp position="1" type="collocate" sloleks="LE_c8381d5056d7fd8c6f274c0127edf16d">zbiranje</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="predelava tekstila" cluster="14" frequency="9" logDice="3.97">
+              <comp position="1" type="collocate" sloleks="LE_8ee38a462b693737548bdb0b1a59de00">predelava</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="izdelovanje tekstila" cluster="14" frequency="6" logDice="3.68">
+              <comp position="1" type="collocate" sloleks="LE_9713e78e437183b8ace18b6dff563198">izdelovanje</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="čiščenje tekstila" cluster="14" frequency="5" logDice="2.57">
+              <comp position="1" type="collocate" sloleks="LE_a7f24c46cb9b6a4cef834d73f0207d36">čiščenje</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="vzdrževanje tekstila" cluster="14" frequency="5" logDice="2.32">
+              <comp position="1" type="collocate" sloleks="LE_6743d322a85bec0387db75539eea1f33">vzdrževanje</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="Pik Tekstila" cluster="15" frequency="5" logDice="5.31">
+              <comp position="1" type="collocate" sloleks="LE_01575e0e55c4e8ad700937abe9255ffa">Pik</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">Tekstila</comp>
+            </collocation>
+            <collocation form="prodajalna tekstila" cluster="16" frequency="26" logDice="7.23">
+              <comp position="1" type="collocate" sloleks="LE_f74e83132b5a5cc3ac9ab1ad2d95d012">prodajalna</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="skladišče tekstila" cluster="16" frequency="13" logDice="5.3">
+              <comp position="1" type="collocate" sloleks="LE_07e0cbdb3fe8e356567ff7e65c2044f3">skladišče</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="kolekcija tekstila" cluster="17" frequency="10" logDice="5.07">
+              <comp position="1" type="collocate" sloleks="LE_bd6908aaeb495d62557ee1256b30acfa">kolekcija</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="poplava tekstila" cluster="18" frequency="9" logDice="4.88">
+              <comp position="1" type="collocate" sloleks="LE_0114556cd41e492d7e0c4f4dfdf60c88">poplava</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="pranje tekstila" cluster="19" frequency="12" logDice="4.74">
+              <comp position="1" type="collocate" sloleks="LE_97007ec187b59796fac17168c6ec8a54">pranje</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="oddelek tekstila" cluster="20" frequency="21" logDice="4.7">
+              <comp position="1" type="collocate" sloleks="LE_f73286dd6f89a4307b05a1a8ffe3e326">oddelek</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="tovarna tekstila" cluster="20" frequency="18" logDice="4.48">
+              <comp position="1" type="collocate" sloleks="LE_60c081b7fc653e83aaefd97eb413525c">tovarna</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="industrija tekstila" cluster="20" frequency="5" logDice="3.68">
+              <comp position="1" type="collocate" sloleks="LE_813c93f7f0475b7a4bff75c51d2199e8">industrija</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="barvanje tekstila" cluster="21" frequency="32" logDice="7.61">
+              <comp position="1" type="collocate" sloleks="LE_6bab1c0af48b03296f8ba95e8f66ad09">barvanje</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="primerek tekstila" cluster="22" frequency="6" logDice="4.52">
+              <comp position="1" type="collocate" sloleks="LE_94eee3c43378739d78caa386276dd88d">primerek</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="obrat Tekstila" cluster="23" frequency="5" logDice="4.44">
+              <comp position="1" type="collocate" sloleks="LE_1d1328b147257eb6fe15ebed41be981d">obrat</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">Tekstila</comp>
+            </collocation>
+            <collocation form="kos tekstila" cluster="24" frequency="23" logDice="4.25">
+              <comp position="1" type="collocate" sloleks="LE_35ebb87a8e1c98db89588996cdc03ee1">kos</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="ostanek tekstila" cluster="24" frequency="14" logDice="3.72">
+              <comp position="1" type="collocate" sloleks="LE_1e8f1a48f0110a2a2ede2cf44f8963e5">ostanek</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="košček tekstila" cluster="24" frequency="13" logDice="4.23">
+              <comp position="1" type="collocate" sloleks="LE_279fcf200b38552c26c8ff89dd8788a3">košček</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="področje tekstila" cluster="25" frequency="77" logDice="3.26">
+              <comp position="1" type="collocate" sloleks="LE_66c02e1a651f578a71415b967738b69b">področje</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="ponudba tekstila" cluster="25" frequency="33" logDice="4.19">
+              <comp position="1" type="collocate" sloleks="LE_d9e3765be172d6f3372cede08396a2f8">ponudba</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="vrsta tekstila" cluster="25" frequency="32" logDice="1.89">
+              <comp position="1" type="collocate" sloleks="LE_4af9091c01f502e405be7dfe91eedee3">vrsta</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="cena tekstila" cluster="25" frequency="31" logDice="2.29">
+              <comp position="1" type="collocate" sloleks="LE_69b40aa886598a40e47070a0270e9b28">cena</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="program tekstila" cluster="25" frequency="26" logDice="2.51">
+              <comp position="1" type="collocate" sloleks="LE_2da10dc9e8a0e2ff7fd5a1ddd0278e88">program</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="dejavnost tekstila" cluster="25" frequency="10" logDice="2.85">
+              <comp position="1" type="collocate" sloleks="LE_7fd9651ddee6b84cd9c853211be163f8">dejavnost</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="trg tekstila" cluster="25" frequency="9" logDice="1.67">
+              <comp position="1" type="collocate" sloleks="LE_b735dfd291d0abd31eeabd75c4133487">trg</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="kombinacija tekstila" cluster="26" frequency="13" logDice="3.83">
+              <comp position="1" type="collocate" sloleks="LE_b3ef6b5867abbf2b19225d750dea1b9c">kombinacija</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="izbor tekstila" cluster="26" frequency="11" logDice="2.77">
+              <comp position="1" type="collocate" sloleks="LE_dbea8dca0a5d5d74da0f5eea90e9ab2a">izbor</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="vzorec tekstila" cluster="26" frequency="9" logDice="3.31">
+              <comp position="1" type="collocate" sloleks="LE_5042c4687567fc53efbfd828e5440371">vzorec</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="izbira tekstila" cluster="26" frequency="6" logDice="1.56">
+              <comp position="1" type="collocate" sloleks="LE_0183b3b968bada8d6e824d361c1c2bd2">izbira</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="umetnost tekstila" cluster="27" frequency="5" logDice="3.45">
+              <comp position="1" type="collocate" sloleks="LE_14864f40c4c030e3c6501ecbd0a6f10b">umetnost</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="tona tekstila" cluster="28" frequency="9" logDice="3.19">
+              <comp position="1" type="collocate" sloleks="LE_989a633ea8a9775417233a04679c2750">tona</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="kategorija tekstila" cluster="29" frequency="7" logDice="3.06">
+              <comp position="1" type="collocate" sloleks="LE_d0e3eefdc1a83b55b4d626adc400fe1a">kategorija</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="kg tekstila" cluster="30" frequency="5" logDice="3.05">
+              <comp position="1" type="collocate" sloleks="LE_85ff9c3b54a0c996dbb6d0657cf20797">kg</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="direktor tekstila" cluster="31" frequency="12" logDice="0.69">
+              <comp position="1" type="collocate" sloleks="LE_763835e34caf105b4a0b3bffedd2d5af">direktor</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="lastnik tekstila" cluster="31" frequency="9" logDice="1.13">
+              <comp position="1" type="collocate" sloleks="LE_66c7de1ac3f03dd18265b3091c93bdc0">lastnik</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="sindikat tekstila" cluster="31" frequency="6" logDice="2.66">
+              <comp position="1" type="collocate" sloleks="LE_80e7b021fab77747f0a899778050b67d">sindikat</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="delnica Tekstila" cluster="32" frequency="13" logDice="2.52">
+              <comp position="1" type="collocate" sloleks="LE_a4c3bc7b70a19466bd299690c070a28a">delnica</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">Tekstila</comp>
+            </collocation>
+            <collocation form="oblikovalka tekstila" cluster="33" frequency="17" logDice="6.79">
+              <comp position="1" type="collocate" sloleks="LE_b8598e2ba28a338abf4eadf43cca572f">oblikovalka</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="poškodba tekstila" cluster="34" frequency="5" logDice="2.03">
+              <comp position="1" type="collocate" sloleks="LE_0994f5c2b3a70992ee63cf34cf4e3fa1">poškodba</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="meter tekstila" cluster="35" frequency="6" logDice="1.78">
+              <comp position="1" type="collocate" sloleks="LE_96416f564fd79bcb2ab6d5a01007b242">meter</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="označevanje tekstila" cluster="36" frequency="31" logDice="6.77">
+              <comp position="1" type="collocate" sloleks="LE_0eca9e641173c80c015852159de074d4">označevanje</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="prodajanje tekstila" cluster="37" frequency="13" logDice="6.55">
+              <comp position="1" type="collocate" sloleks="LE_36a89a90cde69893000569200b0ce360">prodajanje</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="poslikava tekstila" cluster="38" frequency="13" logDice="6.53">
+              <comp position="1" type="collocate" sloleks="LE_c646fb846cd6f0e7e9131186d3279237">poslikava</comp>
+              <comp position="2" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="stenj iz tekstila" cluster="1" frequency="5" logDice="9.9">
+              <comp position="1" type="collocate" sloleks="LE_07c4be14b9e07899a939186fee92cabf">stenj</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="tapeta iz tekstila" cluster="2" frequency="4" logDice="9.35">
+              <comp position="1" type="collocate" sloleks="LE_e9940dbe2c3740088bd66b8695174464">tapeta</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="vrečka iz tekstila" cluster="3" frequency="6" logDice="8.19">
+              <comp position="1" type="collocate" sloleks="LE_7ed7e6d228d94919d1cea5e16ebcb593">vrečka</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="embalaža iz tekstila" cluster="3" frequency="4" logDice="7.83">
+              <comp position="1" type="collocate" sloleks="LE_37f618bd8b50b0f61fd31aa28f5c68ed">embalaža</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="dodatek iz tekstila" cluster="4" frequency="5" logDice="7.62">
+              <comp position="1" type="collocate" sloleks="LE_b823bdcf315aa4e078f3dbc0741bde3b">dodatek</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="izdelek iz tekstila" cluster="5" frequency="37" logDice="6.49">
+              <comp position="1" type="collocate" sloleks="LE_bbffae950f5cec8d80d5d541602c3313">izdelek</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="oblačilo iz tekstila" cluster="5" frequency="8" logDice="7.32">
+              <comp position="1" type="collocate" sloleks="LE_bd99cf35070ea402a178ea6ec61df2cc">oblačilo</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="predmet iz tekstila" cluster="5" frequency="4" logDice="5.21">
+              <comp position="1" type="collocate" sloleks="LE_d51cd609db6fe289654ca191c3ec4f9a">predmet</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="obloga iz tekstila" cluster="6" frequency="4" logDice="7.08">
+              <comp position="1" type="collocate" sloleks="LE_8bc3beb9bd2a7b60ec1d5c5430cf923a">obloga</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+            <collocation form="tekstil iz Adlešičev" cluster="7" frequency="10" logDice="9.82">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_e4b0ea40b285e35ff314b8131e9b8eae">Adlešičev</comp>
+            </collocation>
+            <collocation form="tekstil iz Kitajske" cluster="8" frequency="15" logDice="8.47">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_6971a8ca9eb35a594184055bfe2ec710">Kitajske</comp>
+            </collocation>
+            <collocation form="tekstil iz bombaža" cluster="9" frequency="4" logDice="7.41">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_935aaf5ed8bbce284a91d5e4c9544ca1">bombaža</comp>
+            </collocation>
+            <collocation form="tekstil iz Ljubljane" cluster="10" frequency="9" logDice="2.9">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee11c4f6f901052d38c8252202477c9e">Ljubljane</comp>
+            </collocation>
+            <collocation form="tekstil iz države" cluster="11" frequency="7" logDice="2.28">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">države</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ4">
+          <collocations>
+            <collocation form="sitotisk na tekstil" cluster="1" frequency="6" logDice="11.31">
+              <comp position="1" type="collocate" sloleks="LE_02d943cb0bfc6785a112fc05a6eb0d7f">sitotisk</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="tisk na tekstil" cluster="2" frequency="13" logDice="9.92">
+              <comp position="1" type="collocate" sloleks="LE_aafa3921c770ed248b2daed6c4417ef2">tisk</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="risanje na tekstil" cluster="3" frequency="4" logDice="9.01">
+              <comp position="1" type="collocate" sloleks="LE_d592da2e1ac84ea59cc5f73b00be4a7c">risanje</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="slikanje na tekstil" cluster="4" frequency="7" logDice="8.01">
+              <comp position="1" type="collocate" sloleks="LE_4ad471611187590b97b9fb89ef414601">slikanje</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="članek o Tekstilu" cluster="1" frequency="4" logDice="3.99">
+              <comp position="1" type="collocate" sloleks="LE_7b76be0a2bcca59d06b588fb3688bdd2">članek</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">Tekstilu</comp>
+            </collocation>
+            <collocation form="sporazum o tekstilu" cluster="2" frequency="6" logDice="2.86">
+              <comp position="1" type="collocate" sloleks="LE_97c581d1292054530db7e9f7cfdd7557">sporazum</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ2">
+          <collocations>
+            <collocation form="madež s tekstila" cluster="1" frequency="5" logDice="9.52">
+              <comp position="1" type="collocate" sloleks="LE_496b6d8de965434dfaca11695d4ea1ae">madež</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstila</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="trgovina s tekstilom" cluster="1" frequency="327" logDice="8.43">
+              <comp position="1" type="collocate" sloleks="LE_e6520ed1b394dc72516ec7ff3398e16c">trgovina</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+            <collocation form="prodajalna s tekstilom" cluster="1" frequency="67" logDice="9.75">
+              <comp position="1" type="collocate" sloleks="LE_f74e83132b5a5cc3ac9ab1ad2d95d012">prodajalna</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+            <collocation form="opremljevalec s tekstilom" cluster="2" frequency="9" logDice="8.66">
+              <comp position="1" type="collocate" sloleks="LE_601a8a297737d6d0e26bb0e389ba549e">opremljevalec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+            <collocation form="oddelek s tekstilom" cluster="3" frequency="7" logDice="6.64">
+              <comp position="1" type="collocate" sloleks="LE_f73286dd6f89a4307b05a1a8ffe3e326">oddelek</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+            <collocation form="poletje s TEKSTILOM" cluster="4" frequency="4" logDice="6.23">
+              <comp position="1" type="collocate" sloleks="LE_b06e2bd9b91500201704bb0ef89a42ea">poletje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">TEKSTILOM</comp>
+            </collocation>
+            <collocation form="stojnica s tekstilom" cluster="5" frequency="4" logDice="5.5">
+              <comp position="1" type="collocate" sloleks="LE_485c278083d942fb8e3b71dfa0b31e0d">stojnica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+            <collocation form="tržnica s tekstilom" cluster="5" frequency="4" logDice="6.68">
+              <comp position="1" type="collocate" sloleks="LE_58ef3ffa045ce4268bd6c09acc7f1c99">tržnica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+            <collocation form="trgovanje s tekstilom" cluster="6" frequency="14" logDice="5.04">
+              <comp position="1" type="collocate" sloleks="LE_ef126895c8ab9ba6cd2b122c02fd121e">trgovanje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+            <collocation form="kombinacija s tekstilom" cluster="7" frequency="6" logDice="3.97">
+              <comp position="1" type="collocate" sloleks="LE_b3ef6b5867abbf2b19225d750dea1b9c">kombinacija</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+            <collocation form="sodelovanje s tekstilom" cluster="8" frequency="13" logDice="2.25">
+              <comp position="1" type="collocate" sloleks="LE_5d0ed32540572fbd41d712e9a23fadb1">sodelovanje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+            <collocation form="zveza s tekstilom" cluster="8" frequency="6" logDice="0.48">
+              <comp position="1" type="collocate" sloleks="LE_f685db62cc2d867e40d31988d86fbd1e">zveza</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+            <collocation form="promet s tekstilom" cluster="8" frequency="5" logDice="3.56">
+              <comp position="1" type="collocate" sloleks="LE_325a5cddba50a22446da08f7ab272dff">promet</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+            <collocation form="delo s tekstilom" cluster="8" frequency="5" logDice="1.77">
+              <comp position="1" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+            <collocation form="trgovec s tekstilom" cluster="9" frequency="84" logDice="8.38">
+              <comp position="1" type="collocate" sloleks="LE_3993e5ce3f42afe24c248b78ce911c44">trgovec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+            <collocation form="pobot s Tekstilom" cluster="10" frequency="6" logDice="7.83">
+              <comp position="1" type="collocate" sloleks="LE_e67ad15f340acb8b6100194b1c301603">pobot</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">Tekstilom</comp>
+            </collocation>
+            <collocation form="Madžar s tekstilom" cluster="11" frequency="5" logDice="7.73">
+              <comp position="1" type="collocate" sloleks="LE_9e344946519ddda6f63629606fc316c2">Madžar</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+            <collocation form="ustvarjanje s tekstilom" cluster="12" frequency="5" logDice="7.23">
+              <comp position="1" type="collocate" sloleks="LE_a9b8f505a91792fd791348acd2dd1604">ustvarjanje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+            <collocation form="veriga s tekstilom" cluster="13" frequency="4" logDice="6.76">
+              <comp position="1" type="collocate" sloleks="LE_347d5b5ac772b9f1f32024b5bd186f23">veriga</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+            <collocation form="trgovinica s tekstilom" cluster="14" frequency="4" logDice="6.68">
+              <comp position="1" type="collocate" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+            <collocation form="tekstil s pomočjo" cluster="15" frequency="5" logDice="2.37">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_84e3f9e3c4e9e1abf42cc69c125b0b58">pomočjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="atelje za tekstil" cluster="1" frequency="14" logDice="9.56">
+              <comp position="1" type="collocate" sloleks="LE_324f67bc3e28b570cefa4cb07d1b6c0b">atelje</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="barva za tekstil" cluster="2" frequency="74" logDice="9.52">
+              <comp position="1" type="collocate" sloleks="LE_d066cf8419aa6609519c184ed701618e">barva</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="vzorec za tekstil" cluster="2" frequency="8" logDice="7.1">
+              <comp position="1" type="collocate" sloleks="LE_5042c4687567fc53efbfd828e5440371">vzorec</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="omejitev za tekstil" cluster="3" frequency="4" logDice="5.73">
+              <comp position="1" type="collocate" sloleks="LE_e47a77d028bde9f0f39a581d3ff3a365">omejitev</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="oddelek za tekstil" cluster="4" frequency="15" logDice="3.29">
+              <comp position="1" type="collocate" sloleks="LE_f73286dd6f89a4307b05a1a8ffe3e326">oddelek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="fakulteta za tekstil" cluster="4" frequency="8" logDice="2.82">
+              <comp position="1" type="collocate" sloleks="LE_00551f6b0565bbceaf188a9fddd79b4d">fakulteta</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="združenje za tekstil" cluster="4" frequency="7" logDice="4.42">
+              <comp position="1" type="collocate" sloleks="LE_7a22a73126b77d071ee8e6cf0ef9b2cb">združenje</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="inštitut za tekstil" cluster="4" frequency="4" logDice="2.06">
+              <comp position="1" type="collocate" sloleks="LE_656c06c9eac2e2d364a723c828c33be4">inštitut</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="šola za tekstil" cluster="5" frequency="5" logDice="2.92">
+              <comp position="1" type="collocate" sloleks="LE_9c664dac39a3cc920d3849a80fadafa1">šola</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="komisija za tekstil" cluster="5" frequency="5" logDice="1.7">
+              <comp position="1" type="collocate" sloleks="LE_1d71b650207bc9d89d6fe3df1de3762a">komisija</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="strokovnjak za tekstil" cluster="5" frequency="4" logDice="2.72">
+              <comp position="1" type="collocate" sloleks="LE_f148c89ddbbfc6907ba9fc0273aa62b7">strokovnjak</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="lepilo za tekstil" cluster="6" frequency="14" logDice="8.66">
+              <comp position="1" type="collocate" sloleks="LE_b125e927c8fd7445927f0f5fb1bbc621">lepilo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="barvilo za tekstil" cluster="7" frequency="4" logDice="7.59">
+              <comp position="1" type="collocate" sloleks="LE_162d7b37dc23588eaa0aa60dec564275">barvilo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="sekcija za tekstil" cluster="8" frequency="19" logDice="7.23">
+              <comp position="1" type="collocate" sloleks="LE_cb3b39a40d85a1a144367c526c1e50f3">sekcija</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="delavnica za tekstil" cluster="9" frequency="22" logDice="6.73">
+              <comp position="1" type="collocate" sloleks="LE_cdb16d4c515c146a270237e7a121813e">delavnica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="sejem za tekstil" cluster="9" frequency="6" logDice="7.04">
+              <comp position="1" type="collocate" sloleks="LE_92734f8092514719c471964800f566be">sejem</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="kvota za tekstil" cluster="10" frequency="6" logDice="6.14">
+              <comp position="1" type="collocate" sloleks="LE_01cac364a3a64a2aad121dbee8650b96">kvota</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+            </collocation>
+            <collocation form="tekstil za gospodinjstvo" cluster="11" frequency="31" logDice="9.1">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_a984c18d8833c7631ae8127be462f14a">gospodinjstvo</comp>
+            </collocation>
+            <collocation form="tekstil za dom" cluster="12" frequency="41" logDice="8.05">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">dom</comp>
+            </collocation>
+            <collocation form="tekstil za zaveso" cluster="13" frequency="5" logDice="7.91">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_65e0058b919fcb99376728f4f63017e8">zaveso</comp>
+            </collocation>
+            <collocation form="tekstil za opremo" cluster="14" frequency="7" logDice="5.61">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_7c582f88b553e5dc3aeb56af36d217ec">opremo</comp>
+            </collocation>
+            <collocation form="tekstil za industrijo" cluster="15" frequency="5" logDice="5.2">
+              <comp position="1" type="headword" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstil</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_813c93f7f0475b7a4bff75c51d2199e8">industrijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

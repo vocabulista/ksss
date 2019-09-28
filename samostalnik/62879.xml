@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="62879">kanonizacija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">429</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="kanonizacija ustanovitelja" cluster="1" frequency="8" logDice="5.75">
+              <comp position="1" type="headword" sloleks="LE_e0fb686fae74dc3fd1e30393afce56b4">kanonizacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_90e246f5381aefe7642762e1384741ff">ustanovitelja</comp>
+            </collocation>
+            <collocation form="kanonizacija svetnika" cluster="2" frequency="11" logDice="4.44">
+              <comp position="1" type="headword" sloleks="LE_e0fb686fae74dc3fd1e30393afce56b4">kanonizacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_c3a391e25fd2c2e6de3f35967dfc9a7c">svetnika</comp>
+            </collocation>
+            <collocation form="proces kanonizacije" cluster="3" frequency="19" logDice="3.53">
+              <comp position="1" type="collocate" sloleks="LE_16c53d1ebb90a9bc6324b676ef5003b8">proces</comp>
+              <comp position="2" type="headword" sloleks="LE_e0fb686fae74dc3fd1e30393afce56b4">kanonizacije</comp>
+            </collocation>
+            <collocation form="postopek kanonizacije" cluster="4" frequency="22" logDice="2.91">
+              <comp position="1" type="collocate" sloleks="LE_775481f1f5ba42be7d6b3125176050cb">postopek</comp>
+              <comp position="2" type="headword" sloleks="LE_e0fb686fae74dc3fd1e30393afce56b4">kanonizacije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Slomškova kanonizacija" cluster="1" frequency="8" logDice="5.64">
+              <comp position="1" type="collocate" sloleks="LE_c4aaf933ed7516b227d1413f227cbbf0">Slomškova</comp>
+              <comp position="2" type="headword" sloleks="LE_e0fb686fae74dc3fd1e30393afce56b4">kanonizacija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="postulator za kanonizacijo" cluster="1" frequency="4" logDice="10.64">
+              <comp position="1" type="collocate" sloleks="">postulator</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_e0fb686fae74dc3fd1e30393afce56b4">kanonizacijo</comp>
+            </collocation>
+            <collocation form="proces za kanonizacijo" cluster="2" frequency="9" logDice="8.21">
+              <comp position="1" type="collocate" sloleks="LE_16c53d1ebb90a9bc6324b676ef5003b8">proces</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_e0fb686fae74dc3fd1e30393afce56b4">kanonizacijo</comp>
+            </collocation>
+            <collocation form="postopek za kanonizacijo" cluster="3" frequency="21" logDice="4.52">
+              <comp position="1" type="collocate" sloleks="LE_775481f1f5ba42be7d6b3125176050cb">postopek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_e0fb686fae74dc3fd1e30393afce56b4">kanonizacijo</comp>
+            </collocation>
+            <collocation form="komisija za kanonizacijo" cluster="4" frequency="4" logDice="1.39">
+              <comp position="1" type="collocate" sloleks="LE_1d71b650207bc9d89d6fe3df1de3762a">komisija</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_e0fb686fae74dc3fd1e30393afce56b4">kanonizacijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

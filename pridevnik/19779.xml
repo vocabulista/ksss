@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="19779">izceden</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">733</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="izcedna voda" cluster="1" frequency="704" logDice="6.8">
+              <comp position="1" type="headword" sloleks="LE_08a9e1c5f1661bbb6b1cb5e4f92103a9">izcedna</comp>
+              <comp position="2" type="collocate" sloleks="LE_0d8cbba4e56fea63657ac746d29cd047">voda</comp>
+            </collocation>
+            <collocation form="izceden vod" cluster="2" frequency="12" logDice="4.91">
+              <comp position="1" type="headword" sloleks="LE_08a9e1c5f1661bbb6b1cb5e4f92103a9">izceden</comp>
+              <comp position="2" type="collocate" sloleks="LE_163ca2432775d9d15524510a5ac69857">vod</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz2">
+          <collocations>
+            <collocation form="izceden vode" cluster="1" frequency="16" logDice="8.95">
+              <comp position="1" type="headword" sloleks="LE_08a9e1c5f1661bbb6b1cb5e4f92103a9">izceden</comp>
+              <comp position="2" type="collocate" sloleks="LE_0d8cbba4e56fea63657ac746d29cd047">vode</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

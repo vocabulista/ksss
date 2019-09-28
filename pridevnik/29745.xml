@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="29745">posttravmatski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">427</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="posttravmatski sindrom" cluster="1" frequency="116" logDice="8.73">
+              <comp position="1" type="headword" sloleks="LE_ff9072aa5331c3e8f8ef0828a895b2ca">posttravmatski</comp>
+              <comp position="2" type="collocate" sloleks="LE_bf0c5212a7b89404b136b3e8066d2a94">sindrom</comp>
+            </collocation>
+            <collocation form="posttravmatski stres" cluster="2" frequency="77" logDice="8.01">
+              <comp position="1" type="headword" sloleks="LE_ff9072aa5331c3e8f8ef0828a895b2ca">posttravmatski</comp>
+              <comp position="2" type="collocate" sloleks="LE_08986f6d7423e1509b66ea3014632006">stres</comp>
+            </collocation>
+            <collocation form="posttravmatska motnja" cluster="3" frequency="169" logDice="7.48">
+              <comp position="1" type="headword" sloleks="LE_ff9072aa5331c3e8f8ef0828a895b2ca">posttravmatska</comp>
+              <comp position="2" type="collocate" sloleks="LE_e07067dc89f16fa43aba5c323406c3a7">motnja</comp>
+            </collocation>
+            <collocation form="posttravmatska reakcija" cluster="4" frequency="18" logDice="4.58">
+              <comp position="1" type="headword" sloleks="LE_ff9072aa5331c3e8f8ef0828a895b2ca">posttravmatska</comp>
+              <comp position="2" type="collocate" sloleks="LE_a314cc18ca84b3101f505a1c1b53ec3e">reakcija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,52 @@
+<entry>
+  <header>
+    <lexical_unit id="26750">obvestilen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">495</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="obvestilen in opozorilen" cluster="1" frequency="43" logDice="12.58">
+              <comp position="1" type="headword" sloleks="LE_2b15bf25151118da085922544ed8ce7d">obvestilen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_ac635f6ef5762714335c3dfa137074f5">opozorilen</comp>
+            </collocation>
+            <collocation form="obvestilen in usmerjevalen" cluster="2" frequency="6" logDice="9.06">
+              <comp position="1" type="headword" sloleks="LE_2b15bf25151118da085922544ed8ce7d">obvestilen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_024a3babb7e24833351e1ad3191e06b5">usmerjevalen</comp>
+            </collocation>
+            <collocation form="obvestilen in/ali turističen" cluster="3" frequency="6" logDice="4.9">
+              <comp position="3" type="headword" sloleks="LE_2b15bf25151118da085922544ed8ce7d">obvestilen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_f87a89a2e9f5592be2bf24dc755bf6b5">turističen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="obvestilna tabla" cluster="1" frequency="238" logDice="9.33">
+              <comp position="1" type="headword" sloleks="LE_2b15bf25151118da085922544ed8ce7d">obvestilna</comp>
+              <comp position="2" type="collocate" sloleks="LE_d0f751f7a65994a47040469fcb73ddbf">tabla</comp>
+            </collocation>
+            <collocation form="obvestilna signalizacija" cluster="2" frequency="48" logDice="8.16">
+              <comp position="1" type="headword" sloleks="LE_2b15bf25151118da085922544ed8ce7d">obvestilna</comp>
+              <comp position="2" type="collocate" sloleks="LE_3918759abd2669ada74cdfc9ece2fc64">signalizacija</comp>
+            </collocation>
+            <collocation form="obvestilna tabela" cluster="3" frequency="71" logDice="7.92">
+              <comp position="1" type="headword" sloleks="LE_2b15bf25151118da085922544ed8ce7d">obvestilna</comp>
+              <comp position="2" type="collocate" sloleks="LE_7357dc85c218891f99bb60eb3475fffc">tabela</comp>
+            </collocation>
+            <collocation form="obvestilen znak" cluster="4" frequency="50" logDice="4.71">
+              <comp position="1" type="headword" sloleks="LE_2b15bf25151118da085922544ed8ce7d">obvestilen</comp>
+              <comp position="2" type="collocate" sloleks="LE_c14b604b2ebc69adbffa17600b4697c8">znak</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

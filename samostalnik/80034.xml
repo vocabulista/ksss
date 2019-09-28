@@ -1,0 +1,68 @@
+<entry>
+  <header>
+    <lexical_unit id="80034">pomada</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">546</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="pomada iz mesta" cluster="1" frequency="10" logDice="4.25">
+              <comp position="1" type="headword" sloleks="LE_7d605feb8adfaef1eee47fce5be47e67">pomada</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="pomada za težavo" cluster="1" frequency="5" logDice="5.09">
+              <comp position="1" type="headword" sloleks="LE_7d605feb8adfaef1eee47fce5be47e67">pomada</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težavo</comp>
+            </collocation>
+            <collocation form="pomada za las" cluster="2" frequency="4" logDice="3.92">
+              <comp position="1" type="headword" sloleks="LE_7d605feb8adfaef1eee47fce5be47e67">pomada</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_efa5b979af023ef3a1f9a62889d9ad2d">las</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="novomeška pomada" cluster="1" frequency="15" logDice="2.95">
+              <comp position="1" type="collocate" sloleks="LE_0114fbb0b37e42ef3bad163b2339e668">novomeška</comp>
+              <comp position="2" type="headword" sloleks="LE_7d605feb8adfaef1eee47fce5be47e67">pomada</comp>
+            </collocation>
+            <collocation form="mariborska pomada" cluster="1" frequency="9" logDice="1.3">
+              <comp position="1" type="collocate" sloleks="LE_9e7b3c8e7614c63f05c47b7a1a7603ae">mariborska</comp>
+              <comp position="2" type="headword" sloleks="LE_7d605feb8adfaef1eee47fce5be47e67">pomada</comp>
+            </collocation>
+            <collocation form="razna pomada" cluster="2" frequency="8" logDice="1.29">
+              <comp position="1" type="collocate" sloleks="LE_10ab2d5761b41f492d84f334d55dcdd9">razna</comp>
+              <comp position="2" type="headword" sloleks="LE_7d605feb8adfaef1eee47fce5be47e67">pomada</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="delavec Pomade" cluster="1" frequency="6" logDice="2.55">
+              <comp position="1" type="collocate" sloleks="LE_85630a93aeb01535235f6c83e3750975">delavec</comp>
+              <comp position="2" type="headword" sloleks="LE_7d605feb8adfaef1eee47fce5be47e67">Pomade</comp>
+            </collocation>
+            <collocation form="lastnik Pomade" cluster="2" frequency="13" logDice="1.68">
+              <comp position="1" type="collocate" sloleks="LE_66c7de1ac3f03dd18265b3091c93bdc0">lastnik</comp>
+              <comp position="2" type="headword" sloleks="LE_7d605feb8adfaef1eee47fce5be47e67">Pomade</comp>
+            </collocation>
+            <collocation form="direktor Pomade" cluster="3" frequency="19" logDice="1.36">
+              <comp position="1" type="collocate" sloleks="LE_763835e34caf105b4a0b3bffedd2d5af">direktor</comp>
+              <comp position="2" type="headword" sloleks="LE_7d605feb8adfaef1eee47fce5be47e67">Pomade</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

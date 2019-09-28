@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="97914">zaklinjanje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">509</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="zaklinjanje na ustavo" cluster="1" frequency="5" logDice="9.9">
+              <comp position="1" type="headword" sloleks="LE_a434f001aa43b4fc1ccca633913e68e9">zaklinjanje</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_9b840f6c6a543dbfb0c0ddc79eb16ca5">ustavo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="zaklinjanje duha" cluster="1" frequency="10" logDice="3.82">
+              <comp position="1" type="headword" sloleks="LE_a434f001aa43b4fc1ccca633913e68e9">zaklinjanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_6ee0072c41b5aedb3ad1e09029a20809">duha</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="obredno zaklinjanje" cluster="1" frequency="8" logDice="5.98">
+              <comp position="1" type="collocate" sloleks="LE_49b046ac4cd4c8ab9d3413b8663b6ded|LE_593ec79073f67a0263661f8a29f1b23a">obredno</comp>
+              <comp position="2" type="headword" sloleks="LE_a434f001aa43b4fc1ccca633913e68e9">zaklinjanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

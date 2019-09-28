@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="671988">enter</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="pritisniti enter" cluster="1" frequency="106" logDice="9.0">
+              <comp position="1" type="collocate" sloleks="LE_101b4794aa2e90cb4e88ce978a514069">pritisniti</comp>
+              <comp position="2" type="headword" sloleks="">enter</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="aktivirati na Enter" cluster="1" frequency="5" logDice="10.12">
+              <comp position="1" type="collocate" sloleks="LE_53095860f1e626ac63fc1232c1b00c0f">aktivirati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="">Enter</comp>
+            </collocation>
+            <collocation form="pritisniti na Enter" cluster="2" frequency="15" logDice="5.7">
+              <comp position="1" type="collocate" sloleks="LE_101b4794aa2e90cb4e88ce978a514069">pritisniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="">Enter</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ4">
+          <collocations>
+            <collocation form="pritisk na Enter" cluster="1" frequency="95" logDice="7.34">
+              <comp position="1" type="collocate" sloleks="LE_abd1db6acef16fe89dcf7302ae123b1b">pritisk</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="">Enter</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="25630">neotesan</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">629</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="neotesano vedenje" cluster="1" frequency="11" logDice="3.88">
+              <comp position="1" type="headword" sloleks="LE_ee0365ce8c2b2efefbda47ce10dd7c52">neotesano</comp>
+              <comp position="2" type="collocate" sloleks="LE_3bdf5abfb2a566493af53e72977a2683">vedenje</comp>
+            </collocation>
+            <collocation form="neotesano obnašanje" cluster="1" frequency="10" logDice="4.44">
+              <comp position="1" type="headword" sloleks="LE_ee0365ce8c2b2efefbda47ce10dd7c52">neotesano</comp>
+              <comp position="2" type="collocate" sloleks="LE_fa7e99fad8557cb425899963d8ab21c7">obnašanje</comp>
+            </collocation>
+            <collocation form="neotesan človek" cluster="2" frequency="20" logDice="1.04">
+              <comp position="1" type="headword" sloleks="LE_ee0365ce8c2b2efefbda47ce10dd7c52">neotesan</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="neotesan in/ali robat" cluster="1" frequency="5" logDice="8.68">
+              <comp position="3" type="headword" sloleks="LE_ee0365ce8c2b2efefbda47ce10dd7c52">neotesan</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_4af39e297a2c97120e63ac68790b9a59">robat</comp>
+              </collocation>
+            <collocation form="neotesan in/ali grob" cluster="2" frequency="7" logDice="7.34">
+              <comp position="3" type="headword" sloleks="LE_ee0365ce8c2b2efefbda47ce10dd7c52">neotesan</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_665a99c40a4a14ddc8b079199f5c112b">grob</comp>
+              </collocation>
+            <collocation form="neotesan in/ali nesramen" cluster="3" frequency="5" logDice="7.27">
+              <comp position="3" type="headword" sloleks="LE_ee0365ce8c2b2efefbda47ce10dd7c52">neotesan</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_e8c70b132aeff05cafe8d39ec32724b9">nesramen</comp>
+              </collocation>
+            <collocation form="neotesan in surov" cluster="4" frequency="5" logDice="6.9">
+              <comp position="1" type="headword" sloleks="LE_ee0365ce8c2b2efefbda47ce10dd7c52">neotesan</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_261530abdb774ebe20113c06607a377c">surov</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="nekoliko neotesan" cluster="1" frequency="6" logDice="0.74">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_ee0365ce8c2b2efefbda47ce10dd7c52">neotesan</comp>
+            </collocation>
+            <collocation form="res neotesan" cluster="2" frequency="5" logDice="0.68">
+              <comp position="1" type="collocate" sloleks="LE_f755b561969e89364cdbaba990b8838d">res</comp>
+              <comp position="2" type="headword" sloleks="LE_ee0365ce8c2b2efefbda47ce10dd7c52">neotesan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

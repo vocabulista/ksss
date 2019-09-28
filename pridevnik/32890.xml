@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="32890">šablonski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">526</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="šablonska deska" cluster="1" frequency="73" logDice="6.91">
+              <comp position="1" type="headword" sloleks="LE_8ad441ec805326e3a7a5d3031f36006d">šablonska</comp>
+              <comp position="2" type="collocate" sloleks="LE_61d453dffa90487cca874d5e6c4e00d2">deska</comp>
+            </collocation>
+            <collocation form="šablonski lik" cluster="2" frequency="8" logDice="3.21">
+              <comp position="1" type="headword" sloleks="LE_8ad441ec805326e3a7a5d3031f36006d">šablonski</comp>
+              <comp position="2" type="collocate" sloleks="LE_7a23a0805c1d29c24149e4e3feb82b18">lik</comp>
+            </collocation>
+            <collocation form="šablonski odgovor" cluster="3" frequency="7" logDice="1.76">
+              <comp position="1" type="headword" sloleks="LE_8ad441ec805326e3a7a5d3031f36006d">šablonski</comp>
+              <comp position="2" type="collocate" sloleks="LE_6e031483cfd9d26e5eea19be3520c6b2">odgovor</comp>
+            </collocation>
+            <collocation form="šablonska igra" cluster="4" frequency="16" logDice="0.95">
+              <comp position="1" type="headword" sloleks="LE_8ad441ec805326e3a7a5d3031f36006d">šablonska</comp>
+              <comp position="2" type="collocate" sloleks="LE_61ca0973ad331da91acd1b8da555233b">igra</comp>
+            </collocation>
+            <collocation form="šablonska zgodba" cluster="4" frequency="7" logDice="0.63">
+              <comp position="1" type="headword" sloleks="LE_8ad441ec805326e3a7a5d3031f36006d">šablonska</comp>
+              <comp position="2" type="collocate" sloleks="LE_9d9531a39496cd12f07e32ab50c0280f">zgodba</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="preveč šablonski" cluster="1" frequency="14" logDice="2.09">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_8ad441ec805326e3a7a5d3031f36006d">šablonski</comp>
+            </collocation>
+            <collocation form="precej šablonski" cluster="2" frequency="9" logDice="0.5">
+              <comp position="1" type="collocate" sloleks="LE_e0671a56c827200d0ebc033694e6214b">precej</comp>
+              <comp position="2" type="headword" sloleks="LE_8ad441ec805326e3a7a5d3031f36006d">šablonski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

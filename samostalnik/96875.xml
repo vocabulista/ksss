@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="96875">vplivnež</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">601</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="vplivnež iz ozadja" cluster="1" frequency="11" logDice="7.18">
+              <comp position="1" type="headword" sloleks="LE_203663f90979959f5fc7c026d61bbeba">vplivnež</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_bf3b7687a9bf6d4557593ee6c54e0e83">ozadja</comp>
+            </collocation>
+            <collocation form="vplivnež iz stranke" cluster="2" frequency="6" logDice="5.18">
+              <comp position="1" type="headword" sloleks="LE_203663f90979959f5fc7c026d61bbeba">vplivnež</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_945a204a300f28702820c4bc0481d2e7">stranke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="političen vplivnež" cluster="1" frequency="18" logDice="0.57">
+              <comp position="1" type="collocate" sloleks="LE_a3bb12165721c242382f7e67d68cd13a">političen</comp>
+              <comp position="2" type="headword" sloleks="LE_203663f90979959f5fc7c026d61bbeba">vplivnež</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="pritisk vplivneža" cluster="1" frequency="5" logDice="2.77">
+              <comp position="1" type="collocate" sloleks="LE_abd1db6acef16fe89dcf7302ae123b1b">pritisk</comp>
+              <comp position="2" type="headword" sloleks="LE_203663f90979959f5fc7c026d61bbeba">vplivneža</comp>
+            </collocation>
+            <collocation form="interes vplivneža" cluster="2" frequency="5" logDice="1.68">
+              <comp position="1" type="collocate" sloleks="LE_852d4c3cd2b3cd0cc21c88ad76a6c9a7">interes</comp>
+              <comp position="2" type="headword" sloleks="LE_203663f90979959f5fc7c026d61bbeba">vplivneža</comp>
+            </collocation>
+            <collocation form="skupina vplivneža" cluster="3" frequency="9" logDice="0.72">
+              <comp position="1" type="collocate" sloleks="LE_7a31c94cb05484f8e60e8fbc4dad6a50">skupina</comp>
+              <comp position="2" type="headword" sloleks="LE_203663f90979959f5fc7c026d61bbeba">vplivneža</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

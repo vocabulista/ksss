@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="50643">brucka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">787</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Peter brucke" cluster="1" frequency="5" logDice="2.91">
+              <comp position="1" type="collocate" sloleks="LE_a099748664dad33045e948205d577f5a">Peter</comp>
+              <comp position="2" type="headword" sloleks="LE_e2c90c9dae8cb1331fee155b29ede025">brucke</comp>
+            </collocation>
+            <collocation form="ime brucke" cluster="2" frequency="9" logDice="1.1">
+              <comp position="1" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">ime</comp>
+              <comp position="2" type="headword" sloleks="LE_e2c90c9dae8cb1331fee155b29ede025">brucke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="dobrodošlica za brucko" cluster="1" frequency="6" logDice="11.11">
+              <comp position="1" type="collocate" sloleks="LE_4b20c0938010dda6523389f8b584eaf8">dobrodošlica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_e2c90c9dae8cb1331fee155b29ede025">brucko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

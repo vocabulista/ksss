@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="75750">orlič</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">946</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="orlič iz Britofa" cluster="1" frequency="4" logDice="9.01">
+              <comp position="1" type="headword" sloleks="LE_c444e6a0fe7238e46533c473852b4f61">orlič</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_72de5d2a3c19a4765f54d2f814877864">Britofa</comp>
+            </collocation>
+            <collocation form="orlič iz gnezda" cluster="2" frequency="4" logDice="8.19">
+              <comp position="1" type="headword" sloleks="LE_c444e6a0fe7238e46533c473852b4f61">orlič</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_0f6e3abd36f0a5440fde2cfb5f037a3a">gnezda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="mlad orlič" cluster="1" frequency="26" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_0ee11dc77f2b35d3d3b7f2db250e72fb">mlad</comp>
+              <comp position="2" type="headword" sloleks="LE_c444e6a0fe7238e46533c473852b4f61">orlič</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Alan Orliča" cluster="1" frequency="5" logDice="6.48">
+              <comp position="1" type="collocate" sloleks="LE_10eeb3008b20d452eb0b89de9804a997">Alan</comp>
+              <comp position="2" type="headword" sloleks="LE_c444e6a0fe7238e46533c473852b4f61">Orliča</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

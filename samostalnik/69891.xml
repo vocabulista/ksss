@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="69891">mizerija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">601</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="človeška mizerija" cluster="1" frequency="9" logDice="1.42">
+              <comp position="1" type="collocate" sloleks="LE_fe1157a7f633de7dbc0311e392106972">človeška</comp>
+              <comp position="2" type="headword" sloleks="LE_6f8927b5dd5b5ca5c2a568711d2fca23">mizerija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 za SBZ4">
+          <collocations>
+            <collocation form="kriv za mizerijo" cluster="1" frequency="5" logDice="3.89">
+              <comp position="1" type="collocate" sloleks="LE_920a27b1afbbf3b6dfbff3b6d6d60107">kriv</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6f8927b5dd5b5ca5c2a568711d2fca23">mizerijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="pot iz mizerije" cluster="1" frequency="7" logDice="4.82">
+              <comp position="1" type="collocate" sloleks="LE_6f8aa8d4e7c0d678fee98b890a6d1964|LE_97291a922b54c3ec42af6728cfcc7ab2">pot</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_6f8927b5dd5b5ca5c2a568711d2fca23">mizerije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

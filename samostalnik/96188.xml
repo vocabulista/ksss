@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="96188">videotelefonija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">578</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="brezplačna videotelefonija" cluster="1" frequency="9" logDice="2.07">
+              <comp position="1" type="collocate" sloleks="LE_f13c5bc96c18cc8717178cb956a5d153">brezplačna</comp>
+              <comp position="2" type="headword" sloleks="LE_cffec3999546b7acfed8049a3078a3b5">videotelefonija</comp>
+            </collocation>
+            <collocation form="namenjena videotelefonija" cluster="2" frequency="13" logDice="1.32">
+              <comp position="1" type="collocate" sloleks="LE_eed44a3aaf6fe7ffbbb56cff0a5bde3b">namenjena</comp>
+              <comp position="2" type="headword" sloleks="LE_cffec3999546b7acfed8049a3078a3b5">videotelefonija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="minuta videotelefonije" cluster="1" frequency="11" logDice="3.1">
+              <comp position="1" type="collocate" sloleks="LE_4dbac25ecbcde2d4ad6049424d74db15">minuta</comp>
+              <comp position="2" type="headword" sloleks="LE_cffec3999546b7acfed8049a3078a3b5">videotelefonije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="kamera za videotelefonijo" cluster="1" frequency="10" logDice="8.15">
+              <comp position="1" type="collocate" sloleks="LE_51d7aec490a3726693efdae64b8d2bc0">kamera</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_cffec3999546b7acfed8049a3078a3b5">videotelefonijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

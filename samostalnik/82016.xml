@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="82016">predtek</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">639</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="predtek za nagrado" cluster="1" frequency="18" logDice="5.36">
+              <comp position="1" type="headword" sloleks="LE_38f4cc3a21294e69efdb68de310e6025">predtek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_36fb26ff3b13dda6ad73d5616b44950c">nagrado</comp>
+            </collocation>
+            <collocation form="predtek za pokal" cluster="2" frequency="22" logDice="4.64">
+              <comp position="1" type="headword" sloleks="LE_38f4cc3a21294e69efdb68de310e6025">predtek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_d17e6624973c79af10602120ecbf8483">pokal</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="teči v predteku" cluster="1" frequency="12" logDice="5.6">
+              <comp position="1" type="collocate" sloleks="LE_b1ceb206a24c563d1c96e186a942b958">teči</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_38f4cc3a21294e69efdb68de310e6025">predteku</comp>
+            </collocation>
+            <collocation form="izpasti v predteku" cluster="2" frequency="4" logDice="4.9">
+              <comp position="1" type="collocate" sloleks="LE_c9a36e26db2cf81093341f557c89aae3">izpasti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_38f4cc3a21294e69efdb68de310e6025">predteku</comp>
+            </collocation>
+            <collocation form="doseči v predteku" cluster="3" frequency="6" logDice="2.58">
+              <comp position="1" type="collocate" sloleks="LE_c774a9afe35a6598f95fb1776c665730">doseči</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_38f4cc3a21294e69efdb68de310e6025">predteku</comp>
+            </collocation>
+            <collocation form="nastopiti v predteku" cluster="4" frequency="5" logDice="2.2">
+              <comp position="1" type="collocate" sloleks="LE_f7d59cd4aef4a6907c0f46f9b96eca99">nastopiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_38f4cc3a21294e69efdb68de310e6025">predteku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

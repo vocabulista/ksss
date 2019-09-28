@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="74201">očetnjava</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">445</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="blagor očetnjave" cluster="1" frequency="40" logDice="10.27">
+              <comp position="1" type="collocate" sloleks="LE_0b9432fa43cb1d3e1d01b111c340fe93">blagor</comp>
+              <comp position="2" type="headword" sloleks="LE_216964064611317bd3f474710612d5f5">očetnjave</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 do SBZ2">
+          <collocations>
+            <collocation form="ljubezen do očetnjave" cluster="1" frequency="4" logDice="2.69">
+              <comp position="1" type="collocate" sloleks="LE_d611157e356b5a208a076a88682815f7">ljubezen</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_216964064611317bd3f474710612d5f5">očetnjave</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

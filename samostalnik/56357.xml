@@ -1,0 +1,52 @@
+<entry>
+  <header>
+    <lexical_unit id="56357">fiksacija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">551</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="fiksacija na mater" cluster="1" frequency="4" logDice="8.74">
+              <comp position="1" type="headword" sloleks="LE_601ab4e4b22ef8a40ff2ae3bcd5c2249">fiksacija</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_c60ad337818645beb21c89ff38faccd7">mater</comp>
+            </collocation>
+            <collocation form="fiksacija na objekt" cluster="2" frequency="10" logDice="8.68">
+              <comp position="1" type="headword" sloleks="LE_601ab4e4b22ef8a40ff2ae3bcd5c2249">fiksacija</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_bb14223520452df1f116f86800767b80">objekt</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="fiksacija dušika" cluster="1" frequency="22" logDice="7.59">
+              <comp position="1" type="headword" sloleks="LE_601ab4e4b22ef8a40ff2ae3bcd5c2249">fiksacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_a7645ede7f8f5e9d033fac8d4d06b6f8">dušika</comp>
+            </collocation>
+            <collocation form="fiksacija tečaja" cluster="2" frequency="30" logDice="5.36">
+              <comp position="1" type="headword" sloleks="LE_601ab4e4b22ef8a40ff2ae3bcd5c2249">fiksacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_5d02c8a026f40c53ca6b5616101080cf">tečaja</comp>
+            </collocation>
+            <collocation form="točka fiksacije" cluster="3" frequency="5" logDice="0.82">
+              <comp position="1" type="collocate" sloleks="LE_bb52716a00bd608f858395465b1c985a">točka</comp>
+              <comp position="2" type="headword" sloleks="LE_601ab4e4b22ef8a40ff2ae3bcd5c2249">fiksacije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za fiksacijo" cluster="1" frequency="6" logDice="-1.01">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_601ab4e4b22ef8a40ff2ae3bcd5c2249">fiksacijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

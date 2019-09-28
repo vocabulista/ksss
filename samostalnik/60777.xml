@@ -1,0 +1,64 @@
+<entry>
+  <header>
+    <lexical_unit id="60777">islamizacija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">463</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="islamizacija Bosne" cluster="1" frequency="26" logDice="7.0">
+              <comp position="1" type="headword" sloleks="LE_1cc3fa62dcf7d4845eab2352715e5d75">islamizacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_bd72b6f0c4f9a70dcf653f2bb8dbc509">Bosne</comp>
+            </collocation>
+            <collocation form="islamizacija Turčije" cluster="1" frequency="11" logDice="6.3">
+              <comp position="1" type="headword" sloleks="LE_1cc3fa62dcf7d4845eab2352715e5d75">islamizacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_025c4c83f97bb28e94bdf53480f1f9e5">Turčije</comp>
+            </collocation>
+            <collocation form="islamizacija Evrope" cluster="2" frequency="24" logDice="3.53">
+              <comp position="1" type="headword" sloleks="LE_1cc3fa62dcf7d4845eab2352715e5d75">islamizacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_0c70d71bb49cb550bb4e854282407723">Evrope</comp>
+            </collocation>
+            <collocation form="islamizacija države" cluster="2" frequency="18" logDice="0.83">
+              <comp position="1" type="headword" sloleks="LE_1cc3fa62dcf7d4845eab2352715e5d75">islamizacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">države</comp>
+            </collocation>
+            <collocation form="proces islamizacije" cluster="3" frequency="16" logDice="3.28">
+              <comp position="1" type="collocate" sloleks="LE_16c53d1ebb90a9bc6324b676ef5003b8">proces</comp>
+              <comp position="2" type="headword" sloleks="LE_1cc3fa62dcf7d4845eab2352715e5d75">islamizacije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz do SBZ2">
+          <collocations>
+            <collocation form="priti do islamizacije" cluster="1" frequency="4" logDice="-0.69">
+              <comp position="1" type="collocate" sloleks="LE_fc339e29cc0e8ec9efe1ef0acdfb11b5">priti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_1cc3fa62dcf7d4845eab2352715e5d75">islamizacije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 pred SBZ6">
+          <collocations>
+            <collocation form="strah pred islamizacijo" cluster="1" frequency="5" logDice="2.33">
+              <comp position="1" type="collocate" sloleks="LE_ec7941261a5b1a40fb742699e58175ca">strah</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="headword" sloleks="LE_1cc3fa62dcf7d4845eab2352715e5d75">islamizacijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 proti SBZ3">
+          <collocations>
+            <collocation form="kongres proti islamizaciji" cluster="1" frequency="4" logDice="11.17">
+              <comp position="1" type="collocate" sloleks="LE_ac9e732860f243279e39da7e754342ae">kongres</comp>
+              <comp position="2" type="other" sloleks="LE_ce0c7e81c2858bb279d87fd9640cfc97">proti</comp>
+              <comp position="3" type="headword" sloleks="LE_1cc3fa62dcf7d4845eab2352715e5d75">islamizaciji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

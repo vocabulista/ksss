@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="63302">kazein</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">470</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="kazein iz mleka" cluster="1" frequency="6" logDice="7.38">
+              <comp position="1" type="headword" sloleks="LE_f601616c0149c7db4f13d5589cbc9531">kazein</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_6a2577a60d20ec9dbe386e7b751d266d">mleka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="kapp kazeina" cluster="1" frequency="10" logDice="11.67">
+              <comp position="1" type="collocate" sloleks="">kapp</comp>
+              <comp position="2" type="headword" sloleks="LE_f601616c0149c7db4f13d5589cbc9531">kazeina</comp>
+            </collocation>
+            <collocation form="kapa kazeina" cluster="2" frequency="6" logDice="8.08">
+              <comp position="1" type="collocate" sloleks="LE_9bd31b583b4b381f651846ea77816476">kapa</comp>
+              <comp position="2" type="headword" sloleks="LE_f601616c0149c7db4f13d5589cbc9531">kazeina</comp>
+            </collocation>
+            <collocation form="beljakovina kazeina" cluster="3" frequency="5" logDice="7.61">
+              <comp position="1" type="collocate" sloleks="LE_6c45cc6326b5b1d47814c1d6025c25ea">beljakovina</comp>
+              <comp position="2" type="headword" sloleks="LE_f601616c0149c7db4f13d5589cbc9531">kazeina</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

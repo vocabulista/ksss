@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="83832">progres</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">599</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 brez sbz2">
+          <collocations>
+            <collocation form="progres brez posadke" cluster="1" frequency="10" logDice="9.04">
+              <comp position="1" type="headword" sloleks="LE_4691033fddf44eea4c1cb104934fc44d">progres</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="collocate" sloleks="LE_14584388345b5c5a17238216abebb30b">posadke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="zelen progres" cluster="1" frequency="43" logDice="3.51">
+              <comp position="1" type="collocate" sloleks="LE_6e8aa87791d8f00ce04541edfe194c36">zelen</comp>
+              <comp position="2" type="headword" sloleks="LE_4691033fddf44eea4c1cb104934fc44d">progres</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="delnica Progresa" cluster="1" frequency="18" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_a4c3bc7b70a19466bd299690c070a28a">delnica</comp>
+              <comp position="2" type="headword" sloleks="LE_4691033fddf44eea4c1cb104934fc44d">Progresa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

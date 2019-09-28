@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="2069">kleti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">772</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="kleti gor" cluster="1" frequency="9" logDice="4.95">
+              <comp position="1" type="headword" sloleks="LE_36ed059ad578e84495d01ad8c826359f">kleti</comp>
+              <comp position="2" type="collocate" sloleks="LE_f4b0392ec719ba5373577b4624bb497b">gor</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="kleti letino" cluster="1" frequency="6" logDice="7.76">
+              <comp position="1" type="headword" sloleks="LE_36ed059ad578e84495d01ad8c826359f">kleti</comp>
+              <comp position="2" type="collocate" sloleks="LE_6e1a6d47f47ac00aa7865c80fc33318d">letino</comp>
+            </collocation>
+            <collocation form="kleti vreme" cluster="2" frequency="6" logDice="5.92">
+              <comp position="1" type="headword" sloleks="LE_36ed059ad578e84495d01ad8c826359f">kleti</comp>
+              <comp position="2" type="collocate" sloleks="LE_0687a5b41704c2be5a420798d4b269a8">vreme</comp>
+            </collocation>
+            <collocation form="kleti usodo" cluster="3" frequency="6" logDice="4.11">
+              <comp position="1" type="headword" sloleks="LE_36ed059ad578e84495d01ad8c826359f">kleti</comp>
+              <comp position="2" type="collocate" sloleks="LE_b1d14ebdc7a6abd9b935251ee7b61ba2">usodo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="kleti v temi" cluster="1" frequency="4" logDice="4.18">
+              <comp position="1" type="headword" sloleks="LE_36ed059ad578e84495d01ad8c826359f">kleti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_2fc28e0a57fc33a1646e43e1a6f376a0">temi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="naprej kleti" cluster="1" frequency="4" logDice="0.17">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_36ed059ad578e84495d01ad8c826359f">kleti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

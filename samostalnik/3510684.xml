@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="3510684">sapiens</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 pred sbz6">
+          <collocations>
+            <collocation form="sapiens pred letom" cluster="1" frequency="5" logDice="1.76">
+              <comp position="1" type="headword" sloleks="">sapiens</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">letom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="sapiens za tisočletje" cluster="1" frequency="4" logDice="7.1">
+              <comp position="1" type="headword" sloleks="">sapiens</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_ff5805503cf7441ee5d8ef6d62e3f03f">tisočletje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="homo sapiens" cluster="1" frequency="114" logDice="13.39">
+              <comp position="1" type="collocate" sloleks="">homo</comp>
+              <comp position="2" type="headword" sloleks="">sapiens</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="homo sapiens" cluster="1" frequency="146" logDice="12.95">
+              <comp position="1" type="collocate" sloleks="">homo</comp>
+              <comp position="2" type="headword" sloleks="">sapiens</comp>
+            </collocation>
+            <collocation form="Homo sapiens" cluster="2" frequency="76" logDice="12.24">
+              <comp position="1" type="collocate" sloleks="">Homo</comp>
+              <comp position="2" type="headword" sloleks="">sapiens</comp>
+            </collocation>
+            <collocation form="homa sapiens" cluster="3" frequency="50" logDice="11.79">
+              <comp position="1" type="collocate" sloleks="">homa</comp>
+              <comp position="2" type="headword" sloleks="">sapiens</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

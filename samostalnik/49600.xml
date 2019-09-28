@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="49600">bleščava</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">604</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="bleščava žarometa" cluster="1" frequency="8" logDice="6.11">
+              <comp position="1" type="headword" sloleks="LE_8a37e6325767d68e3a31449dfd4b40b5">bleščava</comp>
+              <comp position="2" type="collocate" sloleks="LE_a18f6862e75e805fde1539d9d282c915">žarometa</comp>
+            </collocation>
+            <collocation form="bleščava sonca" cluster="2" frequency="12" logDice="4.81">
+              <comp position="1" type="headword" sloleks="LE_8a37e6325767d68e3a31449dfd4b40b5">bleščava</comp>
+              <comp position="2" type="collocate" sloleks="LE_ef99e94d5e466dba65366cd62301260b">sonca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="počakati v bleščavi" cluster="1" frequency="4" logDice="6.33">
+              <comp position="1" type="collocate" sloleks="LE_d15e1095dd97ff49bca350a0ebc19b37">počakati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_8a37e6325767d68e3a31449dfd4b40b5">bleščavi</comp>
+            </collocation>
+            <collocation form="kopati v bleščavi" cluster="2" frequency="4" logDice="5.13">
+              <comp position="1" type="collocate" sloleks="LE_0c983fb41d79b7844bca9851a5507064">kopati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_8a37e6325767d68e3a31449dfd4b40b5">bleščavi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="sončna bleščava" cluster="1" frequency="31" logDice="3.48">
+              <comp position="1" type="collocate" sloleks="LE_8c1f776f0fa2589d6cd8e7ab798a9ee3">sončna</comp>
+              <comp position="2" type="headword" sloleks="LE_8a37e6325767d68e3a31449dfd4b40b5">bleščava</comp>
+            </collocation>
+            <collocation form="zunanja bleščava" cluster="2" frequency="20" logDice="1.46">
+              <comp position="1" type="collocate" sloleks="LE_ff641fe1f7786f7040e14332b28b445d">zunanja</comp>
+              <comp position="2" type="headword" sloleks="LE_8a37e6325767d68e3a31449dfd4b40b5">bleščava</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

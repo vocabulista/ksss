@@ -1,0 +1,63 @@
+<entry>
+  <header>
+    <lexical_unit id="83812">profiliranje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">410</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="profiliranje stranke" cluster="1" frequency="12" logDice="1.12">
+              <comp position="1" type="headword" sloleks="LE_62a4f8312a7b3970c7e3bf35ba0763f5">profiliranje</comp>
+              <comp position="2" type="collocate" sloleks="LE_945a204a300f28702820c4bc0481d2e7">stranke</comp>
+            </collocation>
+            <collocation form="profiliranje uporabnika" cluster="1" frequency="8" logDice="2.81">
+              <comp position="1" type="headword" sloleks="LE_62a4f8312a7b3970c7e3bf35ba0763f5">profiliranje</comp>
+              <comp position="2" type="collocate" sloleks="LE_44d877680022f19ea8b31a268b1a73a4">uporabnika</comp>
+            </collocation>
+            <collocation form="profiliranje znamke" cluster="2" frequency="11" logDice="2.76">
+              <comp position="1" type="headword" sloleks="LE_62a4f8312a7b3970c7e3bf35ba0763f5">profiliranje</comp>
+              <comp position="2" type="collocate" sloleks="LE_014a91896ff8a6fc2803a2ad2f508b8b">znamke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za profiliranje" cluster="1" frequency="6" logDice="-1.01">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_62a4f8312a7b3970c7e3bf35ba0763f5">profiliranje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="rasno profiliranje" cluster="1" frequency="31" logDice="7.37">
+              <comp position="1" type="collocate" sloleks="LE_d8e7b7f3331e3ca92e7cd91088245261">rasno</comp>
+              <comp position="2" type="headword" sloleks="LE_62a4f8312a7b3970c7e3bf35ba0763f5">profiliranje</comp>
+            </collocation>
+            <collocation form="psihološko profiliranje" cluster="2" frequency="10" logDice="3.65">
+              <comp position="1" type="collocate" sloleks="LE_4d61948842be39a9a28fb1eb19f2b482">psihološko</comp>
+              <comp position="2" type="headword" sloleks="LE_62a4f8312a7b3970c7e3bf35ba0763f5">profiliranje</comp>
+            </collocation>
+            <collocation form="programsko profiliranje" cluster="2" frequency="8" logDice="1.66">
+              <comp position="1" type="collocate" sloleks="LE_4afb44c9c56470df53a56de3f6d4799d">programsko</comp>
+              <comp position="2" type="headword" sloleks="LE_62a4f8312a7b3970c7e3bf35ba0763f5">profiliranje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="strokovnjak za profiliranje" cluster="1" frequency="4" logDice="2.74">
+              <comp position="1" type="collocate" sloleks="LE_f148c89ddbbfc6907ba9fc0273aa62b7">strokovnjak</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_62a4f8312a7b3970c7e3bf35ba0763f5">profiliranje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

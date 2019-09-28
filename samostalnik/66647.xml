@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="66647">lastovica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">413</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="atlantska lastovica" cluster="1" frequency="8" logDice="4.95">
+              <comp position="1" type="collocate" sloleks="LE_0fc4d844e11bdb933e08faec24f4db79">atlantska</comp>
+              <comp position="2" type="headword" sloleks="LE_436989310235ee8ebe54263eca60225f">lastovica</comp>
+            </collocation>
+            <collocation form="morska lastovica" cluster="2" frequency="70" logDice="4.93">
+              <comp position="1" type="collocate" sloleks="LE_57bed162279dc52ad8b850de264a14ad">morska</comp>
+              <comp position="2" type="headword" sloleks="LE_436989310235ee8ebe54263eca60225f">lastovica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="riba lastovice" cluster="1" frequency="7" logDice="6.91">
+              <comp position="1" type="collocate" sloleks="LE_d7b8f7ec392e661983c77782c366fd0d">riba</comp>
+              <comp position="2" type="headword" sloleks="LE_436989310235ee8ebe54263eca60225f">lastovice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

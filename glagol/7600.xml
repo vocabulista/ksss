@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="7600">razpokati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">514</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ zaradi sbz2">
+          <collocations>
+            <collocation form="razpokati zaradi mraza" cluster="1" frequency="4" logDice="7.31">
+              <comp position="1" type="headword" sloleks="LE_1153aa32f0ca6f16a8e3666fe827a73e">razpokati</comp>
+              <comp position="2" type="other" sloleks="LE_e2128c24e3c3872c9e5c2981f71b461f">zaradi</comp>
+              <comp position="3" type="collocate" sloleks="LE_a23d0fb2d7b2be80e98824947ecc98b5">mraza</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="vred razpokati" cluster="1" frequency="5" logDice="5.01">
+              <comp position="1" type="collocate" sloleks="LE_2e2d16f66fa096c4de623cb5546008a5">vred</comp>
+              <comp position="2" type="headword" sloleks="LE_1153aa32f0ca6f16a8e3666fe827a73e">razpokati</comp>
+            </collocation>
+            <collocation form="slej razpokati" cluster="2" frequency="4" logDice="3.32">
+              <comp position="1" type="collocate" sloleks="LE_b49e7166b0e5fcade598cf78df4d12ef">slej</comp>
+              <comp position="2" type="headword" sloleks="LE_1153aa32f0ca6f16a8e3666fe827a73e">razpokati</comp>
+            </collocation>
+            <collocation form="hitro razpokati" cluster="3" frequency="11" logDice="0.71">
+              <comp position="1" type="collocate" sloleks="LE_cb95fbdb78349dad33e3d99ea7f281a8">hitro</comp>
+              <comp position="2" type="headword" sloleks="LE_1153aa32f0ca6f16a8e3666fe827a73e">razpokati</comp>
+            </collocation>
+            <collocation form="močno razpokati" cluster="4" frequency="5" logDice="0.39">
+              <comp position="1" type="collocate" sloleks="LE_b061af875766d8e1437febe5ccafe554">močno</comp>
+              <comp position="2" type="headword" sloleks="LE_1153aa32f0ca6f16a8e3666fe827a73e">razpokati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

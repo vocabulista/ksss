@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="694">čustvovati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">500</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="čustvovati na način" cluster="1" frequency="19" logDice="1.76">
+              <comp position="1" type="headword" sloleks="LE_41826f734996d4fc9688041d6045003e">čustvovati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_78347f5e8e1e11f66d26223c13ba02df">način</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="čustvovati drugače" cluster="1" frequency="8" logDice="1.73">
+              <comp position="1" type="headword" sloleks="LE_41826f734996d4fc9688041d6045003e">čustvovati</comp>
+              <comp position="2" type="collocate" sloleks="LE_1940cb5af59315620f694ad96e54c82f">drugače</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="intenzivno čustvovati" cluster="1" frequency="5" logDice="3.14">
+              <comp position="1" type="collocate" sloleks="LE_53d0232447bd782d9fae332e003977a1">intenzivno</comp>
+              <comp position="2" type="headword" sloleks="LE_41826f734996d4fc9688041d6045003e">čustvovati</comp>
+            </collocation>
+            <collocation form="drugače čustvovati" cluster="2" frequency="4" logDice="1.26">
+              <comp position="1" type="collocate" sloleks="LE_1940cb5af59315620f694ad96e54c82f">drugače</comp>
+              <comp position="2" type="headword" sloleks="LE_41826f734996d4fc9688041d6045003e">čustvovati</comp>
+            </collocation>
+            <collocation form="močno čustvovati" cluster="3" frequency="9" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_b061af875766d8e1437febe5ccafe554">močno</comp>
+              <comp position="2" type="headword" sloleks="LE_41826f734996d4fc9688041d6045003e">čustvovati</comp>
+            </collocation>
+            <collocation form="kako čustvovati" cluster="4" frequency="24" logDice="0.15">
+              <comp position="1" type="collocate" sloleks="LE_c6fd8628f731e3e158dc366537c82f5f">kako</comp>
+              <comp position="2" type="headword" sloleks="LE_41826f734996d4fc9688041d6045003e">čustvovati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

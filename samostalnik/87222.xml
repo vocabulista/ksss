@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="87222">samogovor</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">955</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="notranji samogovor" cluster="1" frequency="52" logDice="3.07">
+              <comp position="1" type="collocate" sloleks="LE_bca9138b9a7f57aa3e597de77446f7d5">notranji</comp>
+              <comp position="2" type="headword" sloleks="LE_1bb7eca1e446275207a9bee735dd2ea4">samogovor</comp>
+            </collocation>
+            <collocation form="pozitiven samogovor" cluster="1" frequency="47" logDice="3.96">
+              <comp position="1" type="collocate" sloleks="LE_f6e959273f67991db6849fad746388aa">pozitiven</comp>
+              <comp position="2" type="headword" sloleks="LE_1bb7eca1e446275207a9bee735dd2ea4">samogovor</comp>
+            </collocation>
+            <collocation form="negativen samogovor" cluster="1" frequency="45" logDice="4.41">
+              <comp position="1" type="collocate" sloleks="LE_2b00583dfbeb3db6152d2f118b47f9f2">negativen</comp>
+              <comp position="2" type="headword" sloleks="LE_1bb7eca1e446275207a9bee735dd2ea4">samogovor</comp>
+            </collocation>
+            <collocation form="miseln samogovor" cluster="2" frequency="9" logDice="4.25">
+              <comp position="1" type="collocate" sloleks="LE_e50b8df837a7558d9520f733a0b02b37">miseln</comp>
+              <comp position="2" type="headword" sloleks="LE_1bb7eca1e446275207a9bee735dd2ea4">samogovor</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="uporaba samogovora" cluster="1" frequency="9" logDice="0.65">
+              <comp position="1" type="collocate" sloleks="LE_9999e7dc3b8f5571ba09e352c31aea3f">uporaba</comp>
+              <comp position="2" type="headword" sloleks="LE_1bb7eca1e446275207a9bee735dd2ea4">samogovora</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

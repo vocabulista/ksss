@@ -1,0 +1,70 @@
+<entry>
+  <header>
+    <lexical_unit id="99440">zijalo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">643</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 do sbz2">
+          <collocations>
+            <collocation form="zijalo do Ane" cluster="1" frequency="31" logDice="12.84">
+              <comp position="1" type="headword" sloleks="LE_a56aa3d3e857ef10027b8e81767cd0d7">zijalo</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_d2621d6af1064bd8e4a65a94d3392afe">Ane</comp>
+            </collocation>
+            <collocation form="vas do Zijala" cluster="2" frequency="4" logDice="6.65">
+              <comp position="1" type="collocate" sloleks="LE_746c4faa0cb704f82cd12acb408c94d3">vas</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_a56aa3d3e857ef10027b8e81767cd0d7">Zijala</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="mirnopeško zijalo" cluster="1" frequency="89" logDice="10.57">
+              <comp position="1" type="collocate" sloleks="LE_48e34e8f697a1f5b4fa7de93f501c504">mirnopeško</comp>
+              <comp position="2" type="headword" sloleks="LE_a56aa3d3e857ef10027b8e81767cd0d7">zijalo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="past zijala" cluster="1" frequency="7" logDice="6.07">
+              <comp position="1" type="collocate" sloleks="LE_a6663027ff2d267c4b9d0fa06f71c01c">past</comp>
+              <comp position="2" type="headword" sloleks="LE_a56aa3d3e857ef10027b8e81767cd0d7">zijala</comp>
+            </collocation>
+            <collocation form="množica zijala" cluster="2" frequency="10" logDice="3.03">
+              <comp position="1" type="collocate" sloleks="LE_7d16fbe97018e676409272758b6a725b">množica</comp>
+              <comp position="2" type="headword" sloleks="LE_a56aa3d3e857ef10027b8e81767cd0d7">zijala</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 od SBZ2">
+          <collocations>
+            <collocation form="pešpot od Zijala" cluster="1" frequency="20" logDice="11.58">
+              <comp position="1" type="collocate" sloleks="LE_8f6c5ad9262c615fa14d5ba265326e6e">pešpot</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="headword" sloleks="LE_a56aa3d3e857ef10027b8e81767cd0d7">Zijala</comp>
+            </collocation>
+            <collocation form="sprehod od Zijala" cluster="2" frequency="4" logDice="9.2">
+              <comp position="1" type="collocate" sloleks="LE_5f08b3f731799be7a14de115e15d6127">sprehod</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="headword" sloleks="LE_a56aa3d3e857ef10027b8e81767cd0d7">Zijala</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="temenica v Zijalu" cluster="1" frequency="5" logDice="11.44">
+              <comp position="1" type="collocate" sloleks="LE_ffd63c7a8129c0c2e5cd6109a35ac9e2">temenica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_a56aa3d3e857ef10027b8e81767cd0d7">Zijalu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

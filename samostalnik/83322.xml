@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="83322">priležnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">852</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="poročiti s priležnico" cluster="1" frequency="8" logDice="4.47">
+              <comp position="1" type="collocate" sloleks="LE_b9c667080dab6d3d75df2d987c7ee965">poročiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_4612ef45b0dee3162fceb3e83512e9e4">priležnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="vzeti za priležnico" cluster="1" frequency="5" logDice="4.13">
+              <comp position="1" type="collocate" sloleks="LE_af99d0c656cf84ca132dcdca567d80c0">vzeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_4612ef45b0dee3162fceb3e83512e9e4">priležnico</comp>
+            </collocation>
+            <collocation form="imeti za priležnico" cluster="2" frequency="5" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_4612ef45b0dee3162fceb3e83512e9e4">priležnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="ljuba priležnica" cluster="1" frequency="10" logDice="2.75">
+              <comp position="1" type="collocate" sloleks="LE_fc021edf090973039a34c98f1019fd66">ljuba</comp>
+              <comp position="2" type="headword" sloleks="LE_4612ef45b0dee3162fceb3e83512e9e4">priležnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="ligija za priležnico" cluster="1" frequency="5" logDice="12.92">
+              <comp position="1" type="collocate" sloleks="">ligija</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_4612ef45b0dee3162fceb3e83512e9e4">priležnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

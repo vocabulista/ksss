@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="53080">despot</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">708</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="srbski despot" cluster="1" frequency="37" logDice="3.49">
+              <comp position="1" type="collocate" sloleks="LE_61652cfd1896737e7a4583998088c114">srbski</comp>
+              <comp position="2" type="headword" sloleks="LE_76f16bd2328bfe418f461ab8f26782e7">despot</comp>
+            </collocation>
+            <collocation form="komunističen despot" cluster="2" frequency="9" logDice="2.9">
+              <comp position="1" type="collocate" sloleks="LE_06af3663b0d0a14b9482ae984fa41d59">komunističen</comp>
+              <comp position="2" type="headword" sloleks="LE_76f16bd2328bfe418f461ab8f26782e7">despot</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Vojislav despota" cluster="1" frequency="10" logDice="7.52">
+              <comp position="1" type="collocate" sloleks="LE_47982a81bd8cbe10c1f8b0bc7d08d049">Vojislav</comp>
+              <comp position="2" type="headword" sloleks="LE_76f16bd2328bfe418f461ab8f26782e7">despota</comp>
+            </collocation>
+            <collocation form="hčerka despota" cluster="2" frequency="12" logDice="5.7">
+              <comp position="1" type="collocate" sloleks="LE_a7bfbea4c680735ff6a7f6faa0847ac6">hčerka</comp>
+              <comp position="2" type="headword" sloleks="LE_76f16bd2328bfe418f461ab8f26782e7">despota</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

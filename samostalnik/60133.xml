@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="60133">iks</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">838</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="zveza IKSA" cluster="1" frequency="5" logDice="0.61">
+              <comp position="1" type="collocate" sloleks="LE_f685db62cc2d867e40d31988d86fbd1e">zveza</comp>
+              <comp position="2" type="headword" sloleks="LE_c89e0bc13003b498119f33de30b84ab4">IKSA</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ4">
+          <collocations>
+            <collocation form="noga na iks" cluster="1" frequency="5" logDice="7.5">
+              <comp position="1" type="collocate" sloleks="LE_85bf97bb223851882a947ddf0be6aea7">noga</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_c89e0bc13003b498119f33de30b84ab4">iks</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

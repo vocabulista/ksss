@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="84865">raza</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">980</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="raza sožalja" cluster="1" frequency="91" logDice="10.74">
+              <comp position="1" type="headword" sloleks="LE_486533cc72eec81915ffa89545bdcbdd">raza</comp>
+              <comp position="2" type="collocate" sloleks="LE_f5860263c978bcd7a5465da701d9b904">sožalja</comp>
+            </collocation>
+            <collocation form="Claudia Raze" cluster="2" frequency="5" logDice="9.16">
+              <comp position="1" type="collocate" sloleks="LE_b3e86b02dffb02bde89a564b86fa776e">Claudia</comp>
+              <comp position="2" type="headword" sloleks="LE_486533cc72eec81915ffa89545bdcbdd">Raze</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="globoka raza" cluster="1" frequency="11" logDice="2.68">
+              <comp position="1" type="collocate" sloleks="LE_0b7a86889302f2e1631bcc681f755968">globoka</comp>
+              <comp position="2" type="headword" sloleks="LE_486533cc72eec81915ffa89545bdcbdd">raza</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

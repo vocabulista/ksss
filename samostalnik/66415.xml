@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="66415">laborant</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">475</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="laborant z instrumentom" cluster="1" frequency="7" logDice="7.46">
+              <comp position="1" type="headword" sloleks="LE_3aad425297bb74be057be20000f2f3be">laborant</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_3d838b278eac7c8dffa1b9f68cafef00">instrumentom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="kemijski laborant" cluster="1" frequency="12" logDice="4.36">
+              <comp position="1" type="collocate" sloleks="LE_176a20e7e8a0966b9e95d5700107cc44">kemijski</comp>
+              <comp position="2" type="headword" sloleks="LE_3aad425297bb74be057be20000f2f3be">laborant</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

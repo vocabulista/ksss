@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="98715">zaupljivost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">507</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 do sbz2">
+          <collocations>
+            <collocation form="zaupljivost do človeka" cluster="1" frequency="8" logDice="5.73">
+              <comp position="1" type="headword" sloleks="LE_b76f6524498922b9eb714cceca5201f5">zaupljivost</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človeka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="prevelika zaupljivost" cluster="1" frequency="48" logDice="5.0">
+              <comp position="1" type="collocate" sloleks="LE_3ddf4404d26d2b6a5d58add21db0bc9f">prevelika</comp>
+              <comp position="2" type="headword" sloleks="LE_b76f6524498922b9eb714cceca5201f5">zaupljivost</comp>
+            </collocation>
+            <collocation form="pretirana zaupljivost" cluster="1" frequency="18" logDice="4.37">
+              <comp position="1" type="collocate" sloleks="LE_97b9f9bb1479d471e7250254339115ed">pretirana</comp>
+              <comp position="2" type="headword" sloleks="LE_b76f6524498922b9eb714cceca5201f5">zaupljivost</comp>
+            </collocation>
+            <collocation form="otroška zaupljivost" cluster="2" frequency="16" logDice="1.91">
+              <comp position="1" type="collocate" sloleks="LE_1fbf9a7270f9b230effd46d49123fdff">otroška</comp>
+              <comp position="2" type="headword" sloleks="LE_b76f6524498922b9eb714cceca5201f5">zaupljivost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="stopnja zaupljivosti" cluster="1" frequency="5" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_ed1cc20afdfdf1e20fe2e301bae175ee">stopnja</comp>
+              <comp position="2" type="headword" sloleks="LE_b76f6524498922b9eb714cceca5201f5">zaupljivosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

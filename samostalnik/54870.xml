@@ -1,0 +1,100 @@
+<entry>
+  <header>
+    <lexical_unit id="54870">dvoranica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">637</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="dvoranica knjižnice" cluster="1" frequency="22" logDice="5.16">
+              <comp position="1" type="headword" sloleks="LE_322bab4b5efe25b66a3053136692a0ca">dvoranica</comp>
+              <comp position="2" type="collocate" sloleks="LE_4335cf07a92312c0b252e55da6f28918">knjižnice</comp>
+            </collocation>
+            <collocation form="dvoranica Društva" cluster="2" frequency="37" logDice="2.94">
+              <comp position="1" type="headword" sloleks="LE_322bab4b5efe25b66a3053136692a0ca">dvoranica</comp>
+              <comp position="2" type="collocate" sloleks="LE_f1fd3c17e2206150a5ab762769b6e8ff">Društva</comp>
+            </collocation>
+            <collocation form="dvoranica doma" cluster="2" frequency="10" logDice="1.96">
+              <comp position="1" type="headword" sloleks="LE_322bab4b5efe25b66a3053136692a0ca">dvoranica</comp>
+              <comp position="2" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">doma</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="dvoranica z odrom" cluster="1" frequency="4" logDice="8.67">
+              <comp position="1" type="headword" sloleks="LE_322bab4b5efe25b66a3053136692a0ca">dvoranica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_d35618a413daf132885c889812da44df">odrom</comp>
+            </collocation>
+            <collocation form="dvoranica s sedežem" cluster="2" frequency="6" logDice="3.79">
+              <comp position="1" type="headword" sloleks="LE_322bab4b5efe25b66a3053136692a0ca">dvoranica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_42b5df4302592a62c432da286741d70a">sedežem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz2">
+          <collocations>
+            <collocation form="dvoranica za človeka" cluster="1" frequency="7" logDice="6.07">
+              <comp position="1" type="headword" sloleks="LE_322bab4b5efe25b66a3053136692a0ca">dvoranica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človeka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="odpreti v dvoranico" cluster="1" frequency="4" logDice="5.22">
+              <comp position="1" type="collocate" sloleks="LE_e8a0b78c58df134dead0230dc2e801ab">odpreti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_322bab4b5efe25b66a3053136692a0ca">dvoranico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="koncertna dvoranica" cluster="1" frequency="10" logDice="3.86">
+              <comp position="1" type="collocate" sloleks="LE_940e83f7792f112f6b9b78a07735b07d">koncertna</comp>
+              <comp position="2" type="headword" sloleks="LE_322bab4b5efe25b66a3053136692a0ca">dvoranica</comp>
+            </collocation>
+            <collocation form="majhna dvoranica" cluster="2" frequency="24" logDice="0.7">
+              <comp position="1" type="collocate" sloleks="LE_046f6756496c07b99f5ce226a4c8204d">majhna</comp>
+              <comp position="2" type="headword" sloleks="LE_322bab4b5efe25b66a3053136692a0ca">dvoranica</comp>
+            </collocation>
+            <collocation form="mala dvoranica" cluster="2" frequency="19" logDice="1.1">
+              <comp position="1" type="collocate" sloleks="LE_0b2cc34f00671cbd2bc04dca56aba76b">mala</comp>
+              <comp position="2" type="headword" sloleks="LE_322bab4b5efe25b66a3053136692a0ca">dvoranica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ4">
+          <collocations>
+            <collocation form="ura v dvoranico" cluster="1" frequency="17" logDice="6.54">
+              <comp position="1" type="collocate" sloleks="LE_77e6b5a072871d299d405565eaad4389">ura</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_322bab4b5efe25b66a3053136692a0ca">dvoranico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="ura v dvoranici" cluster="1" frequency="58" logDice="5.14">
+              <comp position="1" type="collocate" sloleks="LE_77e6b5a072871d299d405565eaad4389">ura</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_322bab4b5efe25b66a3053136692a0ca">dvoranici</comp>
+            </collocation>
+            <collocation form="dvoranica v nadstropju" cluster="2" frequency="35" logDice="6.98">
+              <comp position="1" type="headword" sloleks="LE_322bab4b5efe25b66a3053136692a0ca">dvoranica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_0a1df5e3afec978fde2b3232b6bd1cc3">nadstropju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

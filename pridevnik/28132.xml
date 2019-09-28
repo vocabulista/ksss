@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="28132">pecilen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">4938</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="pecilen prašek" cluster="1" frequency="4800" logDice="13.4">
+              <comp position="1" type="headword" sloleks="LE_9856cf0c30af61559e4453dfc5b66285">pecilen</comp>
+              <comp position="2" type="collocate" sloleks="LE_d8a7729e777f5557e254964b311f815e">prašek</comp>
+            </collocation>
+            <collocation form="pecilna lastnost" cluster="2" frequency="13" logDice="2.49">
+              <comp position="1" type="headword" sloleks="LE_9856cf0c30af61559e4453dfc5b66285">pecilna</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9e19f48ce23fa03bd6cf2669b73a296">lastnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="pol pecilen" cluster="1" frequency="95" logDice="7.17">
+              <comp position="1" type="collocate" sloleks="LE_6b1579afc99689c8f16cdc5f38e2e8ab">pol</comp>
+              <comp position="2" type="headword" sloleks="LE_9856cf0c30af61559e4453dfc5b66285">pecilen</comp>
+            </collocation>
+            <collocation form="malo pecilen" cluster="2" frequency="47" logDice="4.19">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_9856cf0c30af61559e4453dfc5b66285">pecilen</comp>
+            </collocation>
+            <collocation form="malce pecilen" cluster="3" frequency="5" logDice="2.18">
+              <comp position="1" type="collocate" sloleks="LE_2eec11a38ac5bbb5fa6d7682c1224a82">malce</comp>
+              <comp position="2" type="headword" sloleks="LE_9856cf0c30af61559e4453dfc5b66285">pecilen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

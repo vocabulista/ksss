@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="77781">pevovodja</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">794</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="pevovodja zbora" cluster="1" frequency="40" logDice="3.83">
+              <comp position="1" type="headword" sloleks="LE_bd9e830eea5fb9b5723bfe5d3448047e">pevovodja</comp>
+              <comp position="2" type="collocate" sloleks="LE_56ae41b6d71148e851cdd275624be8f4">zbora</comp>
+            </collocation>
+            <collocation form="vodstvo pevovodje" cluster="2" frequency="41" logDice="3.26">
+              <comp position="1" type="collocate" sloleks="LE_cfbf3b6eda6e115103a1a0b3fa68f541">vodstvo</comp>
+              <comp position="2" type="headword" sloleks="LE_bd9e830eea5fb9b5723bfe5d3448047e">pevovodje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ3">
+          <collocations>
+            <collocation form="želeti pevovodji" cluster="1" frequency="8" logDice="4.74">
+              <comp position="1" type="collocate" sloleks="LE_17ffd1287d6ed148bbb9efebc7ef0868">želeti</comp>
+              <comp position="2" type="headword" sloleks="LE_bd9e830eea5fb9b5723bfe5d3448047e">pevovodji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="dolgoleten pevovodja" cluster="1" frequency="14" logDice="2.95">
+              <comp position="1" type="collocate" sloleks="LE_0ba24e8167aebc0a1354105816269ff0">dolgoleten</comp>
+              <comp position="2" type="headword" sloleks="LE_bd9e830eea5fb9b5723bfe5d3448047e">pevovodja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="zbor s pevovodjem" cluster="1" frequency="5" logDice="6.16">
+              <comp position="1" type="collocate" sloleks="LE_56ae41b6d71148e851cdd275624be8f4">zbor</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_bd9e830eea5fb9b5723bfe5d3448047e">pevovodjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

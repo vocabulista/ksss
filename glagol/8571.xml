@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="8571">strjevati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">462</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz INF-GBZ">
+          <collocations>
+            <collocation form="začeti strjevati" cluster="1" frequency="109" logDice="2.91">
+              <comp position="1" type="collocate" sloleks="LE_5526be99243d6a70e33b06d3eabd15ae">začeti</comp>
+              <comp position="2" type="headword" sloleks="LE_8f2a285f0c4d3beff821561828658352">strjevati</comp>
+            </collocation>
+            <collocation form="pričeti strjevati" cluster="2" frequency="5" logDice="2.39">
+              <comp position="1" type="collocate" sloleks="LE_ded1741f1de355cb4a0e75c9109c069d">pričeti</comp>
+              <comp position="2" type="headword" sloleks="LE_8f2a285f0c4d3beff821561828658352">strjevati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="hitro strjevati" cluster="1" frequency="24" logDice="1.84">
+              <comp position="1" type="collocate" sloleks="LE_cb95fbdb78349dad33e3d99ea7f281a8">hitro</comp>
+              <comp position="2" type="headword" sloleks="LE_8f2a285f0c4d3beff821561828658352">strjevati</comp>
+            </collocation>
+            <collocation form="počasi strjevati" cluster="2" frequency="6" logDice="1.18">
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              <comp position="2" type="headword" sloleks="LE_8f2a285f0c4d3beff821561828658352">strjevati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

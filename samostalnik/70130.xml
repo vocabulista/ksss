@@ -1,0 +1,36 @@
+<entry>
+  <header>
+    <lexical_unit id="70130">modrovanje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">914</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 o sbz5">
+          <collocations>
+            <collocation form="modrovanje o ljubezni" cluster="1" frequency="4" logDice="5.1">
+              <comp position="1" type="headword" sloleks="LE_c07a3f9f78233b45e4cd2fc6f275a3ae">modrovanje</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="collocate" sloleks="LE_d611157e356b5a208a076a88682815f7">ljubezni</comp>
+            </collocation>
+            <collocation form="modrovanje o življenju" cluster="2" frequency="9" logDice="4.72">
+              <comp position="1" type="headword" sloleks="LE_c07a3f9f78233b45e4cd2fc6f275a3ae">modrovanje</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="collocate" sloleks="LE_b7a6a2019becc6510edb8591e171b0a7">življenju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="čas za modrovanje" cluster="1" frequency="7" logDice="1.5">
+              <comp position="1" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">čas</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_c07a3f9f78233b45e4cd2fc6f275a3ae">modrovanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

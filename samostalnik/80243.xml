@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="80243">ponirek</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">515</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Ponirek iz Kočevja" cluster="1" frequency="29" logDice="8.11">
+              <comp position="1" type="headword" sloleks="LE_26af4781261ddaee46c76e204e0b5a88">Ponirek</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_af36343765af451248d22b1a84e52eea">Kočevja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="čopast ponirek" cluster="1" frequency="106" logDice="12.17">
+              <comp position="1" type="collocate" sloleks="LE_8799fbe25903d4335d7dbf24da4f2d7b">čopast</comp>
+              <comp position="2" type="headword" sloleks="LE_26af4781261ddaee46c76e204e0b5a88">ponirek</comp>
+            </collocation>
+            <collocation form="črnogrl ponirek" cluster="2" frequency="9" logDice="10.07">
+              <comp position="1" type="collocate" sloleks="LE_50f8ee0531e35b796c993b27b1d634e5">črnogrl</comp>
+              <comp position="2" type="headword" sloleks="LE_26af4781261ddaee46c76e204e0b5a88">ponirek</comp>
+            </collocation>
+            <collocation form="mali ponirek" cluster="3" frequency="84" logDice="3.25">
+              <comp position="1" type="collocate" sloleks="LE_0b2cc34f00671cbd2bc04dca56aba76b">mali</comp>
+              <comp position="2" type="headword" sloleks="LE_26af4781261ddaee46c76e204e0b5a88">ponirek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,48 @@
+<entry>
+  <header>
+    <lexical_unit id="40509">elastično</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">418</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="rbz RBZ">
+          <collocations>
+            <collocation form="manj elastično" cluster="1" frequency="9" logDice="3.37">
+              <comp position="1" type="collocate" sloleks="LE_ecab8216e0225b7e80d79b53bd9b8959">manj</comp>
+              <comp position="2" type="headword" sloleks="LE_52930e10da29f9a06e40d98bd3014da9">elastično</comp>
+            </collocation>
+            <collocation form="bolj elastično" cluster="2" frequency="48" logDice="3.21">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_52930e10da29f9a06e40d98bd3014da9">elastično</comp>
+            </collocation>
+            <collocation form="dovolj elastično" cluster="3" frequency="9" logDice="2.97">
+              <comp position="1" type="collocate" sloleks="LE_0b387936af75c9d0092b835e9479f95c">dovolj</comp>
+              <comp position="2" type="headword" sloleks="LE_52930e10da29f9a06e40d98bd3014da9">elastično</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ in/ali rbz">
+          <collocations>
+            <collocation form="elastično in/ali čvrsto" cluster="1" frequency="10" logDice="9.18">
+              <comp position="3" type="headword" sloleks="LE_52930e10da29f9a06e40d98bd3014da9">elastično</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_fb8f747fcfda5caeafac4b8ddd9d4818">čvrsto</comp>
+              </collocation>
+            <collocation form="elastično in/ali gladko" cluster="2" frequency="8" logDice="7.81">
+              <comp position="3" type="headword" sloleks="LE_52930e10da29f9a06e40d98bd3014da9">elastično</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_04f6b62593d47982a0c9491a83a5c03f">gladko</comp>
+              </collocation>
+            <collocation form="elastično in/ali mehko" cluster="3" frequency="6" logDice="7.33">
+              <comp position="3" type="headword" sloleks="LE_52930e10da29f9a06e40d98bd3014da9">elastično</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_28fa5d3cbf6bf4077c4037b525fcc18e">mehko</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,40 @@
+<entry>
+  <header>
+    <lexical_unit id="2044">kipariti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">400</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ iz sbz2">
+          <collocations>
+            <collocation form="kipariti iz gline" cluster="1" frequency="4" logDice="7.89">
+              <comp position="1" type="headword" sloleks="LE_68f048a82758e26bc32b38b75a315e77">kipariti</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_d17b3486c5ae8e9e07721d722ebb613f">gline</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="kipariti v lesu" cluster="1" frequency="9" logDice="9.02">
+              <comp position="1" type="headword" sloleks="LE_68f048a82758e26bc32b38b75a315e77">kipariti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_a64d3c025e48884a3606fcff72b3d118">lesu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="kipariti z glino" cluster="1" frequency="4" logDice="8.66">
+              <comp position="1" type="headword" sloleks="LE_68f048a82758e26bc32b38b75a315e77">kipariti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_d17b3486c5ae8e9e07721d722ebb613f">glino</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

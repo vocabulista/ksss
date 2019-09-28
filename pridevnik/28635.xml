@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="28635">plebejski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">488</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="plebejski tribun" cluster="1" frequency="34" logDice="9.97">
+              <comp position="1" type="headword" sloleks="LE_6df361f8820bc497067b88d35e547c6a">plebejski</comp>
+              <comp position="2" type="collocate" sloleks="LE_d3524f8a811cd6a0d0b8c5be6721ceb6">tribun</comp>
+            </collocation>
+            <collocation form="plebejski obraz" cluster="2" frequency="6" logDice="1.79">
+              <comp position="1" type="headword" sloleks="LE_6df361f8820bc497067b88d35e547c6a">plebejski</comp>
+              <comp position="2" type="collocate" sloleks="LE_ace2f15ed5cc3848b7740939ded1abe9">obraz</comp>
+            </collocation>
+            <collocation form="plebejska različica" cluster="3" frequency="9" logDice="1.77">
+              <comp position="1" type="headword" sloleks="LE_6df361f8820bc497067b88d35e547c6a">plebejska</comp>
+              <comp position="2" type="collocate" sloleks="LE_01eeb2dc69e5d47e92faab5f88e63b8a">različica</comp>
+            </collocation>
+            <collocation form="plebejski avtomobil" cluster="4" frequency="6" logDice="0.55">
+              <comp position="1" type="headword" sloleks="LE_6df361f8820bc497067b88d35e547c6a">plebejski</comp>
+              <comp position="2" type="collocate" sloleks="LE_2d371ce9cfa94488baae8dd8023002e4">avtomobil</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="preveč plebejski" cluster="1" frequency="13" logDice="1.98">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_6df361f8820bc497067b88d35e547c6a">plebejski</comp>
+            </collocation>
+            <collocation form="bolj plebejski" cluster="2" frequency="40" logDice="1.02">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_6df361f8820bc497067b88d35e547c6a">plebejski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

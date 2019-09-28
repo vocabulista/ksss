@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="82709">prerod</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">470</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="naroden prerod" cluster="1" frequency="27" logDice="2.95">
+              <comp position="1" type="collocate" sloleks="LE_5aeb18f32525d080a73c8c3fa62276cd">naroden</comp>
+              <comp position="2" type="headword" sloleks="LE_3e30b96118f2ee41247d74ae6aebcb2f">prerod</comp>
+            </collocation>
+            <collocation form="gospodarski prerod" cluster="1" frequency="20" logDice="0.96">
+              <comp position="1" type="collocate" sloleks="LE_1aa1e878efd97a73d527fc52eaa518ec">gospodarski</comp>
+              <comp position="2" type="headword" sloleks="LE_3e30b96118f2ee41247d74ae6aebcb2f">prerod</comp>
+            </collocation>
+            <collocation form="duhoven prerod" cluster="2" frequency="9" logDice="2.59">
+              <comp position="1" type="collocate" sloleks="LE_6dce91b9373b8b9454c801a895690835">duhoven</comp>
+              <comp position="2" type="headword" sloleks="LE_3e30b96118f2ee41247d74ae6aebcb2f">prerod</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="obdobje preroda" cluster="1" frequency="6" logDice="1.41">
+              <comp position="1" type="collocate" sloleks="LE_498f5ebac18d9460a9f193249cd7f0bc">obdobje</comp>
+              <comp position="2" type="headword" sloleks="LE_3e30b96118f2ee41247d74ae6aebcb2f">preroda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="zasluga za prerod" cluster="1" frequency="4" logDice="4.1">
+              <comp position="1" type="collocate" sloleks="LE_921e4319dfd5fbef7d44fcc77b17a191">zasluga</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_3e30b96118f2ee41247d74ae6aebcb2f">prerod</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

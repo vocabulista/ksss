@@ -1,0 +1,36 @@
+<entry>
+  <header>
+    <lexical_unit id="53708">dobrohotnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">572</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="računati na dobrohotnost" cluster="1" frequency="7" logDice="3.71">
+              <comp position="1" type="collocate" sloleks="LE_ed3b261568347c34c579b6dd27087628">računati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_c132f0f699c49a96b9aaa7b5a5bd2864">dobrohotnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="sprejemati z dobrohotnostjo" cluster="1" frequency="4" logDice="4.9">
+              <comp position="1" type="collocate" sloleks="LE_0fa97469d22d1ca504cb433a78693003">sprejemati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_c132f0f699c49a96b9aaa7b5a5bd2864">dobrohotnostjo</comp>
+            </collocation>
+            <collocation form="sprejeti z dobrohotnostjo" cluster="2" frequency="4" logDice="3.23">
+              <comp position="1" type="collocate" sloleks="LE_8c2773c0d6ada89df427fbd2a83ca07b">sprejeti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_c132f0f699c49a96b9aaa7b5a5bd2864">dobrohotnostjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

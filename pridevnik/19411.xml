@@ -1,0 +1,337 @@
+<entry>
+  <header>
+    <lexical_unit id="19411">ilustriran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">2899</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="ilustriran ali neilustriran" cluster="1" frequency="5" logDice="10.57">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="">neilustriran</comp>
+            </collocation>
+            <collocation form="ilustriran in dokumentiran" cluster="2" frequency="6" logDice="8.63">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_4cddd61db01c22ccba0618714845fa33">dokumentiran</comp>
+            </collocation>
+            <collocation form="ilustriran in/ali napisan" cluster="3" frequency="12" logDice="8.02">
+              <comp position="3" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_82e7d6a38c23dc79178d5b103fbc5fee">napisan</comp>
+              </collocation>
+            <collocation form="ilustriran in/ali opisan" cluster="3" frequency="6" logDice="8.27">
+              <comp position="3" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_aac22157b6e4365f592abfaafcb39a5e">opisan</comp>
+              </collocation>
+            <collocation form="ilustriran in/ali oblikovan" cluster="4" frequency="13" logDice="8.08">
+              <comp position="3" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_ff0efcc3b4f500e66f0d07f7dbf6f6f3">oblikovan</comp>
+              </collocation>
+            <collocation form="ilustriran in/ali opremljen" cluster="4" frequency="8" logDice="6.43">
+              <comp position="3" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_19a212c8725270ac36e7d30192e9d081">opremljen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="ilustrirana enciklopedija" cluster="1" frequency="160" logDice="9.78">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_fff8b1adc232cda3303ef7e411579eda">enciklopedija</comp>
+            </collocation>
+            <collocation form="ilustrirana dopisnica" cluster="2" frequency="100" logDice="9.65">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_f11684e97b894e0cc66f028ac79aaef9">dopisnica</comp>
+            </collocation>
+            <collocation form="ilustrirana slikanica" cluster="3" frequency="13" logDice="6.34">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_d3cf64c6c48c7c94b474b3f6a9934d83">slikanica</comp>
+            </collocation>
+            <collocation form="ilustrirana brošura" cluster="4" frequency="12" logDice="6.27">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_0eb5fdbcd6690c756e6233e128b5dedc">brošura</comp>
+            </collocation>
+            <collocation form="ilustriran tednik" cluster="5" frequency="37" logDice="6.13">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="collocate" sloleks="LE_51e933e789ed84cbecc59361134a2cf0">tednik</comp>
+            </collocation>
+            <collocation form="ilustriran časopis" cluster="5" frequency="23" logDice="4.19">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="collocate" sloleks="LE_34e3ef81e77e995ef88c4b217d0fffce">časopis</comp>
+            </collocation>
+            <collocation form="ilustrirana revija" cluster="6" frequency="156" logDice="6.12">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_204d5501054914c9e28f5661e901ede4">revija</comp>
+            </collocation>
+            <collocation form="ilustriran atlas" cluster="7" frequency="9" logDice="5.94">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="collocate" sloleks="LE_a0332249abc5a15fd1cbe5ea6df55785">atlas</comp>
+            </collocation>
+            <collocation form="ilustrirana vezava" cluster="8" frequency="11" logDice="5.67">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_1058af2dcc865f85a72ff44ca3881ee4">vezava</comp>
+            </collocation>
+            <collocation form="ilustrirana knjiga" cluster="9" frequency="400" logDice="6.34">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_fcbd23f52ef0d5c8f302f9c1ba64a0e3">knjiga</comp>
+            </collocation>
+            <collocation form="ilustrirana zgodovina" cluster="9" frequency="143" logDice="5.64">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_b2dc0e37e23a16ae3fe7cfe473a5341b">zgodovina</comp>
+            </collocation>
+            <collocation form="ilustrirana zgodba" cluster="9" frequency="34" logDice="2.88">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_9d9531a39496cd12f07e32ab50c0280f">zgodba</comp>
+            </collocation>
+            <collocation form="ilustriran katalog" cluster="10" frequency="36" logDice="6.42">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="collocate" sloleks="LE_9547b328e89e3fa4fc55ace3a5f6ffb6">katalog</comp>
+            </collocation>
+            <collocation form="ilustriran zbornik" cluster="10" frequency="10" logDice="5.56">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="collocate" sloleks="LE_ea6f409ae45fc5d8a242f4c0b56ec5b4">zbornik</comp>
+            </collocation>
+            <collocation form="ilustrirana pravljica" cluster="11" frequency="28" logDice="5.5">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_cb17739012afdd088c494ad9d8f3c715">pravljica</comp>
+            </collocation>
+            <collocation form="ilustrirana pripoved" cluster="11" frequency="10" logDice="4.42">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_6749b412dbf48de100ddcf1b9d44afbd">pripoved</comp>
+            </collocation>
+            <collocation form="ilustrirana knjižica" cluster="12" frequency="68" logDice="7.32">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_ac1a9fbde96485a6355a2e514ca419fe">knjižica</comp>
+            </collocation>
+            <collocation form="ilustrirana publikacija" cluster="12" frequency="17" logDice="5.37">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_a57a2bcc5d2abddaccd58d93f77e921b">publikacija</comp>
+            </collocation>
+            <collocation form="ilustriran priročnik" cluster="13" frequency="56" logDice="7.38">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="collocate" sloleks="LE_a52d8b956195e3f1eca16253a748c4a6">priročnik</comp>
+            </collocation>
+            <collocation form="ilustriran vodnik" cluster="14" frequency="32" logDice="5.32">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="collocate" sloleks="LE_0687e35f4d45ca878cdb9b6070d2144d">vodnik</comp>
+            </collocation>
+            <collocation form="ilustriran rokopis" cluster="15" frequency="8" logDice="5.32">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="collocate" sloleks="LE_92b1bdeede4a9b37762d2f0acfe4a5be">rokopis</comp>
+            </collocation>
+            <collocation form="ilustriran leksikon" cluster="16" frequency="8" logDice="5.29">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="collocate" sloleks="LE_72eecc564ae73000ea2eaa7e1c986559">leksikon</comp>
+            </collocation>
+            <collocation form="ilustriran zemljevid" cluster="17" frequency="18" logDice="5.27">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="collocate" sloleks="LE_71735c9c54f4e5229fe9a9253eeb8bdf">zemljevid</comp>
+            </collocation>
+            <collocation form="ilustriran koledar" cluster="17" frequency="8" logDice="3.84">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="collocate" sloleks="LE_0a7417bd3017546801959cc4bb06ad48">koledar</comp>
+            </collocation>
+            <collocation form="ilustriran Slovenec" cluster="18" frequency="62" logDice="5.18">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="collocate" sloleks="LE_729f0d5f17646d52975cea70c2c90304|LE_28fbf96b9bd02e5a6e7ae885f022743f">Slovenec</comp>
+            </collocation>
+            <collocation form="ilustrirana zgodbica" cluster="19" frequency="8" logDice="5.18">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_78bad44e22fb1e6320771b152d09004e">zgodbica</comp>
+            </collocation>
+            <collocation form="ilustrirana izdaja" cluster="20" frequency="36" logDice="5.02">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_7683011bbc418354ce3ad92abaaaca94">izdaja</comp>
+            </collocation>
+            <collocation form="ilustrirana zbirka" cluster="20" frequency="14" logDice="2.66">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_b8e0610165688c675f0bd81c2c79fbd6">zbirka</comp>
+            </collocation>
+            <collocation form="ilustrirana šala" cluster="21" frequency="8" logDice="4.69">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_2f248d80a9464a9bdb878a604ce239a9">šala</comp>
+            </collocation>
+            <collocation form="ilustrirano poglavje" cluster="22" frequency="12" logDice="4.22">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirano</comp>
+              <comp position="2" type="collocate" sloleks="LE_9553c94c87ebe4fe9f6a62ac221968ed">poglavje</comp>
+            </collocation>
+            <collocation form="ilustriran roman" cluster="23" frequency="18" logDice="4.22">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="collocate" sloleks="LE_51813d02ce991492a6f83a8f5b683a69">roman</comp>
+            </collocation>
+            <collocation form="ilustrirano navodilo" cluster="24" frequency="11" logDice="4.04">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirano</comp>
+              <comp position="2" type="collocate" sloleks="LE_8daf57fcde59301e5309061d8310ca38">navodilo</comp>
+            </collocation>
+            <collocation form="ilustriran pregled" cluster="25" frequency="18" logDice="2.63">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="collocate" sloleks="LE_f84d3e1b7c509859312a86eee2d89a39">pregled</comp>
+            </collocation>
+            <collocation form="ilustriran prikaz" cluster="25" frequency="8" logDice="4.0">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="collocate" sloleks="LE_85696e09ddab3801fff8602d0bf167cc">prikaz</comp>
+            </collocation>
+            <collocation form="ilustriran junak" cluster="26" frequency="16" logDice="3.62">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="collocate" sloleks="LE_3fdde9a8b9ba96c07cf90ccc2958a9ec">junak</comp>
+            </collocation>
+            <collocation form="ilustrirano besedilo" cluster="27" frequency="15" logDice="2.8">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirano</comp>
+              <comp position="2" type="collocate" sloleks="LE_c2cf3f2b59c7730608bd4c4e20b22ee6">besedilo</comp>
+            </collocation>
+            <collocation form="ilustrirano pismo" cluster="27" frequency="13" logDice="3.04">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirano</comp>
+              <comp position="2" type="collocate" sloleks="LE_bc3ef9b863fbcf5d9ecc2351db390439">pismo</comp>
+            </collocation>
+            <collocation form="ilustrirana monografija" cluster="28" frequency="27" logDice="7.19">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_cb74b3b24f4b1c94005a35369a67c0df">monografija</comp>
+            </collocation>
+            <collocation form="ilustriran članek" cluster="29" frequency="8" logDice="2.57">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="collocate" sloleks="LE_7b76be0a2bcca59d06b588fb3688bdd2">članek</comp>
+            </collocation>
+            <collocation form="ilustrirana kartica" cluster="30" frequency="9" logDice="2.08">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_cb56668d35805a0508305a5c38f3052a">kartica</comp>
+            </collocation>
+            <collocation form="ilustriran list" cluster="31" frequency="17" logDice="1.72">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="collocate" sloleks="LE_83c15927a3c6619d08f16ff12f82390f">list</comp>
+            </collocation>
+            <collocation form="ilustrirana stran" cluster="32" frequency="24" logDice="0.99">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_4432316ca39663f747c84fc21ac8e398">stran</comp>
+            </collocation>
+            <collocation form="ilustriran žig" cluster="33" frequency="34" logDice="7.09">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="collocate" sloleks="LE_4f60a924045bea0779fab8612c402188">žig</comp>
+            </collocation>
+            <collocation form="ilustrirana biografija" cluster="34" frequency="19" logDice="6.7">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_e7107116030c4312ea1383044c50aec5">biografija</comp>
+            </collocation>
+            <collocation form="ilustrirana biblija" cluster="35" frequency="12" logDice="6.56">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_1c13722ae3210e4d5177d357072e096b">biblija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 z sbz6">
+          <collocations>
+            <collocation form="ilustriran z risbo" cluster="1" frequency="15" logDice="10.26">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_2d472b171e2b5313c89e8e24d787e4e7">risbo</comp>
+            </collocation>
+            <collocation form="ilustriran s fotografijo" cluster="2" frequency="52" logDice="10.16">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_e6df18792975a9b99ce5878081baa979">fotografijo</comp>
+            </collocation>
+            <collocation form="ilustriran s sliko" cluster="2" frequency="12" logDice="8.73">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_593e973f672b71320e37b77b785f08a0">sliko</comp>
+            </collocation>
+            <collocation form="ilustriran s posnetkom" cluster="2" frequency="9" logDice="9.53">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_d78075353c3af5f2f907864ca32067dd">posnetkom</comp>
+            </collocation>
+            <collocation form="ilustriran s karikaturo" cluster="3" frequency="6" logDice="9.73">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_3f66144bf361275855e98603790ed212">karikaturo</comp>
+            </collocation>
+            <collocation form="ilustriran z lesorezom" cluster="4" frequency="5" logDice="9.56">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_a06781e65490e29ebca4989cfcbfcd80">lesorezom</comp>
+            </collocation>
+            <collocation form="ilustriran z odlomkom" cluster="5" frequency="5" logDice="9.34">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_421af05000b251adfaec5ec4d11c460f">odlomkom</comp>
+            </collocation>
+            <collocation form="ilustriran s primerom" cluster="6" frequency="8" logDice="8.29">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_8e6db377d52cf3acd614b87429fb9858">primerom</comp>
+            </collocation>
+            <collocation form="ilustriran s podobo" cluster="6" frequency="5" logDice="7.32">
+              <comp position="1" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_f981a5dcf51e5a8e22672e1d3009ebfe">podobo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="bogato ilustriran" cluster="1" frequency="632" logDice="10.97">
+              <comp position="1" type="collocate" sloleks="LE_859a3542d7561a5c8858950fe16524b6">bogato</comp>
+              <comp position="2" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+            </collocation>
+            <collocation form="nazorno ilustriran" cluster="2" frequency="25" logDice="8.96">
+              <comp position="1" type="collocate" sloleks="LE_648ec65fc34868a6f43f4ba6752d4715">nazorno</comp>
+              <comp position="2" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+            </collocation>
+            <collocation form="lepo ilustriran" cluster="3" frequency="44" logDice="4.66">
+              <comp position="1" type="collocate" sloleks="LE_d01061f4e29d96c6aa9cb7941b715be1">lepo</comp>
+              <comp position="2" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+            </collocation>
+            <collocation form="dobro ilustriran" cluster="3" frequency="16" logDice="1.37">
+              <comp position="1" type="collocate" sloleks="LE_43e8da3e283609f4de7cfdb7a3e3a938">dobro</comp>
+              <comp position="2" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+            </collocation>
+            <collocation form="veliko ilustriran" cluster="3" frequency="8" logDice="0.52">
+              <comp position="1" type="collocate" sloleks="LE_431ef7ec57af288ca0e781bb12f6e7f0">veliko</comp>
+              <comp position="2" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+            </collocation>
+            <collocation form="ustrezno ilustriran" cluster="3" frequency="5" logDice="3.09">
+              <comp position="1" type="collocate" sloleks="LE_a0616e9dd61d3f4a2c19c7de0cb8734f">ustrezno</comp>
+              <comp position="2" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+            </collocation>
+            <collocation form="čudovito ilustriran" cluster="4" frequency="46" logDice="8.33">
+              <comp position="1" type="collocate" sloleks="LE_3146db26d263d4da71b8050a360032b3">čudovito</comp>
+              <comp position="2" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+            </collocation>
+            <collocation form="izvrstno ilustriran" cluster="4" frequency="5" logDice="5.73">
+              <comp position="1" type="collocate" sloleks="LE_e00c632212fd2eb6940eade430491a68">izvrstno</comp>
+              <comp position="2" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+            </collocation>
+            <collocation form="barvno ilustriran" cluster="5" frequency="22" logDice="7.91">
+              <comp position="1" type="collocate" sloleks="LE_900ab2b016663d7dc386f16564cf3b9c">barvno</comp>
+              <comp position="2" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+            </collocation>
+            <collocation form="vabljivo ilustriran" cluster="6" frequency="5" logDice="7.09">
+              <comp position="1" type="collocate" sloleks="LE_3cbf068d092cc3e7c4e8e39953ec9761">vabljivo</comp>
+              <comp position="2" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+            </collocation>
+            <collocation form="razkošno ilustriran" cluster="7" frequency="11" logDice="7.02">
+              <comp position="1" type="collocate" sloleks="LE_59cb8ed584898cb86071d36e3569e8dd">razkošno</comp>
+              <comp position="2" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustriran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz1 vez-gbz PBZ1">
+          <collocations>
+            <collocation form="knjiga je ilustrirana" cluster="1" frequency="16" logDice="9.62">
+              <comp position="1" type="collocate" sloleks="LE_fcbd23f52ef0d5c8f302f9c1ba64a0e3">knjiga</comp>
+              <comp position="2" type="other" sloleks="LE_4ce899cffc87547d3bbc80f27408a816">je</comp>
+              <comp position="3" type="headword" sloleks="LE_e1b312029a73a7829fd74e8a1442eb1b">ilustrirana</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

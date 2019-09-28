@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="93215">tetra</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">686</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="Tetra paka" cluster="1" frequency="192" logDice="11.41">
+              <comp position="1" type="headword" sloleks="LE_223e8ae4458ee615ec0659e6dfb36da8">Tetra</comp>
+              <comp position="2" type="collocate" sloleks="LE_27fae2755e72969690770b70d2e4848b">paka</comp>
+            </collocation>
+            <collocation form="Nicole tetre" cluster="2" frequency="27" logDice="11.81">
+              <comp position="1" type="collocate" sloleks="LE_aa58929144b34531c3915622432fdf25">Nicole</comp>
+              <comp position="2" type="headword" sloleks="LE_223e8ae4458ee615ec0659e6dfb36da8">tetre</comp>
+            </collocation>
+            <collocation form="Hannah tetre" cluster="3" frequency="12" logDice="11.67">
+              <comp position="1" type="collocate" sloleks="">Hannah</comp>
+              <comp position="2" type="headword" sloleks="LE_223e8ae4458ee615ec0659e6dfb36da8">tetre</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="plenica iz tetre" cluster="1" frequency="25" logDice="12.92">
+              <comp position="1" type="collocate" sloleks="LE_5d912933543d61dfa50df213c03d67a1">plenica</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_223e8ae4458ee615ec0659e6dfb36da8">tetre</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

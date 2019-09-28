@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="87860">sedmošolec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">983</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="sedmošolec iz šole" cluster="1" frequency="14" logDice="5.61">
+              <comp position="1" type="headword" sloleks="LE_9fcc588c62fdcfd80c3bb034b50b0643">sedmošolec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_9c664dac39a3cc920d3849a80fadafa1">šole</comp>
+            </collocation>
+            <collocation form="sedmošolec iz občine" cluster="2" frequency="6" logDice="4.3">
+              <comp position="1" type="headword" sloleks="LE_9fcc588c62fdcfd80c3bb034b50b0643">sedmošolec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_7b31296251a77ba2585c256bbbe52eb9">občine</comp>
+            </collocation>
+            <collocation form="sedmošolec iz Slovenije" cluster="3" frequency="5" logDice="2.5">
+              <comp position="1" type="headword" sloleks="LE_9fcc588c62fdcfd80c3bb034b50b0643">sedmošolec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Slovenije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz med SBZ6">
+          <collocations>
+            <collocation form="osvojiti med sedmošolcem" cluster="1" frequency="4" logDice="7.01">
+              <comp position="1" type="collocate" sloleks="LE_76aef771ce7e6f48a8cd473e1dff5a8d">osvojiti</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_9fcc588c62fdcfd80c3bb034b50b0643">sedmošolcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 med SBZ6">
+          <collocations>
+            <collocation form="anketa med sedmošolcem" cluster="1" frequency="4" logDice="6.12">
+              <comp position="1" type="collocate" sloleks="LE_0da1f929779532f99d08a72c4c53953d">anketa</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_9fcc588c62fdcfd80c3bb034b50b0643">sedmošolcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

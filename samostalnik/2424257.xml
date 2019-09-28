@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="2424257">palme</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="palme za bitango" cluster="1" frequency="8" logDice="13.67">
+              <comp position="1" type="headword" sloleks="">palme</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="">bitango</comp>
+            </collocation>
+            <collocation form="palme za barabo" cluster="2" frequency="4" logDice="10.73">
+              <comp position="1" type="headword" sloleks="">palme</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_1be50e8f0b4ccb9e0b466388b7504310">barabo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="divji palme" cluster="1" frequency="57" logDice="4.82">
+              <comp position="1" type="collocate" sloleks="LE_5ca5d3ebba6d615ded0f89b606cf0b92">divji</comp>
+              <comp position="2" type="headword" sloleks="">palme</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

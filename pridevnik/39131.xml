@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="39131">židan</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1222</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="židana marela" cluster="1" frequency="429" logDice="12.68">
+              <comp position="1" type="headword" sloleks="LE_3b52a62b6a9a1021af9657539d76e831">židana</comp>
+              <comp position="2" type="collocate" sloleks="LE_e27f7505750f0d798b98a4f270c03ea9">marela</comp>
+            </collocation>
+            <collocation form="židana volja" cluster="2" frequency="566" logDice="7.75">
+              <comp position="1" type="headword" sloleks="LE_3b52a62b6a9a1021af9657539d76e831">židana</comp>
+              <comp position="2" type="collocate" sloleks="LE_302cfe15db5d997ecf0eab411fa16934">volja</comp>
+            </collocation>
+            <collocation form="židana ruta" cluster="3" frequency="29" logDice="7.43">
+              <comp position="1" type="headword" sloleks="LE_3b52a62b6a9a1021af9657539d76e831">židana</comp>
+              <comp position="2" type="collocate" sloleks="LE_b80eeaf05ea05f5f887a4dadab1f8a58">ruta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz2">
+          <collocations>
+            <collocation form="židan volje" cluster="1" frequency="113" logDice="9.48">
+              <comp position="1" type="headword" sloleks="LE_3b52a62b6a9a1021af9657539d76e831">židan</comp>
+              <comp position="2" type="collocate" sloleks="LE_302cfe15db5d997ecf0eab411fa16934">volje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ2 sbz2">
+          <collocations>
+            <collocation form="židane volje" cluster="1" frequency="100" logDice="9.76">
+              <comp position="1" type="headword" sloleks="LE_3b52a62b6a9a1021af9657539d76e831">židane</comp>
+              <comp position="2" type="collocate" sloleks="LE_302cfe15db5d997ecf0eab411fa16934">volje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="bolj židan" cluster="1" frequency="34" logDice="0.79">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_3b52a62b6a9a1021af9657539d76e831">židan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

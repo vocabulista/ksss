@@ -1,0 +1,66 @@
+<entry>
+  <header>
+    <lexical_unit id="19987">izrojen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">653</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="izrojen nasad" cluster="1" frequency="16" logDice="5.72">
+              <comp position="1" type="headword" sloleks="LE_82ef14898fde783f198e26db5e7e3974">izrojen</comp>
+              <comp position="2" type="collocate" sloleks="LE_40cce179ada181f6c35c2170d42c6afa">nasad</comp>
+            </collocation>
+            <collocation form="izrojen les" cluster="2" frequency="28" logDice="5.51">
+              <comp position="1" type="headword" sloleks="LE_82ef14898fde783f198e26db5e7e3974">izrojen</comp>
+              <comp position="2" type="collocate" sloleks="LE_a64d3c025e48884a3606fcff72b3d118">les</comp>
+            </collocation>
+            <collocation form="izrojena veja" cluster="3" frequency="32" logDice="5.48">
+              <comp position="1" type="headword" sloleks="LE_82ef14898fde783f198e26db5e7e3974">izrojena</comp>
+              <comp position="2" type="collocate" sloleks="LE_3b64510c2ce1abbe1a994ff032f9ea0b">veja</comp>
+            </collocation>
+            <collocation form="izrojen poganjek" cluster="4" frequency="8" logDice="4.92">
+              <comp position="1" type="headword" sloleks="LE_82ef14898fde783f198e26db5e7e3974">izrojen</comp>
+              <comp position="2" type="collocate" sloleks="LE_1a3fec7c642e9abd2630530d29169d23">poganjek</comp>
+            </collocation>
+            <collocation form="izrojena umetnost" cluster="5" frequency="64" logDice="4.87">
+              <comp position="1" type="headword" sloleks="LE_82ef14898fde783f198e26db5e7e3974">izrojena</comp>
+              <comp position="2" type="collocate" sloleks="LE_14864f40c4c030e3c6501ecbd0a6f10b">umetnost</comp>
+            </collocation>
+            <collocation form="izrojena elita" cluster="6" frequency="13" logDice="3.89">
+              <comp position="1" type="headword" sloleks="LE_82ef14898fde783f198e26db5e7e3974">izrojena</comp>
+              <comp position="2" type="collocate" sloleks="LE_03dc75445a80cf2fcec17f6787504f01">elita</comp>
+            </collocation>
+            <collocation form="izrojena celica" cluster="7" frequency="25" logDice="3.77">
+              <comp position="1" type="headword" sloleks="LE_82ef14898fde783f198e26db5e7e3974">izrojena</comp>
+              <comp position="2" type="collocate" sloleks="LE_1ed881633dbb1f517bddbe0c4786e572">celica</comp>
+            </collocation>
+            <collocation form="izrojena oblika" cluster="8" frequency="13" logDice="1.07">
+              <comp position="1" type="headword" sloleks="LE_82ef14898fde783f198e26db5e7e3974">izrojena</comp>
+              <comp position="2" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">oblika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="izrojen in/ali star" cluster="1" frequency="7" logDice="3.14">
+              <comp position="3" type="headword" sloleks="LE_82ef14898fde783f198e26db5e7e3974">izrojen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_a60139f10427cd234d823ade0ac648c8">star</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="popolnoma izrojen" cluster="1" frequency="6" logDice="0.88">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_82ef14898fde783f198e26db5e7e3974">izrojen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

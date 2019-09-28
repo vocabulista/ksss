@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="86123">restrikcija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">511</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="finančna restrikcija" cluster="1" frequency="14" logDice="0.58">
+              <comp position="1" type="collocate" sloleks="LE_76df384d79317d3c493a25954b5b46e8">finančna</comp>
+              <comp position="2" type="headword" sloleks="LE_58103ec691714ded3a88b265ba454cb7">restrikcija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="odprava restrikcije" cluster="1" frequency="5" logDice="2.18">
+              <comp position="1" type="collocate" sloleks="LE_8302d4e7a55df7fb9c5b73050563e677">odprava</comp>
+              <comp position="2" type="headword" sloleks="LE_58103ec691714ded3a88b265ba454cb7">restrikcije</comp>
+            </collocation>
+            <collocation form="uvedba restrikcije" cluster="2" frequency="5" logDice="1.47">
+              <comp position="1" type="collocate" sloleks="LE_095bca6114678367cd4dbf7d3c5648fd">uvedba</comp>
+              <comp position="2" type="headword" sloleks="LE_58103ec691714ded3a88b265ba454cb7">restrikcije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,35 @@
+<entry>
+  <header>
+    <lexical_unit id="47781">argo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1133</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Argo iz Horjula" cluster="1" frequency="4" logDice="7.97">
+              <comp position="1" type="headword" sloleks="LE_fbffa805f5f4a1f88698b3036426cff4">Argo</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_3bea2bb7b6c30f379d8781d0893ea795">Horjula</comp>
+            </collocation>
+            <collocation form="Argo iz Izole" cluster="2" frequency="6" logDice="6.8">
+              <comp position="1" type="headword" sloleks="LE_fbffa805f5f4a1f88698b3036426cff4">Argo</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_f557073c02a7a04ff6f1cdcc6750d288">Izole</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="izolski argo" cluster="1" frequency="11" logDice="4.42">
+              <comp position="1" type="collocate" sloleks="LE_ee96ae52ed48f224d4242c8cf9530622">izolski</comp>
+              <comp position="2" type="headword" sloleks="LE_fbffa805f5f4a1f88698b3036426cff4">argo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

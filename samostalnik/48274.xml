@@ -1,0 +1,69 @@
+<entry>
+  <header>
+    <lexical_unit id="48274">avtosedež</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">710</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="avtosedež za otroka" cluster="1" frequency="87" logDice="5.61">
+              <comp position="1" type="headword" sloleks="LE_05189ad2febe641025c0e82b0c9b4135">avtosedež</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otroka</comp>
+            </collocation>
+            <collocation form="prevleka za avtosedež" cluster="2" frequency="4" logDice="7.07">
+              <comp position="1" type="collocate" sloleks="LE_89b65786cf7894e05aa72a0b917bf674">prevleka</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_05189ad2febe641025c0e82b0c9b4135">avtosedež</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="sedeti v avtosedežu" cluster="1" frequency="7" logDice="3.69">
+              <comp position="1" type="collocate" sloleks="LE_6c51fc6acaa9f912c99d28dae2215dbd">sedeti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_05189ad2febe641025c0e82b0c9b4135">avtosedežu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="otroški avtosedež" cluster="1" frequency="151" logDice="5.15">
+              <comp position="1" type="collocate" sloleks="LE_1fbf9a7270f9b230effd46d49123fdff">otroški</comp>
+              <comp position="2" type="headword" sloleks="LE_05189ad2febe641025c0e82b0c9b4135">avtosedež</comp>
+            </collocation>
+            <collocation form="varnosten avtosedež" cluster="2" frequency="9" logDice="1.25">
+              <comp position="1" type="collocate" sloleks="LE_58b96ef5c98808a2c5bca972d7b56147">varnosten</comp>
+              <comp position="2" type="headword" sloleks="LE_05189ad2febe641025c0e82b0c9b4135">avtosedež</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="test avtosedeža" cluster="1" frequency="12" logDice="5.12">
+              <comp position="1" type="collocate" sloleks="LE_b9ec7ab730b3894358b8a9143ca6bfa0">test</comp>
+              <comp position="2" type="headword" sloleks="LE_05189ad2febe641025c0e82b0c9b4135">avtosedeža</comp>
+            </collocation>
+            <collocation form="pranje avtosedeža" cluster="2" frequency="12" logDice="4.95">
+              <comp position="1" type="collocate" sloleks="LE_97007ec187b59796fac17168c6ec8a54">pranje</comp>
+              <comp position="2" type="headword" sloleks="LE_05189ad2febe641025c0e82b0c9b4135">avtosedeža</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="otrok v avtosedežu" cluster="1" frequency="5" logDice="2.57">
+              <comp position="1" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otrok</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_05189ad2febe641025c0e82b0c9b4135">avtosedežu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

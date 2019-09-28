@@ -1,0 +1,28 @@
+<entry>
+  <header>
+    <lexical_unit id="1902901">narko</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="narko kartela" cluster="1" frequency="28" logDice="9.64">
+              <comp position="1" type="headword" sloleks="">narko</comp>
+              <comp position="2" type="collocate" sloleks="LE_ffe077ce6bc8e38f5dd490d3d4a01f15">kartela</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="kolumbijski narko" cluster="1" frequency="21" logDice="7.1">
+              <comp position="1" type="collocate" sloleks="LE_cfa41f028f48b4588f20d92f5e357543">kolumbijski</comp>
+              <comp position="2" type="headword" sloleks="">narko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

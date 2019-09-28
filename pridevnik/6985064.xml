@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="6985064">nestanovanjski</lexical_unit>
+    <category>pridevnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nestanovanjski odjem" cluster="1" frequency="11" logDice="8.46">
+              <comp position="1" type="headword" sloleks="">nestanovanjski</comp>
+              <comp position="2" type="collocate" sloleks="LE_e5ac0539f72cd7079c27b7d4853a4acf">odjem</comp>
+            </collocation>
+            <collocation form="nestanovanjski stavba" cluster="2" frequency="237" logDice="6.88">
+              <comp position="1" type="headword" sloleks="">nestanovanjski</comp>
+              <comp position="2" type="collocate" sloleks="LE_d6a366f04b453f7b73bf85471dedf273">stavba</comp>
+            </collocation>
+            <collocation form="nestanovanjski objekt" cluster="2" frequency="53" logDice="3.77">
+              <comp position="1" type="headword" sloleks="">nestanovanjski</comp>
+              <comp position="2" type="collocate" sloleks="LE_bb14223520452df1f116f86800767b80">objekt</comp>
+            </collocation>
+            <collocation form="nestanovanjski zgradba" cluster="2" frequency="11" logDice="3.47">
+              <comp position="1" type="headword" sloleks="">nestanovanjski</comp>
+              <comp position="2" type="collocate" sloleks="LE_5ed2e1c19fed314ed0ea9f2938421c96">zgradba</comp>
+            </collocation>
+            <collocation form="nestanovanjski gradnja" cluster="3" frequency="26" logDice="4.31">
+              <comp position="1" type="headword" sloleks="">nestanovanjski</comp>
+              <comp position="2" type="collocate" sloleks="LE_3625065aad7c72d3cd7d1c94e3b12e46">gradnja</comp>
+            </collocation>
+            <collocation form="nestanovanjski raba" cluster="4" frequency="12" logDice="3.41">
+              <comp position="1" type="headword" sloleks="">nestanovanjski</comp>
+              <comp position="2" type="collocate" sloleks="LE_1cd13218e774ca6d3e52eec7f9a82211">raba</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="nestanovanjski in/ali stanovanjski" cluster="1" frequency="58" logDice="9.26">
+              <comp position="3" type="headword" sloleks="">nestanovanjski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_3917a76508b660426dfe74b81d7cf5aa">stanovanjski</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

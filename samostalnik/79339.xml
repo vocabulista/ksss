@@ -1,0 +1,63 @@
+<entry>
+  <header>
+    <lexical_unit id="79339">pogoltnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">661</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="pogoltnost na denar" cluster="1" frequency="5" logDice="8.38">
+              <comp position="1" type="headword" sloleks="LE_a427de127ec933439c9bcb75f6410375">pogoltnost</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="pogoltnost države" cluster="1" frequency="23" logDice="1.18">
+              <comp position="1" type="headword" sloleks="LE_a427de127ec933439c9bcb75f6410375">pogoltnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">države</comp>
+            </collocation>
+            <collocation form="žrtev pogoltnosti" cluster="2" frequency="6" logDice="1.84">
+              <comp position="1" type="collocate" sloleks="LE_f46ebb4646225631d376c958798abe48">žrtev</comp>
+              <comp position="2" type="headword" sloleks="LE_a427de127ec933439c9bcb75f6410375">pogoltnosti</comp>
+            </collocation>
+            <collocation form="posledica pogoltnosti" cluster="3" frequency="6" logDice="0.53">
+              <comp position="1" type="collocate" sloleks="LE_9e94e198ec2c32de37b2bd7b6e54af2e">posledica</comp>
+              <comp position="2" type="headword" sloleks="LE_a427de127ec933439c9bcb75f6410375">pogoltnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="človeška pogoltnost" cluster="1" frequency="25" logDice="2.89">
+              <comp position="1" type="collocate" sloleks="LE_fe1157a7f633de7dbc0311e392106972">človeška</comp>
+              <comp position="2" type="headword" sloleks="LE_a427de127ec933439c9bcb75f6410375">pogoltnost</comp>
+            </collocation>
+            <collocation form="materialna pogoltnost" cluster="1" frequency="9" logDice="2.69">
+              <comp position="1" type="collocate" sloleks="LE_2955219c9246919ab0996811ec1c2df6">materialna</comp>
+              <comp position="2" type="headword" sloleks="LE_a427de127ec933439c9bcb75f6410375">pogoltnost</comp>
+            </collocation>
+            <collocation form="prevelika pogoltnost" cluster="2" frequency="8" logDice="2.41">
+              <comp position="1" type="collocate" sloleks="LE_3ddf4404d26d2b6a5d58add21db0bc9f">prevelika</comp>
+              <comp position="2" type="headword" sloleks="LE_a427de127ec933439c9bcb75f6410375">pogoltnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="očitek o pogoltnosti" cluster="1" frequency="4" logDice="4.38">
+              <comp position="1" type="collocate" sloleks="LE_73a297a00cf99013b6a034b27ec651af">očitek</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_a427de127ec933439c9bcb75f6410375">pogoltnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

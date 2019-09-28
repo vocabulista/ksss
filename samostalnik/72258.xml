@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="72258">nemorala</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">503</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="spolna nemorala" cluster="1" frequency="12" logDice="2.35">
+              <comp position="1" type="collocate" sloleks="LE_0d56e1388b1d26a013733a7e1fa383df">spolna</comp>
+              <comp position="2" type="headword" sloleks="LE_0b5afd7e5ae055c70fb9ac626d1c2b8a">nemorala</comp>
+            </collocation>
+            <collocation form="družbena nemorala" cluster="2" frequency="10" logDice="1.21">
+              <comp position="1" type="collocate" sloleks="LE_ed4b1882c5368358c8d65f6b03a4fa79">družbena</comp>
+              <comp position="2" type="headword" sloleks="LE_0b5afd7e5ae055c70fb9ac626d1c2b8a">nemorala</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="dejanje nemorale" cluster="1" frequency="5" logDice="2.11">
+              <comp position="1" type="collocate" sloleks="LE_838099f4290a785c6f8bfe0b75fb429d">dejanje</comp>
+              <comp position="2" type="headword" sloleks="LE_0b5afd7e5ae055c70fb9ac626d1c2b8a">nemorale</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

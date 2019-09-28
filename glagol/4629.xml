@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="4629">pavzirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">428</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="pavzirati na faksu" cluster="1" frequency="6" logDice="8.39">
+              <comp position="1" type="headword" sloleks="LE_6de8916c221fbcf12d646310c483c589">pavzirati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_7c6e9733a8ceaf788f47e151130cc99e">faksu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="trenutno pavzirati" cluster="1" frequency="21" logDice="3.23">
+              <comp position="1" type="collocate" sloleks="LE_5c9f3e114f691d1136d83ec593637dfd">trenutno</comp>
+              <comp position="2" type="headword" sloleks="LE_6de8916c221fbcf12d646310c483c589">pavzirati</comp>
+            </collocation>
+            <collocation form="enkrat pavzirati" cluster="2" frequency="4" logDice="0.33">
+              <comp position="1" type="collocate" sloleks="LE_a9aa19f4d3fe9f31d405ae8828e4b2fd">enkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_6de8916c221fbcf12d646310c483c589">pavzirati</comp>
+            </collocation>
+            <collocation form="malo pavzirati" cluster="3" frequency="5" logDice="0.31">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_6de8916c221fbcf12d646310c483c589">pavzirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

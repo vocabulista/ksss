@@ -1,0 +1,711 @@
+<entry>
+  <header>
+    <lexical_unit id="97860">zajec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">12447</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 brez sbz2">
+          <collocations>
+            <collocation form="zajec brez kosti" cluster="1" frequency="4" logDice="7.59">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="collocate" sloleks="LE_ae860e37542710feadcc849ae3977ee1">kosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="zajec iz klobuka" cluster="1" frequency="41" logDice="12.6">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_32ebc4ea53243469f126d30c5f041f87">klobuka</comp>
+            </collocation>
+            <collocation form="zajec iz grma" cluster="2" frequency="5" logDice="9.29">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_9543d6bf12d795fbca2859c352cc9755">grma</comp>
+            </collocation>
+            <collocation form="zajec iz pisarne" cluster="3" frequency="4" logDice="6.27">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_ada0b3b67080bfe4f736eaed10233e9f">pisarne</comp>
+            </collocation>
+            <collocation form="ragu iz zajca" cluster="4" frequency="4" logDice="10.34">
+              <comp position="1" type="collocate" sloleks="LE_9b5fec45ce11e11c142bf496b6a24e7c">ragu</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="zajec na boben" cluster="1" frequency="59" logDice="11.91">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_592fc494970d51640e73191493de2010">boben</comp>
+            </collocation>
+            <collocation form="zajec na način" cluster="2" frequency="8" logDice="2.58">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_78347f5e8e1e11f66d26223c13ba02df">način</comp>
+            </collocation>
+            <collocation form="lov na zajca" cluster="3" frequency="38" logDice="6.91">
+              <comp position="1" type="collocate" sloleks="LE_edd39bd58891ca70e7f6a1f23509f935">lov</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="lovec na zajca" cluster="4" frequency="7" logDice="5.23">
+              <comp position="1" type="collocate" sloleks="LE_24763f2ab0d5b4325cba6938bce045a0">lovec</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 na sbz5">
+          <collocations>
+            <collocation form="zajec na goljavi" cluster="1" frequency="9" logDice="11.09">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_664d36448c19aa66be82333282d17dbf">goljavi</comp>
+            </collocation>
+            <collocation form="zajec na luni" cluster="2" frequency="4" logDice="7.83">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_099b44813760f8d07380768a1b8df586">luni</comp>
+            </collocation>
+            <collocation form="zajec na dobravi" cluster="3" frequency="5" logDice="7.52">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_c125d2ec9090570185bb0261115a4d99">dobravi</comp>
+            </collocation>
+            <collocation form="zajec na Reki" cluster="4" frequency="9" logDice="5.7">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_6662cfa7fb9c1345baab0f694d5a3590">Reki</comp>
+            </collocation>
+            <collocation form="zajec na otoku" cluster="4" frequency="5" logDice="3.29">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_976e41875440aa22cfd78269f8eaf545">otoku</comp>
+            </collocation>
+            <collocation form="zajec na čelu" cluster="5" frequency="4" logDice="2.03">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_147fccc2e88a7c05d0f77ea0d2836189|LE_56159db6b003731c38bcece0e0c0617b">čelu</comp>
+            </collocation>
+            <collocation form="zajec na svetu" cluster="6" frequency="11" logDice="1.72">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_55184295ed657acc8ec5dcd62f7084bf">svetu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 pred sbz6">
+          <collocations>
+            <collocation form="zajec pred kačo" cluster="1" frequency="5" logDice="9.99">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_9298f64e4dc6e0f51820333998516c2a">kačo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="zajec v grmu" cluster="1" frequency="27" logDice="10.87">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_9543d6bf12d795fbca2859c352cc9755">grmu</comp>
+            </collocation>
+            <collocation form="zajec v obari" cluster="2" frequency="10" logDice="9.92">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_3506e013b8a573278dec0419f90f4d1e">obari</comp>
+            </collocation>
+            <collocation form="zajec v gostu" cluster="3" frequency="4" logDice="3.86">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_e6cee54a176357f6ae4eee7d6ef8c850">gostu</comp>
+            </collocation>
+            <collocation form="zajec v klobuku" cluster="4" frequency="15" logDice="9.91">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_32ebc4ea53243469f126d30c5f041f87">klobuku</comp>
+            </collocation>
+            <collocation form="zajec v zajčniku" cluster="5" frequency="4" logDice="8.71">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_c23c7bdce58c59aa5b8d30f8f6426871">zajčniku</comp>
+            </collocation>
+            <collocation form="zajec v omaki" cluster="6" frequency="41" logDice="8.44">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_23544152bbf41e13a1bc96c9137fb2c2">omaki</comp>
+            </collocation>
+            <collocation form="zajec v brlogu" cluster="7" frequency="5" logDice="8.23">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_1a80d6582f4c31705b8eeba185de251c">brlogu</comp>
+            </collocation>
+            <collocation form="zajec v grmovju" cluster="8" frequency="4" logDice="7.95">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_0c2c9bd480594670e542aa0ffd567110">grmovju</comp>
+            </collocation>
+            <collocation form="zajec v Avstraliji" cluster="9" frequency="5" logDice="4.65">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_dd95fd85007e6cdd7920319255ce2b12">Avstraliji</comp>
+            </collocation>
+            <collocation form="zajec v izvedbi" cluster="10" frequency="4" logDice="3.86">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_eac3c24d63d8726c39a0f4570aa48a38">izvedbi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="zajec z Reke" cluster="1" frequency="11" logDice="8.68">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_6662cfa7fb9c1345baab0f694d5a3590">Reke</comp>
+            </collocation>
+            <collocation form="zajec s strani" cluster="2" frequency="4" logDice="1.56">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_4432316ca39663f747c84fc21ac8e398">strani</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="zajec za sezuvanje" cluster="1" frequency="4" logDice="9.91">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b79a5fe850807c06ae50e2af74e7542a">sezuvanje</comp>
+            </collocation>
+            <collocation form="zajec za zakol" cluster="2" frequency="42" logDice="8.69">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_c85da6e3474f7f810f37e1b15c1097c3">zakol</comp>
+            </collocation>
+            <collocation form="zajec za rejo" cluster="3" frequency="14" logDice="7.54">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_7ab9f315ad27dd19d76eb4c6d2e4b90c">rejo</comp>
+            </collocation>
+            <collocation form="zajec za uho" cluster="4" frequency="4" logDice="6.53">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_ed81cbe45540a33ca421c25755837659">uho</comp>
+            </collocation>
+            <collocation form="kletka za zajca" cluster="5" frequency="13" logDice="9.88">
+              <comp position="1" type="collocate" sloleks="LE_ed92f91dcdf70153178ef676c9285434">kletka</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="hrana za zajca" cluster="6" frequency="7" logDice="5.16">
+              <comp position="1" type="collocate" sloleks="LE_4b3b80327bf9e7fafcc3a73e85eae950">hrana</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="rediti zajca" cluster="1" frequency="15" logDice="8.06">
+              <comp position="1" type="collocate" sloleks="LE_0159770f8855fb98462ef91fb9904fe2">rediti</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="streljati zajca" cluster="2" frequency="10" logDice="7.5">
+              <comp position="1" type="collocate" sloleks="LE_883490345b2778a1f83b18090d3efe44">streljati</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="loviti zajca" cluster="3" frequency="44" logDice="6.43">
+              <comp position="1" type="collocate" sloleks="LE_7836f654dc814f3a0a1a734465d8ab37">loviti</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="ujeti zajca" cluster="3" frequency="8" logDice="3.68">
+              <comp position="1" type="collocate" sloleks="LE_d05325c3602790e3c4b8226f75a2d17f">ujeti</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="gojiti zajca" cluster="4" frequency="18" logDice="5.71">
+              <comp position="1" type="collocate" sloleks="LE_5d2d117ea57d51fc28d15e357111137e">gojiti</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="prodati zajca" cluster="5" frequency="19" logDice="3.57">
+              <comp position="1" type="collocate" sloleks="LE_da511613d06b8d98752e3b8361d4d314">prodati</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="videti zajca" cluster="5" frequency="8" logDice="1.28">
+              <comp position="1" type="collocate" sloleks="LE_c26a3fecae6697a7f6f9475e85ca9f58">videti</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="potegniti zajca" cluster="6" frequency="8" logDice="3.48">
+              <comp position="1" type="collocate" sloleks="LE_179b1691ef7fadabc87cc8c86b4a4a55">potegniti</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ5">
+          <collocations>
+            <collocation form="preizkušati na zajcu" cluster="1" frequency="4" logDice="7.01">
+              <comp position="1" type="collocate" sloleks="LE_374f33b8d1a1049976882d6cde302a3d">preizkušati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajcu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz o SBZ5">
+          <collocations>
+            <collocation form="govoriti o zajcu" cluster="1" frequency="4" logDice="-0.16">
+              <comp position="1" type="collocate" sloleks="LE_1da4dedf23c5041ae767d038d2430123">govoriti</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajcu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="zadovoljiti z zajcem" cluster="1" frequency="4" logDice="3.92">
+              <comp position="1" type="collocate" sloleks="LE_e3629500a22b06fce8e9aac38d872d13">zadovoljiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajcem</comp>
+            </collocation>
+            <collocation form="imeti z zajcem" cluster="2" frequency="4" logDice="1.56">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ6">
+          <collocations>
+            <collocation form="teči za zajcem" cluster="1" frequency="14" logDice="10.16">
+              <comp position="1" type="collocate" sloleks="LE_b1ceb206a24c563d1c96e186a942b958">teči</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajcem</comp>
+            </collocation>
+            <collocation form="steči za zajcem" cluster="2" frequency="7" logDice="9.65">
+              <comp position="1" type="collocate" sloleks="LE_aacd98e5d5df2b0d057bfcb44b3f361d">steči</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajcem</comp>
+            </collocation>
+            <collocation form="poditi za zajcem" cluster="3" frequency="4" logDice="8.52">
+              <comp position="1" type="collocate" sloleks="LE_cd83da0d1395a19bc96f2762e5696c19">poditi</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="poskusen zajec" cluster="1" frequency="202" logDice="8.05">
+              <comp position="1" type="collocate" sloleks="LE_9257af7742c90496a06d83dbee7b9e8b">poskusen</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="velikonočen zajec" cluster="2" frequency="127" logDice="7.79">
+              <comp position="1" type="collocate" sloleks="LE_e9eb4c7d8a4f63ee1ba49d3f179f14f6">velikonočen</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="prestrašen zajec" cluster="3" frequency="19" logDice="6.28">
+              <comp position="1" type="collocate" sloleks="LE_a3554ab1bcc09266a78fb9e5a1675160">prestrašen</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="preplašen zajec" cluster="3" frequency="13" logDice="6.82">
+              <comp position="1" type="collocate" sloleks="LE_a296ae197f37d6cbd5a73290ad92db28">preplašen</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="plišast zajec" cluster="4" frequency="13" logDice="6.16">
+              <comp position="1" type="collocate" sloleks="LE_8cf86f4bc5e741a1b55e340aacd380f5">plišast</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="oslovski zajec" cluster="5" frequency="9" logDice="6.05">
+              <comp position="1" type="collocate" sloleks="LE_c521c6491c0de6b028f7eb83b423265f">oslovski</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="pečen zajec" cluster="6" frequency="28" logDice="5.45">
+              <comp position="1" type="collocate" sloleks="LE_47e8d97afbbe2e99ccd9f10fd0e294c9|LE_8a4c3d777258ff5407ec91ab5dd4ba55">pečen</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="dušen zajec" cluster="6" frequency="16" logDice="6.0">
+              <comp position="1" type="collocate" sloleks="LE_f213291fff8865354f9c3691d20e6665|LE_a09f86e5975991f9aef9a2777701364a">dušen</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="ocvrt zajec" cluster="6" frequency="9" logDice="5.12">
+              <comp position="1" type="collocate" sloleks="LE_0d5c2a6e9b70404d6061765a45a7b581">ocvrt</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="čokoladen zajec" cluster="7" frequency="25" logDice="5.84">
+              <comp position="1" type="collocate" sloleks="LE_6d67a84ee304fd81ebb651eadd732f8a">čokoladen</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="očiščen zajec" cluster="8" frequency="12" logDice="5.34">
+              <comp position="1" type="collocate" sloleks="LE_89c9d32892543a302ff98c937f462965">očiščen</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="buden zajec" cluster="9" frequency="9" logDice="5.09">
+              <comp position="1" type="collocate" sloleks="LE_e69f24b471aaf03b3d9d3b9b5de7454e">buden</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="bel zajec" cluster="10" frequency="194" logDice="4.6">
+              <comp position="1" type="collocate" sloleks="LE_50f9b0a6743feeba2fd5482919490dd5">bel</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="zelen zajec" cluster="10" frequency="56" logDice="3.86">
+              <comp position="1" type="collocate" sloleks="LE_6e8aa87791d8f00ce04541edfe194c36">zelen</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="navaden zajec" cluster="10" frequency="11" logDice="2.14">
+              <comp position="1" type="collocate" sloleks="LE_f59369d8b37702c03d2e6f31cbe3f5d8">navaden</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="moder zajec" cluster="10" frequency="11" logDice="2.05">
+              <comp position="1" type="collocate" sloleks="LE_b77d374d59b54f808284a0dca42e2434">moder</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="rjav zajec" cluster="10" frequency="10" logDice="3.38">
+              <comp position="1" type="collocate" sloleks="LE_907b694ff54d40e0f7f867c38196727d">rjav</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="zlat zajec" cluster="10" frequency="10" logDice="1.04">
+              <comp position="1" type="collocate" sloleks="LE_841fe594eda42d033f6b9f2e7dc246e9">zlat</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="siv zajec" cluster="10" frequency="9" logDice="2.69">
+              <comp position="1" type="collocate" sloleks="LE_ce212378727d442f18523e912c718df0">siv</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="poljski zajec" cluster="11" frequency="202" logDice="7.21">
+              <comp position="1" type="collocate" sloleks="LE_174cba4ecc1d9ce1e13824c5926a86a9">poljski</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="orjaški zajec" cluster="12" frequency="8" logDice="4.55">
+              <comp position="1" type="collocate" sloleks="LE_5816e4b836706c89275efc278822c92d">orjaški</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="domač zajec" cluster="13" frequency="115" logDice="3.07">
+              <comp position="1" type="collocate" sloleks="LE_a5a1f45c0526da991f5e1fe1ef9f90f5">domač</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="mrtev zajec" cluster="13" frequency="25" logDice="4.52">
+              <comp position="1" type="collocate" sloleks="LE_cb5f532d4270d28973cc89f7ded21a6f">mrtev</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="pravi zajec" cluster="13" frequency="25" logDice="0.56">
+              <comp position="1" type="collocate" sloleks="LE_b6d87b136784072fa5bb21831fa825be">pravi</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="živ zajec" cluster="13" frequency="16" logDice="2.54">
+              <comp position="1" type="collocate" sloleks="LE_d631b22ec6f88d4b2d35a791ecefe4f6">živ</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="podoben zajec" cluster="13" frequency="14" logDice="0.83">
+              <comp position="1" type="collocate" sloleks="LE_fe27dd90ab33535f358577dc2b8afbcb">podoben</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="mali zajec" cluster="13" frequency="13" logDice="0.54">
+              <comp position="1" type="collocate" sloleks="LE_0b2cc34f00671cbd2bc04dca56aba76b">mali</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="čuden zajec" cluster="13" frequency="12" logDice="3.3">
+              <comp position="1" type="collocate" sloleks="LE_184ae302f783082e6503d245655bf4fd">čuden</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="ljub zajec" cluster="13" frequency="9" logDice="2.52">
+              <comp position="1" type="collocate" sloleks="LE_fc021edf090973039a34c98f1019fd66">ljub</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="planinski zajec" cluster="14" frequency="37" logDice="4.48">
+              <comp position="1" type="collocate" sloleks="LE_548f746441b3c0fe6c2f5bd21bd3a399">planinski</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="snežen zajec" cluster="15" frequency="17" logDice="4.08">
+              <comp position="1" type="collocate" sloleks="LE_901f4ffc2c3ad51d4e789c6b2279273e|LE_f2ff6af86934c58de4430420bd8a79e1">snežen</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="ubog zajec" cluster="16" frequency="11" logDice="4.06">
+              <comp position="1" type="collocate" sloleks="LE_d321bf506113c7eb90b1fdf4c44e3b7f">ubog</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="morski zajec" cluster="17" frequency="38" logDice="4.0">
+              <comp position="1" type="collocate" sloleks="LE_57bed162279dc52ad8b850de264a14ad">morski</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="divji zajec" cluster="18" frequency="170" logDice="6.34">
+              <comp position="1" type="collocate" sloleks="LE_5ca5d3ebba6d615ded0f89b606cf0b92">divji</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="nor zajec" cluster="18" frequency="10" logDice="3.21">
+              <comp position="1" type="collocate" sloleks="LE_a23583b5dc9db7b5d672a710f0038177">nor</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="umeten zajec" cluster="19" frequency="12" logDice="2.82">
+              <comp position="1" type="collocate" sloleks="LE_83b537eb9c35d882973b3281ab147173">umeten</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="hiter zajec" cluster="20" frequency="14" logDice="1.28">
+              <comp position="1" type="collocate" sloleks="LE_2af28cbb04d2e8afedc54b00a27fc453">hiter</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="mlad zajec" cluster="21" frequency="35" logDice="1.18">
+              <comp position="1" type="collocate" sloleks="LE_0ee11dc77f2b35d3d3b7f2db250e72fb">mlad</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="nadevan zajec" cluster="22" frequency="17" logDice="6.82">
+              <comp position="1" type="collocate" sloleks="LE_e3682376fa14fdbb3eaa6c513b11f428">nadevan</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="razkosan zajec" cluster="23" frequency="10" logDice="6.63">
+              <comp position="1" type="collocate" sloleks="LE_fe27d2807cdf7b2758887d30c986ecdf">razkosan</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="plašen zajec" cluster="24" frequency="12" logDice="6.57">
+              <comp position="1" type="collocate" sloleks="LE_c94a05032aeffbbc0d6edde17f649e7c">plašen</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="angorski zajec" cluster="25" frequency="8" logDice="6.52">
+              <comp position="1" type="collocate" sloleks="LE_54d8ad066885dcc6aecee70130120a29">angorski</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+            <collocation form="dolgouh zajec" cluster="26" frequency="8" logDice="6.52">
+              <comp position="1" type="collocate" sloleks="LE_95adef60fbfb369ddcd5217a20cb72fd">dolgouh</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz SBZ2">
+          <collocations>
+            <collocation form="nikoli zajca" cluster="1" frequency="11" logDice="7.46">
+              <comp position="1" type="collocate" sloleks="LE_6ffec37fc59ab2f513410468cce388b4">nikoli</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Dane Zajca" cluster="1" frequency="80" logDice="10.16">
+              <comp position="1" type="collocate" sloleks="LE_3adc7f80f2e99ff7c3ecf62c8e8f1b45|LE_174f593e37b4ef486fdd17b5ce417d85">Dane</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">Zajca</comp>
+            </collocation>
+            <collocation form="Lenart Zajca" cluster="2" frequency="13" logDice="7.86">
+              <comp position="1" type="collocate" sloleks="LE_10298e1799bcac8c33487ec21f55a4cc|LE_d1c092440bedd1a461a70e2bc7ddf4f0">Lenart</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">Zajca</comp>
+            </collocation>
+            <collocation form="Roger zajca" cluster="3" frequency="9" logDice="6.72">
+              <comp position="1" type="collocate" sloleks="LE_1ebe28c79848b07615bfe1bbc03b2fb0">Roger</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="luka Zajca" cluster="4" frequency="12" logDice="6.66">
+              <comp position="1" type="collocate" sloleks="LE_d21e7c54bd3fc1af5542f84263436e68">luka</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">Zajca</comp>
+            </collocation>
+            <collocation form="meso zajca" cluster="5" frequency="17" logDice="6.3">
+              <comp position="1" type="collocate" sloleks="LE_4aa90a3e352de0e91eff0dc41f04a0ea">meso</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="Vonj zajca" cluster="6" frequency="17" logDice="5.81">
+              <comp position="1" type="collocate" sloleks="LE_469fcf2e42a356bc187917363e72f89a">Vonj</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="Ivan zajca" cluster="7" frequency="44" logDice="5.67">
+              <comp position="1" type="collocate" sloleks="LE_df1f0c9dc334b34a4b415a493216dbc6">Ivan</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="Srečko Zajca" cluster="8" frequency="9" logDice="5.43">
+              <comp position="1" type="collocate" sloleks="LE_295514db3636648af9bd1517dfe60af5">Srečko</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">Zajca</comp>
+            </collocation>
+            <collocation form="Aleksander zajca" cluster="9" frequency="8" logDice="5.4">
+              <comp position="1" type="collocate" sloleks="LE_08ddddcebc45c784d8b022397969756f">Aleksander</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="znamenje zajca" cluster="10" frequency="28" logDice="4.37">
+              <comp position="1" type="collocate" sloleks="LE_89ced9910fe1652d14eb02bd6bddca8a">znamenje</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="sled zajca" cluster="10" frequency="11" logDice="4.28">
+              <comp position="1" type="collocate" sloleks="LE_dd625ad43e9cf5421631fc70650263c6|LE_291e304cb7e9db1dd763515469187d38">sled</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="leto zajca" cluster="11" frequency="167" logDice="4.04">
+              <comp position="1" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leto</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="Vasilij zajca" cluster="12" frequency="11" logDice="7.78">
+              <comp position="1" type="collocate" sloleks="LE_5523d97b51bca7b3a187c7b6ce6aa533">Vasilij</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="tekmovanje zajca" cluster="13" frequency="10" logDice="3.86">
+              <comp position="1" type="collocate" sloleks="LE_cf9c71806a842d7c251392dd39734f20">tekmovanje</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="kos zajca" cluster="14" frequency="13" logDice="3.45">
+              <comp position="1" type="collocate" sloleks="LE_35ebb87a8e1c98db89588996cdc03ee1">kos</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="vloga zajca" cluster="15" frequency="26" logDice="2.74">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="vrsta zajca" cluster="16" frequency="15" logDice="0.8">
+              <comp position="1" type="collocate" sloleks="LE_4af9091c01f502e405be7dfe91eedee3">vrsta</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="podoba zajca" cluster="16" frequency="9" logDice="2.23">
+              <comp position="1" type="collocate" sloleks="LE_f981a5dcf51e5a8e22672e1d3009ebfe">podoba</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="razstava zajca" cluster="17" frequency="8" logDice="1.91">
+              <comp position="1" type="collocate" sloleks="LE_5360488843496d51e5802aa5c14a1d93">razstava</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="število zajca" cluster="18" frequency="20" logDice="1.11">
+              <comp position="1" type="collocate" sloleks="LE_59f757c87d8de95cdfd38f88b75245a6">število</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="lisica zajca" cluster="19" frequency="9" logDice="7.44">
+              <comp position="1" type="collocate" sloleks="LE_5535bc936b4e84f6a55d4428b54be8b4">lisica</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="Ljubo Zajca" cluster="20" frequency="11" logDice="7.42">
+              <comp position="1" type="collocate" sloleks="LE_e966b9fd8703c8ce97141135293a27ad">Ljubo</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">Zajca</comp>
+            </collocation>
+            <collocation form="Nikita zajca" cluster="21" frequency="9" logDice="7.4">
+              <comp position="1" type="collocate" sloleks="LE_e41a5cee6a93b451581718ea10f14500|LE_939b24695e8e7c923c74ad4cbb4e4bdc">Nikita</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="dlaka zajca" cluster="22" frequency="10" logDice="7.39">
+              <comp position="1" type="collocate" sloleks="LE_8650131a141ca862bb50877fbfcb7447">dlaka</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="kosa zajca" cluster="23" frequency="19" logDice="7.33">
+              <comp position="1" type="collocate" sloleks="LE_87def1c9af1e6ea32b7922cbf7c51455">kosa</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+            <collocation form="Ludvik Zajca" cluster="24" frequency="12" logDice="6.98">
+              <comp position="1" type="collocate" sloleks="LE_82fd35bbece728b9f2ba939d0be37f70|LE_17842428bfd9260d9805c7b07addbdad">Ludvik</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">Zajca</comp>
+            </collocation>
+            <collocation form="Gorazd Zajca" cluster="25" frequency="16" logDice="6.82">
+              <comp position="1" type="collocate" sloleks="LE_ff0be1f326e3c3cc1ef813d34c22389a">Gorazd</comp>
+              <comp position="2" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">Zajca</comp>
+            </collocation>
+            <collocation form="zajec Dolgouhca" cluster="26" frequency="10" logDice="10.46">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="collocate" sloleks="LE_86bed1da01b49c501c93741b30cf63b9">Dolgouhca</comp>
+            </collocation>
+            <collocation form="Zajec optika" cluster="27" frequency="11" logDice="9.24">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">Zajec</comp>
+              <comp position="2" type="collocate" sloleks="LE_71910b45c63d43e3bc63cdf02050c0d6">optika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="legenda o zajcu" cluster="1" frequency="7" logDice="6.03">
+              <comp position="1" type="collocate" sloleks="LE_a3cc26ca5d6d3315fe82bc1a8044d2a6">legenda</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajcu</comp>
+            </collocation>
+            <collocation form="zgodba o zajcu" cluster="2" frequency="45" logDice="4.66">
+              <comp position="1" type="collocate" sloleks="LE_9d9531a39496cd12f07e32ab50c0280f">zgodba</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajcu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 od SBZ2">
+          <collocations>
+            <collocation form="razlika od zajca" cluster="1" frequency="9" logDice="4.07">
+              <comp position="1" type="collocate" sloleks="LE_d8b5c5f08355edee42707780bbb4bdb8">razlika</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 pri SBZ5">
+          <collocations>
+            <collocation form="lokal pri zajcu" cluster="1" frequency="10" logDice="10.34">
+              <comp position="1" type="collocate" sloleks="LE_01a5a1a8780f9f8195bad6f52f34943f">lokal</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajcu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="orgija z zajcem" cluster="1" frequency="4" logDice="9.05">
+              <comp position="1" type="collocate" sloleks="LE_168ef49d2c7f8d621b514d82d0117aed">orgija</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajcem</comp>
+            </collocation>
+            <collocation form="poletje z Zajcem" cluster="2" frequency="19" logDice="8.98">
+              <comp position="1" type="collocate" sloleks="LE_b06e2bd9b91500201704bb0ef89a42ea">poletje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">Zajcem</comp>
+            </collocation>
+            <collocation form="kletka z zajcem" cluster="3" frequency="4" logDice="7.89">
+              <comp position="1" type="collocate" sloleks="LE_ed92f91dcdf70153178ef676c9285434">kletka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajcem</comp>
+            </collocation>
+            <collocation form="zgodba z zajcem" cluster="4" frequency="8" logDice="5.51">
+              <comp position="1" type="collocate" sloleks="LE_9d9531a39496cd12f07e32ab50c0280f">zgodba</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajcem</comp>
+            </collocation>
+            <collocation form="težava z zajcem" cluster="5" frequency="6" logDice="1.05">
+              <comp position="1" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težava</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajcem</comp>
+            </collocation>
+            <collocation form="zajec s šibro" cluster="6" frequency="4" logDice="9.5">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_b8ce157367186ef344485d5a584e84b2">šibro</comp>
+            </collocation>
+            <collocation form="Zajec z artičoko" cluster="7" frequency="5" logDice="9.18">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">Zajec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_32dca93ae6d0d8405b3bb54d8d544997">artičoko</comp>
+            </collocation>
+            <collocation form="zajec z repom" cluster="8" frequency="4" logDice="6.98">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_85cadaa0eacb7595e72a3703d455bafb">repom</comp>
+            </collocation>
+            <collocation form="zajec z jajcem" cluster="9" frequency="4" logDice="5.98">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_34df10e0b810b1e54b182eae5c69f11f">jajcem</comp>
+            </collocation>
+            <collocation form="zajec z zelenjavo" cluster="10" frequency="5" logDice="5.92">
+              <comp position="1" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_5508fb41c3d27538770156c7188c5329">zelenjavo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ6">
+          <collocations>
+            <collocation form="pes za zajcem" cluster="1" frequency="45" logDice="13.08">
+              <comp position="1" type="collocate" sloleks="LE_ae53f7aac94a7c78c3cb5c344c09f5ff">pes</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajcem</comp>
+            </collocation>
+            <collocation form="lov za zajcem" cluster="2" frequency="5" logDice="5.08">
+              <comp position="1" type="collocate" sloleks="LE_edd39bd58891ca70e7f6a1f23509f935">lov</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_61a31cf4927e85431d5e64fe47a707df">zajcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

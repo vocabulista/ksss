@@ -1,0 +1,57 @@
+<entry>
+  <header>
+    <lexical_unit id="25123">nečitljiv</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">494</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nečitljiva pisava" cluster="1" frequency="34" logDice="7.02">
+              <comp position="1" type="headword" sloleks="LE_738c71956817fe65ad3657125ac9e6cd">nečitljiva</comp>
+              <comp position="2" type="collocate" sloleks="LE_5fbddc1136a55ee5f88bc20165dc222a">pisava</comp>
+            </collocation>
+            <collocation form="nečitljiva črka" cluster="1" frequency="6" logDice="3.15">
+              <comp position="1" type="headword" sloleks="LE_738c71956817fe65ad3657125ac9e6cd">nečitljiva</comp>
+              <comp position="2" type="collocate" sloleks="LE_e88fb3a5ddae9f97933d9fac2b027fd1">črka</comp>
+            </collocation>
+            <collocation form="nečitljiv podpis" cluster="2" frequency="46" logDice="6.87">
+              <comp position="1" type="headword" sloleks="LE_738c71956817fe65ad3657125ac9e6cd">nečitljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_c3fd35282308d9af5f473575f71bf155">podpis</comp>
+            </collocation>
+            <collocation form="nečitljiv rokopis" cluster="3" frequency="12" logDice="6.43">
+              <comp position="1" type="headword" sloleks="LE_738c71956817fe65ad3657125ac9e6cd">nečitljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_92b1bdeede4a9b37762d2f0acfe4a5be">rokopis</comp>
+            </collocation>
+            <collocation form="nečitljiv recept" cluster="4" frequency="10" logDice="4.03">
+              <comp position="1" type="headword" sloleks="LE_738c71956817fe65ad3657125ac9e6cd">nečitljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_29b0e225b9cc0a9a52e020dacd37828d">recept</comp>
+            </collocation>
+            <collocation form="nečitljiv napis" cluster="5" frequency="6" logDice="3.69">
+              <comp position="1" type="headword" sloleks="LE_738c71956817fe65ad3657125ac9e6cd">nečitljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_5fb842be5b9529b5c0ae5eccdd7256f4">napis</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="pogosto nečitljiv" cluster="1" frequency="6" logDice="2.29">
+              <comp position="1" type="collocate" sloleks="LE_0c25a8b75185d62f2dab515299cccbfc">pogosto</comp>
+              <comp position="2" type="headword" sloleks="LE_738c71956817fe65ad3657125ac9e6cd">nečitljiv</comp>
+            </collocation>
+            <collocation form="popolnoma nečitljiv" cluster="2" frequency="14" logDice="2.1">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_738c71956817fe65ad3657125ac9e6cd">nečitljiv</comp>
+            </collocation>
+            <collocation form="povsem nečitljiv" cluster="3" frequency="11" logDice="0.75">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_738c71956817fe65ad3657125ac9e6cd">nečitljiv</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

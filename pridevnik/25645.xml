@@ -1,0 +1,67 @@
+<entry>
+  <header>
+    <lexical_unit id="25645">neperspektiven</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">597</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="neperspektivna panoga" cluster="1" frequency="28" logDice="4.98">
+              <comp position="1" type="headword" sloleks="LE_8d9ad3e4a15dbd35817b0938e6b82adc">neperspektivna</comp>
+              <comp position="2" type="collocate" sloleks="LE_5dd5d87c49a0de2c33e09014c426d8fd">panoga</comp>
+            </collocation>
+            <collocation form="neperspektivna nepremičnina" cluster="2" frequency="7" logDice="4.33">
+              <comp position="1" type="headword" sloleks="LE_8d9ad3e4a15dbd35817b0938e6b82adc">neperspektivna</comp>
+              <comp position="2" type="collocate" sloleks="LE_e03cce8e8fdcfa7234e192d292c86f74">nepremičnina</comp>
+            </collocation>
+            <collocation form="neperspektiven bolnik" cluster="3" frequency="11" logDice="3.29">
+              <comp position="1" type="headword" sloleks="LE_8d9ad3e4a15dbd35817b0938e6b82adc">neperspektiven</comp>
+              <comp position="2" type="collocate" sloleks="LE_b6c5a89fe8af52cbe0faba9f493dfdf3">bolnik</comp>
+            </collocation>
+            <collocation form="neperspektiven poklic" cluster="4" frequency="6" logDice="2.63">
+              <comp position="1" type="headword" sloleks="LE_8d9ad3e4a15dbd35817b0938e6b82adc">neperspektiven</comp>
+              <comp position="2" type="collocate" sloleks="LE_ee2dc2f20fc3eba609ef788b9cb08df4">poklic</comp>
+            </collocation>
+            <collocation form="neperspektivno podjetje" cluster="5" frequency="27" logDice="1.07">
+              <comp position="1" type="headword" sloleks="LE_8d9ad3e4a15dbd35817b0938e6b82adc">neperspektivno</comp>
+              <comp position="2" type="collocate" sloleks="LE_1aed870e4b1c077c155d34b01ab0af57">podjetje</comp>
+            </collocation>
+            <collocation form="neperspektiven program" cluster="6" frequency="24" logDice="0.63">
+              <comp position="1" type="headword" sloleks="LE_8d9ad3e4a15dbd35817b0938e6b82adc">neperspektiven</comp>
+              <comp position="2" type="collocate" sloleks="LE_2da10dc9e8a0e2ff7fd5a1ddd0278e88">program</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="neperspektiven in/ali perspektiven" cluster="1" frequency="7" logDice="7.44">
+              <comp position="3" type="headword" sloleks="LE_8d9ad3e4a15dbd35817b0938e6b82adc">neperspektiven</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_379928e26e02ececf2cacf2a14389bdc">perspektiven</comp>
+              </collocation>
+            <collocation form="neperspektiven in/ali slab" cluster="2" frequency="7" logDice="3.96">
+              <comp position="3" type="headword" sloleks="LE_8d9ad3e4a15dbd35817b0938e6b82adc">neperspektiven</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_5da847918e778132f628328cb4ea2ee6">slab</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="dolgoročno neperspektiven" cluster="1" frequency="5" logDice="5.05">
+              <comp position="1" type="collocate" sloleks="LE_107f8a24bd88593839cff80ff4812906">dolgoročno</comp>
+              <comp position="2" type="headword" sloleks="LE_8d9ad3e4a15dbd35817b0938e6b82adc">neperspektiven</comp>
+            </collocation>
+            <collocation form="povsem neperspektiven" cluster="2" frequency="13" logDice="0.99">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_8d9ad3e4a15dbd35817b0938e6b82adc">neperspektiven</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

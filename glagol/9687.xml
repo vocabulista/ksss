@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="9687">zakrohotati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">458</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="zakrohotati na glas" cluster="1" frequency="25" logDice="5.83">
+              <comp position="1" type="headword" sloleks="LE_e0397b70a7a8aa2af63b457979674d5f">zakrohotati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_bdaf56c7a9eddd2562b11c97c0770037">glas</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="postavljaško zakrohotati" cluster="1" frequency="4" logDice="10.14">
+              <comp position="1" type="collocate" sloleks="LE_861fb6ab1589c0973fb1c3d2cc91ad04">postavljaško</comp>
+              <comp position="2" type="headword" sloleks="LE_e0397b70a7a8aa2af63b457979674d5f">zakrohotati</comp>
+            </collocation>
+            <collocation form="glasno zakrohotati" cluster="2" frequency="33" logDice="5.7">
+              <comp position="1" type="collocate" sloleks="LE_8d32e8ffef5c2d930893f51f039b425a">glasno</comp>
+              <comp position="2" type="headword" sloleks="LE_e0397b70a7a8aa2af63b457979674d5f">zakrohotati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

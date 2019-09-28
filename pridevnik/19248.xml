@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="19248">hruškast</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">426</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="hruškasta rit" cluster="1" frequency="15" logDice="6.48">
+              <comp position="1" type="headword" sloleks="LE_a958a544c360a7880f6f41bdfac350a0">hruškasta</comp>
+              <comp position="2" type="collocate" sloleks="LE_b204b88e2d8c06467e6dce084bb5a60b">rit</comp>
+            </collocation>
+            <collocation form="hruškasta zadnjica" cluster="1" frequency="6" logDice="5.73">
+              <comp position="1" type="headword" sloleks="LE_a958a544c360a7880f6f41bdfac350a0">hruškasta</comp>
+              <comp position="2" type="collocate" sloleks="LE_45005ccc9cb605056a3de29840f19a2b">zadnjica</comp>
+            </collocation>
+            <collocation form="hruškasta postava" cluster="2" frequency="51" logDice="5.82">
+              <comp position="1" type="headword" sloleks="LE_a958a544c360a7880f6f41bdfac350a0">hruškasta</comp>
+              <comp position="2" type="collocate" sloleks="LE_72bc418e99265866e31367a5fbce4660">postava</comp>
+            </collocation>
+            <collocation form="hruškast trup" cluster="3" frequency="6" logDice="5.62">
+              <comp position="1" type="headword" sloleks="LE_a958a544c360a7880f6f41bdfac350a0">hruškast</comp>
+              <comp position="2" type="collocate" sloleks="LE_c8842fff0cf66e689e98b4d9c29b8fad">trup</comp>
+            </collocation>
+            <collocation form="hruškast plod" cluster="4" frequency="13" logDice="5.46">
+              <comp position="1" type="headword" sloleks="LE_a958a544c360a7880f6f41bdfac350a0">hruškast</comp>
+              <comp position="2" type="collocate" sloleks="LE_5f1613124a6ae5aee1b7334685a0a2cc">plod</comp>
+            </collocation>
+            <collocation form="hruškasta oblika" cluster="5" frequency="135" logDice="4.44">
+              <comp position="1" type="headword" sloleks="LE_a958a544c360a7880f6f41bdfac350a0">hruškasta</comp>
+              <comp position="2" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">oblika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="hruškast in/ali okrogel" cluster="1" frequency="7" logDice="7.16">
+              <comp position="3" type="headword" sloleks="LE_a958a544c360a7880f6f41bdfac350a0">hruškast</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_1a37506e459dab9009464400693de811">okrogel</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

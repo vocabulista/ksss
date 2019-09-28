@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="3515685">sedan</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="fabio sedan" cluster="1" frequency="17" logDice="8.87">
+              <comp position="1" type="collocate" sloleks="">fabio</comp>
+              <comp position="2" type="headword" sloleks="">sedan</comp>
+            </collocation>
+            <collocation form="štirivraten sedan" cluster="2" frequency="16" logDice="8.02">
+              <comp position="1" type="collocate" sloleks="LE_7489c6320483bf0ab593bd944d9336fd">štirivraten</comp>
+              <comp position="2" type="headword" sloleks="">sedan</comp>
+            </collocation>
+            <collocation form="limuzinski sedan" cluster="2" frequency="14" logDice="6.34">
+              <comp position="1" type="collocate" sloleks="LE_f961ee78a39c263d2593ded275f0a0e4">limuzinski</comp>
+              <comp position="2" type="headword" sloleks="">sedan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="padec sedan" cluster="1" frequency="7" logDice="2.69">
+              <comp position="1" type="collocate" sloleks="LE_a260e3efa7fab3d144fd86b06b87bd26">padec</comp>
+              <comp position="2" type="headword" sloleks="">sedan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 pri SBZ5">
+          <collocations>
+            <collocation form="bitka pri sedan" cluster="1" frequency="11" logDice="6.97">
+              <comp position="1" type="collocate" sloleks="LE_3239feb2d63f3dff4413fd186b1e52d6">bitka</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="">sedan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

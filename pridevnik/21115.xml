@@ -1,0 +1,63 @@
+<entry>
+  <header>
+    <lexical_unit id="21115">klekljan</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">581</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="klekljan in šivan" cluster="1" frequency="10" logDice="11.63">
+              <comp position="1" type="headword" sloleks="LE_2eeabbc32b10904a5f7be5881827fe10">klekljan</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_74660b7305b07cb5eae5164653bafe31">šivan</comp>
+            </collocation>
+            <collocation form="klekljan in/ali kvačkan" cluster="2" frequency="15" logDice="10.92">
+              <comp position="3" type="headword" sloleks="LE_2eeabbc32b10904a5f7be5881827fe10">klekljan</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_1fef7b9b936b95d4725e63646a57e976">kvačkan</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="klekljana čipka" cluster="1" frequency="358" logDice="11.17">
+              <comp position="1" type="headword" sloleks="LE_2eeabbc32b10904a5f7be5881827fe10">klekljana</comp>
+              <comp position="2" type="collocate" sloleks="LE_c0caeedfcd295c95bd29e26224e158d5">čipka</comp>
+            </collocation>
+            <collocation form="klekljan prtiček" cluster="2" frequency="14" logDice="7.75">
+              <comp position="1" type="headword" sloleks="LE_2eeabbc32b10904a5f7be5881827fe10">klekljan</comp>
+              <comp position="2" type="collocate" sloleks="LE_7f48ae7150f06a18d56a878706acd983">prtiček</comp>
+            </collocation>
+            <collocation form="klekljan prt" cluster="3" frequency="27" logDice="7.64">
+              <comp position="1" type="headword" sloleks="LE_2eeabbc32b10904a5f7be5881827fe10">klekljan</comp>
+              <comp position="2" type="collocate" sloleks="LE_6cbf395500095ad5c91a218608f9c5a7">prt</comp>
+            </collocation>
+            <collocation form="klekljan pirh" cluster="4" frequency="9" logDice="7.21">
+              <comp position="1" type="headword" sloleks="LE_2eeabbc32b10904a5f7be5881827fe10">klekljan</comp>
+              <comp position="2" type="collocate" sloleks="LE_65e1d88c7ac1ce94ec3f7a1b56a6b17a">pirh</comp>
+            </collocation>
+            <collocation form="klekljana mojstrovina" cluster="5" frequency="13" logDice="5.56">
+              <comp position="1" type="headword" sloleks="LE_2eeabbc32b10904a5f7be5881827fe10">klekljana</comp>
+              <comp position="2" type="collocate" sloleks="LE_6dc31d6a9edc7f3f513b72b71f71d826">mojstrovina</comp>
+            </collocation>
+            <collocation form="klekljan izdelek" cluster="6" frequency="37" logDice="2.82">
+              <comp position="1" type="headword" sloleks="LE_2eeabbc32b10904a5f7be5881827fe10">klekljan</comp>
+              <comp position="2" type="collocate" sloleks="LE_bbffae950f5cec8d80d5d541602c3313">izdelek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="ročno klekljan" cluster="1" frequency="44" logDice="7.6">
+              <comp position="1" type="collocate" sloleks="LE_52e50fe0efd0025e3cd5e25b3cf4dad1">ročno</comp>
+              <comp position="2" type="headword" sloleks="LE_2eeabbc32b10904a5f7be5881827fe10">klekljan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="63473">kibic</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">399</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nogometen kibic" cluster="1" frequency="46" logDice="3.19">
+              <comp position="1" type="collocate" sloleks="LE_0362f75fc2a5319c05070b9999fd945f">nogometen</comp>
+              <comp position="2" type="headword" sloleks="LE_9cdd680f2fa5664167ac1fc98029a6bf">kibic</comp>
+            </collocation>
+            <collocation form="košarkarski kibic" cluster="2" frequency="13" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_5db8140f160fae1718043493b86b9ae8">košarkarski</comp>
+              <comp position="2" type="headword" sloleks="LE_9cdd680f2fa5664167ac1fc98029a6bf">kibic</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="inšpektor Kibica" cluster="1" frequency="5" logDice="5.06">
+              <comp position="1" type="collocate" sloleks="LE_c866f8e22b7b08322a5ff9bed93e29fa">inšpektor</comp>
+              <comp position="2" type="headword" sloleks="LE_9cdd680f2fa5664167ac1fc98029a6bf">Kibica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

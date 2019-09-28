@@ -1,0 +1,66 @@
+<entry>
+  <header>
+    <lexical_unit id="90799">spotika</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1950</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 med sbz6">
+          <collocations>
+            <collocation form="spotika med državo" cluster="1" frequency="16" logDice="4.28">
+              <comp position="1" type="headword" sloleks="LE_31fbe14fc13def8cafdfcd59aa4aaf07">spotika</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">državo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="spotika v pogajanju" cluster="1" frequency="11" logDice="6.43">
+              <comp position="1" type="headword" sloleks="LE_31fbe14fc13def8cafdfcd59aa4aaf07">spotika</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_642e4d802466cac0f5bfb0eb97892bb2">pogajanju</comp>
+            </collocation>
+            <collocation form="spotika v odnosu" cluster="2" frequency="29" logDice="5.97">
+              <comp position="1" type="headword" sloleks="LE_31fbe14fc13def8cafdfcd59aa4aaf07">spotika</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_77f2f37de07cb9f39cb3dd828efa7919">odnosu</comp>
+            </collocation>
+            <collocation form="spotika v zakonu" cluster="3" frequency="5" logDice="4.14">
+              <comp position="1" type="headword" sloleks="LE_31fbe14fc13def8cafdfcd59aa4aaf07">spotika</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_b3ce668b2bbbbdfa905463c113c05551">zakonu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="kamen spotike" cluster="1" frequency="1689" logDice="12.98">
+              <comp position="1" type="collocate" sloleks="LE_541ccb2b48e3b90da037335188199d9d">kamen</comp>
+              <comp position="2" type="headword" sloleks="LE_31fbe14fc13def8cafdfcd59aa4aaf07">spotike</comp>
+            </collocation>
+            <collocation form="kamenček spotike" cluster="2" frequency="6" logDice="6.6">
+              <comp position="1" type="collocate" sloleks="LE_33ed2f9adf5492109c32f18f20ca6365">kamenček</comp>
+              <comp position="2" type="headword" sloleks="LE_31fbe14fc13def8cafdfcd59aa4aaf07">spotike</comp>
+            </collocation>
+            <collocation form="predmet spotike" cluster="3" frequency="35" logDice="4.79">
+              <comp position="1" type="collocate" sloleks="LE_d51cd609db6fe289654ca191c3ec4f9a">predmet</comp>
+              <comp position="2" type="headword" sloleks="LE_31fbe14fc13def8cafdfcd59aa4aaf07">spotike</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ4">
+          <collocations>
+            <collocation form="jud v spotiko" cluster="1" frequency="5" logDice="10.49">
+              <comp position="1" type="collocate" sloleks="LE_4786fa4669c9bfc513fcca40a34a71fe">jud</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_31fbe14fc13def8cafdfcd59aa4aaf07">spotiko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

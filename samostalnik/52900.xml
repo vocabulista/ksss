@@ -1,0 +1,56 @@
+<entry>
+  <header>
+    <lexical_unit id="52900">demografija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">593</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="zakon demografije" cluster="1" frequency="5" logDice="3.04">
+              <comp position="1" type="collocate" sloleks="LE_b3ce668b2bbbbdfa905463c113c05551">zakon</comp>
+              <comp position="2" type="headword" sloleks="LE_21b3e3413a60b5bd2a00e50852ea583a">demografije</comp>
+            </collocation>
+            <collocation form="vprašanje demografije" cluster="2" frequency="9" logDice="1.6">
+              <comp position="1" type="collocate" sloleks="LE_18ddad642f4f2459ae6eda5f8fcda990">vprašanje</comp>
+              <comp position="2" type="headword" sloleks="LE_21b3e3413a60b5bd2a00e50852ea583a">demografije</comp>
+            </collocation>
+            <collocation form="problem demografije" cluster="2" frequency="8" logDice="2.12">
+              <comp position="1" type="collocate" sloleks="LE_978368a01311c2094cfb52416d9882f9">problem</comp>
+              <comp position="2" type="headword" sloleks="LE_21b3e3413a60b5bd2a00e50852ea583a">demografije</comp>
+            </collocation>
+            <collocation form="področje demografije" cluster="3" frequency="17" logDice="1.09">
+              <comp position="1" type="collocate" sloleks="LE_66c02e1a651f578a71415b967738b69b">področje</comp>
+              <comp position="2" type="headword" sloleks="LE_21b3e3413a60b5bd2a00e50852ea583a">demografije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="sprememba v demografiji" cluster="1" frequency="4" logDice="1.78">
+              <comp position="1" type="collocate" sloleks="LE_43a3bb7510833003ff85626ef9cc9915">sprememba</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_21b3e3413a60b5bd2a00e50852ea583a">demografiji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="strokovnjak za demografijo" cluster="1" frequency="13" logDice="4.44">
+              <comp position="1" type="collocate" sloleks="LE_f148c89ddbbfc6907ba9fc0273aa62b7">strokovnjak</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_21b3e3413a60b5bd2a00e50852ea583a">demografijo</comp>
+            </collocation>
+            <collocation form="inštitut za demografijo" cluster="2" frequency="5" logDice="2.4">
+              <comp position="1" type="collocate" sloleks="LE_656c06c9eac2e2d364a723c828c33be4">inštitut</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_21b3e3413a60b5bd2a00e50852ea583a">demografijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

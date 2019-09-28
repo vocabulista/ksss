@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="96661">vodovodar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">838</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="zamenjati za vodovodarja" cluster="1" frequency="7" logDice="4.65">
+              <comp position="1" type="collocate" sloleks="LE_e395afe4159582bd266b070324ce12da">zamenjati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_edcb06c40bc083a7e181b36c544cc805">vodovodarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="poljski vodovodar" cluster="1" frequency="20" logDice="3.96">
+              <comp position="1" type="collocate" sloleks="LE_174cba4ecc1d9ce1e13824c5926a86a9">poljski</comp>
+              <comp position="2" type="headword" sloleks="LE_edcb06c40bc083a7e181b36c544cc805">vodovodar</comp>
+            </collocation>
+            <collocation form="dežuren vodovodar" cluster="2" frequency="9" logDice="3.55">
+              <comp position="1" type="collocate" sloleks="LE_6bbdafc31d850b0b7630ef1b300fab92">dežuren</comp>
+              <comp position="2" type="headword" sloleks="LE_edcb06c40bc083a7e181b36c544cc805">vodovodar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Janez Vodovodarja" cluster="1" frequency="5" logDice="1.7">
+              <comp position="1" type="collocate" sloleks="LE_531603d00c9e2650d9065066af804665">Janez</comp>
+              <comp position="2" type="headword" sloleks="LE_edcb06c40bc083a7e181b36c544cc805">Vodovodarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

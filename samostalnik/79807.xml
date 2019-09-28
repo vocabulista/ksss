@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="79807">politikant</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">679</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nesposoben politikant" cluster="1" frequency="10" logDice="5.61">
+              <comp position="1" type="collocate" sloleks="LE_397c55429d56aa7b2878d73fb863f420">nesposoben</comp>
+              <comp position="2" type="headword" sloleks="LE_3408fa604c55f9f455a3d9293afc440a">politikant</comp>
+            </collocation>
+            <collocation form="razen politikant" cluster="2" frequency="9" logDice="1.46">
+              <comp position="1" type="collocate" sloleks="LE_10ab2d5761b41f492d84f334d55dcdd9">razen</comp>
+              <comp position="2" type="headword" sloleks="LE_3408fa604c55f9f455a3d9293afc440a">politikant</comp>
+            </collocation>
+            <collocation form="navaden politikant" cluster="2" frequency="8" logDice="1.72">
+              <comp position="1" type="collocate" sloleks="LE_f59369d8b37702c03d2e6f31cbe3f5d8">navaden</comp>
+              <comp position="2" type="headword" sloleks="LE_3408fa604c55f9f455a3d9293afc440a">politikant</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="peščica politikanta" cluster="1" frequency="5" logDice="4.15">
+              <comp position="1" type="collocate" sloleks="LE_eea98adda941479393268d1362374e67">peščica</comp>
+              <comp position="2" type="headword" sloleks="LE_3408fa604c55f9f455a3d9293afc440a">politikanta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

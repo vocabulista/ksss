@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="98694">zatohlost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">404</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="zatohlost prostora" cluster="1" frequency="8" logDice="1.34">
+              <comp position="1" type="headword" sloleks="LE_d8638a6def8294500a3e9114ce3a31a8">zatohlost</comp>
+              <comp position="2" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostora</comp>
+            </collocation>
+            <collocation form="ozračje zatohlosti" cluster="2" frequency="9" logDice="6.58">
+              <comp position="1" type="collocate" sloleks="LE_8291caba614922a8b9995df3a775e560">ozračje</comp>
+              <comp position="2" type="headword" sloleks="LE_d8638a6def8294500a3e9114ce3a31a8">zatohlosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="opozarjati na zatohlost" cluster="1" frequency="11" logDice="3.45">
+              <comp position="1" type="collocate" sloleks="LE_2b0d3172ed316ac5b17087cc44769a7a">opozarjati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_d8638a6def8294500a3e9114ce3a31a8">zatohlost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="provincialna zatohlost" cluster="1" frequency="11" logDice="7.61">
+              <comp position="1" type="collocate" sloleks="LE_89e1750d80f430f49693c0baad08a500">provincialna</comp>
+              <comp position="2" type="headword" sloleks="LE_d8638a6def8294500a3e9114ce3a31a8">zatohlost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 po SBZ5">
+          <collocations>
+            <collocation form="vonj po zatohlosti" cluster="1" frequency="7" logDice="4.57">
+              <comp position="1" type="collocate" sloleks="LE_469fcf2e42a356bc187917363e72f89a">vonj</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_d8638a6def8294500a3e9114ce3a31a8">zatohlosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

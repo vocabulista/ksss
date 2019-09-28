@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="75002">okoljevarstvo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">565</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="področje okoljevarstva" cluster="1" frequency="79" logDice="3.31">
+              <comp position="1" type="collocate" sloleks="LE_66c02e1a651f578a71415b967738b69b">področje</comp>
+              <comp position="2" type="headword" sloleks="LE_cdd130c21526714e375bcaf973796e76">okoljevarstva</comp>
+            </collocation>
+            <collocation form="vidik okoljevarstva" cluster="2" frequency="12" logDice="3.24">
+              <comp position="1" type="collocate" sloleks="LE_be1da62d7bc0dde0de684583bfe342d2">vidik</comp>
+              <comp position="2" type="headword" sloleks="LE_cdd130c21526714e375bcaf973796e76">okoljevarstva</comp>
+            </collocation>
+            <collocation form="promocija okoljevarstva" cluster="3" frequency="7" logDice="3.15">
+              <comp position="1" type="collocate" sloleks="LE_c3125f98a81b3e1fbaf96101d03d9985">promocija</comp>
+              <comp position="2" type="headword" sloleks="LE_cdd130c21526714e375bcaf973796e76">okoljevarstva</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 do SBZ2">
+          <collocations>
+            <collocation form="odnos do okoljevarstva" cluster="1" frequency="6" logDice="1.76">
+              <comp position="1" type="collocate" sloleks="LE_77f2f37de07cb9f39cb3dd828efa7919">odnos</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_cdd130c21526714e375bcaf973796e76">okoljevarstva</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

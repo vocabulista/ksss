@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="2686">nagledati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">821</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="nagledati v letu" cluster="1" frequency="4" logDice="-1.53">
+              <comp position="1" type="headword" sloleks="LE_0018d223f537987562b12a4087569464">nagledati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">letu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz INF-GBZ">
+          <collocations>
+            <collocation form="moči nagledati" cluster="1" frequency="82" logDice="3.99">
+              <comp position="1" type="collocate" sloleks="LE_d0d5036f97e772cb509411764a3a7f9e">moči</comp>
+              <comp position="2" type="headword" sloleks="LE_0018d223f537987562b12a4087569464">nagledati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz INF-GBZ">
+          <collocations>
+            <collocation form="ne moči nagledati" cluster="1" frequency="165" logDice="3.3">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_d0d5036f97e772cb509411764a3a7f9e">moči</comp>
+              <comp position="3" type="headword" sloleks="LE_0018d223f537987562b12a4087569464">nagledati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="golo nagledati" cluster="1" frequency="6" logDice="9.15">
+              <comp position="1" type="collocate" sloleks="LE_dc3e759ab2cad3eca0b66f3d8a3567f7">golo</comp>
+              <comp position="2" type="headword" sloleks="LE_0018d223f537987562b12a4087569464">nagledati</comp>
+            </collocation>
+            <collocation form="dodobra nagledati" cluster="2" frequency="27" logDice="5.42">
+              <comp position="1" type="collocate" sloleks="LE_3c8bd34eaaa54cedf37e03f66d875dd3">dodobra</comp>
+              <comp position="2" type="headword" sloleks="LE_0018d223f537987562b12a4087569464">nagledati</comp>
+            </collocation>
+            <collocation form="dovolj nagledati" cluster="3" frequency="17" logDice="4.38">
+              <comp position="1" type="collocate" sloleks="LE_0b387936af75c9d0092b835e9479f95c">dovolj</comp>
+              <comp position="2" type="headword" sloleks="LE_0018d223f537987562b12a4087569464">nagledati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

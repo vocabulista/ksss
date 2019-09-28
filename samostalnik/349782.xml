@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="349782">cruiser</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="cruiser serije" cluster="1" frequency="8" logDice="2.8">
+              <comp position="1" type="headword" sloleks="">cruiser</comp>
+              <comp position="2" type="collocate" sloleks="LE_7024b0f285ec3f777bbcddad6033b4b0">serije</comp>
+            </collocation>
+            <collocation form="land cruiser" cluster="2" frequency="27" logDice="11.82">
+              <comp position="1" type="collocate" sloleks="">land</comp>
+              <comp position="2" type="headword" sloleks="">cruiser</comp>
+            </collocation>
+            <collocation form="PT cruiser" cluster="3" frequency="5" logDice="10.75">
+              <comp position="1" type="collocate" sloleks="">PT</comp>
+              <comp position="2" type="headword" sloleks="">cruiser</comp>
+            </collocation>
+            <collocation form="Land cruiser" cluster="4" frequency="8" logDice="9.89">
+              <comp position="1" type="collocate" sloleks="">Land</comp>
+              <comp position="2" type="headword" sloleks="">cruiser</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="cruiser z motorjem" cluster="1" frequency="12" logDice="4.58">
+              <comp position="1" type="headword" sloleks="">cruiser</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_f2500a2481839c4e1efd6315d8b961cc">motorjem</comp>
+            </collocation>
+            <collocation form="cruiser z oznako" cluster="2" frequency="6" logDice="4.22">
+              <comp position="1" type="headword" sloleks="">cruiser</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_c30284008706011d571d9d77b13dc6f8">oznako</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,40 @@
+<entry>
+  <header>
+    <lexical_unit id="80088">pomfri</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">591</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="porcija pomfrija" cluster="1" frequency="12" logDice="7.14">
+              <comp position="1" type="collocate" sloleks="LE_8f4bbb8e3aa06868ed91e3fbecd6dcfb">porcija</comp>
+              <comp position="2" type="headword" sloleks="LE_8b81d234b87fd40f74ba100389fa5374">pomfrija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="hamburger s pomfrijem" cluster="1" frequency="4" logDice="9.65">
+              <comp position="1" type="collocate" sloleks="LE_84aac356c052349cece8da523d2a7de1">hamburger</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_8b81d234b87fd40f74ba100389fa5374">pomfrijem</comp>
+            </collocation>
+            <collocation form="zrezek s pomfrijem" cluster="2" frequency="18" logDice="9.07">
+              <comp position="1" type="collocate" sloleks="LE_84dcd16e9104b5721fc373c14af5f881">zrezek</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_8b81d234b87fd40f74ba100389fa5374">pomfrijem</comp>
+            </collocation>
+            <collocation form="sir s pomfrijem" cluster="3" frequency="4" logDice="7.06">
+              <comp position="1" type="collocate" sloleks="LE_7e0c00695c0da6161f60ca2c06d4efd1">sir</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_8b81d234b87fd40f74ba100389fa5374">pomfrijem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

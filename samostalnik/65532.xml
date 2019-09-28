@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="65532">kratkost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">495</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="kratkost mandata" cluster="1" frequency="12" logDice="3.89">
+              <comp position="1" type="headword" sloleks="LE_7ba95c51aec356855f7f77b4b40a5f6d">kratkost</comp>
+              <comp position="2" type="collocate" sloleks="LE_10deaaaf5499fafd43f9760ca754a56e">mandata</comp>
+            </collocation>
+            <collocation form="kratkost življenja" cluster="2" frequency="46" logDice="3.03">
+              <comp position="1" type="headword" sloleks="LE_7ba95c51aec356855f7f77b4b40a5f6d">kratkost</comp>
+              <comp position="2" type="collocate" sloleks="LE_b7a6a2019becc6510edb8591e171b0a7">življenja</comp>
+            </collocation>
+            <collocation form="kratkost spomina" cluster="2" frequency="8" logDice="3.62">
+              <comp position="1" type="headword" sloleks="LE_7ba95c51aec356855f7f77b4b40a5f6d">kratkost</comp>
+              <comp position="2" type="collocate" sloleks="LE_167f0dee994c09947ebc2f15dc4821bb">spomina</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="načelna kratkost" cluster="1" frequency="12" logDice="5.23">
+              <comp position="1" type="collocate" sloleks="LE_ac740e8ec8cda987da6f30deec1f8411">načelna</comp>
+              <comp position="2" type="headword" sloleks="LE_7ba95c51aec356855f7f77b4b40a5f6d">kratkost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

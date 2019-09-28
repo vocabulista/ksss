@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="2328">lektorirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">880</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="lektorirati tekst" cluster="1" frequency="8" logDice="5.83">
+              <comp position="1" type="headword" sloleks="LE_6759c5b9a73f372559c61621b85e4e97">lektorirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_2a1dc037ea9be653523a841f84de0814">tekst</comp>
+            </collocation>
+            <collocation form="lektorirati besedilo" cluster="1" frequency="7" logDice="3.67">
+              <comp position="1" type="headword" sloleks="LE_6759c5b9a73f372559c61621b85e4e97">lektorirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_c2cf3f2b59c7730608bd4c4e20b22ee6">besedilo</comp>
+            </collocation>
+            <collocation form="lektorirati gradivo" cluster="2" frequency="8" logDice="4.48">
+              <comp position="1" type="headword" sloleks="LE_6759c5b9a73f372559c61621b85e4e97">lektorirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_168ebc18569a69bcbcf4f6446e8ec3ea">gradivo</comp>
+            </collocation>
+            <collocation form="lektorirati knjigo" cluster="3" frequency="16" logDice="3.42">
+              <comp position="1" type="headword" sloleks="LE_6759c5b9a73f372559c61621b85e4e97">lektorirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_fcbd23f52ef0d5c8f302f9c1ba64a0e3">knjigo</comp>
+            </collocation>
+            <collocation form="lektorirati članek" cluster="3" frequency="6" logDice="3.89">
+              <comp position="1" type="headword" sloleks="LE_6759c5b9a73f372559c61621b85e4e97">lektorirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_7b76be0a2bcca59d06b588fb3688bdd2">članek</comp>
+            </collocation>
+            <collocation form="lektorirati nalogo" cluster="4" frequency="4" logDice="1.66">
+              <comp position="1" type="headword" sloleks="LE_6759c5b9a73f372559c61621b85e4e97">lektorirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_85b4631dc6e0b0f426e7455c2bc6a05e">nalogo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="enkrat lektorirati" cluster="1" frequency="5" logDice="0.65">
+              <comp position="1" type="collocate" sloleks="LE_a9aa19f4d3fe9f31d405ae8828e4b2fd">enkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_6759c5b9a73f372559c61621b85e4e97">lektorirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

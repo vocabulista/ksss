@@ -1,0 +1,83 @@
+<entry>
+  <header>
+    <lexical_unit id="30636">preresen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">562</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="preresna reč" cluster="1" frequency="11" logDice="4.25">
+              <comp position="1" type="headword" sloleks="LE_de99e962fc48c6a3195f84dfc2a54cae">preresna</comp>
+              <comp position="2" type="collocate" sloleks="LE_ec40c67040d4cf735e5bce273dcf2e58">reč</comp>
+            </collocation>
+            <collocation form="preresna zadeva" cluster="2" frequency="74" logDice="3.63">
+              <comp position="1" type="headword" sloleks="LE_de99e962fc48c6a3195f84dfc2a54cae">preresna</comp>
+              <comp position="2" type="collocate" sloleks="LE_4aa8d2e0c34be9b2fa77533511451a66">zadeva</comp>
+            </collocation>
+            <collocation form="preresna stvar" cluster="2" frequency="59" logDice="3.93">
+              <comp position="1" type="headword" sloleks="LE_de99e962fc48c6a3195f84dfc2a54cae">preresna</comp>
+              <comp position="2" type="collocate" sloleks="LE_c62e36388a9104c47cf960cd4bdf4ca3">stvar</comp>
+            </collocation>
+            <collocation form="preresen problem" cluster="3" frequency="8" logDice="0.99">
+              <comp position="1" type="headword" sloleks="LE_de99e962fc48c6a3195f84dfc2a54cae">preresen</comp>
+              <comp position="2" type="collocate" sloleks="LE_978368a01311c2094cfb52416d9882f9">problem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 za sbz4">
+          <collocations>
+            <collocation form="preresen za leto" cluster="1" frequency="10" logDice="6.49">
+              <comp position="1" type="headword" sloleks="LE_de99e962fc48c6a3195f84dfc2a54cae">preresen</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leto</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="veliko preresen" cluster="1" frequency="23" logDice="2.06">
+              <comp position="1" type="collocate" sloleks="LE_431ef7ec57af288ca0e781bb12f6e7f0">veliko</comp>
+              <comp position="2" type="headword" sloleks="LE_de99e962fc48c6a3195f84dfc2a54cae">preresen</comp>
+            </collocation>
+            <collocation form="mnogo preresen" cluster="1" frequency="5" logDice="2.61">
+              <comp position="1" type="collocate" sloleks="LE_7eb9b6433eefeacffb5e77062e3afd45">mnogo</comp>
+              <comp position="2" type="headword" sloleks="LE_de99e962fc48c6a3195f84dfc2a54cae">preresen</comp>
+            </collocation>
+            <collocation form="malce preresen" cluster="2" frequency="6" logDice="2.45">
+              <comp position="1" type="collocate" sloleks="LE_2eec11a38ac5bbb5fa6d7682c1224a82">malce</comp>
+              <comp position="2" type="headword" sloleks="LE_de99e962fc48c6a3195f84dfc2a54cae">preresen</comp>
+            </collocation>
+            <collocation form="nekoliko preresen" cluster="2" frequency="6" logDice="0.74">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_de99e962fc48c6a3195f84dfc2a54cae">preresen</comp>
+            </collocation>
+            <collocation form="kar preresen" cluster="3" frequency="19" logDice="2.01">
+              <comp position="1" type="collocate" sloleks="LE_c135f6fe8de5dfaaa58b36300e2bf493">kar</comp>
+              <comp position="2" type="headword" sloleks="LE_de99e962fc48c6a3195f84dfc2a54cae">preresen</comp>
+            </collocation>
+            <collocation form="vse preresen" cluster="3" frequency="8" logDice="1.04">
+              <comp position="1" type="collocate" sloleks="LE_69e1f6ea0eba690182112fa5f7865561">vse</comp>
+              <comp position="2" type="headword" sloleks="LE_de99e962fc48c6a3195f84dfc2a54cae">preresen</comp>
+            </collocation>
+            <collocation form="malo preresen" cluster="4" frequency="7" logDice="1.45">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_de99e962fc48c6a3195f84dfc2a54cae">preresen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz1 vez-gbz PBZ1">
+          <collocations>
+            <collocation form="zadeva je preresna" cluster="1" frequency="10" logDice="7.34">
+              <comp position="1" type="collocate" sloleks="LE_4aa8d2e0c34be9b2fa77533511451a66">zadeva</comp>
+              <comp position="2" type="other" sloleks="LE_4ce899cffc87547d3bbc80f27408a816">je</comp>
+              <comp position="3" type="headword" sloleks="LE_de99e962fc48c6a3195f84dfc2a54cae">preresna</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

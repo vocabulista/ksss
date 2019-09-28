@@ -1,0 +1,87 @@
+<entry>
+  <header>
+    <lexical_unit id="51773">čitanka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">591</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="čitanka iz leta" cluster="1" frequency="4" logDice="0.75">
+              <comp position="1" type="headword" sloleks="LE_6fb0f3a5e0020471e35653470ec94217">čitanka</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="čitanka za razred" cluster="1" frequency="17" logDice="7.37">
+              <comp position="1" type="headword" sloleks="LE_6fb0f3a5e0020471e35653470ec94217">čitanka</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_9e5978e647d0b1b5c8f6b7a8a17b952a">razred</comp>
+            </collocation>
+            <collocation form="čitanka za šolo" cluster="2" frequency="4" logDice="4.5">
+              <comp position="1" type="headword" sloleks="LE_6fb0f3a5e0020471e35653470ec94217">čitanka</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_9c664dac39a3cc920d3849a80fadafa1">šolo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="uvrstiti v čitanko" cluster="1" frequency="4" logDice="1.71">
+              <comp position="1" type="collocate" sloleks="LE_b10fc33d214decf5ddf5e67dc383d739">uvrstiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6fb0f3a5e0020471e35653470ec94217">čitanko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="najti v čitanki" cluster="1" frequency="8" logDice="2.36">
+              <comp position="1" type="collocate" sloleks="LE_843e328fc791979a62059ce2c06a66c8">najti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6fb0f3a5e0020471e35653470ec94217">čitanki</comp>
+            </collocation>
+            <collocation form="pisati v čitanki" cluster="2" frequency="4" logDice="2.3">
+              <comp position="1" type="collocate" sloleks="LE_4173587cb50dc70d0c9a1be18c9c1b96">pisati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6fb0f3a5e0020471e35653470ec94217">čitanki</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="slovstvena čitanka" cluster="1" frequency="9" logDice="7.88">
+              <comp position="1" type="collocate" sloleks="LE_642520bac5797c5e5cc3ff31ad3c5bce">slovstvena</comp>
+              <comp position="2" type="headword" sloleks="LE_6fb0f3a5e0020471e35653470ec94217">čitanka</comp>
+            </collocation>
+            <collocation form="zgodovinska čitanka" cluster="2" frequency="44" logDice="3.91">
+              <comp position="1" type="collocate" sloleks="LE_d84686f094c4cb6db7390b0d069179f7">zgodovinska</comp>
+              <comp position="2" type="headword" sloleks="LE_6fb0f3a5e0020471e35653470ec94217">čitanka</comp>
+            </collocation>
+            <collocation form="šolska čitanka" cluster="2" frequency="19" logDice="1.89">
+              <comp position="1" type="collocate" sloleks="LE_ce01686bf12835d64e816a68dc030efb">šolska</comp>
+              <comp position="2" type="headword" sloleks="LE_6fb0f3a5e0020471e35653470ec94217">čitanka</comp>
+            </collocation>
+            <collocation form="Prešernova čitanka" cluster="3" frequency="18" logDice="3.81">
+              <comp position="1" type="collocate" sloleks="LE_80e5d0c56ffc97d70310b4916f3288de">Prešernova</comp>
+              <comp position="2" type="headword" sloleks="LE_6fb0f3a5e0020471e35653470ec94217">čitanka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="soavtor čitanke" cluster="1" frequency="6" logDice="6.73">
+              <comp position="1" type="collocate" sloleks="LE_4c1afdd95e1044cecc506af0b7ab7589">soavtor</comp>
+              <comp position="2" type="headword" sloleks="LE_6fb0f3a5e0020471e35653470ec94217">čitanke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

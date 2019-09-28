@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="34230">smotan</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">595</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="smotan smrkljobot" cluster="1" frequency="7" logDice="9.95">
+              <comp position="1" type="headword" sloleks="LE_12fc5eb31bba40e52568618c155650f5">smotan</comp>
+              <comp position="2" type="collocate" sloleks="">smrkljobot</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="malo smotan" cluster="1" frequency="17" logDice="2.72">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_12fc5eb31bba40e52568618c155650f5">smotan</comp>
+            </collocation>
+            <collocation form="malce smotan" cluster="1" frequency="5" logDice="2.19">
+              <comp position="1" type="collocate" sloleks="LE_2eec11a38ac5bbb5fa6d7682c1224a82">malce</comp>
+              <comp position="2" type="headword" sloleks="LE_12fc5eb31bba40e52568618c155650f5">smotan</comp>
+            </collocation>
+            <collocation form="res smotan" cluster="2" frequency="17" logDice="2.44">
+              <comp position="1" type="collocate" sloleks="LE_f755b561969e89364cdbaba990b8838d">res</comp>
+              <comp position="2" type="headword" sloleks="LE_12fc5eb31bba40e52568618c155650f5">smotan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

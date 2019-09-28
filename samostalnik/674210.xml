@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="674210">escort</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="escort z registracijo" cluster="1" frequency="4" logDice="6.0">
+              <comp position="1" type="headword" sloleks="">escort</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_318dc97de2e1c34a0572cfeb3b00ef57">registracijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Fordov escort" cluster="1" frequency="8" logDice="5.67">
+              <comp position="1" type="collocate" sloleks="LE_873621b047bfe276530afab8103d4d0b">Fordov</comp>
+              <comp position="2" type="headword" sloleks="">escort</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="ford escort" cluster="1" frequency="99" logDice="11.73">
+              <comp position="1" type="collocate" sloleks="">ford</comp>
+              <comp position="2" type="headword" sloleks="">escort</comp>
+            </collocation>
+            <collocation form="Ford escort" cluster="2" frequency="6" logDice="7.67">
+              <comp position="1" type="collocate" sloleks="LE_9bbfbbeb55430c608bd4561215d50a1d|LE_147089ff8a38ccbff49c677260586f07">Ford</comp>
+              <comp position="2" type="headword" sloleks="">escort</comp>
+            </collocation>
+            <collocation form="escort dekleta" cluster="3" frequency="8" logDice="3.86">
+              <comp position="1" type="headword" sloleks="">escort</comp>
+              <comp position="2" type="collocate" sloleks="LE_096532181d6bd27207071283d945d14c">dekleta</comp>
+            </collocation>
+            <collocation form="escort RS" cluster="4" frequency="20" logDice="2.3">
+              <comp position="1" type="headword" sloleks="">escort</comp>
+              <comp position="2" type="collocate" sloleks="LE_055ca80434804d080a6a43fe0b613da8|LE_98af3850ac31027c2fd06cb8ab38a07d">RS</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

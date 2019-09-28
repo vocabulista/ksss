@@ -1,0 +1,52 @@
+<entry>
+  <header>
+    <lexical_unit id="20708">kanonski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">792</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="kanonski in civilen" cluster="1" frequency="5" logDice="5.73">
+              <comp position="1" type="headword" sloleks="LE_e2d621741da68953fc693c37b473996b">kanonski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_68917c860baa23cc37dae2b0129d6245">civilen</comp>
+            </collocation>
+            <collocation form="kanonski in/ali državen" cluster="2" frequency="15" logDice="4.89">
+              <comp position="3" type="headword" sloleks="LE_e2d621741da68953fc693c37b473996b">kanonski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_dfa8fc9e75c5ba5f722af49b86149e3c">državen</comp>
+              </collocation>
+            <collocation form="kanonski in slovenski" cluster="3" frequency="7" logDice="2.91">
+              <comp position="1" type="headword" sloleks="LE_e2d621741da68953fc693c37b473996b">kanonski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_de75b2f2edf5733ebcb1fb3a6e49b565">slovenski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="kanonsko pravo" cluster="1" frequency="568" logDice="8.74">
+              <comp position="1" type="headword" sloleks="LE_e2d621741da68953fc693c37b473996b">kanonsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_57d25ef076cc8d9b8a6d74e69a80c007">pravo</comp>
+            </collocation>
+            <collocation form="kanonski zakonik" cluster="2" frequency="11" logDice="4.18">
+              <comp position="1" type="headword" sloleks="LE_e2d621741da68953fc693c37b473996b">kanonski</comp>
+              <comp position="2" type="collocate" sloleks="LE_8ef05e837aab850bcfd523bd58858a93">zakonik</comp>
+            </collocation>
+            <collocation form="kanonski avtor" cluster="3" frequency="11" logDice="3.15">
+              <comp position="1" type="headword" sloleks="LE_e2d621741da68953fc693c37b473996b">kanonski</comp>
+              <comp position="2" type="collocate" sloleks="LE_4610786a8d8425a3ff9b2744b8fd8d79">avtor</comp>
+            </collocation>
+            <collocation form="kanonsko besedilo" cluster="4" frequency="10" logDice="2.25">
+              <comp position="1" type="headword" sloleks="LE_e2d621741da68953fc693c37b473996b">kanonsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_c2cf3f2b59c7730608bd4c4e20b22ee6">besedilo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

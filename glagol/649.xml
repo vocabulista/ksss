@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="649">členiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">527</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="členiti s premorom" cluster="1" frequency="7" logDice="9.83">
+              <comp position="1" type="headword" sloleks="LE_3aac2db83cfb9e40bbfdfe4058fea423">členiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_aac26f5190bb9759b67a21ecbf772ca0">premorom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="ustrezno členiti" cluster="1" frequency="8" logDice="3.38">
+              <comp position="1" type="collocate" sloleks="LE_a0616e9dd61d3f4a2c19c7de0cb8734f">ustrezno</comp>
+              <comp position="2" type="headword" sloleks="LE_3aac2db83cfb9e40bbfdfe4058fea423">členiti</comp>
+            </collocation>
+            <collocation form="naprej členiti" cluster="2" frequency="4" logDice="0.17">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_3aac2db83cfb9e40bbfdfe4058fea423">členiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

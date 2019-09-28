@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="53147">devetica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">474</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="srčeva devetica" cluster="1" frequency="10" logDice="9.59">
+              <comp position="1" type="collocate" sloleks="LE_b3ae1a58537309a5fafc9c63486d7b6b">srčeva</comp>
+              <comp position="2" type="headword" sloleks="LE_733818a806105d24048aaabb15f2868a">devetica</comp>
+            </collocation>
+            <collocation form="pikova devetica" cluster="1" frequency="9" logDice="9.81">
+              <comp position="1" type="collocate" sloleks="LE_fc4165217c266c03f232a3429fd7b4c6">pikova</comp>
+              <comp position="2" type="headword" sloleks="LE_733818a806105d24048aaabb15f2868a">devetica</comp>
+            </collocation>
+            <collocation form="rdeča devetica" cluster="2" frequency="11" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_f39824a0a0c94efb31b4fa9dc908ea0f">rdeča</comp>
+              <comp position="2" type="headword" sloleks="LE_733818a806105d24048aaabb15f2868a">devetica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="dres z devetico" cluster="1" frequency="4" logDice="5.76">
+              <comp position="1" type="collocate" sloleks="LE_73f6a791dfea0217ad9b27cd089611f0">dres</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_733818a806105d24048aaabb15f2868a">devetico</comp>
+            </collocation>
+            <collocation form="leto z devetico" cluster="2" frequency="4" logDice="2.99">
+              <comp position="1" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leto</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_733818a806105d24048aaabb15f2868a">devetico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

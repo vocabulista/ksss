@@ -1,0 +1,73 @@
+<entry>
+  <header>
+    <lexical_unit id="37737">vodovarstven</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1990</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="vodovarstveno območje" cluster="1" frequency="1522" logDice="8.19">
+              <comp position="1" type="headword" sloleks="LE_b3e6caada127e8775d184aef870a9b18">vodovarstveno</comp>
+              <comp position="2" type="collocate" sloleks="LE_637bb12e70b217aeada98e77f3559b30">območje</comp>
+            </collocation>
+            <collocation form="vodovarstveno področje" cluster="1" frequency="18" logDice="1.98">
+              <comp position="1" type="headword" sloleks="LE_b3e6caada127e8775d184aef870a9b18">vodovarstveno</comp>
+              <comp position="2" type="collocate" sloleks="LE_66c02e1a651f578a71415b967738b69b">področje</comp>
+            </collocation>
+            <collocation form="vodovarstven pas" cluster="2" frequency="210" logDice="6.71">
+              <comp position="1" type="headword" sloleks="LE_b3e6caada127e8775d184aef870a9b18">vodovarstven</comp>
+              <comp position="2" type="collocate" sloleks="LE_89ac9c7dc7f715491af648500946332a">pas</comp>
+            </collocation>
+            <collocation form="vodovarstven režim" cluster="3" frequency="89" logDice="5.79">
+              <comp position="1" type="headword" sloleks="LE_b3e6caada127e8775d184aef870a9b18">vodovarstven</comp>
+              <comp position="2" type="collocate" sloleks="LE_82bdd0685736288f0c05938d899998c5">režim</comp>
+            </collocation>
+            <collocation form="vodovarstven rezervat" cluster="4" frequency="7" logDice="5.17">
+              <comp position="1" type="headword" sloleks="LE_b3e6caada127e8775d184aef870a9b18">vodovarstven</comp>
+              <comp position="2" type="collocate" sloleks="LE_a41dca1ff751d0558e98e01bfe98b84d">rezervat</comp>
+            </collocation>
+            <collocation form="vodovarstven nadzornik" cluster="5" frequency="6" logDice="4.06">
+              <comp position="1" type="headword" sloleks="LE_b3e6caada127e8775d184aef870a9b18">vodovarstven</comp>
+              <comp position="2" type="collocate" sloleks="LE_47b7814f1f3fee350fcffaa1e4d79b7b">nadzornik</comp>
+            </collocation>
+            <collocation form="vodovarstveno soglasje" cluster="6" frequency="7" logDice="3.54">
+              <comp position="1" type="headword" sloleks="LE_b3e6caada127e8775d184aef870a9b18">vodovarstveno</comp>
+              <comp position="2" type="collocate" sloleks="LE_7e3e06ed2b2e868c84a499be97298c2f">soglasje</comp>
+            </collocation>
+            <collocation form="vodovarstven objekt" cluster="7" frequency="6" logDice="0.61">
+              <comp position="1" type="headword" sloleks="LE_b3e6caada127e8775d184aef870a9b18">vodovarstven</comp>
+              <comp position="2" type="collocate" sloleks="LE_bb14223520452df1f116f86800767b80">objekt</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="vodovarstven in/ali poplaven" cluster="1" frequency="6" logDice="10.09">
+              <comp position="3" type="headword" sloleks="LE_b3e6caada127e8775d184aef870a9b18">vodovarstven</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_abc1e5957f15738acc0d561261c9473a">poplaven</comp>
+              </collocation>
+            <collocation form="vodovarstven in/ali naravovarstven" cluster="2" frequency="5" logDice="8.44">
+              <comp position="3" type="headword" sloleks="LE_b3e6caada127e8775d184aef870a9b18">vodovarstven</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_b385287b94f6ac94a790f5a28c3a5f2a">naravovarstven</comp>
+              </collocation>
+            <collocation form="vodovarstven in zavarovan" cluster="3" frequency="7" logDice="8.08">
+              <comp position="1" type="headword" sloleks="LE_b3e6caada127e8775d184aef870a9b18">vodovarstven</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_e580e656428c9de8122005888823fe35">zavarovan</comp>
+            </collocation>
+            <collocation form="vodovarstven in/ali občutljiv" cluster="4" frequency="5" logDice="5.31">
+              <comp position="3" type="headword" sloleks="LE_b3e6caada127e8775d184aef870a9b18">vodovarstven</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_fa0d606a7b0b42c86781b0db60768413">občutljiv</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

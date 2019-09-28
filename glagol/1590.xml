@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="1590">izkljuvati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">537</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="izkljuvati oči" cluster="1" frequency="307" logDice="8.36">
+              <comp position="1" type="headword" sloleks="LE_c786146fce88c9120351df1369757711">izkljuvati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6e683e53145b35a6cbb44ad1188b7a9f|LE_f7836a137770b18301878166ca9f053f">oči</comp>
+            </collocation>
+            <collocation form="izkljuvati jetra" cluster="2" frequency="7" logDice="7.18">
+              <comp position="1" type="headword" sloleks="LE_c786146fce88c9120351df1369757711">izkljuvati</comp>
+              <comp position="2" type="collocate" sloleks="LE_a5b72fd89ed9b12e59e6851d403a9b1a">jetra</comp>
+            </collocation>
+            <collocation form="izkljuvati oko" cluster="3" frequency="7" logDice="5.36">
+              <comp position="1" type="headword" sloleks="LE_c786146fce88c9120351df1369757711">izkljuvati</comp>
+              <comp position="2" type="collocate" sloleks="LE_5be17c9e359e9f2f62119ef5d2265da6">oko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz SBZ2">
+          <collocations>
+            <collocation form="ne izkljuvati oči" cluster="1" frequency="86" logDice="11.94">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_c786146fce88c9120351df1369757711">izkljuvati</comp>
+              <comp position="3" type="collocate" sloleks="LE_6e683e53145b35a6cbb44ad1188b7a9f|LE_f7836a137770b18301878166ca9f053f">oči</comp>
+            </collocation>
+            <collocation form="ne izkljuvati očesa" cluster="2" frequency="9" logDice="9.74">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_c786146fce88c9120351df1369757711">izkljuvati</comp>
+              <comp position="3" type="collocate" sloleks="LE_5be17c9e359e9f2f62119ef5d2265da6">očesa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

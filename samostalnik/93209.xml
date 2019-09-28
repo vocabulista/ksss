@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="93209">tetka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">949</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="tetka jeseni" cluster="1" frequency="25" logDice="6.39">
+              <comp position="1" type="headword" sloleks="LE_bb7eadf97dd6994adc6cab0784dea775">tetka</comp>
+              <comp position="2" type="collocate" sloleks="LE_875130a2e0d6bf0f2b16a9df0f526d66|LE_69aa24a5b8ec32099d8ab8558d0855a5">jeseni</comp>
+            </collocation>
+            <collocation form="prihod tetke" cluster="2" frequency="5" logDice="2.19">
+              <comp position="1" type="collocate" sloleks="LE_889c52af6a9d2e5a0d974eaa20994a4a">prihod</comp>
+              <comp position="2" type="headword" sloleks="LE_bb7eadf97dd6994adc6cab0784dea775">tetke</comp>
+            </collocation>
+            <collocation form="obisk tetke" cluster="3" frequency="5" logDice="1.19">
+              <comp position="1" type="collocate" sloleks="LE_b8c2d2adf31d1e34a582d21c6efe5e02">obisk</comp>
+              <comp position="2" type="headword" sloleks="LE_bb7eadf97dd6994adc6cab0784dea775">tetke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="božja tetka" cluster="1" frequency="8" logDice="2.58">
+              <comp position="1" type="collocate" sloleks="LE_0690ddbd436ffc85634ced3758646335">božja</comp>
+              <comp position="2" type="headword" sloleks="LE_bb7eadf97dd6994adc6cab0784dea775">tetka</comp>
+            </collocation>
+            <collocation form="draga tetka" cluster="2" frequency="16" logDice="2.23">
+              <comp position="1" type="collocate" sloleks="LE_3bb482d1c1244ec8fa97ee4afaf36841">draga</comp>
+              <comp position="2" type="headword" sloleks="LE_bb7eadf97dd6994adc6cab0784dea775">tetka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

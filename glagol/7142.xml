@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="7142">prišepetavati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">472</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="prišepetavati na uho" cluster="1" frequency="9" logDice="5.59">
+              <comp position="1" type="headword" sloleks="LE_b34dbc1b83341b85fc7d66462b029092">prišepetavati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_ed81cbe45540a33ca421c25755837659">uho</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="prišepetavati odgovor" cluster="1" frequency="5" logDice="1.92">
+              <comp position="1" type="headword" sloleks="LE_b34dbc1b83341b85fc7d66462b029092">prišepetavati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6e031483cfd9d26e5eea19be3520c6b2">odgovor</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="nenehno prišepetavati" cluster="1" frequency="8" logDice="2.76">
+              <comp position="1" type="collocate" sloleks="LE_51a4baeec25a30e6830b327ef65991b5">nenehno</comp>
+              <comp position="2" type="headword" sloleks="LE_b34dbc1b83341b85fc7d66462b029092">prišepetavati</comp>
+            </collocation>
+            <collocation form="nekaj prišepetavati" cluster="2" frequency="16" logDice="1.92">
+              <comp position="1" type="collocate" sloleks="LE_eb511b2a8ca41b887db9b389e9bd0591">nekaj</comp>
+              <comp position="2" type="headword" sloleks="LE_b34dbc1b83341b85fc7d66462b029092">prišepetavati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

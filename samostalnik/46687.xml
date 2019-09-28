@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="46687">aferica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">647</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="aferica za noč" cluster="1" frequency="8" logDice="5.83">
+              <comp position="1" type="headword" sloleks="LE_6a9cf43cca659ea0baa881af5146fe8c">aferica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b49d362a114e179acbd84b80fefd7959">noč</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="bežna aferica" cluster="1" frequency="12" logDice="6.18">
+              <comp position="1" type="collocate" sloleks="LE_5e6c9714d7e5c1623f5735949615a99b">bežna</comp>
+              <comp position="2" type="headword" sloleks="LE_6a9cf43cca659ea0baa881af5146fe8c">aferica</comp>
+            </collocation>
+            <collocation form="ljubezenska aferica" cluster="2" frequency="40" logDice="4.79">
+              <comp position="1" type="collocate" sloleks="LE_04fd66701efb2c2628d0752d4248e76e">ljubezenska</comp>
+              <comp position="2" type="headword" sloleks="LE_6a9cf43cca659ea0baa881af5146fe8c">aferica</comp>
+            </collocation>
+            <collocation form="kratka aferica" cluster="3" frequency="14" logDice="0.95">
+              <comp position="1" type="collocate" sloleks="LE_33b72eb56c8dbab2f6093517455066e9">kratka</comp>
+              <comp position="2" type="headword" sloleks="LE_6a9cf43cca659ea0baa881af5146fe8c">aferica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="množica aferice" cluster="1" frequency="5" logDice="2.03">
+              <comp position="1" type="collocate" sloleks="LE_7d16fbe97018e676409272758b6a725b">množica</comp>
+              <comp position="2" type="headword" sloleks="LE_6a9cf43cca659ea0baa881af5146fe8c">aferice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

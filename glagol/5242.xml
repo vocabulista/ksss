@@ -1,0 +1,557 @@
+<entry>
+  <header>
+    <lexical_unit id="5242">poklekniti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">4586</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ brez sbz2">
+          <collocations>
+            <collocation form="poklekniti brez pomisleka" cluster="1" frequency="4" logDice="5.46">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="collocate" sloleks="LE_022c8aa97c5af00dc57bf15ac4d2f0f6">pomisleka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ k sbz3">
+          <collocations>
+            <collocation form="poklekniti k nogi" cluster="1" frequency="17" logDice="10.19">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_62b2f33c11cafe70ff4ee2db8f9aeb6c">k</comp>
+              <comp position="3" type="collocate" sloleks="LE_85bf97bb223851882a947ddf0be6aea7">nogi</comp>
+            </collocation>
+            <collocation form="poklekniti k molitvi" cluster="2" frequency="22" logDice="10.03">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_62b2f33c11cafe70ff4ee2db8f9aeb6c">k</comp>
+              <comp position="3" type="collocate" sloleks="LE_7fc1fbf5610501059de40ecaf0a2064e">molitvi</comp>
+            </collocation>
+            <collocation form="poklekniti k postelji" cluster="3" frequency="10" logDice="9.42">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_62b2f33c11cafe70ff4ee2db8f9aeb6c">k</comp>
+              <comp position="3" type="collocate" sloleks="LE_fe1115a8647757a4e618ef86177eb691">postelji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ med sbz4">
+          <collocations>
+            <collocation form="poklekniti med stegno" cluster="1" frequency="4" logDice="11.67">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_d5f045c6a97922ce1f242bfdc672fd41">stegno</comp>
+            </collocation>
+            <collocation form="poklekniti med nogo" cluster="2" frequency="7" logDice="9.37">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_85bf97bb223851882a947ddf0be6aea7">nogo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="poklekniti na koleno" cluster="1" frequency="50" logDice="9.67">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_c9d8b483b5b619f87889b11bbb4a3863">koleno</comp>
+            </collocation>
+            <collocation form="poklekniti na nogo" cluster="1" frequency="5" logDice="3.58">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_85bf97bb223851882a947ddf0be6aea7">nogo</comp>
+            </collocation>
+            <collocation form="poklekniti na kamen" cluster="2" frequency="6" logDice="7.95">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_541ccb2b48e3b90da037335188199d9d">kamen</comp>
+            </collocation>
+            <collocation form="poklekniti na rob" cluster="3" frequency="6" logDice="5.03">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_f77fc4e15f47e160c4247e79bf3ae0fc">rob</comp>
+            </collocation>
+            <collocation form="poklekniti na preprogo" cluster="4" frequency="5" logDice="7.83">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_55a1a5e9eb818b000cdd29c60ed2bde2">preprogo</comp>
+            </collocation>
+            <collocation form="poklekniti na travo" cluster="5" frequency="6" logDice="7.77">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_6818c2749803931be6bfa3c002fe3830">travo</comp>
+            </collocation>
+            <collocation form="poklekniti na blazino" cluster="6" frequency="5" logDice="7.52">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_ac54a720bb85f8ec5fd1e9eabe952401">blazino</comp>
+            </collocation>
+            <collocation form="poklekniti na prsi" cluster="7" frequency="6" logDice="7.26">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_3d025b17cd66a42ec9792b218a4cb1ac">prsi</comp>
+            </collocation>
+            <collocation form="poklekniti na tla" cluster="8" frequency="79" logDice="6.88">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_eb748b49130a91779627e8f89256bf42">tla</comp>
+            </collocation>
+            <collocation form="poklekniti na zemljo" cluster="8" frequency="8" logDice="5.59">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_9f4cbbb2b72bac81739b4274ec0514cc">zemljo</comp>
+            </collocation>
+            <collocation form="poklekniti na sedež" cluster="9" frequency="6" logDice="5.72">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_42b5df4302592a62c432da286741d70a">sedež</comp>
+            </collocation>
+            <collocation form="poklekniti na posteljo" cluster="10" frequency="4" logDice="5.51">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_fe1115a8647757a4e618ef86177eb691">posteljo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="poklekniti na stopnici" cluster="1" frequency="10" logDice="7.56">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_215fd1f601710294951513fe59ae7847">stopnici</comp>
+            </collocation>
+            <collocation form="poklekniti na stopnički" cluster="2" frequency="8" logDice="6.09">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_7e4d9c8ebc446410a713fb064d1f5959">stopnički</comp>
+            </collocation>
+            <collocation form="poklekniti na gostovanju" cluster="3" frequency="6" logDice="4.77">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_fa200ee16bac9fb03c6b079134e4cd77">gostovanju</comp>
+            </collocation>
+            <collocation form="poklekniti na koncu" cluster="4" frequency="6" logDice="0.61">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_d8d1737076777d9839ea949a2b88751a">koncu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ ob sbz4">
+          <collocations>
+            <collocation form="poklekniti ob posteljo" cluster="1" frequency="6" logDice="11.2">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_0d51e0433cde1d7d6610f469ec11e938">ob</comp>
+              <comp position="3" type="collocate" sloleks="LE_fe1115a8647757a4e618ef86177eb691">posteljo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ ob sbz5">
+          <collocations>
+            <collocation form="poklekniti ob vdihu" cluster="1" frequency="5" logDice="9.73">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_0d51e0433cde1d7d6610f469ec11e938">ob</comp>
+              <comp position="3" type="collocate" sloleks="LE_a5ae182a4d521c22630a38eba2a9e87f">vdihu</comp>
+            </collocation>
+            <collocation form="poklekniti ob postelji" cluster="2" frequency="5" logDice="7.3">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_0d51e0433cde1d7d6610f469ec11e938">ob</comp>
+              <comp position="3" type="collocate" sloleks="LE_fe1115a8647757a4e618ef86177eb691">postelji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ pod sbz4">
+          <collocations>
+            <collocation form="poklekniti pod težo" cluster="1" frequency="4" logDice="8.24">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="collocate" sloleks="LE_5485458f843a06bc327a4f0991c37d7d">težo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ pod sbz6">
+          <collocations>
+            <collocation form="poklekniti pod navalom" cluster="1" frequency="5" logDice="10.47">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="collocate" sloleks="LE_cfab40593a6ceb67cd320cb5ab880435">navalom</comp>
+            </collocation>
+            <collocation form="poklekniti pod bremenom" cluster="2" frequency="10" logDice="9.37">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="collocate" sloleks="LE_edd76cfb7cf61c63412b2f134b3d235d">bremenom</comp>
+            </collocation>
+            <collocation form="poklekniti pod pritiskom" cluster="3" frequency="35" logDice="7.3">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="collocate" sloleks="LE_abd1db6acef16fe89dcf7302ae123b1b">pritiskom</comp>
+            </collocation>
+            <collocation form="poklekniti pod težo" cluster="4" frequency="7" logDice="6.79">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="collocate" sloleks="LE_5485458f843a06bc327a4f0991c37d7d">težo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ pred sbz4">
+          <collocations>
+            <collocation form="poklekniti pred starša" cluster="1" frequency="5" logDice="9.84">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee1100b135d34088f91e5c2786123e66">starša</comp>
+            </collocation>
+            <collocation form="poklekniti pred Boga" cluster="2" frequency="5" logDice="9.67">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_4b293a6111b46265077bf30063fd7037">Boga</comp>
+            </collocation>
+            <collocation form="poklekniti pred Evropo" cluster="3" frequency="4" logDice="8.37">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_0c70d71bb49cb550bb4e854282407723">Evropo</comp>
+            </collocation>
+            <collocation form="poklekniti pred oltar" cluster="4" frequency="10" logDice="7.78">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_5423904f459542c1668419541da145b1">oltar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ pred sbz6">
+          <collocations>
+            <collocation form="poklekniti pred pritiskom" cluster="1" frequency="22" logDice="9.5">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_abd1db6acef16fe89dcf7302ae123b1b">pritiskom</comp>
+            </collocation>
+            <collocation form="poklekniti pred zahtevo" cluster="1" frequency="21" logDice="9.75">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_d4736e57297d5140ba448c30c6d6d744">zahtevo</comp>
+            </collocation>
+            <collocation form="poklekniti pred interesom" cluster="1" frequency="9" logDice="8.71">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_852d4c3cd2b3cd0cc21c88ad76a6c9a7">interesom</comp>
+            </collocation>
+            <collocation form="poklekniti pred politiko" cluster="1" frequency="4" logDice="7.54">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_d48e3236c14022f821882e8943749375">politiko</comp>
+            </collocation>
+            <collocation form="poklekniti pred problemom" cluster="1" frequency="4" logDice="6.96">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_978368a01311c2094cfb52416d9882f9">problemom</comp>
+            </collocation>
+            <collocation form="poklekniti pred tekmecem" cluster="2" frequency="9" logDice="8.12">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_55073eb3c7e25a303ba55c8d9b98f917">tekmecem</comp>
+            </collocation>
+            <collocation form="poklekniti pred Američanom" cluster="2" frequency="5" logDice="7.97">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_650db21848f91af924ee1979604ca25b">Američanom</comp>
+            </collocation>
+            <collocation form="poklekniti pred gospodarjem" cluster="3" frequency="5" logDice="7.94">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_81620244fc8cc51d8a2c720ada30b610">gospodarjem</comp>
+            </collocation>
+            <collocation form="poklekniti pred kraljico" cluster="3" frequency="5" logDice="7.91">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_c5bfe610a5390b623568fe234882e4a2">kraljico</comp>
+            </collocation>
+            <collocation form="poklekniti pred kraljem" cluster="3" frequency="4" logDice="7.5">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_d08bfdbe169af8447d4ea3f7e9e60feb">kraljem</comp>
+            </collocation>
+            <collocation form="poklekniti pred grožnjo" cluster="4" frequency="6" logDice="7.86">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_58e36a354bafe00496a32246c1e0f041">grožnjo</comp>
+            </collocation>
+            <collocation form="poklekniti pred školjko" cluster="5" frequency="4" logDice="7.69">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_297b2bef12296b9da4add231417ba01b">školjko</comp>
+            </collocation>
+            <collocation form="poklekniti pred tajkunom" cluster="6" frequency="4" logDice="7.69">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_54d99357f1d1f91be00731f47d665c7c">tajkunom</comp>
+            </collocation>
+            <collocation form="poklekniti pred sindikatom" cluster="7" frequency="4" logDice="7.66">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_80e7b021fab77747f0a899778050b67d">sindikatom</comp>
+            </collocation>
+            <collocation form="poklekniti pred Olimpijo" cluster="8" frequency="4" logDice="7.61">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_9984f7c15f119ea997e2f530515b58ec">Olimpijo</comp>
+            </collocation>
+            <collocation form="poklekniti pred kapitalom" cluster="9" frequency="4" logDice="7.61">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_e4823bcd29751f1be403134ec610a893">kapitalom</comp>
+            </collocation>
+            <collocation form="poklekniti pred spomenikom" cluster="10" frequency="16" logDice="8.9">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_e9eaab1fe0b5a887e9cdfbc2b0d56ab9">spomenikom</comp>
+            </collocation>
+            <collocation form="poklekniti pred Bogom" cluster="11" frequency="10" logDice="8.18">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_4b293a6111b46265077bf30063fd7037">Bogom</comp>
+            </collocation>
+            <collocation form="poklekniti pred očetom" cluster="11" frequency="4" logDice="7.22">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_fc6f92b44e0935702b32d3acbccf0142">očetom</comp>
+            </collocation>
+            <collocation form="poklekniti pred nogo" cluster="12" frequency="4" logDice="7.11">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_85bf97bb223851882a947ddf0be6aea7">nogo</comp>
+            </collocation>
+            <collocation form="poklekniti pred gledalcem" cluster="13" frequency="4" logDice="4.52">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_85e07971e615ac21ed6e5281ab7db6cd">gledalcem</comp>
+            </collocation>
+            <collocation form="poklekniti pred izsiljevanjem" cluster="14" frequency="8" logDice="8.6">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_c31d4c7b90ef4647279c348d6c2888ce">izsiljevanjem</comp>
+            </collocation>
+            <collocation form="poklekniti pred Vatikanom" cluster="15" frequency="7" logDice="8.47">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_8a9c022ce2e053a44a9862fda9a81d9a">Vatikanom</comp>
+            </collocation>
+            <collocation form="poklekniti pred križem" cluster="16" frequency="6" logDice="8.16">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_9a7f0f709e4c04f21be01902abbc381a">križem</comp>
+            </collocation>
+            <collocation form="poklekniti pred izbranko" cluster="17" frequency="5" logDice="8.01">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_e2542ffa5f86f640557b45f3c623959c">izbranko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="poklekniti v getu" cluster="1" frequency="4" logDice="7.84">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_8c1a8ade02224c0ec968d74e8d7ea038">getu</comp>
+            </collocation>
+            <collocation form="poklekniti v Varšavi" cluster="2" frequency="5" logDice="6.51">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_d587def1fc5b43ae9e20801e62cd1857">Varšavi</comp>
+            </collocation>
+            <collocation form="poklekniti v Stožicah" cluster="3" frequency="5" logDice="5.7">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_ab8d2fe458fda3b6d01279bd0cf510c7">Stožicah</comp>
+            </collocation>
+            <collocation form="poklekniti v Ajdovščini" cluster="4" frequency="4" logDice="5.21">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_d31b2f7a747e56ca97cb50f725477bc2">Ajdovščini</comp>
+            </collocation>
+            <collocation form="poklekniti v finalu" cluster="5" frequency="11" logDice="3.36">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_4eb15752f4bc1734389f0d4ac12338c3|LE_d72b29145b4c429eff257be5495dd612">finalu</comp>
+            </collocation>
+            <collocation form="poklekniti v dvoboju" cluster="5" frequency="6" logDice="4.17">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_f805b007f344e5c990ba123c61aa3fde">dvoboju</comp>
+            </collocation>
+            <collocation form="poklekniti v sobi" cluster="6" frequency="4" logDice="2.74">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_51d0948fdcd403a7c15f9ade2ec2b331">sobi</comp>
+            </collocation>
+            <collocation form="poklekniti v trenutku" cluster="7" frequency="8" logDice="1.59">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_20e42f7c3b00f5a4a38e89957060a1f2">trenutku</comp>
+            </collocation>
+            <collocation form="poklekniti v minuti" cluster="7" frequency="7" logDice="1.53">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_4dbac25ecbcde2d4ad6049424d74db15">minuti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="poklekniti z ženinom" cluster="1" frequency="4" logDice="9.91">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_e18db31eccce820599ed6e6841eadd83">ženinom</comp>
+            </collocation>
+            <collocation form="poklekniti s kolenom" cluster="2" frequency="7" logDice="7.56">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_c9d8b483b5b619f87889b11bbb4a3863">kolenom</comp>
+            </collocation>
+            <collocation form="poklekniti z nogo" cluster="3" frequency="14" logDice="5.66">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_85bf97bb223851882a947ddf0be6aea7">nogo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="poklekniti za odstotek" cluster="1" frequency="5" logDice="3.7">
+              <comp position="1" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_11ff641b777a9bdc2060c997d306c118">odstotek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz INF-GBZ">
+          <collocations>
+            <collocation form="morati poklekniti" cluster="1" frequency="103" logDice="1.43">
+              <comp position="1" type="collocate" sloleks="LE_5a69e334926729c2b878f5735b5ec456">morati</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="hoteti poklekniti" cluster="2" frequency="11" logDice="0.55">
+              <comp position="1" type="collocate" sloleks="LE_241ed9c84c6998d75befbc0c88f7151e">hoteti</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="ponižno poklekniti" cluster="1" frequency="16" logDice="8.03">
+              <comp position="1" type="collocate" sloleks="LE_77ed24f693e1afa2d5cae1a1b4666cd5">ponižno</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="spoštljivo poklekniti" cluster="1" frequency="7" logDice="6.54">
+              <comp position="1" type="collocate" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="doma poklekniti" cluster="2" frequency="7" logDice="2.05">
+              <comp position="1" type="collocate" sloleks="LE_e763d76187601d485fd9a1af70a03a8c">doma</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="spet poklekniti" cluster="3" frequency="30" logDice="1.94">
+              <comp position="1" type="collocate" sloleks="LE_262d335ce33e8c5f94849e677bc83a19">spet</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="vedno poklekniti" cluster="3" frequency="15" logDice="0.11">
+              <comp position="1" type="collocate" sloleks="LE_eaabd5718a27f818fd47358031426355">vedno</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="enkrat poklekniti" cluster="3" frequency="15" logDice="2.22">
+              <comp position="1" type="collocate" sloleks="LE_a9aa19f4d3fe9f31d405ae8828e4b2fd">enkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="znova poklekniti" cluster="3" frequency="12" logDice="1.35">
+              <comp position="1" type="collocate" sloleks="LE_4f000489fb7f7a863547f5ae46af4f41">znova</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="tokrat poklekniti" cluster="3" frequency="12" logDice="1.32">
+              <comp position="1" type="collocate" sloleks="LE_6a0bd157f20c4f21cb640f7e5c3880b5">tokrat</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="prvič poklekniti" cluster="3" frequency="11" logDice="1.49">
+              <comp position="1" type="collocate" sloleks="LE_158f9759a5a0a0e9ff58fb78bcd899f2">prvič</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="prej poklekniti" cluster="3" frequency="11" logDice="1.35">
+              <comp position="1" type="collocate" sloleks="LE_25430d3959f90161be5f8125f60962ef">prej</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="najprej poklekniti" cluster="3" frequency="11" logDice="0.62">
+              <comp position="1" type="collocate" sloleks="LE_4e4e52d939b2c76f59cb0093c64e5c98">najprej</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="nato poklekniti" cluster="3" frequency="10" logDice="0.65">
+              <comp position="1" type="collocate" sloleks="LE_48b590fef344f946aab71b9b67d40282">nato</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="dvakrat poklekniti" cluster="3" frequency="9" logDice="2.96">
+              <comp position="1" type="collocate" sloleks="LE_602c564da660b0177b4c9ca91f86275e">dvakrat</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="tam poklekniti" cluster="3" frequency="8" logDice="0.39">
+              <comp position="1" type="collocate" sloleks="LE_c5d97347498b1b4ca6c20413ed645cbb">tam</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="nikoli poklekniti" cluster="3" frequency="8" logDice="0.06">
+              <comp position="1" type="collocate" sloleks="LE_6ffec37fc59ab2f513410468cce388b4">nikoli</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="vselej poklekniti" cluster="3" frequency="8" logDice="3.64">
+              <comp position="1" type="collocate" sloleks="LE_adb55abbe20eb12d2450b4d97a125879">vselej</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="očitno poklekniti" cluster="3" frequency="7" logDice="0.58">
+              <comp position="1" type="collocate" sloleks="LE_9d88c71170bcb7a8d34f86bcb6d0c831">očitno</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="zopet poklekniti" cluster="3" frequency="7" logDice="3.15">
+              <comp position="1" type="collocate" sloleks="LE_425cc478f2213268c8c4e26eb40ad876">zopet</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="končno poklekniti" cluster="3" frequency="6" logDice="1.01">
+              <comp position="1" type="collocate" sloleks="LE_a6b54d29d4623d8017627af2e317e356">končno</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="kdaj poklekniti" cluster="3" frequency="6" logDice="0.28">
+              <comp position="1" type="collocate" sloleks="LE_89bfa4904e9e4ffe5cfd8a71392da483">kdaj</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="tedaj poklekniti" cluster="4" frequency="6" logDice="1.84">
+              <comp position="1" type="collocate" sloleks="LE_13c208f4c8222cc3c849f2482356c86a">tedaj</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="nekajkrat poklekniti" cluster="4" frequency="6" logDice="2.88">
+              <comp position="1" type="collocate" sloleks="LE_08ea693dafe4d3da0d85fa9d66577823">nekajkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="povsem poklekniti" cluster="5" frequency="7" logDice="1.53">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="takoj poklekniti" cluster="6" frequency="13" logDice="1.48">
+              <comp position="1" type="collocate" sloleks="LE_63831e752d3a6105c3245c75b9779495">takoj</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="hitro poklekniti" cluster="6" frequency="13" logDice="0.95">
+              <comp position="1" type="collocate" sloleks="LE_cb95fbdb78349dad33e3d99ea7f281a8">hitro</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="dokončno poklekniti" cluster="6" frequency="12" logDice="3.2">
+              <comp position="1" type="collocate" sloleks="LE_1b1364db6a65bb7d8e0561ff87f682a5">dokončno</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="počasi poklekniti" cluster="6" frequency="12" logDice="2.17">
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="previdno poklekniti" cluster="7" frequency="7" logDice="4.23">
+              <comp position="1" type="collocate" sloleks="LE_10458565afb0ca3ac4c6f25eaa4b941b">previdno</comp>
+              <comp position="2" type="headword" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

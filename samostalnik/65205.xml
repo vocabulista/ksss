@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="65205">kostumografinja</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">961</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="kostumografinja predstave" cluster="1" frequency="10" logDice="3.6">
+              <comp position="1" type="headword" sloleks="LE_397678b8bfeff29e2803be7e398f8998">kostumografinja</comp>
+              <comp position="2" type="collocate" sloleks="LE_d9b3b0d634fe5397b484fa7a2db17b0c">predstave</comp>
+            </collocation>
+            <collocation form="asistentka kostumografinje" cluster="2" frequency="10" logDice="8.44">
+              <comp position="1" type="collocate" sloleks="LE_4777e2564e66d590117f055c7aed40f3">asistentka</comp>
+              <comp position="2" type="headword" sloleks="LE_397678b8bfeff29e2803be7e398f8998">kostumografinje</comp>
+            </collocation>
+            <collocation form="ime kostumografinje" cluster="3" frequency="14" logDice="1.74">
+              <comp position="1" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">ime</comp>
+              <comp position="2" type="headword" sloleks="LE_397678b8bfeff29e2803be7e398f8998">kostumografinje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="priznana kostumografinja" cluster="1" frequency="12" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_666e6361b81942ddc6013aa3d5e020b2">priznana</comp>
+              <comp position="2" type="headword" sloleks="LE_397678b8bfeff29e2803be7e398f8998">kostumografinja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

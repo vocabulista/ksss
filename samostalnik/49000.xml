@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="49000">benediktinec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">424</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="benediktinec iz Dajla" cluster="1" frequency="5" logDice="11.83">
+              <comp position="1" type="headword" sloleks="LE_69174d2aff0b0f5eeb566eb1ac3c0d3e">benediktinec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">Dajla</comp>
+            </collocation>
+            <collocation form="benediktinec iz samostana" cluster="2" frequency="17" logDice="9.97">
+              <comp position="1" type="headword" sloleks="LE_69174d2aff0b0f5eeb566eb1ac3c0d3e">benediktinec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_68659746be8572a232576462b708851e">samostana</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="gornjegrajski benediktinec" cluster="1" frequency="10" logDice="7.42">
+              <comp position="1" type="collocate" sloleks="LE_fc3fe4ac55760c4ee3b650f4dfc12bb3">gornjegrajski</comp>
+              <comp position="2" type="headword" sloleks="LE_69174d2aff0b0f5eeb566eb1ac3c0d3e">benediktinec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="red benediktinca" cluster="1" frequency="21" logDice="4.55">
+              <comp position="1" type="collocate" sloleks="LE_32cc2768fc63beee27ff73cd149852ee">red</comp>
+              <comp position="2" type="headword" sloleks="LE_69174d2aff0b0f5eeb566eb1ac3c0d3e">benediktinca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

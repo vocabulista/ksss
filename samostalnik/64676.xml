@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="64676">konjerejec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">695</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="konjerejec iz kapele" cluster="1" frequency="5" logDice="8.93">
+              <comp position="1" type="headword" sloleks="LE_2c78a37448bfe56d1408ff22caa45102">konjerejec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_93377376cfec00dee2cb2f193b8fa807">kapele</comp>
+            </collocation>
+            <collocation form="konjerejec iz občine" cluster="2" frequency="6" logDice="4.3">
+              <comp position="1" type="headword" sloleks="LE_2c78a37448bfe56d1408ff22caa45102">konjerejec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_7b31296251a77ba2585c256bbbe52eb9">občine</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="posavski konjerejec" cluster="1" frequency="10" logDice="4.28">
+              <comp position="1" type="collocate" sloleks="LE_c5ced86c88de09cc355a5a931b197fc2">posavski</comp>
+              <comp position="2" type="headword" sloleks="LE_2c78a37448bfe56d1408ff22caa45102">konjerejec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="srečanje konjerejca" cluster="1" frequency="21" logDice="3.47">
+              <comp position="1" type="collocate" sloleks="LE_779fa188c4acb969e9354bb72d376b6d">srečanje</comp>
+              <comp position="2" type="headword" sloleks="LE_2c78a37448bfe56d1408ff22caa45102">konjerejca</comp>
+            </collocation>
+            <collocation form="zbor konjerejca" cluster="2" frequency="15" logDice="3.47">
+              <comp position="1" type="collocate" sloleks="LE_56ae41b6d71148e851cdd275624be8f4">zbor</comp>
+              <comp position="2" type="headword" sloleks="LE_2c78a37448bfe56d1408ff22caa45102">konjerejca</comp>
+            </collocation>
+            <collocation form="društvo konjerejca" cluster="3" frequency="25" logDice="3.2">
+              <comp position="1" type="collocate" sloleks="LE_f1fd3c17e2206150a5ab762769b6e8ff">društvo</comp>
+              <comp position="2" type="headword" sloleks="LE_2c78a37448bfe56d1408ff22caa45102">konjerejca</comp>
+            </collocation>
+            <collocation form="dan konjerejca" cluster="4" frequency="36" logDice="2.22">
+              <comp position="1" type="collocate" sloleks="LE_687a3a5f213dba3724e626216f1b09da">dan</comp>
+              <comp position="2" type="headword" sloleks="LE_2c78a37448bfe56d1408ff22caa45102">konjerejca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

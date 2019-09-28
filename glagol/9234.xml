@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="9234">vnemati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">510</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="vnemati na treningu" cluster="1" frequency="4" logDice="3.1">
+              <comp position="1" type="headword" sloleks="LE_7534891827e0fcc9b2ca71e9d479bb12">vnemati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_aa3dba7489237cad8ed9e5403467dfa6">treningu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="vnemati polemiko" cluster="1" frequency="4" logDice="6.15">
+              <comp position="1" type="headword" sloleks="LE_7534891827e0fcc9b2ca71e9d479bb12">vnemati</comp>
+              <comp position="2" type="collocate" sloleks="LE_a7b18e7c60afc118cf9f02e3583d5ff9">polemiko</comp>
+            </collocation>
+            <collocation form="vnemati strast" cluster="2" frequency="6" logDice="5.65">
+              <comp position="1" type="headword" sloleks="LE_7534891827e0fcc9b2ca71e9d479bb12">vnemati</comp>
+              <comp position="2" type="collocate" sloleks="LE_2abd3e50ebbdfd97d45dbcdf9e02697d">strast</comp>
+            </collocation>
+            <collocation form="vnemati domišljijo" cluster="3" frequency="4" logDice="4.43">
+              <comp position="1" type="headword" sloleks="LE_7534891827e0fcc9b2ca71e9d479bb12">vnemati</comp>
+              <comp position="2" type="collocate" sloleks="LE_8079dde43213aed40487ac091819130a">domišljijo</comp>
+            </collocation>
+            <collocation form="vnemati boj" cluster="4" frequency="5" logDice="4.07">
+              <comp position="1" type="headword" sloleks="LE_7534891827e0fcc9b2ca71e9d479bb12">vnemati</comp>
+              <comp position="2" type="collocate" sloleks="LE_a5073c99761fce3d65fbd43ccbe8351f">boj</comp>
+            </collocation>
+            <collocation form="vnemati razpravo" cluster="5" frequency="9" logDice="3.74">
+              <comp position="1" type="headword" sloleks="LE_7534891827e0fcc9b2ca71e9d479bb12">vnemati</comp>
+              <comp position="2" type="collocate" sloleks="LE_d58e7f8d86be2eef759384195d65ffa5">razpravo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="pogosto vnemati" cluster="1" frequency="10" logDice="0.94">
+              <comp position="1" type="collocate" sloleks="LE_0c25a8b75185d62f2dab515299cccbfc">pogosto</comp>
+              <comp position="2" type="headword" sloleks="LE_7534891827e0fcc9b2ca71e9d479bb12">vnemati</comp>
+            </collocation>
+            <collocation form="naprej vnemati" cluster="2" frequency="4" logDice="0.17">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_7534891827e0fcc9b2ca71e9d479bb12">vnemati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

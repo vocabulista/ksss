@@ -1,0 +1,75 @@
+<entry>
+  <header>
+    <lexical_unit id="38314">zadovoljujoč</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">502</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="zadovoljujoča spolnost" cluster="1" frequency="24" logDice="7.7">
+              <comp position="1" type="headword" sloleks="LE_557e9a7e5990a5a039e9c7d20ad569a2">zadovoljujoča</comp>
+              <comp position="2" type="collocate" sloleks="LE_6d29cf01d27b64873c80dd2df11fb504">spolnost</comp>
+            </collocation>
+            <collocation form="zadovoljujoče partnerstvo" cluster="2" frequency="7" logDice="3.5">
+              <comp position="1" type="headword" sloleks="LE_557e9a7e5990a5a039e9c7d20ad569a2">zadovoljujoče</comp>
+              <comp position="2" type="collocate" sloleks="LE_acc63a5a7fd052cb1a7174bb1d9bafc5">partnerstvo</comp>
+            </collocation>
+            <collocation form="zadovoljujoč odnos" cluster="3" frequency="60" logDice="3.34">
+              <comp position="1" type="headword" sloleks="LE_557e9a7e5990a5a039e9c7d20ad569a2">zadovoljujoč</comp>
+              <comp position="2" type="collocate" sloleks="LE_77f2f37de07cb9f39cb3dd828efa7919">odnos</comp>
+            </collocation>
+            <collocation form="zadovoljujoč odgovor" cluster="4" frequency="10" logDice="2.28">
+              <comp position="1" type="headword" sloleks="LE_557e9a7e5990a5a039e9c7d20ad569a2">zadovoljujoč</comp>
+              <comp position="2" type="collocate" sloleks="LE_6e031483cfd9d26e5eea19be3520c6b2">odgovor</comp>
+            </collocation>
+            <collocation form="zadovoljujoče življenje" cluster="5" frequency="26" logDice="1.64">
+              <comp position="1" type="headword" sloleks="LE_557e9a7e5990a5a039e9c7d20ad569a2">zadovoljujoče</comp>
+              <comp position="2" type="collocate" sloleks="LE_b7a6a2019becc6510edb8591e171b0a7">življenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="zadovoljujoč in/ali prijeten" cluster="1" frequency="9" logDice="5.07">
+              <comp position="3" type="headword" sloleks="LE_557e9a7e5990a5a039e9c7d20ad569a2">zadovoljujoč</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_c54487f53545d75fcf13a9fa0732e5f5">prijeten</comp>
+              </collocation>
+            <collocation form="zadovoljujoč in/ali dober" cluster="2" frequency="5" logDice="2.06">
+              <comp position="3" type="headword" sloleks="LE_557e9a7e5990a5a039e9c7d20ad569a2">zadovoljujoč</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_39b34fc93830e14cfc02d48d7839f18f">dober</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="obojestransko zadovoljujoč" cluster="1" frequency="5" logDice="7.42">
+              <comp position="1" type="collocate" sloleks="LE_17b99f9c20e4aa524b121b27c654d1f4">obojestransko</comp>
+              <comp position="2" type="headword" sloleks="LE_557e9a7e5990a5a039e9c7d20ad569a2">zadovoljujoč</comp>
+            </collocation>
+            <collocation form="estetsko zadovoljujoč" cluster="2" frequency="5" logDice="6.5">
+              <comp position="1" type="collocate" sloleks="LE_833badbf74de51895879e2bb692748b6">estetsko</comp>
+              <comp position="2" type="headword" sloleks="LE_557e9a7e5990a5a039e9c7d20ad569a2">zadovoljujoč</comp>
+            </collocation>
+            <collocation form="čustveno zadovoljujoč" cluster="3" frequency="5" logDice="5.01">
+              <comp position="1" type="collocate" sloleks="LE_d2215c9b3c3245b2b8549dabf0091d31">čustveno</comp>
+              <comp position="2" type="headword" sloleks="LE_557e9a7e5990a5a039e9c7d20ad569a2">zadovoljujoč</comp>
+            </collocation>
+            <collocation form="bolj zadovoljujoč" cluster="4" frequency="35" logDice="0.83">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_557e9a7e5990a5a039e9c7d20ad569a2">zadovoljujoč</comp>
+            </collocation>
+            <collocation form="nadvse zadovoljujoč" cluster="4" frequency="6" logDice="2.31">
+              <comp position="1" type="collocate" sloleks="LE_d7fddc6b0e891b7aa2b609d0777af92a">nadvse</comp>
+              <comp position="2" type="headword" sloleks="LE_557e9a7e5990a5a039e9c7d20ad569a2">zadovoljujoč</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

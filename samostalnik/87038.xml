@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="87038">sadilec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">505</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="sadilec krompirja" cluster="1" frequency="224" logDice="8.94">
+              <comp position="1" type="headword" sloleks="LE_758b157a50656a1b048e4f9516df6bdc">sadilec</comp>
+              <comp position="2" type="collocate" sloleks="LE_f99eebfcdd2100bf74658668494432f6">krompirja</comp>
+            </collocation>
+            <collocation form="sadilec koruze" cluster="2" frequency="108" logDice="8.67">
+              <comp position="1" type="headword" sloleks="LE_758b157a50656a1b048e4f9516df6bdc">sadilec</comp>
+              <comp position="2" type="collocate" sloleks="LE_b066ca9150766b264624540e6e3e9592">koruze</comp>
+            </collocation>
+            <collocation form="sadilec sadike" cluster="3" frequency="25" logDice="7.66">
+              <comp position="1" type="headword" sloleks="LE_758b157a50656a1b048e4f9516df6bdc">sadilec</comp>
+              <comp position="2" type="collocate" sloleks="LE_9b48d56fcdad0bb00e94399b124e1f64">sadike</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="sadilec za krompir" cluster="1" frequency="42" logDice="10.31">
+              <comp position="1" type="headword" sloleks="LE_758b157a50656a1b048e4f9516df6bdc">sadilec</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_f99eebfcdd2100bf74658668494432f6">krompir</comp>
+            </collocation>
+            <collocation form="sadilec za koruzo" cluster="2" frequency="16" logDice="8.59">
+              <comp position="1" type="headword" sloleks="LE_758b157a50656a1b048e4f9516df6bdc">sadilec</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b066ca9150766b264624540e6e3e9592">koruzo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="dvovrsten sadilec" cluster="1" frequency="14" logDice="10.12">
+              <comp position="1" type="collocate" sloleks="LE_b271d8fefe26ae465e0d23836297364b">dvovrsten</comp>
+              <comp position="2" type="headword" sloleks="LE_758b157a50656a1b048e4f9516df6bdc">sadilec</comp>
+            </collocation>
+            <collocation form="dvoreden sadilec" cluster="2" frequency="23" logDice="10.09">
+              <comp position="1" type="collocate" sloleks="LE_fbeab38a412020b8adde0e867c755a31">dvoreden</comp>
+              <comp position="2" type="headword" sloleks="LE_758b157a50656a1b048e4f9516df6bdc">sadilec</comp>
+            </collocation>
+            <collocation form="avtomatski sadilec" cluster="3" frequency="55" logDice="6.82">
+              <comp position="1" type="collocate" sloleks="LE_0b960bdf080d0a4c6c9bffba859a579a">avtomatski</comp>
+              <comp position="2" type="headword" sloleks="LE_758b157a50656a1b048e4f9516df6bdc">sadilec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

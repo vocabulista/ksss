@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="48580">banjo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">609</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="banjo Luke" cluster="1" frequency="151" logDice="8.84">
+              <comp position="1" type="headword" sloleks="LE_90f832c3f40d73a9b42ab12ba86b4e77">banjo</comp>
+              <comp position="2" type="collocate" sloleks="LE_d21e7c54bd3fc1af5542f84263436e68">Luke</comp>
+            </collocation>
+            <collocation form="banjo Luk" cluster="2" frequency="16" logDice="8.64">
+              <comp position="1" type="headword" sloleks="LE_90f832c3f40d73a9b42ab12ba86b4e77">banjo</comp>
+              <comp position="2" type="collocate" sloleks="">Luk</comp>
+            </collocation>
+            <collocation form="mesto Banja" cluster="3" frequency="6" logDice="0.72">
+              <comp position="1" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesto</comp>
+              <comp position="2" type="headword" sloleks="LE_90f832c3f40d73a9b42ab12ba86b4e77">Banja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="Borac iz Banja" cluster="1" frequency="5" logDice="10.18">
+              <comp position="1" type="collocate" sloleks="">Borac</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_90f832c3f40d73a9b42ab12ba86b4e77">Banja</comp>
+            </collocation>
+            <collocation form="mladost iz Banja" cluster="2" frequency="7" logDice="9.47">
+              <comp position="1" type="collocate" sloleks="LE_9bd60ad472fe1c26fa03f73d5fd2cebb">mladost</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_90f832c3f40d73a9b42ab12ba86b4e77">Banja</comp>
+            </collocation>
+            <collocation form="borec iz Banja" cluster="3" frequency="13" logDice="9.35">
+              <comp position="1" type="collocate" sloleks="LE_0d684cf08f9355c5c3f6a84f31970ded">borec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_90f832c3f40d73a9b42ab12ba86b4e77">Banja</comp>
+            </collocation>
+            <collocation form="banka iz Banja" cluster="4" frequency="4" logDice="6.44">
+              <comp position="1" type="collocate" sloleks="LE_efdb4fed18a2b60ac11282627b28fcfc">banka</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_90f832c3f40d73a9b42ab12ba86b4e77">Banja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        </gramrels>
+    </sense>
+  </body>
+</entry>

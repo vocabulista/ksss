@@ -1,0 +1,52 @@
+<entry>
+  <header>
+    <lexical_unit id="97240">vstavek</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">461</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="vstavek za peto" cluster="1" frequency="5" logDice="9.7">
+              <comp position="1" type="headword" sloleks="LE_fae462f3fb1b0a4c975e044055df453a">vstavek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_6e1a333dbaaaade5d463c3337bb430c0">peto</comp>
+            </collocation>
+            <collocation form="vstavek za brskalnik" cluster="2" frequency="4" logDice="8.8">
+              <comp position="1" type="headword" sloleks="LE_fae462f3fb1b0a4c975e044055df453a">vstavek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_bafadb0baa40158eb503bbad6279a51c">brskalnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="analen vstavek" cluster="1" frequency="8" logDice="6.66">
+              <comp position="1" type="collocate" sloleks="LE_2d59e7005709db58ff577ac7b2a51f06">analen</comp>
+              <comp position="2" type="headword" sloleks="LE_fae462f3fb1b0a4c975e044055df453a">vstavek</comp>
+            </collocation>
+            <collocation form="plastičen vstavek" cluster="2" frequency="11" logDice="3.29">
+              <comp position="1" type="collocate" sloleks="LE_9b4ec6781ec6c8c099f856ed1e95224e">plastičen</comp>
+              <comp position="2" type="headword" sloleks="LE_fae462f3fb1b0a4c975e044055df453a">vstavek</comp>
+            </collocation>
+            <collocation form="programski vstavek" cluster="3" frequency="13" logDice="2.36">
+              <comp position="1" type="collocate" sloleks="LE_4afb44c9c56470df53a56de3f6d4799d">programski</comp>
+              <comp position="2" type="headword" sloleks="LE_fae462f3fb1b0a4c975e044055df453a">vstavek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="vrata z vstavkom" cluster="1" frequency="4" logDice="6.04">
+              <comp position="1" type="collocate" sloleks="LE_5b997c4e88dd626d1f19eb6721f9f994">vrata</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_fae462f3fb1b0a4c975e044055df453a">vstavkom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

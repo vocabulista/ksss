@@ -1,0 +1,62 @@
+<entry>
+  <header>
+    <lexical_unit id="75909">oskrbnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">831</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="oskrbnica koče" cluster="1" frequency="42" logDice="8.48">
+              <comp position="1" type="headword" sloleks="LE_5a6c81d54024898004d90dff1dcf0c13">oskrbnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_ad18b670d6b948bbf240356b1c6a03d8">koče</comp>
+            </collocation>
+            <collocation form="oskrbnica doma" cluster="2" frequency="42" logDice="4.03">
+              <comp position="1" type="headword" sloleks="LE_5a6c81d54024898004d90dff1dcf0c13">oskrbnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">doma</comp>
+            </collocation>
+            <collocation form="oskrbnica hiše" cluster="2" frequency="30" logDice="3.47">
+              <comp position="1" type="headword" sloleks="LE_5a6c81d54024898004d90dff1dcf0c13">oskrbnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_34e4b2cb65c667c6bf374f39db0e3597">hiše</comp>
+            </collocation>
+            <collocation form="gospodinja oskrbnice" cluster="3" frequency="56" logDice="11.34">
+              <comp position="1" type="collocate" sloleks="LE_2de0a340b6dd14f5dae3785f747303dc">gospodinja</comp>
+              <comp position="2" type="headword" sloleks="LE_5a6c81d54024898004d90dff1dcf0c13">oskrbnice</comp>
+            </collocation>
+            <collocation form="organizacija oskrbnice" cluster="4" frequency="5" logDice="1.01">
+              <comp position="1" type="collocate" sloleks="LE_513f9f374314ddaf09bb7d123d083113">organizacija</comp>
+              <comp position="2" type="headword" sloleks="LE_5a6c81d54024898004d90dff1dcf0c13">oskrbnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="čedna oskrbnica" cluster="1" frequency="10" logDice="5.67">
+              <comp position="1" type="collocate" sloleks="LE_29db992d45808f3b53bde69b7dea4fa0">čedna</comp>
+              <comp position="2" type="headword" sloleks="LE_5a6c81d54024898004d90dff1dcf0c13">oskrbnica</comp>
+            </collocation>
+            <collocation form="hišna oskrbnica" cluster="2" frequency="30" logDice="4.38">
+              <comp position="1" type="collocate" sloleks="LE_cb6e38c18afa735d432d4a58f6be2710">hišna</comp>
+              <comp position="2" type="headword" sloleks="LE_5a6c81d54024898004d90dff1dcf0c13">oskrbnica</comp>
+            </collocation>
+            <collocation form="prijazna oskrbnica" cluster="3" frequency="29" logDice="3.86">
+              <comp position="1" type="collocate" sloleks="LE_439e00b230a5a160ad9e1edaf6af9e84">prijazna</comp>
+              <comp position="2" type="headword" sloleks="LE_5a6c81d54024898004d90dff1dcf0c13">oskrbnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 do SBZ2">
+          <collocations>
+            <collocation form="čustvo do oskrbnice" cluster="1" frequency="11" logDice="9.01">
+              <comp position="1" type="collocate" sloleks="LE_b4333f46d41e9e04d7a533dc72a596d0">čustvo</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_5a6c81d54024898004d90dff1dcf0c13">oskrbnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

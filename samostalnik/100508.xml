@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="100508">žvrgolenje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">451</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="žvrgolenje ptička" cluster="1" frequency="21" logDice="10.3">
+              <comp position="1" type="headword" sloleks="LE_fc59cac9f0e679dea434e3578746975d">žvrgolenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_3d41843fcfc3aa3d77d622eda0b182b2">ptička</comp>
+            </collocation>
+            <collocation form="žvrgolenje ptice" cluster="2" frequency="161" logDice="8.72">
+              <comp position="1" type="headword" sloleks="LE_fc59cac9f0e679dea434e3578746975d">žvrgolenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_78fb3b150b44bb2c12991e6e2580846a">ptice</comp>
+            </collocation>
+            <collocation form="žvrgolenje ptiča" cluster="3" frequency="25" logDice="8.68">
+              <comp position="1" type="headword" sloleks="LE_fc59cac9f0e679dea434e3578746975d">žvrgolenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_2301a4995d58976cbac5b61a0ae80c2f">ptiča</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz ob SBZ5">
+          <collocations>
+            <collocation form="uživati ob žvrgolenju" cluster="1" frequency="4" logDice="4.6">
+              <comp position="1" type="collocate" sloleks="LE_90b3bc770d204b7d425295a8bf82a5e0">uživati</comp>
+              <comp position="2" type="other" sloleks="LE_0d51e0433cde1d7d6610f469ec11e938">ob</comp>
+              <comp position="3" type="headword" sloleks="LE_fc59cac9f0e679dea434e3578746975d">žvrgolenju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="ptičje žvrgolenje" cluster="1" frequency="68" logDice="6.43">
+              <comp position="1" type="collocate" sloleks="LE_8cb063ceef13760ea11fc2f284255944">ptičje</comp>
+              <comp position="2" type="headword" sloleks="LE_fc59cac9f0e679dea434e3578746975d">žvrgolenje</comp>
+            </collocation>
+            <collocation form="jutranje žvrgolenje" cluster="2" frequency="13" logDice="2.75">
+              <comp position="1" type="collocate" sloleks="LE_2dc5e796c81a27da075da675d9152d02">jutranje</comp>
+              <comp position="2" type="headword" sloleks="LE_fc59cac9f0e679dea434e3578746975d">žvrgolenje</comp>
+            </collocation>
+            <collocation form="prijetno žvrgolenje" cluster="3" frequency="8" logDice="1.67">
+              <comp position="1" type="collocate" sloleks="LE_c54487f53545d75fcf13a9fa0732e5f5">prijetno</comp>
+              <comp position="2" type="headword" sloleks="LE_fc59cac9f0e679dea434e3578746975d">žvrgolenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

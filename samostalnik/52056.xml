@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="52056">čret</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">636</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 nad sbz6">
+          <collocations>
+            <collocation form="čret nad Slivnico" cluster="1" frequency="8" logDice="13.3">
+              <comp position="1" type="headword" sloleks="LE_9e9ee622cdc25c2e67ce968b65462e9b">čret</comp>
+              <comp position="2" type="other" sloleks="LE_d1a9059d44a24194d17af34039c48e9a">nad</comp>
+              <comp position="3" type="collocate" sloleks="LE_85b5fa250ea522ffce83eeb4f66987ca">Slivnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="naselje Čreta" cluster="1" frequency="9" logDice="5.36">
+              <comp position="1" type="collocate" sloleks="LE_80465edf90bceab77efbdf314b62fe0c">naselje</comp>
+              <comp position="2" type="headword" sloleks="LE_9e9ee622cdc25c2e67ce968b65462e9b">Čreta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="postaja v Čretu" cluster="1" frequency="5" logDice="3.78">
+              <comp position="1" type="collocate" sloleks="LE_6a105dd25229a952f54692e093d1479c">postaja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_9e9ee622cdc25c2e67ce968b65462e9b">Čretu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="38448">zakodiran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">414</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="zakodirano sporočilo" cluster="1" frequency="25" logDice="3.92">
+              <comp position="1" type="headword" sloleks="LE_37dac4d63f39c419fc30873a3d909d72">zakodirano</comp>
+              <comp position="2" type="collocate" sloleks="LE_be60708f2de6d5c0e0d91901cc38082b">sporočilo</comp>
+            </collocation>
+            <collocation form="zakodirana datoteka" cluster="2" frequency="7" logDice="3.73">
+              <comp position="1" type="headword" sloleks="LE_37dac4d63f39c419fc30873a3d909d72">zakodirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_23fb42e55ba237b993af12a69060bb7f">datoteka</comp>
+            </collocation>
+            <collocation form="zakodirana slika" cluster="3" frequency="6" logDice="1.07">
+              <comp position="1" type="headword" sloleks="LE_37dac4d63f39c419fc30873a3d909d72">zakodirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_593e973f672b71320e37b77b785f08a0">slika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 v sbz5">
+          <collocations>
+            <collocation form="zakodiran v možganih" cluster="1" frequency="4" logDice="9.55">
+              <comp position="1" type="headword" sloleks="LE_37dac4d63f39c419fc30873a3d909d72">zakodiran</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_37d8262ec9cac9e9da480d5d96d1d5f0">možganih</comp>
+            </collocation>
+            <collocation form="zakodiran v formatu" cluster="2" frequency="6" logDice="8.98">
+              <comp position="1" type="headword" sloleks="LE_37dac4d63f39c419fc30873a3d909d72">zakodiran</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_4b828034a716237432d5ee659b069b7e">formatu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 z sbz6">
+          <collocations>
+            <collocation form="zakodiran s ključem" cluster="1" frequency="5" logDice="10.16">
+              <comp position="1" type="headword" sloleks="LE_37dac4d63f39c419fc30873a3d909d72">zakodiran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_965b23645b4ee9eea28cff811825c067">ključem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="globoko zakodiran" cluster="1" frequency="5" logDice="3.84">
+              <comp position="1" type="collocate" sloleks="LE_41f4fa45fdf80f6a05a39e6d375238f7">globoko</comp>
+              <comp position="2" type="headword" sloleks="LE_37dac4d63f39c419fc30873a3d909d72">zakodiran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

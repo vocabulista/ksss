@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="1313034">koncedent</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="koncedent z odločbo" cluster="1" frequency="11" logDice="6.22">
+              <comp position="1" type="headword" sloleks="">koncedent</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_100bc75cb89eb96c657f3a2399d648c9">odločbo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="soglasje koncedent" cluster="1" frequency="8" logDice="3.62">
+              <comp position="1" type="collocate" sloleks="LE_7e3e06ed2b2e868c84a499be97298c2f">soglasje</comp>
+              <comp position="2" type="headword" sloleks="">koncedent</comp>
+            </collocation>
+            <collocation form="dovoljenje koncedent" cluster="1" frequency="5" logDice="3.18">
+              <comp position="1" type="collocate" sloleks="LE_b56c85442f9158d7e6d215799ce51a22">dovoljenje</comp>
+              <comp position="2" type="headword" sloleks="">koncedent</comp>
+            </collocation>
+            <collocation form="last koncedent" cluster="2" frequency="11" logDice="2.88">
+              <comp position="1" type="collocate" sloleks="LE_ee8fa7ae62f4b21cdcdf1be80fa1a321">last</comp>
+              <comp position="2" type="headword" sloleks="">koncedent</comp>
+            </collocation>
+            <collocation form="organ koncedent" cluster="3" frequency="5" logDice="1.99">
+              <comp position="1" type="collocate" sloleks="LE_8562dbeb947da0513f9a50c8151f8a65">organ</comp>
+              <comp position="2" type="headword" sloleks="">koncedent</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 med SBZ6">
+          <collocations>
+            <collocation form="pogodba med koncedent" cluster="1" frequency="4" logDice="4.52">
+              <comp position="1" type="collocate" sloleks="LE_f8f86304f16174105dd9c075264d9c0c">pogodba</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="">koncedent</comp>
+            </collocation>
+            <collocation form="razmerje med koncedent" cluster="2" frequency="12" logDice="3.93">
+              <comp position="1" type="collocate" sloleks="LE_34acd9846cdc68db26c51b6d15765ea9">razmerje</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="">koncedent</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

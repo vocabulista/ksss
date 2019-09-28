@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="2668">nadvladati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">412</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="nadvladati razum" cluster="1" frequency="6" logDice="6.6">
+              <comp position="1" type="headword" sloleks="LE_247a682299e342f56e8d100e91b8399a">nadvladati</comp>
+              <comp position="2" type="collocate" sloleks="LE_86fcd55dac6e95d475471c3c3d550c95">razum</comp>
+            </collocation>
+            <collocation form="nadvladati drugo" cluster="2" frequency="5" logDice="4.36">
+              <comp position="1" type="headword" sloleks="LE_247a682299e342f56e8d100e91b8399a">nadvladati</comp>
+              <comp position="2" type="collocate" sloleks="LE_f603c95c87f82ab928660bfce9e906b1">drugo</comp>
+            </collocation>
+            <collocation form="nadvladati naravo" cluster="3" frequency="4" logDice="3.71">
+              <comp position="1" type="headword" sloleks="LE_247a682299e342f56e8d100e91b8399a">nadvladati</comp>
+              <comp position="2" type="collocate" sloleks="LE_3720f05aae76a62fa53daa3d96e22c20">naravo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="popolnoma nadvladati" cluster="1" frequency="14" logDice="2.85">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_247a682299e342f56e8d100e91b8399a">nadvladati</comp>
+            </collocation>
+            <collocation form="povsem nadvladati" cluster="2" frequency="12" logDice="2.32">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_247a682299e342f56e8d100e91b8399a">nadvladati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

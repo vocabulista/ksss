@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="99102">zelenilo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">542</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="zelenilo gozda" cluster="1" frequency="18" logDice="4.28">
+              <comp position="1" type="headword" sloleks="LE_b45d196942087971141eb9993dd0d9b2">zelenilo</comp>
+              <comp position="2" type="collocate" sloleks="LE_0ca25687c86a1ca7b486899aeae45de7">gozda</comp>
+            </collocation>
+            <collocation form="tvorba zelenila" cluster="2" frequency="5" logDice="5.39">
+              <comp position="1" type="collocate" sloleks="LE_84f1d53bd0cc89734a773f6b4a6011af">tvorba</comp>
+              <comp position="2" type="headword" sloleks="LE_b45d196942087971141eb9993dd0d9b2">zelenila</comp>
+            </collocation>
+            <collocation form="odtenek zelenila" cluster="3" frequency="6" logDice="5.18">
+              <comp position="1" type="collocate" sloleks="LE_40fdd4b601f68cbf6f6a8017077690fd">odtenek</comp>
+              <comp position="2" type="headword" sloleks="LE_b45d196942087971141eb9993dd0d9b2">zelenila</comp>
+            </collocation>
+            <collocation form="nastanek zelenila" cluster="4" frequency="5" logDice="2.02">
+              <comp position="1" type="collocate" sloleks="LE_9e1a48424817b24d6d3a4ab97909c024">nastanek</comp>
+              <comp position="2" type="headword" sloleks="LE_b45d196942087971141eb9993dd0d9b2">zelenila</comp>
+            </collocation>
+            <collocation form="pomanjkanje zelenila" cluster="5" frequency="5" logDice="1.2">
+              <comp position="1" type="collocate" sloleks="LE_d03659b8343dac2f4bc37255bfab3a40">pomanjkanje</comp>
+              <comp position="2" type="headword" sloleks="LE_b45d196942087971141eb9993dd0d9b2">zelenila</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="listno zelenilo" cluster="1" frequency="55" logDice="7.97">
+              <comp position="1" type="collocate" sloleks="LE_1ae2b5b224d4f9f55a52d2507f08539c">listno</comp>
+              <comp position="2" type="headword" sloleks="LE_b45d196942087971141eb9993dd0d9b2">zelenilo</comp>
+            </collocation>
+            <collocation form="sveže zelenilo" cluster="2" frequency="8" logDice="1.74">
+              <comp position="1" type="collocate" sloleks="LE_0cf7b7d4071e824bc16baef0f48ffe44">sveže</comp>
+              <comp position="2" type="headword" sloleks="LE_b45d196942087971141eb9993dd0d9b2">zelenilo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="81582">prastrah</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">420</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 pred sbz6">
+          <collocations>
+            <collocation form="prastrah pred cerkvijo" cluster="1" frequency="5" logDice="6.13">
+              <comp position="1" type="headword" sloleks="LE_3dbe66b0ecac6e92e8ffc6e954d7c650">prastrah</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_71364d2c460f04c8b1dbbb72e4901dca">cerkvijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="koroški prastrah" cluster="1" frequency="10" logDice="2.93">
+              <comp position="1" type="collocate" sloleks="LE_41364ac16c9a95a88cbb02b84282df89">koroški</comp>
+              <comp position="2" type="headword" sloleks="LE_3dbe66b0ecac6e92e8ffc6e954d7c650">prastrah</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

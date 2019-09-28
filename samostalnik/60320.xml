@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="60320">indij</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">458</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="kitajski indij" cluster="1" frequency="12" logDice="2.31">
+              <comp position="1" type="collocate" sloleks="LE_fb185a15f7fbc97760ca90b27e8bf70f">kitajski</comp>
+              <comp position="2" type="headword" sloleks="LE_6269d5b416ec373d21dd72606553fca9">indij</comp>
+            </collocation>
+            <collocation form="divji indij" cluster="2" frequency="9" logDice="2.17">
+              <comp position="1" type="collocate" sloleks="LE_5ca5d3ebba6d615ded0f89b606cf0b92">divji</comp>
+              <comp position="2" type="headword" sloleks="LE_6269d5b416ec373d21dd72606553fca9">indij</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="predavanje Indija" cluster="1" frequency="9" logDice="5.08">
+              <comp position="1" type="collocate" sloleks="LE_ad184839a83413733999cf134c1bd522">predavanje</comp>
+              <comp position="2" type="headword" sloleks="LE_6269d5b416ec373d21dd72606553fca9">Indija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="znak za indij" cluster="1" frequency="49" logDice="7.47">
+              <comp position="1" type="collocate" sloleks="LE_c14b604b2ebc69adbffa17600b4697c8">znak</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6269d5b416ec373d21dd72606553fca9">indij</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

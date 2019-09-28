@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="48916">belič</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">997</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Belič iz hiše" cluster="1" frequency="5" logDice="5.02">
+              <comp position="1" type="headword" sloleks="LE_e7dc7f2ae313422c11035974dfb5eef7">Belič</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_34e4b2cb65c667c6bf374f39db0e3597">hiše</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz brez SBZ2">
+          <collocations>
+            <collocation form="ostati brez beliča" cluster="1" frequency="8" logDice="2.47">
+              <comp position="1" type="collocate" sloleks="LE_f2645fccc77ca8ba15862278bf3ee661">ostati</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_e7dc7f2ae313422c11035974dfb5eef7">beliča</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz do SBZ2">
+          <collocations>
+            <collocation form="iztožiti do beliča" cluster="1" frequency="4" logDice="11.99">
+              <comp position="1" type="collocate" sloleks="LE_f6cd4342646b4de143dde237a553a7c1">iztožiti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_e7dc7f2ae313422c11035974dfb5eef7">beliča</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="zadnji belič" cluster="1" frequency="64" logDice="0.94">
+              <comp position="1" type="collocate" sloleks="LE_91601e3363ebbfa5c134315888532266">zadnji</comp>
+              <comp position="2" type="headword" sloleks="LE_e7dc7f2ae313422c11035974dfb5eef7">belič</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Damjan Beliča" cluster="1" frequency="10" logDice="6.77">
+              <comp position="1" type="collocate" sloleks="LE_6cb1bbc4bc7e08f963346018d534cf38">Damjan</comp>
+              <comp position="2" type="headword" sloleks="LE_e7dc7f2ae313422c11035974dfb5eef7">Beliča</comp>
+            </collocation>
+            <collocation form="Martin Beliča" cluster="2" frequency="7" logDice="4.74">
+              <comp position="1" type="collocate" sloleks="LE_cbf45ba12cc362804f46bdca6283e17d">Martin</comp>
+              <comp position="2" type="headword" sloleks="LE_e7dc7f2ae313422c11035974dfb5eef7">Beliča</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

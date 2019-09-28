@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="9395">vžigati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">479</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="vžigati motor" cluster="1" frequency="11" logDice="4.94">
+              <comp position="1" type="headword" sloleks="LE_b832b896bf753cae2edb38c4d2bcae42">vžigati</comp>
+              <comp position="2" type="collocate" sloleks="LE_f2500a2481839c4e1efd6315d8b961cc">motor</comp>
+            </collocation>
+            <collocation form="vžigati avtomobil" cluster="2" frequency="8" logDice="3.56">
+              <comp position="1" type="headword" sloleks="LE_b832b896bf753cae2edb38c4d2bcae42">vžigati</comp>
+              <comp position="2" type="collocate" sloleks="LE_2d371ce9cfa94488baae8dd8023002e4">avtomobil</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="vžigati v les" cluster="1" frequency="13" logDice="9.8">
+              <comp position="1" type="headword" sloleks="LE_b832b896bf753cae2edb38c4d2bcae42">vžigati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_a64d3c025e48884a3606fcff72b3d118">les</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="lepo vžigati" cluster="1" frequency="6" logDice="0.84">
+              <comp position="1" type="collocate" sloleks="LE_d01061f4e29d96c6aa9cb7941b715be1">lepo</comp>
+              <comp position="2" type="headword" sloleks="LE_b832b896bf753cae2edb38c4d2bcae42">vžigati</comp>
+            </collocation>
+            <collocation form="rad vžigati" cluster="2" frequency="14" logDice="0.6">
+              <comp position="1" type="collocate" sloleks="LE_0a2bb08c60a0cb7fd95c85fd75f2bfca">rad</comp>
+              <comp position="2" type="headword" sloleks="LE_b832b896bf753cae2edb38c4d2bcae42">vžigati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="79488">pojavitev</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">529</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="pojavitev elementa" cluster="1" frequency="10" logDice="4.36">
+              <comp position="1" type="headword" sloleks="LE_48484af3cda6a7b6227fc857412729f9">pojavitev</comp>
+              <comp position="2" type="collocate" sloleks="LE_e6d5b239f6648336b94efcc51407108c">elementa</comp>
+            </collocation>
+            <collocation form="pojavitev besede" cluster="2" frequency="12" logDice="3.21">
+              <comp position="1" type="headword" sloleks="LE_48484af3cda6a7b6227fc857412729f9">pojavitev</comp>
+              <comp position="2" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">besede</comp>
+            </collocation>
+            <collocation form="pojavitev bolezni" cluster="3" frequency="9" logDice="2.32">
+              <comp position="1" type="headword" sloleks="LE_48484af3cda6a7b6227fc857412729f9">pojavitev</comp>
+              <comp position="2" type="collocate" sloleks="LE_6fa279c9efca851861451ba08fd5fac5">bolezni</comp>
+            </collocation>
+            <collocation form="verjetnost pojavitve" cluster="4" frequency="5" logDice="4.69">
+              <comp position="1" type="collocate" sloleks="LE_2e69f7c33861b834d90aa61a66a92a84">verjetnost</comp>
+              <comp position="2" type="headword" sloleks="LE_48484af3cda6a7b6227fc857412729f9">pojavitve</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nenadna pojavitev" cluster="1" frequency="12" logDice="4.61">
+              <comp position="1" type="collocate" sloleks="LE_e31caa49a3eecd7f607ee6ed2a8f0dab">nenadna</comp>
+              <comp position="2" type="headword" sloleks="LE_48484af3cda6a7b6227fc857412729f9">pojavitev</comp>
+            </collocation>
+            <collocation form="ponovna pojavitev" cluster="2" frequency="22" logDice="3.61">
+              <comp position="1" type="collocate" sloleks="LE_bd82bd62e0557f3d9b51564b7316d86b">ponovna</comp>
+              <comp position="2" type="headword" sloleks="LE_48484af3cda6a7b6227fc857412729f9">pojavitev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,36 @@
+<entry>
+  <header>
+    <lexical_unit id="68913">medklic</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">861</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="medklic iz občinstva" cluster="1" frequency="10" logDice="9.69">
+              <comp position="1" type="headword" sloleks="LE_4e21c88765b5c2b5d0bf5c02d1c54d9d">medklic</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_9ad04c443daf1ba38a9738a769027a05">občinstva</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="motiti z medklicem" cluster="1" frequency="6" logDice="8.53">
+              <comp position="1" type="collocate" sloleks="LE_6e0e7e413885901af2358a29fca9fefd">motiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_4e21c88765b5c2b5d0bf5c02d1c54d9d">medklicem</comp>
+            </collocation>
+            <collocation form="prekinjati z medklicem" cluster="2" frequency="4" logDice="8.46">
+              <comp position="1" type="collocate" sloleks="LE_754a680713a1f3b2e86e7cd415873dec">prekinjati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_4e21c88765b5c2b5d0bf5c02d1c54d9d">medklicem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

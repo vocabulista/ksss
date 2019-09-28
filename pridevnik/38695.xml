@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="38695">zarukan</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">534</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="zarukan kmet" cluster="1" frequency="20" logDice="4.49">
+              <comp position="1" type="headword" sloleks="LE_e5d3bda2af54427f52bde3971a531c3a">zarukan</comp>
+              <comp position="2" type="collocate" sloleks="LE_5fb2f2edbdd5aa2d939dbbca1647eb44">kmet</comp>
+            </collocation>
+            <collocation form="zarukan narod" cluster="1" frequency="8" logDice="1.61">
+              <comp position="1" type="headword" sloleks="LE_e5d3bda2af54427f52bde3971a531c3a">zarukan</comp>
+              <comp position="2" type="collocate" sloleks="LE_467863326a5651026d6c2e7a67b4936b">narod</comp>
+            </collocation>
+            <collocation form="zarukan sin" cluster="2" frequency="6" logDice="2.26">
+              <comp position="1" type="headword" sloleks="LE_e5d3bda2af54427f52bde3971a531c3a">zarukan</comp>
+              <comp position="2" type="collocate" sloleks="LE_79e0b2d02a57a50544ca32d11914a5a7">sin</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="toliko zarukan" cluster="1" frequency="9" logDice="2.28">
+              <comp position="1" type="collocate" sloleks="LE_e8a73a0e682431303071ff7537eabf4b">toliko</comp>
+              <comp position="2" type="headword" sloleks="LE_e5d3bda2af54427f52bde3971a531c3a">zarukan</comp>
+            </collocation>
+            <collocation form="res zarukan" cluster="2" frequency="5" logDice="0.68">
+              <comp position="1" type="collocate" sloleks="LE_f755b561969e89364cdbaba990b8838d">res</comp>
+              <comp position="2" type="headword" sloleks="LE_e5d3bda2af54427f52bde3971a531c3a">zarukan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

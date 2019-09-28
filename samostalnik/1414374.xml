@@ -1,0 +1,57 @@
+<entry>
+  <header>
+    <lexical_unit id="1414374">krep</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="krep papirja" cluster="1" frequency="444" logDice="8.5">
+              <comp position="1" type="headword" sloleks="">krep</comp>
+              <comp position="2" type="collocate" sloleks="LE_bd43c7f1c3166c88c6e6fd690b721f1f">papirja</comp>
+            </collocation>
+            <collocation form="krep traku" cluster="2" frequency="8" logDice="5.89">
+              <comp position="1" type="headword" sloleks="">krep</comp>
+              <comp position="2" type="collocate" sloleks="LE_b8c455f489fc7f52c6d73969880288f5">traku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="barven krep" cluster="1" frequency="15" logDice="3.34">
+              <comp position="1" type="collocate" sloleks="LE_e1a8898e54ce222226d87580cce99b67">barven</comp>
+              <comp position="2" type="headword" sloleks="">krep</comp>
+            </collocation>
+            <collocation form="zelen krep" cluster="2" frequency="29" logDice="2.94">
+              <comp position="1" type="collocate" sloleks="LE_6e8aa87791d8f00ce04541edfe194c36">zelen</comp>
+              <comp position="2" type="headword" sloleks="">krep</comp>
+            </collocation>
+            <collocation form="rdeč krep" cluster="3" frequency="17" logDice="1.4">
+              <comp position="1" type="collocate" sloleks="LE_f39824a0a0c94efb31b4fa9dc908ea0f">rdeč</comp>
+              <comp position="2" type="headword" sloleks="">krep</comp>
+            </collocation>
+            <collocation form="bel krep" cluster="3" frequency="13" logDice="0.71">
+              <comp position="1" type="collocate" sloleks="LE_50f9b0a6743feeba2fd5482919490dd5">bel</comp>
+              <comp position="2" type="headword" sloleks="">krep</comp>
+            </collocation>
+            <collocation form="črn krep" cluster="3" frequency="12" logDice="0.73">
+              <comp position="1" type="collocate" sloleks="LE_efad3f083a68e148bcd4aa4f62efd36c">črn</comp>
+              <comp position="2" type="headword" sloleks="">krep</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="obleka iz krep" cluster="1" frequency="14" logDice="8.23">
+              <comp position="1" type="collocate" sloleks="LE_bfd8bb730cd2036ba76709da13f2d420">obleka</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="">krep</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

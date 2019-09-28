@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="54626">dual</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1502</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="dual gold" cluster="1" frequency="15" logDice="12.27">
+              <comp position="1" type="headword" sloleks="LE_65854cd1cd5dbabaa16ee92191287a1f">dual</comp>
+              <comp position="2" type="collocate" sloleks="">gold</comp>
+            </collocation>
+            <collocation form="Dual sime" cluster="2" frequency="24" logDice="8.57">
+              <comp position="1" type="headword" sloleks="LE_65854cd1cd5dbabaa16ee92191287a1f">Dual</comp>
+              <comp position="2" type="collocate" sloleks="LE_d6302468c262e8d8f17a251f2c39a5c2">sime</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="litrski Dual" cluster="1" frequency="18" logDice="4.16">
+              <comp position="1" type="collocate" sloleks="LE_7063e698d6304f3a52542db7131c0214">litrski</comp>
+              <comp position="2" type="headword" sloleks="LE_65854cd1cd5dbabaa16ee92191287a1f">Dual</comp>
+            </collocation>
+            <collocation form="imenovan dual" cluster="2" frequency="10" logDice="1.22">
+              <comp position="1" type="collocate" sloleks="LE_48445856b1ad858d1b8600c1111b730c">imenovan</comp>
+              <comp position="2" type="headword" sloleks="LE_65854cd1cd5dbabaa16ee92191287a1f">dual</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

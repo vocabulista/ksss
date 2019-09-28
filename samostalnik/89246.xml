@@ -1,0 +1,29 @@
+<entry>
+  <header>
+    <lexical_unit id="89246">skunk</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">520</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="imenovan skunk" cluster="1" frequency="13" logDice="1.6">
+              <comp position="1" type="collocate" sloleks="LE_48445856b1ad858d1b8600c1111b730c">imenovan</comp>
+              <comp position="2" type="headword" sloleks="LE_e56817522304b877e96fb2813cc2db7e">skunk</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="kilogram skunka" cluster="1" frequency="11" logDice="3.65">
+              <comp position="1" type="collocate" sloleks="LE_758190145382857bd4e278cfd092045b">kilogram</comp>
+              <comp position="2" type="headword" sloleks="LE_e56817522304b877e96fb2813cc2db7e">skunka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

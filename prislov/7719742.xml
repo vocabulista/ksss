@@ -1,0 +1,57 @@
+<entry>
+  <header>
+    <lexical_unit id="7719742">koj</lexical_unit>
+    <category>prislov</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ gbz">
+          <collocations>
+            <collocation form="koj osuti" cluster="1" frequency="5" logDice="8.67">
+              <comp position="1" type="headword" sloleks="">koj</comp>
+              <comp position="2" type="collocate" sloleks="LE_bc51a1d09a9f8e030885f1b588aa2aa3">osuti</comp>
+            </collocation>
+            <collocation form="koj skočiti" cluster="2" frequency="4" logDice="4.06">
+              <comp position="1" type="headword" sloleks="">koj</comp>
+              <comp position="2" type="collocate" sloleks="LE_dfe75638a5071bba1f69b07fc2709f40">skočiti</comp>
+            </collocation>
+            <collocation form="koj opaziti" cluster="3" frequency="4" logDice="2.17">
+              <comp position="1" type="headword" sloleks="">koj</comp>
+              <comp position="2" type="collocate" sloleks="LE_e07c9aefb78235729a37253780933d1c">opaziti</comp>
+            </collocation>
+            <collocation form="koj plačati" cluster="4" frequency="4" logDice="2.08">
+              <comp position="1" type="headword" sloleks="">koj</comp>
+              <comp position="2" type="collocate" sloleks="LE_65a8257a4777d91ca083d5d192fee299">plačati</comp>
+            </collocation>
+            <collocation form="koj začeti" cluster="5" frequency="7" logDice="0.68">
+              <comp position="1" type="headword" sloleks="">koj</comp>
+              <comp position="2" type="collocate" sloleks="LE_5526be99243d6a70e33b06d3eabd15ae">začeti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ na sbz5">
+          <collocations>
+            <collocation form="koj na začetku" cluster="1" frequency="8" logDice="4.71">
+              <comp position="1" type="headword" sloleks="">koj</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_ff54e76842fd90ab703dad7694fad404">začetku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="iti koj" cluster="1" frequency="11" logDice="0.69">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="headword" sloleks="">koj</comp>
+            </collocation>
+            <collocation form="priti koj" cluster="2" frequency="4" logDice="0.38">
+              <comp position="1" type="collocate" sloleks="LE_fc339e29cc0e8ec9efe1ef0acdfb11b5">priti</comp>
+              <comp position="2" type="headword" sloleks="">koj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

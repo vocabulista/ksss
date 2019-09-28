@@ -1,0 +1,48 @@
+<entry>
+  <header>
+    <lexical_unit id="90107">solnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">512</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="solnica za divjačino" cluster="1" frequency="11" logDice="11.86">
+              <comp position="1" type="headword" sloleks="LE_62020e643ccfa741b700a1b7ea83ebde">solnica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_5a4ec3fb6325accc84bde82071c4cd24">divjačino</comp>
+            </collocation>
+            <collocation form="solnica za inhalacijo" cluster="2" frequency="6" logDice="11.31">
+              <comp position="1" type="headword" sloleks="LE_62020e643ccfa741b700a1b7ea83ebde">solnica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_684e1acf2a2b1a019446c1909fde3617">inhalacijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="naravoslovna solnica" cluster="1" frequency="22" logDice="6.27">
+              <comp position="1" type="collocate" sloleks="LE_ec7ee4efc054efe345cb6b1e0a60ddd6">naravoslovna</comp>
+              <comp position="2" type="headword" sloleks="LE_62020e643ccfa741b700a1b7ea83ebde">solnica</comp>
+            </collocation>
+            <collocation form="srebrna solnica" cluster="2" frequency="10" logDice="3.0">
+              <comp position="1" type="collocate" sloleks="LE_449f9d1d6f19cfe7cc5deee30e5ef2e3">srebrna</comp>
+              <comp position="2" type="headword" sloleks="LE_62020e643ccfa741b700a1b7ea83ebde">solnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="sol iz solnice" cluster="1" frequency="6" logDice="8.91">
+              <comp position="1" type="collocate" sloleks="LE_2d8062c4245f77e3286282fe221cfd10">sol</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_62020e643ccfa741b700a1b7ea83ebde">solnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="97702">zadolžnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">493</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz2">
+          <collocations>
+            <collocation form="zadolžnica za plače" cluster="1" frequency="6" logDice="7.48">
+              <comp position="1" type="headword" sloleks="LE_412ae23cd6f81788cbf7d6b97dc8dbb8">zadolžnica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_5e60f7e201847a7be65d2212fdd74103">plače</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="zadolžnica za plačo" cluster="1" frequency="19" logDice="6.79">
+              <comp position="1" type="headword" sloleks="LE_412ae23cd6f81788cbf7d6b97dc8dbb8">zadolžnica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_5e60f7e201847a7be65d2212fdd74103">plačo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="podpisnik zadolžnice" cluster="1" frequency="6" logDice="5.4">
+              <comp position="1" type="collocate" sloleks="LE_8e674e226d0733bdd45392a8b08435c4">podpisnik</comp>
+              <comp position="2" type="headword" sloleks="LE_412ae23cd6f81788cbf7d6b97dc8dbb8">zadolžnice</comp>
+            </collocation>
+            <collocation form="izplačilo zadolžnice" cluster="2" frequency="6" logDice="2.99">
+              <comp position="1" type="collocate" sloleks="LE_420a0ce1c0748fa1ec5a2b486fa0f1d4">izplačilo</comp>
+              <comp position="2" type="headword" sloleks="LE_412ae23cd6f81788cbf7d6b97dc8dbb8">zadolžnice</comp>
+            </collocation>
+            <collocation form="izdaja zadolžnice" cluster="3" frequency="10" logDice="2.42">
+              <comp position="1" type="collocate" sloleks="LE_7683011bbc418354ce3ad92abaaaca94">izdaja</comp>
+              <comp position="2" type="headword" sloleks="LE_412ae23cd6f81788cbf7d6b97dc8dbb8">zadolžnice</comp>
+            </collocation>
+            <collocation form="knjiga zadolžnice" cluster="4" frequency="5" logDice="1.81">
+              <comp position="1" type="collocate" sloleks="LE_fcbd23f52ef0d5c8f302f9c1ba64a0e3">knjiga</comp>
+              <comp position="2" type="headword" sloleks="LE_412ae23cd6f81788cbf7d6b97dc8dbb8">zadolžnice</comp>
+            </collocation>
+            <collocation form="vrednost zadolžnice" cluster="5" frequency="7" logDice="0.72">
+              <comp position="1" type="collocate" sloleks="LE_aa6bad87e3fba76f27f4242d3cb9a383">vrednost</comp>
+              <comp position="2" type="headword" sloleks="LE_412ae23cd6f81788cbf7d6b97dc8dbb8">zadolžnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

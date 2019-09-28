@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="1304">hipnotizirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">627</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="hipnotizirati uradnika" cluster="1" frequency="6" logDice="7.74">
+              <comp position="1" type="headword" sloleks="LE_1cd2da69c7c8ba8c64b93c2218525460">hipnotizirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_4d9b0b709451575234db2d5fc61051cb">uradnika</comp>
+            </collocation>
+            <collocation form="hipnotizirati gledalca" cluster="2" frequency="10" logDice="5.48">
+              <comp position="1" type="headword" sloleks="LE_1cd2da69c7c8ba8c64b93c2218525460">hipnotizirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_85e07971e615ac21ed6e5281ab7db6cd">gledalca</comp>
+            </collocation>
+            <collocation form="hipnotizirati žrtev" cluster="3" frequency="4" logDice="3.8">
+              <comp position="1" type="headword" sloleks="LE_1cd2da69c7c8ba8c64b93c2218525460">hipnotizirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_f46ebb4646225631d376c958798abe48">žrtev</comp>
+            </collocation>
+            <collocation form="hipnotizirati človeka" cluster="4" frequency="12" logDice="2.6">
+              <comp position="1" type="headword" sloleks="LE_1cd2da69c7c8ba8c64b93c2218525460">hipnotizirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človeka</comp>
+            </collocation>
+            <collocation form="hipnotizirati otroka" cluster="5" frequency="5" logDice="1.19">
+              <comp position="1" type="headword" sloleks="LE_1cd2da69c7c8ba8c64b93c2218525460">hipnotizirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otroka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="hipnotizirati s pogledom" cluster="1" frequency="4" logDice="3.89">
+              <comp position="1" type="headword" sloleks="LE_1cd2da69c7c8ba8c64b93c2218525460">hipnotizirati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_456820bc1f399479d902f190585f0938">pogledom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="dobesedno hipnotizirati" cluster="1" frequency="8" logDice="3.28">
+              <comp position="1" type="collocate" sloleks="LE_bffec2e3c44400c319dff55bd9852452">dobesedno</comp>
+              <comp position="2" type="headword" sloleks="LE_1cd2da69c7c8ba8c64b93c2218525460">hipnotizirati</comp>
+            </collocation>
+            <collocation form="zlahka hipnotizirati" cluster="2" frequency="5" logDice="2.5">
+              <comp position="1" type="collocate" sloleks="LE_ebc31a7d1da956cdbb39e94e32d45b5e">zlahka</comp>
+              <comp position="2" type="headword" sloleks="LE_1cd2da69c7c8ba8c64b93c2218525460">hipnotizirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

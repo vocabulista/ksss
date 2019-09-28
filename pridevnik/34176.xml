@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="34176">služnosten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">2039</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="služnosten in stavben" cluster="1" frequency="9" logDice="9.43">
+              <comp position="1" type="headword" sloleks="LE_f6a32bae88e212381923c9da5b18215f">služnosten</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_df6f5c7de349feffc6f650907fa9595b">stavben</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="služnosten upravičenec" cluster="1" frequency="83" logDice="7.59">
+              <comp position="1" type="headword" sloleks="LE_f6a32bae88e212381923c9da5b18215f">služnosten</comp>
+              <comp position="2" type="collocate" sloleks="LE_e48486d8258b8ad3296922abb78b69cd">upravičenec</comp>
+            </collocation>
+            <collocation form="služnosten zavezanec" cluster="1" frequency="15" logDice="4.66">
+              <comp position="1" type="headword" sloleks="LE_f6a32bae88e212381923c9da5b18215f">služnosten</comp>
+              <comp position="2" type="collocate" sloleks="LE_fd44dd40219c000eaba319186ca0d136">zavezanec</comp>
+            </collocation>
+            <collocation form="služnostna pravica" cluster="2" frequency="841" logDice="6.83">
+              <comp position="1" type="headword" sloleks="LE_f6a32bae88e212381923c9da5b18215f">služnostna</comp>
+              <comp position="2" type="collocate" sloleks="LE_8c0e472df622ea735bcaed6544ab6130">pravica</comp>
+            </collocation>
+            <collocation form="služnostna pogodba" cluster="2" frequency="369" logDice="5.97">
+              <comp position="1" type="headword" sloleks="LE_f6a32bae88e212381923c9da5b18215f">služnostna</comp>
+              <comp position="2" type="collocate" sloleks="LE_f8f86304f16174105dd9c075264d9c0c">pogodba</comp>
+            </collocation>
+            <collocation form="služnostna dejavnost" cluster="2" frequency="24" logDice="1.47">
+              <comp position="1" type="headword" sloleks="LE_f6a32bae88e212381923c9da5b18215f">služnostna</comp>
+              <comp position="2" type="collocate" sloleks="LE_7fd9651ddee6b84cd9c853211be163f8">dejavnost</comp>
+            </collocation>
+            <collocation form="služnosten zakol" cluster="3" frequency="9" logDice="6.49">
+              <comp position="1" type="headword" sloleks="LE_f6a32bae88e212381923c9da5b18215f">služnosten</comp>
+              <comp position="2" type="collocate" sloleks="LE_c85da6e3474f7f810f37e1b15c1097c3">zakol</comp>
+            </collocation>
+            <collocation form="služnostna pot" cluster="4" frequency="522" logDice="5.79">
+              <comp position="1" type="headword" sloleks="LE_f6a32bae88e212381923c9da5b18215f">služnostna</comp>
+              <comp position="2" type="collocate" sloleks="LE_6f8aa8d4e7c0d678fee98b890a6d1964|LE_97291a922b54c3ec42af6728cfcc7ab2">pot</comp>
+            </collocation>
+            <collocation form="služnosten prehod" cluster="5" frequency="13" logDice="2.69">
+              <comp position="1" type="headword" sloleks="LE_f6a32bae88e212381923c9da5b18215f">služnosten</comp>
+              <comp position="2" type="collocate" sloleks="LE_6bbb2dfa695a0acfe193236971d127a3">prehod</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

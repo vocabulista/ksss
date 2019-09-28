@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="91891">stresor</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">436</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="zunanji stresor" cluster="1" frequency="13" logDice="0.84">
+              <comp position="1" type="collocate" sloleks="LE_ff641fe1f7786f7040e14332b28b445d">zunanji</comp>
+              <comp position="2" type="headword" sloleks="LE_4e823fb68b7f8b85a65b3622cb72b0db">stresor</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="lestvica stresorja" cluster="1" frequency="7" logDice="3.04">
+              <comp position="1" type="collocate" sloleks="LE_84bcb21133c438ef7a1197cc20331b78">lestvica</comp>
+              <comp position="2" type="headword" sloleks="LE_4e823fb68b7f8b85a65b3622cb72b0db">stresorja</comp>
+            </collocation>
+            <collocation form="vpliv stresorja" cluster="2" frequency="10" logDice="2.35">
+              <comp position="1" type="collocate" sloleks="LE_4dac044878c71472e44f21dc0e9220c2">vpliv</comp>
+              <comp position="2" type="headword" sloleks="LE_4e823fb68b7f8b85a65b3622cb72b0db">stresorja</comp>
+            </collocation>
+            <collocation form="učinek stresorja" cluster="3" frequency="6" logDice="2.26">
+              <comp position="1" type="collocate" sloleks="LE_2353cab56c2f4b095b8ea704f5199db8">učinek</comp>
+              <comp position="2" type="headword" sloleks="LE_4e823fb68b7f8b85a65b3622cb72b0db">stresorja</comp>
+            </collocation>
+            <collocation form="delovanje stresorja" cluster="4" frequency="11" logDice="1.56">
+              <comp position="1" type="collocate" sloleks="LE_3af6feb1ad49bf57ea9c005fefeb07cc">delovanje</comp>
+              <comp position="2" type="headword" sloleks="LE_4e823fb68b7f8b85a65b3622cb72b0db">stresorja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ4">
+          <collocations>
+            <collocation form="odziv na stresor" cluster="1" frequency="9" logDice="4.77">
+              <comp position="1" type="collocate" sloleks="LE_35fc7755184a7472a39c47b0cd9a69f0">odziv</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4e823fb68b7f8b85a65b3622cb72b0db">stresor</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

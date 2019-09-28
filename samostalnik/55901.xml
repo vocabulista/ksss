@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="55901">etničnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">438</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="narava etničnosti" cluster="1" frequency="5" logDice="2.97">
+              <comp position="1" type="collocate" sloleks="LE_3720f05aae76a62fa53daa3d96e22c20">narava</comp>
+              <comp position="2" type="headword" sloleks="LE_373aeaba5bebba06df21059ec2ba0347">etničnosti</comp>
+            </collocation>
+            <collocation form="vprašanje etničnosti" cluster="1" frequency="5" logDice="0.76">
+              <comp position="1" type="collocate" sloleks="LE_18ddad642f4f2459ae6eda5f8fcda990">vprašanje</comp>
+              <comp position="2" type="headword" sloleks="LE_373aeaba5bebba06df21059ec2ba0347">etničnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="razprava o etničnosti" cluster="1" frequency="4" logDice="1.76">
+              <comp position="1" type="collocate" sloleks="LE_d58e7f8d86be2eef759384195d65ffa5">razprava</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_373aeaba5bebba06df21059ec2ba0347">etničnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

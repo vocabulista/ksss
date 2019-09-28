@@ -1,0 +1,880 @@
+<entry>
+  <header>
+    <lexical_unit id="45177">spoštljivo</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">3721</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ do sbz2">
+          <collocations>
+            <collocation form="spoštljivo do žrtve" cluster="1" frequency="6" logDice="10.42">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_f46ebb4646225631d376c958798abe48">žrtve</comp>
+            </collocation>
+            <collocation form="spoštljivo do nasprotnika" cluster="2" frequency="5" logDice="10.39">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_09d7e4752e896fdc530a59483161bb43">nasprotnika</comp>
+            </collocation>
+            <collocation form="spoštljivo do bralca" cluster="3" frequency="4" logDice="9.85">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_8840a4bff36d46cc320022c58cde6848">bralca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ gbz">
+          <collocations>
+            <collocation form="spoštljivo prikloniti" cluster="1" frequency="55" logDice="9.4">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_a15f4d047db53fa0b55a5d387b8cc18c">prikloniti</comp>
+            </collocation>
+            <collocation form="spoštljivo priklanjati" cluster="2" frequency="17" logDice="8.12">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_ac1c0e1b6f8d388731a5ca572a92a1e2">priklanjati</comp>
+            </collocation>
+            <collocation form="spoštljivo umakniti" cluster="3" frequency="24" logDice="5.47">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_7b705f0bec1e703db675c9b666fa8695">umakniti</comp>
+            </collocation>
+            <collocation form="spoštljivo umikati" cluster="3" frequency="15" logDice="6.67">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_99417b8733abda46b618d0b9ae46f8cc">umikati</comp>
+            </collocation>
+            <collocation form="spoštljivo stopiti" cluster="4" frequency="8" logDice="3.45">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_c12c50e3eb3a6e95291005bd962d3fac">stopiti</comp>
+            </collocation>
+            <collocation form="spoštljivo živeti" cluster="4" frequency="6" logDice="1.29">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_42cc4ca3168ca0f408ce857620c0a7d0">živeti</comp>
+            </collocation>
+            <collocation form="spoštljivo hoditi" cluster="4" frequency="6" logDice="2.58">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_ecd5d4ecb63a8422fe3303a9c6e9ae32">hoditi</comp>
+            </collocation>
+            <collocation form="spoštljivo govoriti" cluster="5" frequency="105" logDice="5.11">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_1da4dedf23c5041ae767d038d2430123">govoriti</comp>
+            </collocation>
+            <collocation form="spoštljivo vedeti" cluster="5" frequency="14" logDice="1.59">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_96a1912ad3bc983daf281c87f30e5a02">vedeti</comp>
+            </collocation>
+            <collocation form="spoštljivo pogovarjati" cluster="5" frequency="11" logDice="3.65">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_4027e38ae800fbeb50666a09ec7b051c">pogovarjati</comp>
+            </collocation>
+            <collocation form="spoštljivo pisati" cluster="5" frequency="10" logDice="2.66">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_4173587cb50dc70d0c9a1be18c9c1b96">pisati</comp>
+            </collocation>
+            <collocation form="spoštljivo reči" cluster="5" frequency="10" logDice="1.34">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_2e2f18bfd5ebbc4dc100327e7c4b4371">reči</comp>
+            </collocation>
+            <collocation form="spoštljivo spregovoriti" cluster="5" frequency="9" logDice="4.52">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_f1a209f9e2c6e52bb9d4f8a8a7b8186b">spregovoriti</comp>
+            </collocation>
+            <collocation form="spoštljivo povedati" cluster="5" frequency="8" logDice="1.1">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_cf2e918645b765c031aa3d36edad265f">povedati</comp>
+            </collocation>
+            <collocation form="spoštljivo praviti" cluster="5" frequency="8" logDice="2.87">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_ea0305443a70ebe9f95c7e399e2cf575">praviti</comp>
+            </collocation>
+            <collocation form="spoštljivo pripovedovati" cluster="5" frequency="6" logDice="4.24">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_a77324682b114c9415db3c91ffc8870e">pripovedovati</comp>
+            </collocation>
+            <collocation form="spoštljivo dejati" cluster="5" frequency="5" logDice="2.71">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_589043755dd51c65044a2db476fcfa5f">dejati</comp>
+            </collocation>
+            <collocation form="spoštljivo odgovarjati" cluster="5" frequency="4" logDice="3.37">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_d56b568fe31438020098b26e2c94d4b0">odgovarjati</comp>
+            </collocation>
+            <collocation form="spoštljivo razmišljati" cluster="5" frequency="4" logDice="1.48">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_7350c68b807f61e5db5145d859ceec18">razmišljati</comp>
+            </collocation>
+            <collocation form="spoštljivo imenovati" cluster="6" frequency="30" logDice="5.02">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_3e12a706ab8dbd4f47d3004afdf657ec">imenovati</comp>
+            </collocation>
+            <collocation form="spoštljivo gledati" cluster="6" frequency="26" logDice="3.94">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_20e7c0495c6f388c7c6440a4c081af85">gledati</comp>
+            </collocation>
+            <collocation form="spoštljivo poslušati" cluster="6" frequency="23" logDice="4.96">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_b66359f697d6db06df147d6f90b94ae1">poslušati</comp>
+            </collocation>
+            <collocation form="spoštljivo opazovati" cluster="6" frequency="12" logDice="4.13">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_74a8312dbf7d384464bf26188b61f04d">opazovati</comp>
+            </collocation>
+            <collocation form="spoštljivo slediti" cluster="6" frequency="10" logDice="3.12">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_7e8257f6d3f96f4e941dceb09159350b">slediti</comp>
+            </collocation>
+            <collocation form="spoštljivo pogledati" cluster="6" frequency="10" logDice="3.04">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_14de2e00a349ccb20b285dd948687819">pogledati</comp>
+            </collocation>
+            <collocation form="spoštljivo stati" cluster="6" frequency="10" logDice="2.71">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_440a1718cdb8a6551a352fd055b43ee2|LE_7535b33707f7c7228585ee95cd426db5">stati</comp>
+            </collocation>
+            <collocation form="spoštljivo odkriti" cluster="6" frequency="9" logDice="3.83">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_3b8fd825b5c0e82121561ac22146407c">odkriti</comp>
+            </collocation>
+            <collocation form="spoštljivo dvigniti" cluster="6" frequency="5" logDice="2.69">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_4359ca05f9d7250946581a863690f566">dvigniti</comp>
+            </collocation>
+            <collocation form="spoštljivo ustaviti" cluster="6" frequency="5" logDice="2.52">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_12d0f1c40acd85cfd49f6ca4d2d7f600">ustaviti</comp>
+            </collocation>
+            <collocation form="spoštljivo čakati" cluster="6" frequency="4" logDice="0.69">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_40e471c4d788a258a8c6b151605ab514">čakati</comp>
+            </collocation>
+            <collocation form="spoštljivo iskati" cluster="6" frequency="4" logDice="1.42">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_f958c24d54a6571cd8c4ccad8d75b565">iskati</comp>
+            </collocation>
+            <collocation form="spoštljivo pozdraviti" cluster="7" frequency="58" logDice="7.19">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_8ab1f17ffe6ff9618858d6ce8e811c33">pozdraviti</comp>
+            </collocation>
+            <collocation form="spoštljivo pozdravljati" cluster="7" frequency="22" logDice="6.62">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_2f73447aabd47a82d97c92f4defd1e70">pozdravljati</comp>
+            </collocation>
+            <collocation form="spoštljivo nagovoriti" cluster="7" frequency="6" logDice="5.59">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_3fd649a59a1d5c47dbe1a388df49c17a">nagovoriti</comp>
+            </collocation>
+            <collocation form="spoštljivo poklekniti" cluster="8" frequency="7" logDice="6.54">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_f7ee949cf1689bbc9173d7516ab3d72f">poklekniti</comp>
+            </collocation>
+            <collocation form="spoštljivo naslavljati" cluster="9" frequency="7" logDice="6.52">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_7c8306352d3a70f3fd7b443aa4ee50a7">naslavljati</comp>
+            </collocation>
+            <collocation form="spoštljivo prikimati" cluster="10" frequency="9" logDice="6.47">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_2a1c9ba21a27843d04191fbee2cee6c2">prikimati</comp>
+            </collocation>
+            <collocation form="spoštljivo pokimati" cluster="10" frequency="6" logDice="6.11">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_92f427cba04ec050077524db0fe6df2c">pokimati</comp>
+            </collocation>
+            <collocation form="spoštljivo ravnati" cluster="11" frequency="57" logDice="6.43">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_6bb16a78250b205a0096c7c9292ce6b4">ravnati</comp>
+            </collocation>
+            <collocation form="spoštljivo obnašati" cluster="11" frequency="53" logDice="7.21">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_04a66a34061d8cad6b5c0503d460f586">obnašati</comp>
+            </collocation>
+            <collocation form="spoštljivo vesti" cluster="11" frequency="21" logDice="6.97">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_fb95c294a8db7b7998184c614852daf4|LE_b14258b6e111ec2ba01fa9812d6dd454">vesti</comp>
+            </collocation>
+            <collocation form="spoštljivo pokopati" cluster="12" frequency="13" logDice="6.41">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_40c999c20c9910dfd9ad5d0f0f032ec8">pokopati</comp>
+            </collocation>
+            <collocation form="spoštljivo vikati" cluster="13" frequency="5" logDice="6.41">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_d1883336bd93e53919e9941c115ea7ff">vikati</comp>
+            </collocation>
+            <collocation form="spoštljivo ogovarjati" cluster="14" frequency="5" logDice="6.3">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_dbac05fbe2d9bba183e12988e4bcf627">ogovarjati</comp>
+            </collocation>
+            <collocation form="spoštljivo zreti" cluster="15" frequency="12" logDice="6.25">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_bf8dea97e6630406674c7624bc454de4">zreti</comp>
+            </collocation>
+            <collocation form="spoštljivo pokloniti" cluster="16" frequency="18" logDice="7.45">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_5e65abe9d87d8eb31a6d7482e3c897aa">pokloniti</comp>
+            </collocation>
+            <collocation form="spoštljivo zahvaliti" cluster="16" frequency="8" logDice="4.55">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_d2f0ccba9031f2e1c3a3da1b4e2a548a">zahvaliti</comp>
+            </collocation>
+            <collocation form="spoštljivo naprošati" cluster="17" frequency="5" logDice="6.23">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_e970940aab52f5d0cd2edd90553a5ee3">naprošati</comp>
+            </collocation>
+            <collocation form="spoštljivo prezentirati" cluster="18" frequency="4" logDice="6.08">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_8f4b8824c776dcb198da73e08ebf9c40">prezentirati</comp>
+            </collocation>
+            <collocation form="spoštljivo poljubiti" cluster="19" frequency="8" logDice="6.03">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_f29670f1ea6b17c1256ba45a3010558e">poljubiti</comp>
+            </collocation>
+            <collocation form="spoštljivo spremiti" cluster="20" frequency="4" logDice="6.03">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_175b576e2d5e1482b0cd73242aaf2c1f">spremiti</comp>
+            </collocation>
+            <collocation form="spoštljivo umolkniti" cluster="21" frequency="10" logDice="7.24">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_8721a14f035564d407b139f01a344865">umolkniti</comp>
+            </collocation>
+            <collocation form="spoštljivo obmolkniti" cluster="21" frequency="7" logDice="6.73">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_c57981b7bfe1550463c56343810f0069">obmolkniti</comp>
+            </collocation>
+            <collocation form="spoštljivo utihniti" cluster="21" frequency="6" logDice="5.94">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_2ccbc48b4c011935825aeff8ed9e284e">utihniti</comp>
+            </collocation>
+            <collocation form="spoštljivo skloniti" cluster="22" frequency="5" logDice="5.93">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_9bf473f530a4b1bd816449f9757f4f5f">skloniti</comp>
+            </collocation>
+            <collocation form="spoštljivo molčati" cluster="23" frequency="14" logDice="5.89">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_2f3e4dcf24f32d1ebc745aa22612dd7b">molčati</comp>
+            </collocation>
+            <collocation form="spoštljivo izgovarjati" cluster="24" frequency="7" logDice="5.89">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_fbf9abb024634315d8f05010855fce8e">izgovarjati</comp>
+            </collocation>
+            <collocation form="spoštljivo ogovoriti" cluster="25" frequency="4" logDice="5.78">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_bbbb8e8f51fb73436eadd716241fd6da">ogovoriti</comp>
+            </collocation>
+            <collocation form="spoštljivo klanjati" cluster="26" frequency="11" logDice="7.42">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_7e890ac6ef948e2b23514488572ca703">klanjati</comp>
+            </collocation>
+            <collocation form="spoštljivo sneti" cluster="27" frequency="7" logDice="5.77">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_5f6048b45d5fe72d9625a5d791866091">sneti</comp>
+            </collocation>
+            <collocation form="spoštljivo vstati" cluster="28" frequency="12" logDice="5.67">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_cd146234b6185134d5d116e2d2eea090">vstati</comp>
+            </collocation>
+            <collocation form="spoštljivo negovati" cluster="29" frequency="8" logDice="5.56">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_8fc845e3880647197f22a1546d53d809">negovati</comp>
+            </collocation>
+            <collocation form="spoštljivo ohranjati" cluster="30" frequency="13" logDice="5.51">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_c6e4f5c13bdd09debd93b4a9d1a03010">ohranjati</comp>
+            </collocation>
+            <collocation form="spoštljivo izražati" cluster="30" frequency="4" logDice="3.71">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_6006e2c2758562642b2bb2a674ab2127">izražati</comp>
+            </collocation>
+            <collocation form="spoštljivo prenašati" cluster="30" frequency="4" logDice="2.6">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_c6be8dcc20856eacd9871d774cb49db5">prenašati</comp>
+            </collocation>
+            <collocation form="spoštljivo vstopati" cluster="31" frequency="6" logDice="5.44">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_4886293e11f84826f3ac27a603f70a76">vstopati</comp>
+            </collocation>
+            <collocation form="spoštljivo stopati" cluster="31" frequency="4" logDice="4.78">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_0106a30e616586b541973a8bfe5f4191">stopati</comp>
+            </collocation>
+            <collocation form="spoštljivo pomikati" cluster="32" frequency="4" logDice="5.37">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_5588f5b7456004f3b44d1b0a565d0344">pomikati</comp>
+            </collocation>
+            <collocation form="spoštljivo pristopiti" cluster="33" frequency="7" logDice="5.24">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_e26f93f58eae25d5bc6c4f86319662e8">pristopiti</comp>
+            </collocation>
+            <collocation form="spoštljivo ozreti" cluster="34" frequency="6" logDice="5.16">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_8e7a59445484c6ac7551ed03527fe5f3">ozreti</comp>
+            </collocation>
+            <collocation form="spoštljivo ozirati" cluster="34" frequency="4" logDice="4.55">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_0c896aa957644662ffe44ecf13444684">ozirati</comp>
+            </collocation>
+            <collocation form="spoštljivo posloviti" cluster="35" frequency="10" logDice="5.01">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_19b7973660d1805ef7edfca7a225bf6c">posloviti</comp>
+            </collocation>
+            <collocation form="spoštljivo obravnavati" cluster="36" frequency="22" logDice="4.99">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_301ac767ac9927d19d3899c9ce4c99fa">obravnavati</comp>
+            </collocation>
+            <collocation form="spoštljivo sprejeti" cluster="36" frequency="20" logDice="3.51">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_8c2773c0d6ada89df427fbd2a83ca07b">sprejeti</comp>
+            </collocation>
+            <collocation form="spoštljivo upoštevati" cluster="36" frequency="12" logDice="3.64">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_41fdcf5158325905d1c3d24392bccc2f">upoštevati</comp>
+            </collocation>
+            <collocation form="spoštljivo sprejemati" cluster="36" frequency="10" logDice="4.47">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_0fa97469d22d1ca504cb433a78693003">sprejemati</comp>
+            </collocation>
+            <collocation form="spoštljivo ponuditi" cluster="36" frequency="9" logDice="3.32">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_9146e9963fc7ef8627eba1d0c8195d83">ponuditi</comp>
+            </collocation>
+            <collocation form="spoštljivo omenjati" cluster="36" frequency="5" logDice="3.54">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_3fcd44d77f927ff216f14ad9e7f4b3e0">omenjati</comp>
+            </collocation>
+            <collocation form="spoštljivo jemati" cluster="36" frequency="5" logDice="3.48">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_b4a38509b0ad3d657d38cfc2accc5d12">jemati</comp>
+            </collocation>
+            <collocation form="spoštljivo ponoviti" cluster="36" frequency="5" logDice="2.98">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_7569237013815350f6af0fbe868337d6">ponoviti</comp>
+            </collocation>
+            <collocation form="spoštljivo držati" cluster="36" frequency="5" logDice="1.98">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_77bb755240fa5b5fe8dbfbeac1413c05">držati</comp>
+            </collocation>
+            <collocation form="spoštljivo odpreti" cluster="36" frequency="5" logDice="1.8">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_e8a0b78c58df134dead0230dc2e801ab">odpreti</comp>
+            </collocation>
+            <collocation form="spoštljivo predstaviti" cluster="36" frequency="5" logDice="1.71">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_64ac80e6ae1f424ec2dd34859705e6c0">predstaviti</comp>
+            </collocation>
+            <collocation form="spoštljivo zavrniti" cluster="36" frequency="4" logDice="2.6">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_55fbd5c490062ca35b3e2ee1e803e334">zavrniti</comp>
+            </collocation>
+            <collocation form="spoštljivo klicati" cluster="37" frequency="11" logDice="4.84">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_c10d90e70b7c78ed4b4bfbb9c8af5b6a">klicati</comp>
+            </collocation>
+            <collocation form="spoštljivo prositi" cluster="37" frequency="10" logDice="3.8">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_8964780e933272192255d479aad46f53">prositi</comp>
+            </collocation>
+            <collocation form="spoštljivo vprašati" cluster="37" frequency="10" logDice="3.04">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_d557d14e78e3e60db666b06b85c17146">vprašati</comp>
+            </collocation>
+            <collocation form="spoštljivo občudovati" cluster="38" frequency="8" logDice="4.82">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_5f8984aff0d059ad56d6e5d993ac0ae0">občudovati</comp>
+            </collocation>
+            <collocation form="spoštljivo spominjati" cluster="39" frequency="24" logDice="4.55">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_6603ad1029276f94b229575ed982defa">spominjati</comp>
+            </collocation>
+            <collocation form="spoštljivo spomniti" cluster="39" frequency="19" logDice="4.79">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_098fbc731a3bc335414bd5e19f4b3f05">spomniti</comp>
+            </collocation>
+            <collocation form="spoštljivo opozoriti" cluster="39" frequency="4" logDice="2.18">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_9d89109b8231c20ace2c0b60a9753af4">opozoriti</comp>
+            </collocation>
+            <collocation form="spoštljivo položiti" cluster="40" frequency="6" logDice="4.65">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_eb00d085cf10de5a7dc989aeb007c3bb">položiti</comp>
+            </collocation>
+            <collocation form="spoštljivo stisniti" cluster="40" frequency="4" logDice="3.84">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_ed839edfa46061aec3b8c1eb80487e10">stisniti</comp>
+            </collocation>
+            <collocation form="spoštljivo obračati" cluster="41" frequency="6" logDice="4.61">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_d628d138b9c068c111c69e69788965ca">obračati</comp>
+            </collocation>
+            <collocation form="spoštljivo obdelovati" cluster="42" frequency="5" logDice="4.6">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_b109e14b1fde80c5ad4d4bce36a049ca">obdelovati</comp>
+            </collocation>
+            <collocation form="spoštljivo komunicirati" cluster="43" frequency="4" logDice="4.51">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_96b20248fa598497d5423d5778cd3b41">komunicirati</comp>
+            </collocation>
+            <collocation form="spoštljivo prisluhniti" cluster="44" frequency="8" logDice="4.42">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_5979e2c5bf2d109888eec36056ba43ed">prisluhniti</comp>
+            </collocation>
+            <collocation form="spoštljivo prepustiti" cluster="44" frequency="4" logDice="3.67">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_6244c5efcbe6cd175f9d6456878e9862">prepustiti</comp>
+            </collocation>
+            <collocation form="spoštljivo približati" cluster="44" frequency="4" logDice="2.53">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_69398d79806d51d01209a88fdc2d85b8">približati</comp>
+            </collocation>
+            <collocation form="spoštljivo priznavati" cluster="45" frequency="4" logDice="4.11">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_31d754c19738890a3ecfcebc5b3d1427">priznavati</comp>
+            </collocation>
+            <collocation form="spoštljivo pospremiti" cluster="46" frequency="14" logDice="6.85">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_6d70dead7f492d277cf96c8e74ec2185">pospremiti</comp>
+            </collocation>
+            <collocation form="spoštljivo poskrbeti" cluster="47" frequency="5" logDice="2.35">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_610c30927c7792ff5bc41d0843ec83a6">poskrbeti</comp>
+            </collocation>
+            <collocation form="spoštljivo skrbeti" cluster="47" frequency="5" logDice="1.92">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_ede1f4889f5d12d03cea1e42693522c8">skrbeti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ o sbz5">
+          <collocations>
+            <collocation form="spoštljivo o preteklosti" cluster="1" frequency="4" logDice="9.8">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="collocate" sloleks="LE_92b3b802fe9baeff25bdd6deafde10ca">preteklosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ pbz0">
+          <collocations>
+            <collocation form="spoštljivo tih" cluster="1" frequency="7" logDice="5.62">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_7b0456c6236a5369ff8c872f9abdfca3">tih</comp>
+            </collocation>
+            <collocation form="spoštljivo zadržan" cluster="1" frequency="4" logDice="4.09">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_897a8a6d5173d5de1d9a7e7cef1335a7">zadržan</comp>
+            </collocation>
+            <collocation form="spoštljivo opravljen" cluster="2" frequency="13" logDice="4.8">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_3988ad74cbb80eab6b672445486f813b">opravljen</comp>
+            </collocation>
+            <collocation form="spoštljivo sprejet" cluster="2" frequency="4" logDice="2.86">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_e716685889698d46a34a37b866fbc2f2">sprejet</comp>
+            </collocation>
+            <collocation form="spoštljivo velik" cluster="3" frequency="30" logDice="1.62">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_6ca59c38ee7f7e489a6c13cd1c322726">velik</comp>
+            </collocation>
+            <collocation form="spoštljivo star" cluster="3" frequency="20" logDice="3.78">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_a60139f10427cd234d823ade0ac648c8">star</comp>
+            </collocation>
+            <collocation form="spoštljivo visok" cluster="3" frequency="14" logDice="2.12">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_4233591f5096276ee0d2cc73b3e78e36">visok</comp>
+            </collocation>
+            <collocation form="spoštljivo majhen" cluster="3" frequency="6" logDice="0.95">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_046f6756496c07b99f5ce226a4c8204d">majhen</comp>
+            </collocation>
+            <collocation form="spoštljivo zapisan" cluster="4" frequency="4" logDice="3.59">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_cd2d085babe6bf9537f0c7008c94d8d9">zapisan</comp>
+            </collocation>
+            <collocation form="spoštljivo dolg" cluster="5" frequency="10" logDice="2.9">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_e4a9ab0324b002b5f34e7335184d3dd1">dolg</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="ravnati spoštljivo" cluster="1" frequency="107" logDice="7.27">
+              <comp position="1" type="collocate" sloleks="LE_6bb16a78250b205a0096c7c9292ce6b4">ravnati</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="obnašati spoštljivo" cluster="1" frequency="66" logDice="7.64">
+              <comp position="1" type="collocate" sloleks="LE_04a66a34061d8cad6b5c0503d460f586">obnašati</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="vesti spoštljivo" cluster="1" frequency="36" logDice="7.83">
+              <comp position="1" type="collocate" sloleks="LE_fb95c294a8db7b7998184c614852daf4|LE_b14258b6e111ec2ba01fa9812d6dd454">vesti</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="govoriti spoštljivo" cluster="2" frequency="70" logDice="6.02">
+              <comp position="1" type="collocate" sloleks="LE_1da4dedf23c5041ae767d038d2430123">govoriti</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="znati spoštljivo" cluster="2" frequency="8" logDice="2.89">
+              <comp position="1" type="collocate" sloleks="LE_6feb882845b743bbe44baa4fc144910c">znati</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="vedeti spoštljivo" cluster="2" frequency="7" logDice="1.47">
+              <comp position="1" type="collocate" sloleks="LE_96a1912ad3bc983daf281c87f30e5a02">vedeti</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="naučiti spoštljivo" cluster="2" frequency="6" logDice="4.44">
+              <comp position="1" type="collocate" sloleks="LE_8e84150580c27c9eb1c5c52415d1a5a0">naučiti</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="pisati spoštljivo" cluster="2" frequency="5" logDice="3.22">
+              <comp position="1" type="collocate" sloleks="LE_4173587cb50dc70d0c9a1be18c9c1b96">pisati</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="pogovarjati spoštljivo" cluster="2" frequency="4" logDice="4.54">
+              <comp position="1" type="collocate" sloleks="LE_4027e38ae800fbeb50666a09ec7b051c">pogovarjati</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="morati spoštljivo" cluster="3" frequency="20" logDice="1.73">
+              <comp position="1" type="collocate" sloleks="LE_5a69e334926729c2b878f5735b5ec456">morati</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="dati spoštljivo" cluster="3" frequency="11" logDice="2.54">
+              <comp position="1" type="collocate" sloleks="LE_251860b7395e9bef61ae04eb36d0639d">dati</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="gledati spoštljivo" cluster="3" frequency="9" logDice="3.39">
+              <comp position="1" type="collocate" sloleks="LE_20e7c0495c6f388c7c6440a4c081af85">gledati</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="delati spoštljivo" cluster="3" frequency="6" logDice="1.59">
+              <comp position="1" type="collocate" sloleks="LE_240594860749d18971944f6690505af1">delati</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="začeti spoštljivo" cluster="3" frequency="6" logDice="1.02">
+              <comp position="1" type="collocate" sloleks="LE_5526be99243d6a70e33b06d3eabd15ae">začeti</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="zbrati spoštljivo" cluster="3" frequency="5" logDice="2.11">
+              <comp position="1" type="collocate" sloleks="LE_40502938a8ff2dd818937bd71f99bb6d">zbrati</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="doseči spoštljivo" cluster="3" frequency="4" logDice="1.73">
+              <comp position="1" type="collocate" sloleks="LE_c774a9afe35a6598f95fb1776c665730">doseči</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="nositi spoštljivo" cluster="3" frequency="4" logDice="3.52">
+              <comp position="1" type="collocate" sloleks="LE_12501655c6bc54ad79c0f5528ae02039">nositi</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="obravnavati spoštljivo" cluster="4" frequency="28" logDice="6.08">
+              <comp position="1" type="collocate" sloleks="LE_301ac767ac9927d19d3899c9ce4c99fa">obravnavati</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="zdeti spoštljivo" cluster="4" frequency="5" logDice="1.21">
+              <comp position="1" type="collocate" sloleks="LE_7f35b54253bbb222407f43c155f77cdb">zdeti</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="pozdravljati spoštljivo" cluster="5" frequency="5" logDice="6.74">
+              <comp position="1" type="collocate" sloleks="LE_2f73447aabd47a82d97c92f4defd1e70">pozdravljati</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz RBZ">
+          <collocations>
+            <collocation form="nadvse spoštljivo" cluster="1" frequency="51" logDice="6.98">
+              <comp position="1" type="collocate" sloleks="LE_d7fddc6b0e891b7aa2b609d0777af92a">nadvse</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="enako spoštljivo" cluster="1" frequency="19" logDice="5.57">
+              <comp position="1" type="collocate" sloleks="LE_2ddbda0b3215ff4aa82ee26195f65a80">enako</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="izjemno spoštljivo" cluster="1" frequency="9" logDice="3.98">
+              <comp position="1" type="collocate" sloleks="LE_4685177735c785314580ae2542479197">izjemno</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="skrajno spoštljivo" cluster="1" frequency="9" logDice="5.19">
+              <comp position="1" type="collocate" sloleks="LE_50bd085be9fea6c2fd7222a14ab31702">skrajno</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="dokaj spoštljivo" cluster="1" frequency="7" logDice="3.07">
+              <comp position="1" type="collocate" sloleks="LE_90c3e789d159a5b43e1f600807dba440">dokaj</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="podobno spoštljivo" cluster="1" frequency="5" logDice="5.23">
+              <comp position="1" type="collocate" sloleks="LE_f28b71c99df1dd5a98452ee8d66968b5">podobno</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="izredno spoštljivo" cluster="1" frequency="4" logDice="2.74">
+              <comp position="1" type="collocate" sloleks="LE_b0c342862689aaa5fb70350f5e76768e">izredno</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="zelo spoštljivo" cluster="2" frequency="159" logDice="3.65">
+              <comp position="1" type="collocate" sloleks="LE_195d60c164b7057008d21b29153e2352">zelo</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="bolj spoštljivo" cluster="2" frequency="123" logDice="4.56">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="preveč spoštljivo" cluster="2" frequency="45" logDice="5.73">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="dovolj spoštljivo" cluster="2" frequency="19" logDice="4.02">
+              <comp position="1" type="collocate" sloleks="LE_0b387936af75c9d0092b835e9479f95c">dovolj</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="kako spoštljivo" cluster="2" frequency="14" logDice="1.65">
+              <comp position="1" type="collocate" sloleks="LE_c6fd8628f731e3e158dc366537c82f5f">kako</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="manj spoštljivo" cluster="2" frequency="9" logDice="3.34">
+              <comp position="1" type="collocate" sloleks="LE_ecab8216e0225b7e80d79b53bd9b8959">manj</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="premalo spoštljivo" cluster="2" frequency="8" logDice="5.93">
+              <comp position="1" type="collocate" sloleks="LE_97029bd650818206706ec558c787f45e">premalo</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="povsem spoštljivo" cluster="2" frequency="8" logDice="1.83">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="raje spoštljivo" cluster="2" frequency="5" logDice="3.9">
+              <comp position="1" type="collocate" sloleks="LE_ffbac6bb621f782b67fe85e3adf7bf8e">raje</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="najbolj spoštljivo" cluster="2" frequency="5" logDice="1.53">
+              <comp position="1" type="collocate" sloleks="LE_72b2a3522865b723e8c26b8ade696fca">najbolj</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="precej spoštljivo" cluster="2" frequency="5" logDice="0.57">
+              <comp position="1" type="collocate" sloleks="LE_e0671a56c827200d0ebc033694e6214b">precej</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="kaj spoštljivo" cluster="2" frequency="5" logDice="0.37">
+              <comp position="1" type="collocate" sloleks="LE_f9fa365147cf5bfdb5034944905ad608">kaj</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="nekako spoštljivo" cluster="2" frequency="4" logDice="3.01">
+              <comp position="1" type="collocate" sloleks="LE_a96326ed8c158842276cc429a0b285f7">nekako</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="nič spoštljivo" cluster="2" frequency="4" logDice="0.87">
+              <comp position="1" type="collocate" sloleks="LE_8e90bcbc87a903b29aed9727fd2eee14">nič</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="nekoliko spoštljivo" cluster="2" frequency="4" logDice="0.55">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="primerno spoštljivo" cluster="2" frequency="4" logDice="5.41">
+              <comp position="1" type="collocate" sloleks="LE_38c51de989c4a28c1019a479487117ed">primerno</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="tako spoštljivo" cluster="3" frequency="38" logDice="1.28">
+              <comp position="1" type="collocate" sloleks="LE_a43856b7d4097e8e3ab29718abb1acb7">tako</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="vedno spoštljivo" cluster="3" frequency="29" logDice="1.97">
+              <comp position="1" type="collocate" sloleks="LE_eaabd5718a27f818fd47358031426355">vedno</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="treba spoštljivo" cluster="3" frequency="17" logDice="2.81">
+              <comp position="1" type="collocate" sloleks="LE_1922eb6feec1312f831201e773a0ac0d">treba</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="kar spoštljivo" cluster="3" frequency="17" logDice="0.44">
+              <comp position="1" type="collocate" sloleks="LE_c135f6fe8de5dfaaa58b36300e2bf493">kar</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="danes spoštljivo" cluster="3" frequency="11" logDice="2.33">
+              <comp position="1" type="collocate" sloleks="LE_1ce30c2bc2ec7609ed31b8f4fa97c156">danes</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="posebej spoštljivo" cluster="3" frequency="9" logDice="3.65">
+              <comp position="1" type="collocate" sloleks="LE_6f32d8a4def4cfd8e9535085f1de4531">posebej</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="posebno spoštljivo" cluster="3" frequency="8" logDice="3.96">
+              <comp position="1" type="collocate" sloleks="LE_eb69744c896971ec70ebb015df8b0c06">posebno</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="torej spoštljivo" cluster="3" frequency="8" logDice="2.33">
+              <comp position="1" type="collocate" sloleks="LE_77b94d141697df1606f829a597a115e8">torej</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="najprej spoštljivo" cluster="3" frequency="7" logDice="3.67">
+              <comp position="1" type="collocate" sloleks="LE_4e4e52d939b2c76f59cb0093c64e5c98">najprej</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="potrebno spoštljivo" cluster="3" frequency="6" logDice="3.21">
+              <comp position="1" type="collocate" sloleks="LE_ccdd4bb46fb5353a68f3c9555a024b92">potrebno</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="nato spoštljivo" cluster="3" frequency="6" logDice="2.85">
+              <comp position="1" type="collocate" sloleks="LE_48b590fef344f946aab71b9b67d40282">nato</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="zato spoštljivo" cluster="3" frequency="6" logDice="2.03">
+              <comp position="1" type="collocate" sloleks="LE_a8c8d0c329f7b5193130e7eb405193e2">zato</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="hkrati spoštljivo" cluster="3" frequency="4" logDice="3.21">
+              <comp position="1" type="collocate" sloleks="LE_299457349a4451694b53e687e2892a78">hkrati</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="karseda spoštljivo" cluster="4" frequency="4" logDice="5.58">
+              <comp position="1" type="collocate" sloleks="LE_419e13d9b63e4087da9528d2198f17a6">karseda</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+            <collocation form="vredno spoštljivo" cluster="5" frequency="4" logDice="4.69">
+              <comp position="1" type="collocate" sloleks="LE_7c0f25430291e04482440089f3251917">vredno</comp>
+              <comp position="2" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ in/ali rbz">
+          <collocations>
+            <collocation form="spoštljivo in/ali dostojno" cluster="1" frequency="20" logDice="9.72">
+              <comp position="3" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_18a811b223d73ff2cb2ad7c27e57be23">dostojno</comp>
+              </collocation>
+            <collocation form="spoštljivo in/ali dostojanstveno" cluster="1" frequency="11" logDice="8.62">
+              <comp position="3" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_8169594997986aa1f02bd51293b31965">dostojanstveno</comp>
+              </collocation>
+            <collocation form="spoštljivo in/ali vljudno" cluster="2" frequency="14" logDice="9.31">
+              <comp position="3" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_629a08f6725bba75a0ea1480ff7fbbb5">vljudno</comp>
+              </collocation>
+            <collocation form="spoštljivo in ponižno" cluster="3" frequency="10" logDice="8.96">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_77ed24f693e1afa2d5cae1a1b4666cd5">ponižno</comp>
+            </collocation>
+            <collocation form="spoštljivo in molče" cluster="3" frequency="5" logDice="7.91">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_dfa09f3bdbca9f6029e1c09646ea544d">molče</comp>
+            </collocation>
+            <collocation form="spoštljivo in prijazno" cluster="4" frequency="14" logDice="7.83">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_a14b32030022975e7db1523b18c6a111">prijazno</comp>
+            </collocation>
+            <collocation form="spoštljivo in lepo" cluster="4" frequency="13" logDice="5.97">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_d01061f4e29d96c6aa9cb7941b715be1">lepo</comp>
+            </collocation>
+            <collocation form="spoštljivo in resno" cluster="4" frequency="9" logDice="6.66">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_5e5a4ee7d6998535d85dfb6c3874cd3f">resno</comp>
+            </collocation>
+            <collocation form="spoštljivo in tiho" cluster="4" frequency="8" logDice="6.59">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_6caaa1caafbcefef7dcc792f954c5913">tiho</comp>
+            </collocation>
+            <collocation form="spoštljivo in pošteno" cluster="4" frequency="8" logDice="6.4">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_8c19143f579e4e381f2632e636a1db22">pošteno</comp>
+            </collocation>
+            <collocation form="spoštljivo in mirno" cluster="4" frequency="7" logDice="5.82">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_32214c5ed7e5a63a080e27f3789f9984">mirno</comp>
+            </collocation>
+            <collocation form="spoštljivo in nežno" cluster="4" frequency="5" logDice="6.49">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_eb58ebac297a575fbf7cbe2ccfecb8b8">nežno</comp>
+            </collocation>
+            <collocation form="spoštljivo in/ali zadržano" cluster="5" frequency="5" logDice="7.7">
+              <comp position="3" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="">zadržano</comp>
+              </collocation>
+            <collocation form="spoštljivo in/ali strpno" cluster="6" frequency="6" logDice="7.67">
+              <comp position="3" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_b8ddc4e209b401b93b2848807caa0ba0">strpno</comp>
+              </collocation>
+            <collocation form="spoštljivo in/ali umirjeno" cluster="6" frequency="5" logDice="7.15">
+              <comp position="3" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_73bb2d49a748d68dddf5a82e6853dadb">umirjeno</comp>
+              </collocation>
+            <collocation form="spoštljivo in/ali korektno" cluster="7" frequency="33" logDice="8.89">
+              <comp position="3" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_88548841c286499a586d90ea558f3f8e">korektno</comp>
+              </collocation>
+            <collocation form="spoštljivo in/ali odgovorno" cluster="7" frequency="11" logDice="7.08">
+              <comp position="3" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_06a094cdc6127e2fef0024ffd1756733">odgovorno</comp>
+              </collocation>
+            <collocation form="spoštljivo in kulturno" cluster="8" frequency="6" logDice="6.9">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_a99e90bb613def24c85e03595ea3142e">kulturno</comp>
+            </collocation>
+            <collocation form="spoštljivo in/ali previdno" cluster="9" frequency="17" logDice="7.99">
+              <comp position="3" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_10458565afb0ca3ac4c6f25eaa4b941b">previdno</comp>
+              </collocation>
+            <collocation form="spoštljivo in/ali pozorno" cluster="9" frequency="13" logDice="8.85">
+              <comp position="3" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_553f7b1cbb2c7dfb4a6bdca16e0d4ed1">pozorno</comp>
+              </collocation>
+            <collocation form="spoštljivo in/ali skrbno" cluster="9" frequency="6" logDice="6.62">
+              <comp position="3" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_c0b34e86b2dfa27e4a7577a1da56226b">skrbno</comp>
+              </collocation>
+            <collocation form="spoštljivo in/ali premišljeno" cluster="9" frequency="5" logDice="6.52">
+              <comp position="3" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="">premišljeno</comp>
+              </collocation>
+            <collocation form="spoštljivo in/ali počasi" cluster="10" frequency="10" logDice="5.75">
+              <comp position="3" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              </collocation>
+            <collocation form="spoštljivo in tako" cluster="11" frequency="6" logDice="0.77">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_a43856b7d4097e8e3ab29718abb1acb7">tako</comp>
+            </collocation>
+            <collocation form="spoštljivo in obzirno" cluster="12" frequency="9" logDice="8.93">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_ba74e60659c7f54d65f38912e81447e0">obzirno</comp>
+            </collocation>
+            <collocation form="spoštljivo in ljubeče" cluster="13" frequency="9" logDice="8.63">
+              <comp position="1" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_9adcf06ee2034a1d16f65b6015895c32">ljubeče</comp>
+            </collocation>
+            <collocation form="spoštljivo in/ali radovedno" cluster="14" frequency="6" logDice="8.37">
+              <comp position="3" type="headword" sloleks="LE_fd81bf9aa22e33216a71e9d4ffa02e20">spoštljivo</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_2d41c64b6d226a4c59bb49957748924d">radovedno</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

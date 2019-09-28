@@ -1,0 +1,75 @@
+<entry>
+  <header>
+    <lexical_unit id="1502">izčistiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">513</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="izčistiti semenje" cluster="1" frequency="5" logDice="7.48">
+              <comp position="1" type="headword" sloleks="LE_b6eed961c640444a6ab7716f9ac9650e">izčistiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_6c1a3c2d3745d7d6ef10202483193d8c">semenje</comp>
+            </collocation>
+            <collocation form="izčistiti zvok" cluster="2" frequency="4" logDice="4.04">
+              <comp position="1" type="headword" sloleks="LE_b6eed961c640444a6ab7716f9ac9650e">izčistiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_b643047c80a491865b6c8c963a88554d">zvok</comp>
+            </collocation>
+            <collocation form="izčistiti besedilo" cluster="3" frequency="7" logDice="3.67">
+              <comp position="1" type="headword" sloleks="LE_b6eed961c640444a6ab7716f9ac9650e">izčistiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_c2cf3f2b59c7730608bd4c4e20b22ee6">besedilo</comp>
+            </collocation>
+            <collocation form="izčistiti stališče" cluster="4" frequency="4" logDice="2.34">
+              <comp position="1" type="headword" sloleks="LE_b6eed961c640444a6ab7716f9ac9650e">izčistiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_f258ebe19a870ef3c0529a47abb1480f">stališče</comp>
+            </collocation>
+            <collocation form="izčistiti vprašanje" cluster="5" frequency="6" logDice="1.87">
+              <comp position="1" type="headword" sloleks="LE_b6eed961c640444a6ab7716f9ac9650e">izčistiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_18ddad642f4f2459ae6eda5f8fcda990">vprašanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="izčistiti v smer" cluster="1" frequency="4" logDice="2.67">
+              <comp position="1" type="headword" sloleks="LE_b6eed961c640444a6ab7716f9ac9650e">izčistiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_85882917927d0a985cbee54691f45223">smer</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="izčistiti v letu" cluster="1" frequency="4" logDice="-1.53">
+              <comp position="1" type="headword" sloleks="LE_b6eed961c640444a6ab7716f9ac9650e">izčistiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">letu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="notranje izčistiti" cluster="1" frequency="4" logDice="6.74">
+              <comp position="1" type="collocate" sloleks="LE_ae7ee270cea14749551e7fd1cb82eafd">notranje</comp>
+              <comp position="2" type="headword" sloleks="LE_b6eed961c640444a6ab7716f9ac9650e">izčistiti</comp>
+            </collocation>
+            <collocation form="nekako izčistiti" cluster="2" frequency="5" logDice="1.65">
+              <comp position="1" type="collocate" sloleks="LE_a96326ed8c158842276cc429a0b285f7">nekako</comp>
+              <comp position="2" type="headword" sloleks="LE_b6eed961c640444a6ab7716f9ac9650e">izčistiti</comp>
+            </collocation>
+            <collocation form="dodatno izčistiti" cluster="3" frequency="4" logDice="1.44">
+              <comp position="1" type="collocate" sloleks="LE_d87043505ab09df3263269f8fff045d4">dodatno</comp>
+              <comp position="2" type="headword" sloleks="LE_b6eed961c640444a6ab7716f9ac9650e">izčistiti</comp>
+            </collocation>
+            <collocation form="počasi izčistiti" cluster="4" frequency="4" logDice="0.6">
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              <comp position="2" type="headword" sloleks="LE_b6eed961c640444a6ab7716f9ac9650e">izčistiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

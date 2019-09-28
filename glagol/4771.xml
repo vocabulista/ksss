@@ -1,0 +1,113 @@
+<entry>
+  <header>
+    <lexical_unit id="4771">plužiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">929</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="plužiti sneg" cluster="1" frequency="16" logDice="7.13">
+              <comp position="1" type="headword" sloleks="LE_377698885696ca4366f4e8d17437ad6d">plužiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_f69381a2fcfcf0a3bd618981427fd78f">sneg</comp>
+            </collocation>
+            <collocation form="plužiti cesto" cluster="2" frequency="66" logDice="7.08">
+              <comp position="1" type="headword" sloleks="LE_377698885696ca4366f4e8d17437ad6d">plužiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_0e822f9721ddeb3fd7d90e02f70c9a2f">cesto</comp>
+            </collocation>
+            <collocation form="plužiti pot" cluster="2" frequency="6" logDice="1.19">
+              <comp position="1" type="headword" sloleks="LE_377698885696ca4366f4e8d17437ad6d">plužiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_6f8aa8d4e7c0d678fee98b890a6d1964|LE_97291a922b54c3ec42af6728cfcc7ab2">pot</comp>
+            </collocation>
+            <collocation form="plužiti pločnik" cluster="3" frequency="6" logDice="6.52">
+              <comp position="1" type="headword" sloleks="LE_377698885696ca4366f4e8d17437ad6d">plužiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_44356d5ee62aa85199d4598fd6534d0b">pločnik</comp>
+            </collocation>
+            <collocation form="plužiti noč" cluster="4" frequency="6" logDice="3.64">
+              <comp position="1" type="headword" sloleks="LE_377698885696ca4366f4e8d17437ad6d">plužiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_b49d362a114e179acbd84b80fefd7959">noč</comp>
+            </collocation>
+            <collocation form="plužiti zimo" cluster="4" frequency="5" logDice="5.07">
+              <comp position="1" type="headword" sloleks="LE_377698885696ca4366f4e8d17437ad6d">plužiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_94737396486628c5d38a8bde9ba764cd">zimo</comp>
+            </collocation>
+            <collocation form="plužiti ulico" cluster="5" frequency="4" logDice="5.04">
+              <comp position="1" type="headword" sloleks="LE_377698885696ca4366f4e8d17437ad6d">plužiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_554c79ab5e7baf29f70e8135a860c0e8">ulico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="plužiti s plugom" cluster="1" frequency="5" logDice="9.02">
+              <comp position="1" type="headword" sloleks="LE_377698885696ca4366f4e8d17437ad6d">plužiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_0c578abbb162445d1a4b4466afbabaeb">plugom</comp>
+            </collocation>
+            <collocation form="plužiti s traktorjem" cluster="2" frequency="6" logDice="6.63">
+              <comp position="1" type="headword" sloleks="LE_377698885696ca4366f4e8d17437ad6d">plužiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_69443f73afa4a0abfca6ac81e6fdede8">traktorjem</comp>
+            </collocation>
+            <collocation form="plužiti s konjem" cluster="3" frequency="4" logDice="5.78">
+              <comp position="1" type="headword" sloleks="LE_377698885696ca4366f4e8d17437ad6d">plužiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_a528e2f2e480d48407f95d45a8edfe7c">konjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz INF-GBZ">
+          <collocations>
+            <collocation form="pričeti plužiti" cluster="1" frequency="7" logDice="2.87">
+              <comp position="1" type="collocate" sloleks="LE_ded1741f1de355cb4a0e75c9109c069d">pričeti</comp>
+              <comp position="2" type="headword" sloleks="LE_377698885696ca4366f4e8d17437ad6d">plužiti</comp>
+            </collocation>
+            <collocation form="začeti plužiti" cluster="2" frequency="56" logDice="1.95">
+              <comp position="1" type="collocate" sloleks="LE_5526be99243d6a70e33b06d3eabd15ae">začeti</comp>
+              <comp position="2" type="headword" sloleks="LE_377698885696ca4366f4e8d17437ad6d">plužiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz SBZ2">
+          <collocations>
+            <collocation form="ne plužiti ceste" cluster="1" frequency="10" logDice="8.65">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_377698885696ca4366f4e8d17437ad6d">plužiti</comp>
+              <comp position="3" type="collocate" sloleks="LE_0e822f9721ddeb3fd7d90e02f70c9a2f">ceste</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="pozimi plužiti" cluster="1" frequency="35" logDice="6.68">
+              <comp position="1" type="collocate" sloleks="LE_d45ca4557c828f59fee1245f77bec195">pozimi</comp>
+              <comp position="2" type="headword" sloleks="LE_377698885696ca4366f4e8d17437ad6d">plužiti</comp>
+            </collocation>
+            <collocation form="pridno plužiti" cluster="2" frequency="6" logDice="3.42">
+              <comp position="1" type="collocate" sloleks="LE_e60ffa94c3ea9a856f174e1bf6d8c809">pridno</comp>
+              <comp position="2" type="headword" sloleks="LE_377698885696ca4366f4e8d17437ad6d">plužiti</comp>
+            </collocation>
+            <collocation form="redno plužiti" cluster="3" frequency="13" logDice="2.91">
+              <comp position="1" type="collocate" sloleks="LE_35bbe424d330fd280eb80edb9f0c6e56">redno</comp>
+              <comp position="2" type="headword" sloleks="LE_377698885696ca4366f4e8d17437ad6d">plužiti</comp>
+            </collocation>
+            <collocation form="sproti plužiti" cluster="3" frequency="5" logDice="3.28">
+              <comp position="1" type="collocate" sloleks="LE_ce593b33a1546924b2c4514ccc2a3bab">sproti</comp>
+              <comp position="2" type="headword" sloleks="LE_377698885696ca4366f4e8d17437ad6d">plužiti</comp>
+            </collocation>
+            <collocation form="pravočasno plužiti" cluster="4" frequency="5" logDice="2.66">
+              <comp position="1" type="collocate" sloleks="LE_a330b348015d7eac326762f0f9c2e1e9">pravočasno</comp>
+              <comp position="2" type="headword" sloleks="LE_377698885696ca4366f4e8d17437ad6d">plužiti</comp>
+            </collocation>
+            <collocation form="preveč plužiti" cluster="5" frequency="4" logDice="1.01">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_377698885696ca4366f4e8d17437ad6d">plužiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

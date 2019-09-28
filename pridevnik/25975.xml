@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="25975">nesnoven</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">478</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nesnovna dediščina" cluster="1" frequency="261" logDice="6.73">
+              <comp position="1" type="headword" sloleks="LE_561431f9be3dd8817f75951ea1cf7713">nesnovna</comp>
+              <comp position="2" type="collocate" sloleks="LE_b2e5547918cfecfb0dafd87858879913">dediščina</comp>
+            </collocation>
+            <collocation form="nesnovno bitje" cluster="2" frequency="11" logDice="3.08">
+              <comp position="1" type="headword" sloleks="LE_561431f9be3dd8817f75951ea1cf7713">nesnovno</comp>
+              <comp position="2" type="collocate" sloleks="LE_81dd5fa7e9e184546d4b7cf1a4eee874">bitje</comp>
+            </collocation>
+            <collocation form="nesnovno telo" cluster="3" frequency="8" logDice="1.29">
+              <comp position="1" type="headword" sloleks="LE_561431f9be3dd8817f75951ea1cf7713">nesnovno</comp>
+              <comp position="2" type="collocate" sloleks="LE_79b86615dd52e06799792917a906328a">telo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="nesnoven in/ali snoven" cluster="1" frequency="28" logDice="11.64">
+              <comp position="3" type="headword" sloleks="LE_561431f9be3dd8817f75951ea1cf7713">nesnoven</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_a6073d04d6464e690b02657d2131bdc7">snoven</comp>
+              </collocation>
+            <collocation form="nesnoven in/ali nematerialen" cluster="2" frequency="6" logDice="8.65">
+              <comp position="3" type="headword" sloleks="LE_561431f9be3dd8817f75951ea1cf7713">nesnoven</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_2ee35f40868a3bd9fb4adf02c528bc38">nematerialen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

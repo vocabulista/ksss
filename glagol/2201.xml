@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="2201">kotiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">639</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ med sbz6">
+          <collocations>
+            <collocation form="kotiti med vezjo" cluster="1" frequency="9" logDice="12.77">
+              <comp position="1" type="headword" sloleks="LE_61828b4001e97fc5f7f8ba2735b8d5a9">kotiti</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_c16c97be58f47ce556654a419005ecca">vezjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="kotiti na leto" cluster="1" frequency="8" logDice="3.26">
+              <comp position="1" type="headword" sloleks="LE_61828b4001e97fc5f7f8ba2735b8d5a9">kotiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leto</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="kotiti dvakrat" cluster="1" frequency="7" logDice="2.5">
+              <comp position="1" type="headword" sloleks="LE_61828b4001e97fc5f7f8ba2735b8d5a9">kotiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_602c564da660b0177b4c9ca91f86275e">dvakrat</comp>
+            </collocation>
+            <collocation form="kotiti enkrat" cluster="2" frequency="11" logDice="2.19">
+              <comp position="1" type="headword" sloleks="LE_61828b4001e97fc5f7f8ba2735b8d5a9">kotiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_a9aa19f4d3fe9f31d405ae8828e4b2fd">enkrat</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="kotiti mladiča" cluster="1" frequency="66" logDice="10.24">
+              <comp position="1" type="headword" sloleks="LE_61828b4001e97fc5f7f8ba2735b8d5a9">kotiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_5b43a8c89555087f48f3345f66314b38">mladiča</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="prvič kotiti" cluster="1" frequency="5" logDice="0.36">
+              <comp position="1" type="collocate" sloleks="LE_158f9759a5a0a0e9ff58fb78bcd899f2">prvič</comp>
+              <comp position="2" type="headword" sloleks="LE_61828b4001e97fc5f7f8ba2735b8d5a9">kotiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="33747">širokosrčen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">495</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="širokosrčen in radodaren" cluster="1" frequency="6" logDice="8.76">
+              <comp position="1" type="headword" sloleks="LE_9a6e8eda78f6be99fe285ff6f6972883">širokosrčen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_75d6444e7fc80f4205650c14047195c6">radodaren</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="širokosrčen človek" cluster="1" frequency="21" logDice="1.11">
+              <comp position="1" type="headword" sloleks="LE_9a6e8eda78f6be99fe285ff6f6972883">širokosrčen</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človek</comp>
+            </collocation>
+            <collocation form="širokosrčna ponudba" cluster="2" frequency="7" logDice="0.78">
+              <comp position="1" type="headword" sloleks="LE_9a6e8eda78f6be99fe285ff6f6972883">širokosrčna</comp>
+              <comp position="2" type="collocate" sloleks="LE_d9e3765be172d6f3372cede08396a2f8">ponudba</comp>
+            </collocation>
+            <collocation form="širokosrčna pomoč" cluster="3" frequency="9" logDice="0.76">
+              <comp position="1" type="headword" sloleks="LE_9a6e8eda78f6be99fe285ff6f6972883">širokosrčna</comp>
+              <comp position="2" type="collocate" sloleks="LE_84e3f9e3c4e9e1abf42cc69c125b0b58">pomoč</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="preveč širokosrčen" cluster="1" frequency="25" logDice="2.93">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_9a6e8eda78f6be99fe285ff6f6972883">širokosrčen</comp>
+            </collocation>
+            <collocation form="dokaj širokosrčen" cluster="2" frequency="6" logDice="1.53">
+              <comp position="1" type="collocate" sloleks="LE_90c3e789d159a5b43e1f600807dba440">dokaj</comp>
+              <comp position="2" type="headword" sloleks="LE_9a6e8eda78f6be99fe285ff6f6972883">širokosrčen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

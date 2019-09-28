@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="54885">dvorjan</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1352</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="arabski dvorjan" cluster="1" frequency="8" logDice="3.21">
+              <comp position="1" type="collocate" sloleks="LE_f5c57c112e27fb15735161a0bfbb3b53">arabski</comp>
+              <comp position="2" type="headword" sloleks="LE_d9732e213c2adbba2d4624b68edeeea5">dvorjan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="grobnica dvorjana" cluster="1" frequency="7" logDice="6.93">
+              <comp position="1" type="collocate" sloleks="LE_79640034c11c64c08b1063b9a9e8db5e">grobnica</comp>
+              <comp position="2" type="headword" sloleks="LE_d9732e213c2adbba2d4624b68edeeea5">dvorjana</comp>
+            </collocation>
+            <collocation form="žena dvorjana" cluster="2" frequency="5" logDice="3.44">
+              <comp position="1" type="collocate" sloleks="LE_412b2e672422f341e6f8b4b4f03f0f24">žena</comp>
+              <comp position="2" type="headword" sloleks="LE_d9732e213c2adbba2d4624b68edeeea5">dvorjana</comp>
+            </collocation>
+            <collocation form="množica dvorjana" cluster="3" frequency="7" logDice="2.52">
+              <comp position="1" type="collocate" sloleks="LE_7d16fbe97018e676409272758b6a725b">množica</comp>
+              <comp position="2" type="headword" sloleks="LE_d9732e213c2adbba2d4624b68edeeea5">dvorjana</comp>
+            </collocation>
+            <collocation form="dvorjan CARJA" cluster="4" frequency="31" logDice="9.91">
+              <comp position="1" type="headword" sloleks="LE_d9732e213c2adbba2d4624b68edeeea5">dvorjan</comp>
+              <comp position="2" type="collocate" sloleks="LE_882680f8a8306c4acd1310b121ba2dbb">CARJA</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

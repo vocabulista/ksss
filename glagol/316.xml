@@ -1,0 +1,79 @@
+<entry>
+  <header>
+    <lexical_unit id="316">akreditirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">466</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ pri sbz5">
+          <collocations>
+            <collocation form="akreditirati pri arhivu" cluster="1" frequency="4" logDice="11.19">
+              <comp position="1" type="headword" sloleks="LE_80d11f9977e68153ace591bf61137251">akreditirati</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_88cf2e3cdb5399c04a1f1c31ff2299d8">arhivu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="akreditirati agencijo" cluster="1" frequency="15" logDice="6.65">
+              <comp position="1" type="headword" sloleks="LE_80d11f9977e68153ace591bf61137251">akreditirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_c77074df05d2719216d477bd01d418ad">agencijo</comp>
+            </collocation>
+            <collocation form="akreditirati program" cluster="2" frequency="35" logDice="3.87">
+              <comp position="1" type="headword" sloleks="LE_80d11f9977e68153ace591bf61137251">akreditirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_2da10dc9e8a0e2ff7fd5a1ddd0278e88">program</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="akreditirati v Bruslju" cluster="1" frequency="5" logDice="3.6">
+              <comp position="1" type="headword" sloleks="LE_80d11f9977e68153ace591bf61137251">akreditirati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_7746ad28d0981a975e2da3b589e4aecd">Bruslju</comp>
+            </collocation>
+            <collocation form="akreditirati v Ljubljani" cluster="2" frequency="4" logDice="0.43">
+              <comp position="1" type="headword" sloleks="LE_80d11f9977e68153ace591bf61137251">akreditirati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee11c4f6f901052d38c8252202477c9e">Ljubljani</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="akreditirati za šolstvo" cluster="1" frequency="7" logDice="5.86">
+              <comp position="1" type="headword" sloleks="LE_80d11f9977e68153ace591bf61137251">akreditirati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_2556b6cae85d55ec68ba0b282dd9ade5">šolstvo</comp>
+            </collocation>
+            <collocation form="akreditirati za dogodek" cluster="2" frequency="7" logDice="5.75">
+              <comp position="1" type="headword" sloleks="LE_80d11f9977e68153ace591bf61137251">akreditirati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_4ebf7faa63d583a7c8baa57987b0f3bf">dogodek</comp>
+            </collocation>
+            <collocation form="akreditirati za tekmo" cluster="3" frequency="5" logDice="4.72">
+              <comp position="1" type="headword" sloleks="LE_80d11f9977e68153ace591bf61137251">akreditirati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_569dcc42a5a400bab2106b20777ed55f">tekmo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="pravočasno akreditirati" cluster="1" frequency="4" logDice="2.35">
+              <comp position="1" type="collocate" sloleks="LE_a330b348015d7eac326762f0f9c2e1e9">pravočasno</comp>
+              <comp position="2" type="headword" sloleks="LE_80d11f9977e68153ace591bf61137251">akreditirati</comp>
+            </collocation>
+            <collocation form="uspešno akreditirati" cluster="2" frequency="4" logDice="0.39">
+              <comp position="1" type="collocate" sloleks="LE_1261ffe39150e62ae7fb3419f7a831f4">uspešno</comp>
+              <comp position="2" type="headword" sloleks="LE_80d11f9977e68153ace591bf61137251">akreditirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

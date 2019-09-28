@@ -1,0 +1,83 @@
+<entry>
+  <header>
+    <lexical_unit id="14783">brezizrazen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">610</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="brezizrazen obraz" cluster="1" frequency="98" logDice="5.82">
+              <comp position="1" type="headword" sloleks="LE_6a35a886135ae471c0c53d944a1c918f">brezizrazen</comp>
+              <comp position="2" type="collocate" sloleks="LE_ace2f15ed5cc3848b7740939ded1abe9">obraz</comp>
+            </collocation>
+            <collocation form="brezizrazna maska" cluster="2" frequency="18" logDice="4.8">
+              <comp position="1" type="headword" sloleks="LE_6a35a886135ae471c0c53d944a1c918f">brezizrazna</comp>
+              <comp position="2" type="collocate" sloleks="LE_4efd1467b0d81600dd68d12718271b60">maska</comp>
+            </collocation>
+            <collocation form="brezizrazne oči" cluster="3" frequency="31" logDice="4.23">
+              <comp position="1" type="headword" sloleks="LE_6a35a886135ae471c0c53d944a1c918f">brezizrazne</comp>
+              <comp position="2" type="collocate" sloleks="LE_6e683e53145b35a6cbb44ad1188b7a9f|LE_f7836a137770b18301878166ca9f053f">oči</comp>
+            </collocation>
+            <collocation form="brezizrazen pogled" cluster="4" frequency="33" logDice="3.66">
+              <comp position="1" type="headword" sloleks="LE_6a35a886135ae471c0c53d944a1c918f">brezizrazen</comp>
+              <comp position="2" type="collocate" sloleks="LE_456820bc1f399479d902f190585f0938">pogled</comp>
+            </collocation>
+            <collocation form="brezizrazen glas" cluster="4" frequency="14" logDice="2.3">
+              <comp position="1" type="headword" sloleks="LE_6a35a886135ae471c0c53d944a1c918f">brezizrazen</comp>
+              <comp position="2" type="collocate" sloleks="LE_bdaf56c7a9eddd2562b11c97c0770037">glas</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz PBZ1">
+          <collocations>
+            <collocation form="ostati brezizrazen" cluster="1" frequency="13" logDice="3.29">
+              <comp position="1" type="collocate" sloleks="LE_f2645fccc77ca8ba15862278bf3ee661">ostati</comp>
+              <comp position="2" type="headword" sloleks="LE_6a35a886135ae471c0c53d944a1c918f">brezizrazen</comp>
+            </collocation>
+            <collocation form="postati brezizrazen" cluster="2" frequency="17" logDice="2.88">
+              <comp position="1" type="collocate" sloleks="LE_c8e9d4f0bbc764e535f72bddd3507947|LE_c2ff60a03966bdff6d1c8481489399e9">postati</comp>
+              <comp position="2" type="headword" sloleks="LE_6a35a886135ae471c0c53d944a1c918f">brezizrazen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="brezizrazen in/ali hladen" cluster="1" frequency="7" logDice="4.84">
+              <comp position="3" type="headword" sloleks="LE_6a35a886135ae471c0c53d944a1c918f">brezizrazen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_b8506daf875c203121a2f09996c1e77c">hladen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="nekako brezizrazen" cluster="1" frequency="5" logDice="3.67">
+              <comp position="1" type="collocate" sloleks="LE_a96326ed8c158842276cc429a0b285f7">nekako</comp>
+              <comp position="2" type="headword" sloleks="LE_6a35a886135ae471c0c53d944a1c918f">brezizrazen</comp>
+            </collocation>
+            <collocation form="popolnoma brezizrazen" cluster="2" frequency="19" logDice="2.54">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_6a35a886135ae471c0c53d944a1c918f">brezizrazen</comp>
+            </collocation>
+            <collocation form="povsem brezizrazen" cluster="3" frequency="12" logDice="0.88">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_6a35a886135ae471c0c53d944a1c918f">brezizrazen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz1 vez-gbz PBZ1">
+          <collocations>
+            <collocation form="obraz je brezizrazen" cluster="1" frequency="9" logDice="9.38">
+              <comp position="1" type="collocate" sloleks="LE_ace2f15ed5cc3848b7740939ded1abe9">obraz</comp>
+              <comp position="2" type="other" sloleks="LE_4ce899cffc87547d3bbc80f27408a816">je</comp>
+              <comp position="3" type="headword" sloleks="LE_6a35a886135ae471c0c53d944a1c918f">brezizrazen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

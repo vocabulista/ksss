@@ -1,0 +1,70 @@
+<entry>
+  <header>
+    <lexical_unit id="93476">tlesk</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">446</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="tlesk prsta" cluster="1" frequency="19" logDice="6.19">
+              <comp position="1" type="headword" sloleks="LE_b81712534d3eacb53092195a2848a267">tlesk</comp>
+              <comp position="2" type="collocate" sloleks="LE_6a9950af0f17ee23955c952bc9475a49|LE_a861eb7d5e70798c893c633c83cd3e90">prsta</comp>
+            </collocation>
+            <collocation form="tlesk vrat" cluster="2" frequency="19" logDice="4.67">
+              <comp position="1" type="headword" sloleks="LE_b81712534d3eacb53092195a2848a267">tlesk</comp>
+              <comp position="2" type="collocate" sloleks="LE_5b997c4e88dd626d1f19eb6721f9f994">vrat</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="tlesk s prstom" cluster="1" frequency="18" logDice="7.49">
+              <comp position="1" type="headword" sloleks="LE_b81712534d3eacb53092195a2848a267">tlesk</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_6a9950af0f17ee23955c952bc9475a49|LE_a861eb7d5e70798c893c633c83cd3e90">prstom</comp>
+            </collocation>
+            <collocation form="vrata s tleskom" cluster="2" frequency="5" logDice="6.37">
+              <comp position="1" type="collocate" sloleks="LE_5b997c4e88dd626d1f19eb6721f9f994">vrata</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_b81712534d3eacb53092195a2848a267">tleskom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="zapreti s tleskom" cluster="1" frequency="36" logDice="8.92">
+              <comp position="1" type="collocate" sloleks="LE_969a1a0f2700f3c509e26dc338f84db2">zapreti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_b81712534d3eacb53092195a2848a267">tleskom</comp>
+            </collocation>
+            <collocation form="zapirati s tleskom" cluster="2" frequency="4" logDice="7.74">
+              <comp position="1" type="collocate" sloleks="LE_96ed29132eab207b2e992773475f358e">zapirati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_b81712534d3eacb53092195a2848a267">tleskom</comp>
+            </collocation>
+            <collocation form="odpreti s tleskom" cluster="3" frequency="8" logDice="5.86">
+              <comp position="1" type="collocate" sloleks="LE_e8a0b78c58df134dead0230dc2e801ab">odpreti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_b81712534d3eacb53092195a2848a267">tleskom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="glasen tlesk" cluster="1" frequency="8" logDice="3.54">
+              <comp position="1" type="collocate" sloleks="LE_1d470cd08ec1c95fd4893b42c8f172a6">glasen</comp>
+              <comp position="2" type="headword" sloleks="LE_b81712534d3eacb53092195a2848a267">tlesk</comp>
+            </collocation>
+            <collocation form="kovinski tlesk" cluster="2" frequency="9" logDice="3.18">
+              <comp position="1" type="collocate" sloleks="LE_d61c705f8f5eca448811283c0d5a37f1">kovinski</comp>
+              <comp position="2" type="headword" sloleks="LE_b81712534d3eacb53092195a2848a267">tlesk</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

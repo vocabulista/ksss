@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="54577">družboslovec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1165</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="družboslovec na pukelj" cluster="1" frequency="9" logDice="13.36">
+              <comp position="1" type="headword" sloleks="LE_a92b918f1aa1a2262018b27d91f0f237">družboslovec</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="">pukelj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="diplomiran družboslovec" cluster="1" frequency="11" logDice="4.71">
+              <comp position="1" type="collocate" sloleks="LE_287ff60a9555550708087b0d742b2bac">diplomiran</comp>
+              <comp position="2" type="headword" sloleks="LE_a92b918f1aa1a2262018b27d91f0f237">družboslovec</comp>
+            </collocation>
+            <collocation form="ugleden družboslovec" cluster="2" frequency="11" logDice="2.87">
+              <comp position="1" type="collocate" sloleks="LE_fc64a8d21f32e70baeca8afe19533a07">ugleden</comp>
+              <comp position="2" type="headword" sloleks="LE_a92b918f1aa1a2262018b27d91f0f237">družboslovec</comp>
+            </collocation>
+            <collocation form="razen družboslovec" cluster="3" frequency="8" logDice="1.28">
+              <comp position="1" type="collocate" sloleks="LE_10ab2d5761b41f492d84f334d55dcdd9">razen</comp>
+              <comp position="2" type="headword" sloleks="LE_a92b918f1aa1a2262018b27d91f0f237">družboslovec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="mnenje družboslovca" cluster="1" frequency="6" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_570e657c7ba1bf69e788fb96b4ad3409">mnenje</comp>
+              <comp position="2" type="headword" sloleks="LE_a92b918f1aa1a2262018b27d91f0f237">družboslovca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

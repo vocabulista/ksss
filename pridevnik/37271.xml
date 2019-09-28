@@ -1,0 +1,63 @@
+<entry>
+  <header>
+    <lexical_unit id="37271">večstrankarski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1999</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="večstrankarska volitev" cluster="1" frequency="762" logDice="7.37">
+              <comp position="1" type="headword" sloleks="LE_3051c4cc7e113e39e21b509ca327fb58">večstrankarska</comp>
+              <comp position="2" type="collocate" sloleks="LE_53af368aa848a397ab952ee1c28fa840">volitev</comp>
+            </collocation>
+            <collocation form="večstrankarska skupščina" cluster="1" frequency="51" logDice="5.18">
+              <comp position="1" type="headword" sloleks="LE_3051c4cc7e113e39e21b509ca327fb58">večstrankarska</comp>
+              <comp position="2" type="collocate" sloleks="LE_9f2f49881396e3c6dfc7eb01d249f54c">skupščina</comp>
+            </collocation>
+            <collocation form="večstrankarska demokracija" cluster="2" frequency="191" logDice="7.32">
+              <comp position="1" type="headword" sloleks="LE_3051c4cc7e113e39e21b509ca327fb58">večstrankarska</comp>
+              <comp position="2" type="collocate" sloleks="LE_0a23ea97b7dde4013fd3ea300164d8e4">demokracija</comp>
+            </collocation>
+            <collocation form="večstrankarska koalicija" cluster="2" frequency="6" logDice="1.82">
+              <comp position="1" type="headword" sloleks="LE_3051c4cc7e113e39e21b509ca327fb58">večstrankarska</comp>
+              <comp position="2" type="collocate" sloleks="LE_5aa8ccca1595e55daecb1550976409c1">koalicija</comp>
+            </collocation>
+            <collocation form="večstrankarski sistem" cluster="3" frequency="659" logDice="5.48">
+              <comp position="1" type="headword" sloleks="LE_3051c4cc7e113e39e21b509ca327fb58">večstrankarski</comp>
+              <comp position="2" type="collocate" sloleks="LE_b126847d984efa55c2ffad50be4e1dac">sistem</comp>
+            </collocation>
+            <collocation form="večstrankarski parlament" cluster="4" frequency="60" logDice="4.91">
+              <comp position="1" type="headword" sloleks="LE_3051c4cc7e113e39e21b509ca327fb58">večstrankarski</comp>
+              <comp position="2" type="collocate" sloleks="LE_32de6db1998df95db74df7cb39a9b390">parlament</comp>
+            </collocation>
+            <collocation form="večstrankarska ureditev" cluster="5" frequency="29" logDice="3.73">
+              <comp position="1" type="headword" sloleks="LE_3051c4cc7e113e39e21b509ca327fb58">večstrankarska</comp>
+              <comp position="2" type="collocate" sloleks="LE_baceef1543487bd151f8558130614f0e">ureditev</comp>
+            </collocation>
+            <collocation form="večstrankarska vlada" cluster="6" frequency="48" logDice="2.84">
+              <comp position="1" type="headword" sloleks="LE_3051c4cc7e113e39e21b509ca327fb58">večstrankarska</comp>
+              <comp position="2" type="collocate" sloleks="LE_63d183132c68728be91773043828fb2d">vlada</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="večstrankarski in/ali demokratičen" cluster="1" frequency="27" logDice="7.73">
+              <comp position="3" type="headword" sloleks="LE_3051c4cc7e113e39e21b509ca327fb58">večstrankarski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_57b96867e59c551977784d321f7d0d3f">demokratičen</comp>
+              </collocation>
+            <collocation form="večstrankarski in/ali svoboden" cluster="2" frequency="5" logDice="5.54">
+              <comp position="3" type="headword" sloleks="LE_3051c4cc7e113e39e21b509ca327fb58">večstrankarski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_aa02d7ebb07b69a7552d01f87be5f44c">svoboden</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

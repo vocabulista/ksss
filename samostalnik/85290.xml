@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="85290">razposajenost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">760</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="razposajenost z otrokom" cluster="1" frequency="4" logDice="2.69">
+              <comp position="1" type="headword" sloleks="LE_db1e8b9b5bfdb11d094aea797223b3e5">razposajenost</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otrokom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="mladostna razposajenost" cluster="1" frequency="53" logDice="7.15">
+              <comp position="1" type="collocate" sloleks="LE_f6c04410ac76559c8ab50f6143c3b9b6">mladostna</comp>
+              <comp position="2" type="headword" sloleks="LE_db1e8b9b5bfdb11d094aea797223b3e5">razposajenost</comp>
+            </collocation>
+            <collocation form="mladostniška razposajenost" cluster="1" frequency="28" logDice="8.05">
+              <comp position="1" type="collocate" sloleks="LE_7f55291b5fd21263d6355dd58eb4c40a">mladostniška</comp>
+              <comp position="2" type="headword" sloleks="LE_db1e8b9b5bfdb11d094aea797223b3e5">razposajenost</comp>
+            </collocation>
+            <collocation form="prešerna razposajenost" cluster="2" frequency="8" logDice="6.25">
+              <comp position="1" type="collocate" sloleks="LE_60b360b9abd4dd0e1d320b000205cdff">prešerna</comp>
+              <comp position="2" type="headword" sloleks="LE_db1e8b9b5bfdb11d094aea797223b3e5">razposajenost</comp>
+            </collocation>
+            <collocation form="otroška razposajenost" cluster="3" frequency="82" logDice="4.27">
+              <comp position="1" type="collocate" sloleks="LE_1fbf9a7270f9b230effd46d49123fdff">otroška</comp>
+              <comp position="2" type="headword" sloleks="LE_db1e8b9b5bfdb11d094aea797223b3e5">razposajenost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="razlog za razposajenost" cluster="1" frequency="4" logDice="0.78">
+              <comp position="1" type="collocate" sloleks="LE_26c1514e5bfab4dd2b04f4e4711659e1">razlog</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_db1e8b9b5bfdb11d094aea797223b3e5">razposajenost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

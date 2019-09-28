@@ -1,0 +1,82 @@
+<entry>
+  <header>
+    <lexical_unit id="26200">nezakonski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">2843</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nezakonski sin" cluster="1" frequency="522" logDice="8.62">
+              <comp position="1" type="headword" sloleks="LE_aa513b821978061bda77bdab35caa29f">nezakonski</comp>
+              <comp position="2" type="collocate" sloleks="LE_79e0b2d02a57a50544ca32d11914a5a7">sin</comp>
+            </collocation>
+            <collocation form="nezakonski oče" cluster="1" frequency="38" logDice="4.66">
+              <comp position="1" type="headword" sloleks="LE_aa513b821978061bda77bdab35caa29f">nezakonski</comp>
+              <comp position="2" type="collocate" sloleks="LE_fc6f92b44e0935702b32d3acbccf0142">oče</comp>
+            </collocation>
+            <collocation form="nezakonska mati" cluster="2" frequency="266" logDice="8.06">
+              <comp position="1" type="headword" sloleks="LE_aa513b821978061bda77bdab35caa29f">nezakonska</comp>
+              <comp position="2" type="collocate" sloleks="LE_c60ad337818645beb21c89ff38faccd7">mati</comp>
+            </collocation>
+            <collocation form="nezakonska hči" cluster="2" frequency="226" logDice="8.58">
+              <comp position="1" type="headword" sloleks="LE_aa513b821978061bda77bdab35caa29f">nezakonska</comp>
+              <comp position="2" type="collocate" sloleks="LE_548160594c54c41472ed7de0d4dde6b4">hči</comp>
+            </collocation>
+            <collocation form="nezakonska hčerka" cluster="2" frequency="112" logDice="7.69">
+              <comp position="1" type="headword" sloleks="LE_aa513b821978061bda77bdab35caa29f">nezakonska</comp>
+              <comp position="2" type="collocate" sloleks="LE_a7bfbea4c680735ff6a7f6faa0847ac6">hčerka</comp>
+            </collocation>
+            <collocation form="nezakonski otrok" cluster="3" frequency="1204" logDice="8.0">
+              <comp position="1" type="headword" sloleks="LE_aa513b821978061bda77bdab35caa29f">nezakonski</comp>
+              <comp position="2" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otrok</comp>
+            </collocation>
+            <collocation form="nezakonski partner" cluster="3" frequency="13" logDice="2.07">
+              <comp position="1" type="headword" sloleks="LE_aa513b821978061bda77bdab35caa29f">nezakonski</comp>
+              <comp position="2" type="collocate" sloleks="LE_b03d6d4d3e4d98fc8347daeeb60f3cc6">partner</comp>
+            </collocation>
+            <collocation form="nezakonsko rojstvo" cluster="4" frequency="97" logDice="8.09">
+              <comp position="1" type="headword" sloleks="LE_aa513b821978061bda77bdab35caa29f">nezakonsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_b40f66076c42c60626a11e232a9ff9f4">rojstvo</comp>
+            </collocation>
+            <collocation form="nezakonski posvojenec" cluster="5" frequency="12" logDice="7.05">
+              <comp position="1" type="headword" sloleks="LE_aa513b821978061bda77bdab35caa29f">nezakonski</comp>
+              <comp position="2" type="collocate" sloleks="LE_c20b662e2837ba31921932b820e3d4fe">posvojenec</comp>
+            </collocation>
+            <collocation form="nezakonsko materinstvo" cluster="6" frequency="9" logDice="6.44">
+              <comp position="1" type="headword" sloleks="LE_aa513b821978061bda77bdab35caa29f">nezakonsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_fc8b840255b5f172891a41b1f8598653">materinstvo</comp>
+            </collocation>
+            <collocation form="nezakonski potomec" cluster="7" frequency="10" logDice="5.63">
+              <comp position="1" type="headword" sloleks="LE_aa513b821978061bda77bdab35caa29f">nezakonski</comp>
+              <comp position="2" type="collocate" sloleks="LE_83aaa679a723d9a6af2baeab4c426110">potomec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="nezakonski in/ali zakonski" cluster="1" frequency="51" logDice="9.0">
+              <comp position="3" type="headword" sloleks="LE_aa513b821978061bda77bdab35caa29f">nezakonski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_a659ba34a5ac15b0e629775c649b03f3">zakonski</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="veliko nezakonski" cluster="1" frequency="20" logDice="1.85">
+              <comp position="1" type="collocate" sloleks="LE_431ef7ec57af288ca0e781bb12f6e7f0">veliko</comp>
+              <comp position="2" type="headword" sloleks="LE_aa513b821978061bda77bdab35caa29f">nezakonski</comp>
+            </collocation>
+            <collocation form="več nezakonski" cluster="2" frequency="17" logDice="1.8">
+              <comp position="1" type="collocate" sloleks="LE_35a40117ea9b0ca39c7a43d940592d29">več</comp>
+              <comp position="2" type="headword" sloleks="LE_aa513b821978061bda77bdab35caa29f">nezakonski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

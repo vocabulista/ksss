@@ -1,0 +1,48 @@
+<entry>
+  <header>
+    <lexical_unit id="64667">konjar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">755</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Konjar iz Smlednika" cluster="1" frequency="5" logDice="9.15">
+              <comp position="1" type="headword" sloleks="LE_6d885100e2aef6ef5b831d8666677ad4">Konjar</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_aea25bbddd754744cb16a384a57c4a7b">Smlednika</comp>
+            </collocation>
+            <collocation form="Konjar iz Železnikov" cluster="2" frequency="5" logDice="7.92">
+              <comp position="1" type="headword" sloleks="LE_6d885100e2aef6ef5b831d8666677ad4">Konjar</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_c0420830167245a3357b9e22092fd889">Železnikov</comp>
+            </collocation>
+            <collocation form="Konjar iz Ljubljane" cluster="3" frequency="18" logDice="3.89">
+              <comp position="1" type="headword" sloleks="LE_6d885100e2aef6ef5b831d8666677ad4">Konjar</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee11c4f6f901052d38c8252202477c9e">Ljubljane</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="dunajski konjar" cluster="1" frequency="15" logDice="3.75">
+              <comp position="1" type="collocate" sloleks="LE_efc958cdf1989575c5aecacee4091b5f">dunajski</comp>
+              <comp position="2" type="headword" sloleks="LE_6d885100e2aef6ef5b831d8666677ad4">konjar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Jurij Konjarja" cluster="1" frequency="15" logDice="6.48">
+              <comp position="1" type="collocate" sloleks="LE_ce877b25f7a4cc13c18ad0d1bbefa9b0">Jurij</comp>
+              <comp position="2" type="headword" sloleks="LE_6d885100e2aef6ef5b831d8666677ad4">Konjarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

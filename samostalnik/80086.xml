@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="80086">pomežik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">585</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="pomežik z očesom" cluster="1" frequency="5" logDice="7.62">
+              <comp position="1" type="headword" sloleks="LE_8407fba50b5d2ac2abe7c721b78cb3de">pomežik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_5be17c9e359e9f2f62119ef5d2265da6">očesom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Žarkov pomežik" cluster="1" frequency="10" logDice="11.41">
+              <comp position="1" type="collocate" sloleks="LE_46cbe9d8181bfe97119432a5f9bc1c6c">Žarkov</comp>
+              <comp position="2" type="headword" sloleks="LE_8407fba50b5d2ac2abe7c721b78cb3de">pomežik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

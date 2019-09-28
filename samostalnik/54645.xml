@@ -1,0 +1,48 @@
+<entry>
+  <header>
+    <lexical_unit id="54645">duel</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">612</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="duel na izpadanje" cluster="1" frequency="11" logDice="8.57">
+              <comp position="1" type="headword" sloleks="LE_06e3c49642fed30304f4164fd2c00386">duel</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_c1bd77d123852f1f247fb5ef72ea07a7">izpadanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="duel z Mariom" cluster="1" frequency="4" logDice="8.63">
+              <comp position="1" type="headword" sloleks="LE_06e3c49642fed30304f4164fd2c00386">duel</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_ecbdf8ba6423f7d2a43341b4a4444f7f">Mariom</comp>
+            </collocation>
+            <collocation form="duel z igralcem" cluster="2" frequency="4" logDice="3.74">
+              <comp position="1" type="headword" sloleks="LE_06e3c49642fed30304f4164fd2c00386">duel</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_c5f3764dd8399d57d5e0481ee84f7da6">igralcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="beseden duel" cluster="1" frequency="13" logDice="4.56">
+              <comp position="1" type="collocate" sloleks="LE_c43aa09feeba82f1257be4fd2ee620f7">beseden</comp>
+              <comp position="2" type="headword" sloleks="LE_06e3c49642fed30304f4164fd2c00386">duel</comp>
+            </collocation>
+            <collocation form="verbalen duel" cluster="1" frequency="12" logDice="6.43">
+              <comp position="1" type="collocate" sloleks="LE_72d51a0824b0f7bd4d5a230041385215">verbalen</comp>
+              <comp position="2" type="headword" sloleks="LE_06e3c49642fed30304f4164fd2c00386">duel</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

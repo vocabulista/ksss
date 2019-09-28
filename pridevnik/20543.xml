@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="20543">južnoprimorski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">671</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="južnoprimorski odred" cluster="1" frequency="15" logDice="6.41">
+              <comp position="1" type="headword" sloleks="LE_24260e47536b2f07fb194185558cbaf9">južnoprimorski</comp>
+              <comp position="2" type="collocate" sloleks="LE_3167e6c07715e2c6d05dd682d5d0f22d">odred</comp>
+            </collocation>
+            <collocation form="južnoprimorska regija" cluster="2" frequency="130" logDice="5.99">
+              <comp position="1" type="headword" sloleks="LE_24260e47536b2f07fb194185558cbaf9">južnoprimorska</comp>
+              <comp position="2" type="collocate" sloleks="LE_31cb8fe538d8fa18e4d9dee4250ad34e">regija</comp>
+            </collocation>
+            <collocation form="južnoprimorska občina" cluster="2" frequency="102" logDice="3.74">
+              <comp position="1" type="headword" sloleks="LE_24260e47536b2f07fb194185558cbaf9">južnoprimorska</comp>
+              <comp position="2" type="collocate" sloleks="LE_7b31296251a77ba2585c256bbbe52eb9">občina</comp>
+            </collocation>
+            <collocation form="južnoprimorska pokrajina" cluster="2" frequency="79" logDice="5.58">
+              <comp position="1" type="headword" sloleks="LE_24260e47536b2f07fb194185558cbaf9">južnoprimorska</comp>
+              <comp position="2" type="collocate" sloleks="LE_a4352cd395b4e0e04d0dd806a900fb73">pokrajina</comp>
+            </collocation>
+            <collocation form="južnoprimorski župan" cluster="3" frequency="12" logDice="1.94">
+              <comp position="1" type="headword" sloleks="LE_24260e47536b2f07fb194185558cbaf9">južnoprimorski</comp>
+              <comp position="2" type="collocate" sloleks="LE_e0448e7eb8e26f69f354f56c295f88ae">župan</comp>
+            </collocation>
+            <collocation form="južnoprimorsko območje" cluster="4" frequency="10" logDice="0.96">
+              <comp position="1" type="headword" sloleks="LE_24260e47536b2f07fb194185558cbaf9">južnoprimorsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_637bb12e70b217aeada98e77f3559b30">območje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="južnoprimorski in/ali severnoprimorski" cluster="1" frequency="10" logDice="11.58">
+              <comp position="3" type="headword" sloleks="LE_24260e47536b2f07fb194185558cbaf9">južnoprimorski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_72f9e90b5d58345047c75a8a8ef72d29">severnoprimorski</comp>
+              </collocation>
+            <collocation form="južnoprimorski in/ali osrednjeslovenski" cluster="2" frequency="8" logDice="10.07">
+              <comp position="3" type="headword" sloleks="LE_24260e47536b2f07fb194185558cbaf9">južnoprimorski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_daa81ab1a2b11b86614be1d7a783f2e8">osrednjeslovenski</comp>
+              </collocation>
+            <collocation form="južnoprimorski in/ali kraški" cluster="3" frequency="9" logDice="8.4">
+              <comp position="3" type="headword" sloleks="LE_24260e47536b2f07fb194185558cbaf9">južnoprimorski</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_817f82268a26e2ad75ff5bcfa0380cd4">kraški</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

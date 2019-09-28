@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="1966">jezikati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">571</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="jezikati francosko" cluster="1" frequency="7" logDice="7.13">
+              <comp position="1" type="headword" sloleks="LE_86f24da2c484094d739f1595d13a67a8">jezikati</comp>
+              <comp position="2" type="collocate" sloleks="LE_55d5b254c1ddb26465155b0efd1dca94">francosko</comp>
+            </collocation>
+            <collocation form="jezikati nazaj" cluster="2" frequency="13" logDice="2.39">
+              <comp position="1" type="headword" sloleks="LE_86f24da2c484094d739f1595d13a67a8">jezikati</comp>
+              <comp position="2" type="collocate" sloleks="LE_3717c322e8fa4dddb88c242050491707">nazaj</comp>
+            </collocation>
+            <collocation form="jezikati hitro" cluster="3" frequency="6" logDice="1.35">
+              <comp position="1" type="headword" sloleks="LE_86f24da2c484094d739f1595d13a67a8">jezikati</comp>
+              <comp position="2" type="collocate" sloleks="LE_cb95fbdb78349dad33e3d99ea7f281a8">hitro</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="jezikati v jeziku" cluster="1" frequency="4" logDice="3.08">
+              <comp position="1" type="headword" sloleks="LE_86f24da2c484094d739f1595d13a67a8">jezikati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_84e841a4b1d5e4b816efe7f126e1f693">jeziku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="jezikati z naslovom" cluster="1" frequency="4" logDice="3.84">
+              <comp position="1" type="headword" sloleks="LE_86f24da2c484094d739f1595d13a67a8">jezikati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_1aca8621567cc70c42163dfa35048969">naslovom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="preveč jezikati" cluster="1" frequency="10" logDice="2.33">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_86f24da2c484094d739f1595d13a67a8">jezikati</comp>
+            </collocation>
+            <collocation form="nekaj jezikati" cluster="2" frequency="5" logDice="0.24">
+              <comp position="1" type="collocate" sloleks="LE_eb511b2a8ca41b887db9b389e9bd0591">nekaj</comp>
+              <comp position="2" type="headword" sloleks="LE_86f24da2c484094d739f1595d13a67a8">jezikati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

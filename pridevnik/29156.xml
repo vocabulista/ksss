@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="29156">poldrag</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">733</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="poldrag kamen" cluster="1" frequency="596" logDice="9.12">
+              <comp position="1" type="headword" sloleks="LE_f4b9e5f558ef0aa515b9039a3915b4ce">poldrag</comp>
+              <comp position="2" type="collocate" sloleks="LE_541ccb2b48e3b90da037335188199d9d">kamen</comp>
+            </collocation>
+            <collocation form="poldrago kamenje" cluster="2" frequency="39" logDice="8.6">
+              <comp position="1" type="headword" sloleks="LE_f4b9e5f558ef0aa515b9039a3915b4ce">poldrago</comp>
+              <comp position="2" type="collocate" sloleks="LE_a7964be66d4f9f615ff616da92211d77">kamenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="poldrag in/ali drag" cluster="1" frequency="146" logDice="9.25">
+              <comp position="3" type="headword" sloleks="LE_f4b9e5f558ef0aa515b9039a3915b4ce">poldrag</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_3bb482d1c1244ec8fa97ee4afaf36841">drag</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

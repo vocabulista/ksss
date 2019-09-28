@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="56424">filozofiranje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">771</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="odvečno filozofiranje" cluster="1" frequency="12" logDice="4.36">
+              <comp position="1" type="collocate" sloleks="LE_9327d10fda3933c04f4b06140865c986">odvečno</comp>
+              <comp position="2" type="headword" sloleks="LE_9f8d765c37a1cb67d49bd19c2f3110ba">filozofiranje</comp>
+            </collocation>
+            <collocation form="nepotrebno filozofiranje" cluster="2" frequency="14" logDice="4.25">
+              <comp position="1" type="collocate" sloleks="LE_77431aa6b09bf4481125b3c1154469de">nepotrebno</comp>
+              <comp position="2" type="headword" sloleks="LE_9f8d765c37a1cb67d49bd19c2f3110ba">filozofiranje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="način filozofiranja" cluster="1" frequency="10" logDice="0.7">
+              <comp position="1" type="collocate" sloleks="LE_78347f5e8e1e11f66d26223c13ba02df">način</comp>
+              <comp position="2" type="headword" sloleks="LE_9f8d765c37a1cb67d49bd19c2f3110ba">filozofiranja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="čas za filozofiranje" cluster="1" frequency="9" logDice="1.86">
+              <comp position="1" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">čas</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_9f8d765c37a1cb67d49bd19c2f3110ba">filozofiranje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="3743747">sos</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="sos z dne" cluster="1" frequency="11" logDice="3.85">
+              <comp position="1" type="headword" sloleks="">sos</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_687a3a5f213dba3724e626216f1b09da">dne</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Sammy sos" cluster="1" frequency="14" logDice="11.19">
+              <comp position="1" type="collocate" sloleks="">Sammy</comp>
+              <comp position="2" type="headword" sloleks="">sos</comp>
+            </collocation>
+            <collocation form="Mercedes sos" cluster="2" frequency="59" logDice="10.41">
+              <comp position="1" type="collocate" sloleks="LE_887bc910fa94712ba415a9350a6601a3">Mercedes</comp>
+              <comp position="2" type="headword" sloleks="">sos</comp>
+            </collocation>
+            <collocation form="Omar sos" cluster="3" frequency="26" logDice="10.4">
+              <comp position="1" type="collocate" sloleks="LE_29589fc74bd7a7682508e6d682d64169">Omar</comp>
+              <comp position="2" type="headword" sloleks="">sos</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="95622">varoza</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">450</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="varoza s sredstvom" cluster="1" frequency="4" logDice="3.84">
+              <comp position="1" type="headword" sloleks="LE_2fa67c47f49dfc5060014d897ba2164d">varoza</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_94c4f4cf5104632466509789b5cde032">sredstvom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="zatiranje varoze" cluster="1" frequency="92" logDice="8.6">
+              <comp position="1" type="collocate" sloleks="LE_3d7dfd670326b6368bb278052347e47c">zatiranje</comp>
+              <comp position="2" type="headword" sloleks="LE_2fa67c47f49dfc5060014d897ba2164d">varoze</comp>
+            </collocation>
+            <collocation form="zdravljenje varoze" cluster="2" frequency="55" logDice="5.55">
+              <comp position="1" type="collocate" sloleks="LE_7c0137a5473fd91b204bdf5ea8e08de5">zdravljenje</comp>
+              <comp position="2" type="headword" sloleks="LE_2fa67c47f49dfc5060014d897ba2164d">varoze</comp>
+            </collocation>
+            <collocation form="bolezen varoze" cluster="3" frequency="5" logDice="2.46">
+              <comp position="1" type="collocate" sloleks="LE_6fa279c9efca851861451ba08fd5fac5">bolezen</comp>
+              <comp position="2" type="headword" sloleks="LE_2fa67c47f49dfc5060014d897ba2164d">varoze</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

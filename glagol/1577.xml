@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="1577">izkašljati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">463</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="izkašljati sluz" cluster="1" frequency="8" logDice="8.48">
+              <comp position="1" type="headword" sloleks="LE_c4af1856e753ec6b615fff77368d3e3d">izkašljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_75b5c4f3672c96689d30ab35f5976623|LE_fc873d9af21940107c2d3726cc76260d">sluz</comp>
+            </collocation>
+            <collocation form="izkašljati pljuča" cluster="2" frequency="8" logDice="7.55">
+              <comp position="1" type="headword" sloleks="LE_c4af1856e753ec6b615fff77368d3e3d">izkašljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_67d08f79d5de93f85b6fdcfbc17e8b4b">pljuča</comp>
+            </collocation>
+            <collocation form="izkašljati kri" cluster="3" frequency="6" logDice="4.03">
+              <comp position="1" type="headword" sloleks="LE_c4af1856e753ec6b615fff77368d3e3d">izkašljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_3f38ba2d1d9b5ab220cbf69f18564673">kri</comp>
+            </collocation>
+            <collocation form="izkašljati vodo" cluster="4" frequency="7" logDice="2.88">
+              <comp position="1" type="headword" sloleks="LE_c4af1856e753ec6b615fff77368d3e3d">izkašljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_0d8cbba4e56fea63657ac746d29cd047">vodo</comp>
+            </collocation>
+            <collocation form="izkašljati milijon" cluster="5" frequency="4" logDice="2.17">
+              <comp position="1" type="headword" sloleks="LE_c4af1856e753ec6b615fff77368d3e3d">izkašljati</comp>
+              <comp position="2" type="collocate" sloleks="LE_2a2331d56b991dd431d773c6fd13ad7f">milijon</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="težko izkašljati" cluster="1" frequency="15" logDice="1.14">
+              <comp position="1" type="collocate" sloleks="LE_1b2258380d2b90f394d61087a8c6ff51">težko</comp>
+              <comp position="2" type="headword" sloleks="LE_c4af1856e753ec6b615fff77368d3e3d">izkašljati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

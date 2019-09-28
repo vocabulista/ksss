@@ -1,0 +1,56 @@
+<entry>
+  <header>
+    <lexical_unit id="79366">pogrebec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1157</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="pogrebec s krsto" cluster="1" frequency="5" logDice="9.89">
+              <comp position="1" type="headword" sloleks="LE_9a944d538bf45f3df791f44807f92b88">pogrebec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_197548090d78d4f8e18799c8b14a50ca">krsto</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="pogrebec za obred" cluster="1" frequency="4" logDice="4.36">
+              <comp position="1" type="headword" sloleks="LE_9a944d538bf45f3df791f44807f92b88">pogrebec</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_ce6dbc4ab57623c0cf8df2a09038acb5">obred</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz med SBZ6">
+          <collocations>
+            <collocation form="zadrževati med pogrebcem" cluster="1" frequency="5" logDice="9.89">
+              <comp position="1" type="collocate" sloleks="LE_d60dad0373c52ee95c156bcbb67b5715">zadrževati</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_9a944d538bf45f3df791f44807f92b88">pogrebcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="kolon pogrebca" cluster="1" frequency="6" logDice="8.19">
+              <comp position="1" type="collocate" sloleks="LE_98a42d7802377b94e8c73e8c1c846c75">kolon</comp>
+              <comp position="2" type="headword" sloleks="LE_9a944d538bf45f3df791f44807f92b88">pogrebca</comp>
+            </collocation>
+            <collocation form="množica pogrebca" cluster="2" frequency="12" logDice="3.29">
+              <comp position="1" type="collocate" sloleks="LE_7d16fbe97018e676409272758b6a725b">množica</comp>
+              <comp position="2" type="headword" sloleks="LE_9a944d538bf45f3df791f44807f92b88">pogrebca</comp>
+            </collocation>
+            <collocation form="vloga pogrebca" cluster="3" frequency="7" logDice="0.87">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_9a944d538bf45f3df791f44807f92b88">pogrebca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

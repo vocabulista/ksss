@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="96961">vrbovec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">528</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="Vrbovec z namenom" cluster="1" frequency="5" logDice="3.4">
+              <comp position="1" type="headword" sloleks="LE_3fbfe2956e1705193c8a8cff86bd928f">Vrbovec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_b8bfcb1562b01862546effca7cc27d06">namenom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="drobnocveten vrbovec" cluster="1" frequency="54" logDice="12.21">
+              <comp position="1" type="collocate" sloleks="LE_958dcc23087ff6e513be3145e8e7c858">drobnocveten</comp>
+              <comp position="2" type="headword" sloleks="LE_3fbfe2956e1705193c8a8cff86bd928f">vrbovec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="lasek vrbovca" cluster="1" frequency="6" logDice="10.68">
+              <comp position="1" type="collocate" sloleks="LE_8584fd0a21b721f0a35ade5b72de4439">lasek</comp>
+              <comp position="2" type="headword" sloleks="LE_3fbfe2956e1705193c8a8cff86bd928f">vrbovca</comp>
+            </collocation>
+            <collocation form="čaj vrbovca" cluster="2" frequency="6" logDice="7.79">
+              <comp position="1" type="collocate" sloleks="LE_67a606570b017a224b3075ed651cd3ec">čaj</comp>
+              <comp position="2" type="headword" sloleks="LE_3fbfe2956e1705193c8a8cff86bd928f">vrbovca</comp>
+            </collocation>
+            <collocation form="pika Vrbovca" cluster="3" frequency="8" logDice="7.16">
+              <comp position="1" type="collocate" sloleks="LE_1059a8e412fb50645ea5beec29ec9dfc">pika</comp>
+              <comp position="2" type="headword" sloleks="LE_3fbfe2956e1705193c8a8cff86bd928f">Vrbovca</comp>
+            </collocation>
+            <collocation form="pik Vrbovca" cluster="4" frequency="5" logDice="6.32">
+              <comp position="1" type="collocate" sloleks="LE_01575e0e55c4e8ad700937abe9255ffa">pik</comp>
+              <comp position="2" type="headword" sloleks="LE_3fbfe2956e1705193c8a8cff86bd928f">Vrbovca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="49613">bliskanje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">618</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 pred sbz6">
+          <collocations>
+            <collocation form="bliskanje pred očmi" cluster="1" frequency="23" logDice="8.4">
+              <comp position="1" type="headword" sloleks="LE_302d6fe25fdebe7bf5234f782171fad2">bliskanje</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_6e683e53145b35a6cbb44ad1188b7a9f|LE_f7836a137770b18301878166ca9f053f">očmi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="bliskanje fotoaparata" cluster="1" frequency="56" logDice="8.11">
+              <comp position="1" type="headword" sloleks="LE_302d6fe25fdebe7bf5234f782171fad2">bliskanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_97019c394bc32b3dfc353fc554a8276d">fotoaparata</comp>
+            </collocation>
+            <collocation form="bliskanje aparata" cluster="1" frequency="8" logDice="4.15">
+              <comp position="1" type="headword" sloleks="LE_302d6fe25fdebe7bf5234f782171fad2">bliskanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_8394f9997a2a0c916367cdf9c5c35551">aparata</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="nevihta z bliskanjem" cluster="1" frequency="11" logDice="9.17">
+              <comp position="1" type="collocate" sloleks="LE_ec20a6cd06648071de7bb6f2991e0b82">nevihta</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_302d6fe25fdebe7bf5234f782171fad2">bliskanjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

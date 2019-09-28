@@ -1,0 +1,103 @@
+<entry>
+  <header>
+    <lexical_unit id="77001">pašta</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">859</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="pašta na način" cluster="1" frequency="9" logDice="2.75">
+              <comp position="1" type="headword" sloleks="LE_b26856713a7488e96da8a6e70a061756">pašta</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_78347f5e8e1e11f66d26223c13ba02df">način</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="pašta s tuno" cluster="1" frequency="6" logDice="9.15">
+              <comp position="1" type="headword" sloleks="LE_b26856713a7488e96da8a6e70a061756">pašta</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_e78a901d124c62d76aa902bd1cf2746a">tuno</comp>
+            </collocation>
+            <collocation form="pašta s paradižnikom" cluster="2" frequency="15" logDice="8.42">
+              <comp position="1" type="headword" sloleks="LE_b26856713a7488e96da8a6e70a061756">pašta</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_9e65fa74975b57056821db6e74ccfb43">paradižnikom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="kuhati pašto" cluster="1" frequency="19" logDice="6.33">
+              <comp position="1" type="collocate" sloleks="LE_10c407c3c46e55866d339275844ed14c">kuhati</comp>
+              <comp position="2" type="headword" sloleks="LE_b26856713a7488e96da8a6e70a061756">pašto</comp>
+            </collocation>
+            <collocation form="skuhati pašto" cluster="2" frequency="14" logDice="6.08">
+              <comp position="1" type="collocate" sloleks="LE_dacd2722dab842dee9b75e17e9ece2cc">skuhati</comp>
+              <comp position="2" type="headword" sloleks="LE_b26856713a7488e96da8a6e70a061756">pašto</comp>
+            </collocation>
+            <collocation form="jesti pašto" cluster="3" frequency="15" logDice="4.99">
+              <comp position="1" type="collocate" sloleks="LE_2f6197b1d2da486a27555037c733ecf5">jesti</comp>
+              <comp position="2" type="headword" sloleks="LE_b26856713a7488e96da8a6e70a061756">pašto</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="postreči s pašto" cluster="1" frequency="4" logDice="2.69">
+              <comp position="1" type="collocate" sloleks="LE_9409bc8805eeb5914bb97e9766ab9242">postreči</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_b26856713a7488e96da8a6e70a061756">pašto</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="fižolova pašta" cluster="1" frequency="10" logDice="7.38">
+              <comp position="1" type="collocate" sloleks="LE_728c7bb8360dc4d913a5119fa32a91e3">fižolova</comp>
+              <comp position="2" type="headword" sloleks="LE_b26856713a7488e96da8a6e70a061756">pašta</comp>
+            </collocation>
+            <collocation form="okusna pašta" cluster="2" frequency="9" logDice="4.55">
+              <comp position="1" type="collocate" sloleks="LE_3703e3f0e7e2f5670e587dcecf7e0ff1">okusna</comp>
+              <comp position="2" type="headword" sloleks="LE_b26856713a7488e96da8a6e70a061756">pašta</comp>
+            </collocation>
+            <collocation form="suha pašta" cluster="3" frequency="9" logDice="2.03">
+              <comp position="1" type="collocate" sloleks="LE_1d980acd2a91c076b44dfbb2c62adcf9">suha</comp>
+              <comp position="2" type="headword" sloleks="LE_b26856713a7488e96da8a6e70a061756">pašta</comp>
+            </collocation>
+            <collocation form="italijanska pašta" cluster="4" frequency="15" logDice="1.13">
+              <comp position="1" type="collocate" sloleks="LE_913305ff2d1ec7071265c860a231b843">italijanska</comp>
+              <comp position="2" type="headword" sloleks="LE_b26856713a7488e96da8a6e70a061756">pašta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="krožnik pašte" cluster="1" frequency="11" logDice="7.44">
+              <comp position="1" type="collocate" sloleks="LE_e8b1cca7997b9b0c3bd5a6282ada9623">krožnik</comp>
+              <comp position="2" type="headword" sloleks="LE_b26856713a7488e96da8a6e70a061756">pašte</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="omaka za pašto" cluster="1" frequency="4" logDice="7.61">
+              <comp position="1" type="collocate" sloleks="LE_23544152bbf41e13a1bc96c9137fb2c2">omaka</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_b26856713a7488e96da8a6e70a061756">pašto</comp>
+            </collocation>
+            <collocation form="recept za pašto" cluster="2" frequency="5" logDice="3.75">
+              <comp position="1" type="collocate" sloleks="LE_29b0e225b9cc0a9a52e020dacd37828d">recept</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_b26856713a7488e96da8a6e70a061756">pašto</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

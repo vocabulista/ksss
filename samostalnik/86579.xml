@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="86579">rogovila</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">644</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="drevesna rogovila" cluster="1" frequency="19" logDice="6.28">
+              <comp position="1" type="collocate" sloleks="LE_c1245a6d6549d02aaf6a1524e8a754bf">drevesna</comp>
+              <comp position="2" type="headword" sloleks="LE_9fc27c5b9423c04b7ed0dc2081723021">rogovila</comp>
+            </collocation>
+            <collocation form="lesena rogovila" cluster="2" frequency="14" logDice="2.72">
+              <comp position="1" type="collocate" sloleks="LE_39fa6eac8b3aca677a672c92e27a594c|LE_6be16eebd901c9f88de46c0031bec9fd">lesena</comp>
+              <comp position="2" type="headword" sloleks="LE_9fc27c5b9423c04b7ed0dc2081723021">rogovila</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="gnezdo v rogovili" cluster="1" frequency="5" logDice="8.46">
+              <comp position="1" type="collocate" sloleks="LE_0f6e3abd36f0a5440fde2cfb5f037a3a">gnezdo</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_9fc27c5b9423c04b7ed0dc2081723021">rogovili</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

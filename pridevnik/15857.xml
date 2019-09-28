@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="15857">degeneriran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">528</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="degeneriran in degradiran" cluster="1" frequency="5" logDice="9.94">
+              <comp position="1" type="headword" sloleks="LE_8218af586530fa829b80adbf036b8c1f">degeneriran</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_e1bf132d8fd36a386e38c0db05c88292">degradiran</comp>
+            </collocation>
+            <collocation form="degeneriran in/ali bolan" cluster="2" frequency="5" logDice="5.09">
+              <comp position="3" type="headword" sloleks="LE_8218af586530fa829b80adbf036b8c1f">degeneriran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_12f3c0d081dfc8a8c68f6cfbbd4f2c30">bolan</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="degeneriran potomec" cluster="1" frequency="7" logDice="5.74">
+              <comp position="1" type="headword" sloleks="LE_8218af586530fa829b80adbf036b8c1f">degeneriran</comp>
+              <comp position="2" type="collocate" sloleks="LE_83aaa679a723d9a6af2baeab4c426110">potomec</comp>
+            </collocation>
+            <collocation form="degenerirano tkivo" cluster="2" frequency="14" logDice="4.68">
+              <comp position="1" type="headword" sloleks="LE_8218af586530fa829b80adbf036b8c1f">degenerirano</comp>
+              <comp position="2" type="collocate" sloleks="LE_d9ff25fc91824af40f8c59d6b623a4c5">tkivo</comp>
+            </collocation>
+            <collocation form="degenerirana umetnost" cluster="3" frequency="29" logDice="3.73">
+              <comp position="1" type="headword" sloleks="LE_8218af586530fa829b80adbf036b8c1f">degenerirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_14864f40c4c030e3c6501ecbd0a6f10b">umetnost</comp>
+            </collocation>
+            <collocation form="degenerirana glasba" cluster="3" frequency="6" logDice="0.63">
+              <comp position="1" type="headword" sloleks="LE_8218af586530fa829b80adbf036b8c1f">degenerirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9d4fb1bfd740612d94d302113e10a62">glasba</comp>
+            </collocation>
+            <collocation form="degenerirana celica" cluster="4" frequency="8" logDice="2.13">
+              <comp position="1" type="headword" sloleks="LE_8218af586530fa829b80adbf036b8c1f">degenerirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_1ed881633dbb1f517bddbe0c4786e572">celica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="popolnoma degeneriran" cluster="1" frequency="8" logDice="1.29">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_8218af586530fa829b80adbf036b8c1f">degeneriran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="83538">prišepetovalec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">414</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="prišepetovalec iz ozadja" cluster="1" frequency="14" logDice="7.54">
+              <comp position="1" type="headword" sloleks="LE_4b2184fe0f3b0af6723716ec4f2a7ab0">prišepetovalec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_bf3b7687a9bf6d4557593ee6c54e0e83">ozadja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="vloga prišepetovalca" cluster="1" frequency="6" logDice="0.65">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_4b2184fe0f3b0af6723716ec4f2a7ab0">prišepetovalca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

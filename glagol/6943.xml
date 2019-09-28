@@ -1,0 +1,61 @@
+<entry>
+  <header>
+    <lexical_unit id="6943">pribijati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">610</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="pribijati na križ" cluster="1" frequency="240" logDice="12.23">
+              <comp position="1" type="headword" sloleks="LE_073f25651452d2ba6282c68dd243039f">pribijati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_9a7f0f709e4c04f21be01902abbc381a">križ</comp>
+            </collocation>
+            <collocation form="pribijati na steber" cluster="2" frequency="13" logDice="9.19">
+              <comp position="1" type="headword" sloleks="LE_073f25651452d2ba6282c68dd243039f">pribijati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_87139ee03686eb65f11bba6950efc4e6">steber</comp>
+            </collocation>
+            <collocation form="pribijati na pranger" cluster="3" frequency="5" logDice="8.76">
+              <comp position="1" type="headword" sloleks="LE_073f25651452d2ba6282c68dd243039f">pribijati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_4509fd853be541fcc2450ea3413fe8ab">pranger</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="pribijati žebelj" cluster="1" frequency="9" logDice="8.22">
+              <comp position="1" type="headword" sloleks="LE_073f25651452d2ba6282c68dd243039f">pribijati</comp>
+              <comp position="2" type="collocate" sloleks="LE_1766ec942d392bd662b61341746e0e94">žebelj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="pribijati z žebljem" cluster="1" frequency="8" logDice="10.06">
+              <comp position="1" type="headword" sloleks="LE_073f25651452d2ba6282c68dd243039f">pribijati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_1766ec942d392bd662b61341746e0e94">žebljem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="dobesedno pribijati" cluster="1" frequency="4" logDice="2.28">
+              <comp position="1" type="collocate" sloleks="LE_bffec2e3c44400c319dff55bd9852452">dobesedno</comp>
+              <comp position="2" type="headword" sloleks="LE_073f25651452d2ba6282c68dd243039f">pribijati</comp>
+            </collocation>
+            <collocation form="javno pribijati" cluster="2" frequency="4" logDice="1.59">
+              <comp position="1" type="collocate" sloleks="LE_9b491c373a2c03dacd39956afb8d048a">javno</comp>
+              <comp position="2" type="headword" sloleks="LE_073f25651452d2ba6282c68dd243039f">pribijati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

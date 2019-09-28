@@ -1,0 +1,57 @@
+<entry>
+  <header>
+    <lexical_unit id="3982467">tabo</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 do sbz2">
+          <collocations>
+            <collocation form="tabo do konca" cluster="1" frequency="10" logDice="3.09">
+              <comp position="1" type="headword" sloleks="">tabo</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_d8d1737076777d9839ea949a2b88751a">konca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="tabo svobode" cluster="1" frequency="8" logDice="3.41">
+              <comp position="1" type="headword" sloleks="">tabo</comp>
+              <comp position="2" type="collocate" sloleks="LE_f2f25505d5bc8c549facef02b8fbcc04">svobode</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz4">
+          <collocations>
+            <collocation form="tabo v posteljo" cluster="1" frequency="7" logDice="7.09">
+              <comp position="1" type="headword" sloleks="">tabo</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_fe1115a8647757a4e618ef86177eb691">posteljo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="tabo v misli" cluster="1" frequency="4" logDice="5.47">
+              <comp position="1" type="headword" sloleks="">tabo</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_5c7f7f0d0d08b8f576a9107f674e22dd">misli</comp>
+            </collocation>
+            <collocation form="tabo v stanovanju" cluster="2" frequency="4" logDice="3.81">
+              <comp position="1" type="headword" sloleks="">tabo</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_790d388e4f6c9a2d50a5209ec61504cf">stanovanju</comp>
+            </collocation>
+            <collocation form="tabo v celoti" cluster="3" frequency="4" logDice="2.06">
+              <comp position="1" type="headword" sloleks="">tabo</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_2b6fa15c45cebff40d7537ca524056db">celoti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

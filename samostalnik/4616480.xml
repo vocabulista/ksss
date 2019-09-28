@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="4616480">wrestling</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="zvezdnik wrestling" cluster="1" frequency="6" logDice="3.88">
+              <comp position="1" type="collocate" sloleks="LE_333e61a47fb19f0de86501a56f64c4f8">zvezdnik</comp>
+              <comp position="2" type="headword" sloleks="">wrestling</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="oddaja o wrestling" cluster="1" frequency="101" logDice="8.17">
+              <comp position="1" type="collocate" sloleks="LE_52a0fe564a02d70a3d3b0b3a704b365a">oddaja</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="">wrestling</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="prvak v wrestling" cluster="1" frequency="4" logDice="2.43">
+              <comp position="1" type="collocate" sloleks="LE_01b9cba07c706b5c4db57839c927b3d4">prvak</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="">wrestling</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

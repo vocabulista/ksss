@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="35150">stlačen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">557</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 rbz">
+          <collocations>
+            <collocation form="stlačen skupaj" cluster="1" frequency="10" logDice="5.42">
+              <comp position="1" type="headword" sloleks="LE_c1c84f55af45211d7fe3d032186e18d6">stlačen</comp>
+              <comp position="2" type="collocate" sloleks="LE_6b2c35f4f994f6854f5f57d777267a77">skupaj</comp>
+            </collocation>
+            <collocation form="stlačen več" cluster="2" frequency="4" logDice="1.86">
+              <comp position="1" type="headword" sloleks="LE_c1c84f55af45211d7fe3d032186e18d6">stlačen</comp>
+              <comp position="2" type="collocate" sloleks="LE_35a40117ea9b0ca39c7a43d940592d29">več</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 v sbz4">
+          <collocations>
+            <collocation form="stlačen v škatlo" cluster="1" frequency="5" logDice="9.43">
+              <comp position="1" type="headword" sloleks="LE_c1c84f55af45211d7fe3d032186e18d6">stlačen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_5defb3d028419a20c37d605429fe48ee">škatlo</comp>
+            </collocation>
+            <collocation form="stlačen v ohišje" cluster="2" frequency="7" logDice="8.06">
+              <comp position="1" type="headword" sloleks="LE_c1c84f55af45211d7fe3d032186e18d6">stlačen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_6ea09bb1337382d73b4952fb4ceb69d1">ohišje</comp>
+            </collocation>
+            <collocation form="stlačen v okvir" cluster="3" frequency="4" logDice="7.12">
+              <comp position="1" type="headword" sloleks="LE_c1c84f55af45211d7fe3d032186e18d6">stlačen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_7ad9953b27a13e215544d77e1a778983">okvir</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="skupaj stlačen" cluster="1" frequency="9" logDice="4.18">
+              <comp position="1" type="collocate" sloleks="LE_6b2c35f4f994f6854f5f57d777267a77">skupaj</comp>
+              <comp position="2" type="headword" sloleks="LE_c1c84f55af45211d7fe3d032186e18d6">stlačen</comp>
+            </collocation>
+            <collocation form="dobro stlačen" cluster="2" frequency="13" logDice="1.07">
+              <comp position="1" type="collocate" sloleks="LE_43e8da3e283609f4de7cfdb7a3e3a938">dobro</comp>
+              <comp position="2" type="headword" sloleks="LE_c1c84f55af45211d7fe3d032186e18d6">stlačen</comp>
+            </collocation>
+            <collocation form="preveč stlačen" cluster="3" frequency="5" logDice="0.61">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_c1c84f55af45211d7fe3d032186e18d6">stlačen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,67 @@
+<entry>
+  <header>
+    <lexical_unit id="2297">kvasiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">874</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="kvasiti bedarijo" cluster="1" frequency="6" logDice="8.3">
+              <comp position="1" type="headword" sloleks="LE_a49ae396166f2b30f0d46bbb343ec9d0">kvasiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_7c8e6e1a54ba1d32c519a2f0a0929e54">bedarijo</comp>
+            </collocation>
+            <collocation form="kvasiti neumnost" cluster="2" frequency="26" logDice="8.08">
+              <comp position="1" type="headword" sloleks="LE_a49ae396166f2b30f0d46bbb343ec9d0">kvasiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_6010639c7fa329879b747903c97ea28a">neumnost</comp>
+            </collocation>
+            <collocation form="kvasiti komentar" cluster="3" frequency="4" logDice="3.6">
+              <comp position="1" type="headword" sloleks="LE_a49ae396166f2b30f0d46bbb343ec9d0">kvasiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_19164d0c02318542e790ec82e2ab8301">komentar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz SBZ2">
+          <collocations>
+            <collocation form="ne kvasiti neumnosti" cluster="1" frequency="63" logDice="10.51">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_a49ae396166f2b30f0d46bbb343ec9d0">kvasiti</comp>
+              <comp position="3" type="collocate" sloleks="LE_6010639c7fa329879b747903c97ea28a">neumnosti</comp>
+            </collocation>
+            <collocation form="ne kvasiti bedarije" cluster="2" frequency="19" logDice="10.47">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_a49ae396166f2b30f0d46bbb343ec9d0">kvasiti</comp>
+              <comp position="3" type="collocate" sloleks="LE_7c8e6e1a54ba1d32c519a2f0a0929e54">bedarije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="spet kvasiti" cluster="1" frequency="19" logDice="1.28">
+              <comp position="1" type="collocate" sloleks="LE_262d335ce33e8c5f94849e677bc83a19">spet</comp>
+              <comp position="2" type="headword" sloleks="LE_a49ae396166f2b30f0d46bbb343ec9d0">kvasiti</comp>
+            </collocation>
+            <collocation form="kaj kvasiti" cluster="2" frequency="18" logDice="1.1">
+              <comp position="1" type="collocate" sloleks="LE_f9fa365147cf5bfdb5034944905ad608">kaj</comp>
+              <comp position="2" type="headword" sloleks="LE_a49ae396166f2b30f0d46bbb343ec9d0">kvasiti</comp>
+            </collocation>
+            <collocation form="nekaj kvasiti" cluster="3" frequency="9" logDice="1.09">
+              <comp position="1" type="collocate" sloleks="LE_eb511b2a8ca41b887db9b389e9bd0591">nekaj</comp>
+              <comp position="2" type="headword" sloleks="LE_a49ae396166f2b30f0d46bbb343ec9d0">kvasiti</comp>
+            </collocation>
+            <collocation form="tu kvasiti" cluster="4" frequency="5" logDice="0.17">
+              <comp position="1" type="collocate" sloleks="LE_672f40ced4a2f62a061104f8c98c4c39">tu</comp>
+              <comp position="2" type="headword" sloleks="LE_a49ae396166f2b30f0d46bbb343ec9d0">kvasiti</comp>
+            </collocation>
+            <collocation form="naprej kvasiti" cluster="5" frequency="4" logDice="0.17">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_a49ae396166f2b30f0d46bbb343ec9d0">kvasiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

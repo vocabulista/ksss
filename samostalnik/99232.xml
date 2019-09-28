@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="99232">žepar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">689</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="spreten žepar" cluster="1" frequency="10" logDice="4.64">
+              <comp position="1" type="collocate" sloleks="LE_43133fe998432f6504b243559e6ef843">spreten</comp>
+              <comp position="2" type="headword" sloleks="LE_fcc50aa111e8c2ddf9acbc214f7b9c12">žepar</comp>
+            </collocation>
+            <collocation form="neznan žepar" cluster="2" frequency="15" logDice="3.08">
+              <comp position="1" type="collocate" sloleks="LE_7f3815ce048c6969b498d8483b2a5225">neznan</comp>
+              <comp position="2" type="headword" sloleks="LE_fcc50aa111e8c2ddf9acbc214f7b9c12">žepar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="tarča žeparja" cluster="1" frequency="5" logDice="3.92">
+              <comp position="1" type="collocate" sloleks="LE_f55e06237158d711fe14bba6beb2e8cf">tarča</comp>
+              <comp position="2" type="headword" sloleks="LE_fcc50aa111e8c2ddf9acbc214f7b9c12">žeparja</comp>
+            </collocation>
+            <collocation form="žrtev žeparja" cluster="2" frequency="14" logDice="3.06">
+              <comp position="1" type="collocate" sloleks="LE_f46ebb4646225631d376c958798abe48">žrtev</comp>
+              <comp position="2" type="headword" sloleks="LE_fcc50aa111e8c2ddf9acbc214f7b9c12">žeparja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="raj za žeparja" cluster="1" frequency="6" logDice="5.91">
+              <comp position="1" type="collocate" sloleks="LE_453b13070ded94ac64803e316c46dd6a">raj</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_fcc50aa111e8c2ddf9acbc214f7b9c12">žeparja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

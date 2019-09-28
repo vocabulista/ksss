@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="52242">čupa</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">630</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="čupa iz Sesljan" cluster="1" frequency="7" logDice="13.22">
+              <comp position="1" type="headword" sloleks="LE_2fcbf5faf50348ac884934b3a2f25078">čupa</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">Sesljan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="sesljanski čupa" cluster="1" frequency="14" logDice="10.49">
+              <comp position="1" type="collocate" sloleks="">sesljanski</comp>
+              <comp position="2" type="headword" sloleks="LE_2fcbf5faf50348ac884934b3a2f25078">čupa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="jadralec Čupe" cluster="1" frequency="5" logDice="7.83">
+              <comp position="1" type="collocate" sloleks="LE_bdf6fd5ada1620b9ab2d5db1f908b1f5">jadralec</comp>
+              <comp position="2" type="headword" sloleks="LE_2fcbf5faf50348ac884934b3a2f25078">Čupe</comp>
+            </collocation>
+            <collocation form="motiv čupe" cluster="2" frequency="7" logDice="4.33">
+              <comp position="1" type="collocate" sloleks="LE_b056e9d351398d2c53f0e7e700d09639">motiv</comp>
+              <comp position="2" type="headword" sloleks="LE_2fcbf5faf50348ac884934b3a2f25078">čupe</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

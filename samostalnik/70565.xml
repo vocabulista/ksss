@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="70565">mrhovinar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1172</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="mrhovinar z avta" cluster="1" frequency="7" logDice="10.4">
+              <comp position="1" type="headword" sloleks="LE_bc23e6912b67ebb6c355faaba194a757">mrhovinar</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_84b2715275b48c307a68bfa3d2b1a5bf">avta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz med SBZ4">
+          <collocations>
+            <collocation form="spadati med mrhovinarja" cluster="1" frequency="5" logDice="4.26">
+              <comp position="1" type="collocate" sloleks="LE_a634e2bc05f3c714b316fe3841f0d476">spadati</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_bc23e6912b67ebb6c355faaba194a757">mrhovinarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="novinarski mrhovinar" cluster="1" frequency="13" logDice="2.58">
+              <comp position="1" type="collocate" sloleks="LE_cf269beeb94578543c0ea69ac2553fa7">novinarski</comp>
+              <comp position="2" type="headword" sloleks="LE_bc23e6912b67ebb6c355faaba194a757">mrhovinar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="trop mrhovinarja" cluster="1" frequency="5" logDice="6.28">
+              <comp position="1" type="collocate" sloleks="LE_dfedd371a3a8c5d187a7b1d8448bbe9c">trop</comp>
+              <comp position="2" type="headword" sloleks="LE_bc23e6912b67ebb6c355faaba194a757">mrhovinarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

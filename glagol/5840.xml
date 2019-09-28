@@ -1,0 +1,62 @@
+<entry>
+  <header>
+    <lexical_unit id="5840">poštimati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">471</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="poštimati zadevo" cluster="1" frequency="12" logDice="3.65">
+              <comp position="1" type="headword" sloleks="LE_92f0614e0fb8491d09eab92c78d5935a">poštimati</comp>
+              <comp position="2" type="collocate" sloleks="LE_4aa8d2e0c34be9b2fa77533511451a66">zadevo</comp>
+            </collocation>
+            <collocation form="poštimati stvar" cluster="2" frequency="12" logDice="2.67">
+              <comp position="1" type="headword" sloleks="LE_92f0614e0fb8491d09eab92c78d5935a">poštimati</comp>
+              <comp position="2" type="collocate" sloleks="LE_c62e36388a9104c47cf960cd4bdf4ca3">stvar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="poštimati v glavi" cluster="1" frequency="13" logDice="4.73">
+              <comp position="1" type="headword" sloleks="LE_92f0614e0fb8491d09eab92c78d5935a">poštimati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_49f28ed22f8b4f55f12b45ad1b95d3b0">glavi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="čimprej poštimati" cluster="1" frequency="5" logDice="3.63">
+              <comp position="1" type="collocate" sloleks="LE_f40f3ead78570c383889e38486ffa8aa">čimprej</comp>
+              <comp position="2" type="headword" sloleks="LE_92f0614e0fb8491d09eab92c78d5935a">poštimati</comp>
+            </collocation>
+            <collocation form="vse poštimati" cluster="2" frequency="21" logDice="2.08">
+              <comp position="1" type="collocate" sloleks="LE_69e1f6ea0eba690182112fa5f7865561">vse</comp>
+              <comp position="2" type="headword" sloleks="LE_92f0614e0fb8491d09eab92c78d5935a">poštimati</comp>
+            </collocation>
+            <collocation form="najprej poštimati" cluster="2" frequency="9" logDice="0.33">
+              <comp position="1" type="collocate" sloleks="LE_4e4e52d939b2c76f59cb0093c64e5c98">najprej</comp>
+              <comp position="2" type="headword" sloleks="LE_92f0614e0fb8491d09eab92c78d5935a">poštimati</comp>
+            </collocation>
+            <collocation form="malo poštimati" cluster="3" frequency="11" logDice="1.44">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_92f0614e0fb8491d09eab92c78d5935a">poštimati</comp>
+            </collocation>
+            <collocation form="nekako poštimati" cluster="3" frequency="4" logDice="1.33">
+              <comp position="1" type="collocate" sloleks="LE_a96326ed8c158842276cc429a0b285f7">nekako</comp>
+              <comp position="2" type="headword" sloleks="LE_92f0614e0fb8491d09eab92c78d5935a">poštimati</comp>
+            </collocation>
+            <collocation form="lepo poštimati" cluster="4" frequency="7" logDice="1.06">
+              <comp position="1" type="collocate" sloleks="LE_d01061f4e29d96c6aa9cb7941b715be1">lepo</comp>
+              <comp position="2" type="headword" sloleks="LE_92f0614e0fb8491d09eab92c78d5935a">poštimati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

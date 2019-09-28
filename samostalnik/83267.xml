@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="83267">prikazovalec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">606</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="filmski prikazovalec" cluster="1" frequency="101" logDice="4.44">
+              <comp position="1" type="collocate" sloleks="LE_2727ea40e1c4e31719f79893e7f51c83">filmski</comp>
+              <comp position="2" type="headword" sloleks="LE_584e120af16aaf840741f7eab1cc5a74">prikazovalec</comp>
+            </collocation>
+            <collocation form="lokalen prikazovalec" cluster="2" frequency="10" logDice="0.66">
+              <comp position="1" type="collocate" sloleks="LE_c4c329be50ab16177a6a46f6a9806c81">lokalen</comp>
+              <comp position="2" type="headword" sloleks="LE_584e120af16aaf840741f7eab1cc5a74">prikazovalec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="kino prikazovalca" cluster="1" frequency="8" logDice="6.22">
+              <comp position="1" type="collocate" sloleks="LE_1427fa962cb6b3063c1e1525a752b742">kino</comp>
+              <comp position="2" type="headword" sloleks="LE_584e120af16aaf840741f7eab1cc5a74">prikazovalca</comp>
+            </collocation>
+            <collocation form="prikazovalec filma" cluster="2" frequency="30" logDice="3.16">
+              <comp position="1" type="headword" sloleks="LE_584e120af16aaf840741f7eab1cc5a74">prikazovalec</comp>
+              <comp position="2" type="collocate" sloleks="LE_ef1ac12433b4b7e1e0c31edb0c726d89">filma</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 med SBZ6">
+          <collocations>
+            <collocation form="konkurenca med prikazovalcem" cluster="1" frequency="7" logDice="6.95">
+              <comp position="1" type="collocate" sloleks="LE_44368d329a64986da6594a0b0420236c">konkurenca</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_584e120af16aaf840741f7eab1cc5a74">prikazovalcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

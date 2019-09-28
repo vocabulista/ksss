@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="94706">uglašenost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">445</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="uglašenost podvozja" cluster="1" frequency="23" logDice="8.13">
+              <comp position="1" type="headword" sloleks="LE_ec9a8d76dbb871fcdbaee85343dc21e2">uglašenost</comp>
+              <comp position="2" type="collocate" sloleks="LE_6a0435ff7b1e422222d34c9b9fb13c9e">podvozja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="uglašenost z naravo" cluster="1" frequency="8" logDice="5.41">
+              <comp position="1" type="headword" sloleks="LE_ec9a8d76dbb871fcdbaee85343dc21e2">uglašenost</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_3720f05aae76a62fa53daa3d96e22c20">naravo</comp>
+            </collocation>
+            <collocation form="uglašenost s svetom" cluster="2" frequency="4" logDice="4.23">
+              <comp position="1" type="headword" sloleks="LE_ec9a8d76dbb871fcdbaee85343dc21e2">uglašenost</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_55184295ed657acc8ec5dcd62f7084bf">svetom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="barvna uglašenost" cluster="1" frequency="10" logDice="2.75">
+              <comp position="1" type="collocate" sloleks="LE_e1a8898e54ce222226d87580cce99b67">barvna</comp>
+              <comp position="2" type="headword" sloleks="LE_ec9a8d76dbb871fcdbaee85343dc21e2">uglašenost</comp>
+            </collocation>
+            <collocation form="notranja uglašenost" cluster="2" frequency="23" logDice="1.89">
+              <comp position="1" type="collocate" sloleks="LE_bca9138b9a7f57aa3e597de77446f7d5">notranja</comp>
+              <comp position="2" type="headword" sloleks="LE_ec9a8d76dbb871fcdbaee85343dc21e2">uglašenost</comp>
+            </collocation>
+            <collocation form="popolna uglašenost" cluster="3" frequency="12" logDice="1.67">
+              <comp position="1" type="collocate" sloleks="LE_814a2c9c333ef1e9cb481395c05b7346">popolna</comp>
+              <comp position="2" type="headword" sloleks="LE_ec9a8d76dbb871fcdbaee85343dc21e2">uglašenost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

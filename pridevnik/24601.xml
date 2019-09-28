@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="24601">nadomestljiv</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">474</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nadomestljiva škoda" cluster="1" frequency="88" logDice="5.45">
+              <comp position="1" type="headword" sloleks="LE_e707093287c73f5cf26c7aab2d32a56d">nadomestljiva</comp>
+              <comp position="2" type="collocate" sloleks="LE_d0eef6fed3fa66df037002eb7e67a633">škoda</comp>
+            </collocation>
+            <collocation form="nadomestljiva vrednost" cluster="2" frequency="34" logDice="2.66">
+              <comp position="1" type="headword" sloleks="LE_e707093287c73f5cf26c7aab2d32a56d">nadomestljiva</comp>
+              <comp position="2" type="collocate" sloleks="LE_aa6bad87e3fba76f27f4242d3cb9a383">vrednost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="zlahka nadomestljiv" cluster="1" frequency="10" logDice="7.33">
+              <comp position="1" type="collocate" sloleks="LE_ebc31a7d1da956cdbb39e94e32d45b5e">zlahka</comp>
+              <comp position="2" type="headword" sloleks="LE_e707093287c73f5cf26c7aab2d32a56d">nadomestljiv</comp>
+            </collocation>
+            <collocation form="težko nadomestljiv" cluster="2" frequency="139" logDice="6.92">
+              <comp position="1" type="collocate" sloleks="LE_1b2258380d2b90f394d61087a8c6ff51">težko</comp>
+              <comp position="2" type="headword" sloleks="LE_e707093287c73f5cf26c7aab2d32a56d">nadomestljiv</comp>
+            </collocation>
+            <collocation form="lahko nadomestljiv" cluster="3" frequency="12" logDice="0.68">
+              <comp position="1" type="collocate" sloleks="LE_4c3da54cd55e36d337ad4ebe20d667c9">lahko</comp>
+              <comp position="2" type="headword" sloleks="LE_e707093287c73f5cf26c7aab2d32a56d">nadomestljiv</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

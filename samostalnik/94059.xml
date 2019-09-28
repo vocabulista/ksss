@@ -1,0 +1,48 @@
+<entry>
+  <header>
+    <lexical_unit id="94059">tretješolec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">641</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="tretješolec iz šole" cluster="1" frequency="11" logDice="5.27">
+              <comp position="1" type="headword" sloleks="LE_95a92f4aa2fab619083e573053652c55">tretješolec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_9c664dac39a3cc920d3849a80fadafa1">šole</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="tretješolec z učiteljico" cluster="1" frequency="6" logDice="8.68">
+              <comp position="1" type="headword" sloleks="LE_95a92f4aa2fab619083e573053652c55">tretješolec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_36b6dd34c5986c3e7abeec526ecf9bd7">učiteljico</comp>
+            </collocation>
+            <collocation form="tretješolec z veseljem" cluster="2" frequency="4" logDice="4.14">
+              <comp position="1" type="headword" sloleks="LE_95a92f4aa2fab619083e573053652c55">tretješolec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_9793d9b0b396cdcba2b099374bb344d4">veseljem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="starš tretješolca" cluster="1" frequency="6" logDice="4.0">
+              <comp position="1" type="collocate" sloleks="LE_ee1100b135d34088f91e5c2786123e66">starš</comp>
+              <comp position="2" type="headword" sloleks="LE_95a92f4aa2fab619083e573053652c55">tretješolca</comp>
+            </collocation>
+            <collocation form="skupina tretješolca" cluster="2" frequency="13" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_7a31c94cb05484f8e60e8fbc4dad6a50">skupina</comp>
+              <comp position="2" type="headword" sloleks="LE_95a92f4aa2fab619083e573053652c55">tretješolca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

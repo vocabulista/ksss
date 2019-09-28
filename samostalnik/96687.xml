@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="96687">vohljač</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">752</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="omrežen vohljač" cluster="1" frequency="11" logDice="4.65">
+              <comp position="1" type="collocate" sloleks="LE_103cadca4624650ffbefd659f20f58a7|LE_01485ad0b8c0e6d8c19d766ec9b619c3">omrežen</comp>
+              <comp position="2" type="headword" sloleks="LE_51cd85041fac800f894a3a807c786e06">vohljač</comp>
+            </collocation>
+            <collocation form="policijski vohljač" cluster="2" frequency="9" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_5cb5689f1625557538373d73205c8b4d">policijski</comp>
+              <comp position="2" type="headword" sloleks="LE_51cd85041fac800f894a3a807c786e06">vohljač</comp>
+            </collocation>
+            <collocation form="spleten vohljač" cluster="3" frequency="14" logDice="1.01">
+              <comp position="1" type="collocate" sloleks="LE_b7a046d124e29a01839e10a08b6c7d07|LE_6ea07d467af0aac3de9a7f1f8bc398b3">spleten</comp>
+              <comp position="2" type="headword" sloleks="LE_51cd85041fac800f894a3a807c786e06">vohljač</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Super vohljača" cluster="1" frequency="7" logDice="6.85">
+              <comp position="1" type="collocate" sloleks="">Super</comp>
+              <comp position="2" type="headword" sloleks="LE_51cd85041fac800f894a3a807c786e06">vohljača</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

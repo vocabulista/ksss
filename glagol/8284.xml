@@ -1,0 +1,40 @@
+<entry>
+  <header>
+    <lexical_unit id="8284">spariti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">426</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="spariti s samcem" cluster="1" frequency="10" logDice="10.68">
+              <comp position="1" type="headword" sloleks="LE_c23e2f22e181134a155de6ca18d3aa1e">spariti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_df2722b06febcfdf76bd428196a39cf0">samcem</comp>
+            </collocation>
+            <collocation form="spariti s samico" cluster="2" frequency="4" logDice="9.36">
+              <comp position="1" type="headword" sloleks="LE_c23e2f22e181134a155de6ca18d3aa1e">spariti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_080e1388b925753820def565d305512d">samico</comp>
+            </collocation>
+            <collocation form="spariti s telefonom" cluster="3" frequency="5" logDice="6.25">
+              <comp position="1" type="headword" sloleks="LE_c23e2f22e181134a155de6ca18d3aa1e">spariti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_b369daed21ea3efd08ea07ee43e89946">telefonom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="uspešno spariti" cluster="1" frequency="5" logDice="0.72">
+              <comp position="1" type="collocate" sloleks="LE_1261ffe39150e62ae7fb3419f7a831f4">uspešno</comp>
+              <comp position="2" type="headword" sloleks="LE_c23e2f22e181134a155de6ca18d3aa1e">spariti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,29 @@
+<entry>
+  <header>
+    <lexical_unit id="80890">postopač</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">499</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="brezdelen postopač" cluster="1" frequency="10" logDice="8.96">
+              <comp position="1" type="collocate" sloleks="LE_6cefa8f29b15ab93c41ef70062349f25">brezdelen</comp>
+              <comp position="2" type="headword" sloleks="LE_f619af11be6b3f18750171ae622d12e9">postopač</comp>
+            </collocation>
+            <collocation form="uličen postopač" cluster="2" frequency="15" logDice="4.96">
+              <comp position="1" type="collocate" sloleks="LE_f9f4f4ddb07f013bffee07653f97394c">uličen</comp>
+              <comp position="2" type="headword" sloleks="LE_f619af11be6b3f18750171ae622d12e9">postopač</comp>
+            </collocation>
+            <collocation form="mesten postopač" cluster="3" frequency="36" logDice="2.01">
+              <comp position="1" type="collocate" sloleks="LE_b04232655aed75edb8456dda8fecc569">mesten</comp>
+              <comp position="2" type="headword" sloleks="LE_f619af11be6b3f18750171ae622d12e9">postopač</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

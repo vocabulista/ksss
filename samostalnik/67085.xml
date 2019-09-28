@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="67085">levičarka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">409</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="levičarka iz Srbije" cluster="1" frequency="5" logDice="5.79">
+              <comp position="1" type="headword" sloleks="LE_a7aa091358666d0625dfd5eb4f94bc25">levičarka</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_a3cc66f9c4aad3329d915db7fec98d6b">Srbije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="veljati za levičarko" cluster="1" frequency="4" logDice="0.57">
+              <comp position="1" type="collocate" sloleks="LE_d1ea0d9dd4771e211c9eddc0d342acc2">veljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_a7aa091358666d0625dfd5eb4f94bc25">levičarko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="radikalna levičarka" cluster="1" frequency="8" logDice="3.97">
+              <comp position="1" type="collocate" sloleks="LE_4c0cf6f948277e50f13771336e17909d">radikalna</comp>
+              <comp position="2" type="headword" sloleks="LE_a7aa091358666d0625dfd5eb4f94bc25">levičarka</comp>
+            </collocation>
+            <collocation form="skrajna levičarka" cluster="2" frequency="8" logDice="2.57">
+              <comp position="1" type="collocate" sloleks="LE_9efbada788faba1dbbf4354eba24cd08">skrajna</comp>
+              <comp position="2" type="headword" sloleks="LE_a7aa091358666d0625dfd5eb4f94bc25">levičarka</comp>
+            </collocation>
+            <collocation form="letna levičarka" cluster="3" frequency="17" logDice="0.52">
+              <comp position="1" type="collocate" sloleks="LE_cf6602afd8be6d6ec6afe92cc03a9207">letna</comp>
+              <comp position="2" type="headword" sloleks="LE_a7aa091358666d0625dfd5eb4f94bc25">levičarka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

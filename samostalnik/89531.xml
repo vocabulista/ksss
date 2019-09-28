@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="89531">slonica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">447</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="indijska slonica" cluster="1" frequency="16" logDice="4.08">
+              <comp position="1" type="collocate" sloleks="LE_60df0714af2e91ceae6f532c93893ee8">indijska</comp>
+              <comp position="2" type="headword" sloleks="LE_978fa86b08d02ad651b2d9c2613378e1">slonica</comp>
+            </collocation>
+            <collocation form="letna slonica" cluster="2" frequency="21" logDice="0.83">
+              <comp position="1" type="collocate" sloleks="LE_cf6602afd8be6d6ec6afe92cc03a9207">letna</comp>
+              <comp position="2" type="headword" sloleks="LE_978fa86b08d02ad651b2d9c2613378e1">slonica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="pobeg slonice" cluster="1" frequency="8" logDice="7.62">
+              <comp position="1" type="collocate" sloleks="LE_cda89747cf0de35a0fa92dc26555d40d">pobeg</comp>
+              <comp position="2" type="headword" sloleks="LE_978fa86b08d02ad651b2d9c2613378e1">slonice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

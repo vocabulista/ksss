@@ -1,0 +1,64 @@
+<entry>
+  <header>
+    <lexical_unit id="95405">uzanca</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">412</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="uzanca za promet" cluster="1" frequency="11" logDice="3.55">
+              <comp position="1" type="headword" sloleks="LE_df8127a7c1799a30a6415e3cd8551272">uzanca</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_325a5cddba50a22446da08f7ab272dff">promet</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="gradbena uzanca" cluster="1" frequency="17" logDice="2.39">
+              <comp position="1" type="collocate" sloleks="LE_bf22fae096f08c3820b46fd40da30781">gradbena</comp>
+              <comp position="2" type="headword" sloleks="LE_df8127a7c1799a30a6415e3cd8551272">uzanca</comp>
+            </collocation>
+            <collocation form="posebna uzanca" cluster="2" frequency="39" logDice="1.46">
+              <comp position="1" type="collocate" sloleks="LE_c6ac532196f00aeff80a6a291379271e">posebna</comp>
+              <comp position="2" type="headword" sloleks="LE_df8127a7c1799a30a6415e3cd8551272">uzanca</comp>
+            </collocation>
+            <collocation form="splošna uzanca" cluster="2" frequency="20" logDice="1.99">
+              <comp position="1" type="collocate" sloleks="LE_cdc9eac54f463ddd7c00de56a4c1e7f5">splošna</comp>
+              <comp position="2" type="headword" sloleks="LE_df8127a7c1799a30a6415e3cd8551272">uzanca</comp>
+            </collocation>
+            <collocation form="pravna uzanca" cluster="2" frequency="17" logDice="1.12">
+              <comp position="1" type="collocate" sloleks="LE_b35171096999910bbf3756c86463805b">pravna</comp>
+              <comp position="2" type="headword" sloleks="LE_df8127a7c1799a30a6415e3cd8551272">uzanca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="uporaba uzance" cluster="1" frequency="11" logDice="0.94">
+              <comp position="1" type="collocate" sloleks="LE_9999e7dc3b8f5571ba09e352c31aea3f">uporaba</comp>
+              <comp position="2" type="headword" sloleks="LE_df8127a7c1799a30a6415e3cd8551272">uzance</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="nasprotje z uzanco" cluster="1" frequency="4" logDice="1.15">
+              <comp position="1" type="collocate" sloleks="LE_856a910b1c3332ccea09cc03944b7de2">nasprotje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_df8127a7c1799a30a6415e3cd8551272">uzanco</comp>
+            </collocation>
+            <collocation form="sklad z uzanco" cluster="2" frequency="8" logDice="0.85">
+              <comp position="1" type="collocate" sloleks="LE_799c26a9ef189681d32106d72cb282a0">sklad</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_df8127a7c1799a30a6415e3cd8551272">uzanco</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

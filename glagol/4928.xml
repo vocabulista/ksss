@@ -1,0 +1,63 @@
+<entry>
+  <header>
+    <lexical_unit id="4928">podeseteriti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">522</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="podeseteriti prihodek" cluster="1" frequency="11" logDice="5.53">
+              <comp position="1" type="headword" sloleks="LE_26de35634533bb469f28f01f12f4165f">podeseteriti</comp>
+              <comp position="2" type="collocate" sloleks="LE_de5cc1b7caa91ade1bbe042baed0e9ad">prihodek</comp>
+            </collocation>
+            <collocation form="podeseteriti proizvodnjo" cluster="2" frequency="7" logDice="3.82">
+              <comp position="1" type="headword" sloleks="LE_26de35634533bb469f28f01f12f4165f">podeseteriti</comp>
+              <comp position="2" type="collocate" sloleks="LE_4a1754c19d9e05c064189e8d6ddbd00a">proizvodnjo</comp>
+            </collocation>
+            <collocation form="podeseteriti dobiček" cluster="3" frequency="5" logDice="3.32">
+              <comp position="1" type="headword" sloleks="LE_26de35634533bb469f28f01f12f4165f">podeseteriti</comp>
+              <comp position="2" type="collocate" sloleks="LE_b791a9bb45ba4e9de1faf611b3045015">dobiček</comp>
+            </collocation>
+            <collocation form="podeseteriti moč" cluster="4" frequency="8" logDice="2.4">
+              <comp position="1" type="headword" sloleks="LE_26de35634533bb469f28f01f12f4165f">podeseteriti</comp>
+              <comp position="2" type="collocate" sloleks="LE_0b71c85c50e39f2c8cb5e91791d67af9">moč</comp>
+            </collocation>
+            <collocation form="podeseteriti ceno" cluster="5" frequency="4" logDice="1.62">
+              <comp position="1" type="headword" sloleks="LE_26de35634533bb469f28f01f12f4165f">podeseteriti</comp>
+              <comp position="2" type="collocate" sloleks="LE_69b40aa886598a40e47070a0270e9b28">ceno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="podeseteriti v letu" cluster="1" frequency="26" logDice="1.16">
+              <comp position="1" type="headword" sloleks="LE_26de35634533bb469f28f01f12f4165f">podeseteriti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">letu</comp>
+            </collocation>
+            <collocation form="podeseteriti v času" cluster="2" frequency="4" logDice="-0.85">
+              <comp position="1" type="headword" sloleks="LE_26de35634533bb469f28f01f12f4165f">podeseteriti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">času</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="najmanj podeseteriti" cluster="1" frequency="7" logDice="4.23">
+              <comp position="1" type="collocate" sloleks="LE_fb0549a2b9b8e8fb24391d97135f3ac0">najmanj</comp>
+              <comp position="2" type="headword" sloleks="LE_26de35634533bb469f28f01f12f4165f">podeseteriti</comp>
+            </collocation>
+            <collocation form="kar podeseteriti" cluster="2" frequency="16" logDice="0.11">
+              <comp position="1" type="collocate" sloleks="LE_c135f6fe8de5dfaaa58b36300e2bf493">kar</comp>
+              <comp position="2" type="headword" sloleks="LE_26de35634533bb469f28f01f12f4165f">podeseteriti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

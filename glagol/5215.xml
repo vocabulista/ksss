@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="5215">pokakati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">402</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="pokakati v hlačke" cluster="1" frequency="5" logDice="9.8">
+              <comp position="1" type="headword" sloleks="LE_032067fd7887a031e181c267c0f6befd">pokakati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_1d1b5638f622bf1ac24db252118a0d6e">hlačke</comp>
+            </collocation>
+            <collocation form="pokakati v hlače" cluster="2" frequency="19" logDice="8.84">
+              <comp position="1" type="headword" sloleks="LE_032067fd7887a031e181c267c0f6befd">pokakati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_a305c5239efe00bca5aa33dc4093e5e8">hlače</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="malo pokakati" cluster="1" frequency="12" logDice="1.56">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_032067fd7887a031e181c267c0f6befd">pokakati</comp>
+            </collocation>
+            <collocation form="lepo pokakati" cluster="2" frequency="4" logDice="0.25">
+              <comp position="1" type="collocate" sloleks="LE_d01061f4e29d96c6aa9cb7941b715be1">lepo</comp>
+              <comp position="2" type="headword" sloleks="LE_032067fd7887a031e181c267c0f6befd">pokakati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

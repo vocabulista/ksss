@@ -1,0 +1,72 @@
+<entry>
+  <header>
+    <lexical_unit id="44628">redkokje</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">427</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ gbz">
+          <collocations>
+            <collocation form="redkokje srečati" cluster="1" frequency="7" logDice="2.95">
+              <comp position="1" type="headword" sloleks="LE_5e291acecc595cc848e7089817538ed2">redkokje</comp>
+              <comp position="2" type="collocate" sloleks="LE_049fc92dfae25894d858637e2cc2c59c">srečati</comp>
+            </collocation>
+            <collocation form="redkokje najti" cluster="2" frequency="21" logDice="2.81">
+              <comp position="1" type="headword" sloleks="LE_5e291acecc595cc848e7089817538ed2">redkokje</comp>
+              <comp position="2" type="collocate" sloleks="LE_843e328fc791979a62059ce2c06a66c8">najti</comp>
+            </collocation>
+            <collocation form="redkokje živeti" cluster="3" frequency="5" logDice="1.06">
+              <comp position="1" type="headword" sloleks="LE_5e291acecc595cc848e7089817538ed2">redkokje</comp>
+              <comp position="2" type="collocate" sloleks="LE_42cc4ca3168ca0f408ce857620c0a7d0">živeti</comp>
+            </collocation>
+            <collocation form="redkokje videti" cluster="4" frequency="7" logDice="0.74">
+              <comp position="1" type="headword" sloleks="LE_5e291acecc595cc848e7089817538ed2">redkokje</comp>
+              <comp position="2" type="collocate" sloleks="LE_c26a3fecae6697a7f6f9475e85ca9f58">videti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ na sbz5">
+          <collocations>
+            <collocation form="redkokje na Zemlji" cluster="1" frequency="4" logDice="6.77">
+              <comp position="1" type="headword" sloleks="LE_5e291acecc595cc848e7089817538ed2">redkokje</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_9f4cbbb2b72bac81739b4274ec0514cc">Zemlji</comp>
+            </collocation>
+            <collocation form="redkokje na svetu" cluster="2" frequency="20" logDice="6.19">
+              <comp position="1" type="headword" sloleks="LE_5e291acecc595cc848e7089817538ed2">redkokje</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_55184295ed657acc8ec5dcd62f7084bf">svetu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ v sbz5">
+          <collocations>
+            <collocation form="redkokje v Evropi" cluster="1" frequency="5" logDice="4.58">
+              <comp position="1" type="headword" sloleks="LE_5e291acecc595cc848e7089817538ed2">redkokje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_0c70d71bb49cb550bb4e854282407723">Evropi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="srečati redkokje" cluster="1" frequency="11" logDice="5.43">
+              <comp position="1" type="collocate" sloleks="LE_049fc92dfae25894d858637e2cc2c59c">srečati</comp>
+              <comp position="2" type="headword" sloleks="LE_5e291acecc595cc848e7089817538ed2">redkokje</comp>
+            </collocation>
+            <collocation form="najti redkokje" cluster="2" frequency="16" logDice="3.58">
+              <comp position="1" type="collocate" sloleks="LE_843e328fc791979a62059ce2c06a66c8">najti</comp>
+              <comp position="2" type="headword" sloleks="LE_5e291acecc595cc848e7089817538ed2">redkokje</comp>
+            </collocation>
+            <collocation form="videti redkokje" cluster="3" frequency="8" logDice="1.81">
+              <comp position="1" type="collocate" sloleks="LE_c26a3fecae6697a7f6f9475e85ca9f58">videti</comp>
+              <comp position="2" type="headword" sloleks="LE_5e291acecc595cc848e7089817538ed2">redkokje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="78671">pobočnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">552</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz na SBZ5">
+          <collocations>
+            <collocation form="imeti na pobočnici" cluster="1" frequency="19" logDice="2.86">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_49352facdf9fab9288860a1ee949d018">pobočnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz vzdolž SBZ2">
+          <collocations>
+            <collocation form="imeti vzdolž pobočnice" cluster="1" frequency="130" logDice="13.68">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_5d06ebe1d7e25e634bdea43b1e587a60">vzdolž</comp>
+              <comp position="3" type="headword" sloleks="LE_49352facdf9fab9288860a1ee949d018">pobočnice</comp>
+            </collocation>
+            <collocation form="potekati vzdolž pobočnice" cluster="2" frequency="4" logDice="8.64">
+              <comp position="1" type="collocate" sloleks="LE_819184a7075249f01ba9c0ac8d261dd4">potekati</comp>
+              <comp position="2" type="other" sloleks="LE_5d06ebe1d7e25e634bdea43b1e587a60">vzdolž</comp>
+              <comp position="3" type="headword" sloleks="LE_49352facdf9fab9288860a1ee949d018">pobočnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 vzdolž SBZ2">
+          <collocations>
+            <collocation form="luska vzdolž pobočnice" cluster="1" frequency="8" logDice="13.24">
+              <comp position="1" type="collocate" sloleks="LE_974cedf901c4053168286d31e34214b4">luska</comp>
+              <comp position="2" type="other" sloleks="LE_5d06ebe1d7e25e634bdea43b1e587a60">vzdolž</comp>
+              <comp position="3" type="headword" sloleks="LE_49352facdf9fab9288860a1ee949d018">pobočnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

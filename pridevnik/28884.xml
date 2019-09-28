@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="28884">podmazan</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">403</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="podmazan stroj" cluster="1" frequency="48" logDice="4.31">
+              <comp position="1" type="headword" sloleks="LE_c4f2a7c446dd43cd5b58ab798b134a93">podmazan</comp>
+              <comp position="2" type="collocate" sloleks="LE_92b130473f034fabad4c95de8025d439">stroj</comp>
+            </collocation>
+            <collocation form="podmazan mehanizem" cluster="2" frequency="6" logDice="2.63">
+              <comp position="1" type="headword" sloleks="LE_c4f2a7c446dd43cd5b58ab798b134a93">podmazan</comp>
+              <comp position="2" type="collocate" sloleks="LE_934c33c1f444169d1a86a3905821a90c">mehanizem</comp>
+            </collocation>
+            <collocation form="podmazan jezik" cluster="3" frequency="26" logDice="2.27">
+              <comp position="1" type="headword" sloleks="LE_c4f2a7c446dd43cd5b58ab798b134a93">podmazan</comp>
+              <comp position="2" type="collocate" sloleks="LE_84e841a4b1d5e4b816efe7f126e1f693">jezik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="dobro podmazan" cluster="1" frequency="106" logDice="4.1">
+              <comp position="1" type="collocate" sloleks="LE_43e8da3e283609f4de7cfdb7a3e3a938">dobro</comp>
+              <comp position="2" type="headword" sloleks="LE_c4f2a7c446dd43cd5b58ab798b134a93">podmazan</comp>
+            </collocation>
+            <collocation form="odlično podmazan" cluster="2" frequency="7" logDice="3.88">
+              <comp position="1" type="collocate" sloleks="LE_69856d5b8c174a0b8796f8f89b34859b">odlično</comp>
+              <comp position="2" type="headword" sloleks="LE_c4f2a7c446dd43cd5b58ab798b134a93">podmazan</comp>
+            </collocation>
+            <collocation form="lepo podmazan" cluster="3" frequency="7" logDice="2.03">
+              <comp position="1" type="collocate" sloleks="LE_d01061f4e29d96c6aa9cb7941b715be1">lepo</comp>
+              <comp position="2" type="headword" sloleks="LE_c4f2a7c446dd43cd5b58ab798b134a93">podmazan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="2353">licitirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">427</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="licitirati na dražbi" cluster="1" frequency="8" logDice="5.03">
+              <comp position="1" type="headword" sloleks="LE_12225416146d7c801a919e03e1e9884c">licitirati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_6cd821a968e75ebb1602caa21dde31a0">dražbi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="licitirati kračo" cluster="1" frequency="4" logDice="9.2">
+              <comp position="1" type="headword" sloleks="LE_12225416146d7c801a919e03e1e9884c">licitirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_4674e8205e9f9d90c76591770f62c17d">kračo</comp>
+            </collocation>
+            <collocation form="licitirati predmet" cluster="2" frequency="8" logDice="4.29">
+              <comp position="1" type="headword" sloleks="LE_12225416146d7c801a919e03e1e9884c">licitirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_d51cd609db6fe289654ca191c3ec4f9a">predmet</comp>
+            </collocation>
+            <collocation form="licitirati tečaj" cluster="3" frequency="4" logDice="3.39">
+              <comp position="1" type="headword" sloleks="LE_12225416146d7c801a919e03e1e9884c">licitirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_5d02c8a026f40c53ca6b5616101080cf">tečaj</comp>
+            </collocation>
+            <collocation form="licitirati izdelek" cluster="4" frequency="6" logDice="2.58">
+              <comp position="1" type="headword" sloleks="LE_12225416146d7c801a919e03e1e9884c">licitirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_bbffae950f5cec8d80d5d541602c3313">izdelek</comp>
+            </collocation>
+            <collocation form="licitirati ceno" cluster="5" frequency="4" logDice="1.62">
+              <comp position="1" type="headword" sloleks="LE_12225416146d7c801a919e03e1e9884c">licitirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_69b40aa886598a40e47070a0270e9b28">ceno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="uspešno licitirati" cluster="1" frequency="4" logDice="0.39">
+              <comp position="1" type="collocate" sloleks="LE_1261ffe39150e62ae7fb3419f7a831f4">uspešno</comp>
+              <comp position="2" type="headword" sloleks="LE_12225416146d7c801a919e03e1e9884c">licitirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

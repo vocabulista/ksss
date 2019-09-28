@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="62531">kačar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">650</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="kačar iz sorica" cluster="1" frequency="15" logDice="11.53">
+              <comp position="1" type="headword" sloleks="LE_bf592bdc38aef9c4a00e4ad1562e6cd9">kačar</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">sorica</comp>
+            </collocation>
+            <collocation form="kačar iz Ljubljane" cluster="2" frequency="8" logDice="2.73">
+              <comp position="1" type="headword" sloleks="LE_bf592bdc38aef9c4a00e4ad1562e6cd9">kačar</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee11c4f6f901052d38c8252202477c9e">Ljubljane</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="šukrija Kačarja" cluster="1" frequency="5" logDice="10.72">
+              <comp position="1" type="collocate" sloleks="">šukrija</comp>
+              <comp position="2" type="headword" sloleks="LE_bf592bdc38aef9c4a00e4ad1562e6cd9">Kačarja</comp>
+            </collocation>
+            <collocation form="orel kačarja" cluster="2" frequency="14" logDice="10.54">
+              <comp position="1" type="collocate" sloleks="LE_2afa8a6502f63f82f20438f923852083">orel</comp>
+              <comp position="2" type="headword" sloleks="LE_bf592bdc38aef9c4a00e4ad1562e6cd9">kačarja</comp>
+            </collocation>
+            <collocation form="Miro Kačarja" cluster="3" frequency="34" logDice="7.98">
+              <comp position="1" type="collocate" sloleks="LE_122ceee654f0143a4032005d2e8afb57|LE_0c165d602b266ee807a16320a6557037">Miro</comp>
+              <comp position="2" type="headword" sloleks="LE_bf592bdc38aef9c4a00e4ad1562e6cd9">Kačarja</comp>
+            </collocation>
+            <collocation form="Silvo Kačarja" cluster="4" frequency="7" logDice="7.89">
+              <comp position="1" type="collocate" sloleks="LE_ff86528562724e08d4f97bee59fd18cd">Silvo</comp>
+              <comp position="2" type="headword" sloleks="LE_bf592bdc38aef9c4a00e4ad1562e6cd9">Kačarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

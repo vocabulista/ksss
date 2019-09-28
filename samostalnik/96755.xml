@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="96755">voljnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">588</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="voljnost lasa" cluster="1" frequency="8" logDice="4.76">
+              <comp position="1" type="headword" sloleks="LE_b94e6049cb056bb28426a5ce070a72c8">voljnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_efa5b979af023ef3a1f9a62889d9ad2d">lasa</comp>
+            </collocation>
+            <collocation form="voljnost kože" cluster="2" frequency="15" logDice="3.87">
+              <comp position="1" type="headword" sloleks="LE_b94e6049cb056bb28426a5ce070a72c8">voljnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_1204dd81b00363a398d5f5a84ff9f358">kože</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="vračati voljnost" cluster="1" frequency="15" logDice="6.0">
+              <comp position="1" type="collocate" sloleks="LE_7bf4acfee93ea47df2d908732298b41a">vračati</comp>
+              <comp position="2" type="headword" sloleks="LE_b94e6049cb056bb28426a5ce070a72c8">voljnost</comp>
+            </collocation>
+            <collocation form="ohranjati voljnost" cluster="2" frequency="12" logDice="3.83">
+              <comp position="1" type="collocate" sloleks="LE_c6e4f5c13bdd09debd93b4a9d1a03010">ohranjati</comp>
+              <comp position="2" type="headword" sloleks="LE_b94e6049cb056bb28426a5ce070a72c8">voljnost</comp>
+            </collocation>
+            <collocation form="dajati voljnost" cluster="3" frequency="12" logDice="2.06">
+              <comp position="1" type="collocate" sloleks="LE_d6d8f52b2b1192ce779222d2b9f85fbf">dajati</comp>
+              <comp position="2" type="headword" sloleks="LE_b94e6049cb056bb28426a5ce070a72c8">voljnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

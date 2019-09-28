@@ -1,0 +1,52 @@
+<entry>
+  <header>
+    <lexical_unit id="49663">bluzica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">415</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="bluzica s trakcem" cluster="1" frequency="5" logDice="10.07">
+              <comp position="1" type="headword" sloleks="LE_1e4ddcf75d2b4df26b3083939bc6b82e">bluzica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_951ac466da51e198d7f164e27c6b310e">trakcem</comp>
+            </collocation>
+            <collocation form="bluzica z rokavom" cluster="2" frequency="6" logDice="6.24">
+              <comp position="1" type="headword" sloleks="LE_1e4ddcf75d2b4df26b3083939bc6b82e">bluzica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_d219ad53151d1c270cb3ae30fe461fdb">rokavom</comp>
+            </collocation>
+            <collocation form="bluzica z vzorcem" cluster="3" frequency="4" logDice="5.24">
+              <comp position="1" type="headword" sloleks="LE_1e4ddcf75d2b4df26b3083939bc6b82e">bluzica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_5042c4687567fc53efbfd828e5440371">vzorcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="svilena bluzica" cluster="1" frequency="12" logDice="5.75">
+              <comp position="1" type="collocate" sloleks="LE_1c446859dfbd0920c99bee02329306bc|LE_d5e020d99c453382f6532279b8aeca5a">svilena</comp>
+              <comp position="2" type="headword" sloleks="LE_1e4ddcf75d2b4df26b3083939bc6b82e">bluzica</comp>
+            </collocation>
+            <collocation form="čipkasta bluzica" cluster="1" frequency="8" logDice="6.96">
+              <comp position="1" type="collocate" sloleks="LE_33aa615f276ae19bf222350d2476fbf3">čipkasta</comp>
+              <comp position="2" type="headword" sloleks="LE_1e4ddcf75d2b4df26b3083939bc6b82e">bluzica</comp>
+            </collocation>
+            <collocation form="prosojna bluzica" cluster="2" frequency="15" logDice="6.65">
+              <comp position="1" type="collocate" sloleks="LE_a242b86632d0742c911f945a25d80d08">prosojna</comp>
+              <comp position="2" type="headword" sloleks="LE_1e4ddcf75d2b4df26b3083939bc6b82e">bluzica</comp>
+            </collocation>
+            <collocation form="bela bluzica" cluster="3" frequency="29" logDice="1.87">
+              <comp position="1" type="collocate" sloleks="LE_50f9b0a6743feeba2fd5482919490dd5">bela</comp>
+              <comp position="2" type="headword" sloleks="LE_1e4ddcf75d2b4df26b3083939bc6b82e">bluzica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

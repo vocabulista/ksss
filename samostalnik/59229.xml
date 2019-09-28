@@ -1,0 +1,68 @@
+<entry>
+  <header>
+    <lexical_unit id="59229">hidra</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1819</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="hidra iz Medvod" cluster="1" frequency="11" logDice="8.19">
+              <comp position="1" type="headword" sloleks="LE_bc86bf8eb5859eeb26f1960b711fa6a4">hidra</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_317df74908e06d27b3691f3d7054a27b">Medvod</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="hidra elektrarne" cluster="1" frequency="31" logDice="5.7">
+              <comp position="1" type="headword" sloleks="LE_bc86bf8eb5859eeb26f1960b711fa6a4">hidra</comp>
+              <comp position="2" type="collocate" sloleks="LE_5f3bac6b04829934c6017f1a3b1c8368">elektrarne</comp>
+            </collocation>
+            <collocation form="hidra točke" cluster="2" frequency="10" logDice="2.03">
+              <comp position="1" type="headword" sloleks="LE_bc86bf8eb5859eeb26f1960b711fa6a4">hidra</comp>
+              <comp position="2" type="collocate" sloleks="LE_bb52716a00bd608f858395465b1c985a">točke</comp>
+            </collocation>
+            <collocation form="hidra energije" cluster="3" frequency="8" logDice="1.64">
+              <comp position="1" type="headword" sloleks="LE_bc86bf8eb5859eeb26f1960b711fa6a4">hidra</comp>
+              <comp position="2" type="collocate" sloleks="LE_a5b5cd7c325eb8bbda86e3d9bb680b09">energije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="voditi Hidro" cluster="1" frequency="13" logDice="2.36">
+              <comp position="1" type="collocate" sloleks="LE_b044981ae81c995865d0ad4c2cd7b62b">voditi</comp>
+              <comp position="2" type="headword" sloleks="LE_bc86bf8eb5859eeb26f1960b711fa6a4">Hidro</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="koprska hidra" cluster="1" frequency="30" logDice="4.17">
+              <comp position="1" type="collocate" sloleks="LE_5ab32c1d822444ab98d1282e2f90f36d">koprska</comp>
+              <comp position="2" type="headword" sloleks="LE_bc86bf8eb5859eeb26f1960b711fa6a4">hidra</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="boj s Hidro" cluster="1" frequency="5" logDice="3.62">
+              <comp position="1" type="collocate" sloleks="LE_a5073c99761fce3d65fbd43ccbe8351f">boj</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_bc86bf8eb5859eeb26f1960b711fa6a4">Hidro</comp>
+            </collocation>
+            <collocation form="hidra s točko" cluster="2" frequency="6" logDice="3.56">
+              <comp position="1" type="headword" sloleks="LE_bc86bf8eb5859eeb26f1960b711fa6a4">hidra</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_bb52716a00bd608f858395465b1c985a">točko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

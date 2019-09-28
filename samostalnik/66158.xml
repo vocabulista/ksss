@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="66158">kuli</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">656</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="rdeč kuli" cluster="1" frequency="15" logDice="1.23">
+              <comp position="1" type="collocate" sloleks="LE_f39824a0a0c94efb31b4fa9dc908ea0f">rdeč</comp>
+              <comp position="2" type="headword" sloleks="LE_96510cfcea90035929475c37492057c4">kuli</comp>
+            </collocation>
+            <collocation form="moder kuli" cluster="1" frequency="10" logDice="1.95">
+              <comp position="1" type="collocate" sloleks="LE_b77d374d59b54f808284a0dca42e2434">moder</comp>
+              <comp position="2" type="headword" sloleks="LE_96510cfcea90035929475c37492057c4">kuli</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ4">
+          <collocations>
+            <collocation form="baza v Kuli" cluster="1" frequency="4" logDice="9.75">
+              <comp position="1" type="collocate" sloleks="LE_93a7dc5be8f36d1f6d4a11e746674f40">baza</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_96510cfcea90035929475c37492057c4">Kuli</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

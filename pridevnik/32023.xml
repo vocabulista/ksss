@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="32023">raznoter</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">667</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="raznotera inteligentnost" cluster="1" frequency="7" logDice="7.55">
+              <comp position="1" type="headword" sloleks="LE_375175e864cea9bfb357e2169f963956">raznotera</comp>
+              <comp position="2" type="collocate" sloleks="LE_837890838da37260c0d3e0434e87ecfb">inteligentnost</comp>
+            </collocation>
+            <collocation form="raznotera oblika" cluster="2" frequency="26" logDice="2.06">
+              <comp position="1" type="headword" sloleks="LE_375175e864cea9bfb357e2169f963956">raznotera</comp>
+              <comp position="2" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">oblika</comp>
+            </collocation>
+            <collocation form="raznotero besedilo" cluster="3" frequency="7" logDice="1.74">
+              <comp position="1" type="headword" sloleks="LE_375175e864cea9bfb357e2169f963956">raznotero</comp>
+              <comp position="2" type="collocate" sloleks="LE_c2cf3f2b59c7730608bd4c4e20b22ee6">besedilo</comp>
+            </collocation>
+            <collocation form="raznotera sposobnost" cluster="4" frequency="6" logDice="1.68">
+              <comp position="1" type="headword" sloleks="LE_375175e864cea9bfb357e2169f963956">raznotera</comp>
+              <comp position="2" type="collocate" sloleks="LE_e99f5cd7345d772faca1731b231e7652">sposobnost</comp>
+            </collocation>
+            <collocation form="raznoter interes" cluster="5" frequency="9" logDice="1.43">
+              <comp position="1" type="headword" sloleks="LE_375175e864cea9bfb357e2169f963956">raznoter</comp>
+              <comp position="2" type="collocate" sloleks="LE_852d4c3cd2b3cd0cc21c88ad76a6c9a7">interes</comp>
+            </collocation>
+            <collocation form="raznoter pomen" cluster="5" frequency="6" logDice="0.91">
+              <comp position="1" type="headword" sloleks="LE_375175e864cea9bfb357e2169f963956">raznoter</comp>
+              <comp position="2" type="collocate" sloleks="LE_ef93d9cf9ab8a9c0f3eb6d73736a9dba">pomen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="raznoter in/ali številen" cluster="1" frequency="5" logDice="6.11">
+              <comp position="3" type="headword" sloleks="LE_375175e864cea9bfb357e2169f963956">raznoter</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_4f31fb911f8a68938dce145d431affa8">številen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

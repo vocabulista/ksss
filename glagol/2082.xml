@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="2082">klobasati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">678</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="klobasati v gostilni" cluster="1" frequency="4" logDice="4.6">
+              <comp position="1" type="headword" sloleks="LE_755b12b3af1eb221d75db686f94ea16d">klobasati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_c768718679304d30d9dda056a08c37e4">gostilni</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz SBZ2">
+          <collocations>
+            <collocation form="ne klobasati neumnosti" cluster="1" frequency="21" logDice="8.99">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_755b12b3af1eb221d75db686f94ea16d">klobasati</comp>
+              <comp position="3" type="collocate" sloleks="LE_6010639c7fa329879b747903c97ea28a">neumnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="nekaj klobasati" cluster="1" frequency="10" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_eb511b2a8ca41b887db9b389e9bd0591">nekaj</comp>
+              <comp position="2" type="headword" sloleks="LE_755b12b3af1eb221d75db686f94ea16d">klobasati</comp>
+            </collocation>
+            <collocation form="kaj klobasati" cluster="2" frequency="12" logDice="0.51">
+              <comp position="1" type="collocate" sloleks="LE_f9fa365147cf5bfdb5034944905ad608">kaj</comp>
+              <comp position="2" type="headword" sloleks="LE_755b12b3af1eb221d75db686f94ea16d">klobasati</comp>
+            </collocation>
+            <collocation form="sedaj klobasati" cluster="3" frequency="4" logDice="0.06">
+              <comp position="1" type="collocate" sloleks="LE_e50eb5a17c98c735c9fb6d8e08cf2787">sedaj</comp>
+              <comp position="2" type="headword" sloleks="LE_755b12b3af1eb221d75db686f94ea16d">klobasati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

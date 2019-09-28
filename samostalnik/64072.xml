@@ -1,0 +1,64 @@
+<entry>
+  <header>
+    <lexical_unit id="64072">koc</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">978</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="Koc holdinga" cluster="1" frequency="8" logDice="3.92">
+              <comp position="1" type="headword" sloleks="LE_31abfa47ffe3480670f505ae745fc452">Koc</comp>
+              <comp position="2" type="collocate" sloleks="LE_a6f518e95d3cd9f1d5ec4273cfc46dfa">holdinga</comp>
+            </collocation>
+            <collocation form="foto koca" cluster="2" frequency="7" logDice="5.1">
+              <comp position="1" type="collocate" sloleks="LE_0b18b6641b8a16c2eb9d18952ac233c6">foto</comp>
+              <comp position="2" type="headword" sloleks="LE_31abfa47ffe3480670f505ae745fc452">koca</comp>
+            </collocation>
+            <collocation form="Janez Koca" cluster="3" frequency="7" logDice="2.18">
+              <comp position="1" type="collocate" sloleks="LE_531603d00c9e2650d9065066af804665">Janez</comp>
+              <comp position="2" type="headword" sloleks="LE_31abfa47ffe3480670f505ae745fc452">Koca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ5">
+          <collocations>
+            <collocation form="dodati na kocu" cluster="1" frequency="4" logDice="5.78">
+              <comp position="1" type="collocate" sloleks="LE_c650260a47b57510d011b500dfe60df5">dodati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_31abfa47ffe3480670f505ae745fc452">kocu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="pokriti s kocem" cluster="1" frequency="6" logDice="4.45">
+              <comp position="1" type="collocate" sloleks="LE_cc5d10991fd3613353c3a942b21bc03a">pokriti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_31abfa47ffe3480670f505ae745fc452">kocem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="celjski koc" cluster="1" frequency="27" logDice="2.69">
+              <comp position="1" type="collocate" sloleks="LE_e6cc1c417aac41b99f591e7e730d043e">celjski</comp>
+              <comp position="2" type="headword" sloleks="LE_31abfa47ffe3480670f505ae745fc452">koc</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 z SBZ6">
+          <collocations>
+            <collocation form="pokrit s kocem" cluster="1" frequency="6" logDice="4.85">
+              <comp position="1" type="collocate" sloleks="LE_9303431d9a42a3e1fccbcf431c0cb25c">pokrit</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_31abfa47ffe3480670f505ae745fc452">kocem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

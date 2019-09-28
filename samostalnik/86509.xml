@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="86509">ročnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">666</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Ročnik iz Podhom" cluster="1" frequency="9" logDice="11.88">
+              <comp position="1" type="headword" sloleks="LE_25af9adf68140834381d3e651ed16608">Ročnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">Podhom</comp>
+            </collocation>
+            <collocation form="ročnik iz zavodnja" cluster="2" frequency="4" logDice="11.04">
+              <comp position="1" type="headword" sloleks="LE_25af9adf68140834381d3e651ed16608">ročnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">zavodnja</comp>
+            </collocation>
+            <collocation form="ROČNIK iz Celja" cluster="3" frequency="4" logDice="3.08">
+              <comp position="1" type="headword" sloleks="LE_25af9adf68140834381d3e651ed16608">ROČNIK</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_aad3dc2c16f27182109d44b8e52beb04">Celja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="ročnik za kladivo" cluster="1" frequency="5" logDice="11.96">
+              <comp position="1" type="headword" sloleks="LE_25af9adf68140834381d3e651ed16608">ročnik</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_68254fba2a556df9426dd7e637ccda5a">kladivo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Tomaž Ročnika" cluster="1" frequency="46" logDice="7.31">
+              <comp position="1" type="collocate" sloleks="LE_5f65349971b303f168c4f176ed7311f8">Tomaž</comp>
+              <comp position="2" type="headword" sloleks="LE_25af9adf68140834381d3e651ed16608">Ročnika</comp>
+            </collocation>
+            <collocation form="Jože Ročnika" cluster="2" frequency="10" logDice="3.98">
+              <comp position="1" type="collocate" sloleks="LE_741e8876a1d6eef920624d9ae2e7cacf">Jože</comp>
+              <comp position="2" type="headword" sloleks="LE_25af9adf68140834381d3e651ed16608">Ročnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

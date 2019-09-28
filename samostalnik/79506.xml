@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="79506">poka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">963</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 od sbz2">
+          <collocations>
+            <collocation form="poka od smeha" cluster="1" frequency="8" logDice="9.72">
+              <comp position="1" type="headword" sloleks="LE_fda78d88aea8a2309e976b148b4d365c">poka</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_3c4ec3ec1188a2f4a5fa0b066496c90d">smeha</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="poka Howarda" cluster="1" frequency="13" logDice="8.8">
+              <comp position="1" type="headword" sloleks="LE_fda78d88aea8a2309e976b148b4d365c">poka</comp>
+              <comp position="2" type="collocate" sloleks="LE_906d64bfe088ecfb17b77cd31ddf7c54|LE_47cd0c6fc7f96eb76ac3c92b4187021a">Howarda</comp>
+            </collocation>
+            <collocation form="poka petarde" cluster="2" frequency="8" logDice="7.18">
+              <comp position="1" type="headword" sloleks="LE_fda78d88aea8a2309e976b148b4d365c">poka</comp>
+              <comp position="2" type="collocate" sloleks="LE_c8d099f6d1cc5e6a28d249453c6b7bf7">petarde</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="glasna poka" cluster="1" frequency="8" logDice="3.54">
+              <comp position="1" type="collocate" sloleks="LE_1d470cd08ec1c95fd4893b42c8f172a6">glasna</comp>
+              <comp position="2" type="headword" sloleks="LE_fda78d88aea8a2309e976b148b4d365c">poka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        </gramrels>
+    </sense>
+  </body>
+</entry>

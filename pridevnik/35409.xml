@@ -1,0 +1,29 @@
+<entry>
+  <header>
+    <lexical_unit id="35409">sudetski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">688</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="sudetski Nemec" cluster="1" frequency="613" logDice="10.95">
+              <comp position="1" type="headword" sloleks="LE_d136bd345ece185ccc5e952a6262d570">sudetski</comp>
+              <comp position="2" type="collocate" sloleks="LE_e53113c5e01a1477e4fa6ed35dcd2d3f|LE_822adac046daffef5bff9b1c21aff2ea">Nemec</comp>
+            </collocation>
+            <collocation form="sudetska Nemka" cluster="2" frequency="8" logDice="7.04">
+              <comp position="1" type="headword" sloleks="LE_d136bd345ece185ccc5e952a6262d570">sudetska</comp>
+              <comp position="2" type="collocate" sloleks="LE_610d7d9d8d89b2448e3436d47bb27732">Nemka</comp>
+            </collocation>
+            <collocation form="sudetska kriza" cluster="3" frequency="12" logDice="1.87">
+              <comp position="1" type="headword" sloleks="LE_d136bd345ece185ccc5e952a6262d570">sudetska</comp>
+              <comp position="2" type="collocate" sloleks="LE_629f24cea35bb0632bed89b6a9abe142">kriza</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

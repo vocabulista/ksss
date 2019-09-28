@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="91396">steklovina</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">607</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="razbita steklovina" cluster="1" frequency="58" logDice="7.86">
+              <comp position="1" type="collocate" sloleks="LE_f29f7f339cf22672f8656786c3c50211">razbita</comp>
+              <comp position="2" type="headword" sloleks="LE_2e80408029ef2efa40e5451c3158b4af">steklovina</comp>
+            </collocation>
+            <collocation form="očesna steklovina" cluster="2" frequency="14" logDice="5.7">
+              <comp position="1" type="collocate" sloleks="LE_2c49ba74dc304e1fe8e83cf49e930b83">očesna</comp>
+              <comp position="2" type="headword" sloleks="LE_2e80408029ef2efa40e5451c3158b4af">steklovina</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="odstop steklovine" cluster="1" frequency="7" logDice="4.12">
+              <comp position="1" type="collocate" sloleks="LE_8b569b120798c38adad8909b43957b6a">odstop</comp>
+              <comp position="2" type="headword" sloleks="LE_2e80408029ef2efa40e5451c3158b4af">steklovine</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="motnjava v steklovini" cluster="1" frequency="6" logDice="12.45">
+              <comp position="1" type="collocate" sloleks="LE_52a0be57ec318f8c657bae11fed817e9">motnjava</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_2e80408029ef2efa40e5451c3158b4af">steklovini</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="zabojnik za steklovino" cluster="1" frequency="4" logDice="5.46">
+              <comp position="1" type="collocate" sloleks="LE_0365b9e07a008cb778e875f7f0661778">zabojnik</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_2e80408029ef2efa40e5451c3158b4af">steklovino</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

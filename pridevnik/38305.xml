@@ -1,0 +1,61 @@
+<entry>
+  <header>
+    <lexical_unit id="38305">zadnjičen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1158</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="zadnjičen in stegenski" cluster="1" frequency="50" logDice="12.62">
+              <comp position="1" type="headword" sloleks="LE_6ae024a57c2c155116b2ebfd4866175d">zadnjičen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_f158d5ef43448ac24e767adcbbc7c4eb">stegenski</comp>
+            </collocation>
+            <collocation form="zadnjičen in/ali trebušen" cluster="2" frequency="35" logDice="10.24">
+              <comp position="3" type="headword" sloleks="LE_6ae024a57c2c155116b2ebfd4866175d">zadnjičen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_de9d5fa0a1477022e665e808782a0227">trebušen</comp>
+              </collocation>
+            <collocation form="zadnjičen in/ali hrbten" cluster="2" frequency="13" logDice="8.76">
+              <comp position="3" type="headword" sloleks="LE_6ae024a57c2c155116b2ebfd4866175d">zadnjičen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_902ae9e243eb11075b611a78109656f7">hrbten</comp>
+              </collocation>
+            <collocation form="zadnjičen in/ali nožen" cluster="3" frequency="9" logDice="9.69">
+              <comp position="3" type="headword" sloleks="LE_6ae024a57c2c155116b2ebfd4866175d">zadnjičen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_a88dd05051ca550361237190033d9672">nožen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="zadnjična odprtina" cluster="1" frequency="486" logDice="10.83">
+              <comp position="1" type="headword" sloleks="LE_6ae024a57c2c155116b2ebfd4866175d">zadnjična</comp>
+              <comp position="2" type="collocate" sloleks="LE_d4dfd4f40493c06369fd629ca5fe7661">odprtina</comp>
+            </collocation>
+            <collocation form="zadnjična mišica" cluster="2" frequency="476" logDice="9.15">
+              <comp position="1" type="headword" sloleks="LE_6ae024a57c2c155116b2ebfd4866175d">zadnjična</comp>
+              <comp position="2" type="collocate" sloleks="LE_8cb637c99a79db8dda2b76102818f9be">mišica</comp>
+            </collocation>
+            <collocation form="zadnjična žleza" cluster="3" frequency="6" logDice="5.23">
+              <comp position="1" type="headword" sloleks="LE_6ae024a57c2c155116b2ebfd4866175d">zadnjična</comp>
+              <comp position="2" type="collocate" sloleks="LE_0e1fd6775a8c2ca38e3391e3b195c455">žleza</comp>
+            </collocation>
+            <collocation form="zadnjičen predel" cluster="4" frequency="17" logDice="4.3">
+              <comp position="1" type="headword" sloleks="LE_6ae024a57c2c155116b2ebfd4866175d">zadnjičen</comp>
+              <comp position="2" type="collocate" sloleks="LE_df08c52b2fb80ff0bf36fdd23050776e">predel</comp>
+            </collocation>
+            <collocation form="zadnjičen kanal" cluster="5" frequency="10" logDice="3.69">
+              <comp position="1" type="headword" sloleks="LE_6ae024a57c2c155116b2ebfd4866175d">zadnjičen</comp>
+              <comp position="2" type="collocate" sloleks="LE_28fe43c83c635f91272bda6600d29072">kanal</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

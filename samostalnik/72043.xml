@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="72043">negibnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">440</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="negibnost telesa" cluster="1" frequency="8" logDice="1.9">
+              <comp position="1" type="headword" sloleks="LE_12c271f2bca20137b1a1015b989de12d">negibnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_79b86615dd52e06799792917a906328a">telesa</comp>
+            </collocation>
+            <collocation form="trenutek negibnosti" cluster="2" frequency="8" logDice="3.1">
+              <comp position="1" type="collocate" sloleks="LE_20e42f7c3b00f5a4a38e89957060a1f2">trenutek</comp>
+              <comp position="2" type="headword" sloleks="LE_12c271f2bca20137b1a1015b989de12d">negibnosti</comp>
+            </collocation>
+            <collocation form="stanje negibnosti" cluster="3" frequency="5" logDice="1.58">
+              <comp position="1" type="collocate" sloleks="LE_2ad4e1571957d685096e1a60acee4119">stanje</comp>
+              <comp position="2" type="headword" sloleks="LE_12c271f2bca20137b1a1015b989de12d">negibnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="popolna negibnost" cluster="1" frequency="19" logDice="2.33">
+              <comp position="1" type="collocate" sloleks="LE_814a2c9c333ef1e9cb481395c05b7346">popolna</comp>
+              <comp position="2" type="headword" sloleks="LE_12c271f2bca20137b1a1015b989de12d">negibnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

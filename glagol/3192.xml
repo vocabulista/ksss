@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="3192">nucati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">722</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="nucati denar" cluster="1" frequency="5" logDice="0.71">
+              <comp position="1" type="headword" sloleks="LE_2a958491bc0291c34803438905609dc2">nucati</comp>
+              <comp position="2" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="nč nucati" cluster="1" frequency="6" logDice="6.46">
+              <comp position="1" type="collocate" sloleks="">nč</comp>
+              <comp position="2" type="headword" sloleks="LE_2a958491bc0291c34803438905609dc2">nucati</comp>
+            </collocation>
+            <collocation form="kaj nucati" cluster="2" frequency="52" logDice="2.63">
+              <comp position="1" type="collocate" sloleks="LE_f9fa365147cf5bfdb5034944905ad608">kaj</comp>
+              <comp position="2" type="headword" sloleks="LE_2a958491bc0291c34803438905609dc2">nucati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

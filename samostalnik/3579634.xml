@@ -1,0 +1,62 @@
+<entry>
+  <header>
+    <lexical_unit id="3579634">shuttle</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 v sbz4">
+          <collocations>
+            <collocation form="shuttle v vesolje" cluster="1" frequency="6" logDice="6.19">
+              <comp position="1" type="headword" sloleks="">shuttle</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee21aa1513e80dc03d6435bfd36d32ad">vesolje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="vesoljski shuttle" cluster="1" frequency="12" logDice="3.64">
+              <comp position="1" type="collocate" sloleks="LE_6cd3654a0d38790dc76b6b0549057a48">vesoljski</comp>
+              <comp position="2" type="headword" sloleks="">shuttle</comp>
+            </collocation>
+            <collocation form="brezplačen shuttle" cluster="2" frequency="8" logDice="1.89">
+              <comp position="1" type="collocate" sloleks="LE_f13c5bc96c18cc8717178cb956a5d153">brezplačen</comp>
+              <comp position="2" type="headword" sloleks="">shuttle</comp>
+            </collocation>
+            <collocation form="imenovan shuttle" cluster="3" frequency="8" logDice="0.9">
+              <comp position="1" type="collocate" sloleks="LE_48445856b1ad858d1b8600c1111b730c">imenovan</comp>
+              <comp position="2" type="headword" sloleks="">shuttle</comp>
+            </collocation>
+            <collocation form="ameriški shuttle" cluster="4" frequency="25" logDice="0.68">
+              <comp position="1" type="collocate" sloleks="LE_c02b8fa5427c488774a5c66efd9beafc">ameriški</comp>
+              <comp position="2" type="headword" sloleks="">shuttle</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="space shuttle" cluster="1" frequency="56" logDice="10.88">
+              <comp position="1" type="collocate" sloleks="">space</comp>
+              <comp position="2" type="headword" sloleks="">shuttle</comp>
+            </collocation>
+            <collocation form="polet shuttle" cluster="2" frequency="13" logDice="6.82">
+              <comp position="1" type="collocate" sloleks="LE_5e68bec3ae56ffaeb382409ca238411f">polet</comp>
+              <comp position="2" type="headword" sloleks="">shuttle</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="polet s shuttle" cluster="1" frequency="6" logDice="6.48">
+              <comp position="1" type="collocate" sloleks="LE_5e68bec3ae56ffaeb382409ca238411f">polet</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="">shuttle</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

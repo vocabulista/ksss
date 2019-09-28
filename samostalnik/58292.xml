@@ -1,0 +1,76 @@
+<entry>
+  <header>
+    <lexical_unit id="58292">gradient</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">481</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Gradient iz orodjarne" cluster="1" frequency="4" logDice="12.41">
+              <comp position="1" type="headword" sloleks="LE_244676b5cb9766bce142dee63addf9d7">Gradient</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_a48324c4a37f1fda086e0ee0c325c1d2">orodjarne</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="gradient polja" cluster="1" frequency="9" logDice="4.53">
+              <comp position="1" type="headword" sloleks="LE_244676b5cb9766bce142dee63addf9d7">gradient</comp>
+              <comp position="2" type="collocate" sloleks="LE_3ea4193f7002a8cf5ffc93d3832da36c">polja</comp>
+            </collocation>
+            <collocation form="smer gradienta" cluster="2" frequency="13" logDice="3.23">
+              <comp position="1" type="collocate" sloleks="LE_85882917927d0a985cbee54691f45223">smer</comp>
+              <comp position="2" type="headword" sloleks="LE_244676b5cb9766bce142dee63addf9d7">gradienta</comp>
+            </collocation>
+            <collocation form="posledica gradienta" cluster="3" frequency="6" logDice="0.53">
+              <comp position="1" type="collocate" sloleks="LE_9e94e198ec2c32de37b2bd7b6e54af2e">posledica</comp>
+              <comp position="2" type="headword" sloleks="LE_244676b5cb9766bce142dee63addf9d7">gradienta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="gradient za zrak" cluster="1" frequency="6" logDice="7.67">
+              <comp position="1" type="headword" sloleks="LE_244676b5cb9766bce142dee63addf9d7">gradient</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_d3b9b2b5ce24a4cb7da4e0e9da2b1348">zrak</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="protonski gradient" cluster="1" frequency="40" logDice="11.01">
+              <comp position="1" type="collocate" sloleks="LE_36ce6fa4990084083a118e2e82a11d6c">protonski</comp>
+              <comp position="2" type="headword" sloleks="LE_244676b5cb9766bce142dee63addf9d7">gradient</comp>
+            </collocation>
+            <collocation form="adiabaten gradient" cluster="2" frequency="9" logDice="9.74">
+              <comp position="1" type="collocate" sloleks="LE_7a80b6f2cf19d7fed98c57860e631e16">adiabaten</comp>
+              <comp position="2" type="headword" sloleks="LE_244676b5cb9766bce142dee63addf9d7">gradient</comp>
+            </collocation>
+            <collocation form="temperaturen gradient" cluster="3" frequency="72" logDice="8.71">
+              <comp position="1" type="collocate" sloleks="LE_3ca244a3f0c27e531bb0fdd0e217c41d">temperaturen</comp>
+              <comp position="2" type="headword" sloleks="LE_244676b5cb9766bce142dee63addf9d7">gradient</comp>
+            </collocation>
+            <collocation form="koncentracijski gradient" cluster="4" frequency="48" logDice="7.86">
+              <comp position="1" type="collocate" sloleks="LE_3f25fcd6b0d129c78a34df1b94eb7247">koncentracijski</comp>
+              <comp position="2" type="headword" sloleks="LE_244676b5cb9766bce142dee63addf9d7">gradient</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="separator z gradientom" cluster="1" frequency="4" logDice="12.91">
+              <comp position="1" type="collocate" sloleks="">separator</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_244676b5cb9766bce142dee63addf9d7">gradientom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

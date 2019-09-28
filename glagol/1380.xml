@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="1380">ihteti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">412</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="ihteti v blazino" cluster="1" frequency="4" logDice="9.5">
+              <comp position="1" type="headword" sloleks="LE_43fddd91997d69e1bdd1c831a5e8e4be">ihteti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_ac54a720bb85f8ec5fd1e9eabe952401">blazino</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="neutolažljivo ihteti" cluster="1" frequency="7" logDice="9.01">
+              <comp position="1" type="collocate" sloleks="LE_5428339c252403a32fe904e6b8aecea4">neutolažljivo</comp>
+              <comp position="2" type="headword" sloleks="LE_43fddd91997d69e1bdd1c831a5e8e4be">ihteti</comp>
+            </collocation>
+            <collocation form="krčevito ihteti" cluster="2" frequency="4" logDice="5.93">
+              <comp position="1" type="collocate" sloleks="LE_20736a6dd6cdf9cab43f76006d35dd02">krčevito</comp>
+              <comp position="2" type="headword" sloleks="LE_43fddd91997d69e1bdd1c831a5e8e4be">ihteti</comp>
+            </collocation>
+            <collocation form="tiho ihteti" cluster="3" frequency="17" logDice="5.45">
+              <comp position="1" type="collocate" sloleks="LE_6caaa1caafbcefef7dcc792f954c5913">tiho</comp>
+              <comp position="2" type="headword" sloleks="LE_43fddd91997d69e1bdd1c831a5e8e4be">ihteti</comp>
+            </collocation>
+            <collocation form="glasno ihteti" cluster="4" frequency="6" logDice="3.24">
+              <comp position="1" type="collocate" sloleks="LE_8d32e8ffef5c2d930893f51f039b425a">glasno</comp>
+              <comp position="2" type="headword" sloleks="LE_43fddd91997d69e1bdd1c831a5e8e4be">ihteti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

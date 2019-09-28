@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="93879">transkripcija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">537</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="transkripcija govora" cluster="1" frequency="17" logDice="5.24">
+              <comp position="1" type="headword" sloleks="LE_9c8c47151184a8f595192133cd41b7b4">transkripcija</comp>
+              <comp position="2" type="collocate" sloleks="LE_62db55b79816c90308de7c02140fb3d5">govora</comp>
+            </collocation>
+            <collocation form="transkripcija imena" cluster="2" frequency="8" logDice="3.23">
+              <comp position="1" type="headword" sloleks="LE_9c8c47151184a8f595192133cd41b7b4">transkripcija</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">imena</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="transkripcija za klavir" cluster="1" frequency="8" logDice="7.54">
+              <comp position="1" type="headword" sloleks="LE_9c8c47151184a8f595192133cd41b7b4">transkripcija</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_ba021819c15c66cabd2836d38bd19480">klavir</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za transkripcijo" cluster="1" frequency="7" logDice="-0.79">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_9c8c47151184a8f595192133cd41b7b4">transkripcijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="fonetična transkripcija" cluster="1" frequency="24" logDice="10.12">
+              <comp position="1" type="collocate" sloleks="LE_9d63780df4c171fdb49e6358e93cc63d">fonetična</comp>
+              <comp position="2" type="headword" sloleks="LE_9c8c47151184a8f595192133cd41b7b4">transkripcija</comp>
+            </collocation>
+            <collocation form="angleška transkripcija" cluster="2" frequency="13" logDice="1.84">
+              <comp position="1" type="collocate" sloleks="LE_8b840258abd9241edccf9d7612498a6d">angleška</comp>
+              <comp position="2" type="headword" sloleks="LE_9c8c47151184a8f595192133cd41b7b4">transkripcija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

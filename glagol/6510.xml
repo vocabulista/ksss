@@ -1,0 +1,72 @@
+<entry>
+  <header>
+    <lexical_unit id="6510">premlatiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">558</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ do sbz2">
+          <collocations>
+            <collocation form="premlatiti do krvi" cluster="1" frequency="8" logDice="8.98">
+              <comp position="1" type="headword" sloleks="LE_8ae4383d17f28be4da6cdf5a6292786f">premlatiti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_3f38ba2d1d9b5ab220cbf69f18564673">krvi</comp>
+            </collocation>
+            <collocation form="premlatiti do nezavesti" cluster="2" frequency="7" logDice="8.28">
+              <comp position="1" type="headword" sloleks="LE_8ae4383d17f28be4da6cdf5a6292786f">premlatiti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_9ea0779bfeabba2afcbac5c9f5ba443d">nezavesti</comp>
+            </collocation>
+            <collocation form="premlatiti do smrti" cluster="3" frequency="12" logDice="5.54">
+              <comp position="1" type="headword" sloleks="LE_8ae4383d17f28be4da6cdf5a6292786f">premlatiti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_7ccde25b582fa3323faaf4d1541c4793">smrti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="premlatiti nasprotnika" cluster="1" frequency="5" logDice="4.52">
+              <comp position="1" type="headword" sloleks="LE_8ae4383d17f28be4da6cdf5a6292786f">premlatiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_09d7e4752e896fdc530a59483161bb43">nasprotnika</comp>
+            </collocation>
+            <collocation form="premlatiti ženo" cluster="2" frequency="6" logDice="3.79">
+              <comp position="1" type="headword" sloleks="LE_8ae4383d17f28be4da6cdf5a6292786f">premlatiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_412b2e672422f341e6f8b4b4f03f0f24">ženo</comp>
+            </collocation>
+            <collocation form="premlatiti otroka" cluster="3" frequency="4" logDice="0.87">
+              <comp position="1" type="headword" sloleks="LE_8ae4383d17f28be4da6cdf5a6292786f">premlatiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otroka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="neusmiljeno premlatiti" cluster="1" frequency="7" logDice="5.3">
+              <comp position="1" type="collocate" sloleks="LE_1643d10750162ec4499e422516fb8ef2">neusmiljeno</comp>
+              <comp position="2" type="headword" sloleks="LE_8ae4383d17f28be4da6cdf5a6292786f">premlatiti</comp>
+            </collocation>
+            <collocation form="pošteno premlatiti" cluster="2" frequency="23" logDice="4.84">
+              <comp position="1" type="collocate" sloleks="LE_8c19143f579e4e381f2632e636a1db22">pošteno</comp>
+              <comp position="2" type="headword" sloleks="LE_8ae4383d17f28be4da6cdf5a6292786f">premlatiti</comp>
+            </collocation>
+            <collocation form="dodobra premlatiti" cluster="3" frequency="4" logDice="2.66">
+              <comp position="1" type="collocate" sloleks="LE_3c8bd34eaaa54cedf37e03f66d875dd3">dodobra</comp>
+              <comp position="2" type="headword" sloleks="LE_8ae4383d17f28be4da6cdf5a6292786f">premlatiti</comp>
+            </collocation>
+            <collocation form="hudo premlatiti" cluster="4" frequency="4" logDice="1.53">
+              <comp position="1" type="collocate" sloleks="LE_feb425a4578d9be162c4327513777270">hudo</comp>
+              <comp position="2" type="headword" sloleks="LE_8ae4383d17f28be4da6cdf5a6292786f">premlatiti</comp>
+            </collocation>
+            <collocation form="dobro premlatiti" cluster="5" frequency="16" logDice="0.12">
+              <comp position="1" type="collocate" sloleks="LE_43e8da3e283609f4de7cfdb7a3e3a938">dobro</comp>
+              <comp position="2" type="headword" sloleks="LE_8ae4383d17f28be4da6cdf5a6292786f">premlatiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

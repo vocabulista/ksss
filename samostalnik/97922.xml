@@ -1,0 +1,48 @@
+<entry>
+  <header>
+    <lexical_unit id="97922">zaklon</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">585</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 pred sbz6">
+          <collocations>
+            <collocation form="zaklon pred pogledom" cluster="1" frequency="6" logDice="8.74">
+              <comp position="1" type="headword" sloleks="LE_a3c01632adff5277c1f0bd134335be7d">zaklon</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_456820bc1f399479d902f190585f0938">pogledom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="skriti v zaklon" cluster="1" frequency="5" logDice="5.64">
+              <comp position="1" type="collocate" sloleks="LE_e9b33d8fc615bcd284adc979bef7e388">skriti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_a3c01632adff5277c1f0bd134335be7d">zaklon</comp>
+            </collocation>
+            <collocation form="vreči v zaklon" cluster="2" frequency="6" logDice="4.11">
+              <comp position="1" type="collocate" sloleks="LE_956396f0e22de7b8d0b03eab61d2f9f8">vreči</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_a3c01632adff5277c1f0bd134335be7d">zaklon</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="zasilen zaklon" cluster="1" frequency="8" logDice="5.55">
+              <comp position="1" type="collocate" sloleks="LE_c43834049760a52824ee6d38f38d546f">zasilen</comp>
+              <comp position="2" type="headword" sloleks="LE_a3c01632adff5277c1f0bd134335be7d">zaklon</comp>
+            </collocation>
+            <collocation form="varen zaklon" cluster="2" frequency="11" logDice="2.33">
+              <comp position="1" type="collocate" sloleks="LE_bc8c5dc2994bc436e522e289e5f32b43">varen</comp>
+              <comp position="2" type="headword" sloleks="LE_a3c01632adff5277c1f0bd134335be7d">zaklon</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

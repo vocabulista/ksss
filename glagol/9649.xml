@@ -1,0 +1,62 @@
+<entry>
+  <header>
+    <lexical_unit id="9649">zaklepetati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">442</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ med sbz6">
+          <collocations>
+            <collocation form="zaklepetati med vajo" cluster="1" frequency="5" logDice="7.5">
+              <comp position="1" type="headword" sloleks="LE_e4fc5017fe4f5f3de4e3a1c1a44e7c26">zaklepetati</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_6e477d94a905db5ae833309ca1b97dc6">vajo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="zaklepetati s prijateljico" cluster="1" frequency="13" logDice="6.28">
+              <comp position="1" type="headword" sloleks="LE_e4fc5017fe4f5f3de4e3a1c1a44e7c26">zaklepetati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_0cbb10c099e74643ad9a7583bc858364">prijateljico</comp>
+            </collocation>
+            <collocation form="zaklepetati z domačinom" cluster="2" frequency="4" logDice="6.25">
+              <comp position="1" type="headword" sloleks="LE_e4fc5017fe4f5f3de4e3a1c1a44e7c26">zaklepetati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_486b54db248a6938aef66b200ab2c62f">domačinom</comp>
+            </collocation>
+            <collocation form="zaklepetati s sosedom" cluster="3" frequency="4" logDice="5.61">
+              <comp position="1" type="headword" sloleks="LE_e4fc5017fe4f5f3de4e3a1c1a44e7c26">zaklepetati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_f53bebed03a5c424ad722f12674ba7e8">sosedom</comp>
+            </collocation>
+            <collocation form="zaklepetati s prijateljem" cluster="4" frequency="9" logDice="4.08">
+              <comp position="1" type="headword" sloleks="LE_e4fc5017fe4f5f3de4e3a1c1a44e7c26">zaklepetati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_04d85f43e6fdbc81d853e26c5158132f">prijateljem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="prijetno zaklepetati" cluster="1" frequency="5" logDice="3.45">
+              <comp position="1" type="collocate" sloleks="LE_dfb3e9501956997e7012a08d84e50bfb">prijetno</comp>
+              <comp position="2" type="headword" sloleks="LE_e4fc5017fe4f5f3de4e3a1c1a44e7c26">zaklepetati</comp>
+            </collocation>
+            <collocation form="preveč zaklepetati" cluster="2" frequency="4" logDice="1.02">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_e4fc5017fe4f5f3de4e3a1c1a44e7c26">zaklepetati</comp>
+            </collocation>
+            <collocation form="malo zaklepetati" cluster="3" frequency="8" logDice="0.98">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_e4fc5017fe4f5f3de4e3a1c1a44e7c26">zaklepetati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

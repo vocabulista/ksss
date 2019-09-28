@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="75010">okorelost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">412</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="okorelost uda" cluster="1" frequency="10" logDice="7.46">
+              <comp position="1" type="headword" sloleks="LE_8bd62a82d157720284f36f0f4f4f9622">okorelost</comp>
+              <comp position="2" type="collocate" sloleks="LE_bc5a07065deeb354c1d8859d19394785">uda</comp>
+            </collocation>
+            <collocation form="okorelost sklepa" cluster="2" frequency="45" logDice="5.26">
+              <comp position="1" type="headword" sloleks="LE_8bd62a82d157720284f36f0f4f4f9622">okorelost</comp>
+              <comp position="2" type="collocate" sloleks="LE_deb91e24f82bff5cd331c1eaac56c861">sklepa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="mišična okorelost" cluster="1" frequency="20" logDice="5.59">
+              <comp position="1" type="collocate" sloleks="LE_3450ce481484037fb036a26ba72f972b">mišična</comp>
+              <comp position="2" type="headword" sloleks="LE_8bd62a82d157720284f36f0f4f4f9622">okorelost</comp>
+            </collocation>
+            <collocation form="jutranja okorelost" cluster="2" frequency="65" logDice="5.07">
+              <comp position="1" type="collocate" sloleks="LE_2dc5e796c81a27da075da675d9152d02">jutranja</comp>
+              <comp position="2" type="headword" sloleks="LE_8bd62a82d157720284f36f0f4f4f9622">okorelost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

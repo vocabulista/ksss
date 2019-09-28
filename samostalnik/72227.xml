@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="72227">nemarnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">765</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za nemarnost" cluster="1" frequency="8" logDice="-0.6">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_912e3c288357f32ed831d9d7f2c72cb9">nemarnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="birokratska nemarnost" cluster="1" frequency="8" logDice="4.93">
+              <comp position="1" type="collocate" sloleks="LE_633c444471a9d2067911397cd727f376">birokratska</comp>
+              <comp position="2" type="headword" sloleks="LE_912e3c288357f32ed831d9d7f2c72cb9">nemarnost</comp>
+            </collocation>
+            <collocation form="jezikovna nemarnost" cluster="2" frequency="11" logDice="3.59">
+              <comp position="1" type="collocate" sloleks="LE_1796465a1350d4c04d6c4a5de9a95fa2">jezikovna</comp>
+              <comp position="2" type="headword" sloleks="LE_912e3c288357f32ed831d9d7f2c72cb9">nemarnost</comp>
+            </collocation>
+            <collocation form="človeška nemarnost" cluster="3" frequency="26" logDice="2.95">
+              <comp position="1" type="collocate" sloleks="LE_fe1157a7f633de7dbc0311e392106972">človeška</comp>
+              <comp position="2" type="headword" sloleks="LE_912e3c288357f32ed831d9d7f2c72cb9">nemarnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="posledica nemarnosti" cluster="1" frequency="14" logDice="1.76">
+              <comp position="1" type="collocate" sloleks="LE_9e94e198ec2c32de37b2bd7b6e54af2e">posledica</comp>
+              <comp position="2" type="headword" sloleks="LE_912e3c288357f32ed831d9d7f2c72cb9">nemarnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

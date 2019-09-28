@@ -1,0 +1,29 @@
+<entry>
+  <header>
+    <lexical_unit id="201434">banko</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="banko iz Sada" cluster="1" frequency="5" logDice="8.85">
+              <comp position="1" type="headword" sloleks="">banko</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_f0e5d9229864adb1a87fe701f1729e0d">Sada</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="investicijski banko" cluster="1" frequency="20" logDice="3.87">
+              <comp position="1" type="collocate" sloleks="LE_73915fd9d72e8d5f5cf2c9156d0f31c4">investicijski</comp>
+              <comp position="2" type="headword" sloleks="">banko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

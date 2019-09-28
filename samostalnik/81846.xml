@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="81846">predikat</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">542</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="odločati za predikat" cluster="1" frequency="4" logDice="2.87">
+              <comp position="1" type="collocate" sloleks="LE_c0a142f8a959998ee12099b2e702e937">odločati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_095f4186ec57ed878f8d880cfa957cc8">predikat</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="vinski predikat" cluster="1" frequency="8" logDice="2.57">
+              <comp position="1" type="collocate" sloleks="LE_208cc71fa43bae2de9e333861c08a1c7">vinski</comp>
+              <comp position="2" type="headword" sloleks="LE_095f4186ec57ed878f8d880cfa957cc8">predikat</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="vino s predikatom" cluster="1" frequency="4" logDice="6.0">
+              <comp position="1" type="collocate" sloleks="LE_0ae7c92af34780f7f1922cd5b9806ca5">vino</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_095f4186ec57ed878f8d880cfa957cc8">predikatom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="71068">nagica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">785</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Playboyjev nagica" cluster="1" frequency="20" logDice="10.32">
+              <comp position="1" type="collocate" sloleks="">Playboyjev</comp>
+              <comp position="2" type="headword" sloleks="LE_35aba5fc84581b2c207168e796c5b8c2">nagica</comp>
+            </collocation>
+            <collocation form="Playboyeva nagica" cluster="2" frequency="46" logDice="8.18">
+              <comp position="1" type="collocate" sloleks="LE_da12f424522cabf0bc2e2c335f5a1991">Playboyeva</comp>
+              <comp position="2" type="headword" sloleks="LE_35aba5fc84581b2c207168e796c5b8c2">nagica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz SBZ2">
+          <collocations>
+            <collocation form="več nagice" cluster="1" frequency="130" logDice="3.13">
+              <comp position="1" type="collocate" sloleks="LE_35a40117ea9b0ca39c7a43d940592d29">več</comp>
+              <comp position="2" type="headword" sloleks="LE_35aba5fc84581b2c207168e796c5b8c2">nagice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="slika nagice" cluster="1" frequency="8" logDice="2.61">
+              <comp position="1" type="collocate" sloleks="LE_593e973f672b71320e37b77b785f08a0">slika</comp>
+              <comp position="2" type="headword" sloleks="LE_35aba5fc84581b2c207168e796c5b8c2">nagice</comp>
+            </collocation>
+            <collocation form="fotografija nagice" cluster="2" frequency="5" logDice="2.52">
+              <comp position="1" type="collocate" sloleks="LE_e6df18792975a9b99ce5878081baa979">fotografija</comp>
+              <comp position="2" type="headword" sloleks="LE_35aba5fc84581b2c207168e796c5b8c2">nagice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="koledar z nagico" cluster="1" frequency="9" logDice="8.53">
+              <comp position="1" type="collocate" sloleks="LE_0a7417bd3017546801959cc4bb06ad48">koledar</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_35aba5fc84581b2c207168e796c5b8c2">nagico</comp>
+            </collocation>
+            <collocation form="revija z nagico" cluster="2" frequency="9" logDice="7.82">
+              <comp position="1" type="collocate" sloleks="LE_204d5501054914c9e28f5661e901ede4">revija</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_35aba5fc84581b2c207168e796c5b8c2">nagico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

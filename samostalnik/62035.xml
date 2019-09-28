@@ -1,0 +1,31 @@
+<entry>
+  <header>
+    <lexical_unit id="62035">jelenka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1491</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="jelenka iz Zreč" cluster="1" frequency="17" logDice="8.04">
+              <comp position="1" type="headword" sloleks="LE_95ae91fb7bccfabacb9cdca022788b6a">jelenka</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_9942e2b4c05d8f2dda8f52df501f9c75">Zreč</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="jelenka s skomar" cluster="1" frequency="6" logDice="11.3">
+              <comp position="1" type="headword" sloleks="LE_95ae91fb7bccfabacb9cdca022788b6a">jelenka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="">skomar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        </gramrels>
+    </sense>
+  </body>
+</entry>

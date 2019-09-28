@@ -1,0 +1,56 @@
+<entry>
+  <header>
+    <lexical_unit id="60999">izgubar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">521</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 med sbz6">
+          <collocations>
+            <collocation form="izgubar med podjetjem" cluster="1" frequency="4" logDice="5.02">
+              <comp position="1" type="headword" sloleks="LE_2c88df6681a9f64bdfbe9dd9bf9d7353">izgubar</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_1aed870e4b1c077c155d34b01ab0af57">podjetjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz med SBZ6">
+          <collocations>
+            <collocation form="najti med izgubarjem" cluster="1" frequency="6" logDice="5.52">
+              <comp position="1" type="collocate" sloleks="LE_843e328fc791979a62059ce2c06a66c8">najti</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_2c88df6681a9f64bdfbe9dd9bf9d7353">izgubarjem</comp>
+            </collocation>
+            <collocation form="znajti med izgubarjem" cluster="2" frequency="4" logDice="5.51">
+              <comp position="1" type="collocate" sloleks="LE_c7ea193e7027efd5dd87ce5a7383424d">znajti</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_2c88df6681a9f64bdfbe9dd9bf9d7353">izgubarjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="velik izgubar" cluster="1" frequency="198" logDice="1.48">
+              <comp position="1" type="collocate" sloleks="LE_6ca59c38ee7f7e489a6c13cd1c322726">velik</comp>
+              <comp position="2" type="headword" sloleks="LE_2c88df6681a9f64bdfbe9dd9bf9d7353">izgubar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="lestvica izgubarja" cluster="1" frequency="8" logDice="3.24">
+              <comp position="1" type="collocate" sloleks="LE_84bcb21133c438ef7a1197cc20331b78">lestvica</comp>
+              <comp position="2" type="headword" sloleks="LE_2c88df6681a9f64bdfbe9dd9bf9d7353">izgubarja</comp>
+            </collocation>
+            <collocation form="seznam izgubarja" cluster="2" frequency="10" logDice="2.26">
+              <comp position="1" type="collocate" sloleks="LE_8e07f7a6b825d8b6bf5b0aeab2d8d9b7">seznam</comp>
+              <comp position="2" type="headword" sloleks="LE_2c88df6681a9f64bdfbe9dd9bf9d7353">izgubarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

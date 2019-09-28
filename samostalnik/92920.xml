@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="92920">telebajsek</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1762</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="plesati s telebajskom" cluster="1" frequency="5" logDice="7.23">
+              <comp position="1" type="collocate" sloleks="LE_aeb7a690e3773823a1c5ea4af37441a4">plesati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_7ebf1a8dc8b7e783a3f75e90134ecc14">telebajskom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="dežela telebajska" cluster="1" frequency="5" logDice="2.6">
+              <comp position="1" type="collocate" sloleks="LE_21c89b1f11d02144625685de7b2e94af">dežela</comp>
+              <comp position="2" type="headword" sloleks="LE_7ebf1a8dc8b7e783a3f75e90134ecc14">telebajska</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="pižama s telebajskom" cluster="1" frequency="4" logDice="10.43">
+              <comp position="1" type="collocate" sloleks="LE_79c9464bfb6acbfd164925c6c29f787c">pižama</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_7ebf1a8dc8b7e783a3f75e90134ecc14">telebajskom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

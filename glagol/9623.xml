@@ -1,0 +1,61 @@
+<entry>
+  <header>
+    <lexical_unit id="9623">zaječati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">485</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ od sbz2">
+          <collocations>
+            <collocation form="zaječati od užitka" cluster="1" frequency="7" logDice="9.43">
+              <comp position="1" type="headword" sloleks="LE_8234517923318fd23e922e4cc8b888a7">zaječati</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_9919c4fc308384bd5d2528923d0098e4">užitka</comp>
+            </collocation>
+            <collocation form="zaječati od bolečine" cluster="2" frequency="9" logDice="7.97">
+              <comp position="1" type="headword" sloleks="LE_8234517923318fd23e922e4cc8b888a7">zaječati</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_6a7434a210c21ded27b4dc2fde249a7c">bolečine</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ pod sbz6">
+          <collocations>
+            <collocation form="zaječati pod težo" cluster="1" frequency="5" logDice="6.35">
+              <comp position="1" type="headword" sloleks="LE_8234517923318fd23e922e4cc8b888a7">zaječati</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="collocate" sloleks="LE_5485458f843a06bc327a4f0991c37d7d">težo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="zaječati v bolečini" cluster="1" frequency="12" logDice="8.65">
+              <comp position="1" type="headword" sloleks="LE_8234517923318fd23e922e4cc8b888a7">zaječati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_6a7434a210c21ded27b4dc2fde249a7c">bolečini</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="milo zaječati" cluster="1" frequency="4" logDice="5.94">
+              <comp position="1" type="collocate" sloleks="LE_ab0df2a3fc42ec4f11c86424f9662c85">milo</comp>
+              <comp position="2" type="headword" sloleks="LE_8234517923318fd23e922e4cc8b888a7">zaječati</comp>
+            </collocation>
+            <collocation form="glasno zaječati" cluster="2" frequency="12" logDice="4.25">
+              <comp position="1" type="collocate" sloleks="LE_8d32e8ffef5c2d930893f51f039b425a">glasno</comp>
+              <comp position="2" type="headword" sloleks="LE_8234517923318fd23e922e4cc8b888a7">zaječati</comp>
+            </collocation>
+            <collocation form="tiho zaječati" cluster="3" frequency="7" logDice="4.17">
+              <comp position="1" type="collocate" sloleks="LE_6caaa1caafbcefef7dcc792f954c5913">tiho</comp>
+              <comp position="2" type="headword" sloleks="LE_8234517923318fd23e922e4cc8b888a7">zaječati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="60183">image</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">2874</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="Image Ready" cluster="1" frequency="10" logDice="9.56">
+              <comp position="1" type="headword" sloleks="LE_c5a9348189296ef3399f9ed792bb5b0a">Image</comp>
+              <comp position="2" type="collocate" sloleks="">Ready</comp>
+            </collocation>
+            <collocation form="Image mape" cluster="2" frequency="9" logDice="6.53">
+              <comp position="1" type="headword" sloleks="LE_c5a9348189296ef3399f9ed792bb5b0a">Image</comp>
+              <comp position="2" type="collocate" sloleks="LE_a43c83f0a9ee68c2e3dba68a1bbb22f0">mape</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="cerrut Image" cluster="1" frequency="11" logDice="10.08">
+              <comp position="1" type="collocate" sloleks="">cerrut</comp>
+              <comp position="2" type="headword" sloleks="LE_c5a9348189296ef3399f9ed792bb5b0a">Image</comp>
+            </collocation>
+            <collocation form="živ Image" cluster="2" frequency="8" logDice="1.58">
+              <comp position="1" type="collocate" sloleks="LE_d631b22ec6f88d4b2d35a791ecefe4f6">živ</comp>
+              <comp position="2" type="headword" sloleks="LE_c5a9348189296ef3399f9ed792bb5b0a">Image</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

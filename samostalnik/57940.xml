@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="57940">golosek</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">502</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="požagati na golosek" cluster="1" frequency="4" logDice="12.83">
+              <comp position="1" type="collocate" sloleks="LE_88d9f2b937c35b26af652523d347ab27">požagati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_0d14cef1b468218bcfc65b34a2b97756">golosek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za golosek" cluster="1" frequency="8" logDice="-0.6">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_0d14cef1b468218bcfc65b34a2b97756">golosek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="hektar goloseka" cluster="1" frequency="6" logDice="3.53">
+              <comp position="1" type="collocate" sloleks="LE_a17133dc7f8b5ddb528de68483789ca1">hektar</comp>
+              <comp position="2" type="headword" sloleks="LE_0d14cef1b468218bcfc65b34a2b97756">goloseka</comp>
+            </collocation>
+            <collocation form="prepoved goloseka" cluster="2" frequency="9" logDice="2.88">
+              <comp position="1" type="collocate" sloleks="LE_0a7d09e9d93f16f9be0a97a4426a5f4a">prepoved</comp>
+              <comp position="2" type="headword" sloleks="LE_0d14cef1b468218bcfc65b34a2b97756">goloseka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="86164">revident</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">655</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="revident z revizijo" cluster="1" frequency="6" logDice="8.9">
+              <comp position="1" type="headword" sloleks="LE_521529b6ba98b8a5a9bf11fc5f63c3ef">revident</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_26a50e83f754b2e6efae5903184ce1a3">revizijo</comp>
+            </collocation>
+            <collocation form="revident z izobrazbo" cluster="2" frequency="6" logDice="5.71">
+              <comp position="1" type="headword" sloleks="LE_521529b6ba98b8a5a9bf11fc5f63c3ef">revident</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_7c0272b0a1dfb6105f9c0f3f8157e283">izobrazbo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="rudarski revident" cluster="1" frequency="44" logDice="7.04">
+              <comp position="1" type="collocate" sloleks="LE_e0c1383483b2d60332c2c2a010ca477a">rudarski</comp>
+              <comp position="2" type="headword" sloleks="LE_521529b6ba98b8a5a9bf11fc5f63c3ef">revident</comp>
+            </collocation>
+            <collocation form="odgovoren revident" cluster="2" frequency="76" logDice="5.26">
+              <comp position="1" type="collocate" sloleks="LE_dcd5c3eff4e18689752137b261cab738">odgovoren</comp>
+              <comp position="2" type="headword" sloleks="LE_521529b6ba98b8a5a9bf11fc5f63c3ef">revident</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="navedba revidenta" cluster="1" frequency="5" logDice="2.79">
+              <comp position="1" type="collocate" sloleks="LE_c15d87344eac470fa66a2773def6459b">navedba</comp>
+              <comp position="2" type="headword" sloleks="LE_521529b6ba98b8a5a9bf11fc5f63c3ef">revidenta</comp>
+            </collocation>
+            <collocation form="stran revidenta" cluster="2" frequency="17" logDice="1.36">
+              <comp position="1" type="collocate" sloleks="LE_4432316ca39663f747c84fc21ac8e398">stran</comp>
+              <comp position="2" type="headword" sloleks="LE_521529b6ba98b8a5a9bf11fc5f63c3ef">revidenta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="38648">zaprepaden</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">776</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="zaprepaden obraz" cluster="1" frequency="18" logDice="3.38">
+              <comp position="1" type="headword" sloleks="LE_26e7bc3beb6b8e63a53dd67282c312dd">zaprepaden</comp>
+              <comp position="2" type="collocate" sloleks="LE_ace2f15ed5cc3848b7740939ded1abe9">obraz</comp>
+            </collocation>
+            <collocation form="zaprepaden pogled" cluster="1" frequency="14" logDice="2.43">
+              <comp position="1" type="headword" sloleks="LE_26e7bc3beb6b8e63a53dd67282c312dd">zaprepaden</comp>
+              <comp position="2" type="collocate" sloleks="LE_456820bc1f399479d902f190585f0938">pogled</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="čisto zaprepaden" cluster="1" frequency="15" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_94a91e83047bf2e90acf82e14cbb99c9">čisto</comp>
+              <comp position="2" type="headword" sloleks="LE_26e7bc3beb6b8e63a53dd67282c312dd">zaprepaden</comp>
+            </collocation>
+            <collocation form="popolnoma zaprepaden" cluster="2" frequency="21" logDice="2.69">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_26e7bc3beb6b8e63a53dd67282c312dd">zaprepaden</comp>
+            </collocation>
+            <collocation form="malo zaprepaden" cluster="3" frequency="5" logDice="0.96">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_26e7bc3beb6b8e63a53dd67282c312dd">zaprepaden</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

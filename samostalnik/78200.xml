@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="78200">plamenček</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">518</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="plamenček sveče" cluster="1" frequency="25" logDice="7.8">
+              <comp position="1" type="headword" sloleks="LE_df6982035f993770eef1d0010aa62f03">plamenček</comp>
+              <comp position="2" type="collocate" sloleks="LE_afd49410f96fd9f92860e177f70cc987">sveče</comp>
+            </collocation>
+            <collocation form="plamenček upanja" cluster="2" frequency="15" logDice="5.75">
+              <comp position="1" type="headword" sloleks="LE_df6982035f993770eef1d0010aa62f03">plamenček</comp>
+              <comp position="2" type="collocate" sloleks="LE_3ee0d77a1b8ed2d0d03bb2e7f6d11094">upanja</comp>
+            </collocation>
+            <collocation form="soj plamenčka" cluster="3" frequency="5" logDice="4.99">
+              <comp position="1" type="collocate" sloleks="LE_8d3f722142de2e094cc1d782f761b2f9">soj</comp>
+              <comp position="2" type="headword" sloleks="LE_df6982035f993770eef1d0010aa62f03">plamenčka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="droben plamenček" cluster="1" frequency="31" logDice="4.32">
+              <comp position="1" type="collocate" sloleks="LE_587fed886192c0de0f302cdfba01fb9f">droben</comp>
+              <comp position="2" type="headword" sloleks="LE_df6982035f993770eef1d0010aa62f03">plamenček</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

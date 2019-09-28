@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="16182">diletantski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">507</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="diletantski poskus" cluster="1" frequency="12" logDice="3.42">
+              <comp position="1" type="headword" sloleks="LE_995e54619f0fba26574c97e8cc084b57">diletantski</comp>
+              <comp position="2" type="collocate" sloleks="LE_19dcd14233df546347e75246f46de4c4">poskus</comp>
+            </collocation>
+            <collocation form="diletantski pristop" cluster="2" frequency="8" logDice="2.19">
+              <comp position="1" type="headword" sloleks="LE_995e54619f0fba26574c97e8cc084b57">diletantski</comp>
+              <comp position="2" type="collocate" sloleks="LE_4f4f7324dcb1e1ad25b7b1acd0a3636b">pristop</comp>
+            </collocation>
+            <collocation form="diletantska poteza" cluster="3" frequency="7" logDice="1.95">
+              <comp position="1" type="headword" sloleks="LE_995e54619f0fba26574c97e8cc084b57">diletantska</comp>
+              <comp position="2" type="collocate" sloleks="LE_2602b6c96edbffe0da981c3661507466">poteza</comp>
+            </collocation>
+            <collocation form="diletantska izjava" cluster="3" frequency="6" logDice="1.61">
+              <comp position="1" type="headword" sloleks="LE_995e54619f0fba26574c97e8cc084b57">diletantska</comp>
+              <comp position="2" type="collocate" sloleks="LE_43a60c321a9a7889eb71aacc9ccb368f">izjava</comp>
+            </collocation>
+            <collocation form="diletantska napaka" cluster="4" frequency="10" logDice="1.84">
+              <comp position="1" type="headword" sloleks="LE_995e54619f0fba26574c97e8cc084b57">diletantska</comp>
+              <comp position="2" type="collocate" sloleks="LE_062a179ee1410808218c093ac1a7b38b">napaka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="naravnost diletantski" cluster="1" frequency="6" logDice="4.33">
+              <comp position="1" type="collocate" sloleks="LE_ab0b27655baba8e8a87cbd747d6a5a91">naravnost</comp>
+              <comp position="2" type="headword" sloleks="LE_995e54619f0fba26574c97e8cc084b57">diletantski</comp>
+            </collocation>
+            <collocation form="popolnoma diletantski" cluster="2" frequency="5" logDice="0.61">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_995e54619f0fba26574c97e8cc084b57">diletantski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

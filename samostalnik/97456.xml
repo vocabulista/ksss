@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="97456">vztrajnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">423</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="dvomasen vztrajnik" cluster="1" frequency="12" logDice="11.41">
+              <comp position="1" type="collocate" sloleks="">dvomasen</comp>
+              <comp position="2" type="headword" sloleks="LE_cda496be05f2c96a5eca120e7de68870">vztrajnik</comp>
+            </collocation>
+            <collocation form="magneten vztrajnik" cluster="2" frequency="16" logDice="5.37">
+              <comp position="1" type="collocate" sloleks="LE_c603dbc5aa7c295570f649a54314a1f5">magneten</comp>
+              <comp position="2" type="headword" sloleks="LE_cda496be05f2c96a5eca120e7de68870">vztrajnik</comp>
+            </collocation>
+            <collocation form="lahek vztrajnik" cluster="3" frequency="15" logDice="2.45">
+              <comp position="1" type="collocate" sloleks="LE_843da10f6abcee97aa190c17a9be25e0">lahek</comp>
+              <comp position="2" type="headword" sloleks="LE_cda496be05f2c96a5eca120e7de68870">vztrajnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="motor z vztrajnikom" cluster="1" frequency="11" logDice="5.22">
+              <comp position="1" type="collocate" sloleks="LE_f2500a2481839c4e1efd6315d8b961cc">motor</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_cda496be05f2c96a5eca120e7de68870">vztrajnikom</comp>
+            </collocation>
+            <collocation form="sistem z vztrajnikom" cluster="2" frequency="5" logDice="4.74">
+              <comp position="1" type="collocate" sloleks="LE_b126847d984efa55c2ffad50be4e1dac">sistem</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_cda496be05f2c96a5eca120e7de68870">vztrajnikom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

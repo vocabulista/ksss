@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="16745">drogiran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">421</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="drogiran in/ali alkoholiziran" cluster="1" frequency="11" logDice="11.3">
+              <comp position="3" type="headword" sloleks="LE_d46271344b434a21dc7241331ec94227">drogiran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_d809f7581a5d0be32d6b65140ef9c46e">alkoholiziran</comp>
+              </collocation>
+            <collocation form="drogiran in/ali vinjen" cluster="2" frequency="15" logDice="10.62">
+              <comp position="3" type="headword" sloleks="LE_d46271344b434a21dc7241331ec94227">drogiran</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_6e18a7f1bd921a7b76c2af3cd734561d">vinjen</comp>
+              </collocation>
+            <collocation form="drogiran in/ali pijan" cluster="3" frequency="32" logDice="10.37">
+              <comp position="3" type="headword" sloleks="LE_d46271344b434a21dc7241331ec94227">drogiran</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_63b2022e1c4beea2574816ca09803921">pijan</comp>
+              </collocation>
+            <collocation form="drogiran in/ali opit" cluster="4" frequency="6" logDice="9.97">
+              <comp position="3" type="headword" sloleks="LE_d46271344b434a21dc7241331ec94227">drogiran</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_a3695a5bbdd7964eabf3cc9ca0453327">opit</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

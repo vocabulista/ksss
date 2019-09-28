@@ -1,0 +1,86 @@
+<entry>
+  <header>
+    <lexical_unit id="74436">odlov</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">418</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="odlov plemenke" cluster="1" frequency="16" logDice="11.05">
+              <comp position="1" type="headword" sloleks="LE_d3ac455f14a7cf3eb3fb3d8ed9b3f15f">odlov</comp>
+              <comp position="2" type="collocate" sloleks="LE_abe86a354ed7a9ee0ca67bf768a92f05">plemenke</comp>
+            </collocation>
+            <collocation form="odlov medveda" cluster="2" frequency="45" logDice="7.78">
+              <comp position="1" type="headword" sloleks="LE_d3ac455f14a7cf3eb3fb3d8ed9b3f15f">odlov</comp>
+              <comp position="2" type="collocate" sloleks="LE_6ba2052de2d858bb42197095a59b40d4">medveda</comp>
+            </collocation>
+            <collocation form="odlov ribe" cluster="3" frequency="40" logDice="5.88">
+              <comp position="1" type="headword" sloleks="LE_d3ac455f14a7cf3eb3fb3d8ed9b3f15f">odlov</comp>
+              <comp position="2" type="collocate" sloleks="LE_d7b8f7ec392e661983c77782c366fd0d">ribe</comp>
+            </collocation>
+            <collocation form="odlov živali" cluster="3" frequency="11" logDice="2.6">
+              <comp position="1" type="headword" sloleks="LE_d3ac455f14a7cf3eb3fb3d8ed9b3f15f">odlov</comp>
+              <comp position="2" type="collocate" sloleks="LE_b6200c4865c660bb286b47ec062ae356">živali</comp>
+            </collocation>
+            <collocation form="vodja odlova" cluster="4" frequency="9" logDice="0.8">
+              <comp position="1" type="collocate" sloleks="LE_04784ba9141ad606443b5ca1acfe31f0|LE_a3b32d0db07b8312454df2d8d680a6b3">vodja</comp>
+              <comp position="2" type="headword" sloleks="LE_d3ac455f14a7cf3eb3fb3d8ed9b3f15f">odlova</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz pri SBZ5">
+          <collocations>
+            <collocation form="sodelovati pri odlovu" cluster="1" frequency="7" logDice="2.27">
+              <comp position="1" type="collocate" sloleks="LE_f07c63c0349c27163c9542394955cec9">sodelovati</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_d3ac455f14a7cf3eb3fb3d8ed9b3f15f">odlovu</comp>
+            </collocation>
+            <collocation form="pomagati pri odlovu" cluster="2" frequency="4" logDice="1.47">
+              <comp position="1" type="collocate" sloleks="LE_2fc43d313cb40b86ed2a370a430e93c1">pomagati</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_d3ac455f14a7cf3eb3fb3d8ed9b3f15f">odlovu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="intervencijski odlov" cluster="1" frequency="24" logDice="7.23">
+              <comp position="1" type="collocate" sloleks="LE_491c033b0a11ed115107ce7fb08edfc6">intervencijski</comp>
+              <comp position="2" type="headword" sloleks="LE_d3ac455f14a7cf3eb3fb3d8ed9b3f15f">odlov</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="evidenca o odlovu" cluster="1" frequency="4" logDice="5.34">
+              <comp position="1" type="collocate" sloleks="LE_f8713ba22db4ff1842b2896dfe144e97">evidenca</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_d3ac455f14a7cf3eb3fb3d8ed9b3f15f">odlovu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="narava z odlovom" cluster="1" frequency="6" logDice="7.5">
+              <comp position="1" type="collocate" sloleks="LE_3720f05aae76a62fa53daa3d96e22c20">narava</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d3ac455f14a7cf3eb3fb3d8ed9b3f15f">odlovom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="skupina za odlov" cluster="1" frequency="15" logDice="4.66">
+              <comp position="1" type="collocate" sloleks="LE_7a31c94cb05484f8e60e8fbc4dad6a50">skupina</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d3ac455f14a7cf3eb3fb3d8ed9b3f15f">odlov</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

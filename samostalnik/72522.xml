@@ -1,0 +1,80 @@
+<entry>
+  <header>
+    <lexical_unit id="72522">nepoštenost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">873</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="nepoštenost sodnika" cluster="1" frequency="9" logDice="3.41">
+              <comp position="1" type="headword" sloleks="LE_20a93a3c1038627ce28bb235d01b0a0a">nepoštenost</comp>
+              <comp position="2" type="collocate" sloleks="LE_dc0300c802ff98b1bb1078da111d532d">sodnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="kazati na nepoštenost" cluster="1" frequency="10" logDice="3.57">
+              <comp position="1" type="collocate" sloleks="LE_0ed3c23f956dfe4ad282574a548ad17d">kazati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_20a93a3c1038627ce28bb235d01b0a0a">nepoštenost</comp>
+            </collocation>
+            <collocation form="opozoriti na nepoštenost" cluster="2" frequency="5" logDice="2.14">
+              <comp position="1" type="collocate" sloleks="LE_9d89109b8231c20ace2c0b60a9753af4">opozoriti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_20a93a3c1038627ce28bb235d01b0a0a">nepoštenost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za nepoštenost" cluster="1" frequency="6" logDice="-1.01">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_20a93a3c1038627ce28bb235d01b0a0a">nepoštenost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="intelektualna nepoštenost" cluster="1" frequency="9" logDice="3.89">
+              <comp position="1" type="collocate" sloleks="LE_27c03f7bba9d58f2e2b83e5dedd200d1">intelektualna</comp>
+              <comp position="2" type="headword" sloleks="LE_20a93a3c1038627ce28bb235d01b0a0a">nepoštenost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 do SBZ2">
+          <collocations>
+            <collocation form="posel do nepoštenosti" cluster="1" frequency="4" logDice="9.23">
+              <comp position="1" type="collocate" sloleks="LE_4944cd3b7cdda05428aed18cfcac7eb9">posel</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_20a93a3c1038627ce28bb235d01b0a0a">nepoštenosti</comp>
+            </collocation>
+            <collocation form="nepoštenost do delničarja" cluster="2" frequency="4" logDice="9.82">
+              <comp position="1" type="headword" sloleks="LE_20a93a3c1038627ce28bb235d01b0a0a">nepoštenost</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_3253217b8550cf9d8278052485858b27">delničarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="obtožba o nepoštenosti" cluster="1" frequency="4" logDice="5.62">
+              <comp position="1" type="collocate" sloleks="LE_6a8a5e3728f7bb18729ac582805ec63d">obtožba</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_20a93a3c1038627ce28bb235d01b0a0a">nepoštenosti</comp>
+            </collocation>
+            <collocation form="očitek o nepoštenosti" cluster="2" frequency="4" logDice="4.38">
+              <comp position="1" type="collocate" sloleks="LE_73a297a00cf99013b6a034b27ec651af">očitek</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_20a93a3c1038627ce28bb235d01b0a0a">nepoštenosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

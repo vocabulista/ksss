@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="31552">psihotropen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">480</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="psihotropna substanca" cluster="1" frequency="87" logDice="8.3">
+              <comp position="1" type="headword" sloleks="LE_2112c60efae907f77bdded370b4b1729">psihotropna</comp>
+              <comp position="2" type="collocate" sloleks="LE_2a0285cdde7f89eb2edcd92076497cd9">substanca</comp>
+            </collocation>
+            <collocation form="psihotropna snov" cluster="2" frequency="253" logDice="6.77">
+              <comp position="1" type="headword" sloleks="LE_2112c60efae907f77bdded370b4b1729">psihotropna</comp>
+              <comp position="2" type="collocate" sloleks="LE_e3520ad3a55d265bbaf91aacf6222027">snov</comp>
+            </collocation>
+            <collocation form="psihotropno zdravilo" cluster="3" frequency="63" logDice="5.31">
+              <comp position="1" type="headword" sloleks="LE_2112c60efae907f77bdded370b4b1729">psihotropno</comp>
+              <comp position="2" type="collocate" sloleks="LE_005f608d88779abbae906ed3762c1400">zdravilo</comp>
+            </collocation>
+            <collocation form="psihotropna droga" cluster="4" frequency="10" logDice="4.22">
+              <comp position="1" type="headword" sloleks="LE_2112c60efae907f77bdded370b4b1729">psihotropna</comp>
+              <comp position="2" type="collocate" sloleks="LE_40c830f1f018b10aa0f1f5ef730ce10f">droga</comp>
+            </collocation>
+            <collocation form="psihotropen učinek" cluster="5" frequency="18" logDice="2.42">
+              <comp position="1" type="headword" sloleks="LE_2112c60efae907f77bdded370b4b1729">psihotropen</comp>
+              <comp position="2" type="collocate" sloleks="LE_2353cab56c2f4b095b8ea704f5199db8">učinek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

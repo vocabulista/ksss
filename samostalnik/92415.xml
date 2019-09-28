@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="92415">šverc</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">891</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="šverc cigarete" cluster="1" frequency="10" logDice="5.14">
+              <comp position="1" type="headword" sloleks="LE_6a334a608f15ae5995c8202d7cd6333a">šverc</comp>
+              <comp position="2" type="collocate" sloleks="LE_403a9a5c858b57d1293ce169fd8e79c6">cigarete</comp>
+            </collocation>
+            <collocation form="šverc orožja" cluster="2" frequency="33" logDice="5.03">
+              <comp position="1" type="headword" sloleks="LE_6a334a608f15ae5995c8202d7cd6333a">šverc</comp>
+              <comp position="2" type="collocate" sloleks="LE_470d9247d9b54fd5fe04bf3ddc212a3d">orožja</comp>
+            </collocation>
+            <collocation form="šverc stoletja" cluster="3" frequency="9" logDice="1.52">
+              <comp position="1" type="headword" sloleks="LE_6a334a608f15ae5995c8202d7cd6333a">šverc</comp>
+              <comp position="2" type="collocate" sloleks="LE_20c284f688e5a2f02453c420d0dcfc56">stoletja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="šverc z orožjem" cluster="1" frequency="17" logDice="5.48">
+              <comp position="1" type="headword" sloleks="LE_6a334a608f15ae5995c8202d7cd6333a">šverc</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_470d9247d9b54fd5fe04bf3ddc212a3d">orožjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="ukvarjati s švercem" cluster="1" frequency="8" logDice="1.06">
+              <comp position="1" type="collocate" sloleks="LE_d218d442858c415bdeff018dc056aea9">ukvarjati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_6a334a608f15ae5995c8202d7cd6333a">švercem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

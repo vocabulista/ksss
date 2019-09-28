@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="94630">učiteljstvo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">477</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 pod sbz6">
+          <collocations>
+            <collocation form="učiteljstvo pod vodstvom" cluster="1" frequency="15" logDice="3.95">
+              <comp position="1" type="headword" sloleks="LE_07dadef92a1a06cc29ea6b517afadee4">učiteljstvo</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="collocate" sloleks="LE_cfbf3b6eda6e115103a1a0b3fa68f541">vodstvom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="cerkveno učiteljstvo" cluster="1" frequency="93" logDice="6.08">
+              <comp position="1" type="collocate" sloleks="LE_2876bedf6b1dcbe32932a66673e78bfc">cerkveno</comp>
+              <comp position="2" type="headword" sloleks="LE_07dadef92a1a06cc29ea6b517afadee4">učiteljstvo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="nauk učiteljstva" cluster="1" frequency="23" logDice="7.91">
+              <comp position="1" type="collocate" sloleks="LE_e97ba874382a85375d3218bc6b492482">nauk</comp>
+              <comp position="2" type="headword" sloleks="LE_07dadef92a1a06cc29ea6b517afadee4">učiteljstva</comp>
+            </collocation>
+            <collocation form="odlok učiteljstva" cluster="2" frequency="5" logDice="5.81">
+              <comp position="1" type="collocate" sloleks="LE_abd5448fe553d37fa957c74a13e9d06e">odlok</comp>
+              <comp position="2" type="headword" sloleks="LE_07dadef92a1a06cc29ea6b517afadee4">učiteljstva</comp>
+            </collocation>
+            <collocation form="organizator učiteljstva" cluster="3" frequency="9" logDice="2.93">
+              <comp position="1" type="collocate" sloleks="LE_4b0b50fe6a1aed06e63cb78e8d4fdc80">organizator</comp>
+              <comp position="2" type="headword" sloleks="LE_07dadef92a1a06cc29ea6b517afadee4">učiteljstva</comp>
+            </collocation>
+            <collocation form="položaj učiteljstva" cluster="4" frequency="16" logDice="2.86">
+              <comp position="1" type="collocate" sloleks="LE_0227904f3ee297f8f6c33b433ba96e65">položaj</comp>
+              <comp position="2" type="headword" sloleks="LE_07dadef92a1a06cc29ea6b517afadee4">učiteljstva</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,71 @@
+<entry>
+  <header>
+    <lexical_unit id="8055">skandirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">786</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="skandirati parolo" cluster="1" frequency="5" logDice="8.68">
+              <comp position="1" type="headword" sloleks="LE_7f826759fd1115882e8e3984d3b82b39">skandirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_0c2a5636336ea35c589b3ebaa8589a9c">parolo</comp>
+            </collocation>
+            <collocation form="skandirati slogan" cluster="2" frequency="4" logDice="6.96">
+              <comp position="1" type="headword" sloleks="LE_7f826759fd1115882e8e3984d3b82b39">skandirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_a403e16e0f36e5a43195bd87c2a06ea2">slogan</comp>
+            </collocation>
+            <collocation form="skandirati ime" cluster="3" frequency="55" logDice="4.88">
+              <comp position="1" type="headword" sloleks="LE_7f826759fd1115882e8e3984d3b82b39">skandirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">ime</comp>
+            </collocation>
+            <collocation form="skandirati geslo" cluster="4" frequency="5" logDice="3.97">
+              <comp position="1" type="headword" sloleks="LE_7f826759fd1115882e8e3984d3b82b39">skandirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_f34265979a589ce1132ac756579a0af2">geslo</comp>
+            </collocation>
+            <collocation form="skandirati pesem" cluster="5" frequency="4" logDice="2.24">
+              <comp position="1" type="headword" sloleks="LE_7f826759fd1115882e8e3984d3b82b39">skandirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6235b39c027e8b67ccd0ab2a0e87ad16">pesem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="skandirati v podporo" cluster="1" frequency="5" logDice="6.8">
+              <comp position="1" type="headword" sloleks="LE_7f826759fd1115882e8e3984d3b82b39">skandirati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_ef78e0b644650e4958623483c3592593">podporo</comp>
+            </collocation>
+            <collocation form="skandirati v glas" cluster="2" frequency="5" logDice="5.52">
+              <comp position="1" type="headword" sloleks="LE_7f826759fd1115882e8e3984d3b82b39">skandirati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_bdaf56c7a9eddd2562b11c97c0770037">glas</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="bučno skandirati" cluster="1" frequency="4" logDice="6.59">
+              <comp position="1" type="collocate" sloleks="LE_93ed774256dcabd218aafa9424728bd6">bučno</comp>
+              <comp position="2" type="headword" sloleks="LE_7f826759fd1115882e8e3984d3b82b39">skandirati</comp>
+            </collocation>
+            <collocation form="navdušeno skandirati" cluster="2" frequency="13" logDice="5.6">
+              <comp position="1" type="collocate" sloleks="LE_cb72c2533892a702c4b2dac75acbddd7">navdušeno</comp>
+              <comp position="2" type="headword" sloleks="LE_7f826759fd1115882e8e3984d3b82b39">skandirati</comp>
+            </collocation>
+            <collocation form="glasno skandirati" cluster="3" frequency="18" logDice="4.82">
+              <comp position="1" type="collocate" sloleks="LE_8d32e8ffef5c2d930893f51f039b425a">glasno</comp>
+              <comp position="2" type="headword" sloleks="LE_7f826759fd1115882e8e3984d3b82b39">skandirati</comp>
+            </collocation>
+            <collocation form="večkrat skandirati" cluster="4" frequency="5" logDice="0.83">
+              <comp position="1" type="collocate" sloleks="LE_a632a4cd780b70ff7634918837d4eddb">večkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_7f826759fd1115882e8e3984d3b82b39">skandirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

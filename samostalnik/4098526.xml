@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="4098526">tom</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="tom odstotka" cluster="1" frequency="15" logDice="2.99">
+              <comp position="1" type="headword" sloleks="">tom</comp>
+              <comp position="2" type="collocate" sloleks="LE_11ff641b777a9bdc2060c997d306c118">odstotka</comp>
+            </collocation>
+            <collocation form="odprava tom" cluster="2" frequency="14" logDice="3.67">
+              <comp position="1" type="collocate" sloleks="LE_8302d4e7a55df7fb9c5b73050563e677">odprava</comp>
+              <comp position="2" type="headword" sloleks="">tom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 na SBZ4">
+          <collocations>
+            <collocation form="vezan na tom" cluster="1" frequency="5" logDice="2.74">
+              <comp position="1" type="collocate" sloleks="LE_9d168478078f3e72a96d3998d1540539">vezan</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="">tom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="medalja za Tom" cluster="1" frequency="4" logDice="5.96">
+              <comp position="1" type="collocate" sloleks="LE_c88cd3fc7961c7c9eaf6080f86b4f629">medalja</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="">Tom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="56513">fižolček</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">566</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="čudežen fižolček" cluster="1" frequency="20" logDice="5.17">
+              <comp position="1" type="collocate" sloleks="LE_2fe01dd8e9738b1377faaa8fb9095f01">čudežen</comp>
+              <comp position="2" type="headword" sloleks="LE_cee0b082e705252dc7e0d84b2922fc7a">fižolček</comp>
+            </collocation>
+            <collocation form="čaroben fižolček" cluster="2" frequency="15" logDice="4.96">
+              <comp position="1" type="collocate" sloleks="LE_4dc51b3a4dfcaa69c3c52d15ef17603a">čaroben</comp>
+              <comp position="2" type="headword" sloleks="LE_cee0b082e705252dc7e0d84b2922fc7a">fižolček</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="gospoda Fižolčka" cluster="1" frequency="5" logDice="5.79">
+              <comp position="1" type="collocate" sloleks="LE_74c29394c519af7464d7681742b08637">gospoda</comp>
+              <comp position="2" type="headword" sloleks="LE_cee0b082e705252dc7e0d84b2922fc7a">Fižolčka</comp>
+            </collocation>
+            <collocation form="gospod Fižolčka" cluster="2" frequency="7" logDice="3.46">
+              <comp position="1" type="collocate" sloleks="LE_f821a8ec5e93963b87e7f4d8c6398ef1">gospod</comp>
+              <comp position="2" type="headword" sloleks="LE_cee0b082e705252dc7e0d84b2922fc7a">Fižolčka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

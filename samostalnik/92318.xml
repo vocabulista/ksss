@@ -1,0 +1,90 @@
+<entry>
+  <header>
+    <lexical_unit id="92318">sušilec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1289</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="sušilec perila" cluster="1" frequency="21" logDice="6.51">
+              <comp position="1" type="headword" sloleks="LE_0fc6e9385db00aebe37b150ee596b1cf">sušilec</comp>
+              <comp position="2" type="collocate" sloleks="LE_6c2dbc1aedf74642271fe1f873a39822">perila</comp>
+            </collocation>
+            <collocation form="sušilec zraka" cluster="2" frequency="14" logDice="3.95">
+              <comp position="1" type="headword" sloleks="LE_0fc6e9385db00aebe37b150ee596b1cf">sušilec</comp>
+              <comp position="2" type="collocate" sloleks="LE_d3b9b2b5ce24a4cb7da4e0e9da2b1348">zraka</comp>
+            </collocation>
+            <collocation form="zrak sušilca" cluster="3" frequency="5" logDice="5.74">
+              <comp position="1" type="collocate" sloleks="LE_d3b9b2b5ce24a4cb7da4e0e9da2b1348">zrak</comp>
+              <comp position="2" type="headword" sloleks="LE_0fc6e9385db00aebe37b150ee596b1cf">sušilca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="sušilec za las" cluster="1" frequency="872" logDice="11.54">
+              <comp position="1" type="headword" sloleks="LE_0fc6e9385db00aebe37b150ee596b1cf">sušilec</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_efa5b979af023ef3a1f9a62889d9ad2d">las</comp>
+            </collocation>
+            <collocation form="sušilec za perilo" cluster="2" frequency="19" logDice="7.97">
+              <comp position="1" type="headword" sloleks="LE_0fc6e9385db00aebe37b150ee596b1cf">sušilec</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_6c2dbc1aedf74642271fe1f873a39822">perilo</comp>
+            </collocation>
+            <collocation form="sušilec za čevelj" cluster="3" frequency="4" logDice="6.0">
+              <comp position="1" type="headword" sloleks="LE_0fc6e9385db00aebe37b150ee596b1cf">sušilec</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_1a09bef53dca30614de78fc93d660bac">čevelj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="posušiti s sušilcem" cluster="1" frequency="35" logDice="11.41">
+              <comp position="1" type="collocate" sloleks="LE_18a477e96074aa4c188e2ca6b7062b72">posušiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_0fc6e9385db00aebe37b150ee596b1cf">sušilcem</comp>
+            </collocation>
+            <collocation form="sušiti s sušilcem" cluster="2" frequency="14" logDice="10.8">
+              <comp position="1" type="collocate" sloleks="LE_75b7d043dbc668ae0334a02c59098ce4">sušiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_0fc6e9385db00aebe37b150ee596b1cf">sušilcem</comp>
+            </collocation>
+            <collocation form="oblikovati s sušilcem" cluster="3" frequency="5" logDice="5.59">
+              <comp position="1" type="collocate" sloleks="LE_b8af991cbfa48ea3855e3984b3ac5ddf">oblikovati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_0fc6e9385db00aebe37b150ee596b1cf">sušilcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="zrak iz sušilca" cluster="1" frequency="6" logDice="7.18">
+              <comp position="1" type="collocate" sloleks="LE_d3b9b2b5ce24a4cb7da4e0e9da2b1348">zrak</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_0fc6e9385db00aebe37b150ee596b1cf">sušilca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="sušenje s sušilcem" cluster="1" frequency="6" logDice="9.91">
+              <comp position="1" type="collocate" sloleks="LE_ee943c88daff742e8cd398ee64dcf612">sušenje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_0fc6e9385db00aebe37b150ee596b1cf">sušilcem</comp>
+            </collocation>
+            <collocation form="las s sušilcem" cluster="2" frequency="5" logDice="6.96">
+              <comp position="1" type="collocate" sloleks="LE_efa5b979af023ef3a1f9a62889d9ad2d">las</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_0fc6e9385db00aebe37b150ee596b1cf">sušilcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

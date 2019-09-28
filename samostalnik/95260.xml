@@ -1,0 +1,67 @@
+<entry>
+  <header>
+    <lexical_unit id="95260">ustnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">587</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="ustnik za cigareto" cluster="1" frequency="14" logDice="8.87">
+              <comp position="1" type="headword" sloleks="LE_a981237988fd762b0309d93c4fa9fc97">ustnik</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_403a9a5c858b57d1293ce169fd8e79c6">cigareto</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="kotlast ustnik" cluster="1" frequency="8" logDice="10.19">
+              <comp position="1" type="collocate" sloleks="LE_4ff8528eff560298578093b30ebfe195">kotlast</comp>
+              <comp position="2" type="headword" sloleks="LE_a981237988fd762b0309d93c4fa9fc97">ustnik</comp>
+            </collocation>
+            <collocation form="cigareten ustnik" cluster="2" frequency="15" logDice="6.84">
+              <comp position="1" type="collocate" sloleks="LE_f87b4d096117cdacb50e08ede92eb1ad">cigareten</comp>
+              <comp position="2" type="headword" sloleks="LE_a981237988fd762b0309d93c4fa9fc97">ustnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="cigareta v ustniku" cluster="1" frequency="12" logDice="8.19">
+              <comp position="1" type="collocate" sloleks="LE_403a9a5c858b57d1293ce169fd8e79c6">cigareta</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_a981237988fd762b0309d93c4fa9fc97">ustniku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="piskalo z ustnikom" cluster="1" frequency="8" logDice="11.79">
+              <comp position="1" type="collocate" sloleks="LE_1d033e158c8fd332c412c5e0f0cb8f70">piskalo</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_a981237988fd762b0309d93c4fa9fc97">ustnikom</comp>
+            </collocation>
+            <collocation form="cigareta z ustnikom" cluster="2" frequency="15" logDice="10.33">
+              <comp position="1" type="collocate" sloleks="LE_403a9a5c858b57d1293ce169fd8e79c6">cigareta</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_a981237988fd762b0309d93c4fa9fc97">ustnikom</comp>
+            </collocation>
+            <collocation form="podaljšek z ustnikom" cluster="3" frequency="9" logDice="9.53">
+              <comp position="1" type="collocate" sloleks="LE_a1d3e308f46f205e661eb67add922d6c">podaljšek</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_a981237988fd762b0309d93c4fa9fc97">ustnikom</comp>
+            </collocation>
+            <collocation form="ustnik z jezičkom" cluster="4" frequency="7" logDice="10.45">
+              <comp position="1" type="headword" sloleks="LE_a981237988fd762b0309d93c4fa9fc97">ustnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_e9017dde338d21a0e8745f5fd16ee6b6">jezičkom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

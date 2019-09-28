@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="25129">nedavčen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">698</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nedavčen prihodek" cluster="1" frequency="530" logDice="8.71">
+              <comp position="1" type="headword" sloleks="LE_8e69a5df1637eb6fe3580fd7a4e43cfb">nedavčen</comp>
+              <comp position="2" type="collocate" sloleks="LE_de5cc1b7caa91ade1bbe042baed0e9ad">prihodek</comp>
+            </collocation>
+            <collocation form="nedavčna obveznost" cluster="2" frequency="54" logDice="4.59">
+              <comp position="1" type="headword" sloleks="LE_8e69a5df1637eb6fe3580fd7a4e43cfb">nedavčna</comp>
+              <comp position="2" type="collocate" sloleks="LE_0588885dbe8f39694a2008d1244439fb">obveznost</comp>
+            </collocation>
+            <collocation form="nedavčen vir" cluster="3" frequency="37" logDice="3.26">
+              <comp position="1" type="headword" sloleks="LE_8e69a5df1637eb6fe3580fd7a4e43cfb">nedavčen</comp>
+              <comp position="2" type="collocate" sloleks="LE_f2868b5fa7700f4f1a6833f2b2436164">vir</comp>
+            </collocation>
+            <collocation form="nedavčen namen" cluster="4" frequency="6" logDice="1.33">
+              <comp position="1" type="headword" sloleks="LE_8e69a5df1637eb6fe3580fd7a4e43cfb">nedavčen</comp>
+              <comp position="2" type="collocate" sloleks="LE_b8bfcb1562b01862546effca7cc27d06">namen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="nedavčen in/ali davčen" cluster="1" frequency="29" logDice="8.28">
+              <comp position="3" type="headword" sloleks="LE_8e69a5df1637eb6fe3580fd7a4e43cfb">nedavčen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_95f5bba7f840f67a2ce5fd86d55a9c67">davčen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

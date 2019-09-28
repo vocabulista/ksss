@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="55006">edinstvenost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">900</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="edinstvenost posameznika" cluster="1" frequency="9" logDice="2.43">
+              <comp position="1" type="headword" sloleks="LE_32c07a42f0a2a09ca080b173f2f127e9">edinstvenost</comp>
+              <comp position="2" type="collocate" sloleks="LE_5870be796ec2c585c2a3e9baa4dac0bf">posameznika</comp>
+            </collocation>
+            <collocation form="čar edinstvenosti" cluster="2" frequency="6" logDice="5.04">
+              <comp position="1" type="collocate" sloleks="LE_605a040e7839c4b2c67bf6c59dbb0c2d">čar</comp>
+              <comp position="2" type="headword" sloleks="LE_32c07a42f0a2a09ca080b173f2f127e9">edinstvenosti</comp>
+            </collocation>
+            <collocation form="občutek edinstvenosti" cluster="3" frequency="8" logDice="2.37">
+              <comp position="1" type="collocate" sloleks="LE_23671e6156ee6c327e7c512a951bd4f3">občutek</comp>
+              <comp position="2" type="headword" sloleks="LE_32c07a42f0a2a09ca080b173f2f127e9">edinstvenosti</comp>
+            </collocation>
+            <collocation form="iskanje edinstvenosti" cluster="4" frequency="5" logDice="1.07">
+              <comp position="1" type="collocate" sloleks="LE_103c9dad021852fefa50fd064bb29039">iskanje</comp>
+              <comp position="2" type="headword" sloleks="LE_32c07a42f0a2a09ca080b173f2f127e9">edinstvenosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="ceniti edinstvenost" cluster="1" frequency="10" logDice="4.72">
+              <comp position="1" type="collocate" sloleks="LE_ef7c246de89acbeea7a20f835d325e51">ceniti</comp>
+              <comp position="2" type="headword" sloleks="LE_32c07a42f0a2a09ca080b173f2f127e9">edinstvenost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz o SBZ5">
+          <collocations>
+            <collocation form="prepričati o edinstvenosti" cluster="1" frequency="6" logDice="5.42">
+              <comp position="1" type="collocate" sloleks="LE_ee1436191287a986fbd9763c5a2f6c1a">prepričati</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_32c07a42f0a2a09ca080b173f2f127e9">edinstvenosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="zavest o edinstvenosti" cluster="1" frequency="4" logDice="5.08">
+              <comp position="1" type="collocate" sloleks="LE_c020891ce691dc822b49ef1af07144cd">zavest</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_32c07a42f0a2a09ca080b173f2f127e9">edinstvenosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="28002">parkinsonov</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1016</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="parkinsonova bolezen" cluster="1" frequency="965" logDice="7.94">
+              <comp position="1" type="headword" sloleks="LE_e018f5f02f091167a523b98771b21fb7">parkinsonova</comp>
+              <comp position="2" type="collocate" sloleks="LE_6fa279c9efca851861451ba08fd5fac5">bolezen</comp>
+            </collocation>
+            <collocation form="parkinsonov sindrom" cluster="2" frequency="6" logDice="4.36">
+              <comp position="1" type="headword" sloleks="LE_e018f5f02f091167a523b98771b21fb7">parkinsonov</comp>
+              <comp position="2" type="collocate" sloleks="LE_bf0c5212a7b89404b136b3e8066d2a94">sindrom</comp>
+            </collocation>
+            <collocation form="parkinsonov bolnik" cluster="3" frequency="10" logDice="3.13">
+              <comp position="1" type="headword" sloleks="LE_e018f5f02f091167a523b98771b21fb7">parkinsonov</comp>
+              <comp position="2" type="collocate" sloleks="LE_b6c5a89fe8af52cbe0faba9f493dfdf3">bolnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="parkinsonov in/ali alzheimerjev" cluster="1" frequency="108" logDice="13.81">
+              <comp position="3" type="headword" sloleks="LE_e018f5f02f091167a523b98771b21fb7">parkinsonov</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_db598f4dd2b2579be02c9a68bb9bdc45">alzheimerjev</comp>
+              </collocation>
+            <collocation form="parkinsonov in sladkoren" cluster="2" frequency="8" logDice="9.32">
+              <comp position="1" type="headword" sloleks="LE_e018f5f02f091167a523b98771b21fb7">parkinsonov</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_3af9ce19b52fc6df79edefa9fe8efe06">sladkoren</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="58762">gulden</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">507</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="gulden na dan" cluster="1" frequency="4" logDice="0.96">
+              <comp position="1" type="headword" sloleks="LE_ae8e48ea9bb7b4ef9fff55bb1fb8de92">gulden</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_687a3a5f213dba3724e626216f1b09da">dan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nizozemski gulden" cluster="1" frequency="126" logDice="6.96">
+              <comp position="1" type="collocate" sloleks="LE_9ba2fbb781de23576c981157998ecd6e">nizozemski</comp>
+              <comp position="2" type="headword" sloleks="LE_ae8e48ea9bb7b4ef9fff55bb1fb8de92">gulden</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="milijarda guldna" cluster="1" frequency="15" logDice="1.37">
+              <comp position="1" type="collocate" sloleks="LE_0472c46e70143cee7b7129bb1a56c223">milijarda</comp>
+              <comp position="2" type="headword" sloleks="LE_ae8e48ea9bb7b4ef9fff55bb1fb8de92">guldna</comp>
+            </collocation>
+            <collocation form="milijon guldna" cluster="2" frequency="42" logDice="1.18">
+              <comp position="1" type="collocate" sloleks="LE_2a2331d56b991dd431d773c6fd13ad7f">milijon</comp>
+              <comp position="2" type="headword" sloleks="LE_ae8e48ea9bb7b4ef9fff55bb1fb8de92">guldna</comp>
+            </collocation>
+            <collocation form="vrednost guldna" cluster="3" frequency="6" logDice="0.5">
+              <comp position="1" type="collocate" sloleks="LE_aa6bad87e3fba76f27f4242d3cb9a383">vrednost</comp>
+              <comp position="2" type="headword" sloleks="LE_ae8e48ea9bb7b4ef9fff55bb1fb8de92">guldna</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

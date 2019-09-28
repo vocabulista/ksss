@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="65435">krajšava</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">513</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="jadrati s krajšavo" cluster="1" frequency="4" logDice="8.06">
+              <comp position="1" type="collocate" sloleks="LE_867f626849160d52007f639fb7190fda">jadrati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_ddf3162e956615f5679cb0ab102f36b7">krajšavo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="seznam krajšave" cluster="1" frequency="8" logDice="1.94">
+              <comp position="1" type="collocate" sloleks="LE_8e07f7a6b825d8b6bf5b0aeab2d8d9b7">seznam</comp>
+              <comp position="2" type="headword" sloleks="LE_ddf3162e956615f5679cb0ab102f36b7">krajšave</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

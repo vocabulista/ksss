@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="64725">konsistenca</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">524</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="konsistenca betona" cluster="1" frequency="9" logDice="6.73">
+              <comp position="1" type="headword" sloleks="LE_76f58d23429ea4274457562b6b5ff027">konsistenca</comp>
+              <comp position="2" type="collocate" sloleks="LE_741c2eb9ff263a4bad99c73faf95bfcf">betona</comp>
+            </collocation>
+            <collocation form="konsistenca blata" cluster="2" frequency="10" logDice="6.38">
+              <comp position="1" type="headword" sloleks="LE_76f58d23429ea4274457562b6b5ff027">konsistenca</comp>
+              <comp position="2" type="collocate" sloleks="LE_eeef2e856c30cae614850901a958ea1a">blata</comp>
+            </collocation>
+            <collocation form="konsistenca mesa" cluster="3" frequency="9" logDice="3.38">
+              <comp position="1" type="headword" sloleks="LE_76f58d23429ea4274457562b6b5ff027">konsistenca</comp>
+              <comp position="2" type="collocate" sloleks="LE_4aa90a3e352de0e91eff0dc41f04a0ea">mesa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="čvrsta konsistenca" cluster="1" frequency="12" logDice="5.17">
+              <comp position="1" type="collocate" sloleks="LE_a78e8e07f29255dc79b2025336859bdb">čvrsta</comp>
+              <comp position="2" type="headword" sloleks="LE_76f58d23429ea4274457562b6b5ff027">konsistenca</comp>
+            </collocation>
+            <collocation form="trdna konsistenca" cluster="1" frequency="8" logDice="2.66">
+              <comp position="1" type="collocate" sloleks="LE_bbbbae1285728efb9693b8727b51a35e">trdna</comp>
+              <comp position="2" type="headword" sloleks="LE_76f58d23429ea4274457562b6b5ff027">konsistenca</comp>
+            </collocation>
+            <collocation form="notranja konsistenca" cluster="2" frequency="9" logDice="0.54">
+              <comp position="1" type="collocate" sloleks="LE_bca9138b9a7f57aa3e597de77446f7d5">notranja</comp>
+              <comp position="2" type="headword" sloleks="LE_76f58d23429ea4274457562b6b5ff027">konsistenca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="gomolj s konsistenco" cluster="1" frequency="9" logDice="11.23">
+              <comp position="1" type="collocate" sloleks="LE_420976673d2db7b16b1ee9f46b78703b">gomolj</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_76f58d23429ea4274457562b6b5ff027">konsistenco</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

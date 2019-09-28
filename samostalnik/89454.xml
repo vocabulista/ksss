@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="89454">slepec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1560</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Slepec iz Seville" cluster="1" frequency="9" logDice="9.68">
+              <comp position="1" type="headword" sloleks="LE_17a787d9c9c8d9ea701fa152f3f1ce0d">Slepec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_e2591056f3a65de164712c1b8ade44c1">Seville</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="mentalen slepec" cluster="1" frequency="11" logDice="5.69">
+              <comp position="1" type="collocate" sloleks="LE_6bca6a740036fc3180d34f946675fcfa">mentalen</comp>
+              <comp position="2" type="headword" sloleks="LE_17a787d9c9c8d9ea701fa152f3f1ce0d">slepec</comp>
+            </collocation>
+            <collocation form="ubog slepec" cluster="2" frequency="8" logDice="3.78">
+              <comp position="1" type="collocate" sloleks="LE_d321bf506113c7eb90b1fdf4c44e3b7f">ubog</comp>
+              <comp position="2" type="headword" sloleks="LE_17a787d9c9c8d9ea701fa152f3f1ce0d">slepec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

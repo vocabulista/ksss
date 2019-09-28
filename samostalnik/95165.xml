@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="95165">ušesce</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">410</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="ušesce za pritrditev" cluster="1" frequency="8" logDice="8.46">
+              <comp position="1" type="headword" sloleks="LE_37f28667f4cf6efef64e7942929a4c28">ušesce</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_0eb7d448e42fa4f391cbbe25b6c3d680">pritrditev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="lopatasto ušesce" cluster="1" frequency="11" logDice="9.84">
+              <comp position="1" type="collocate" sloleks="LE_a53a6922a3c7e668737305baaa8748b0">lopatasto</comp>
+              <comp position="2" type="headword" sloleks="LE_37f28667f4cf6efef64e7942929a4c28">ušesce</comp>
+            </collocation>
+            <collocation form="mišje ušesce" cluster="2" frequency="12" logDice="7.2">
+              <comp position="1" type="collocate" sloleks="LE_07e259752eaa64845cb141d2674a98fa">mišje</comp>
+              <comp position="2" type="headword" sloleks="LE_37f28667f4cf6efef64e7942929a4c28">ušesce</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="trnek z ušescem" cluster="1" frequency="7" logDice="10.42">
+              <comp position="1" type="collocate" sloleks="LE_6e76e601db8e023864c960004fa4c5e7">trnek</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_37f28667f4cf6efef64e7942929a4c28">ušescem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

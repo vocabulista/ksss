@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="54771">dvanajstletnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">462</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 brez sbz2">
+          <collocations>
+            <collocation form="dvanajstletnik brez kariesa" cluster="1" frequency="6" logDice="13.33">
+              <comp position="1" type="headword" sloleks="LE_5e031a38cfd41274d97b159305e72d97">dvanajstletnik</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="collocate" sloleks="LE_f94c92c2e5eb0211c7de0d0399527aa6">kariesa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 med sbz6">
+          <collocations>
+            <collocation form="dvanajstletnik med stvarjo" cluster="1" frequency="9" logDice="10.21">
+              <comp position="1" type="headword" sloleks="LE_5e031a38cfd41274d97b159305e72d97">dvanajstletnik</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_c62e36388a9104c47cf960cd4bdf4ca3">stvarjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="delež dvanajstletnika" cluster="1" frequency="7" logDice="1.4">
+              <comp position="1" type="collocate" sloleks="LE_8f8dbfe55e81431b97506b6dc95f9da4">delež</comp>
+              <comp position="2" type="headword" sloleks="LE_5e031a38cfd41274d97b159305e72d97">dvanajstletnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

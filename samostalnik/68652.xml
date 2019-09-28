@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="68652">maslenica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">439</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="rumena maslenica" cluster="1" frequency="22" logDice="3.41">
+              <comp position="1" type="collocate" sloleks="LE_7d837051cc47370840e73ef7ef063e1f">rumena</comp>
+              <comp position="2" type="headword" sloleks="LE_7e6a9b8d3014bb65eedb70d36460391c">maslenica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="sorta maslenice" cluster="1" frequency="24" logDice="6.35">
+              <comp position="1" type="collocate" sloleks="LE_c86ad87167b0e93c217178ab470266b8">sorta</comp>
+              <comp position="2" type="headword" sloleks="LE_7e6a9b8d3014bb65eedb70d36460391c">maslenice</comp>
+            </collocation>
+            <collocation form="cvet maslenice" cluster="2" frequency="10" logDice="5.37">
+              <comp position="1" type="collocate" sloleks="LE_94d0f7e010ad7f3fd319d2500a8722ff">cvet</comp>
+              <comp position="2" type="headword" sloleks="LE_7e6a9b8d3014bb65eedb70d36460391c">maslenice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

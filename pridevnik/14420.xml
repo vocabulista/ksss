@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="14420">bleščav</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">529</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="bleščav luskarica" cluster="1" frequency="7" logDice="9.04">
+              <comp position="1" type="headword" sloleks="LE_a98a2e2c3ce6cc0cfa24743d86b2924e">bleščav</comp>
+              <comp position="2" type="collocate" sloleks="">luskarica</comp>
+            </collocation>
+            <collocation form="bleščava podoba" cluster="2" frequency="17" logDice="2.4">
+              <comp position="1" type="headword" sloleks="LE_a98a2e2c3ce6cc0cfa24743d86b2924e">bleščava</comp>
+              <comp position="2" type="collocate" sloleks="LE_f981a5dcf51e5a8e22672e1d3009ebfe">podoba</comp>
+            </collocation>
+            <collocation form="bleščava luč" cluster="3" frequency="7" logDice="2.01">
+              <comp position="1" type="headword" sloleks="LE_a98a2e2c3ce6cc0cfa24743d86b2924e">bleščava</comp>
+              <comp position="2" type="collocate" sloleks="LE_961d46a09add5aa60fe89b731a22220a">luč</comp>
+            </collocation>
+            <collocation form="bleščav svet" cluster="4" frequency="25" logDice="0.63">
+              <comp position="1" type="headword" sloleks="LE_a98a2e2c3ce6cc0cfa24743d86b2924e">bleščav</comp>
+              <comp position="2" type="collocate" sloleks="LE_55184295ed657acc8ec5dcd62f7084bf">svet</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="manj bleščav" cluster="1" frequency="12" logDice="0.96">
+              <comp position="1" type="collocate" sloleks="LE_ecab8216e0225b7e80d79b53bd9b8959">manj</comp>
+              <comp position="2" type="headword" sloleks="LE_a98a2e2c3ce6cc0cfa24743d86b2924e">bleščav</comp>
+            </collocation>
+            <collocation form="preveč bleščav" cluster="2" frequency="5" logDice="0.61">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_a98a2e2c3ce6cc0cfa24743d86b2924e">bleščav</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

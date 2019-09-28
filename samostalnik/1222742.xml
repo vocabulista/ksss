@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="1222742">kladje</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 nad sbz6">
+          <collocations>
+            <collocation form="kladje nad BLANCA" cluster="1" frequency="14" logDice="12.56">
+              <comp position="1" type="headword" sloleks="">kladje</comp>
+              <comp position="2" type="other" sloleks="LE_d1a9059d44a24194d17af34039c48e9a">nad</comp>
+              <comp position="3" type="collocate" sloleks="">BLANCA</comp>
+            </collocation>
+            <collocation form="kladje nad Blanco" cluster="2" frequency="36" logDice="12.46">
+              <comp position="1" type="headword" sloleks="">kladje</comp>
+              <comp position="2" type="other" sloleks="LE_d1a9059d44a24194d17af34039c48e9a">nad</comp>
+              <comp position="3" type="collocate" sloleks="LE_b97c7b151e38a0c15cd14728fbbe88ea">Blanco</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="Hladnik iz kladje" cluster="1" frequency="4" logDice="9.88">
+              <comp position="1" type="collocate" sloleks="LE_c4c2d61aed5070003e0df1ec512ab43a|LE_0edfa1441d2d6f8af43810e5986f8b04">Hladnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="">kladje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ4">
+          <collocations>
+            <collocation form="vzpon na Kladje" cluster="1" frequency="27" logDice="7.15">
+              <comp position="1" type="collocate" sloleks="LE_0f2ae2141b243dd610bd05e1a148f9b2">vzpon</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="">Kladje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 pod SBZ6">
+          <collocations>
+            <collocation form="predor pod kladje" cluster="1" frequency="16" logDice="8.61">
+              <comp position="1" type="collocate" sloleks="LE_bc33b8472c1efdaeb8b571eb6c0632a4">predor</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="headword" sloleks="">kladje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="33430">šeriatski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">865</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 rbz">
+          <collocations>
+            <collocation form="šeriatski pravo" cluster="1" frequency="96" logDice="11.28">
+              <comp position="1" type="headword" sloleks="LE_ef5a411bba02556e6eee0ec526a5c2c3">šeriatski</comp>
+              <comp position="2" type="collocate" sloleks="LE_a19d986f465da6bc1e94b7a8c86c1e71">pravo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="šeriatsko pravo" cluster="1" frequency="512" logDice="8.59">
+              <comp position="1" type="headword" sloleks="LE_ef5a411bba02556e6eee0ec526a5c2c3">šeriatsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_57d25ef076cc8d9b8a6d74e69a80c007">pravo</comp>
+            </collocation>
+            <collocation form="šeriatsko sodišče" cluster="2" frequency="54" logDice="2.39">
+              <comp position="1" type="headword" sloleks="LE_ef5a411bba02556e6eee0ec526a5c2c3">šeriatsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_989f65b9e9021c2bfb10c5161a6e59ab">sodišče</comp>
+            </collocation>
+            <collocation form="šeriatski zakon" cluster="3" frequency="31" logDice="2.28">
+              <comp position="1" type="headword" sloleks="LE_ef5a411bba02556e6eee0ec526a5c2c3">šeriatski</comp>
+              <comp position="2" type="collocate" sloleks="LE_b3ce668b2bbbbdfa905463c113c05551">zakon</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

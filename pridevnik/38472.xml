@@ -1,0 +1,63 @@
+<entry>
+  <header>
+    <lexical_unit id="38472">zakupen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1344</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="zakupen in koncesijski" cluster="1" frequency="12" logDice="11.42">
+              <comp position="1" type="headword" sloleks="LE_bb345358e37264b1dd921426c3f7e38a">zakupen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_2defa07b0c9ba6cb1c574590fe6c3aec">koncesijski</comp>
+            </collocation>
+            <collocation form="zakupen in/ali najemen" cluster="2" frequency="33" logDice="11.41">
+              <comp position="3" type="headword" sloleks="LE_bb345358e37264b1dd921426c3f7e38a">zakupen</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_f1e02b39214139fe710d12681be09ba6">najemen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="zakupna pogodba" cluster="1" frequency="939" logDice="7.32">
+              <comp position="1" type="headword" sloleks="LE_bb345358e37264b1dd921426c3f7e38a">zakupna</comp>
+              <comp position="2" type="collocate" sloleks="LE_f8f86304f16174105dd9c075264d9c0c">pogodba</comp>
+            </collocation>
+            <collocation form="zakupna pravica" cluster="1" frequency="41" logDice="2.47">
+              <comp position="1" type="headword" sloleks="LE_bb345358e37264b1dd921426c3f7e38a">zakupna</comp>
+              <comp position="2" type="collocate" sloleks="LE_8c0e472df622ea735bcaed6544ab6130">pravica</comp>
+            </collocation>
+            <collocation form="zakupen leasing" cluster="2" frequency="7" logDice="7.04">
+              <comp position="1" type="headword" sloleks="LE_bb345358e37264b1dd921426c3f7e38a">zakupen</comp>
+              <comp position="2" type="collocate" sloleks="LE_f8f494afe1d2c74faf9ace08c968ba23">leasing</comp>
+            </collocation>
+            <collocation form="zakupen revir" cluster="3" frequency="9" logDice="6.59">
+              <comp position="1" type="headword" sloleks="LE_bb345358e37264b1dd921426c3f7e38a">zakupen</comp>
+              <comp position="2" type="collocate" sloleks="LE_24c6553c9762479231aab4328b97cdc1">revir</comp>
+            </collocation>
+            <collocation form="zakupno razmerje" cluster="4" frequency="186" logDice="5.65">
+              <comp position="1" type="headword" sloleks="LE_bb345358e37264b1dd921426c3f7e38a">zakupno</comp>
+              <comp position="2" type="collocate" sloleks="LE_34acd9846cdc68db26c51b6d15765ea9">razmerje</comp>
+            </collocation>
+            <collocation form="zakupno zemljišče" cluster="5" frequency="23" logDice="3.37">
+              <comp position="1" type="headword" sloleks="LE_bb345358e37264b1dd921426c3f7e38a">zakupno</comp>
+              <comp position="2" type="collocate" sloleks="LE_1cfb3ff88e57bbeea24a81c9c41ac50b">zemljišče</comp>
+            </collocation>
+            <collocation form="zakupna doba" cluster="6" frequency="28" logDice="2.93">
+              <comp position="1" type="headword" sloleks="LE_bb345358e37264b1dd921426c3f7e38a">zakupna</comp>
+              <comp position="2" type="collocate" sloleks="LE_de90dd1327fca7d794058c6493fad6f6">doba</comp>
+            </collocation>
+            <collocation form="zakupen posel" cluster="7" frequency="11" logDice="2.32">
+              <comp position="1" type="headword" sloleks="LE_bb345358e37264b1dd921426c3f7e38a">zakupen</comp>
+              <comp position="2" type="collocate" sloleks="LE_4944cd3b7cdda05428aed18cfcac7eb9">posel</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

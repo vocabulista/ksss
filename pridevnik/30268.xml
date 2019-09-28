@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="30268">preglasovan</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">526</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 z sbz6">
+          <collocations>
+            <collocation form="preglasovan z glasom" cluster="1" frequency="5" logDice="7.7">
+              <comp position="1" type="headword" sloleks="LE_74bc02d45074abe51a0dedab841827fd">preglasovan</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_bdaf56c7a9eddd2562b11c97c0770037">glasom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="gladko preglasovan" cluster="1" frequency="5" logDice="6.6">
+              <comp position="1" type="collocate" sloleks="LE_04f6b62593d47982a0c9491a83a5c03f">gladko</comp>
+              <comp position="2" type="headword" sloleks="LE_74bc02d45074abe51a0dedab841827fd">preglasovan</comp>
+            </collocation>
+            <collocation form="vedno preglasovan" cluster="2" frequency="35" logDice="2.52">
+              <comp position="1" type="collocate" sloleks="LE_eaabd5718a27f818fd47358031426355">vedno</comp>
+              <comp position="2" type="headword" sloleks="LE_74bc02d45074abe51a0dedab841827fd">preglasovan</comp>
+            </collocation>
+            <collocation form="zmeraj preglasovan" cluster="2" frequency="6" logDice="4.36">
+              <comp position="1" type="collocate" sloleks="LE_af40c5dc2e2ae640d0412a3dd466706a">zmeraj</comp>
+              <comp position="2" type="headword" sloleks="LE_74bc02d45074abe51a0dedab841827fd">preglasovan</comp>
+            </collocation>
+            <collocation form="vselej preglasovan" cluster="2" frequency="6" logDice="4.36">
+              <comp position="1" type="collocate" sloleks="LE_adb55abbe20eb12d2450b4d97a125879">vselej</comp>
+              <comp position="2" type="headword" sloleks="LE_74bc02d45074abe51a0dedab841827fd">preglasovan</comp>
+            </collocation>
+            <collocation form="praviloma preglasovan" cluster="2" frequency="5" logDice="4.08">
+              <comp position="1" type="collocate" sloleks="LE_f6af99887d898ba3132f601c49359983">praviloma</comp>
+              <comp position="2" type="headword" sloleks="LE_74bc02d45074abe51a0dedab841827fd">preglasovan</comp>
+            </collocation>
+            <collocation form="prvič preglasovan" cluster="3" frequency="6" logDice="3.8">
+              <comp position="1" type="collocate" sloleks="LE_158f9759a5a0a0e9ff58fb78bcd899f2">prvič</comp>
+              <comp position="2" type="headword" sloleks="LE_74bc02d45074abe51a0dedab841827fd">preglasovan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

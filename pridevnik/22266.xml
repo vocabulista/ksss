@@ -1,0 +1,73 @@
+<entry>
+  <header>
+    <lexical_unit id="22266">kupoprodajen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">3743</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="kupoprodajen in najemen" cluster="1" frequency="31" logDice="11.3">
+              <comp position="1" type="headword" sloleks="LE_47b1ef1ef0524eeb5138b20502158e69">kupoprodajen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_f1e02b39214139fe710d12681be09ba6">najemen</comp>
+            </collocation>
+            <collocation form="kupoprodajen ali darilen" cluster="2" frequency="14" logDice="11.03">
+              <comp position="1" type="headword" sloleks="LE_47b1ef1ef0524eeb5138b20502158e69">kupoprodajen</comp>
+              <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_0b354fed08a188e15a5abf26fe2036c0">darilen</comp>
+            </collocation>
+            <collocation form="kupoprodajen in menjalen" cluster="3" frequency="9" logDice="10.82">
+              <comp position="1" type="headword" sloleks="LE_47b1ef1ef0524eeb5138b20502158e69">kupoprodajen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_cc10c11454bc1bff51b79765bcc6ccef">menjalen</comp>
+            </collocation>
+            <collocation form="kupoprodajen in tranziten" cluster="4" frequency="7" logDice="9.56">
+              <comp position="1" type="headword" sloleks="LE_47b1ef1ef0524eeb5138b20502158e69">kupoprodajen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_bf0b41cb6e6e7985a8cc8745268cf783">tranziten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="kupoprodajna pogodba" cluster="1" frequency="3374" logDice="9.15">
+              <comp position="1" type="headword" sloleks="LE_47b1ef1ef0524eeb5138b20502158e69">kupoprodajna</comp>
+              <comp position="2" type="collocate" sloleks="LE_f8f86304f16174105dd9c075264d9c0c">pogodba</comp>
+            </collocation>
+            <collocation form="kupoprodajna predpogodba" cluster="2" frequency="13" logDice="6.71">
+              <comp position="1" type="headword" sloleks="LE_47b1ef1ef0524eeb5138b20502158e69">kupoprodajna</comp>
+              <comp position="2" type="collocate" sloleks="LE_2de848b6833f0daad1e417b6a13601f1">predpogodba</comp>
+            </collocation>
+            <collocation form="kupoprodajen posel" cluster="3" frequency="91" logDice="5.31">
+              <comp position="1" type="headword" sloleks="LE_47b1ef1ef0524eeb5138b20502158e69">kupoprodajen</comp>
+              <comp position="2" type="collocate" sloleks="LE_4944cd3b7cdda05428aed18cfcac7eb9">posel</comp>
+            </collocation>
+            <collocation form="kupoprodajen odnos" cluster="3" frequency="71" logDice="3.56">
+              <comp position="1" type="headword" sloleks="LE_47b1ef1ef0524eeb5138b20502158e69">kupoprodajen</comp>
+              <comp position="2" type="collocate" sloleks="LE_77f2f37de07cb9f39cb3dd828efa7919">odnos</comp>
+            </collocation>
+            <collocation form="kupoprodajen postopek" cluster="3" frequency="13" logDice="0.86">
+              <comp position="1" type="headword" sloleks="LE_47b1ef1ef0524eeb5138b20502158e69">kupoprodajen</comp>
+              <comp position="2" type="collocate" sloleks="LE_775481f1f5ba42be7d6b3125176050cb">postopek</comp>
+            </collocation>
+            <collocation form="kupoprodajna cena" cluster="4" frequency="19" logDice="1.46">
+              <comp position="1" type="headword" sloleks="LE_47b1ef1ef0524eeb5138b20502158e69">kupoprodajna</comp>
+              <comp position="2" type="collocate" sloleks="LE_69b40aa886598a40e47070a0270e9b28">cena</comp>
+            </collocation>
+            <collocation form="kupoprodajna vrednost" cluster="4" frequency="12" logDice="1.13">
+              <comp position="1" type="headword" sloleks="LE_47b1ef1ef0524eeb5138b20502158e69">kupoprodajna</comp>
+              <comp position="2" type="collocate" sloleks="LE_aa6bad87e3fba76f27f4242d3cb9a383">vrednost</comp>
+            </collocation>
+            <collocation form="kupoprodajno razmerje" cluster="5" frequency="10" logDice="1.4">
+              <comp position="1" type="headword" sloleks="LE_47b1ef1ef0524eeb5138b20502158e69">kupoprodajno</comp>
+              <comp position="2" type="collocate" sloleks="LE_34acd9846cdc68db26c51b6d15765ea9">razmerje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

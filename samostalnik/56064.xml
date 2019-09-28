@@ -1,0 +1,204 @@
+<entry>
+  <header>
+    <lexical_unit id="56064">faktura</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1469</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz2">
+          <collocations>
+            <collocation form="faktura za milijona" cluster="1" frequency="5" logDice="3.48">
+              <comp position="1" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">faktura</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_2a2331d56b991dd431d773c6fd13ad7f">milijona</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="faktura za blago" cluster="1" frequency="11" logDice="7.19">
+              <comp position="1" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">faktura</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_2c37e2846fd184de09f16e125bb1c28d">blago</comp>
+            </collocation>
+            <collocation form="faktura za storitev" cluster="2" frequency="11" logDice="5.64">
+              <comp position="1" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">faktura</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_abb14230c15d4fd66a15377c1ed699a9">storitev</comp>
+            </collocation>
+            <collocation form="faktura za plačilo" cluster="2" frequency="11" logDice="4.77">
+              <comp position="1" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">faktura</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_3bb5e78707260b905240767d7a877341">plačilo</comp>
+            </collocation>
+            <collocation form="faktura za svetovanje" cluster="3" frequency="4" logDice="4.94">
+              <comp position="1" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">faktura</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_6f8a76560c5509eac476f3badcd6fcd2">svetovanje</comp>
+            </collocation>
+            <collocation form="faktura za delo" cluster="4" frequency="10" logDice="1.42">
+              <comp position="1" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">faktura</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+            </collocation>
+            <collocation form="faktura za izvedbo" cluster="4" frequency="4" logDice="3.1">
+              <comp position="1" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">faktura</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_eac3c24d63d8726c39a0f4570aa48a38">izvedbo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="izstaviti fakturo" cluster="1" frequency="22" logDice="8.46">
+              <comp position="1" type="collocate" sloleks="LE_8a6c76464f9bbc5a4f65af13e217f0ac">izstaviti</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakturo</comp>
+            </collocation>
+            <collocation form="izdati fakturo" cluster="2" frequency="24" logDice="3.59">
+              <comp position="1" type="collocate" sloleks="LE_c2eb201d8162e3c20ab158d6b46935eb">izdati</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakturo</comp>
+            </collocation>
+            <collocation form="prinesti fakturo" cluster="3" frequency="14" logDice="2.5">
+              <comp position="1" type="collocate" sloleks="LE_376b846259c21a1cacd9ac530246f078">prinesti</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakturo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za fakturo" cluster="1" frequency="4" logDice="-1.6">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakturo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="izstavljena faktura" cluster="1" frequency="28" logDice="9.5">
+              <comp position="1" type="collocate" sloleks="LE_2aabd2c535474e4db66e8b72c48e7922">izstavljena</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">faktura</comp>
+            </collocation>
+            <collocation form="fiktivna faktura" cluster="2" frequency="41" logDice="7.66">
+              <comp position="1" type="collocate" sloleks="LE_3dafcd95c5d0a8884f9197c1a94787da">fiktivna</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">faktura</comp>
+            </collocation>
+            <collocation form="izdana faktura" cluster="3" frequency="45" logDice="6.07">
+              <comp position="1" type="collocate" sloleks="LE_e3731cabe7d43c57edc380355bcc964f">izdana</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">faktura</comp>
+            </collocation>
+            <collocation form="plačana faktura" cluster="3" frequency="11" logDice="3.46">
+              <comp position="1" type="collocate" sloleks="LE_48b7b409d4bbc79cf5e4fdd356e1b2e5">plačana</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">faktura</comp>
+            </collocation>
+            <collocation form="neplačana faktura" cluster="4" frequency="15" logDice="6.05">
+              <comp position="1" type="collocate" sloleks="LE_101c7e4b957f1aaee3cd0bc4e9fb0437">neplačana</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">faktura</comp>
+            </collocation>
+            <collocation form="prejeta faktura" cluster="5" frequency="30" logDice="5.99">
+              <comp position="1" type="collocate" sloleks="LE_4060e1fe67b57246dc6689a45f1fa847">prejeta</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">faktura</comp>
+            </collocation>
+            <collocation form="lažna faktura" cluster="6" frequency="29" logDice="5.61">
+              <comp position="1" type="collocate" sloleks="LE_4df0103c461ede02543f7c59d30bfc15">lažna</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">faktura</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 v SBZ5">
+          <collocations>
+            <collocation form="naveden v fakturi" cluster="1" frequency="6" logDice="4.25">
+              <comp position="1" type="collocate" sloleks="LE_4407d92a2334829b465cba61fda81be9">naveden</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakturi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="izstavitev fakture" cluster="1" frequency="14" logDice="8.91">
+              <comp position="1" type="collocate" sloleks="LE_b3fd08028d5e53e95c1f1930fcbd74fb">izstavitev</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakture</comp>
+            </collocation>
+            <collocation form="zapadlost fakture" cluster="2" frequency="6" logDice="6.98">
+              <comp position="1" type="collocate" sloleks="LE_65f11509ff164acece6de04054c96e5b">zapadlost</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakture</comp>
+            </collocation>
+            <collocation form="podlaga fakture" cluster="3" frequency="26" logDice="2.25">
+              <comp position="1" type="collocate" sloleks="LE_e6e88eb8a2a7234da435310d47275f97">podlaga</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakture</comp>
+            </collocation>
+            <collocation form="osnova fakture" cluster="3" frequency="8" logDice="2.19">
+              <comp position="1" type="collocate" sloleks="LE_25d7e9c6fd68f8446f6a04b8cfe6afcd">osnova</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakture</comp>
+            </collocation>
+            <collocation form="izdelava fakture" cluster="4" frequency="6" logDice="1.48">
+              <comp position="1" type="collocate" sloleks="LE_58e4c9eb6d6ddc69a009737fc482eaa5">izdelava</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakture</comp>
+            </collocation>
+            <collocation form="izdaja fakture" cluster="5" frequency="21" logDice="3.49">
+              <comp position="1" type="collocate" sloleks="LE_7683011bbc418354ce3ad92abaaaca94">izdaja</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakture</comp>
+            </collocation>
+            <collocation form="številka fakture" cluster="5" frequency="5" logDice="1.37">
+              <comp position="1" type="collocate" sloleks="LE_ebd741e03af85017076d3a5582503217">številka</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakture</comp>
+            </collocation>
+            <collocation form="pregled fakture" cluster="6" frequency="5" logDice="1.32">
+              <comp position="1" type="collocate" sloleks="LE_f84d3e1b7c509859312a86eee2d89a39">pregled</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakture</comp>
+            </collocation>
+            <collocation form="plačilo fakture" cluster="7" frequency="21" logDice="3.62">
+              <comp position="1" type="collocate" sloleks="LE_3bb5e78707260b905240767d7a877341">plačilo</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakture</comp>
+            </collocation>
+            <collocation form="vrednost fakture" cluster="7" frequency="10" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_aa6bad87e3fba76f27f4242d3cb9a383">vrednost</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakture</comp>
+            </collocation>
+            <collocation form="znesek fakture" cluster="7" frequency="6" logDice="2.69">
+              <comp position="1" type="collocate" sloleks="LE_a75997c3fecf67d735c87a0515fc6386">znesek</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakture</comp>
+            </collocation>
+            <collocation form="likvidacija fakture" cluster="8" frequency="8" logDice="6.08">
+              <comp position="1" type="collocate" sloleks="LE_2a7908accb57793728c384f5623ff1d2">likvidacija</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakture</comp>
+            </collocation>
+            <collocation form="izdajanje fakture" cluster="9" frequency="16" logDice="5.7">
+              <comp position="1" type="collocate" sloleks="LE_fc9f434e3c87def88e4e9b7b78aca952">izdajanje</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakture</comp>
+            </collocation>
+            <collocation form="plačevanje fakture" cluster="9" frequency="10" logDice="4.25">
+              <comp position="1" type="collocate" sloleks="LE_94140f5f661b1cd220c1a624d412d1a1">plačevanje</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakture</comp>
+            </collocation>
+            <collocation form="kopija fakture" cluster="10" frequency="20" logDice="5.6">
+              <comp position="1" type="collocate" sloleks="LE_dd0940eed247f743100a6d188a6b53ee">kopija</comp>
+              <comp position="2" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakture</comp>
+            </collocation>
+            <collocation form="faktura družbe" cluster="11" frequency="18" logDice="1.46">
+              <comp position="1" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">faktura</comp>
+              <comp position="2" type="collocate" sloleks="LE_4d78f38b1eeb8492cae54547d0252bf9">družbe</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ5">
+          <collocations>
+            <collocation form="rabat na fakturi" cluster="1" frequency="4" logDice="11.83">
+              <comp position="1" type="collocate" sloleks="LE_0c7e48087b8c42c30bf0a6e6e1ebc9af">rabat</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakturi</comp>
+            </collocation>
+            <collocation form="izjava na fakturi" cluster="2" frequency="6" logDice="7.47">
+              <comp position="1" type="collocate" sloleks="LE_43a60c321a9a7889eb71aacc9ccb368f">izjava</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">fakturi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

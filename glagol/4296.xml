@@ -1,0 +1,75 @@
+<entry>
+  <header>
+    <lexical_unit id="4296">oproščati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">984</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz3">
+          <collocations>
+            <collocation form="oproščati gledalcu" cluster="1" frequency="4" logDice="4.54">
+              <comp position="1" type="headword" sloleks="LE_30d6de70b86fc79c0959c7af16935bea">oproščati</comp>
+              <comp position="2" type="collocate" sloleks="LE_85e07971e615ac21ed6e5281ab7db6cd">gledalcu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="oproščati greh" cluster="1" frequency="7" logDice="6.52">
+              <comp position="1" type="headword" sloleks="LE_30d6de70b86fc79c0959c7af16935bea">oproščati</comp>
+              <comp position="2" type="collocate" sloleks="LE_5eb65c354edc10bc2e3d01c62891b52e">greh</comp>
+            </collocation>
+            <collocation form="oproščati napako" cluster="2" frequency="6" logDice="2.33">
+              <comp position="1" type="headword" sloleks="LE_30d6de70b86fc79c0959c7af16935bea">oproščati</comp>
+              <comp position="2" type="collocate" sloleks="LE_062a179ee1410808218c093ac1a7b38b">napako</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="oproščati za napako" cluster="1" frequency="11" logDice="5.93">
+              <comp position="1" type="headword" sloleks="LE_30d6de70b86fc79c0959c7af16935bea">oproščati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_062a179ee1410808218c093ac1a7b38b">napako</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz SBZ2">
+          <collocations>
+            <collocation form="ne oproščati napake" cluster="1" frequency="8" logDice="6.39">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_30d6de70b86fc79c0959c7af16935bea">oproščati</comp>
+              <comp position="3" type="collocate" sloleks="LE_062a179ee1410808218c093ac1a7b38b">napake</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="napak oproščati" cluster="1" frequency="5" logDice="6.27">
+              <comp position="1" type="collocate" sloleks="">napak</comp>
+              <comp position="2" type="headword" sloleks="LE_30d6de70b86fc79c0959c7af16935bea">oproščati</comp>
+            </collocation>
+            <collocation form="vnaprej oproščati" cluster="2" frequency="10" logDice="4.06">
+              <comp position="1" type="collocate" sloleks="LE_ad1cb50ed57f9533503dcdd605219223">vnaprej</comp>
+              <comp position="2" type="headword" sloleks="LE_30d6de70b86fc79c0959c7af16935bea">oproščati</comp>
+            </collocation>
+            <collocation form="globoko oproščati" cluster="3" frequency="4" logDice="2.83">
+              <comp position="1" type="collocate" sloleks="LE_41f4fa45fdf80f6a05a39e6d375238f7">globoko</comp>
+              <comp position="2" type="headword" sloleks="LE_30d6de70b86fc79c0959c7af16935bea">oproščati</comp>
+            </collocation>
+            <collocation form="enkrat oproščati" cluster="4" frequency="4" logDice="0.32">
+              <comp position="1" type="collocate" sloleks="LE_a9aa19f4d3fe9f31d405ae8828e4b2fd">enkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_30d6de70b86fc79c0959c7af16935bea">oproščati</comp>
+            </collocation>
+            <collocation form="vse oproščati" cluster="5" frequency="6" logDice="0.28">
+              <comp position="1" type="collocate" sloleks="LE_69e1f6ea0eba690182112fa5f7865561">vse</comp>
+              <comp position="2" type="headword" sloleks="LE_30d6de70b86fc79c0959c7af16935bea">oproščati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

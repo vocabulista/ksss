@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="51765">citadela</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">531</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz do SBZ2">
+          <collocations>
+            <collocation form="priti do citadele" cluster="1" frequency="6" logDice="-0.1">
+              <comp position="1" type="collocate" sloleks="LE_fc339e29cc0e8ec9efe1ef0acdfb11b5">priti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_cc941f377d028c391209797f43a6aa2a">citadele</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="ostanek citadele" cluster="1" frequency="5" logDice="2.32">
+              <comp position="1" type="collocate" sloleks="LE_1e8f1a48f0110a2a2ede2cf44f8963e5">ostanek</comp>
+              <comp position="2" type="headword" sloleks="LE_cc941f377d028c391209797f43a6aa2a">citadele</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ4">
+          <collocations>
+            <collocation form="vožnja na Citadelo" cluster="1" frequency="17" logDice="6.74">
+              <comp position="1" type="collocate" sloleks="LE_cd6b5da723aa271ed871bf1d115652d0">vožnja</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_cc941f377d028c391209797f43a6aa2a">Citadelo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

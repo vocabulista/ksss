@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="1111715">janez</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="janez janša" cluster="1" frequency="42" logDice="12.27">
+              <comp position="1" type="headword" sloleks="">janez</comp>
+              <comp position="2" type="collocate" sloleks="">janša</comp>
+            </collocation>
+            <collocation form="Ivan janez" cluster="2" frequency="5" logDice="2.6">
+              <comp position="1" type="collocate" sloleks="LE_df1f0c9dc334b34a4b415a493216dbc6">Ivan</comp>
+              <comp position="2" type="headword" sloleks="">janez</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="strinjati z janez" cluster="1" frequency="4" logDice="1.92">
+              <comp position="1" type="collocate" sloleks="LE_3491e566bd1448606c7f4b69a31b0f5a">strinjati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="">janez</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="kranjski janez" cluster="1" frequency="8" logDice="1.44">
+              <comp position="1" type="collocate" sloleks="LE_0bd8e638d4f62a846bbd7f0cc97d5f60">kranjski</comp>
+              <comp position="2" type="headword" sloleks="">janez</comp>
+            </collocation>
+            <collocation form="drag janez" cluster="2" frequency="8" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_3bb482d1c1244ec8fa97ee4afaf36841">drag</comp>
+              <comp position="2" type="headword" sloleks="">janez</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

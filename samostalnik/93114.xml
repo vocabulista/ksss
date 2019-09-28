@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="93114">terica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">436</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="terica s prikazom" cluster="1" frequency="5" logDice="6.72">
+              <comp position="1" type="headword" sloleks="LE_7390c81aaa9716d38ceac80a96ebb72a">terica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_85696e09ddab3801fff8602d0bf167cc">prikazom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Dan terice" cluster="1" frequency="161" logDice="4.38">
+              <comp position="1" type="collocate" sloleks="LE_687a3a5f213dba3724e626216f1b09da">Dan</comp>
+              <comp position="2" type="headword" sloleks="LE_7390c81aaa9716d38ceac80a96ebb72a">terice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

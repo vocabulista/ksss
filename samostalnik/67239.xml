@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="67239">likvidator</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">641</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="likvidator škode" cluster="1" frequency="14" logDice="3.52">
+              <comp position="1" type="headword" sloleks="LE_ed5a084d1494365023a93cd6a850f2ac">likvidator</comp>
+              <comp position="2" type="collocate" sloleks="LE_d0eef6fed3fa66df037002eb7e67a633">škode</comp>
+            </collocation>
+            <collocation form="likvidator banke" cluster="2" frequency="8" logDice="1.02">
+              <comp position="1" type="headword" sloleks="LE_ed5a084d1494365023a93cd6a850f2ac">likvidator</comp>
+              <comp position="2" type="collocate" sloleks="LE_efdb4fed18a2b60ac11282627b28fcfc">banke</comp>
+            </collocation>
+            <collocation form="strela likvidatorja" cluster="3" frequency="7" logDice="7.6">
+              <comp position="1" type="collocate" sloleks="LE_88e8aae1402f4f6c565e2d46b6364154">strela</comp>
+              <comp position="2" type="headword" sloleks="LE_ed5a084d1494365023a93cd6a850f2ac">likvidatorja</comp>
+            </collocation>
+            <collocation form="imenovanje likvidatorja" cluster="4" frequency="6" logDice="2.86">
+              <comp position="1" type="collocate" sloleks="LE_ba60f0292d1bbec186162866dd06f3ca">imenovanje</comp>
+              <comp position="2" type="headword" sloleks="LE_ed5a084d1494365023a93cd6a850f2ac">likvidatorja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="komunističen likvidator" cluster="1" frequency="12" logDice="3.32">
+              <comp position="1" type="collocate" sloleks="LE_06af3663b0d0a14b9482ae984fa41d59">komunističen</comp>
+              <comp position="2" type="headword" sloleks="LE_ed5a084d1494365023a93cd6a850f2ac">likvidator</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

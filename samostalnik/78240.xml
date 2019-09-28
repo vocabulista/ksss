@@ -1,0 +1,68 @@
+<entry>
+  <header>
+    <lexical_unit id="78240">planja</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1058</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz5">
+          <collocations>
+            <collocation form="Planja na Rogli" cluster="1" frequency="140" logDice="10.21">
+              <comp position="1" type="headword" sloleks="LE_22c300c25e33ba00690a42990520cd0e">Planja</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_69c3f128528e3ef7b2e1a705dd1ecb6f">Rogli</comp>
+            </collocation>
+            <collocation form="planina na planji" cluster="2" frequency="6" logDice="8.58">
+              <comp position="1" type="collocate" sloleks="LE_3627874c5d915aefdc9f6b307cfcc343">planina</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_22c300c25e33ba00690a42990520cd0e">planji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ5">
+          <collocations>
+            <collocation form="pasti na planji" cluster="1" frequency="4" logDice="4.33">
+              <comp position="1" type="collocate" sloleks="LE_9c5333dc145d219ffad1bd55c6515869|LE_65b3289c37b74101215c75d41cc90182">pasti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_22c300c25e33ba00690a42990520cd0e">planji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="laška planja" cluster="1" frequency="45" logDice="6.93">
+              <comp position="1" type="collocate" sloleks="LE_ec2374cca8e02ff8899b0e133cd1194b">laška</comp>
+              <comp position="2" type="headword" sloleks="LE_22c300c25e33ba00690a42990520cd0e">planja</comp>
+            </collocation>
+            <collocation form="pohorska planja" cluster="2" frequency="20" logDice="6.25">
+              <comp position="1" type="collocate" sloleks="LE_b35e30c47d198c5c470f16c884969b8a">pohorska</comp>
+              <comp position="2" type="headword" sloleks="LE_22c300c25e33ba00690a42990520cd0e">planja</comp>
+            </collocation>
+            <collocation form="ovčja planja" cluster="3" frequency="8" logDice="5.45">
+              <comp position="1" type="collocate" sloleks="LE_fc67f15be413418d89197fafcd0e8d98">ovčja</comp>
+              <comp position="2" type="headword" sloleks="LE_22c300c25e33ba00690a42990520cd0e">planja</comp>
+            </collocation>
+            <collocation form="zasnežena planja" cluster="4" frequency="8" logDice="5.34">
+              <comp position="1" type="collocate" sloleks="LE_e6a90c20151252f9b8574533dcde3536">zasnežena</comp>
+              <comp position="2" type="headword" sloleks="LE_22c300c25e33ba00690a42990520cd0e">planja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="kamnolom Planje" cluster="1" frequency="5" logDice="8.08">
+              <comp position="1" type="collocate" sloleks="LE_5a0ffdce1f42dcde5a9d665268a770f6">kamnolom</comp>
+              <comp position="2" type="headword" sloleks="LE_22c300c25e33ba00690a42990520cd0e">Planje</comp>
+            </collocation>
+            <collocation form="vrh Planje" cluster="2" frequency="50" logDice="4.17">
+              <comp position="1" type="collocate" sloleks="LE_5111d9a7de58321a8ec7f1a0aa9fce76">vrh</comp>
+              <comp position="2" type="headword" sloleks="LE_22c300c25e33ba00690a42990520cd0e">Planje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,56 @@
+<entry>
+  <header>
+    <lexical_unit id="2433">maskirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">612</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="maskirati poškodovanca" cluster="1" frequency="4" logDice="9.21">
+              <comp position="1" type="headword" sloleks="LE_b4baaec4644c99499828585363bdaeaa">maskirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6960a0808bd645cc135e88aab1bf8512">poškodovanca</comp>
+            </collocation>
+            <collocation form="maskirati igralca" cluster="2" frequency="4" logDice="2.77">
+              <comp position="1" type="headword" sloleks="LE_b4baaec4644c99499828585363bdaeaa">maskirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_c5f3764dd8399d57d5e0481ee84f7da6">igralca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="maskirati v žensko" cluster="1" frequency="14" logDice="8.41">
+              <comp position="1" type="headword" sloleks="LE_b4baaec4644c99499828585363bdaeaa">maskirati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_27b2cafdf8a189c632c32da066af1ce5">žensko</comp>
+            </collocation>
+            <collocation form="maskirati v moškega" cluster="2" frequency="4" logDice="7.31">
+              <comp position="1" type="headword" sloleks="LE_b4baaec4644c99499828585363bdaeaa">maskirati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_25c4075e38aa692c9790c4ffdb7260db">moškega</comp>
+            </collocation>
+            <collocation form="maskirati v lik" cluster="3" frequency="5" logDice="7.21">
+              <comp position="1" type="headword" sloleks="LE_b4baaec4644c99499828585363bdaeaa">maskirati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_7a23a0805c1d29c24149e4e3feb82b18">lik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="velikokrat maskirati" cluster="1" frequency="4" logDice="1.99">
+              <comp position="1" type="collocate" sloleks="LE_7bf814fa772d3aa43d142821fe5c5b7d">velikokrat</comp>
+              <comp position="2" type="headword" sloleks="LE_b4baaec4644c99499828585363bdaeaa">maskirati</comp>
+            </collocation>
+            <collocation form="uspešno maskirati" cluster="2" frequency="4" logDice="0.39">
+              <comp position="1" type="collocate" sloleks="LE_1261ffe39150e62ae7fb3419f7a831f4">uspešno</comp>
+              <comp position="2" type="headword" sloleks="LE_b4baaec4644c99499828585363bdaeaa">maskirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

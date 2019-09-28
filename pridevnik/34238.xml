@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="34238">smrkav</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">412</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 pod sbz6">
+          <collocations>
+            <collocation form="smrkav pod nosom" cluster="1" frequency="13" logDice="13.05">
+              <comp position="1" type="headword" sloleks="LE_b8f40aaf0d41326bba07f0db61559992">smrkav</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="collocate" sloleks="LE_2dfe936383b64ad94a434231a3f67bf4">nosom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="smrkav nosek" cluster="1" frequency="12" logDice="7.92">
+              <comp position="1" type="headword" sloleks="LE_b8f40aaf0d41326bba07f0db61559992">smrkav</comp>
+              <comp position="2" type="collocate" sloleks="LE_30c502e2c0c06fa2530a84f2419a59b4">nosek</comp>
+            </collocation>
+            <collocation form="smrkav robec" cluster="2" frequency="7" logDice="7.71">
+              <comp position="1" type="headword" sloleks="LE_b8f40aaf0d41326bba07f0db61559992">smrkav</comp>
+              <comp position="2" type="collocate" sloleks="LE_d885ceb3f8e964cf6381702683b7697a">robec</comp>
+            </collocation>
+            <collocation form="smrkav nos" cluster="3" frequency="55" logDice="7.46">
+              <comp position="1" type="headword" sloleks="LE_b8f40aaf0d41326bba07f0db61559992">smrkav</comp>
+              <comp position="2" type="collocate" sloleks="LE_2dfe936383b64ad94a434231a3f67bf4">nos</comp>
+            </collocation>
+            <collocation form="smrkav otrok" cluster="4" frequency="17" logDice="1.88">
+              <comp position="1" type="headword" sloleks="LE_b8f40aaf0d41326bba07f0db61559992">smrkav</comp>
+              <comp position="2" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otrok</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

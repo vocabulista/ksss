@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="51313">čepar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1354</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="čepar za kršenje" cluster="1" frequency="4" logDice="8.5">
+              <comp position="1" type="headword" sloleks="LE_1e855597eb0270fae38ba3ab098caf2a">čepar</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_048600eec070606fdd3d9f1256eedde2">kršenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Drag Čeparja" cluster="1" frequency="51" logDice="8.9">
+              <comp position="1" type="collocate" sloleks="">Drag</comp>
+              <comp position="2" type="headword" sloleks="LE_1e855597eb0270fae38ba3ab098caf2a">Čeparja</comp>
+            </collocation>
+            <collocation form="Ludvik Čeparja" cluster="2" frequency="12" logDice="7.8">
+              <comp position="1" type="collocate" sloleks="LE_82fd35bbece728b9f2ba939d0be37f70|LE_17842428bfd9260d9805c7b07addbdad">Ludvik</comp>
+              <comp position="2" type="headword" sloleks="LE_1e855597eb0270fae38ba3ab098caf2a">Čeparja</comp>
+            </collocation>
+            <collocation form="skupnost Čeparja" cluster="3" frequency="9" logDice="3.89">
+              <comp position="1" type="collocate" sloleks="LE_a54e3d34cf1afe3eafb013c4eaa4f477">skupnost</comp>
+              <comp position="2" type="headword" sloleks="LE_1e855597eb0270fae38ba3ab098caf2a">Čeparja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

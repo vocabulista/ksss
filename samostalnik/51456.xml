@@ -1,0 +1,56 @@
+<entry>
+  <header>
+    <lexical_unit id="51456">cestnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1283</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="cestnik iz Frankolov" cluster="1" frequency="8" logDice="11.2">
+              <comp position="1" type="headword" sloleks="LE_0842f6717911c5afedf9795c5d096329">cestnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">Frankolov</comp>
+            </collocation>
+            <collocation form="cestnik iz Žalca" cluster="2" frequency="4" logDice="5.78">
+              <comp position="1" type="headword" sloleks="LE_0842f6717911c5afedf9795c5d096329">cestnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_6a71b43124c86fe69343db2a70d7cfdf">Žalca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="cestnik za obred" cluster="1" frequency="6" logDice="4.94">
+              <comp position="1" type="headword" sloleks="LE_0842f6717911c5afedf9795c5d096329">cestnik</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_ce6dbc4ab57623c0cf8df2a09038acb5">obred</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Mare Cestnika" cluster="1" frequency="6" logDice="9.61">
+              <comp position="1" type="collocate" sloleks="">Mare</comp>
+              <comp position="2" type="headword" sloleks="LE_0842f6717911c5afedf9795c5d096329">Cestnika</comp>
+            </collocation>
+            <collocation form="Evgen Cestnika" cluster="2" frequency="9" logDice="9.06">
+              <comp position="1" type="collocate" sloleks="LE_0c4b9030ab2af739d49491c7d690850a">Evgen</comp>
+              <comp position="2" type="headword" sloleks="LE_0842f6717911c5afedf9795c5d096329">Cestnika</comp>
+            </collocation>
+            <collocation form="Jan Cestnika" cluster="3" frequency="8" logDice="5.96">
+              <comp position="1" type="collocate" sloleks="LE_67559bdd0a366cfd7854cf8ddf73c9b1|LE_ac905a15475daab36aba2797fc725472">Jan</comp>
+              <comp position="2" type="headword" sloleks="LE_0842f6717911c5afedf9795c5d096329">Cestnika</comp>
+            </collocation>
+            <collocation form="Branko Cestnika" cluster="4" frequency="14" logDice="5.77">
+              <comp position="1" type="collocate" sloleks="LE_4dc5c3614d39636833ddaa9be8adafee">Branko</comp>
+              <comp position="2" type="headword" sloleks="LE_0842f6717911c5afedf9795c5d096329">Cestnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="91139">stajica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">471</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz iz SBZ2">
+          <collocations>
+            <collocation form="dvigniti iz stajice" cluster="1" frequency="4" logDice="5.85">
+              <comp position="1" type="collocate" sloleks="LE_4359ca05f9d7250946581a863690f566">dvigniti</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_06c4f9d4642cb052f614e27dd6885045">stajice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="posaditi v stajico" cluster="1" frequency="7" logDice="6.82">
+              <comp position="1" type="collocate" sloleks="LE_b192f88dc6ff5ba21d059e2cdd122a44">posaditi</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_06c4f9d4642cb052f614e27dd6885045">stajico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="otroška stajica" cluster="1" frequency="43" logDice="3.34">
+              <comp position="1" type="collocate" sloleks="LE_1fbf9a7270f9b230effd46d49123fdff">otroška</comp>
+              <comp position="2" type="headword" sloleks="LE_06c4f9d4642cb052f614e27dd6885045">stajica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

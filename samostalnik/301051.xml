@@ -1,0 +1,40 @@
+<entry>
+  <header>
+    <lexical_unit id="301051">business</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="imenovan business" cluster="1" frequency="9" logDice="1.07">
+              <comp position="1" type="collocate" sloleks="LE_48445856b1ad858d1b8600c1111b730c">imenovan</comp>
+              <comp position="2" type="headword" sloleks="">business</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="show business" cluster="1" frequency="90" logDice="8.51">
+              <comp position="1" type="collocate" sloleks="LE_798dffcf48468840bca2d618e15a1da0">show</comp>
+              <comp position="2" type="headword" sloleks="">business</comp>
+            </collocation>
+            <collocation form="business suite" cluster="2" frequency="24" logDice="10.14">
+              <comp position="1" type="headword" sloleks="">business</comp>
+              <comp position="2" type="collocate" sloleks="LE_4aa0ce7121acf4bced6addd08dafc08c">suite</comp>
+            </collocation>
+            <collocation form="business intelligenca" cluster="3" frequency="8" logDice="9.19">
+              <comp position="1" type="headword" sloleks="">business</comp>
+              <comp position="2" type="collocate" sloleks="">intelligenca</comp>
+            </collocation>
+            <collocation form="business lika" cluster="4" frequency="13" logDice="8.32">
+              <comp position="1" type="headword" sloleks="">business</comp>
+              <comp position="2" type="collocate" sloleks="">lika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="1519">izdihovati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">407</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="izdihovati zrak" cluster="1" frequency="24" logDice="6.77">
+              <comp position="1" type="headword" sloleks="LE_319100fbe2e6e6999ae65bc31b1bbfcb">izdihovati</comp>
+              <comp position="2" type="collocate" sloleks="LE_d3b9b2b5ce24a4cb7da4e0e9da2b1348">zrak</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ skozi sbz4">
+          <collocations>
+            <collocation form="izdihovati skozi usta" cluster="1" frequency="35" logDice="10.6">
+              <comp position="1" type="headword" sloleks="LE_319100fbe2e6e6999ae65bc31b1bbfcb">izdihovati</comp>
+              <comp position="2" type="other" sloleks="LE_ebc04cc308e03e1880853d61a3c2bb70">skozi</comp>
+              <comp position="3" type="collocate" sloleks="LE_d00d8a659d9ab66cdd80fac8dbcd0d4c">usta</comp>
+            </collocation>
+            <collocation form="izdihovati skozi nos" cluster="2" frequency="12" logDice="8.74">
+              <comp position="1" type="headword" sloleks="LE_319100fbe2e6e6999ae65bc31b1bbfcb">izdihovati</comp>
+              <comp position="2" type="other" sloleks="LE_ebc04cc308e03e1880853d61a3c2bb70">skozi</comp>
+              <comp position="3" type="collocate" sloleks="LE_2dfe936383b64ad94a434231a3f67bf4">nos</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="izdihovati v vodo" cluster="1" frequency="8" logDice="3.95">
+              <comp position="1" type="headword" sloleks="LE_319100fbe2e6e6999ae65bc31b1bbfcb">izdihovati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_0d8cbba4e56fea63657ac746d29cd047">vodo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="sočasno izdihovati" cluster="1" frequency="14" logDice="6.27">
+              <comp position="1" type="collocate" sloleks="LE_fb6f6f8a58799771b1d3b0f031e689bb">sočasno</comp>
+              <comp position="2" type="headword" sloleks="LE_319100fbe2e6e6999ae65bc31b1bbfcb">izdihovati</comp>
+            </collocation>
+            <collocation form="počasi izdihovati" cluster="2" frequency="35" logDice="3.73">
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              <comp position="2" type="headword" sloleks="LE_319100fbe2e6e6999ae65bc31b1bbfcb">izdihovati</comp>
+            </collocation>
+            <collocation form="nato izdihovati" cluster="3" frequency="7" logDice="0.14">
+              <comp position="1" type="collocate" sloleks="LE_48b590fef344f946aab71b9b67d40282">nato</comp>
+              <comp position="2" type="headword" sloleks="LE_319100fbe2e6e6999ae65bc31b1bbfcb">izdihovati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

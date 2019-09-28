@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="39422">zunajšolski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">543</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="zunajšolska dejavnost" cluster="1" frequency="378" logDice="5.46">
+              <comp position="1" type="headword" sloleks="LE_50eaee31846d5028251b2b5bb50e9fde">zunajšolska</comp>
+              <comp position="2" type="collocate" sloleks="LE_7fd9651ddee6b84cd9c853211be163f8">dejavnost</comp>
+            </collocation>
+            <collocation form="zunajšolska aktivnost" cluster="1" frequency="29" logDice="3.81">
+              <comp position="1" type="headword" sloleks="LE_50eaee31846d5028251b2b5bb50e9fde">zunajšolska</comp>
+              <comp position="2" type="collocate" sloleks="LE_cf46685236128019ad85c5f429890a4c">aktivnost</comp>
+            </collocation>
+            <collocation form="zunajšolsko izobraževanje" cluster="2" frequency="11" logDice="2.82">
+              <comp position="1" type="headword" sloleks="LE_50eaee31846d5028251b2b5bb50e9fde">zunajšolsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_94aeb280aef97194e99f9e24a34d8669">izobraževanje</comp>
+            </collocation>
+            <collocation form="zunajšolska obveznost" cluster="3" frequency="11" logDice="2.3">
+              <comp position="1" type="headword" sloleks="LE_50eaee31846d5028251b2b5bb50e9fde">zunajšolska</comp>
+              <comp position="2" type="collocate" sloleks="LE_0588885dbe8f39694a2008d1244439fb">obveznost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="zunajšolski in/ali šolski" cluster="1" frequency="40" logDice="7.98">
+              <comp position="3" type="headword" sloleks="LE_50eaee31846d5028251b2b5bb50e9fde">zunajšolski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_ce01686bf12835d64e816a68dc030efb">šolski</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="66162">kulminacija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">412</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="doseči kulminacijo" cluster="1" frequency="60" logDice="3.45">
+              <comp position="1" type="collocate" sloleks="LE_c774a9afe35a6598f95fb1776c665730">doseči</comp>
+              <comp position="2" type="headword" sloleks="LE_4bc9b1cecced12ace8f626af4fed49d3">kulminacijo</comp>
+            </collocation>
+            <collocation form="doživeti kulminacijo" cluster="2" frequency="14" logDice="2.86">
+              <comp position="1" type="collocate" sloleks="LE_e4d0f06842b41fb2d61a5c7225b52e59">doživeti</comp>
+              <comp position="2" type="headword" sloleks="LE_4bc9b1cecced12ace8f626af4fed49d3">kulminacijo</comp>
+            </collocation>
+            <collocation form="predstavljati kulminacijo" cluster="3" frequency="11" logDice="1.59">
+              <comp position="1" type="collocate" sloleks="LE_121aa3674f46df87a14a91d3bf8cb37d">predstavljati</comp>
+              <comp position="2" type="headword" sloleks="LE_4bc9b1cecced12ace8f626af4fed49d3">kulminacijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz do SBZ2">
+          <collocations>
+            <collocation form="priti do kulminacije" cluster="1" frequency="8" logDice="0.31">
+              <comp position="1" type="collocate" sloleks="LE_fc339e29cc0e8ec9efe1ef0acdfb11b5">priti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_4bc9b1cecced12ace8f626af4fed49d3">kulminacije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="zgornja kulminacija" cluster="1" frequency="14" logDice="2.28">
+              <comp position="1" type="collocate" sloleks="LE_2c1f378a0eedbda143aa3cbd9699a927">zgornja</comp>
+              <comp position="2" type="headword" sloleks="LE_4bc9b1cecced12ace8f626af4fed49d3">kulminacija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

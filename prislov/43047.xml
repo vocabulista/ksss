@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="43047">neustavno</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">519</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="ravnati neustavno" cluster="1" frequency="15" logDice="4.49">
+              <comp position="1" type="collocate" sloleks="LE_6bb16a78250b205a0096c7c9292ce6b4">ravnati</comp>
+              <comp position="2" type="headword" sloleks="LE_9d933c5401dc52fb8c946cea30910c10">neustavno</comp>
+            </collocation>
+            <collocation form="delovati neustavno" cluster="2" frequency="7" logDice="1.69">
+              <comp position="1" type="collocate" sloleks="LE_d0f4c0b2fd032468cea5b16c4a58e364">delovati</comp>
+              <comp position="2" type="headword" sloleks="LE_9d933c5401dc52fb8c946cea30910c10">neustavno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ in/ali rbz">
+          <collocations>
+            <collocation form="neustavno in/ali nezakonito" cluster="1" frequency="39" logDice="10.88">
+              <comp position="3" type="headword" sloleks="LE_9d933c5401dc52fb8c946cea30910c10">neustavno</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_d02f1c5a5cc420bb6a7d0aa311816a48">nezakonito</comp>
+              </collocation>
+            <collocation form="neustavno in/ali protipravno" cluster="2" frequency="7" logDice="10.65">
+              <comp position="3" type="headword" sloleks="LE_9d933c5401dc52fb8c946cea30910c10">neustavno</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_ae20b35039d4ffdfe8ee87cba5bbf4ed">protipravno</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

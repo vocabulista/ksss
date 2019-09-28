@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="50274">brevir</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">807</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="Brevir za pivca" cluster="1" frequency="12" logDice="11.94">
+              <comp position="1" type="headword" sloleks="LE_50dc9ec8599b4145530122b8848cccdd">Brevir</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_3edd2ba2667207732b1a4282a6d3b15e">pivca</comp>
+            </collocation>
+            <collocation form="stojalo za brevir" cluster="2" frequency="9" logDice="7.76">
+              <comp position="1" type="collocate" sloleks="LE_e473aa3e29dd174a52b1a2ddaf194889">stojalo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_50dc9ec8599b4145530122b8848cccdd">brevir</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="bellevilski brevir" cluster="1" frequency="10" logDice="9.12">
+              <comp position="1" type="collocate" sloleks="">bellevilski</comp>
+              <comp position="2" type="headword" sloleks="LE_50dc9ec8599b4145530122b8848cccdd">brevir</comp>
+            </collocation>
+            <collocation form="jezikoven brevir" cluster="2" frequency="345" logDice="8.55">
+              <comp position="1" type="collocate" sloleks="LE_1796465a1350d4c04d6c4a5de9a95fa2">jezikoven</comp>
+              <comp position="2" type="headword" sloleks="LE_50dc9ec8599b4145530122b8848cccdd">brevir</comp>
+            </collocation>
+            <collocation form="mediteranski brevir" cluster="3" frequency="71" logDice="8.39">
+              <comp position="1" type="collocate" sloleks="LE_a6a71002937e8dc02bbef44e8a1d4abf">mediteranski</comp>
+              <comp position="2" type="headword" sloleks="LE_50dc9ec8599b4145530122b8848cccdd">brevir</comp>
+            </collocation>
+            <collocation form="vinski brevir" cluster="4" frequency="42" logDice="4.94">
+              <comp position="1" type="collocate" sloleks="LE_208cc71fa43bae2de9e333861c08a1c7">vinski</comp>
+              <comp position="2" type="headword" sloleks="LE_50dc9ec8599b4145530122b8848cccdd">brevir</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="95125">urna</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">423</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="namespace urne" cluster="1" frequency="8" logDice="11.17">
+              <comp position="1" type="collocate" sloleks="">namespace</comp>
+              <comp position="2" type="headword" sloleks="LE_a537add9afe42640ef7fcfc331ac33a0">urne</comp>
+            </collocation>
+            <collocation form="xmlns urne" cluster="2" frequency="5" logDice="10.55">
+              <comp position="1" type="collocate" sloleks="">xmlns</comp>
+              <comp position="2" type="headword" sloleks="LE_a537add9afe42640ef7fcfc331ac33a0">urne</comp>
+            </collocation>
+            <collocation form="about urne" cluster="3" frequency="6" logDice="10.49">
+              <comp position="1" type="collocate" sloleks="">about</comp>
+              <comp position="2" type="headword" sloleks="LE_a537add9afe42640ef7fcfc331ac33a0">urne</comp>
+            </collocation>
+            <collocation form="prostornina urne" cluster="4" frequency="6" logDice="4.74">
+              <comp position="1" type="collocate" sloleks="LE_060ab88345d5b40e7677a93e9e690b92">prostornina</comp>
+              <comp position="2" type="headword" sloleks="LE_a537add9afe42640ef7fcfc331ac33a0">urne</comp>
+            </collocation>
+            <collocation form="urna postavke" cluster="5" frequency="11" logDice="6.77">
+              <comp position="1" type="headword" sloleks="LE_a537add9afe42640ef7fcfc331ac33a0">urna</comp>
+              <comp position="2" type="collocate" sloleks="LE_ad22b33a09b7e4522ac3d3d193efc058">postavke</comp>
+            </collocation>
+            <collocation form="urna vina" cluster="6" frequency="14" logDice="3.05">
+              <comp position="1" type="headword" sloleks="LE_a537add9afe42640ef7fcfc331ac33a0">urna</comp>
+              <comp position="2" type="collocate" sloleks="LE_0ae7c92af34780f7f1922cd5b9806ca5">vina</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 po SBZ5">
+          <collocations>
+            <collocation form="solid po urni" cluster="1" frequency="8" logDice="13.75">
+              <comp position="1" type="collocate" sloleks="">solid</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_a537add9afe42640ef7fcfc331ac33a0">urni</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,57 @@
+<entry>
+  <header>
+    <lexical_unit id="275589">borda</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="borda barve" cluster="1" frequency="65" logDice="5.65">
+              <comp position="1" type="headword" sloleks="">borda</comp>
+              <comp position="2" type="collocate" sloleks="LE_d066cf8419aa6609519c184ed701618e">barve</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="rdeč borda" cluster="1" frequency="13" logDice="1.02">
+              <comp position="1" type="collocate" sloleks="LE_f39824a0a0c94efb31b4fa9dc908ea0f">rdeč</comp>
+              <comp position="2" type="headword" sloleks="">borda</comp>
+            </collocation>
+            <collocation form="rjav borda" cluster="1" frequency="10" logDice="3.51">
+              <comp position="1" type="collocate" sloleks="LE_907b694ff54d40e0f7f867c38196727d">rjav</comp>
+              <comp position="2" type="headword" sloleks="">borda</comp>
+            </collocation>
+            <collocation form="siv borda" cluster="1" frequency="9" logDice="2.78">
+              <comp position="1" type="collocate" sloleks="LE_ce212378727d442f18523e912c718df0">siv</comp>
+              <comp position="2" type="headword" sloleks="">borda</comp>
+            </collocation>
+            <collocation form="kovinski borda" cluster="2" frequency="9" logDice="3.18">
+              <comp position="1" type="collocate" sloleks="LE_d61c705f8f5eca448811283c0d5a37f1">kovinski</comp>
+              <comp position="2" type="headword" sloleks="">borda</comp>
+            </collocation>
+            <collocation form="moder borda" cluster="3" frequency="21" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_b77d374d59b54f808284a0dca42e2434">moder</comp>
+              <comp position="2" type="headword" sloleks="">borda</comp>
+            </collocation>
+            <collocation form="temen borda" cluster="3" frequency="10" logDice="2.71">
+              <comp position="1" type="collocate" sloleks="LE_8d6e1165779bc7e461714b90f907a594">temen</comp>
+              <comp position="2" type="headword" sloleks="">borda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ4">
+          <collocations>
+            <collocation form="volja v borda" cluster="1" frequency="5" logDice="8.63">
+              <comp position="1" type="collocate" sloleks="LE_302cfe15db5d997ecf0eab411fa16934">volja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="">borda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

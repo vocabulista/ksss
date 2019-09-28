@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="33738">širokogruden</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">438</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="širokogruden in skrben" cluster="1" frequency="6" logDice="6.71">
+              <comp position="1" type="headword" sloleks="LE_386c08b81ec9f986b411a5529a82a91c">širokogruden</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_1a1c9b7ba9d1ec7a18f767a6d44412d2">skrben</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="širokogrudno razumevanje" cluster="1" frequency="6" logDice="3.49">
+              <comp position="1" type="headword" sloleks="LE_386c08b81ec9f986b411a5529a82a91c">širokogrudno</comp>
+              <comp position="2" type="collocate" sloleks="LE_caf1f40eb722be7b8208c989feb66f1e">razumevanje</comp>
+            </collocation>
+            <collocation form="širokogrudna ureditev" cluster="2" frequency="7" logDice="1.72">
+              <comp position="1" type="headword" sloleks="LE_386c08b81ec9f986b411a5529a82a91c">širokogrudna</comp>
+              <comp position="2" type="collocate" sloleks="LE_baceef1543487bd151f8558130614f0e">ureditev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="preveč širokogruden" cluster="1" frequency="18" logDice="2.45">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_386c08b81ec9f986b411a5529a82a91c">širokogruden</comp>
+            </collocation>
+            <collocation form="bolj širokogruden" cluster="2" frequency="42" logDice="1.1">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_386c08b81ec9f986b411a5529a82a91c">širokogruden</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

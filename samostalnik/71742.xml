@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="71742">navihanec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">508</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="navihanec iz Celovca" cluster="1" frequency="11" logDice="7.55">
+              <comp position="1" type="headword" sloleks="LE_c1dacf8072665c5393841334d1eb309f">navihanec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_cd5aadbc11b2db5455f0d0bedbd2aeef">Celovca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="mali navihanec" cluster="1" frequency="99" logDice="3.48">
+              <comp position="1" type="collocate" sloleks="LE_0b2cc34f00671cbd2bc04dca56aba76b">mali</comp>
+              <comp position="2" type="headword" sloleks="LE_c1dacf8072665c5393841334d1eb309f">navihanec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Parada navihanca" cluster="1" frequency="8" logDice="5.54">
+              <comp position="1" type="collocate" sloleks="LE_1398999b440d07c825f4479b2a6f4ec4">Parada</comp>
+              <comp position="2" type="headword" sloleks="LE_c1dacf8072665c5393841334d1eb309f">navihanca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

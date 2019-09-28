@@ -1,0 +1,35 @@
+<entry>
+  <header>
+    <lexical_unit id="64005">knjigarnar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">647</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="knjigarnar iz Kabula" cluster="1" frequency="15" logDice="11.64">
+              <comp position="1" type="headword" sloleks="LE_334591ab299583dd29b88d64e3e48e14">knjigarnar</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_554a8eefa6d23a172781b5266852fa2e">Kabula</comp>
+            </collocation>
+            <collocation form="knjigarnar iz Konzorcija" cluster="2" frequency="4" logDice="10.28">
+              <comp position="1" type="headword" sloleks="LE_334591ab299583dd29b88d64e3e48e14">knjigarnar</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_d521ae0cdf481166096db2039d1b59ab">Konzorcija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="združenje knjigarnarja" cluster="1" frequency="15" logDice="3.15">
+              <comp position="1" type="collocate" sloleks="LE_7a22a73126b77d071ee8e6cf0ef9b2cb">združenje</comp>
+              <comp position="2" type="headword" sloleks="LE_334591ab299583dd29b88d64e3e48e14">knjigarnarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

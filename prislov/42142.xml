@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="42142">motivno</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">446</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ gbz">
+          <collocations>
+            <collocation form="motivno naslanjati" cluster="1" frequency="7" logDice="7.7">
+              <comp position="1" type="headword" sloleks="LE_cf4b6deb98709ebf6b97cb777ca36c16">motivno</comp>
+              <comp position="2" type="collocate" sloleks="LE_47489ec209ca515cd9e2889ad5295484">naslanjati</comp>
+            </collocation>
+            <collocation form="motivno navezovati" cluster="2" frequency="6" logDice="6.55">
+              <comp position="1" type="headword" sloleks="LE_cf4b6deb98709ebf6b97cb777ca36c16">motivno</comp>
+              <comp position="2" type="collocate" sloleks="LE_b0e69d1fe3be8a49ea17f6c1677e2227">navezovati</comp>
+            </collocation>
+            <collocation form="motivno izhajati" cluster="3" frequency="4" logDice="3.75">
+              <comp position="1" type="headword" sloleks="LE_cf4b6deb98709ebf6b97cb777ca36c16">motivno</comp>
+              <comp position="2" type="collocate" sloleks="LE_58f8e6e110d847a2a1903ee9918bea92">izhajati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ in/ali rbz">
+          <collocations>
+            <collocation form="motivno in tematsko" cluster="1" frequency="13" logDice="10.58">
+              <comp position="1" type="headword" sloleks="LE_cf4b6deb98709ebf6b97cb777ca36c16">motivno</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_8248ec30c9303772f2cdc14cb7722f49">tematsko</comp>
+            </collocation>
+            <collocation form="motivno in/ali slogovno" cluster="2" frequency="8" logDice="10.07">
+              <comp position="3" type="headword" sloleks="LE_cf4b6deb98709ebf6b97cb777ca36c16">motivno</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_6f6820693c608a07991b26902323b1fd">slogovno</comp>
+              </collocation>
+            <collocation form="motivno in formalno" cluster="3" frequency="5" logDice="8.17">
+              <comp position="1" type="headword" sloleks="LE_cf4b6deb98709ebf6b97cb777ca36c16">motivno</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_b5fd1a33f8458747077a1fc28279f2ce">formalno</comp>
+            </collocation>
+            <collocation form="motivno in vsebinsko" cluster="3" frequency="5" logDice="6.36">
+              <comp position="1" type="headword" sloleks="LE_cf4b6deb98709ebf6b97cb777ca36c16">motivno</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_f699daa3e29aa8076b87a5048653c404">vsebinsko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

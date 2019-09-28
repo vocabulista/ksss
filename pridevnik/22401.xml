@@ -1,0 +1,72 @@
+<entry>
+  <header>
+    <lexical_unit id="22401">lakomen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">555</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 na sbz4">
+          <collocations>
+            <collocation form="lakomen na denar" cluster="1" frequency="11" logDice="10.06">
+              <comp position="1" type="headword" sloleks="LE_1ddf7e773edf28c45bf23d026227b655">lakomen</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 po sbz5">
+          <collocations>
+            <collocation form="lakomen po denarju" cluster="1" frequency="6" logDice="12.58">
+              <comp position="1" type="headword" sloleks="LE_1ddf7e773edf28c45bf23d026227b655">lakomen</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denarju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="lakomen človek" cluster="1" frequency="17" logDice="0.8">
+              <comp position="1" type="headword" sloleks="LE_1ddf7e773edf28c45bf23d026227b655">lakomen</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človek</comp>
+            </collocation>
+            <collocation form="lakomen lastnik" cluster="1" frequency="8" logDice="1.48">
+              <comp position="1" type="headword" sloleks="LE_1ddf7e773edf28c45bf23d026227b655">lakomen</comp>
+              <comp position="2" type="collocate" sloleks="LE_66c7de1ac3f03dd18265b3091c93bdc0">lastnik</comp>
+            </collocation>
+            <collocation form="lakomen politik" cluster="1" frequency="6" logDice="1.55">
+              <comp position="1" type="headword" sloleks="LE_1ddf7e773edf28c45bf23d026227b655">lakomen</comp>
+              <comp position="2" type="collocate" sloleks="LE_43bf7ab82ddd60104b42f5df3f200f85">politik</comp>
+            </collocation>
+            <collocation form="lakomen denar" cluster="2" frequency="7" logDice="1.35">
+              <comp position="1" type="headword" sloleks="LE_1ddf7e773edf28c45bf23d026227b655">lakomen</comp>
+              <comp position="2" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="lakomen in/ali brezobziren" cluster="1" frequency="5" logDice="7.88">
+              <comp position="3" type="headword" sloleks="LE_1ddf7e773edf28c45bf23d026227b655">lakomen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_95e5523683edaf287e7e6a55ec406caf">brezobziren</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="zmeraj lakomen" cluster="1" frequency="9" logDice="4.95">
+              <comp position="1" type="collocate" sloleks="LE_af40c5dc2e2ae640d0412a3dd466706a">zmeraj</comp>
+              <comp position="2" type="headword" sloleks="LE_1ddf7e773edf28c45bf23d026227b655">lakomen</comp>
+            </collocation>
+            <collocation form="preveč lakomen" cluster="2" frequency="20" logDice="2.6">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_1ddf7e773edf28c45bf23d026227b655">lakomen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

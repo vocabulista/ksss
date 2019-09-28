@@ -1,0 +1,57 @@
+<entry>
+  <header>
+    <lexical_unit id="16372">dodelaven</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">786</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="dodelaven posel" cluster="1" frequency="644" logDice="8.2">
+              <comp position="1" type="headword" sloleks="LE_5cb80e3ac290cfeb390bfec626447a6a">dodelaven</comp>
+              <comp position="2" type="collocate" sloleks="LE_4944cd3b7cdda05428aed18cfcac7eb9">posel</comp>
+            </collocation>
+            <collocation form="dodelaven lon" cluster="2" frequency="8" logDice="8.19">
+              <comp position="1" type="headword" sloleks="LE_5cb80e3ac290cfeb390bfec626447a6a">dodelaven</comp>
+              <comp position="2" type="collocate" sloleks="">lon</comp>
+            </collocation>
+            <collocation form="dodelavna zmogljivost" cluster="3" frequency="11" logDice="3.07">
+              <comp position="1" type="headword" sloleks="LE_5cb80e3ac290cfeb390bfec626447a6a">dodelavna</comp>
+              <comp position="2" type="collocate" sloleks="LE_35fe4e20a61250df7aa6cdd2972e7697">zmogljivost</comp>
+            </collocation>
+            <collocation form="dodelaven stroj" cluster="4" frequency="10" logDice="2.04">
+              <comp position="1" type="headword" sloleks="LE_5cb80e3ac290cfeb390bfec626447a6a">dodelaven</comp>
+              <comp position="2" type="collocate" sloleks="LE_92b130473f034fabad4c95de8025d439">stroj</comp>
+            </collocation>
+            <collocation form="dodelavno delo" cluster="5" frequency="80" logDice="1.96">
+              <comp position="1" type="headword" sloleks="LE_5cb80e3ac290cfeb390bfec626447a6a">dodelavno</comp>
+              <comp position="2" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+            </collocation>
+            <collocation form="dodelavna storitev" cluster="6" frequency="7" logDice="0.92">
+              <comp position="1" type="headword" sloleks="LE_5cb80e3ac290cfeb390bfec626447a6a">dodelavna</comp>
+              <comp position="2" type="collocate" sloleks="LE_abb14230c15d4fd66a15377c1ed699a9">storitev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="nizko dodelaven" cluster="1" frequency="5" logDice="4.37">
+              <comp position="1" type="collocate" sloleks="LE_5aa2b10cc6f0feb2c594258ea871b707">nizko</comp>
+              <comp position="2" type="headword" sloleks="LE_5cb80e3ac290cfeb390bfec626447a6a">dodelaven</comp>
+            </collocation>
+            <collocation form="slabo dodelaven" cluster="2" frequency="17" logDice="3.96">
+              <comp position="1" type="collocate" sloleks="LE_fd42f0b51f77a35ba2a2c56fdecf36e2">slabo</comp>
+              <comp position="2" type="headword" sloleks="LE_5cb80e3ac290cfeb390bfec626447a6a">dodelaven</comp>
+            </collocation>
+            <collocation form="manj dodelaven" cluster="3" frequency="10" logDice="0.7">
+              <comp position="1" type="collocate" sloleks="LE_ecab8216e0225b7e80d79b53bd9b8959">manj</comp>
+              <comp position="2" type="headword" sloleks="LE_5cb80e3ac290cfeb390bfec626447a6a">dodelaven</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

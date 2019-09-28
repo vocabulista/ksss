@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="72543">nepozornost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">560</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="kaznovati z nepozornostjo" cluster="1" frequency="4" logDice="4.15">
+              <comp position="1" type="collocate" sloleks="LE_9fc664a70c5c037e4e1041cd94c780cb">kaznovati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_f22b1cf4774c7c58a35291214a49a834">nepozornostjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="voznikova nepozornost" cluster="1" frequency="8" logDice="5.28">
+              <comp position="1" type="collocate" sloleks="LE_296f049c12b25a2d14c063eda050fe36">voznikova</comp>
+              <comp position="2" type="headword" sloleks="LE_f22b1cf4774c7c58a35291214a49a834">nepozornost</comp>
+            </collocation>
+            <collocation form="majhna nepozornost" cluster="2" frequency="25" logDice="0.76">
+              <comp position="1" type="collocate" sloleks="LE_046f6756496c07b99f5ce226a4c8204d">majhna</comp>
+              <comp position="2" type="headword" sloleks="LE_f22b1cf4774c7c58a35291214a49a834">nepozornost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="trenutek nepozornosti" cluster="1" frequency="100" logDice="6.74">
+              <comp position="1" type="collocate" sloleks="LE_20e42f7c3b00f5a4a38e89957060a1f2">trenutek</comp>
+              <comp position="2" type="headword" sloleks="LE_f22b1cf4774c7c58a35291214a49a834">nepozornosti</comp>
+            </collocation>
+            <collocation form="sekunda nepozornosti" cluster="2" frequency="13" logDice="5.45">
+              <comp position="1" type="collocate" sloleks="LE_28f8e53821d818c4ccde6b78f182c4c0">sekunda</comp>
+              <comp position="2" type="headword" sloleks="LE_f22b1cf4774c7c58a35291214a49a834">nepozornosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

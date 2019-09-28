@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="83917">prosjačenje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">572</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="prosjačenje za denar" cluster="1" frequency="22" logDice="7.09">
+              <comp position="1" type="headword" sloleks="LE_8bb8de37c3a5a2adfa6ffb51c8376092">prosjačenje</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denar</comp>
+            </collocation>
+            <collocation form="prosjačenje za hrano" cluster="2" frequency="6" logDice="5.31">
+              <comp position="1" type="headword" sloleks="LE_8bb8de37c3a5a2adfa6ffb51c8376092">prosjačenje</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_4b3b80327bf9e7fafcc3a73e85eae950">hrano</comp>
+            </collocation>
+            <collocation form="prosjačenje za sredstvo" cluster="3" frequency="4" logDice="4.99">
+              <comp position="1" type="headword" sloleks="LE_8bb8de37c3a5a2adfa6ffb51c8376092">prosjačenje</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_94c4f4cf5104632466509789b5cde032">sredstvo</comp>
+            </collocation>
+            <collocation form="prosjačenje za preživetje" cluster="4" frequency="4" logDice="3.77">
+              <comp position="1" type="headword" sloleks="LE_8bb8de37c3a5a2adfa6ffb51c8376092">prosjačenje</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_af211a2c3fea7d42230828e5ce551f05">preživetje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="preživljati s prosjačenjem" cluster="1" frequency="11" logDice="6.14">
+              <comp position="1" type="collocate" sloleks="LE_dd6b659bb1696dc1baa94c382e5d84a0">preživljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_8bb8de37c3a5a2adfa6ffb51c8376092">prosjačenjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="izkoriščati za prosjačenje" cluster="1" frequency="4" logDice="5.98">
+              <comp position="1" type="collocate" sloleks="LE_eb2803f879e3975f0c9c540414dbc535">izkoriščati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_8bb8de37c3a5a2adfa6ffb51c8376092">prosjačenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

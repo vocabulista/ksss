@@ -1,0 +1,57 @@
+<entry>
+  <header>
+    <lexical_unit id="66589">lanterna</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">495</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Lanterna iz Zadra" cluster="1" frequency="4" logDice="8.77">
+              <comp position="1" type="headword" sloleks="LE_8ef18160e26441398e8715bbd9396293">Lanterna</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_1d8c9b6afc8d67cde4eef57f9b7e16ed">Zadra</comp>
+            </collocation>
+            <collocation form="lanterna iz buče" cluster="2" frequency="7" logDice="8.48">
+              <comp position="1" type="headword" sloleks="LE_8ef18160e26441398e8715bbd9396293">lanterna</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_625dc09b03a1f4e11605eba3ba1cab1b">buče</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="podati z lanterno" cluster="1" frequency="5" logDice="5.88">
+              <comp position="1" type="collocate" sloleks="LE_abcd3430139841d7407f4ad7ae2e6003">podati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_8ef18160e26441398e8715bbd9396293">lanterno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="cooperativa lanterne" cluster="1" frequency="5" logDice="10.55">
+              <comp position="1" type="collocate" sloleks="">cooperativa</comp>
+              <comp position="2" type="headword" sloleks="LE_8ef18160e26441398e8715bbd9396293">lanterne</comp>
+            </collocation>
+            <collocation form="Green lanterne" cluster="2" frequency="18" logDice="10.06">
+              <comp position="1" type="collocate" sloleks="LE_f6863c8992abb4648cc56f637f818b65|LE_f69c76a1edc88eb12e7866c78beaa006">Green</comp>
+              <comp position="2" type="headword" sloleks="LE_8ef18160e26441398e8715bbd9396293">lanterne</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="prikolica v Lanterni" cluster="1" frequency="4" logDice="8.64">
+              <comp position="1" type="collocate" sloleks="LE_1a4445d78ff2442626ce99e45ca0c10d">prikolica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_8ef18160e26441398e8715bbd9396293">Lanterni</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

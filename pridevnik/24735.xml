@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="24735">naliven</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1019</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nalivno pero" cluster="1" frequency="983" logDice="11.8">
+              <comp position="1" type="headword" sloleks="LE_5e2cc247a7319b7dfac76902f58137d3">nalivno</comp>
+              <comp position="2" type="collocate" sloleks="LE_da8f6538924a16d19a710b0d88d94761">pero</comp>
+            </collocation>
+            <collocation form="naliven peres" cluster="2" frequency="9" logDice="8.08">
+              <comp position="1" type="headword" sloleks="LE_5e2cc247a7319b7dfac76902f58137d3">naliven</comp>
+              <comp position="2" type="collocate" sloleks="">peres</comp>
+            </collocation>
+            <collocation form="nalivna odprtina" cluster="3" frequency="6" logDice="4.52">
+              <comp position="1" type="headword" sloleks="LE_5e2cc247a7319b7dfac76902f58137d3">nalivna</comp>
+              <comp position="2" type="collocate" sloleks="LE_d4dfd4f40493c06369fd629ca5fe7661">odprtina</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="zlato naliven" cluster="1" frequency="8" logDice="6.29">
+              <comp position="1" type="collocate" sloleks="LE_049bf4eaecaacf1c836951133b769cac">zlato</comp>
+              <comp position="2" type="headword" sloleks="LE_5e2cc247a7319b7dfac76902f58137d3">naliven</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

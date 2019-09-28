@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="32506">rezervacijski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">451</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="rezervacijski portal" cluster="1" frequency="25" logDice="4.94">
+              <comp position="1" type="headword" sloleks="LE_bb28129d5984b1dd8d1c058385f293e8">rezervacijski</comp>
+              <comp position="2" type="collocate" sloleks="LE_175fd7c65cfcba9d2b3022708307bbfe">portal</comp>
+            </collocation>
+            <collocation form="rezervacijski sistem" cluster="2" frequency="300" logDice="4.36">
+              <comp position="1" type="headword" sloleks="LE_bb28129d5984b1dd8d1c058385f293e8">rezervacijski</comp>
+              <comp position="2" type="collocate" sloleks="LE_b126847d984efa55c2ffad50be4e1dac">sistem</comp>
+            </collocation>
+            <collocation form="rezervacijska mreža" cluster="3" frequency="9" logDice="2.0">
+              <comp position="1" type="headword" sloleks="LE_bb28129d5984b1dd8d1c058385f293e8">rezervacijska</comp>
+              <comp position="2" type="collocate" sloleks="LE_efc57fb68a1d47e16c5af7d40e967e9a">mreža</comp>
+            </collocation>
+            <collocation form="rezervacijska pogodba" cluster="4" frequency="22" logDice="1.91">
+              <comp position="1" type="headword" sloleks="LE_bb28129d5984b1dd8d1c058385f293e8">rezervacijska</comp>
+              <comp position="2" type="collocate" sloleks="LE_f8f86304f16174105dd9c075264d9c0c">pogodba</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

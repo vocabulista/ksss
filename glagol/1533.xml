@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="1533">izginevati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">484</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="izginevati v plamenu" cluster="1" frequency="4" logDice="7.57">
+              <comp position="1" type="headword" sloleks="LE_f8f763c89bb3e251a27aa74224da6140">izginevati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_568d63b894cd9fad7492428fe6e0e352">plamenu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="izginevati s hitrostjo" cluster="1" frequency="4" logDice="3.17">
+              <comp position="1" type="headword" sloleks="LE_f8f763c89bb3e251a27aa74224da6140">izginevati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_8ef2306c92022a1532921ccd9a598747">hitrostjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="počasi izginevati" cluster="1" frequency="28" logDice="3.4">
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              <comp position="2" type="headword" sloleks="LE_f8f763c89bb3e251a27aa74224da6140">izginevati</comp>
+            </collocation>
+            <collocation form="postopoma izginevati" cluster="2" frequency="5" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_f8f0b77648353a666e440c43b667da04">postopoma</comp>
+              <comp position="2" type="headword" sloleks="LE_f8f763c89bb3e251a27aa74224da6140">izginevati</comp>
+            </collocation>
+            <collocation form="dobesedno izginevati" cluster="3" frequency="4" logDice="2.28">
+              <comp position="1" type="collocate" sloleks="LE_bffec2e3c44400c319dff55bd9852452">dobesedno</comp>
+              <comp position="2" type="headword" sloleks="LE_f8f763c89bb3e251a27aa74224da6140">izginevati</comp>
+            </collocation>
+            <collocation form="hitro izginevati" cluster="4" frequency="11" logDice="0.71">
+              <comp position="1" type="collocate" sloleks="LE_cb95fbdb78349dad33e3d99ea7f281a8">hitro</comp>
+              <comp position="2" type="headword" sloleks="LE_f8f763c89bb3e251a27aa74224da6140">izginevati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

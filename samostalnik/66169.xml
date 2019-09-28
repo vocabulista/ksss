@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="66169">kultivator</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">455</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="kultivator z ježem" cluster="1" frequency="75" logDice="13.47">
+              <comp position="1" type="headword" sloleks="LE_1083270aa89a368058b55231716fb233">kultivator</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_efc466c764e99c5b8a44d8c6a33047d4">ježem</comp>
+            </collocation>
+            <collocation form="kultivator z dognojevalec" cluster="2" frequency="5" logDice="10.21">
+              <comp position="1" type="headword" sloleks="LE_1083270aa89a368058b55231716fb233">kultivator</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="">dognojevalec</comp>
+            </collocation>
+            <collocation form="kultivator z lastovko" cluster="3" frequency="4" logDice="10.03">
+              <comp position="1" type="headword" sloleks="LE_1083270aa89a368058b55231716fb233">kultivator</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_340bd903816263b39d13dffa410f99f1">lastovko</comp>
+            </collocation>
+            <collocation form="KULTIVATOR z valjem" cluster="4" frequency="4" logDice="6.93">
+              <comp position="1" type="headword" sloleks="LE_1083270aa89a368058b55231716fb233">KULTIVATOR</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_bbae5f46dc55c4ca1ad6e418b9a9585d">valjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="traktorski kultivator" cluster="1" frequency="10" logDice="5.72">
+              <comp position="1" type="collocate" sloleks="LE_4c9ddc59fca2acc9163379d9e9818068">traktorski</comp>
+              <comp position="2" type="headword" sloleks="LE_1083270aa89a368058b55231716fb233">kultivator</comp>
+            </collocation>
+            <collocation form="ročen kultivator" cluster="2" frequency="8" logDice="2.4">
+              <comp position="1" type="collocate" sloleks="LE_80a39f11b955c7aa0d74335e7b6c0fcd">ročen</comp>
+              <comp position="2" type="headword" sloleks="LE_1083270aa89a368058b55231716fb233">kultivator</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="prikolica za kultivator" cluster="1" frequency="4" logDice="6.96">
+              <comp position="1" type="collocate" sloleks="LE_1a4445d78ff2442626ce99e45ca0c10d">prikolica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_1083270aa89a368058b55231716fb233">kultivator</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

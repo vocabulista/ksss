@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="62578">kadriranje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">540</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 v sbz4">
+          <collocations>
+            <collocation form="kadriranje v svet" cluster="1" frequency="4" logDice="3.12">
+              <comp position="1" type="headword" sloleks="LE_ce57968d19a63306b47e35984fc70d79">kadriranje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_55184295ed657acc8ec5dcd62f7084bf">svet</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="filmsko kadriranje" cluster="1" frequency="26" logDice="2.48">
+              <comp position="1" type="collocate" sloleks="LE_2727ea40e1c4e31719f79893e7f51c83">filmsko</comp>
+              <comp position="2" type="headword" sloleks="LE_ce57968d19a63306b47e35984fc70d79">kadriranje</comp>
+            </collocation>
+            <collocation form="politično kadriranje" cluster="2" frequency="23" logDice="0.93">
+              <comp position="1" type="collocate" sloleks="LE_a3bb12165721c242382f7e67d68cd13a">politično</comp>
+              <comp position="2" type="headword" sloleks="LE_ce57968d19a63306b47e35984fc70d79">kadriranje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="princip kadriranja" cluster="1" frequency="6" logDice="4.47">
+              <comp position="1" type="collocate" sloleks="LE_cc2a9999fe05b18bd5a122a3bb5d7398">princip</comp>
+              <comp position="2" type="headword" sloleks="LE_ce57968d19a63306b47e35984fc70d79">kadriranja</comp>
+            </collocation>
+            <collocation form="način kadriranja" cluster="2" frequency="23" logDice="1.9">
+              <comp position="1" type="collocate" sloleks="LE_78347f5e8e1e11f66d26223c13ba02df">način</comp>
+              <comp position="2" type="headword" sloleks="LE_ce57968d19a63306b47e35984fc70d79">kadriranja</comp>
+            </collocation>
+            <collocation form="postopek kadriranja" cluster="3" frequency="5" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_775481f1f5ba42be7d6b3125176050cb">postopek</comp>
+              <comp position="2" type="headword" sloleks="LE_ce57968d19a63306b47e35984fc70d79">kadriranja</comp>
+            </collocation>
+            <collocation form="kadriranje prizora" cluster="4" frequency="8" logDice="5.9">
+              <comp position="1" type="headword" sloleks="LE_ce57968d19a63306b47e35984fc70d79">kadriranje</comp>
+              <comp position="2" type="collocate" sloleks="LE_8bb63327d6eb154642411f2be3d7f73d">prizora</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

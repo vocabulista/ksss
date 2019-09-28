@@ -1,0 +1,36 @@
+<entry>
+  <header>
+    <lexical_unit id="5834">postekleneti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">1509</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="postekleneti na kocko" cluster="1" frequency="7" logDice="5.05">
+              <comp position="1" type="headword" sloleks="LE_a11ec9ebd6a258bed9a089f0c0304ef4">postekleneti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee2a0942d8d1f0e891837f829443f8ec">kocko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="postekleneti na olju" cluster="1" frequency="46" logDice="8.54">
+              <comp position="1" type="headword" sloleks="LE_a11ec9ebd6a258bed9a089f0c0304ef4">postekleneti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_edbc216a092bf1781eab880a62d9f53d">olju</comp>
+            </collocation>
+            <collocation form="postekleneti na maslu" cluster="2" frequency="18" logDice="8.41">
+              <comp position="1" type="headword" sloleks="LE_a11ec9ebd6a258bed9a089f0c0304ef4">postekleneti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_3fbddac0ae5571156afe5adebaab4af9">maslu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

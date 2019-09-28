@@ -1,0 +1,68 @@
+<entry>
+  <header>
+    <lexical_unit id="10137">zavozlati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">507</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="zavozlati na koncu" cluster="1" frequency="11" logDice="1.48">
+              <comp position="1" type="headword" sloleks="LE_b483287ce913e97efd2cfe6ffe0406e0">zavozlati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_d8d1737076777d9839ea949a2b88751a">koncu</comp>
+            </collocation>
+            <collocation form="zavozlati na strani" cluster="2" frequency="7" logDice="0.82">
+              <comp position="1" type="headword" sloleks="LE_b483287ce913e97efd2cfe6ffe0406e0">zavozlati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_4432316ca39663f747c84fc21ac8e398">strani</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="zavozlati vrvico" cluster="1" frequency="5" logDice="6.57">
+              <comp position="1" type="headword" sloleks="LE_b483287ce913e97efd2cfe6ffe0406e0">zavozlati</comp>
+              <comp position="2" type="collocate" sloleks="LE_c53d3cf9acf78e81f5818617af012224">vrvico</comp>
+            </collocation>
+            <collocation form="zavozlati jezik" cluster="2" frequency="11" logDice="4.35">
+              <comp position="1" type="headword" sloleks="LE_b483287ce913e97efd2cfe6ffe0406e0">zavozlati</comp>
+              <comp position="2" type="collocate" sloleks="LE_84e841a4b1d5e4b816efe7f126e1f693">jezik</comp>
+            </collocation>
+            <collocation form="zavozlati las" cluster="3" frequency="5" logDice="3.59">
+              <comp position="1" type="headword" sloleks="LE_b483287ce913e97efd2cfe6ffe0406e0">zavozlati</comp>
+              <comp position="2" type="collocate" sloleks="LE_efa5b979af023ef3a1f9a62889d9ad2d">las</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="zavozlati v vozel" cluster="1" frequency="7" logDice="10.02">
+              <comp position="1" type="headword" sloleks="LE_b483287ce913e97efd2cfe6ffe0406e0">zavozlati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_4f2e50cc9f7cf5eb5e2786860a44f985">vozel</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="čisto zavozlati" cluster="1" frequency="4" logDice="3.44">
+              <comp position="1" type="collocate" sloleks="LE_94a91e83047bf2e90acf82e14cbb99c9">čisto</comp>
+              <comp position="2" type="headword" sloleks="LE_b483287ce913e97efd2cfe6ffe0406e0">zavozlati</comp>
+            </collocation>
+            <collocation form="dodatno zavozlati" cluster="2" frequency="4" logDice="1.44">
+              <comp position="1" type="collocate" sloleks="LE_d87043505ab09df3263269f8fff045d4">dodatno</comp>
+              <comp position="2" type="headword" sloleks="LE_b483287ce913e97efd2cfe6ffe0406e0">zavozlati</comp>
+            </collocation>
+            <collocation form="bolj zavozlati" cluster="3" frequency="9" logDice="0.2">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_b483287ce913e97efd2cfe6ffe0406e0">zavozlati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

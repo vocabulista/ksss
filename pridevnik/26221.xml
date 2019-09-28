@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="26221">nezaustavljiv</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">505</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nezaustavljiv pohod" cluster="1" frequency="11" logDice="3.54">
+              <comp position="1" type="headword" sloleks="LE_1249aa8cbc172373f4679a16409117e0">nezaustavljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_01073dd8973c0817869deec173590499">pohod</comp>
+            </collocation>
+            <collocation form="nezaustavljiva želja" cluster="2" frequency="9" logDice="2.08">
+              <comp position="1" type="headword" sloleks="LE_1249aa8cbc172373f4679a16409117e0">nezaustavljiva</comp>
+              <comp position="2" type="collocate" sloleks="LE_5bbd47ac0286ad82a89f112c6af6067a">želja</comp>
+            </collocation>
+            <collocation form="nezaustavljiv proces" cluster="3" frequency="9" logDice="1.51">
+              <comp position="1" type="headword" sloleks="LE_1249aa8cbc172373f4679a16409117e0">nezaustavljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_16c53d1ebb90a9bc6324b676ef5003b8">proces</comp>
+            </collocation>
+            <collocation form="nezaustavljiva moč" cluster="4" frequency="6" logDice="0.5">
+              <comp position="1" type="headword" sloleks="LE_1249aa8cbc172373f4679a16409117e0">nezaustavljiva</comp>
+              <comp position="2" type="collocate" sloleks="LE_0b71c85c50e39f2c8cb5e91791d67af9">moč</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="praktično nezaustavljiv" cluster="1" frequency="9" logDice="4.11">
+              <comp position="1" type="collocate" sloleks="LE_1d2724065d2fbcc820683706ab4ac941">praktično</comp>
+              <comp position="2" type="headword" sloleks="LE_1249aa8cbc172373f4679a16409117e0">nezaustavljiv</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

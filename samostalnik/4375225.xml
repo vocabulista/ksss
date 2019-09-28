@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="4375225">vegeta</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="začiniti z vegeta" cluster="1" frequency="20" logDice="6.22">
+              <comp position="1" type="collocate" sloleks="LE_cbb9e0cc2cb929b993070b6548444802">začiniti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="">vegeta</comp>
+            </collocation>
+            <collocation form="posuti z vegeta" cluster="2" frequency="7" logDice="5.9">
+              <comp position="1" type="collocate" sloleks="LE_db9fc1871d4e69e9283f5cd978f3c842">posuti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="">vegeta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="žlička vegeta" cluster="1" frequency="35" logDice="5.51">
+              <comp position="1" type="collocate" sloleks="LE_e73bf10c012403a7e4dd459c6f5ec615">žlička</comp>
+              <comp position="2" type="headword" sloleks="">vegeta</comp>
+            </collocation>
+            <collocation form="žlica vegeta" cluster="2" frequency="40" logDice="4.34">
+              <comp position="1" type="collocate" sloleks="LE_5b244d4e4129487f5e5521db873389aa">žlica</comp>
+              <comp position="2" type="headword" sloleks="">vegeta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

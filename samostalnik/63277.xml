@@ -1,0 +1,61 @@
+<entry>
+  <header>
+    <lexical_unit id="63277">kavka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1221</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Kavka iz Kisovca" cluster="1" frequency="6" logDice="9.78">
+              <comp position="1" type="headword" sloleks="LE_38311cdd31c1d5d29e3c793e9c40051c">Kavka</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_4056afa6a5b8b13acd988ef192d834d3">Kisovca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz od SBZ2">
+          <collocations>
+            <collocation form="vzeti od kavke" cluster="1" frequency="22" logDice="9.94">
+              <comp position="1" type="collocate" sloleks="LE_af99d0c656cf84ca132dcdca567d80c0">vzeti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="headword" sloleks="LE_38311cdd31c1d5d29e3c793e9c40051c">kavke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="planinska kavka" cluster="1" frequency="74" logDice="5.55">
+              <comp position="1" type="collocate" sloleks="LE_548f746441b3c0fe6c2f5bd21bd3a399">planinska</comp>
+              <comp position="2" type="headword" sloleks="LE_38311cdd31c1d5d29e3c793e9c40051c">kavka</comp>
+            </collocation>
+            <collocation form="kranjska kavka" cluster="2" frequency="10" logDice="1.76">
+              <comp position="1" type="collocate" sloleks="LE_0bd8e638d4f62a846bbd7f0cc97d5f60">kranjska</comp>
+              <comp position="2" type="headword" sloleks="LE_38311cdd31c1d5d29e3c793e9c40051c">kavka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 od SBZ2">
+          <collocations>
+            <collocation form="podnaslov od kavke" cluster="1" frequency="4" logDice="11.22">
+              <comp position="1" type="collocate" sloleks="LE_b7be21bc9525ee98980478d076dc17c1">podnaslov</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="headword" sloleks="LE_38311cdd31c1d5d29e3c793e9c40051c">kavke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="ura v Kavki" cluster="1" frequency="5" logDice="1.6">
+              <comp position="1" type="collocate" sloleks="LE_77e6b5a072871d299d405565eaad4389">ura</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_38311cdd31c1d5d29e3c793e9c40051c">Kavki</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

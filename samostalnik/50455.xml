@@ -1,0 +1,67 @@
+<entry>
+  <header>
+    <lexical_unit id="50455">brig</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">812</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="brig na veselje" cluster="1" frequency="10" logDice="10.05">
+              <comp position="1" type="headword" sloleks="LE_fe7bc3de9ac4b9035d748e1190ec9691">brig</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_9793d9b0b396cdcba2b099374bb344d4">veselje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="brig za Slovenijo" cluster="1" frequency="4" logDice="2.55">
+              <comp position="1" type="headword" sloleks="LE_fe7bc3de9ac4b9035d748e1190ec9691">brig</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Slovenijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Dolnji brig" cluster="1" frequency="12" logDice="7.06">
+              <comp position="1" type="collocate" sloleks="LE_b96fdb6d2147514e21eee052589b15f4">Dolnji</comp>
+              <comp position="2" type="headword" sloleks="LE_fe7bc3de9ac4b9035d748e1190ec9691">brig</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ2">
+          <collocations>
+            <collocation form="zadnji briga" cluster="1" frequency="10" logDice="5.82">
+              <comp position="1" type="collocate" sloleks="LE_91601e3363ebbfa5c134315888532266">zadnji</comp>
+              <comp position="2" type="headword" sloleks="LE_fe7bc3de9ac4b9035d748e1190ec9691">briga</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="figa briga" cluster="1" frequency="8" logDice="9.89">
+              <comp position="1" type="collocate" sloleks="LE_9e2087856b81c59dc4f4e8a35e2a5895">figa</comp>
+              <comp position="2" type="headword" sloleks="LE_fe7bc3de9ac4b9035d748e1190ec9691">briga</comp>
+            </collocation>
+            <collocation form="drek briga" cluster="2" frequency="7" logDice="9.48">
+              <comp position="1" type="collocate" sloleks="LE_6e23f2d60aaa5791bd3a9f61240175ce">drek</comp>
+              <comp position="2" type="headword" sloleks="LE_fe7bc3de9ac4b9035d748e1190ec9691">briga</comp>
+            </collocation>
+            <collocation form="kurec briga" cluster="3" frequency="6" logDice="9.32">
+              <comp position="1" type="collocate" sloleks="LE_0906f820c70cb32e59a09ebe631ffc0e">kurec</comp>
+              <comp position="2" type="headword" sloleks="LE_fe7bc3de9ac4b9035d748e1190ec9691">briga</comp>
+            </collocation>
+            <collocation form="knjiga briga" cluster="4" frequency="21" logDice="3.88">
+              <comp position="1" type="collocate" sloleks="LE_fcbd23f52ef0d5c8f302f9c1ba64a0e3">knjiga</comp>
+              <comp position="2" type="headword" sloleks="LE_fe7bc3de9ac4b9035d748e1190ec9691">briga</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

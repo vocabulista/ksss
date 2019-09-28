@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="83466">pripovedovalka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">848</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="pripovedovalka pravljice" cluster="1" frequency="45" logDice="7.37">
+              <comp position="1" type="headword" sloleks="LE_4446d51b5ee84a5d378c07149b5d4f40">pripovedovalka</comp>
+              <comp position="2" type="collocate" sloleks="LE_cb17739012afdd088c494ad9d8f3c715">pravljice</comp>
+            </collocation>
+            <collocation form="pripovedovalka zgodbe" cluster="2" frequency="98" logDice="6.36">
+              <comp position="1" type="headword" sloleks="LE_4446d51b5ee84a5d378c07149b5d4f40">pripovedovalka</comp>
+              <comp position="2" type="collocate" sloleks="LE_9d9531a39496cd12f07e32ab50c0280f">zgodbe</comp>
+            </collocation>
+            <collocation form="zgodba pripovedovalke" cluster="3" frequency="8" logDice="3.21">
+              <comp position="1" type="collocate" sloleks="LE_9d9531a39496cd12f07e32ab50c0280f">zgodba</comp>
+              <comp position="2" type="headword" sloleks="LE_4446d51b5ee84a5d378c07149b5d4f40">pripovedovalke</comp>
+            </collocation>
+            <collocation form="vloga pripovedovalke" cluster="4" frequency="14" logDice="1.87">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_4446d51b5ee84a5d378c07149b5d4f40">pripovedovalke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="prvoosebna pripovedovalka" cluster="1" frequency="80" logDice="10.68">
+              <comp position="1" type="collocate" sloleks="LE_38d5475c2a2d404caac659b16c1c9fa6">prvoosebna</comp>
+              <comp position="2" type="headword" sloleks="LE_4446d51b5ee84a5d378c07149b5d4f40">pripovedovalka</comp>
+            </collocation>
+            <collocation form="odlična pripovedovalka" cluster="2" frequency="14" logDice="1.4">
+              <comp position="1" type="collocate" sloleks="LE_5df9e790d0222ba069d884357b717d12">odlična</comp>
+              <comp position="2" type="headword" sloleks="LE_4446d51b5ee84a5d378c07149b5d4f40">pripovedovalka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="ura s pripovedovalko" cluster="1" frequency="9" logDice="5.47">
+              <comp position="1" type="collocate" sloleks="LE_77e6b5a072871d299d405565eaad4389">ura</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_4446d51b5ee84a5d378c07149b5d4f40">pripovedovalko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

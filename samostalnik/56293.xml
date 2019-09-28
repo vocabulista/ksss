@@ -1,0 +1,35 @@
+<entry>
+  <header>
+    <lexical_unit id="56293">fes</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">505</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="rdeč fes" cluster="1" frequency="12" logDice="0.91">
+              <comp position="1" type="collocate" sloleks="LE_f39824a0a0c94efb31b4fa9dc908ea0f">rdeč</comp>
+              <comp position="2" type="headword" sloleks="LE_8465125051507c251a44c6f46150d279">fes</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="Medina v Fesu" cluster="1" frequency="4" logDice="10.71">
+              <comp position="1" type="collocate" sloleks="LE_10a4cd40181e3c0e5f4fbe2a589ce322">Medina</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_8465125051507c251a44c6f46150d279">Fesu</comp>
+            </collocation>
+            <collocation form="turnir v Fesu" cluster="2" frequency="6" logDice="2.6">
+              <comp position="1" type="collocate" sloleks="LE_bb42eacbac1f69f15322f02d41a9c31c">turnir</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_8465125051507c251a44c6f46150d279">Fesu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

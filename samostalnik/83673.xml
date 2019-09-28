@@ -1,0 +1,66 @@
+<entry>
+  <header>
+    <lexical_unit id="83673">privesek</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1370</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="privesek LDS" cluster="1" frequency="13" logDice="3.56">
+              <comp position="1" type="headword" sloleks="LE_7b8a09cdc17737f5262033a05f12dcac">privesek</comp>
+              <comp position="2" type="collocate" sloleks="LE_fedf62fde8826361bd1bc56b68d61c24|LE_d4623f2692c2785272cd3ca3d72c32e9">LDS</comp>
+            </collocation>
+            <collocation form="privesek SDS" cluster="1" frequency="12" logDice="3.46">
+              <comp position="1" type="headword" sloleks="LE_7b8a09cdc17737f5262033a05f12dcac">privesek</comp>
+              <comp position="2" type="collocate" sloleks="LE_874c267ddfb56ab78440528839a23538|LE_5a920e95aa13d6df0e89c1f86a25f5c2">SDS</comp>
+            </collocation>
+            <collocation form="privesek stranke" cluster="2" frequency="12" logDice="1.12">
+              <comp position="1" type="headword" sloleks="LE_7b8a09cdc17737f5262033a05f12dcac">privesek</comp>
+              <comp position="2" type="collocate" sloleks="LE_945a204a300f28702820c4bc0481d2e7">stranke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="možganski privesek" cluster="1" frequency="80" logDice="6.97">
+              <comp position="1" type="collocate" sloleks="LE_53a05bc8ee6a28559ca1665e585cceb2">možganski</comp>
+              <comp position="2" type="headword" sloleks="LE_7b8a09cdc17737f5262033a05f12dcac">privesek</comp>
+            </collocation>
+            <collocation form="kožen privesek" cluster="1" frequency="14" logDice="5.04">
+              <comp position="1" type="collocate" sloleks="LE_34add3a15d4fa68414ff1cf9df7b40ba">kožen</comp>
+              <comp position="2" type="headword" sloleks="LE_7b8a09cdc17737f5262033a05f12dcac">privesek</comp>
+            </collocation>
+            <collocation form="nepotreben privesek" cluster="2" frequency="14" logDice="4.23">
+              <comp position="1" type="collocate" sloleks="LE_77431aa6b09bf4481125b3c1154469de">nepotreben</comp>
+              <comp position="2" type="headword" sloleks="LE_7b8a09cdc17737f5262033a05f12dcac">privesek</comp>
+            </collocation>
+            <collocation form="obvezen privesek" cluster="3" frequency="9" logDice="2.14">
+              <comp position="1" type="collocate" sloleks="LE_df2a2d8ead73c8ef2dfffeb3072b1df5">obvezen</comp>
+              <comp position="2" type="headword" sloleks="LE_7b8a09cdc17737f5262033a05f12dcac">privesek</comp>
+            </collocation>
+            <collocation form="nujen privesek" cluster="3" frequency="9" logDice="2.03">
+              <comp position="1" type="collocate" sloleks="LE_f4e7a49f9e7f4adce1fabc7f90c74a48">nujen</comp>
+              <comp position="2" type="headword" sloleks="LE_7b8a09cdc17737f5262033a05f12dcac">privesek</comp>
+            </collocation>
+            <collocation form="razen privesek" cluster="4" frequency="8" logDice="1.28">
+              <comp position="1" type="collocate" sloleks="LE_10ab2d5761b41f492d84f334d55dcdd9">razen</comp>
+              <comp position="2" type="headword" sloleks="LE_7b8a09cdc17737f5262033a05f12dcac">privesek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="znamka s priveskom" cluster="1" frequency="10" logDice="7.09">
+              <comp position="1" type="collocate" sloleks="LE_014a91896ff8a6fc2803a2ad2f508b8b">znamka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_7b8a09cdc17737f5262033a05f12dcac">priveskom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

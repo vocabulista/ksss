@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="32604">rižanski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">883</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="rižanski vodovod" cluster="1" frequency="764" logDice="11.18">
+              <comp position="1" type="headword" sloleks="LE_e0c0caba10f6775b6e8bb8a01803fab7">rižanski</comp>
+              <comp position="2" type="collocate" sloleks="LE_53367e3316ef6fe2054983b65cad1e7c">vodovod</comp>
+            </collocation>
+            <collocation form="rižanski placit" cluster="2" frequency="14" logDice="9.0">
+              <comp position="1" type="headword" sloleks="LE_e0c0caba10f6775b6e8bb8a01803fab7">rižanski</comp>
+              <comp position="2" type="collocate" sloleks="">placit</comp>
+            </collocation>
+            <collocation form="rižanska dolina" cluster="3" frequency="47" logDice="3.84">
+              <comp position="1" type="headword" sloleks="LE_e0c0caba10f6775b6e8bb8a01803fab7">rižanska</comp>
+              <comp position="2" type="collocate" sloleks="LE_3cfd82133483d61493479af0121a6728">dolina</comp>
+            </collocation>
+            <collocation form="rižanski zbor" cluster="4" frequency="18" logDice="0.91">
+              <comp position="1" type="headword" sloleks="LE_e0c0caba10f6775b6e8bb8a01803fab7">rižanski</comp>
+              <comp position="2" type="collocate" sloleks="LE_56ae41b6d71148e851cdd275624be8f4">zbor</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

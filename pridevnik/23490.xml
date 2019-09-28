@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="23490">materen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">4854</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="materen in tuj" cluster="1" frequency="27" logDice="5.27">
+              <comp position="1" type="headword" sloleks="LE_9be14830d64b5e917e0bcdaa1dc8c262">materen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_63bb1d06a0acaae554971154531d3e14">tuj</comp>
+            </collocation>
+            <collocation form="materen in angleški" cluster="2" frequency="5" logDice="4.65">
+              <comp position="1" type="headword" sloleks="LE_9be14830d64b5e917e0bcdaa1dc8c262">materen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_8b840258abd9241edccf9d7612498a6d">angleški</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="materen jezik" cluster="1" frequency="4182" logDice="9.56">
+              <comp position="1" type="headword" sloleks="LE_9be14830d64b5e917e0bcdaa1dc8c262">materen</comp>
+              <comp position="2" type="collocate" sloleks="LE_84e841a4b1d5e4b816efe7f126e1f693">jezik</comp>
+            </collocation>
+            <collocation form="materen govorec" cluster="2" frequency="12" logDice="5.65">
+              <comp position="1" type="headword" sloleks="LE_9be14830d64b5e917e0bcdaa1dc8c262">materen</comp>
+              <comp position="2" type="collocate" sloleks="LE_38e9068fd2efaf825e374d0a75956193">govorec</comp>
+            </collocation>
+            <collocation form="materno znamenje" cluster="3" frequency="19" logDice="4.41">
+              <comp position="1" type="headword" sloleks="LE_9be14830d64b5e917e0bcdaa1dc8c262">materno</comp>
+              <comp position="2" type="collocate" sloleks="LE_89ced9910fe1652d14eb02bd6bddca8a">znamenje</comp>
+            </collocation>
+            <collocation form="materna beseda" cluster="4" frequency="11" logDice="1.0">
+              <comp position="1" type="headword" sloleks="LE_9be14830d64b5e917e0bcdaa1dc8c262">materna</comp>
+              <comp position="2" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">beseda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="98730">zavarovalec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">703</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz SBZ3">
+          <collocations>
+            <collocation form="iti zavarovalcu" cluster="1" frequency="8" logDice="4.5">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="headword" sloleks="LE_e55847c9d51ff010a43b968ed7484573">zavarovalcu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="interes zavarovalca" cluster="1" frequency="20" logDice="3.68">
+              <comp position="1" type="collocate" sloleks="LE_852d4c3cd2b3cd0cc21c88ad76a6c9a7">interes</comp>
+              <comp position="2" type="headword" sloleks="LE_e55847c9d51ff010a43b968ed7484573">zavarovalca</comp>
+            </collocation>
+            <collocation form="zahteva zavarovalca" cluster="1" frequency="8" logDice="2.14">
+              <comp position="1" type="collocate" sloleks="LE_d4736e57297d5140ba448c30c6d6d744">zahteva</comp>
+              <comp position="2" type="headword" sloleks="LE_e55847c9d51ff010a43b968ed7484573">zavarovalca</comp>
+            </collocation>
+            <collocation form="korist zavarovalca" cluster="2" frequency="5" logDice="2.81">
+              <comp position="1" type="collocate" sloleks="LE_e4a5ebc6dc0230e468f1bd9a503b7685">korist</comp>
+              <comp position="2" type="headword" sloleks="LE_e55847c9d51ff010a43b968ed7484573">zavarovalca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="podatek o zavarovalcu" cluster="1" frequency="12" logDice="2.09">
+              <comp position="1" type="collocate" sloleks="LE_dceff032dbcde0be8f54f9dd068c8f74">podatek</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_e55847c9d51ff010a43b968ed7484573">zavarovalcu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,35 @@
+<entry>
+  <header>
+    <lexical_unit id="92840">tečnoba</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">592</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="Tečnoba v hlačah" cluster="1" frequency="116" logDice="11.36">
+              <comp position="1" type="headword" sloleks="LE_d16c8be46dbe50ec7f7204d4f816628d">Tečnoba</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_a305c5239efe00bca5aa33dc4093e5e8">hlačah</comp>
+            </collocation>
+            <collocation form="tečnoba v hlačkah" cluster="2" frequency="4" logDice="8.63">
+              <comp position="1" type="headword" sloleks="LE_d16c8be46dbe50ec7f7204d4f816628d">tečnoba</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_1d1b5638f622bf1ac24db252118a0d6e">hlačkah</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="ugrabljena tečnoba" cluster="1" frequency="23" logDice="7.98">
+              <comp position="1" type="collocate" sloleks="LE_ef6db9102fbb8f4eb8a6ba696a72e286">ugrabljena</comp>
+              <comp position="2" type="headword" sloleks="LE_d16c8be46dbe50ec7f7204d4f816628d">tečnoba</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

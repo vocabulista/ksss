@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="54762">dvajsetletnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">857</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="dvajsetletnik iz okolice" cluster="1" frequency="8" logDice="4.25">
+              <comp position="1" type="headword" sloleks="LE_945affc722e2e52b4ea5c23f39263fcf">dvajsetletnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_47ad0b8169f925a63d1a9ab41a6ec943">okolice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="današnji dvajsetletnik" cluster="1" frequency="10" logDice="0.99">
+              <comp position="1" type="collocate" sloleks="LE_3eca79d9ce3974a5dbf4794dc47c96d5">današnji</comp>
+              <comp position="2" type="headword" sloleks="LE_945affc722e2e52b4ea5c23f39263fcf">dvajsetletnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="generacija dvajsetletnika" cluster="1" frequency="12" logDice="3.78">
+              <comp position="1" type="collocate" sloleks="LE_3ae79f27727e36bc3b9d688dcc7e1dff">generacija</comp>
+              <comp position="2" type="headword" sloleks="LE_945affc722e2e52b4ea5c23f39263fcf">dvajsetletnika</comp>
+            </collocation>
+            <collocation form="smrt dvajsetletnika" cluster="2" frequency="6" logDice="2.35">
+              <comp position="1" type="collocate" sloleks="LE_7ccde25b582fa3323faaf4d1541c4793">smrt</comp>
+              <comp position="2" type="headword" sloleks="LE_945affc722e2e52b4ea5c23f39263fcf">dvajsetletnika</comp>
+            </collocation>
+            <collocation form="skupina dvajsetletnika" cluster="3" frequency="8" logDice="0.55">
+              <comp position="1" type="collocate" sloleks="LE_7a31c94cb05484f8e60e8fbc4dad6a50">skupina</comp>
+              <comp position="2" type="headword" sloleks="LE_945affc722e2e52b4ea5c23f39263fcf">dvajsetletnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

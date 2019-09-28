@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="60501">instalater</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">440</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="instalater instalacije" cluster="1" frequency="144" logDice="11.09">
+              <comp position="1" type="headword" sloleks="LE_112cf7718e75fd6d7009b0fd3f0854a8">instalater</comp>
+              <comp position="2" type="collocate" sloleks="LE_02a077778529541d84b0b15d3c9916a0">instalacije</comp>
+            </collocation>
+            <collocation form="instalater energetika" cluster="2" frequency="45" logDice="10.06">
+              <comp position="1" type="headword" sloleks="LE_112cf7718e75fd6d7009b0fd3f0854a8">instalater</comp>
+              <comp position="2" type="collocate" sloleks="LE_059d6ab47e1dd0b23732f2fe3569f794">energetika</comp>
+            </collocation>
+            <collocation form="sekcija instalaterja" cluster="3" frequency="95" logDice="8.24">
+              <comp position="1" type="collocate" sloleks="LE_cb3b39a40d85a1a144367c526c1e50f3">sekcija</comp>
+              <comp position="2" type="headword" sloleks="LE_112cf7718e75fd6d7009b0fd3f0854a8">instalaterja</comp>
+            </collocation>
+            <collocation form="poklic instalaterja" cluster="4" frequency="5" logDice="4.52">
+              <comp position="1" type="collocate" sloleks="LE_ee2dc2f20fc3eba609ef788b9cb08df4">poklic</comp>
+              <comp position="2" type="headword" sloleks="LE_112cf7718e75fd6d7009b0fd3f0854a8">instalaterja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

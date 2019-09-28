@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="25512">nenominiran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1081</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="nenominiran in nominiran" cluster="1" frequency="58" logDice="13.25">
+              <comp position="1" type="headword" sloleks="LE_3f7871e2ac4eaba90ac9693373707c6f">nenominiran</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_deec2dd67ffaf69892ccee87841ac7de">nominiran</comp>
+            </collocation>
+            <collocation form="nenominiran in/ali delniški" cluster="2" frequency="26" logDice="10.9">
+              <comp position="3" type="headword" sloleks="LE_3f7871e2ac4eaba90ac9693373707c6f">nenominiran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_91197aee5873d2a134792c64dd3dd9ae">delniški</comp>
+              </collocation>
+            <collocation form="nenominiran in/ali zaseben" cluster="3" frequency="15" logDice="5.52">
+              <comp position="3" type="headword" sloleks="LE_3f7871e2ac4eaba90ac9693373707c6f">nenominiran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_a52e18cf9191730c422e2822d9ecb6ce">zaseben</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nenominiran kapital" cluster="1" frequency="990" logDice="9.0">
+              <comp position="1" type="headword" sloleks="LE_3f7871e2ac4eaba90ac9693373707c6f">nenominiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_e4823bcd29751f1be403134ec610a893">kapital</comp>
+            </collocation>
+            <collocation form="nenominiran delež" cluster="2" frequency="10" logDice="1.04">
+              <comp position="1" type="headword" sloleks="LE_3f7871e2ac4eaba90ac9693373707c6f">nenominiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_8f8dbfe55e81431b97506b6dc95f9da4">delež</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz2">
+          <collocations>
+            <collocation form="nenominiran kapitala" cluster="1" frequency="15" logDice="10.89">
+              <comp position="1" type="headword" sloleks="LE_3f7871e2ac4eaba90ac9693373707c6f">nenominiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_e4823bcd29751f1be403134ec610a893">kapitala</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="zdaj nenominiran" cluster="1" frequency="7" logDice="1.33">
+              <comp position="1" type="collocate" sloleks="LE_d3f3f0cca65a8d1e1eb9565d50304e21">zdaj</comp>
+              <comp position="2" type="headword" sloleks="LE_3f7871e2ac4eaba90ac9693373707c6f">nenominiran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

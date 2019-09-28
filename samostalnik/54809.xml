@@ -1,0 +1,56 @@
+<entry>
+  <header>
+    <lexical_unit id="54809">dvogovor</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">713</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 med sbz6">
+          <collocations>
+            <collocation form="dvogovor med Natalijo" cluster="1" frequency="4" logDice="10.6">
+              <comp position="1" type="headword" sloleks="LE_ec82dc20e25b5bd3cc0e05d5739541fd">dvogovor</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_24374a199a39d657bc7b8577533e85ed">Natalijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="dvogovor s krajem" cluster="1" frequency="4" logDice="7.13">
+              <comp position="1" type="headword" sloleks="LE_ec82dc20e25b5bd3cc0e05d5739541fd">dvogovor</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_7f68ad51dbf6aa81c1b08f8afa92155d">krajem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="notranji dvogovor" cluster="1" frequency="26" logDice="2.07">
+              <comp position="1" type="collocate" sloleks="LE_bca9138b9a7f57aa3e597de77446f7d5">notranji</comp>
+              <comp position="2" type="headword" sloleks="LE_ec82dc20e25b5bd3cc0e05d5739541fd">dvogovor</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="predsedstvo dvogovora" cluster="1" frequency="7" logDice="4.16">
+              <comp position="1" type="collocate" sloleks="LE_bde2a65f3dc9c0156220c2ad65f2b8c8">predsedstvo</comp>
+              <comp position="2" type="headword" sloleks="LE_ec82dc20e25b5bd3cc0e05d5739541fd">dvogovora</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="narava v dvogovoru" cluster="1" frequency="6" logDice="6.25">
+              <comp position="1" type="collocate" sloleks="LE_3720f05aae76a62fa53daa3d96e22c20">narava</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_ec82dc20e25b5bd3cc0e05d5739541fd">dvogovoru</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

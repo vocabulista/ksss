@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="100475">zvonar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">743</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="zvonar za zvonjenje" cluster="1" frequency="4" logDice="10.15">
+              <comp position="1" type="headword" sloleks="LE_4a612e6935e34099344d33635ef08348">zvonar</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_025592ec986c880be3deecf64b1b7b40">zvonjenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="notredamski zvonar" cluster="1" frequency="252" logDice="13.36">
+              <comp position="1" type="collocate" sloleks="LE_662fe05e8e383b9c55b5b53efe5de0a8">notredamski</comp>
+              <comp position="2" type="headword" sloleks="LE_4a612e6935e34099344d33635ef08348">zvonar</comp>
+            </collocation>
+            <collocation form="Noterdamski zvonar" cluster="2" frequency="15" logDice="10.22">
+              <comp position="1" type="collocate" sloleks="">Noterdamski</comp>
+              <comp position="2" type="headword" sloleks="LE_4a612e6935e34099344d33635ef08348">zvonar</comp>
+            </collocation>
+            <collocation form="grbav zvonar" cluster="3" frequency="10" logDice="9.34">
+              <comp position="1" type="collocate" sloleks="LE_6c4aceda5204fc5630e029422a371658">grbav</comp>
+              <comp position="2" type="headword" sloleks="LE_4a612e6935e34099344d33635ef08348">zvonar</comp>
+            </collocation>
+            <collocation form="cerkven zvonar" cluster="4" frequency="8" logDice="2.54">
+              <comp position="1" type="collocate" sloleks="LE_2876bedf6b1dcbe32932a66673e78bfc">cerkven</comp>
+              <comp position="2" type="headword" sloleks="LE_4a612e6935e34099344d33635ef08348">zvonar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Ludvik Zvonarja" cluster="1" frequency="25" logDice="8.9">
+              <comp position="1" type="collocate" sloleks="LE_82fd35bbece728b9f2ba939d0be37f70|LE_17842428bfd9260d9805c7b07addbdad">Ludvik</comp>
+              <comp position="2" type="headword" sloleks="LE_4a612e6935e34099344d33635ef08348">Zvonarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

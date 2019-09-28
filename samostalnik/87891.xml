@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="87891">seizmolog</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">760</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="seizmolog iz observatorija" cluster="1" frequency="7" logDice="11.13">
+              <comp position="1" type="headword" sloleks="LE_7e9ee1ba37ec652ac43979ddc992e58b">seizmolog</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_8881b4c6448a50417a5c52e72898832d">observatorija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="seizmolog za ovrednotenje" cluster="1" frequency="4" logDice="9.06">
+              <comp position="1" type="headword" sloleks="LE_7e9ee1ba37ec652ac43979ddc992e58b">seizmolog</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_6ae5dc1810765d83c20f22a00d1c48c5">ovrednotenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="dežuren seizmolog" cluster="1" frequency="69" logDice="6.48">
+              <comp position="1" type="collocate" sloleks="LE_6bbdafc31d850b0b7630ef1b300fab92">dežuren</comp>
+              <comp position="2" type="headword" sloleks="LE_7e9ee1ba37ec652ac43979ddc992e58b">seizmolog</comp>
+            </collocation>
+            <collocation form="italijanski seizmolog" cluster="2" frequency="12" logDice="0.81">
+              <comp position="1" type="collocate" sloleks="LE_913305ff2d1ec7071265c860a231b843">italijanski</comp>
+              <comp position="2" type="headword" sloleks="LE_7e9ee1ba37ec652ac43979ddc992e58b">seizmolog</comp>
+            </collocation>
+            <collocation form="kitajski seizmolog" cluster="2" frequency="9" logDice="1.89">
+              <comp position="1" type="collocate" sloleks="LE_fb185a15f7fbc97760ca90b27e8bf70f">kitajski</comp>
+              <comp position="2" type="headword" sloleks="LE_7e9ee1ba37ec652ac43979ddc992e58b">seizmolog</comp>
+            </collocation>
+            <collocation form="znan seizmolog" cluster="3" frequency="14" logDice="0.72">
+              <comp position="1" type="collocate" sloleks="LE_3ca4e8269ed35ff770799effa47b0eda">znan</comp>
+              <comp position="2" type="headword" sloleks="LE_7e9ee1ba37ec652ac43979ddc992e58b">seizmolog</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="podatek seizmologa" cluster="1" frequency="5" logDice="1.59">
+              <comp position="1" type="collocate" sloleks="LE_dceff032dbcde0be8f54f9dd068c8f74">podatek</comp>
+              <comp position="2" type="headword" sloleks="LE_7e9ee1ba37ec652ac43979ddc992e58b">seizmologa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,139 @@
+<entry>
+  <header>
+    <lexical_unit id="78151">pizzerija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1831</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 pod sbz6">
+          <collocations>
+            <collocation form="pizzerija pod lipo" cluster="1" frequency="7" logDice="6.68">
+              <comp position="1" type="headword" sloleks="LE_020e0be585fe10963735fc9807c732c3">pizzerija</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="collocate" sloleks="LE_562f9350e1262b4a8c7c3c4603533b18">lipo</comp>
+            </collocation>
+            <collocation form="pizzerija pod GRADOM" cluster="2" frequency="5" logDice="6.22">
+              <comp position="1" type="headword" sloleks="LE_020e0be585fe10963735fc9807c732c3">pizzerija</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="collocate" sloleks="LE_b32c1e1e605a2353e11ee0a7e2e2e735">GRADOM</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="pizzerija Murk" cluster="1" frequency="66" logDice="11.45">
+              <comp position="1" type="headword" sloleks="LE_020e0be585fe10963735fc9807c732c3">pizzerija</comp>
+              <comp position="2" type="collocate" sloleks="">Murk</comp>
+            </collocation>
+            <collocation form="pizzerija Bonita" cluster="2" frequency="9" logDice="10.19">
+              <comp position="1" type="headword" sloleks="LE_020e0be585fe10963735fc9807c732c3">pizzerija</comp>
+              <comp position="2" type="collocate" sloleks="LE_2dfb3f0374734d47fe6c81a7ecdf524e">Bonita</comp>
+            </collocation>
+            <collocation form="ekipa Pizzerije" cluster="3" frequency="13" logDice="2.61">
+              <comp position="1" type="collocate" sloleks="LE_b9e9e733fb718cd2faed16b97326064f">ekipa</comp>
+              <comp position="2" type="headword" sloleks="LE_020e0be585fe10963735fc9807c732c3">Pizzerije</comp>
+            </collocation>
+            <collocation form="lastnik pizzerije" cluster="4" frequency="11" logDice="1.44">
+              <comp position="1" type="collocate" sloleks="LE_66c7de1ac3f03dd18265b3091c93bdc0">lastnik</comp>
+              <comp position="2" type="headword" sloleks="LE_020e0be585fe10963735fc9807c732c3">pizzerije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="zaviti v pizzerijo" cluster="1" frequency="4" logDice="3.67">
+              <comp position="1" type="collocate" sloleks="LE_5ff12f6cc99e079a35d5719f91f56eec">zaviti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_020e0be585fe10963735fc9807c732c3">pizzerijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="izkoristiti v Pizzeriji" cluster="1" frequency="7" logDice="5.79">
+              <comp position="1" type="collocate" sloleks="LE_190d5f171ed04d4f535a979fd4cd294b">izkoristiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_020e0be585fe10963735fc9807c732c3">Pizzeriji</comp>
+            </collocation>
+            <collocation form="nastopiti v Pizzeriji" cluster="2" frequency="4" logDice="1.88">
+              <comp position="1" type="collocate" sloleks="LE_f7d59cd4aef4a6907c0f46f9b96eca99">nastopiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_020e0be585fe10963735fc9807c732c3">Pizzeriji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="gostilna pizzerija" cluster="1" frequency="62" logDice="7.89">
+              <comp position="1" type="collocate" sloleks="LE_bd83215331aee3a59157503ab8787c26">gostilna</comp>
+              <comp position="2" type="headword" sloleks="LE_020e0be585fe10963735fc9807c732c3">pizzerija</comp>
+            </collocation>
+            <collocation form="novomeška pizzerija" cluster="2" frequency="16" logDice="3.04">
+              <comp position="1" type="collocate" sloleks="LE_0114fbb0b37e42ef3bad163b2339e668">novomeška</comp>
+              <comp position="2" type="headword" sloleks="LE_020e0be585fe10963735fc9807c732c3">pizzerija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="specialiteta iz pizzerije" cluster="1" frequency="14" logDice="10.68">
+              <comp position="1" type="collocate" sloleks="LE_6325469498145b0266035be01f12bec9">specialiteta</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_020e0be585fe10963735fc9807c732c3">pizzerije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 pri SBZ5">
+          <collocations>
+            <collocation form="križišče pri pizzeriji" cluster="1" frequency="4" logDice="6.63">
+              <comp position="1" type="collocate" sloleks="LE_4eeb93828f20e1f00bdaed930931d96a">križišče</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_020e0be585fe10963735fc9807c732c3">pizzeriji</comp>
+            </collocation>
+            <collocation form="prostor pri pizzeriji" cluster="2" frequency="4" logDice="6.27">
+              <comp position="1" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostor</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_020e0be585fe10963735fc9807c732c3">pizzeriji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="pizza v pizzeriji" cluster="1" frequency="9" logDice="11.0">
+              <comp position="1" type="collocate" sloleks="LE_6c4a7bef85043c1fde6daa89c4c73053">pizza</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_020e0be585fe10963735fc9807c732c3">pizzeriji</comp>
+            </collocation>
+            <collocation form="strežba v pizzeriji" cluster="2" frequency="5" logDice="7.99">
+              <comp position="1" type="collocate" sloleks="LE_869e55712c38c345b27c70c2504eec57">strežba</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_020e0be585fe10963735fc9807c732c3">pizzeriji</comp>
+            </collocation>
+            <collocation form="izbira v Pizzeriji" cluster="3" frequency="4" logDice="6.84">
+              <comp position="1" type="collocate" sloleks="LE_0183b3b968bada8d6e824d361c1c2bd2">izbira</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_020e0be585fe10963735fc9807c732c3">Pizzeriji</comp>
+            </collocation>
+            <collocation form="pivo v PIZZERIJI" cluster="4" frequency="6" logDice="6.71">
+              <comp position="1" type="collocate" sloleks="LE_3b490983cf8550a4205b86347b74d62d">pivo</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_020e0be585fe10963735fc9807c732c3">PIZZERIJI</comp>
+            </collocation>
+            <collocation form="delo v pizzeriji" cluster="5" frequency="14" logDice="2.38">
+              <comp position="1" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_020e0be585fe10963735fc9807c732c3">pizzeriji</comp>
+            </collocation>
+            <collocation form="ura v pizzeriji" cluster="5" frequency="13" logDice="2.98">
+              <comp position="1" type="collocate" sloleks="LE_77e6b5a072871d299d405565eaad4389">ura</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_020e0be585fe10963735fc9807c732c3">pizzeriji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

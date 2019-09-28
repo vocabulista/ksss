@@ -1,0 +1,56 @@
+<entry>
+  <header>
+    <lexical_unit id="4945893">šou</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="šou iz barca" cluster="1" frequency="5" logDice="10.93">
+              <comp position="1" type="headword" sloleks="">šou</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">barca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="šou na žogo" cluster="1" frequency="4" logDice="8.06">
+              <comp position="1" type="headword" sloleks="">šou</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_5acedd5f09306ad160787c9606bc85a0">žogo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz4">
+          <collocations>
+            <collocation form="šou v barca" cluster="1" frequency="4" logDice="9.88">
+              <comp position="1" type="headword" sloleks="">šou</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="">barca</comp>
+            </collocation>
+            <collocation form="šou v real" cluster="2" frequency="7" logDice="9.31">
+              <comp position="1" type="headword" sloleks="">šou</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_9a382751a67647fd44598e939486d016">real</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Tomov šou" cluster="1" frequency="13" logDice="8.12">
+              <comp position="1" type="collocate" sloleks="LE_583cfe83bbe128bdd2a00c47092254a5">Tomov</comp>
+              <comp position="2" type="headword" sloleks="">šou</comp>
+            </collocation>
+            <collocation form="zelen šou" cluster="2" frequency="13" logDice="1.78">
+              <comp position="1" type="collocate" sloleks="LE_6e8aa87791d8f00ce04541edfe194c36">zelen</comp>
+              <comp position="2" type="headword" sloleks="">šou</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

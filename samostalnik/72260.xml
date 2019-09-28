@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="72260">nemoralnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">555</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="nemoralnost početja" cluster="1" frequency="9" logDice="6.27">
+              <comp position="1" type="headword" sloleks="LE_9cd65a84dc9694ebe234385809e6919c">nemoralnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_da5f2e9af927bea96a24207e7a8863cb">početja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz o SBZ5">
+          <collocations>
+            <collocation form="govoriti o nemoralnosti" cluster="1" frequency="5" logDice="0.17">
+              <comp position="1" type="collocate" sloleks="LE_1da4dedf23c5041ae767d038d2430123">govoriti</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_9cd65a84dc9694ebe234385809e6919c">nemoralnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="zgodba o nemoralnosti" cluster="1" frequency="4" logDice="1.17">
+              <comp position="1" type="collocate" sloleks="LE_9d9531a39496cd12f07e32ab50c0280f">zgodba</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_9cd65a84dc9694ebe234385809e6919c">nemoralnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

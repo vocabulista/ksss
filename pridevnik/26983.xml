@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="26983">odstaven</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1949</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="odstaven pas" cluster="1" frequency="1662" logDice="9.69">
+              <comp position="1" type="headword" sloleks="LE_bfc4ad1e49e6ae6f7161aba9cdeb3db2">odstaven</comp>
+              <comp position="2" type="collocate" sloleks="LE_89ac9c7dc7f715491af648500946332a">pas</comp>
+            </collocation>
+            <collocation form="odstavna niša" cluster="2" frequency="139" logDice="8.71">
+              <comp position="1" type="headword" sloleks="LE_bfc4ad1e49e6ae6f7161aba9cdeb3db2">odstavna</comp>
+              <comp position="2" type="collocate" sloleks="LE_d343ccfaab881570d3bb0879044676e6">niša</comp>
+            </collocation>
+            <collocation form="odstaven tir" cluster="3" frequency="26" logDice="6.16">
+              <comp position="1" type="headword" sloleks="LE_bfc4ad1e49e6ae6f7161aba9cdeb3db2">odstaven</comp>
+              <comp position="2" type="collocate" sloleks="LE_b894121de3bba3a4b6dc91ff5557c062">tir</comp>
+            </collocation>
+            <collocation form="odstavna površina" cluster="4" frequency="7" logDice="1.0">
+              <comp position="1" type="headword" sloleks="LE_bfc4ad1e49e6ae6f7161aba9cdeb3db2">odstavna</comp>
+              <comp position="2" type="collocate" sloleks="LE_7d18868a4d96322e862a8e6591930019">površina</comp>
+            </collocation>
+            <collocation form="odstaven prostor" cluster="5" frequency="23" logDice="0.94">
+              <comp position="1" type="headword" sloleks="LE_bfc4ad1e49e6ae6f7161aba9cdeb3db2">odstaven</comp>
+              <comp position="2" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostor</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz2">
+          <collocations>
+            <collocation form="odstaven pasu" cluster="1" frequency="28" logDice="12.71">
+              <comp position="1" type="headword" sloleks="LE_bfc4ad1e49e6ae6f7161aba9cdeb3db2">odstaven</comp>
+              <comp position="2" type="collocate" sloleks="LE_89ac9c7dc7f715491af648500946332a">pasu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="odstaven in/ali vozen" cluster="1" frequency="43" logDice="11.22">
+              <comp position="3" type="headword" sloleks="LE_bfc4ad1e49e6ae6f7161aba9cdeb3db2">odstaven</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_5572d8259920afa8df47c5765bd33d67">vozen</comp>
+              </collocation>
+            <collocation form="odstaven in/ali prehitevalen" cluster="2" frequency="6" logDice="10.12">
+              <comp position="3" type="headword" sloleks="LE_bfc4ad1e49e6ae6f7161aba9cdeb3db2">odstaven</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_d78d7b9b671d6f1f55a0e76dba2da17d">prehitevalen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

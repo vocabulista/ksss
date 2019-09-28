@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="95196">usmernik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">565</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="usmernik potiska" cluster="1" frequency="11" logDice="7.72">
+              <comp position="1" type="headword" sloleks="LE_43489404d8ceb42249578c6406d4ae1c">usmernik</comp>
+              <comp position="2" type="collocate" sloleks="LE_713c35ba9153984e58a5b7ea63c7e5fc">potiska</comp>
+            </collocation>
+            <collocation form="usmernik zraka" cluster="2" frequency="45" logDice="5.63">
+              <comp position="1" type="headword" sloleks="LE_43489404d8ceb42249578c6406d4ae1c">usmernik</comp>
+              <comp position="2" type="collocate" sloleks="LE_d3b9b2b5ce24a4cb7da4e0e9da2b1348">zraka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="stabiliziran usmernik" cluster="1" frequency="11" logDice="9.29">
+              <comp position="1" type="collocate" sloleks="LE_81b6b130b002345417cafe8bb434728d">stabiliziran</comp>
+              <comp position="2" type="headword" sloleks="LE_43489404d8ceb42249578c6406d4ae1c">usmernik</comp>
+            </collocation>
+            <collocation form="idealen usmernik" cluster="2" frequency="12" logDice="3.55">
+              <comp position="1" type="collocate" sloleks="LE_91d5ae0bcf6b4d8d31df1d214200e772">idealen</comp>
+              <comp position="2" type="headword" sloleks="LE_43489404d8ceb42249578c6406d4ae1c">usmernik</comp>
+            </collocation>
+            <collocation form="zunanji usmernik" cluster="3" frequency="11" logDice="0.6">
+              <comp position="1" type="collocate" sloleks="LE_ff641fe1f7786f7040e14332b28b445d">zunanji</comp>
+              <comp position="2" type="headword" sloleks="LE_43489404d8ceb42249578c6406d4ae1c">usmernik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

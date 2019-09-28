@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="99708">zlodej</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">763</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Živalski zlodej" cluster="1" frequency="12" logDice="2.99">
+              <comp position="1" type="collocate" sloleks="LE_d202dc9eb211d682aea02a67a30dc114">Živalski</comp>
+              <comp position="2" type="headword" sloleks="LE_130dcfaa49ebb92c93f2d5d40d27e5ec">zlodej</comp>
+            </collocation>
+            <collocation form="sam zlodej" cluster="2" frequency="42" logDice="1.82">
+              <comp position="1" type="collocate" sloleks="LE_5a6609dcb51dca73f05e113a9b57dea0">sam</comp>
+              <comp position="2" type="headword" sloleks="LE_130dcfaa49ebb92c93f2d5d40d27e5ec">zlodej</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Igor Zlodeja" cluster="1" frequency="7" logDice="4.12">
+              <comp position="1" type="collocate" sloleks="LE_2ea1308b2e418b03eda246aef7f055ba">Igor</comp>
+              <comp position="2" type="headword" sloleks="LE_130dcfaa49ebb92c93f2d5d40d27e5ec">Zlodeja</comp>
+            </collocation>
+            <collocation form="vloga Zlodeja" cluster="2" frequency="14" logDice="1.87">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_130dcfaa49ebb92c93f2d5d40d27e5ec">Zlodeja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

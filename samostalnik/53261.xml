@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="53261">diakon</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">828</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="stalen diakon" cluster="1" frequency="31" logDice="3.37">
+              <comp position="1" type="collocate" sloleks="LE_91cd41b52f3491a4ef40603bb291325b">stalen</comp>
+              <comp position="2" type="headword" sloleks="LE_7a384791acc8055e21abb9cca000f821">diakon</comp>
+            </collocation>
+            <collocation form="posvečen diakon" cluster="2" frequency="10" logDice="3.32">
+              <comp position="1" type="collocate" sloleks="LE_64ceee6f3c50f929840e56dd5c6cb9ea">posvečen</comp>
+              <comp position="2" type="headword" sloleks="LE_7a384791acc8055e21abb9cca000f821">diakon</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="mučeništvo diakona" cluster="1" frequency="6" logDice="9.34">
+              <comp position="1" type="collocate" sloleks="LE_3264ceb630f310e703a3195509a154e3">mučeništvo</comp>
+              <comp position="2" type="headword" sloleks="LE_7a384791acc8055e21abb9cca000f821">diakona</comp>
+            </collocation>
+            <collocation form="posvečenje diakona" cluster="2" frequency="7" logDice="9.31">
+              <comp position="1" type="collocate" sloleks="LE_54ee3e60f65320d6cc508f3a0be71886">posvečenje</comp>
+              <comp position="2" type="headword" sloleks="LE_7a384791acc8055e21abb9cca000f821">diakona</comp>
+            </collocation>
+            <collocation form="Pavel Diakona" cluster="3" frequency="43" logDice="7.97">
+              <comp position="1" type="collocate" sloleks="LE_fe5929c0e2dca298df186780a20a3614">Pavel</comp>
+              <comp position="2" type="headword" sloleks="LE_7a384791acc8055e21abb9cca000f821">Diakona</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

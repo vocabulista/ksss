@@ -1,0 +1,68 @@
+<entry>
+  <header>
+    <lexical_unit id="56409">filmografija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">504</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="filmografija režiserja" cluster="1" frequency="11" logDice="4.41">
+              <comp position="1" type="headword" sloleks="LE_d19e6fc55e3bbd51b8363c8d01cab861">filmografija</comp>
+              <comp position="2" type="collocate" sloleks="LE_b4d1a81ae7b709a90cdf636c311ecb3b">režiserja</comp>
+            </collocation>
+            <collocation form="filmografija filma" cluster="2" frequency="25" logDice="2.9">
+              <comp position="1" type="headword" sloleks="LE_d19e6fc55e3bbd51b8363c8d01cab861">filmografija</comp>
+              <comp position="2" type="collocate" sloleks="LE_ef1ac12433b4b7e1e0c31edb0c726d89">filma</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="soditi v filmografijo" cluster="1" frequency="7" logDice="2.75">
+              <comp position="1" type="collocate" sloleks="LE_527f837053c27c463c45a1411787c8ee">soditi</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_d19e6fc55e3bbd51b8363c8d01cab861">filmografijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="najti v filmografiji" cluster="1" frequency="19" logDice="3.6">
+              <comp position="1" type="collocate" sloleks="LE_843e328fc791979a62059ce2c06a66c8">najti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_d19e6fc55e3bbd51b8363c8d01cab861">filmografiji</comp>
+            </collocation>
+            <collocation form="imeti v filmografiji" cluster="2" frequency="14" logDice="0.84">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_d19e6fc55e3bbd51b8363c8d01cab861">filmografiji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="bio filmografija" cluster="1" frequency="9" logDice="4.92">
+              <comp position="1" type="collocate" sloleks="LE_6b868afe6bc13ce2c83417d8fd9606e4">bio</comp>
+              <comp position="2" type="headword" sloleks="LE_d19e6fc55e3bbd51b8363c8d01cab861">filmografija</comp>
+            </collocation>
+            <collocation form="obsežna filmografija" cluster="2" frequency="9" logDice="2.8">
+              <comp position="1" type="collocate" sloleks="LE_2b0c2a4b4cb351df7e3fb55013d01d25|LE_507f6389ba9f2f15db72aed044fbb965">obsežna</comp>
+              <comp position="2" type="headword" sloleks="LE_d19e6fc55e3bbd51b8363c8d01cab861">filmografija</comp>
+            </collocation>
+            <collocation form="bogata filmografija" cluster="3" frequency="9" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_dced9b89c62a9351467866138eb9d57d">bogata</comp>
+              <comp position="2" type="headword" sloleks="LE_d19e6fc55e3bbd51b8363c8d01cab861">filmografija</comp>
+            </collocation>
+            <collocation form="popolna filmografija" cluster="4" frequency="8" logDice="1.08">
+              <comp position="1" type="collocate" sloleks="LE_814a2c9c333ef1e9cb481395c05b7346">popolna</comp>
+              <comp position="2" type="headword" sloleks="LE_d19e6fc55e3bbd51b8363c8d01cab861">filmografija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

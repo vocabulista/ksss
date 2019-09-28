@@ -1,0 +1,61 @@
+<entry>
+  <header>
+    <lexical_unit id="21565">konspirativen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">421</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="konspirativna bolnica" cluster="1" frequency="6" logDice="5.36">
+              <comp position="1" type="headword" sloleks="LE_4b533d6fa375061986095ed75f832528">konspirativna</comp>
+              <comp position="2" type="collocate" sloleks="LE_059b69221ba404bb1d9c869a2cb408f6">bolnica</comp>
+            </collocation>
+            <collocation form="konspirativna zarota" cluster="2" frequency="6" logDice="5.21">
+              <comp position="1" type="headword" sloleks="LE_4b533d6fa375061986095ed75f832528">konspirativna</comp>
+              <comp position="2" type="collocate" sloleks="LE_d1ace3a7961284c467dc402cce37619c">zarota</comp>
+            </collocation>
+            <collocation form="konspirativen sestanek" cluster="3" frequency="20" logDice="4.07">
+              <comp position="1" type="headword" sloleks="LE_4b533d6fa375061986095ed75f832528">konspirativen</comp>
+              <comp position="2" type="collocate" sloleks="LE_4606bc44117a002d2752792e0a461c87">sestanek</comp>
+            </collocation>
+            <collocation form="konspirativna teorija" cluster="4" frequency="12" logDice="3.78">
+              <comp position="1" type="headword" sloleks="LE_4b533d6fa375061986095ed75f832528">konspirativna</comp>
+              <comp position="2" type="collocate" sloleks="LE_4ba15f28961bde55128a32aa1e33a888">teorija</comp>
+            </collocation>
+            <collocation form="konspirativna bolnišnica" cluster="5" frequency="13" logDice="2.68">
+              <comp position="1" type="headword" sloleks="LE_4b533d6fa375061986095ed75f832528">konspirativna</comp>
+              <comp position="2" type="collocate" sloleks="LE_33ef2806b73924842b5b4fc3f50f81f3">bolnišnica</comp>
+            </collocation>
+            <collocation form="konspirativno ime" cluster="6" frequency="12" logDice="1.54">
+              <comp position="1" type="headword" sloleks="LE_4b533d6fa375061986095ed75f832528">konspirativno</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">ime</comp>
+            </collocation>
+            <collocation form="konspirativno delovanje" cluster="6" frequency="7" logDice="1.54">
+              <comp position="1" type="headword" sloleks="LE_4b533d6fa375061986095ed75f832528">konspirativno</comp>
+              <comp position="2" type="collocate" sloleks="LE_3af6feb1ad49bf57ea9c005fefeb07cc">delovanje</comp>
+            </collocation>
+            <collocation form="konspirativna akcija" cluster="7" frequency="8" logDice="0.94">
+              <comp position="1" type="headword" sloleks="LE_4b533d6fa375061986095ed75f832528">konspirativna</comp>
+              <comp position="2" type="collocate" sloleks="LE_c6314b87ee5075309a505f26f656ecbd">akcija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="strogo konspirativen" cluster="1" frequency="12" logDice="4.81">
+              <comp position="1" type="collocate" sloleks="LE_efd6b7170938e22c5221a0e64c995750">strogo</comp>
+              <comp position="2" type="headword" sloleks="LE_4b533d6fa375061986095ed75f832528">konspirativen</comp>
+            </collocation>
+            <collocation form="napol konspirativen" cluster="2" frequency="5" logDice="3.84">
+              <comp position="1" type="collocate" sloleks="LE_52b806268f97525c4b4cda5641a5ee7c">napol</comp>
+              <comp position="2" type="headword" sloleks="LE_4b533d6fa375061986095ed75f832528">konspirativen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

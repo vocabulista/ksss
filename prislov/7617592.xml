@@ -1,0 +1,64 @@
+<entry>
+  <header>
+    <lexical_unit id="7617592">brano</lexical_unit>
+    <category>prislov</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ po sbz5">
+          <collocations>
+            <collocation form="brano po vrsti" cluster="1" frequency="15" logDice="6.46">
+              <comp position="1" type="headword" sloleks="">brano</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_4af9091c01f502e405be7dfe91eedee3">vrsti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ v sbz5">
+          <collocations>
+            <collocation form="brano v vrstici" cluster="1" frequency="349" logDice="13.64">
+              <comp position="1" type="headword" sloleks="">brano</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_dc5d6386a728f3c6b4cc97a3c35f5d1c">vrstici</comp>
+            </collocation>
+            <collocation form="brano v knjižnici" cluster="2" frequency="6" logDice="7.8">
+              <comp position="1" type="headword" sloleks="">brano</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_4335cf07a92312c0b252e55da6f28918">knjižnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ z sbz6">
+          <collocations>
+            <collocation form="brano s sejalnico" cluster="1" frequency="6" logDice="12.45">
+              <comp position="1" type="headword" sloleks="">brano</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_eb23da6f99300390ffb4ab8c862075ed">sejalnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz RBZ">
+          <collocations>
+            <collocation form="vrtavkasto brano" cluster="1" frequency="376" logDice="13.8">
+              <comp position="1" type="collocate" sloleks="LE_880028b87bc9b9f2a85d4802e65b3269">vrtavkasto</comp>
+              <comp position="2" type="headword" sloleks="">brano</comp>
+            </collocation>
+            <collocation form="krožno brano" cluster="2" frequency="39" logDice="11.18">
+              <comp position="1" type="collocate" sloleks="LE_82be790971a50581b03051988a54a7e2">krožno</comp>
+              <comp position="2" type="headword" sloleks="">brano</comp>
+            </collocation>
+            <collocation form="klinasto brano" cluster="3" frequency="10" logDice="9.36">
+              <comp position="1" type="collocate" sloleks="LE_021f677d6f9a592530dc3f2307499fb0">klinasto</comp>
+              <comp position="2" type="headword" sloleks="">brano</comp>
+            </collocation>
+            <collocation form="najbolj brano" cluster="4" frequency="24" logDice="3.8">
+              <comp position="1" type="collocate" sloleks="LE_72b2a3522865b723e8c26b8ade696fca">najbolj</comp>
+              <comp position="2" type="headword" sloleks="">brano</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

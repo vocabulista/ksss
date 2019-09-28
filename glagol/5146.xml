@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="5146">pohabiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">587</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="pohabiti telo" cluster="1" frequency="6" logDice="3.01">
+              <comp position="1" type="headword" sloleks="LE_c2414c6058c91717c967542902e9735d">pohabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_79b86615dd52e06799792917a906328a">telo</comp>
+            </collocation>
+            <collocation form="pohabiti otroka" cluster="2" frequency="7" logDice="1.67">
+              <comp position="1" type="headword" sloleks="LE_c2414c6058c91717c967542902e9735d">pohabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otroka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="pohabiti za življenje" cluster="1" frequency="13" logDice="4.97">
+              <comp position="1" type="headword" sloleks="LE_c2414c6058c91717c967542902e9735d">pohabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b7a6a2019becc6510edb8591e171b0a7">življenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="umsko pohabiti" cluster="1" frequency="9" logDice="9.4">
+              <comp position="1" type="collocate" sloleks="LE_e807596b494ae2bed7041d22e77ce231">umsko</comp>
+              <comp position="2" type="headword" sloleks="LE_c2414c6058c91717c967542902e9735d">pohabiti</comp>
+            </collocation>
+            <collocation form="trajno pohabiti" cluster="2" frequency="8" logDice="5.91">
+              <comp position="1" type="collocate" sloleks="LE_cbafdb2ed3d72873f12863651bd27b9b">trajno</comp>
+              <comp position="2" type="headword" sloleks="LE_c2414c6058c91717c967542902e9735d">pohabiti</comp>
+            </collocation>
+            <collocation form="čustveno pohabiti" cluster="3" frequency="5" logDice="5.7">
+              <comp position="1" type="collocate" sloleks="LE_d2215c9b3c3245b2b8549dabf0091d31">čustveno</comp>
+              <comp position="2" type="headword" sloleks="LE_c2414c6058c91717c967542902e9735d">pohabiti</comp>
+            </collocation>
+            <collocation form="hudo pohabiti" cluster="4" frequency="11" logDice="2.99">
+              <comp position="1" type="collocate" sloleks="LE_feb425a4578d9be162c4327513777270">hudo</comp>
+              <comp position="2" type="headword" sloleks="LE_c2414c6058c91717c967542902e9735d">pohabiti</comp>
+            </collocation>
+            <collocation form="povsem pohabiti" cluster="5" frequency="4" logDice="0.73">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_c2414c6058c91717c967542902e9735d">pohabiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

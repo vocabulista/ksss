@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="78277">plastičnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">410</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="plastičnost možganov" cluster="1" frequency="15" logDice="4.93">
+              <comp position="1" type="headword" sloleks="LE_38f16105c7b59b8e2a1d4bcd642e913c">plastičnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_37d8262ec9cac9e9da480d5d96d1d5f0">možganov</comp>
+            </collocation>
+            <collocation form="plastičnost telesa" cluster="2" frequency="8" logDice="1.89">
+              <comp position="1" type="headword" sloleks="LE_38f16105c7b59b8e2a1d4bcd642e913c">plastičnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_79b86615dd52e06799792917a906328a">telesa</comp>
+            </collocation>
+            <collocation form="vtis plastičnosti" cluster="3" frequency="12" logDice="5.44">
+              <comp position="1" type="collocate" sloleks="LE_14c24b8179408cac625450b5b2925108">vtis</comp>
+              <comp position="2" type="headword" sloleks="LE_38f16105c7b59b8e2a1d4bcd642e913c">plastičnosti</comp>
+            </collocation>
+            <collocation form="meja plastičnosti" cluster="4" frequency="12" logDice="2.92">
+              <comp position="1" type="collocate" sloleks="LE_9f2a02329b99f686c0effa70a70cb37f">meja</comp>
+              <comp position="2" type="headword" sloleks="LE_38f16105c7b59b8e2a1d4bcd642e913c">plastičnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="strukturna plastičnost" cluster="1" frequency="20" logDice="5.1">
+              <comp position="1" type="collocate" sloleks="LE_732082a2122ca89bbcc46f4b1ffaf55c">strukturna</comp>
+              <comp position="2" type="headword" sloleks="LE_38f16105c7b59b8e2a1d4bcd642e913c">plastičnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

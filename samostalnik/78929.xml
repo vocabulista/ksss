@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="78929">podlesek</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">590</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="jesenski podlesek" cluster="1" frequency="136" logDice="6.55">
+              <comp position="1" type="collocate" sloleks="LE_3a72eeb3bdbb7da9960c07fdaea90bf1">jesenski</comp>
+              <comp position="2" type="headword" sloleks="LE_b2d23926de2781accda3eedb630b265f">podlesek</comp>
+            </collocation>
+            <collocation form="strupen podlesek" cluster="2" frequency="11" logDice="4.54">
+              <comp position="1" type="collocate" sloleks="LE_aa912fe83e5f14fc2f6f032130b4498c|LE_1be39dcc6fa2c7f24bb124359a5da8a0">strupen</comp>
+              <comp position="2" type="headword" sloleks="LE_b2d23926de2781accda3eedb630b265f">podlesek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="gomolj podleska" cluster="1" frequency="6" logDice="7.26">
+              <comp position="1" type="collocate" sloleks="LE_420976673d2db7b16b1ee9f46b78703b">gomolj</comp>
+              <comp position="2" type="headword" sloleks="LE_b2d23926de2781accda3eedb630b265f">podleska</comp>
+            </collocation>
+            <collocation form="Janez Podleska" cluster="2" frequency="6" logDice="1.96">
+              <comp position="1" type="collocate" sloleks="LE_531603d00c9e2650d9065066af804665">Janez</comp>
+              <comp position="2" type="headword" sloleks="LE_b2d23926de2781accda3eedb630b265f">Podleska</comp>
+            </collocation>
+            <collocation form="list podleska" cluster="3" frequency="5" logDice="1.27">
+              <comp position="1" type="collocate" sloleks="LE_83c15927a3c6619d08f16ff12f82390f">list</comp>
+              <comp position="2" type="headword" sloleks="LE_b2d23926de2781accda3eedb630b265f">podleska</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

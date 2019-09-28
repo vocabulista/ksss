@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="32185">razžvrkljan</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">501</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="razžvrkljan rumenjak" cluster="1" frequency="61" logDice="10.12">
+              <comp position="1" type="headword" sloleks="LE_db86dc98f4e0f5dd5f9b5947d96123bd">razžvrkljan</comp>
+              <comp position="2" type="collocate" sloleks="LE_4ab9c6ba9851c73236426f8d3eec194d">rumenjak</comp>
+            </collocation>
+            <collocation form="razžvrkljano jajce" cluster="2" frequency="336" logDice="9.31">
+              <comp position="1" type="headword" sloleks="LE_db86dc98f4e0f5dd5f9b5947d96123bd">razžvrkljano</comp>
+              <comp position="2" type="collocate" sloleks="LE_34df10e0b810b1e54b182eae5c69f11f">jajce</comp>
+            </collocation>
+            <collocation form="razžvrkljan beljak" cluster="3" frequency="16" logDice="8.16">
+              <comp position="1" type="headword" sloleks="LE_db86dc98f4e0f5dd5f9b5947d96123bd">razžvrkljan</comp>
+              <comp position="2" type="collocate" sloleks="LE_c432290aa6b63a0a38258e9522fb5e37">beljak</comp>
+            </collocation>
+            <collocation form="razžvrkljana moka" cluster="4" frequency="7" logDice="3.37">
+              <comp position="1" type="headword" sloleks="LE_db86dc98f4e0f5dd5f9b5947d96123bd">razžvrkljana</comp>
+              <comp position="2" type="collocate" sloleks="LE_a241cee9bb10fa419b4c41ff117ba117">moka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 v sbz5">
+          <collocations>
+            <collocation form="razžvrkljan v vodi" cluster="1" frequency="21" logDice="8.8">
+              <comp position="1" type="headword" sloleks="LE_db86dc98f4e0f5dd5f9b5947d96123bd">razžvrkljan</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_0d8cbba4e56fea63657ac746d29cd047">vodi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 z sbz6">
+          <collocations>
+            <collocation form="razžvrkljan z vodo" cluster="1" frequency="11" logDice="6.9">
+              <comp position="1" type="headword" sloleks="LE_db86dc98f4e0f5dd5f9b5947d96123bd">razžvrkljan</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_0d8cbba4e56fea63657ac746d29cd047">vodo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

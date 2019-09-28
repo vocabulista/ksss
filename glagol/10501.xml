@@ -1,0 +1,52 @@
+<entry>
+  <header>
+    <lexical_unit id="10501">zvesti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">567</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="zvesti na imenovalec" cluster="1" frequency="7" logDice="8.67">
+              <comp position="1" type="headword" sloleks="LE_7c5af540a87d87e78f2e332b99ae5666">zvesti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_fd22c97523689b9e26f9cd6717761a81">imenovalec</comp>
+            </collocation>
+            <collocation form="zvesti na raven" cluster="2" frequency="8" logDice="4.63">
+              <comp position="1" type="headword" sloleks="LE_7c5af540a87d87e78f2e332b99ae5666">zvesti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_1c5879ca919226df3e61cfd0d36941e3">raven</comp>
+            </collocation>
+            <collocation form="zvesti na vprašanje" cluster="3" frequency="7" logDice="2.1">
+              <comp position="1" type="headword" sloleks="LE_7c5af540a87d87e78f2e332b99ae5666">zvesti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_18ddad642f4f2459ae6eda5f8fcda990">vprašanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="sm zvesti" cluster="1" frequency="4" logDice="6.85">
+              <comp position="1" type="collocate" sloleks="">sm</comp>
+              <comp position="2" type="headword" sloleks="LE_7c5af540a87d87e78f2e332b99ae5666">zvesti</comp>
+            </collocation>
+            <collocation form="vse zvesti" cluster="2" frequency="30" logDice="2.6">
+              <comp position="1" type="collocate" sloleks="LE_69e1f6ea0eba690182112fa5f7865561">vse</comp>
+              <comp position="2" type="headword" sloleks="LE_7c5af540a87d87e78f2e332b99ae5666">zvesti</comp>
+            </collocation>
+            <collocation form="mogoče zvesti" cluster="3" frequency="6" logDice="2.47">
+              <comp position="1" type="collocate" sloleks="LE_13f755f77566b8f93655a27540026fb2">mogoče</comp>
+              <comp position="2" type="headword" sloleks="LE_7c5af540a87d87e78f2e332b99ae5666">zvesti</comp>
+            </collocation>
+            <collocation form="skupaj zvesti" cluster="4" frequency="7" logDice="0.47">
+              <comp position="1" type="collocate" sloleks="LE_6b2c35f4f994f6854f5f57d777267a77">skupaj</comp>
+              <comp position="2" type="headword" sloleks="LE_7c5af540a87d87e78f2e332b99ae5666">zvesti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

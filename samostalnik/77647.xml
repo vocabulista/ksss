@@ -1,0 +1,52 @@
+<entry>
+  <header>
+    <lexical_unit id="77647">petelinček</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1022</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="petelinček iz Šoštanja" cluster="1" frequency="5" logDice="6.93">
+              <comp position="1" type="headword" sloleks="LE_c0d6d36ff310cbea4f4773cf168c00f4">petelinček</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_76b775621f7f0bb8f0c9c605d785e4f7">Šoštanja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pisan petelinček" cluster="1" frequency="9" logDice="3.37">
+              <comp position="1" type="collocate" sloleks="LE_8e94767c51196b3b4c3688a82597a53c">pisan</comp>
+              <comp position="2" type="headword" sloleks="LE_c0d6d36ff310cbea4f4773cf168c00f4">petelinček</comp>
+            </collocation>
+            <collocation form="zlat petelinček" cluster="2" frequency="12" logDice="1.33">
+              <comp position="1" type="collocate" sloleks="LE_841fe594eda42d033f6b9f2e7dc246e9">zlat</comp>
+              <comp position="2" type="headword" sloleks="LE_c0d6d36ff310cbea4f4773cf168c00f4">petelinček</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="pravljica o petelinčku" cluster="1" frequency="6" logDice="5.9">
+              <comp position="1" type="collocate" sloleks="LE_cb17739012afdd088c494ad9d8f3c715">pravljica</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_c0d6d36ff310cbea4f4773cf168c00f4">petelinčku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="amerikanka s petelinčkom" cluster="1" frequency="6" logDice="12.41">
+              <comp position="1" type="collocate" sloleks="LE_318a059344217da6334572435b385311">amerikanka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_c0d6d36ff310cbea4f4773cf168c00f4">petelinčkom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="77014">pastirica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">838</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="pastirica s planine" cluster="1" frequency="9" logDice="8.05">
+              <comp position="1" type="headword" sloleks="LE_45918e7166a9e17b1b02f9cd5a508b8a">pastirica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_3627874c5d915aefdc9f6b307cfcc343">planine</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="gosja pastirica" cluster="1" frequency="10" logDice="7.13">
+              <comp position="1" type="collocate" sloleks="LE_e9d4d19bf398dd6eb3f24523fc902f6f">gosja</comp>
+              <comp position="2" type="headword" sloleks="LE_45918e7166a9e17b1b02f9cd5a508b8a">pastirica</comp>
+            </collocation>
+            <collocation form="rumena pastirica" cluster="2" frequency="70" logDice="5.07">
+              <comp position="1" type="collocate" sloleks="LE_7d837051cc47370840e73ef7ef063e1f">rumena</comp>
+              <comp position="2" type="headword" sloleks="LE_45918e7166a9e17b1b02f9cd5a508b8a">pastirica</comp>
+            </collocation>
+            <collocation form="bela pastirica" cluster="2" frequency="60" logDice="2.91">
+              <comp position="1" type="collocate" sloleks="LE_50f9b0a6743feeba2fd5482919490dd5">bela</comp>
+              <comp position="2" type="headword" sloleks="LE_45918e7166a9e17b1b02f9cd5a508b8a">pastirica</comp>
+            </collocation>
+            <collocation form="siva pastirica" cluster="2" frequency="25" logDice="4.25">
+              <comp position="1" type="collocate" sloleks="LE_ce212378727d442f18523e912c718df0">siva</comp>
+              <comp position="2" type="headword" sloleks="LE_45918e7166a9e17b1b02f9cd5a508b8a">pastirica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

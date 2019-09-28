@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="64853">kooperativnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">563</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="kooperativnost s sodiščem" cluster="1" frequency="5" logDice="5.75">
+              <comp position="1" type="headword" sloleks="LE_0c98784487e1aa27eaf30ef664c9cecd">kooperativnost</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_989f65b9e9021c2bfb10c5161a6e59ab">sodiščem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="računati na kooperativnost" cluster="1" frequency="4" logDice="2.9">
+              <comp position="1" type="collocate" sloleks="LE_ed3b261568347c34c579b6dd27087628">računati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_0c98784487e1aa27eaf30ef664c9cecd">kooperativnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="potrebna kooperativnost" cluster="1" frequency="8" logDice="0.54">
+              <comp position="1" type="collocate" sloleks="LE_8315e7ec13172cb2fc32c85291e90099">potrebna</comp>
+              <comp position="2" type="headword" sloleks="LE_0c98784487e1aa27eaf30ef664c9cecd">kooperativnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="kombinacija kooperativnosti" cluster="1" frequency="5" logDice="2.55">
+              <comp position="1" type="collocate" sloleks="LE_b3ef6b5867abbf2b19225d750dea1b9c">kombinacija</comp>
+              <comp position="2" type="headword" sloleks="LE_0c98784487e1aa27eaf30ef664c9cecd">kooperativnosti</comp>
+            </collocation>
+            <collocation form="stopnja kooperativnosti" cluster="2" frequency="12" logDice="2.03">
+              <comp position="1" type="collocate" sloleks="LE_ed1cc20afdfdf1e20fe2e301bae175ee">stopnja</comp>
+              <comp position="2" type="headword" sloleks="LE_0c98784487e1aa27eaf30ef664c9cecd">kooperativnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

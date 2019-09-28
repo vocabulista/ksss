@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="56926">frka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">10307</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="frka v bajti" cluster="1" frequency="108" logDice="13.18">
+              <comp position="1" type="headword" sloleks="LE_c21f8e7cb82c7cfc6c91d7cf2c108fbb">frka</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_7ee5ef869a2f5e6a9d6d7a3f4bb85907">bajti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="frka s staršem" cluster="1" frequency="5" logDice="4.92">
+              <comp position="1" type="headword" sloleks="LE_c21f8e7cb82c7cfc6c91d7cf2c108fbb">frka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee1100b135d34088f91e5c2786123e66">staršem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="cela frka" cluster="1" frequency="13" logDice="1.63">
+              <comp position="1" type="collocate" sloleks="LE_f80e0ae3d5b4efeb6ae9ebbfa265a595">cela</comp>
+              <comp position="2" type="headword" sloleks="LE_c21f8e7cb82c7cfc6c91d7cf2c108fbb">frka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

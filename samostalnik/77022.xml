@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="77022">pastorek</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">893</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="mladoleten pastorek" cluster="1" frequency="9" logDice="4.93">
+              <comp position="1" type="collocate" sloleks="LE_04361f44da192b2842bf1fded105edb7">mladoleten</comp>
+              <comp position="2" type="headword" sloleks="LE_569d7c994cdec10bd8e792bf191f0015">pastorek</comp>
+            </collocation>
+            <collocation form="leten pastorek" cluster="2" frequency="27" logDice="1.19">
+              <comp position="1" type="collocate" sloleks="LE_cf6602afd8be6d6ec6afe92cc03a9207">leten</comp>
+              <comp position="2" type="headword" sloleks="LE_569d7c994cdec10bd8e792bf191f0015">pastorek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Smolič pastorka" cluster="1" frequency="5" logDice="11.28">
+              <comp position="1" type="collocate" sloleks="">Smolič</comp>
+              <comp position="2" type="headword" sloleks="LE_569d7c994cdec10bd8e792bf191f0015">pastorka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 do SBZ2">
+          <collocations>
+            <collocation form="ljubezen do pastorka" cluster="1" frequency="5" logDice="3.01">
+              <comp position="1" type="collocate" sloleks="LE_d611157e356b5a208a076a88682815f7">ljubezen</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_569d7c994cdec10bd8e792bf191f0015">pastorka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="razmerje s pastorkom" cluster="1" frequency="4" logDice="3.8">
+              <comp position="1" type="collocate" sloleks="LE_34acd9846cdc68db26c51b6d15765ea9">razmerje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_569d7c994cdec10bd8e792bf191f0015">pastorkom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="olajšava za pastorka" cluster="1" frequency="12" logDice="5.94">
+              <comp position="1" type="collocate" sloleks="LE_3f38e885050c66c752dc8bbf4e396ab7">olajšava</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_569d7c994cdec10bd8e792bf191f0015">pastorka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

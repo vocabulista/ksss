@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="90408">sovoditelj</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">598</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="sovoditelj oddaje" cluster="1" frequency="40" logDice="4.73">
+              <comp position="1" type="headword" sloleks="LE_744f748952e7e500f8de6525800de91b">sovoditelj</comp>
+              <comp position="2" type="collocate" sloleks="LE_52a0fe564a02d70a3d3b0b3a704b365a">oddaje</comp>
+            </collocation>
+            <collocation form="sovoditelj prireditve" cluster="2" frequency="10" logDice="2.8">
+              <comp position="1" type="headword" sloleks="LE_744f748952e7e500f8de6525800de91b">sovoditelj</comp>
+              <comp position="2" type="collocate" sloleks="LE_aa6325a30c5a7caf9790d6246d534648">prireditve</comp>
+            </collocation>
+            <collocation form="družba sovoditelja" cluster="3" frequency="5" logDice="1.59">
+              <comp position="1" type="collocate" sloleks="LE_4d78f38b1eeb8492cae54547d0252bf9">družba</comp>
+              <comp position="2" type="headword" sloleks="LE_744f748952e7e500f8de6525800de91b">sovoditelja</comp>
+            </collocation>
+            <collocation form="vloga sovoditelja" cluster="4" frequency="10" logDice="1.38">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_744f748952e7e500f8de6525800de91b">sovoditelja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Anin sovoditelj" cluster="1" frequency="9" logDice="6.96">
+              <comp position="1" type="collocate" sloleks="LE_766c8e7c7d327717f8388a98329090b8">Anin</comp>
+              <comp position="2" type="headword" sloleks="LE_744f748952e7e500f8de6525800de91b">sovoditelj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

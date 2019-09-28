@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="16348">dobrososedski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1168</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="dobrososedski in prijateljski" cluster="1" frequency="34" logDice="8.74">
+              <comp position="1" type="headword" sloleks="LE_df89f8522369f7471f8439aa8f854fd8">dobrososedski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_8fb8859680daa31aa9f7c95df77bbdac">prijateljski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="dobrososedski odnos" cluster="1" frequency="986" logDice="7.37">
+              <comp position="1" type="headword" sloleks="LE_df89f8522369f7471f8439aa8f854fd8">dobrososedski</comp>
+              <comp position="2" type="collocate" sloleks="LE_77f2f37de07cb9f39cb3dd828efa7919">odnos</comp>
+            </collocation>
+            <collocation form="dobrososedsko sodelovanje" cluster="2" frequency="32" logDice="3.4">
+              <comp position="1" type="headword" sloleks="LE_df89f8522369f7471f8439aa8f854fd8">dobrososedsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_5d0ed32540572fbd41d712e9a23fadb1">sodelovanje</comp>
+            </collocation>
+            <collocation form="dobrososedski duh" cluster="3" frequency="10" logDice="2.86">
+              <comp position="1" type="headword" sloleks="LE_df89f8522369f7471f8439aa8f854fd8">dobrososedski</comp>
+              <comp position="2" type="collocate" sloleks="LE_6ee0072c41b5aedb3ad1e09029a20809">duh</comp>
+            </collocation>
+            <collocation form="dobrososedska pomoč" cluster="4" frequency="9" logDice="0.75">
+              <comp position="1" type="headword" sloleks="LE_df89f8522369f7471f8439aa8f854fd8">dobrososedska</comp>
+              <comp position="2" type="collocate" sloleks="LE_84e3f9e3c4e9e1abf42cc69c125b0b58">pomoč</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

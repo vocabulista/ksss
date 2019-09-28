@@ -1,0 +1,86 @@
+<entry>
+  <header>
+    <lexical_unit id="70205">molilnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">815</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="molilnica za muslimana" cluster="1" frequency="5" logDice="9.18">
+              <comp position="1" type="headword" sloleks="LE_5136cbd116737b18a86f2e03d45d6ed7">molilnica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_2df139c1f6c491d07f523f56e95c9ec2">muslimana</comp>
+            </collocation>
+            <collocation form="molilnica za žensko" cluster="2" frequency="5" logDice="3.75">
+              <comp position="1" type="headword" sloleks="LE_5136cbd116737b18a86f2e03d45d6ed7">molilnica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_27b2cafdf8a189c632c32da066af1ce5">žensko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="oditi v molilnico" cluster="1" frequency="5" logDice="2.63">
+              <comp position="1" type="collocate" sloleks="LE_0031db2b829235876d0aa5105891b401">oditi</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_5136cbd116737b18a86f2e03d45d6ed7">molilnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="muslimanska molilnica" cluster="1" frequency="52" logDice="6.57">
+              <comp position="1" type="collocate" sloleks="LE_c47b5d719ee8a3d9f3aa7631a819cda0">muslimanska</comp>
+              <comp position="2" type="headword" sloleks="LE_5136cbd116737b18a86f2e03d45d6ed7">molilnica</comp>
+            </collocation>
+            <collocation form="islamska molilnica" cluster="1" frequency="25" logDice="5.04">
+              <comp position="1" type="collocate" sloleks="LE_404e080f69e2e0656fc71f9e7b5b8595">islamska</comp>
+              <comp position="2" type="headword" sloleks="LE_5136cbd116737b18a86f2e03d45d6ed7">molilnica</comp>
+            </collocation>
+            <collocation form="protestantska molilnica" cluster="1" frequency="14" logDice="6.03">
+              <comp position="1" type="collocate" sloleks="LE_c9ea894de808c28dbb62fe1339d8718d">protestantska</comp>
+              <comp position="2" type="headword" sloleks="LE_5136cbd116737b18a86f2e03d45d6ed7">molilnica</comp>
+            </collocation>
+            <collocation form="Plečnikova molilnica" cluster="2" frequency="21" logDice="6.19">
+              <comp position="1" type="collocate" sloleks="LE_08620d618160fb706f1db895f44080ba">Plečnikova</comp>
+              <comp position="2" type="headword" sloleks="LE_5136cbd116737b18a86f2e03d45d6ed7">molilnica</comp>
+            </collocation>
+            <collocation form="celjska molilnica" cluster="3" frequency="31" logDice="2.88">
+              <comp position="1" type="collocate" sloleks="LE_e6cc1c417aac41b99f591e7e730d043e">celjska</comp>
+              <comp position="2" type="headword" sloleks="LE_5136cbd116737b18a86f2e03d45d6ed7">molilnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="gradnja molilnice" cluster="1" frequency="14" logDice="1.81">
+              <comp position="1" type="collocate" sloleks="LE_3625065aad7c72d3cd7d1c94e3b12e46">gradnja</comp>
+              <comp position="2" type="headword" sloleks="LE_5136cbd116737b18a86f2e03d45d6ed7">molilnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 do SBZ2">
+          <collocations>
+            <collocation form="pravica do molilnice" cluster="1" frequency="6" logDice="1.18">
+              <comp position="1" type="collocate" sloleks="LE_8c0e472df622ea735bcaed6544ab6130">pravica</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_5136cbd116737b18a86f2e03d45d6ed7">molilnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="molitev v molilnici" cluster="1" frequency="4" logDice="7.75">
+              <comp position="1" type="collocate" sloleks="LE_7fc1fbf5610501059de40ecaf0a2064e">molitev</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_5136cbd116737b18a86f2e03d45d6ed7">molilnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

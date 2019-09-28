@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="7832">rjoveti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">681</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ od sbz2">
+          <collocations>
+            <collocation form="rjoveti od bolečine" cluster="1" frequency="9" logDice="7.97">
+              <comp position="1" type="headword" sloleks="LE_e928e17d30e668a4b7a356841a377273">rjoveti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_6a7434a210c21ded27b4dc2fde249a7c">bolečine</comp>
+            </collocation>
+            <collocation form="rjoveti od navdušenja" cluster="2" frequency="8" logDice="7.3">
+              <comp position="1" type="headword" sloleks="LE_e928e17d30e668a4b7a356841a377273">rjoveti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_ed7399943472961adf0dd1cb306736d7">navdušenja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="strašno rjoveti" cluster="1" frequency="5" logDice="5.78">
+              <comp position="1" type="collocate" sloleks="LE_5d249d709b2d736530eefeda0c65939a">strašno</comp>
+              <comp position="2" type="headword" sloleks="LE_e928e17d30e668a4b7a356841a377273">rjoveti</comp>
+            </collocation>
+            <collocation form="glasno rjoveti" cluster="2" frequency="4" logDice="2.66">
+              <comp position="1" type="collocate" sloleks="LE_8d32e8ffef5c2d930893f51f039b425a">glasno</comp>
+              <comp position="2" type="headword" sloleks="LE_e928e17d30e668a4b7a356841a377273">rjoveti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

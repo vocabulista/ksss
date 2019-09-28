@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="1153">frizirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">434</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="frizirati moped" cluster="1" frequency="5" logDice="8.46">
+              <comp position="1" type="headword" sloleks="LE_408bfd73bdc631b69163e977d7707b4a">frizirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_be12b373b966d5899602311855ee0afd">moped</comp>
+            </collocation>
+            <collocation form="frizirati bilanco" cluster="2" frequency="4" logDice="5.58">
+              <comp position="1" type="headword" sloleks="LE_408bfd73bdc631b69163e977d7707b4a">frizirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_70fef5226ef4203fbbafceb9326a6531">bilanco</comp>
+            </collocation>
+            <collocation form="frizirati podatek" cluster="3" frequency="7" logDice="1.52">
+              <comp position="1" type="headword" sloleks="LE_408bfd73bdc631b69163e977d7707b4a">frizirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_dceff032dbcde0be8f54f9dd068c8f74">podatek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="frizirati v salonu" cluster="1" frequency="9" logDice="5.94">
+              <comp position="1" type="headword" sloleks="LE_408bfd73bdc631b69163e977d7707b4a">frizirati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_fe14531050d45fb5d7d5b63a4a43c633">salonu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="kje frizirati" cluster="1" frequency="17" logDice="1.93">
+              <comp position="1" type="collocate" sloleks="LE_8e0e488160f18b5c7a08417fd6160423">kje</comp>
+              <comp position="2" type="headword" sloleks="LE_408bfd73bdc631b69163e977d7707b4a">frizirati</comp>
+            </collocation>
+            <collocation form="naprej frizirati" cluster="2" frequency="4" logDice="0.17">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_408bfd73bdc631b69163e977d7707b4a">frizirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

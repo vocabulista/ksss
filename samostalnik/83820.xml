@@ -1,0 +1,44 @@
+<entry>
+  <header>
+    <lexical_unit id="83820">proglas</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">803</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="proglas na temo" cluster="1" frequency="20" logDice="4.55">
+              <comp position="1" type="headword" sloleks="LE_785c323cedba1d3bee3276a012480b66">proglas</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_2fc28e0a57fc33a1646e43e1a6f376a0">temo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Mladinin proglas" cluster="1" frequency="13" logDice="7.61">
+              <comp position="1" type="collocate" sloleks="LE_9656f16b5bc073118a538528270660fe">Mladinin</comp>
+              <comp position="2" type="headword" sloleks="LE_785c323cedba1d3bee3276a012480b66">proglas</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="natečaj za Proglas" cluster="1" frequency="4" logDice="4.11">
+              <comp position="1" type="collocate" sloleks="LE_329fd410782bc901456111db221fb0ba">natečaj</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_785c323cedba1d3bee3276a012480b66">Proglas</comp>
+            </collocation>
+            <collocation form="razpis za Proglas" cluster="2" frequency="5" logDice="2.16">
+              <comp position="1" type="collocate" sloleks="LE_16f1b539d449294ce50f32e01f7f0595">razpis</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_785c323cedba1d3bee3276a012480b66">Proglas</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

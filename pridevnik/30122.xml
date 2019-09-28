@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="30122">predelen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1863</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="predelna stena" cluster="1" frequency="1663" logDice="10.34">
+              <comp position="1" type="headword" sloleks="LE_37063132068a223631e2ad50deb6c746">predelna</comp>
+              <comp position="2" type="collocate" sloleks="LE_47b154875543bbeb3c61452a95a438a3">stena</comp>
+            </collocation>
+            <collocation form="predelen špalir" cluster="2" frequency="10" logDice="7.34">
+              <comp position="1" type="headword" sloleks="LE_37063132068a223631e2ad50deb6c746">predelen</comp>
+              <comp position="2" type="collocate" sloleks="LE_066594b7e8341b6fa3a8936e73461dee">špalir</comp>
+            </collocation>
+            <collocation form="predelna omara" cluster="3" frequency="16" logDice="5.45">
+              <comp position="1" type="headword" sloleks="LE_37063132068a223631e2ad50deb6c746">predelna</comp>
+              <comp position="2" type="collocate" sloleks="LE_bc84969ca6540160f3ec9274a3e195ae">omara</comp>
+            </collocation>
+            <collocation form="predelna mreža" cluster="4" frequency="37" logDice="4.01">
+              <comp position="1" type="headword" sloleks="LE_37063132068a223631e2ad50deb6c746">predelna</comp>
+              <comp position="2" type="collocate" sloleks="LE_efc57fb68a1d47e16c5af7d40e967e9a">mreža</comp>
+            </collocation>
+            <collocation form="predelen zid" cluster="5" frequency="14" logDice="3.67">
+              <comp position="1" type="headword" sloleks="LE_37063132068a223631e2ad50deb6c746">predelen</comp>
+              <comp position="2" type="collocate" sloleks="LE_422421fefc6daf4dc96bcdeb2b38f4cb">zid</comp>
+            </collocation>
+            <collocation form="predelen element" cluster="6" frequency="19" logDice="3.16">
+              <comp position="1" type="headword" sloleks="LE_37063132068a223631e2ad50deb6c746">predelen</comp>
+              <comp position="2" type="collocate" sloleks="LE_e6d5b239f6648336b94efcc51407108c">element</comp>
+            </collocation>
+            <collocation form="predelna polica" cluster="7" frequency="6" logDice="2.96">
+              <comp position="1" type="headword" sloleks="LE_37063132068a223631e2ad50deb6c746">predelna</comp>
+              <comp position="2" type="collocate" sloleks="LE_e4ac3c64d714498678e90a03a52bb3f4">polica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="manj predelen" cluster="1" frequency="11" logDice="0.84">
+              <comp position="1" type="collocate" sloleks="LE_ecab8216e0225b7e80d79b53bd9b8959">manj</comp>
+              <comp position="2" type="headword" sloleks="LE_37063132068a223631e2ad50deb6c746">predelen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

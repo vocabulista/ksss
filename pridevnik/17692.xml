@@ -1,0 +1,77 @@
+<entry>
+  <header>
+    <lexical_unit id="17692">fiksiran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">691</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 na sbz5">
+          <collocations>
+            <collocation form="fiksiran na točki" cluster="1" frequency="4" logDice="8.6">
+              <comp position="1" type="headword" sloleks="LE_98af5c974dbf30b327f71743075e436c">fiksiran</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_bb52716a00bd608f858395465b1c985a">točki</comp>
+            </collocation>
+            <collocation form="fiksiran na mestu" cluster="2" frequency="5" logDice="4.86">
+              <comp position="1" type="headword" sloleks="LE_98af5c974dbf30b327f71743075e436c">fiksiran</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mestu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="fiksiran tečaj" cluster="1" frequency="27" logDice="3.88">
+              <comp position="1" type="headword" sloleks="LE_98af5c974dbf30b327f71743075e436c">fiksiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_5d02c8a026f40c53ca6b5616101080cf">tečaj</comp>
+            </collocation>
+            <collocation form="fiksiran vzorec" cluster="2" frequency="6" logDice="1.92">
+              <comp position="1" type="headword" sloleks="LE_98af5c974dbf30b327f71743075e436c">fiksiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_5042c4687567fc53efbfd828e5440371">vzorec</comp>
+            </collocation>
+            <collocation form="fiksirano razmerje" cluster="3" frequency="11" logDice="1.58">
+              <comp position="1" type="headword" sloleks="LE_98af5c974dbf30b327f71743075e436c">fiksirano</comp>
+              <comp position="2" type="collocate" sloleks="LE_34acd9846cdc68db26c51b6d15765ea9">razmerje</comp>
+            </collocation>
+            <collocation form="fiksiran vir" cluster="4" frequency="6" logDice="0.63">
+              <comp position="1" type="headword" sloleks="LE_98af5c974dbf30b327f71743075e436c">fiksiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_f2868b5fa7700f4f1a6833f2b2436164">vir</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 za sbz4">
+          <collocations>
+            <collocation form="fiksiran za znesek" cluster="1" frequency="7" logDice="9.97">
+              <comp position="1" type="headword" sloleks="LE_98af5c974dbf30b327f71743075e436c">fiksiran</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_a75997c3fecf67d735c87a0515fc6386">znesek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="fiksiran in/ali določen" cluster="1" frequency="6" logDice="6.29">
+              <comp position="3" type="headword" sloleks="LE_98af5c974dbf30b327f71743075e436c">fiksiran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_1499044134494b4e685e3db6251e49b0|LE_fbc6257e78652b267c5adb9b4f487aac">določen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="vnaprej fiksiran" cluster="1" frequency="5" logDice="3.04">
+              <comp position="1" type="collocate" sloleks="LE_ad1cb50ed57f9533503dcdd605219223">vnaprej</comp>
+              <comp position="2" type="headword" sloleks="LE_98af5c974dbf30b327f71743075e436c">fiksiran</comp>
+            </collocation>
+            <collocation form="popolnoma fiksiran" cluster="2" frequency="5" logDice="0.61">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_98af5c974dbf30b327f71743075e436c">fiksiran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

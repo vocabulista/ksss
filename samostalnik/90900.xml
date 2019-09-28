@@ -1,0 +1,76 @@
+<entry>
+  <header>
+    <lexical_unit id="90900">sprevrženost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">836</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 brez sbz2">
+          <collocations>
+            <collocation form="sprevrženost brez primere" cluster="1" frequency="7" logDice="6.0">
+              <comp position="1" type="headword" sloleks="LE_863388ea388d442aab2e2e8036243357">sprevrženost</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="collocate" sloleks="LE_d31dbfeea190d40b9e72426ff57eb89c">primere</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="sprevrženost vrednote" cluster="1" frequency="10" logDice="4.53">
+              <comp position="1" type="headword" sloleks="LE_863388ea388d442aab2e2e8036243357">sprevrženost</comp>
+              <comp position="2" type="collocate" sloleks="LE_a9a487406cac0fb4290599f62f8f14c3">vrednote</comp>
+            </collocation>
+            <collocation form="vrhunec sprevrženosti" cluster="2" frequency="5" logDice="2.71">
+              <comp position="1" type="collocate" sloleks="LE_f9cfb92cf4fc879264917cb9ddc79748">vrhunec</comp>
+              <comp position="2" type="headword" sloleks="LE_863388ea388d442aab2e2e8036243357">sprevrženosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="videti sprevrženost" cluster="1" frequency="8" logDice="1.29">
+              <comp position="1" type="collocate" sloleks="LE_c26a3fecae6697a7f6f9475e85ca9f58">videti</comp>
+              <comp position="2" type="headword" sloleks="LE_863388ea388d442aab2e2e8036243357">sprevrženost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz o SBZ5">
+          <collocations>
+            <collocation form="govoriti o sprevrženosti" cluster="1" frequency="5" logDice="0.17">
+              <comp position="1" type="collocate" sloleks="LE_1da4dedf23c5041ae767d038d2430123">govoriti</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_863388ea388d442aab2e2e8036243357">sprevrženosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za sprevrženost" cluster="1" frequency="7" logDice="-0.79">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_863388ea388d442aab2e2e8036243357">sprevrženost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="spolna sprevrženost" cluster="1" frequency="40" logDice="4.08">
+              <comp position="1" type="collocate" sloleks="LE_0d56e1388b1d26a013733a7e1fa383df">spolna</comp>
+              <comp position="2" type="headword" sloleks="LE_863388ea388d442aab2e2e8036243357">sprevrženost</comp>
+            </collocation>
+            <collocation form="moralna sprevrženost" cluster="1" frequency="26" logDice="4.49">
+              <comp position="1" type="collocate" sloleks="LE_4d3da73ed41535e0ec7569d4c92ce1af">moralna</comp>
+              <comp position="2" type="headword" sloleks="LE_863388ea388d442aab2e2e8036243357">sprevrženost</comp>
+            </collocation>
+            <collocation form="skrajna sprevrženost" cluster="2" frequency="10" logDice="2.88">
+              <comp position="1" type="collocate" sloleks="LE_9efbada788faba1dbbf4354eba24cd08">skrajna</comp>
+              <comp position="2" type="headword" sloleks="LE_863388ea388d442aab2e2e8036243357">sprevrženost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

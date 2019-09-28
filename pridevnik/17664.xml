@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="17664">festivalen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">3636</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="festivalen in leden" cluster="1" frequency="16" logDice="9.74">
+              <comp position="1" type="headword" sloleks="LE_9dff8745ef9dc26d783953e4882d4d9c">festivalen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_245009e3bd3e1a980f6444be452ce47f|LE_6def490b422a4deefcb6607c1b500cbc">leden</comp>
+            </collocation>
+            <collocation form="festivalen in/ali športen" cluster="2" frequency="14" logDice="5.3">
+              <comp position="3" type="headword" sloleks="LE_9dff8745ef9dc26d783953e4882d4d9c">festivalen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_7f2057a3d3191b237e23d2cf6f1d577e">športen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="festivalna dvorana" cluster="1" frequency="3376" logDice="9.42">
+              <comp position="1" type="headword" sloleks="LE_9dff8745ef9dc26d783953e4882d4d9c">festivalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_d64c66af1b698f149c6831679980b777">dvorana</comp>
+            </collocation>
+            <collocation form="festivalna hiša" cluster="1" frequency="14" logDice="0.57">
+              <comp position="1" type="headword" sloleks="LE_9dff8745ef9dc26d783953e4882d4d9c">festivalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_34e4b2cb65c667c6bf374f39db0e3597">hiša</comp>
+            </collocation>
+            <collocation form="festivalna palača" cluster="2" frequency="22" logDice="4.63">
+              <comp position="1" type="headword" sloleks="LE_9dff8745ef9dc26d783953e4882d4d9c">festivalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_66069a99f8299ddbedb33fd4c43570db">palača</comp>
+            </collocation>
+            <collocation form="festivalen orkester" cluster="3" frequency="17" logDice="3.51">
+              <comp position="1" type="headword" sloleks="LE_9dff8745ef9dc26d783953e4882d4d9c">festivalen</comp>
+              <comp position="2" type="collocate" sloleks="LE_f32233cd38c33779162133877f1ade76">orkester</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

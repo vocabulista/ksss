@@ -1,0 +1,48 @@
+<entry>
+  <header>
+    <lexical_unit id="75673">orehovec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">580</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Piperski Orehovec" cluster="1" frequency="24" logDice="12.9">
+              <comp position="1" type="collocate" sloleks="">Piperski</comp>
+              <comp position="2" type="headword" sloleks="LE_ac94c9491eb6d048a5387b16dce9b986">Orehovec</comp>
+            </collocation>
+            <collocation form="dejan Orehovec" cluster="2" frequency="8" logDice="9.37">
+              <comp position="1" type="collocate" sloleks="LE_02c33c19961adda2d892a1c31228eec3">dejan</comp>
+              <comp position="2" type="headword" sloleks="LE_ac94c9491eb6d048a5387b16dce9b986">Orehovec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="gasilec iz Orehovca" cluster="1" frequency="7" logDice="5.81">
+              <comp position="1" type="collocate" sloleks="LE_5ee4886f09c0ea40cd620cfcfd953942">gasilec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_ac94c9491eb6d048a5387b16dce9b986">Orehovca</comp>
+            </collocation>
+            <collocation form="Orehovec iz Boštanja" cluster="2" frequency="4" logDice="8.28">
+              <comp position="1" type="headword" sloleks="LE_ac94c9491eb6d048a5387b16dce9b986">Orehovec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_8ba901748b60da7882aaaba373363ec7">Boštanja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="vrtina v Orehovcu" cluster="1" frequency="5" logDice="7.89">
+              <comp position="1" type="collocate" sloleks="LE_d7b6fd1fa39855079c564baca833a228">vrtina</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_ac94c9491eb6d048a5387b16dce9b986">Orehovcu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

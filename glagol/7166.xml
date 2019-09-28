@@ -1,0 +1,81 @@
+<entry>
+  <header>
+    <lexical_unit id="7166">prisojati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">400</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="prisojati največ" cluster="1" frequency="6" logDice="1.0">
+              <comp position="1" type="headword" sloleks="LE_26c059abdca22d9fbbe3f98f69e85846">prisojati</comp>
+              <comp position="2" type="collocate" sloleks="LE_8d628c69b249ded817d7ad2cae1d9a95">največ</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="prisojati egzistenca" cluster="1" frequency="4" logDice="9.93">
+              <comp position="1" type="headword" sloleks="LE_26c059abdca22d9fbbe3f98f69e85846">prisojati</comp>
+              <comp position="2" type="collocate" sloleks="">egzistenca</comp>
+            </collocation>
+            <collocation form="prisojati odškodnino" cluster="2" frequency="13" logDice="5.25">
+              <comp position="1" type="headword" sloleks="LE_26c059abdca22d9fbbe3f98f69e85846">prisojati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6b03ef84b502bdd45b19234afe8b135b">odškodnino</comp>
+            </collocation>
+            <collocation form="prisojati moč" cluster="3" frequency="7" logDice="2.2">
+              <comp position="1" type="headword" sloleks="LE_26c059abdca22d9fbbe3f98f69e85846">prisojati</comp>
+              <comp position="2" type="collocate" sloleks="LE_0b71c85c50e39f2c8cb5e91791d67af9">moč</comp>
+            </collocation>
+            <collocation form="prisojati lastnost" cluster="3" frequency="6" logDice="3.86">
+              <comp position="1" type="headword" sloleks="LE_26c059abdca22d9fbbe3f98f69e85846">prisojati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9e19f48ce23fa03bd6cf2669b73a296">lastnost</comp>
+            </collocation>
+            <collocation form="prisojati oceno" cluster="4" frequency="5" logDice="2.91">
+              <comp position="1" type="headword" sloleks="LE_26c059abdca22d9fbbe3f98f69e85846">prisojati</comp>
+              <comp position="2" type="collocate" sloleks="LE_876e5c609b3c91704b14383926ee218d">oceno</comp>
+            </collocation>
+            <collocation form="prisojati vlogo" cluster="5" frequency="8" logDice="1.46">
+              <comp position="1" type="headword" sloleks="LE_26c059abdca22d9fbbe3f98f69e85846">prisojati</comp>
+              <comp position="2" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vlogo</comp>
+            </collocation>
+            <collocation form="prisojati pomen" cluster="5" frequency="6" logDice="2.68">
+              <comp position="1" type="headword" sloleks="LE_26c059abdca22d9fbbe3f98f69e85846">prisojati</comp>
+              <comp position="2" type="collocate" sloleks="LE_ef93d9cf9ab8a9c0f3eb6d73736a9dba">pomen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="prisojati v praksi" cluster="1" frequency="4" logDice="2.56">
+              <comp position="1" type="headword" sloleks="LE_26c059abdca22d9fbbe3f98f69e85846">prisojati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_c837ef665be9426cca040e03fed36348">praksi</comp>
+            </collocation>
+            <collocation form="prisojati v primeru" cluster="2" frequency="8" logDice="0.63">
+              <comp position="1" type="headword" sloleks="LE_26c059abdca22d9fbbe3f98f69e85846">prisojati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_8e6db377d52cf3acd614b87429fb9858">primeru</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz SBZ2">
+          <collocations>
+            <collocation form="ne prisojati pomena" cluster="1" frequency="5" logDice="4.96">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_26c059abdca22d9fbbe3f98f69e85846">prisojati</comp>
+              <comp position="3" type="collocate" sloleks="LE_ef93d9cf9ab8a9c0f3eb6d73736a9dba">pomena</comp>
+            </collocation>
+            <collocation form="ne prisojati možnosti" cluster="2" frequency="4" logDice="2.32">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_26c059abdca22d9fbbe3f98f69e85846">prisojati</comp>
+              <comp position="3" type="collocate" sloleks="LE_2e00efc106e45a8fd5ad17e06d9e6382">možnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

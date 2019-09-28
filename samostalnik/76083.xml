@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="76083">ostrožnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">642</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="enoleten ostrožnik" cluster="1" frequency="14" logDice="4.76">
+              <comp position="1" type="collocate" sloleks="LE_cefd75a4984cb6bfa04b56ace302788d">enoleten</comp>
+              <comp position="2" type="headword" sloleks="LE_c42874b3b1f6b17ce8d221559bca0586">ostrožnik</comp>
+            </collocation>
+            <collocation form="moder ostrožnik" cluster="2" frequency="17" logDice="2.72">
+              <comp position="1" type="collocate" sloleks="LE_b77d374d59b54f808284a0dca42e2434">moder</comp>
+              <comp position="2" type="headword" sloleks="LE_c42874b3b1f6b17ce8d221559bca0586">ostrožnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Aljoša Ostrožnika" cluster="1" frequency="5" logDice="7.22">
+              <comp position="1" type="collocate" sloleks="LE_9c2f9c45bb96fd474bdb72165f2311eb">Aljoša</comp>
+              <comp position="2" type="headword" sloleks="LE_c42874b3b1f6b17ce8d221559bca0586">Ostrožnika</comp>
+            </collocation>
+            <collocation form="cvet ostrožnika" cluster="2" frequency="5" logDice="4.38">
+              <comp position="1" type="collocate" sloleks="LE_94d0f7e010ad7f3fd319d2500a8722ff">cvet</comp>
+              <comp position="2" type="headword" sloleks="LE_c42874b3b1f6b17ce8d221559bca0586">ostrožnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

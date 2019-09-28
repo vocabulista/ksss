@@ -1,0 +1,61 @@
+<entry>
+  <header>
+    <lexical_unit id="556">bučati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">633</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ iz sbz2">
+          <collocations>
+            <collocation form="bučati iz zvočnika" cluster="1" frequency="5" logDice="6.96">
+              <comp position="1" type="headword" sloleks="LE_abb60d8550083d762f751c295742b7e3">bučati</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_96aad18e76a1e59a9e023ca2ed07325d">zvočnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="bučati na uho" cluster="1" frequency="4" logDice="4.41">
+              <comp position="1" type="headword" sloleks="LE_abb60d8550083d762f751c295742b7e3">bučati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_ed81cbe45540a33ca421c25755837659">uho</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="bučati v ušesu" cluster="1" frequency="9" logDice="7.15">
+              <comp position="1" type="headword" sloleks="LE_abb60d8550083d762f751c295742b7e3">bučati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_ed81cbe45540a33ca421c25755837659">ušesu</comp>
+            </collocation>
+            <collocation form="bučati v glavi" cluster="2" frequency="10" logDice="4.35">
+              <comp position="1" type="headword" sloleks="LE_abb60d8550083d762f751c295742b7e3">bučati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_49f28ed22f8b4f55f12b45ad1b95d3b0">glavi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="zamolklo bučati" cluster="1" frequency="5" logDice="8.82">
+              <comp position="1" type="collocate" sloleks="LE_42388c464e1724bb36c2904f3d7b9a72">zamolklo</comp>
+              <comp position="2" type="headword" sloleks="LE_abb60d8550083d762f751c295742b7e3">bučati</comp>
+            </collocation>
+            <collocation form="nekoč bučati" cluster="2" frequency="5" logDice="1.21">
+              <comp position="1" type="collocate" sloleks="LE_60179edcbf14353a50c5821b3f1a56ef">nekoč</comp>
+              <comp position="2" type="headword" sloleks="LE_abb60d8550083d762f751c295742b7e3">bučati</comp>
+            </collocation>
+            <collocation form="vse bučati" cluster="3" frequency="7" logDice="0.5">
+              <comp position="1" type="collocate" sloleks="LE_69e1f6ea0eba690182112fa5f7865561">vse</comp>
+              <comp position="2" type="headword" sloleks="LE_abb60d8550083d762f751c295742b7e3">bučati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

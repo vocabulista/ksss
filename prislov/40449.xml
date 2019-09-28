@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="40449">dvosmerno</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">475</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ po sbz5">
+          <collocations>
+            <collocation form="dvosmerno po polovici" cluster="1" frequency="96" logDice="13.06">
+              <comp position="1" type="headword" sloleks="LE_546889dbee3f6c0b1b5aef402691ac27">dvosmerno</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_e06fd3f6a407c754a3938adbe4897da0">polovici</comp>
+            </collocation>
+            <collocation form="dvosmerno po pasu" cluster="2" frequency="15" logDice="10.32">
+              <comp position="1" type="headword" sloleks="LE_546889dbee3f6c0b1b5aef402691ac27">dvosmerno</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_89ac9c7dc7f715491af648500946332a">pasu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="potekati dvosmerno" cluster="1" frequency="177" logDice="7.13">
+              <comp position="1" type="collocate" sloleks="LE_819184a7075249f01ba9c0ac8d261dd4">potekati</comp>
+              <comp position="2" type="headword" sloleks="LE_546889dbee3f6c0b1b5aef402691ac27">dvosmerno</comp>
+            </collocation>
+            <collocation form="urediti dvosmerno" cluster="2" frequency="5" logDice="3.98">
+              <comp position="1" type="collocate" sloleks="LE_7c60aa387a485771432ec7438aaddefa">urediti</comp>
+              <comp position="2" type="headword" sloleks="LE_546889dbee3f6c0b1b5aef402691ac27">dvosmerno</comp>
+            </collocation>
+            <collocation form="teči dvosmerno" cluster="3" frequency="6" logDice="3.4">
+              <comp position="1" type="collocate" sloleks="LE_b1ceb206a24c563d1c96e186a942b958">teči</comp>
+              <comp position="2" type="headword" sloleks="LE_546889dbee3f6c0b1b5aef402691ac27">dvosmerno</comp>
+            </collocation>
+            <collocation form="delovati dvosmerno" cluster="4" frequency="13" logDice="2.58">
+              <comp position="1" type="collocate" sloleks="LE_d0f4c0b2fd032468cea5b16c4a58e364">delovati</comp>
+              <comp position="2" type="headword" sloleks="LE_546889dbee3f6c0b1b5aef402691ac27">dvosmerno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

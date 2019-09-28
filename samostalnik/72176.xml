@@ -1,0 +1,61 @@
+<entry>
+  <header>
+    <lexical_unit id="72176">nekonsistentnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">484</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="nekonsistentnost zakona" cluster="1" frequency="21" logDice="0.96">
+              <comp position="1" type="headword" sloleks="LE_145b10ab201aeb444a4bc5f4b6294436">nekonsistentnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_b3ce668b2bbbbdfa905463c113c05551">zakona</comp>
+            </collocation>
+            <collocation form="očitek nekonsistentnosti" cluster="2" frequency="5" logDice="4.48">
+              <comp position="1" type="collocate" sloleks="LE_73a297a00cf99013b6a034b27ec651af">očitek</comp>
+              <comp position="2" type="headword" sloleks="LE_145b10ab201aeb444a4bc5f4b6294436">nekonsistentnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="kazati na nekonsistentnost" cluster="1" frequency="14" logDice="4.06">
+              <comp position="1" type="collocate" sloleks="LE_0ed3c23f956dfe4ad282574a548ad17d">kazati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_145b10ab201aeb444a4bc5f4b6294436">nekonsistentnost</comp>
+            </collocation>
+            <collocation form="opozarjati na nekonsistentnost" cluster="2" frequency="6" logDice="2.58">
+              <comp position="1" type="collocate" sloleks="LE_2b0d3172ed316ac5b17087cc44769a7a">opozarjati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_145b10ab201aeb444a4bc5f4b6294436">nekonsistentnost</comp>
+            </collocation>
+            <collocation form="opozoriti na nekonsistentnost" cluster="3" frequency="5" logDice="2.14">
+              <comp position="1" type="collocate" sloleks="LE_9d89109b8231c20ace2c0b60a9753af4">opozoriti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_145b10ab201aeb444a4bc5f4b6294436">nekonsistentnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za nekonsistentnost" cluster="1" frequency="9" logDice="-0.43">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_145b10ab201aeb444a4bc5f4b6294436">nekonsistentnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="notranja nekonsistentnost" cluster="1" frequency="12" logDice="0.96">
+              <comp position="1" type="collocate" sloleks="LE_bca9138b9a7f57aa3e597de77446f7d5">notranja</comp>
+              <comp position="2" type="headword" sloleks="LE_145b10ab201aeb444a4bc5f4b6294436">nekonsistentnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,35 @@
+<entry>
+  <header>
+    <lexical_unit id="2061">klekljati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">452</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="klekljati v Cerknem" cluster="1" frequency="4" logDice="7.58">
+              <comp position="1" type="headword" sloleks="LE_68d953153c2c9bbbc7f9dc1655f7323e">klekljati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_fd4bab5a63cc113f28848b480e0271cf">Cerknem</comp>
+            </collocation>
+            <collocation form="klekljati v Idriji" cluster="2" frequency="4" logDice="6.11">
+              <comp position="1" type="headword" sloleks="LE_68d953153c2c9bbbc7f9dc1655f7323e">klekljati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_54a8f95c7dc2df8b1d9bc734957946dc">Idriji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="veliko klekljati" cluster="1" frequency="12" logDice="1.16">
+              <comp position="1" type="collocate" sloleks="LE_431ef7ec57af288ca0e781bb12f6e7f0">veliko</comp>
+              <comp position="2" type="headword" sloleks="LE_68d953153c2c9bbbc7f9dc1655f7323e">klekljati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

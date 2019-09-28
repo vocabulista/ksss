@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="73144">nežica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">445</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="Nežica v šoli" cluster="1" frequency="77" logDice="6.19">
+              <comp position="1" type="headword" sloleks="LE_1058fa7ae1cbafd2663a39f13afb1e17">Nežica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_9c664dac39a3cc920d3849a80fadafa1">šoli</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="navadna nežica" cluster="1" frequency="12" logDice="2.31">
+              <comp position="1" type="collocate" sloleks="LE_f59369d8b37702c03d2e6f31cbe3f5d8">navadna</comp>
+              <comp position="2" type="headword" sloleks="LE_1058fa7ae1cbafd2663a39f13afb1e17">nežica</comp>
+            </collocation>
+            <collocation form="zlata nežica" cluster="2" frequency="20" logDice="2.07">
+              <comp position="1" type="collocate" sloleks="LE_841fe594eda42d033f6b9f2e7dc246e9">zlata</comp>
+              <comp position="2" type="headword" sloleks="LE_1058fa7ae1cbafd2663a39f13afb1e17">nežica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="slap Nežice" cluster="1" frequency="10" logDice="7.5">
+              <comp position="1" type="collocate" sloleks="LE_02bc5bdc9bd8f87128812ec0592bd53e">slap</comp>
+              <comp position="2" type="headword" sloleks="LE_1058fa7ae1cbafd2663a39f13afb1e17">Nežice</comp>
+            </collocation>
+            <collocation form="izvir Nežice" cluster="2" frequency="10" logDice="5.74">
+              <comp position="1" type="collocate" sloleks="LE_b31cb128530074364cd9a89c737cd1a9">izvir</comp>
+              <comp position="2" type="headword" sloleks="LE_1058fa7ae1cbafd2663a39f13afb1e17">Nežice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

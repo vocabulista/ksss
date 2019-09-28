@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="75815">osamelec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">624</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="osamelec iz peščenjaka" cluster="1" frequency="4" logDice="9.31">
+              <comp position="1" type="headword" sloleks="LE_4dbd03a41ded370cd58abc8f7e133e63">osamelec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_e04e140a67bbf310e4692fecfdc8b07b">peščenjaka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="osamelec z imenom" cluster="1" frequency="4" logDice="2.1">
+              <comp position="1" type="headword" sloleks="LE_4dbd03a41ded370cd58abc8f7e133e63">osamelec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">imenom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="skalen osamelec" cluster="1" frequency="101" logDice="8.57">
+              <comp position="1" type="collocate" sloleks="LE_1cedd3fbedef71bd4abe1e81239f0d5d">skalen</comp>
+              <comp position="2" type="headword" sloleks="LE_4dbd03a41ded370cd58abc8f7e133e63">osamelec</comp>
+            </collocation>
+            <collocation form="kamnit osamelec" cluster="1" frequency="20" logDice="4.9">
+              <comp position="1" type="collocate" sloleks="LE_11245b800453b21e95bfc3d507805968">kamnit</comp>
+              <comp position="2" type="headword" sloleks="LE_4dbd03a41ded370cd58abc8f7e133e63">osamelec</comp>
+            </collocation>
+            <collocation form="skalnat osamelec" cluster="1" frequency="17" logDice="7.07">
+              <comp position="1" type="collocate" sloleks="LE_b9ddf78a0ab813b1033c53ee66b57d03">skalnat</comp>
+              <comp position="2" type="headword" sloleks="LE_4dbd03a41ded370cd58abc8f7e133e63">osamelec</comp>
+            </collocation>
+            <collocation form="kraški osamelec" cluster="2" frequency="10" logDice="3.13">
+              <comp position="1" type="collocate" sloleks="LE_817f82268a26e2ad75ff5bcfa0380cd4">kraški</comp>
+              <comp position="2" type="headword" sloleks="LE_4dbd03a41ded370cd58abc8f7e133e63">osamelec</comp>
+            </collocation>
+            <collocation form="gorski osamelec" cluster="2" frequency="9" logDice="2.41">
+              <comp position="1" type="collocate" sloleks="LE_064250407bf8c9840ce362666476644e">gorski</comp>
+              <comp position="2" type="headword" sloleks="LE_4dbd03a41ded370cd58abc8f7e133e63">osamelec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

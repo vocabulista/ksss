@@ -1,0 +1,78 @@
+<entry>
+  <header>
+    <lexical_unit id="44193">preračunljivo</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">613</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ gbz">
+          <collocations>
+            <collocation form="preračunljivo čakati" cluster="1" frequency="4" logDice="0.72">
+              <comp position="1" type="headword" sloleks="LE_2d5ff1df96f437082016330ace06c18a">preračunljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_40e471c4d788a258a8c6b151605ab514">čakati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="igrati preračunljivo" cluster="1" frequency="35" logDice="4.22">
+              <comp position="1" type="collocate" sloleks="LE_9630b80ef7532c1a2733281463549a9b">igrati</comp>
+              <comp position="2" type="headword" sloleks="LE_2d5ff1df96f437082016330ace06c18a">preračunljivo</comp>
+            </collocation>
+            <collocation form="ravnati preračunljivo" cluster="2" frequency="6" logDice="3.16">
+              <comp position="1" type="collocate" sloleks="LE_6bb16a78250b205a0096c7c9292ce6b4">ravnati</comp>
+              <comp position="2" type="headword" sloleks="LE_2d5ff1df96f437082016330ace06c18a">preračunljivo</comp>
+            </collocation>
+            <collocation form="delati preračunljivo" cluster="3" frequency="4" logDice="1.02">
+              <comp position="1" type="collocate" sloleks="LE_240594860749d18971944f6690505af1">delati</comp>
+              <comp position="2" type="headword" sloleks="LE_2d5ff1df96f437082016330ace06c18a">preračunljivo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz RBZ">
+          <collocations>
+            <collocation form="hladno preračunljivo" cluster="1" frequency="4" logDice="8.78">
+              <comp position="1" type="collocate" sloleks="LE_bfacc457ec54c23723ebe53e4358b714">hladno</comp>
+              <comp position="2" type="headword" sloleks="LE_2d5ff1df96f437082016330ace06c18a">preračunljivo</comp>
+            </collocation>
+            <collocation form="skrajno preračunljivo" cluster="2" frequency="6" logDice="4.73">
+              <comp position="1" type="collocate" sloleks="LE_50bd085be9fea6c2fd7222a14ab31702">skrajno</comp>
+              <comp position="2" type="headword" sloleks="LE_2d5ff1df96f437082016330ace06c18a">preračunljivo</comp>
+            </collocation>
+            <collocation form="preveč preračunljivo" cluster="3" frequency="12" logDice="3.85">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_2d5ff1df96f437082016330ace06c18a">preračunljivo</comp>
+            </collocation>
+            <collocation form="manj preračunljivo" cluster="3" frequency="4" logDice="2.2">
+              <comp position="1" type="collocate" sloleks="LE_ecab8216e0225b7e80d79b53bd9b8959">manj</comp>
+              <comp position="2" type="headword" sloleks="LE_2d5ff1df96f437082016330ace06c18a">preračunljivo</comp>
+            </collocation>
+            <collocation form="bolj preračunljivo" cluster="4" frequency="18" logDice="1.8">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_2d5ff1df96f437082016330ace06c18a">preračunljivo</comp>
+            </collocation>
+            <collocation form="zelo preračunljivo" cluster="5" frequency="21" logDice="0.73">
+              <comp position="1" type="collocate" sloleks="LE_195d60c164b7057008d21b29153e2352">zelo</comp>
+              <comp position="2" type="headword" sloleks="LE_2d5ff1df96f437082016330ace06c18a">preračunljivo</comp>
+            </collocation>
+            <collocation form="nekoliko preračunljivo" cluster="5" frequency="4" logDice="0.56">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_2d5ff1df96f437082016330ace06c18a">preračunljivo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ in/ali rbz">
+          <collocations>
+            <collocation form="preračunljivo in/ali hladno" cluster="1" frequency="16" logDice="8.58">
+              <comp position="3" type="headword" sloleks="LE_2d5ff1df96f437082016330ace06c18a">preračunljivo</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_bfacc457ec54c23723ebe53e4358b714">hladno</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

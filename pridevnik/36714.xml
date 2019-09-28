@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="36714">ukazan</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">722</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="ukazana Ringaraja" cluster="1" frequency="16" logDice="10.13">
+              <comp position="1" type="headword" sloleks="LE_64f9cb42161581ebf99ebdd3ea9cefb9">ukazana</comp>
+              <comp position="2" type="collocate" sloleks="LE_eb352fa2866e003fec41609d4f48358b">Ringaraja</comp>
+            </collocation>
+            <collocation form="ukazan molk" cluster="2" frequency="7" logDice="5.2">
+              <comp position="1" type="headword" sloleks="LE_64f9cb42161581ebf99ebdd3ea9cefb9">ukazan</comp>
+              <comp position="2" type="collocate" sloleks="LE_12de164da463700e6c61d37ea4a8f8e5">molk</comp>
+            </collocation>
+            <collocation form="ukazan ples" cluster="3" frequency="6" logDice="2.09">
+              <comp position="1" type="headword" sloleks="LE_64f9cb42161581ebf99ebdd3ea9cefb9">ukazan</comp>
+              <comp position="2" type="collocate" sloleks="LE_0a5139d7e3ed9a03478faf8c1e367d5b">ples</comp>
+            </collocation>
+            <collocation form="ukazana smer" cluster="4" frequency="6" logDice="1.65">
+              <comp position="1" type="headword" sloleks="LE_64f9cb42161581ebf99ebdd3ea9cefb9">ukazana</comp>
+              <comp position="2" type="collocate" sloleks="LE_85882917927d0a985cbee54691f45223">smer</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz1 vez-gbz PBZ1">
+          <collocations>
+            <collocation form="Polka je ukazana" cluster="1" frequency="24" logDice="13.91">
+              <comp position="1" type="collocate" sloleks="LE_31215eb11a4e3b8ae99c5d90fb7fa8d1">Polka</comp>
+              <comp position="2" type="other" sloleks="LE_4ce899cffc87547d3bbc80f27408a816">je</comp>
+              <comp position="3" type="headword" sloleks="LE_64f9cb42161581ebf99ebdd3ea9cefb9">ukazana</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

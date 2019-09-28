@@ -1,0 +1,52 @@
+<entry>
+  <header>
+    <lexical_unit id="97744">zafrkancija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">681</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="zafrkancija na račun" cluster="1" frequency="11" logDice="3.53">
+              <comp position="1" type="headword" sloleks="LE_b25c32502fedfc61da409a5c7c694ec2">zafrkancija</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_03d4207cd319441760ba30bae2e1320e">račun</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za zafrkancijo" cluster="1" frequency="12" logDice="-0.02">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_b25c32502fedfc61da409a5c7c694ec2">zafrkancijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="čista zafrkancija" cluster="1" frequency="24" logDice="2.81">
+              <comp position="1" type="collocate" sloleks="LE_b0f01a4af83087947c0c1f51b4c0c6bc">čista</comp>
+              <comp position="2" type="headword" sloleks="LE_b25c32502fedfc61da409a5c7c694ec2">zafrkancija</comp>
+            </collocation>
+            <collocation form="zdrava zafrkancija" cluster="2" frequency="9" logDice="1.42">
+              <comp position="1" type="collocate" sloleks="LE_faa86fb771784f958e4d2e0eb9bdde65">zdrava</comp>
+              <comp position="2" type="headword" sloleks="LE_b25c32502fedfc61da409a5c7c694ec2">zafrkancija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="čas za zafrkancijo" cluster="1" frequency="7" logDice="1.5">
+              <comp position="1" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">čas</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_b25c32502fedfc61da409a5c7c694ec2">zafrkancijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

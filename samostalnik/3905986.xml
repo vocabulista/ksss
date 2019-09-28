@@ -1,0 +1,61 @@
+<entry>
+  <header>
+    <lexical_unit id="3905986">stotin</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="stotin na dan" cluster="1" frequency="4" logDice="0.96">
+              <comp position="1" type="headword" sloleks="">stotin</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_687a3a5f213dba3724e626216f1b09da">dan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ2">
+          <collocations>
+            <collocation form="poceniti za stotin" cluster="1" frequency="13" logDice="7.2">
+              <comp position="1" type="collocate" sloleks="LE_39a1d2be3522ebc1b2b1645cf15740a8">poceniti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="">stotin</comp>
+            </collocation>
+            <collocation form="podražiti za stotin" cluster="2" frequency="9" logDice="5.67">
+              <comp position="1" type="collocate" sloleks="LE_c4bcf8de1192d971ed96a864be85c0b0">podražiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="">stotin</comp>
+            </collocation>
+            <collocation form="zvišati za stotin" cluster="3" frequency="4" logDice="4.56">
+              <comp position="1" type="collocate" sloleks="LE_ca1f261ac46a8989f79fbcd3d0d1f54d">zvišati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="">stotin</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="nominala stotin" cluster="1" frequency="15" logDice="10.38">
+              <comp position="1" type="collocate" sloleks="LE_43f3ce7d0d4d8175936712fb0b499e84">nominala</comp>
+              <comp position="2" type="headword" sloleks="">stotin</comp>
+            </collocation>
+            <collocation form="višina stotin" cluster="2" frequency="9" logDice="1.32">
+              <comp position="1" type="collocate" sloleks="LE_78ed2829f3f80fbcd2bd004af45712e3">višina</comp>
+              <comp position="2" type="headword" sloleks="">stotin</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 brez SBZ2">
+          <collocations>
+            <collocation form="tolar brez stotin" cluster="1" frequency="9" logDice="9.98">
+              <comp position="1" type="collocate" sloleks="LE_65baaacaefaf6c73cca24a77f2ec4856">tolar</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="">stotin</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

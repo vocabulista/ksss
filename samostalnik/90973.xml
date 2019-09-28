@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="90973">sramotenje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">478</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="sramotenje države" cluster="1" frequency="23" logDice="1.18">
+              <comp position="1" type="headword" sloleks="LE_0bc6db3de07cd6a4db4f143c427a7b23">sramotenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">države</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za sramotenje" cluster="1" frequency="9" logDice="-0.43">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_0bc6db3de07cd6a4db4f143c427a7b23">sramotenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 zaradi SBZ2">
+          <collocations>
+            <collocation form="ovadba zaradi sramotenja" cluster="1" frequency="5" logDice="5.51">
+              <comp position="1" type="collocate" sloleks="LE_edeaef545be07b0b2a6da7c9713532e0">ovadba</comp>
+              <comp position="2" type="other" sloleks="LE_e2128c24e3c3872c9e5c2981f71b461f">zaradi</comp>
+              <comp position="3" type="headword" sloleks="LE_0bc6db3de07cd6a4db4f143c427a7b23">sramotenja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

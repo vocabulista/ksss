@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="49367">biovreme</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">2946</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 konec sbz2">
+          <collocations>
+            <collocation form="BIOVREME konec tedna" cluster="1" frequency="14" logDice="6.63">
+              <comp position="1" type="headword" sloleks="LE_0403afdcc62c4611ef349868202eeeeb">BIOVREME</comp>
+              <comp position="2" type="other" sloleks="LE_d6e5e86ed6f68ec403319f94c084d98e">konec</comp>
+              <comp position="3" type="collocate" sloleks="LE_5130fa65a5d85e948e4519c7d93f6a65">tedna</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="biovreme na počutje" cluster="1" frequency="4" logDice="6.98">
+              <comp position="1" type="headword" sloleks="LE_0403afdcc62c4611ef349868202eeeeb">biovreme</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_28c5fb9fd1324e0ed28df3a07ba74468">počutje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 zaradi sbz2">
+          <collocations>
+            <collocation form="BIOVREME zaradi spanja" cluster="1" frequency="11" logDice="12.68">
+              <comp position="1" type="headword" sloleks="LE_0403afdcc62c4611ef349868202eeeeb">BIOVREME</comp>
+              <comp position="2" type="other" sloleks="LE_e2128c24e3c3872c9e5c2981f71b461f">zaradi</comp>
+              <comp position="3" type="collocate" sloleks="LE_54bd143b63802bbd480048803b613a2a">spanja</comp>
+            </collocation>
+            <collocation form="BIOVREME zaradi noči" cluster="2" frequency="9" logDice="11.79">
+              <comp position="1" type="headword" sloleks="LE_0403afdcc62c4611ef349868202eeeeb">BIOVREME</comp>
+              <comp position="2" type="other" sloleks="LE_e2128c24e3c3872c9e5c2981f71b461f">zaradi</comp>
+              <comp position="3" type="collocate" sloleks="LE_b49d362a114e179acbd84b80fefd7959">noči</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Dnevnikovo biovreme" cluster="1" frequency="1540" logDice="12.01">
+              <comp position="1" type="collocate" sloleks="LE_1ea77aa6b7f832a2342dde56edb5eb9e">Dnevnikovo</comp>
+              <comp position="2" type="headword" sloleks="LE_0403afdcc62c4611ef349868202eeeeb">biovreme</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="podoba biovremena" cluster="1" frequency="60" logDice="5.0">
+              <comp position="1" type="collocate" sloleks="LE_f981a5dcf51e5a8e22672e1d3009ebfe">podoba</comp>
+              <comp position="2" type="headword" sloleks="LE_0403afdcc62c4611ef349868202eeeeb">biovremena</comp>
+            </collocation>
+            <collocation form="vpliv biovremena" cluster="2" frequency="11" logDice="2.49">
+              <comp position="1" type="collocate" sloleks="LE_4dac044878c71472e44f21dc0e9220c2">vpliv</comp>
+              <comp position="2" type="headword" sloleks="LE_0403afdcc62c4611ef349868202eeeeb">biovremena</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

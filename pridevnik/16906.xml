@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="16906">dvodomen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">496</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="dvodomen parlament" cluster="1" frequency="182" logDice="6.55">
+              <comp position="1" type="headword" sloleks="LE_c2c3d531c870071c0c75093934ba70b9">dvodomen</comp>
+              <comp position="2" type="collocate" sloleks="LE_32de6db1998df95db74df7cb39a9b390">parlament</comp>
+            </collocation>
+            <collocation form="dvodomna rastlina" cluster="2" frequency="73" logDice="5.23">
+              <comp position="1" type="headword" sloleks="LE_c2c3d531c870071c0c75093934ba70b9">dvodomna</comp>
+              <comp position="2" type="collocate" sloleks="LE_29b84db176a06b7dc3d3658f8a3cd001">rastlina</comp>
+            </collocation>
+            <collocation form="dvodomna skupščina" cluster="3" frequency="17" logDice="3.64">
+              <comp position="1" type="headword" sloleks="LE_c2c3d531c870071c0c75093934ba70b9">dvodomna</comp>
+              <comp position="2" type="collocate" sloleks="LE_9f2f49881396e3c6dfc7eb01d249f54c">skupščina</comp>
+            </collocation>
+            <collocation form="dvodomen sistem" cluster="4" frequency="62" logDice="2.08">
+              <comp position="1" type="headword" sloleks="LE_c2c3d531c870071c0c75093934ba70b9">dvodomen</comp>
+              <comp position="2" type="collocate" sloleks="LE_b126847d984efa55c2ffad50be4e1dac">sistem</comp>
+            </collocation>
+            <collocation form="dvodomna ureditev" cluster="5" frequency="9" logDice="2.08">
+              <comp position="1" type="headword" sloleks="LE_c2c3d531c870071c0c75093934ba70b9">dvodomna</comp>
+              <comp position="2" type="collocate" sloleks="LE_baceef1543487bd151f8558130614f0e">ureditev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz1 vez-gbz PBZ1">
+          <collocations>
+            <collocation form="rastlina je dvodomna" cluster="1" frequency="12" logDice="10.6">
+              <comp position="1" type="collocate" sloleks="LE_29b84db176a06b7dc3d3658f8a3cd001">rastlina</comp>
+              <comp position="2" type="other" sloleks="LE_4ce899cffc87547d3bbc80f27408a816">je</comp>
+              <comp position="3" type="headword" sloleks="LE_c2c3d531c870071c0c75093934ba70b9">dvodomna</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

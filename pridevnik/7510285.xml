@@ -1,0 +1,40 @@
+<entry>
+  <header>
+    <lexical_unit id="7510285">zablujen</lexical_unit>
+    <category>pridevnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="zablujen generacija" cluster="1" frequency="835" logDice="8.75">
+              <comp position="1" type="headword" sloleks="">zablujen</comp>
+              <comp position="2" type="collocate" sloleks="LE_3ae79f27727e36bc3b9d688dcc7e1dff">generacija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="NZU zablujen" cluster="1" frequency="28" logDice="13.39">
+              <comp position="1" type="collocate" sloleks="">NZU</comp>
+              <comp position="2" type="headword" sloleks="">zablujen</comp>
+            </collocation>
+            <collocation form="drugam zablujen" cluster="2" frequency="7" logDice="10.79">
+              <comp position="1" type="collocate" sloleks="LE_d5fd2f2b5ba375eb6ab396dd223fc38b">drugam</comp>
+              <comp position="2" type="headword" sloleks="">zablujen</comp>
+            </collocation>
+            <collocation form="visoko zablujen" cluster="3" frequency="5" logDice="2.02">
+              <comp position="1" type="collocate" sloleks="LE_d86577b4184b53617245ebe98adcaa36">visoko</comp>
+              <comp position="2" type="headword" sloleks="">zablujen</comp>
+            </collocation>
+            <collocation form="vse zablujen" cluster="4" frequency="6" logDice="0.63">
+              <comp position="1" type="collocate" sloleks="LE_69e1f6ea0eba690182112fa5f7865561">vse</comp>
+              <comp position="2" type="headword" sloleks="">zablujen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

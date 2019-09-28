@@ -1,0 +1,75 @@
+<entry>
+  <header>
+    <lexical_unit id="85337">razpust</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">548</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="razpust samostana" cluster="1" frequency="31" logDice="7.38">
+              <comp position="1" type="headword" sloleks="LE_d11f63b7dc04744053857557ed45666e">razpust</comp>
+              <comp position="2" type="collocate" sloleks="LE_68659746be8572a232576462b708851e">samostana</comp>
+            </collocation>
+            <collocation form="razpust parlamenta" cluster="2" frequency="105" logDice="6.42">
+              <comp position="1" type="headword" sloleks="LE_d11f63b7dc04744053857557ed45666e">razpust</comp>
+              <comp position="2" type="collocate" sloleks="LE_32de6db1998df95db74df7cb39a9b390">parlamenta</comp>
+            </collocation>
+            <collocation form="razpust koalicije" cluster="2" frequency="14" logDice="4.22">
+              <comp position="1" type="headword" sloleks="LE_d11f63b7dc04744053857557ed45666e">razpust</comp>
+              <comp position="2" type="collocate" sloleks="LE_5aa8ccca1595e55daecb1550976409c1">koalicije</comp>
+            </collocation>
+            <collocation form="razpust zbora" cluster="2" frequency="12" logDice="2.08">
+              <comp position="1" type="headword" sloleks="LE_d11f63b7dc04744053857557ed45666e">razpust</comp>
+              <comp position="2" type="collocate" sloleks="LE_56ae41b6d71148e851cdd275624be8f4">zbora</comp>
+            </collocation>
+            <collocation form="razpust sveta" cluster="3" frequency="33" logDice="1.76">
+              <comp position="1" type="headword" sloleks="LE_d11f63b7dc04744053857557ed45666e">razpust</comp>
+              <comp position="2" type="collocate" sloleks="LE_55184295ed657acc8ec5dcd62f7084bf">sveta</comp>
+            </collocation>
+            <collocation form="razpust organizacije" cluster="3" frequency="8" logDice="1.55">
+              <comp position="1" type="headword" sloleks="LE_d11f63b7dc04744053857557ed45666e">razpust</comp>
+              <comp position="2" type="collocate" sloleks="LE_513f9f374314ddaf09bb7d123d083113">organizacije</comp>
+            </collocation>
+            <collocation form="razpust društva" cluster="3" frequency="8" logDice="0.73">
+              <comp position="1" type="headword" sloleks="LE_d11f63b7dc04744053857557ed45666e">razpust</comp>
+              <comp position="2" type="collocate" sloleks="LE_f1fd3c17e2206150a5ab762769b6e8ff">društva</comp>
+            </collocation>
+            <collocation form="razpust stranke" cluster="3" frequency="8" logDice="0.53">
+              <comp position="1" type="headword" sloleks="LE_d11f63b7dc04744053857557ed45666e">razpust</comp>
+              <comp position="2" type="collocate" sloleks="LE_945a204a300f28702820c4bc0481d2e7">stranke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="voditi v razpust" cluster="1" frequency="5" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_b044981ae81c995865d0ad4c2cd7b62b">voditi</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_d11f63b7dc04744053857557ed45666e">razpust</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="predčasen razpust" cluster="1" frequency="20" logDice="5.07">
+              <comp position="1" type="collocate" sloleks="LE_35154528eb31d928cb8e6102131be9c5">predčasen</comp>
+              <comp position="2" type="headword" sloleks="LE_d11f63b7dc04744053857557ed45666e">razpust</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 po SBZ5">
+          <collocations>
+            <collocation form="mesec po razpustu" cluster="1" frequency="9" logDice="4.26">
+              <comp position="1" type="collocate" sloleks="LE_d87e72e2a6ded77b0ae520112759ad42">mesec</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_d11f63b7dc04744053857557ed45666e">razpustu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

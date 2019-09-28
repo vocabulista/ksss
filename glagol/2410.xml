@@ -1,0 +1,29 @@
+<entry>
+  <header>
+    <lexical_unit id="2410">malati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">533</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="malati Aiko" cluster="1" frequency="5" logDice="11.51">
+              <comp position="1" type="headword" sloleks="LE_663afcaee7c1984a52b526e1b98449e1">malati</comp>
+              <comp position="2" type="collocate" sloleks="">Aiko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="La malati" cluster="1" frequency="8" logDice="9.06">
+              <comp position="1" type="collocate" sloleks="">La</comp>
+              <comp position="2" type="headword" sloleks="LE_663afcaee7c1984a52b526e1b98449e1">malati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

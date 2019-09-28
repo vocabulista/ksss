@@ -1,0 +1,48 @@
+<entry>
+  <header>
+    <lexical_unit id="3521695">segmentacija</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="segmentacija trga" cluster="1" frequency="118" logDice="5.98">
+              <comp position="1" type="headword" sloleks="">segmentacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_b735dfd291d0abd31eeabd75c4133487">trga</comp>
+            </collocation>
+            <collocation form="segmentacija stranke" cluster="1" frequency="18" logDice="1.7">
+              <comp position="1" type="headword" sloleks="">segmentacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_945a204a300f28702820c4bc0481d2e7">stranke</comp>
+            </collocation>
+            <collocation form="segmentacija kupca" cluster="2" frequency="21" logDice="4.69">
+              <comp position="1" type="headword" sloleks="">segmentacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_f67c67cd74261bfc3856cde4d273080e">kupca</comp>
+            </collocation>
+            <collocation form="segmentacija uporabnika" cluster="2" frequency="8" logDice="2.8">
+              <comp position="1" type="headword" sloleks="">segmentacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_44d877680022f19ea8b31a268b1a73a4">uporabnika</comp>
+            </collocation>
+            <collocation form="segmentacija potrošnika" cluster="3" frequency="9" logDice="3.64">
+              <comp position="1" type="headword" sloleks="">segmentacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_c561b70765eaddbb13917445607fa534">potrošnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="starosten segmentacija" cluster="1" frequency="21" logDice="4.3">
+              <comp position="1" type="collocate" sloleks="LE_fa1f766a52c4c905b59b26e9cb39e1c6">starosten</comp>
+              <comp position="2" type="headword" sloleks="">segmentacija</comp>
+            </collocation>
+            <collocation form="tržen segmentacija" cluster="2" frequency="9" logDice="1.59">
+              <comp position="1" type="collocate" sloleks="LE_58ac378a96d6828e98bdfa0d068a2b69">tržen</comp>
+              <comp position="2" type="headword" sloleks="">segmentacija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

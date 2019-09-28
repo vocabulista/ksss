@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="69539">mikrokozmos</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">804</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="mikrokozmos družbe" cluster="1" frequency="15" logDice="1.19">
+              <comp position="1" type="headword" sloleks="LE_e6b30fc2ada72f32af8197eceee2105d">mikrokozmos</comp>
+              <comp position="2" type="collocate" sloleks="LE_4d78f38b1eeb8492cae54547d0252bf9">družbe</comp>
+            </collocation>
+            <collocation form="Luč mikrokozmosa" cluster="2" frequency="7" logDice="3.59">
+              <comp position="1" type="collocate" sloleks="LE_961d46a09add5aa60fe89b731a22220a">Luč</comp>
+              <comp position="2" type="headword" sloleks="LE_e6b30fc2ada72f32af8197eceee2105d">mikrokozmosa</comp>
+            </collocation>
+            <collocation form="lepota mikrokozmosa" cluster="3" frequency="5" logDice="3.34">
+              <comp position="1" type="collocate" sloleks="LE_f002bf62f37ec6117ea8586a142e8b93">lepota</comp>
+              <comp position="2" type="headword" sloleks="LE_e6b30fc2ada72f32af8197eceee2105d">mikrokozmosa</comp>
+            </collocation>
+            <collocation form="podoba mikrokozmosa" cluster="4" frequency="5" logDice="1.42">
+              <comp position="1" type="collocate" sloleks="LE_f981a5dcf51e5a8e22672e1d3009ebfe">podoba</comp>
+              <comp position="2" type="headword" sloleks="LE_e6b30fc2ada72f32af8197eceee2105d">mikrokozmosa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="stapljati v mikrokozmos" cluster="1" frequency="4" logDice="10.01">
+              <comp position="1" type="collocate" sloleks="LE_185304b12b4720acf654b20519facec3">stapljati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_e6b30fc2ada72f32af8197eceee2105d">mikrokozmos</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

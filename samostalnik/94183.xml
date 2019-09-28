@@ -1,0 +1,71 @@
+<entry>
+  <header>
+    <lexical_unit id="94183">trip</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">2016</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="trip hopa" cluster="1" frequency="67" logDice="10.98">
+              <comp position="1" type="headword" sloleks="LE_a0986c604fc6917894b381715e3ca272">trip</comp>
+              <comp position="2" type="collocate" sloleks="LE_067d16b2484452b63a687440f50288e6">hopa</comp>
+            </collocation>
+            <collocation form="Road Tripa" cluster="2" frequency="7" logDice="10.37">
+              <comp position="1" type="collocate" sloleks="">Road</comp>
+              <comp position="2" type="headword" sloleks="LE_a0986c604fc6917894b381715e3ca272">Tripa</comp>
+            </collocation>
+            <collocation form="road tripa" cluster="3" frequency="9" logDice="10.19">
+              <comp position="1" type="collocate" sloleks="">road</comp>
+              <comp position="2" type="headword" sloleks="LE_a0986c604fc6917894b381715e3ca272">tripa</comp>
+            </collocation>
+            <collocation form="ego tripa" cluster="4" frequency="9" logDice="8.38">
+              <comp position="1" type="collocate" sloleks="LE_9456d1510d7e3443a0a222c1c68245b3">ego</comp>
+              <comp position="2" type="headword" sloleks="LE_a0986c604fc6917894b381715e3ca272">tripa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz4">
+          <collocations>
+            <collocation form="trip v Benetke" cluster="1" frequency="4" logDice="7.77">
+              <comp position="1" type="headword" sloleks="LE_a0986c604fc6917894b381715e3ca272">trip</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_8c85e6d21865b3b0cc524cf541299343">Benetke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="bristolski trip" cluster="1" frequency="16" logDice="9.59">
+              <comp position="1" type="collocate" sloleks="LE_678dc3958fcd43231d32ce981a0ce3a0">bristolski</comp>
+              <comp position="2" type="headword" sloleks="LE_a0986c604fc6917894b381715e3ca272">trip</comp>
+            </collocation>
+            <collocation form="psihedeličen trip" cluster="2" frequency="8" logDice="7.7">
+              <comp position="1" type="collocate" sloleks="LE_c6415852a47189c4540ba5b6ec33b6ed">psihedeličen</comp>
+              <comp position="2" type="headword" sloleks="LE_a0986c604fc6917894b381715e3ca272">trip</comp>
+            </collocation>
+            <collocation form="enodneven trip" cluster="3" frequency="8" logDice="4.61">
+              <comp position="1" type="collocate" sloleks="LE_b5f18cd3d6fddeba659de1c3232f3da9">enodneven</comp>
+              <comp position="2" type="headword" sloleks="LE_a0986c604fc6917894b381715e3ca272">trip</comp>
+            </collocation>
+            <collocation form="slab trip" cluster="4" frequency="17" logDice="0.72">
+              <comp position="1" type="collocate" sloleks="LE_5da847918e778132f628328cb4ea2ee6">slab</comp>
+              <comp position="2" type="headword" sloleks="LE_a0986c604fc6917894b381715e3ca272">trip</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ4">
+          <collocations>
+            <collocation form="pošta na trip" cluster="1" frequency="14" logDice="7.18">
+              <comp position="1" type="collocate" sloleks="LE_ee712e0ab90cf491d47cce41c9c6a049">pošta</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a0986c604fc6917894b381715e3ca272">trip</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

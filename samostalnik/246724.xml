@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="246724">bloganje</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="bloganje z učencem" cluster="1" frequency="5" logDice="6.18">
+              <comp position="1" type="headword" sloleks="">bloganje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_9201c93d0aff4092142b697b309601b0">učencem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="začeti z bloganje" cluster="1" frequency="5" logDice="1.01">
+              <comp position="1" type="collocate" sloleks="LE_5526be99243d6a70e33b06d3eabd15ae">začeti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="">bloganje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="prednost bloganje" cluster="1" frequency="5" logDice="2.13">
+              <comp position="1" type="collocate" sloleks="LE_2b6030fb5e32724dd65bb3d0f14f9129">prednost</comp>
+              <comp position="2" type="headword" sloleks="">bloganje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

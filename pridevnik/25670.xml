@@ -1,0 +1,62 @@
+<entry>
+  <header>
+    <lexical_unit id="25670">nepoklican</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">825</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nepoklican radovednež" cluster="1" frequency="9" logDice="7.53">
+              <comp position="1" type="headword" sloleks="LE_7d90667c4b76a8c57cb6cf3d58faaafb">nepoklican</comp>
+              <comp position="2" type="collocate" sloleks="LE_71220ecc02442589de517b1bc1979df3">radovednež</comp>
+            </collocation>
+            <collocation form="nepoklicana oseba" cluster="2" frequency="204" logDice="4.88">
+              <comp position="1" type="headword" sloleks="LE_7d90667c4b76a8c57cb6cf3d58faaafb">nepoklicana</comp>
+              <comp position="2" type="collocate" sloleks="LE_5e8793197d1b4e3a6b3f8ae0aa95a812">oseba</comp>
+            </collocation>
+            <collocation form="nepoklican gost" cluster="3" frequency="26" logDice="3.59">
+              <comp position="1" type="headword" sloleks="LE_7d90667c4b76a8c57cb6cf3d58faaafb">nepoklican</comp>
+              <comp position="2" type="collocate" sloleks="LE_e6cee54a176357f6ae4eee7d6ef8c850">gost</comp>
+            </collocation>
+            <collocation form="nepoklican obiskovalec" cluster="3" frequency="24" logDice="4.77">
+              <comp position="1" type="headword" sloleks="LE_7d90667c4b76a8c57cb6cf3d58faaafb">nepoklican</comp>
+              <comp position="2" type="collocate" sloleks="LE_3974f599f2b3fc31c35ea298dce06f1b">obiskovalec</comp>
+            </collocation>
+            <collocation form="nepoklican človek" cluster="3" frequency="15" logDice="0.63">
+              <comp position="1" type="headword" sloleks="LE_7d90667c4b76a8c57cb6cf3d58faaafb">nepoklican</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človek</comp>
+            </collocation>
+            <collocation form="nepoklicano uho" cluster="4" frequency="10" logDice="4.66">
+              <comp position="1" type="headword" sloleks="LE_7d90667c4b76a8c57cb6cf3d58faaafb">nepoklicano</comp>
+              <comp position="2" type="collocate" sloleks="LE_ed81cbe45540a33ca421c25755837659">uho</comp>
+            </collocation>
+            <collocation form="nepoklicane oči" cluster="5" frequency="29" logDice="4.14">
+              <comp position="1" type="headword" sloleks="LE_7d90667c4b76a8c57cb6cf3d58faaafb">nepoklicane</comp>
+              <comp position="2" type="collocate" sloleks="LE_6e683e53145b35a6cbb44ad1188b7a9f|LE_f7836a137770b18301878166ca9f053f">oči</comp>
+            </collocation>
+            <collocation form="nepoklicana roka" cluster="6" frequency="12" logDice="1.98">
+              <comp position="1" type="headword" sloleks="LE_7d90667c4b76a8c57cb6cf3d58faaafb">nepoklicana</comp>
+              <comp position="2" type="collocate" sloleks="LE_5fa1bf1096bd6c7b00158af4c43b33b3">roka</comp>
+            </collocation>
+            <collocation form="nepoklican pogled" cluster="7" frequency="8" logDice="1.62">
+              <comp position="1" type="headword" sloleks="LE_7d90667c4b76a8c57cb6cf3d58faaafb">nepoklican</comp>
+              <comp position="2" type="collocate" sloleks="LE_456820bc1f399479d902f190585f0938">pogled</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="nepoklican in/ali poklican" cluster="1" frequency="43" logDice="12.05">
+              <comp position="3" type="headword" sloleks="LE_7d90667c4b76a8c57cb6cf3d58faaafb">nepoklican</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_14d943296e659cfb15bc2063992c2e4a">poklican</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

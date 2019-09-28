@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="24377">mozoljast</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">403</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="mozoljasta rit" cluster="1" frequency="15" logDice="6.49">
+              <comp position="1" type="headword" sloleks="LE_e00bb724728a873fe81d1acff5de5ed5">mozoljasta</comp>
+              <comp position="2" type="collocate" sloleks="LE_b204b88e2d8c06467e6dce084bb5a60b">rit</comp>
+            </collocation>
+            <collocation form="mozoljasto čelo" cluster="2" frequency="6" logDice="6.32">
+              <comp position="1" type="headword" sloleks="LE_e00bb724728a873fe81d1acff5de5ed5">mozoljasto</comp>
+              <comp position="2" type="collocate" sloleks="LE_147fccc2e88a7c05d0f77ea0d2836189|LE_56159db6b003731c38bcece0e0c0617b">čelo</comp>
+            </collocation>
+            <collocation form="mozoljast najstnik" cluster="3" frequency="10" logDice="6.03">
+              <comp position="1" type="headword" sloleks="LE_e00bb724728a873fe81d1acff5de5ed5">mozoljast</comp>
+              <comp position="2" type="collocate" sloleks="LE_2bb07a3322aac428662c8ca9413b0b4f">najstnik</comp>
+            </collocation>
+            <collocation form="mozoljasta koža" cluster="4" frequency="49" logDice="5.08">
+              <comp position="1" type="headword" sloleks="LE_e00bb724728a873fe81d1acff5de5ed5">mozoljasta</comp>
+              <comp position="2" type="collocate" sloleks="LE_1204dd81b00363a398d5f5a84ff9f358">koža</comp>
+            </collocation>
+            <collocation form="mozoljast obraz" cluster="5" frequency="44" logDice="4.67">
+              <comp position="1" type="headword" sloleks="LE_e00bb724728a873fe81d1acff5de5ed5">mozoljast</comp>
+              <comp position="2" type="collocate" sloleks="LE_ace2f15ed5cc3848b7740939ded1abe9">obraz</comp>
+            </collocation>
+            <collocation form="mozoljast fant" cluster="6" frequency="13" logDice="2.94">
+              <comp position="1" type="headword" sloleks="LE_e00bb724728a873fe81d1acff5de5ed5">mozoljast</comp>
+              <comp position="2" type="collocate" sloleks="LE_cae40615e4597221831328b93d9050a9">fant</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="mozoljast in/ali aknast" cluster="1" frequency="5" logDice="10.71">
+              <comp position="3" type="headword" sloleks="LE_e00bb724728a873fe81d1acff5de5ed5">mozoljast</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_ab83562c15ab8875a4f5ce942b9e31fb">aknast</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

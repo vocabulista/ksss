@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="17206">emancipiran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">705</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="emancipirana ženska" cluster="1" frequency="195" logDice="5.84">
+              <comp position="1" type="headword" sloleks="LE_92612fb5a9744748873f9fdff2a98c55">emancipirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_27b2cafdf8a189c632c32da066af1ce5">ženska</comp>
+            </collocation>
+            <collocation form="emancipiran gledalec" cluster="2" frequency="8" logDice="3.56">
+              <comp position="1" type="headword" sloleks="LE_92612fb5a9744748873f9fdff2a98c55">emancipiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_85e07971e615ac21ed6e5281ab7db6cd">gledalec</comp>
+            </collocation>
+            <collocation form="emancipirana žena" cluster="3" frequency="9" logDice="2.59">
+              <comp position="1" type="headword" sloleks="LE_92612fb5a9744748873f9fdff2a98c55">emancipirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_412b2e672422f341e6f8b4b4f03f0f24">žena</comp>
+            </collocation>
+            <collocation form="emancipiran moški" cluster="4" frequency="10" logDice="2.3">
+              <comp position="1" type="headword" sloleks="LE_92612fb5a9744748873f9fdff2a98c55">emancipiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_25c4075e38aa692c9790c4ffdb7260db">moški</comp>
+            </collocation>
+            <collocation form="emancipirano dekle" cluster="5" frequency="7" logDice="2.03">
+              <comp position="1" type="headword" sloleks="LE_92612fb5a9744748873f9fdff2a98c55">emancipirano</comp>
+              <comp position="2" type="collocate" sloleks="LE_096532181d6bd27207071283d945d14c">dekle</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="emancipiran in/ali svoboden" cluster="1" frequency="6" logDice="5.81">
+              <comp position="3" type="headword" sloleks="LE_92612fb5a9744748873f9fdff2a98c55">emancipiran</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_aa02d7ebb07b69a7552d01f87be5f44c">svoboden</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="preveč emancipiran" cluster="1" frequency="10" logDice="1.6">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_92612fb5a9744748873f9fdff2a98c55">emancipiran</comp>
+            </collocation>
+            <collocation form="bolj emancipiran" cluster="2" frequency="30" logDice="0.61">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_92612fb5a9744748873f9fdff2a98c55">emancipiran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

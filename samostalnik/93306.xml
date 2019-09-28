@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="93306">tiktakanje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">436</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="tiktakanje ure" cluster="1" frequency="222" logDice="7.25">
+              <comp position="1" type="headword" sloleks="LE_8ef4611177ebd6851fe279e55d717678">tiktakanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_77e6b5a072871d299d405565eaad4389">ure</comp>
+            </collocation>
+            <collocation form="tiktakanje bombe" cluster="2" frequency="12" logDice="5.67">
+              <comp position="1" type="headword" sloleks="LE_8ef4611177ebd6851fe279e55d717678">tiktakanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_ad0a118ee959b17e6818f2a99141c2a7">bombe</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="enakomerno tiktakanje" cluster="1" frequency="9" logDice="5.1">
+              <comp position="1" type="collocate" sloleks="LE_93bb50ef1b4c09d58db969cea8596766">enakomerno</comp>
+              <comp position="2" type="headword" sloleks="LE_8ef4611177ebd6851fe279e55d717678">tiktakanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

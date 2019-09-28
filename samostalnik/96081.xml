@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="96081">vetrobran</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">502</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="prednji vetrobran" cluster="1" frequency="14" logDice="3.6">
+              <comp position="1" type="collocate" sloleks="LE_a17ae610093caec9a77af05ff6886465">prednji</comp>
+              <comp position="2" type="headword" sloleks="LE_4fb03b87844b88fac3691d58109e9fa8">vetrobran</comp>
+            </collocation>
+            <collocation form="nastavljiv vetrobran" cluster="1" frequency="8" logDice="5.52">
+              <comp position="1" type="collocate" sloleks="LE_deb2a418290cc8d123640663419a55b2">nastavljiv</comp>
+              <comp position="2" type="headword" sloleks="LE_4fb03b87844b88fac3691d58109e9fa8">vetrobran</comp>
+            </collocation>
+            <collocation form="visok vetrobran" cluster="2" frequency="30" logDice="0.6">
+              <comp position="1" type="collocate" sloleks="LE_4233591f5096276ee0d2cc73b3e78e36">visok</comp>
+              <comp position="2" type="headword" sloleks="LE_4fb03b87844b88fac3691d58109e9fa8">vetrobran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="ogrevanje vetrobrana" cluster="1" frequency="12" logDice="6.11">
+              <comp position="1" type="collocate" sloleks="LE_cbc81690d51d39f194b62fd889409e78">ogrevanje</comp>
+              <comp position="2" type="headword" sloleks="LE_4fb03b87844b88fac3691d58109e9fa8">vetrobrana</comp>
+            </collocation>
+            <collocation form="čiščenje vetrobrana" cluster="2" frequency="5" logDice="2.68">
+              <comp position="1" type="collocate" sloleks="LE_a7f24c46cb9b6a4cef834d73f0207d36">čiščenje</comp>
+              <comp position="2" type="headword" sloleks="LE_4fb03b87844b88fac3691d58109e9fa8">vetrobrana</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ5">
+          <collocations>
+            <collocation form="številka na vetrobranu" cluster="1" frequency="70" logDice="10.05">
+              <comp position="1" type="collocate" sloleks="LE_ebd741e03af85017076d3a5582503217">številka</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4fb03b87844b88fac3691d58109e9fa8">vetrobranu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

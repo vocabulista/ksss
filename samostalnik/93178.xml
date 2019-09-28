@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="93178">tesarstvo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">853</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="ukvarjati s tesarstvom" cluster="1" frequency="9" logDice="1.23">
+              <comp position="1" type="collocate" sloleks="LE_d218d442858c415bdeff018dc056aea9">ukvarjati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_62ac5e98d7db0c350e251bfbe7153507">tesarstvom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="umetnost tesarstva" cluster="1" frequency="255" logDice="9.31">
+              <comp position="1" type="collocate" sloleks="LE_14864f40c4c030e3c6501ecbd0a6f10b">umetnost</comp>
+              <comp position="2" type="headword" sloleks="LE_62ac5e98d7db0c350e251bfbe7153507">tesarstva</comp>
+            </collocation>
+            <collocation form="delavec Tesarstva" cluster="2" frequency="5" logDice="2.28">
+              <comp position="1" type="collocate" sloleks="LE_85630a93aeb01535235f6c83e3750975">delavec</comp>
+              <comp position="2" type="headword" sloleks="LE_62ac5e98d7db0c350e251bfbe7153507">Tesarstva</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="delo v TESARSTVU" cluster="1" frequency="5" logDice="0.89">
+              <comp position="1" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_62ac5e98d7db0c350e251bfbe7153507">TESARSTVU</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

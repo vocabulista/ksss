@@ -1,0 +1,74 @@
+<entry>
+  <header>
+    <lexical_unit id="15037">buržoazen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">791</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="buržoazna revolucija" cluster="1" frequency="66" logDice="6.25">
+              <comp position="1" type="headword" sloleks="LE_256a13e8c171d6cf18ddaebdfd883f42">buržoazna</comp>
+              <comp position="2" type="collocate" sloleks="LE_e10d83d3954e062ebd7ce428679aca2c">revolucija</comp>
+            </collocation>
+            <collocation form="buržoazna ideologija" cluster="2" frequency="19" logDice="5.98">
+              <comp position="1" type="headword" sloleks="LE_256a13e8c171d6cf18ddaebdfd883f42">buržoazna</comp>
+              <comp position="2" type="collocate" sloleks="LE_6e1dfd4393b7b6f99ff465dd30fdde70">ideologija</comp>
+            </collocation>
+            <collocation form="buržoazna demokracija" cluster="3" frequency="19" logDice="4.04">
+              <comp position="1" type="headword" sloleks="LE_256a13e8c171d6cf18ddaebdfd883f42">buržoazna</comp>
+              <comp position="2" type="collocate" sloleks="LE_0a23ea97b7dde4013fd3ea300164d8e4">demokracija</comp>
+            </collocation>
+            <collocation form="buržoazna preteklost" cluster="3" frequency="8" logDice="3.61">
+              <comp position="1" type="headword" sloleks="LE_256a13e8c171d6cf18ddaebdfd883f42">buržoazna</comp>
+              <comp position="2" type="collocate" sloleks="LE_92b3b802fe9baeff25bdd6deafde10ca">preteklost</comp>
+            </collocation>
+            <collocation form="buržoazna kultura" cluster="3" frequency="7" logDice="1.36">
+              <comp position="1" type="headword" sloleks="LE_256a13e8c171d6cf18ddaebdfd883f42">buržoazna</comp>
+              <comp position="2" type="collocate" sloleks="LE_4edc5c7069eb1ef7bd3436cfbffaee8a">kultura</comp>
+            </collocation>
+            <collocation form="buržoazna družba" cluster="4" frequency="42" logDice="1.75">
+              <comp position="1" type="headword" sloleks="LE_256a13e8c171d6cf18ddaebdfd883f42">buržoazna</comp>
+              <comp position="2" type="collocate" sloleks="LE_4d78f38b1eeb8492cae54547d0252bf9">družba</comp>
+            </collocation>
+            <collocation form="buržoazna država" cluster="4" frequency="22" logDice="0.61">
+              <comp position="1" type="headword" sloleks="LE_256a13e8c171d6cf18ddaebdfd883f42">buržoazna</comp>
+              <comp position="2" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">država</comp>
+            </collocation>
+            <collocation form="buržoazna družina" cluster="4" frequency="21" logDice="2.22">
+              <comp position="1" type="headword" sloleks="LE_256a13e8c171d6cf18ddaebdfd883f42">buržoazna</comp>
+              <comp position="2" type="collocate" sloleks="LE_9a7d912c8ec5a6cbc42d2975b5563b34">družina</comp>
+            </collocation>
+            <collocation form="buržoazna lastnina" cluster="5" frequency="8" logDice="3.41">
+              <comp position="1" type="headword" sloleks="LE_256a13e8c171d6cf18ddaebdfd883f42">buržoazna</comp>
+              <comp position="2" type="collocate" sloleks="LE_edbfa2bb0cac32b027d58689151965a1">lastnina</comp>
+            </collocation>
+            <collocation form="buržoazen element" cluster="6" frequency="9" logDice="2.11">
+              <comp position="1" type="headword" sloleks="LE_256a13e8c171d6cf18ddaebdfd883f42">buržoazen</comp>
+              <comp position="2" type="collocate" sloleks="LE_e6d5b239f6648336b94efcc51407108c">element</comp>
+            </collocation>
+            <collocation form="buržoazen tip" cluster="6" frequency="6" logDice="2.44">
+              <comp position="1" type="headword" sloleks="LE_256a13e8c171d6cf18ddaebdfd883f42">buržoazen</comp>
+              <comp position="2" type="collocate" sloleks="LE_8caa7f32790a1c710809c10a30d8579f">tip</comp>
+            </collocation>
+            <collocation form="buržoazen razred" cluster="7" frequency="14" logDice="2.15">
+              <comp position="1" type="headword" sloleks="LE_256a13e8c171d6cf18ddaebdfd883f42">buržoazen</comp>
+              <comp position="2" type="collocate" sloleks="LE_9e5978e647d0b1b5c8f6b7a8a17b952a">razred</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="buržoazen in/ali aristokratski" cluster="1" frequency="6" logDice="10.45">
+              <comp position="3" type="headword" sloleks="LE_256a13e8c171d6cf18ddaebdfd883f42">buržoazen</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_a5776a118deb9f6b507082db3441b33b">aristokratski</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

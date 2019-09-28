@@ -1,0 +1,75 @@
+<entry>
+  <header>
+    <lexical_unit id="22570">lektorski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">408</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="lektorska opomba" cluster="1" frequency="7" logDice="6.55">
+              <comp position="1" type="headword" sloleks="LE_bd8ee9d05a4b22f33edc8ac4cf9dcb54">lektorska</comp>
+              <comp position="2" type="collocate" sloleks="LE_8903c953ed1d420016edb431cb74f3b6">opomba</comp>
+            </collocation>
+            <collocation form="lektorski popravek" cluster="2" frequency="27" logDice="6.07">
+              <comp position="1" type="headword" sloleks="LE_bd8ee9d05a4b22f33edc8ac4cf9dcb54">lektorski</comp>
+              <comp position="2" type="collocate" sloleks="LE_b404865213d0d91b65f6bfd524215d8f">popravek</comp>
+            </collocation>
+            <collocation form="lektorska služba" cluster="3" frequency="15" logDice="0.72">
+              <comp position="1" type="headword" sloleks="LE_bd8ee9d05a4b22f33edc8ac4cf9dcb54">lektorska</comp>
+              <comp position="2" type="collocate" sloleks="LE_595a77ebd11b27d069e3829b663f2954">služba</comp>
+            </collocation>
+            <collocation form="lektorska storitev" cluster="3" frequency="7" logDice="0.93">
+              <comp position="1" type="headword" sloleks="LE_bd8ee9d05a4b22f33edc8ac4cf9dcb54">lektorska</comp>
+              <comp position="2" type="collocate" sloleks="LE_abb14230c15d4fd66a15377c1ed699a9">storitev</comp>
+            </collocation>
+            <collocation form="lektorska vaja" cluster="4" frequency="64" logDice="5.74">
+              <comp position="1" type="headword" sloleks="LE_bd8ee9d05a4b22f33edc8ac4cf9dcb54">lektorska</comp>
+              <comp position="2" type="collocate" sloleks="LE_6e477d94a905db5ae833309ca1b97dc6">vaja</comp>
+            </collocation>
+            <collocation form="lektorski poseg" cluster="5" frequency="21" logDice="3.59">
+              <comp position="1" type="headword" sloleks="LE_bd8ee9d05a4b22f33edc8ac4cf9dcb54">lektorski</comp>
+              <comp position="2" type="collocate" sloleks="LE_beb682ab085ea21d29d7513eeee202da">poseg</comp>
+            </collocation>
+            <collocation form="lektorski pregled" cluster="5" frequency="7" logDice="1.3">
+              <comp position="1" type="headword" sloleks="LE_bd8ee9d05a4b22f33edc8ac4cf9dcb54">lektorski</comp>
+              <comp position="2" type="collocate" sloleks="LE_f84d3e1b7c509859312a86eee2d89a39">pregled</comp>
+            </collocation>
+            <collocation form="lektorsko društvo" cluster="6" frequency="13" logDice="0.94">
+              <comp position="1" type="headword" sloleks="LE_bd8ee9d05a4b22f33edc8ac4cf9dcb54">lektorsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_f1fd3c17e2206150a5ab762769b6e8ff">društvo</comp>
+            </collocation>
+            <collocation form="lektorsko vodstvo" cluster="6" frequency="7" logDice="1.82">
+              <comp position="1" type="headword" sloleks="LE_bd8ee9d05a4b22f33edc8ac4cf9dcb54">lektorsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_cfbf3b6eda6e115103a1a0b3fa68f541">vodstvo</comp>
+            </collocation>
+            <collocation form="lektorsko delo" cluster="7" frequency="47" logDice="1.2">
+              <comp position="1" type="headword" sloleks="LE_bd8ee9d05a4b22f33edc8ac4cf9dcb54">lektorsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+            </collocation>
+            <collocation form="lektorska napaka" cluster="8" frequency="6" logDice="1.11">
+              <comp position="1" type="headword" sloleks="LE_bd8ee9d05a4b22f33edc8ac4cf9dcb54">lektorska</comp>
+              <comp position="2" type="collocate" sloleks="LE_062a179ee1410808218c093ac1a7b38b">napaka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="lektorski in/ali prevajalski" cluster="1" frequency="8" logDice="10.0">
+              <comp position="3" type="headword" sloleks="LE_bd8ee9d05a4b22f33edc8ac4cf9dcb54">lektorski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_99d7492c93d75b70a66526f2da1b2b0b">prevajalski</comp>
+              </collocation>
+            <collocation form="lektorski in/ali uredniški" cluster="2" frequency="7" logDice="8.42">
+              <comp position="3" type="headword" sloleks="LE_bd8ee9d05a4b22f33edc8ac4cf9dcb54">lektorski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_0ed69ae160838dc467a6416cc130830e">uredniški</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

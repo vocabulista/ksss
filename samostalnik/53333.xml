@@ -1,0 +1,83 @@
+<entry>
+  <header>
+    <lexical_unit id="53333">difuzor</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">712</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="difuzor iz vlakna" cluster="1" frequency="5" logDice="6.42">
+              <comp position="1" type="headword" sloleks="LE_db28f0b9e75ef7d17d70613f45b165a2">difuzor</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_131dee53f1d3af52b45a6b3a25f3fa3c">vlakna</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="difuzor za zajem" cluster="1" frequency="4" logDice="7.45">
+              <comp position="1" type="headword" sloleks="LE_db28f0b9e75ef7d17d70613f45b165a2">difuzor</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_bd0bec46c0b5c56fd3bd42ea7229d4b7">zajem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="prilepiti na difuzor" cluster="1" frequency="4" logDice="5.12">
+              <comp position="1" type="collocate" sloleks="LE_4c6b7e61d9220cb1d15526e38ade7a87">prilepiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_db28f0b9e75ef7d17d70613f45b165a2">difuzor</comp>
+            </collocation>
+            <collocation form="spominjati na difuzor" cluster="2" frequency="5" logDice="2.08">
+              <comp position="1" type="collocate" sloleks="LE_6603ad1029276f94b229575ed982defa">spominjati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_db28f0b9e75ef7d17d70613f45b165a2">difuzor</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="končati z difuzorjem" cluster="1" frequency="4" logDice="1.7">
+              <comp position="1" type="collocate" sloleks="LE_bff8ada88a0327f702f1df18714e8d4a">končati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_db28f0b9e75ef7d17d70613f45b165a2">difuzorjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="vgrajen difuzor" cluster="1" frequency="12" logDice="3.42">
+              <comp position="1" type="collocate" sloleks="LE_652476893ee8f4b62d36d99bebf65065">vgrajen</comp>
+              <comp position="2" type="headword" sloleks="LE_db28f0b9e75ef7d17d70613f45b165a2">difuzor</comp>
+            </collocation>
+            <collocation form="zračen difuzor" cluster="2" frequency="12" logDice="2.88">
+              <comp position="1" type="collocate" sloleks="LE_8d463fa1874dfbc033b7a3e2339d1897|LE_d7a174c7533253cd7434ffe60e5c2465">zračen</comp>
+              <comp position="2" type="headword" sloleks="LE_db28f0b9e75ef7d17d70613f45b165a2">difuzor</comp>
+            </collocation>
+            <collocation form="zadnji difuzor" cluster="3" frequency="55" logDice="0.72">
+              <comp position="1" type="collocate" sloleks="LE_91601e3363ebbfa5c134315888532266">zadnji</comp>
+              <comp position="2" type="headword" sloleks="LE_db28f0b9e75ef7d17d70613f45b165a2">difuzor</comp>
+            </collocation>
+            <collocation form="sporen difuzor" cluster="3" frequency="12" logDice="2.7">
+              <comp position="1" type="collocate" sloleks="LE_3b4bf8c1f0afe5178c97e011b64f9055">sporen</comp>
+              <comp position="2" type="headword" sloleks="LE_db28f0b9e75ef7d17d70613f45b165a2">difuzor</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="odbijač z difuzorjem" cluster="1" frequency="11" logDice="10.22">
+              <comp position="1" type="collocate" sloleks="LE_a340e1bb6bb63cc0e9299e1e76e8f260">odbijač</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_db28f0b9e75ef7d17d70613f45b165a2">difuzorjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

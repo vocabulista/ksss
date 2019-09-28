@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="27241">omahljiv</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">445</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="omahljiva drža" cluster="1" frequency="6" logDice="3.31">
+              <comp position="1" type="headword" sloleks="LE_5f24049f45888048c43cafc3d933f082">omahljiva</comp>
+              <comp position="2" type="collocate" sloleks="LE_2edaef329e1c67ebac6959ae8e84e00b">drža</comp>
+            </collocation>
+            <collocation form="omahljiv značaj" cluster="2" frequency="7" logDice="2.38">
+              <comp position="1" type="headword" sloleks="LE_5f24049f45888048c43cafc3d933f082">omahljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_ab872cffbe0ed20a2ab147374bc895bd">značaj</comp>
+            </collocation>
+            <collocation form="omahljiva politika" cluster="3" frequency="14" logDice="0.83">
+              <comp position="1" type="headword" sloleks="LE_5f24049f45888048c43cafc3d933f082">omahljiva</comp>
+              <comp position="2" type="collocate" sloleks="LE_d48e3236c14022f821882e8943749375">politika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="omahljiv in/ali neodločen" cluster="1" frequency="12" logDice="9.44">
+              <comp position="3" type="headword" sloleks="LE_5f24049f45888048c43cafc3d933f082">omahljiv</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_c16347c5fa83a997ed87df74efeac67e|LE_88cc72e79d283a3595a9d360f95b9c9d">neodločen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="preveč omahljiv" cluster="1" frequency="13" logDice="1.98">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_5f24049f45888048c43cafc3d933f082">omahljiv</comp>
+            </collocation>
+            <collocation form="nekoliko omahljiv" cluster="2" frequency="7" logDice="0.96">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_5f24049f45888048c43cafc3d933f082">omahljiv</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

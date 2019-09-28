@@ -1,0 +1,31 @@
+<entry>
+  <header>
+    <lexical_unit id="387">bajati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">632</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="bajati na polotoku" cluster="1" frequency="5" logDice="6.3">
+              <comp position="1" type="headword" sloleks="LE_cb75678f563a8757acd3aae813c0e7a6">bajati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_f4df629f0bacfadf20af3ab90f187f06">polotoku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="bajati v državi" cluster="1" frequency="10" logDice="2.2">
+              <comp position="1" type="headword" sloleks="LE_cb75678f563a8757acd3aae813c0e7a6">bajati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">državi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

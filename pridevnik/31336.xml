@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="31336">proslavljen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">575</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="proslavljen as" cluster="1" frequency="6" logDice="4.02">
+              <comp position="1" type="headword" sloleks="LE_7b4600041ccb7c3fd5aff150e4da0ff9">proslavljen</comp>
+              <comp position="2" type="collocate" sloleks="LE_e7b2cdc51f3872167a5573b1f9d2b5c2">as</comp>
+            </collocation>
+            <collocation form="proslavljen režiser" cluster="2" frequency="16" logDice="3.86">
+              <comp position="1" type="headword" sloleks="LE_7b4600041ccb7c3fd5aff150e4da0ff9">proslavljen</comp>
+              <comp position="2" type="collocate" sloleks="LE_b4d1a81ae7b709a90cdf636c311ecb3b">režiser</comp>
+            </collocation>
+            <collocation form="proslavljen umetnik" cluster="2" frequency="7" logDice="2.19">
+              <comp position="1" type="headword" sloleks="LE_7b4600041ccb7c3fd5aff150e4da0ff9">proslavljen</comp>
+              <comp position="2" type="collocate" sloleks="LE_1522687da468eb28c5117c272b82cb55">umetnik</comp>
+            </collocation>
+            <collocation form="proslavljen trener" cluster="3" frequency="10" logDice="2.02">
+              <comp position="1" type="headword" sloleks="LE_7b4600041ccb7c3fd5aff150e4da0ff9">proslavljen</comp>
+              <comp position="2" type="collocate" sloleks="LE_5269bc580e9a4f0ecfae9c1dd766c01a">trener</comp>
+            </collocation>
+            <collocation form="proslavljeno ime" cluster="4" frequency="10" logDice="1.27">
+              <comp position="1" type="headword" sloleks="LE_7b4600041ccb7c3fd5aff150e4da0ff9">proslavljeno</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">ime</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="nekoč proslavljen" cluster="1" frequency="5" logDice="2.77">
+              <comp position="1" type="collocate" sloleks="LE_60179edcbf14353a50c5821b3f1a56ef">nekoč</comp>
+              <comp position="2" type="headword" sloleks="LE_7b4600041ccb7c3fd5aff150e4da0ff9">proslavljen</comp>
+            </collocation>
+            <collocation form="najbolj proslavljen" cluster="2" frequency="35" logDice="0.86">
+              <comp position="1" type="collocate" sloleks="LE_72b2a3522865b723e8c26b8ade696fca">najbolj</comp>
+              <comp position="2" type="headword" sloleks="LE_7b4600041ccb7c3fd5aff150e4da0ff9">proslavljen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

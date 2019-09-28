@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="91300">stavec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">683</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="izučiti za stavca" cluster="1" frequency="4" logDice="6.69">
+              <comp position="1" type="collocate" sloleks="LE_4498b4cebaf458584a77552802662855">izučiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_8c35864e1a09dc414ccb60243f827843">stavca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="strojen stavec" cluster="1" frequency="18" logDice="4.17">
+              <comp position="1" type="collocate" sloleks="LE_b6df37cdb3400df332f75d8961d3a75d|LE_f4f69318cd217cc4fb6c5667b1d38751">strojen</comp>
+              <comp position="2" type="headword" sloleks="LE_8c35864e1a09dc414ccb60243f827843">stavec</comp>
+            </collocation>
+            <collocation form="ročen stavec" cluster="2" frequency="22" logDice="3.86">
+              <comp position="1" type="collocate" sloleks="LE_80a39f11b955c7aa0d74335e7b6c0fcd">ročen</comp>
+              <comp position="2" type="headword" sloleks="LE_8c35864e1a09dc414ccb60243f827843">stavec</comp>
+            </collocation>
+            <collocation form="profesionalen stavec" cluster="3" frequency="8" logDice="2.6">
+              <comp position="1" type="collocate" sloleks="LE_aac9726f22dc82ca3f89a0b3cf2193f6">profesionalen</comp>
+              <comp position="2" type="headword" sloleks="LE_8c35864e1a09dc414ccb60243f827843">stavec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

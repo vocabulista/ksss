@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="13939">banketen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">401</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="banketna dvorana" cluster="1" frequency="273" logDice="5.81">
+              <comp position="1" type="headword" sloleks="LE_228cd0d59b4b3a7a4980548ce8e50da8">banketna</comp>
+              <comp position="2" type="collocate" sloleks="LE_d64c66af1b698f149c6831679980b777">dvorana</comp>
+            </collocation>
+            <collocation form="banketen meni" cluster="2" frequency="6" logDice="5.58">
+              <comp position="1" type="headword" sloleks="LE_228cd0d59b4b3a7a4980548ce8e50da8">banketen</comp>
+              <comp position="2" type="collocate" sloleks="LE_48fedb033900144a77be5703b42cf559">meni</comp>
+            </collocation>
+            <collocation form="banketna miza" cluster="3" frequency="24" logDice="3.34">
+              <comp position="1" type="headword" sloleks="LE_228cd0d59b4b3a7a4980548ce8e50da8">banketna</comp>
+              <comp position="2" type="collocate" sloleks="LE_f04e4cc44cf7497b038fc5fc1fd3eb30">miza</comp>
+            </collocation>
+            <collocation form="banketen salon" cluster="4" frequency="6" logDice="2.18">
+              <comp position="1" type="headword" sloleks="LE_228cd0d59b4b3a7a4980548ce8e50da8">banketen</comp>
+              <comp position="2" type="collocate" sloleks="LE_fe14531050d45fb5d7d5b63a4a43c633">salon</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

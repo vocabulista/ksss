@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="20828">karnijski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">439</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="karnijski in julijski" cluster="1" frequency="27" logDice="10.9">
+              <comp position="1" type="headword" sloleks="LE_4e3537b682669156483a05d3af1e585e">karnijski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_7e8a7a6b36579498d614b21685992da2">julijski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="karnijski alpe" cluster="1" frequency="31" logDice="10.47">
+              <comp position="1" type="headword" sloleks="LE_4e3537b682669156483a05d3af1e585e">karnijski</comp>
+              <comp position="2" type="collocate" sloleks="">alpe</comp>
+            </collocation>
+            <collocation form="karnijske Alpe" cluster="2" frequency="296" logDice="9.5">
+              <comp position="1" type="headword" sloleks="LE_4e3537b682669156483a05d3af1e585e">karnijske</comp>
+              <comp position="2" type="collocate" sloleks="LE_103f8e3fe7ea18760c1defbecfb66d63">Alpe</comp>
+            </collocation>
+            <collocation form="karnijsko potepanje" cluster="3" frequency="14" logDice="7.41">
+              <comp position="1" type="headword" sloleks="LE_4e3537b682669156483a05d3af1e585e">karnijsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_0d0ecb92ea8c369cd5696372a4eebac3">potepanje</comp>
+            </collocation>
+            <collocation form="karnijska gora" cluster="4" frequency="12" logDice="1.65">
+              <comp position="1" type="headword" sloleks="LE_4e3537b682669156483a05d3af1e585e">karnijska</comp>
+              <comp position="2" type="collocate" sloleks="LE_8faa372c7e81e800eb88188ec3f5cde9">gora</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

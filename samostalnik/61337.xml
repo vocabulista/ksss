@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="61337">izpraševalec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">645</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pooblaščen izpraševalec" cluster="1" frequency="14" logDice="4.25">
+              <comp position="1" type="collocate" sloleks="LE_3e5451ce4cb8379a6703360cdfeb6582">pooblaščen</comp>
+              <comp position="2" type="headword" sloleks="LE_bb7784de54667ceb772af6a600df6af2">izpraševalec</comp>
+            </collocation>
+            <collocation form="strog izpraševalec" cluster="2" frequency="9" logDice="2.83">
+              <comp position="1" type="collocate" sloleks="LE_40bd25348898b98473b73a66ae29d736">strog</comp>
+              <comp position="2" type="headword" sloleks="LE_bb7784de54667ceb772af6a600df6af2">izpraševalec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="pogovor izpraševalca" cluster="1" frequency="5" logDice="4.68">
+              <comp position="1" type="collocate" sloleks="LE_4d397baebd70f7228e28d943e00294e3">pogovor</comp>
+              <comp position="2" type="headword" sloleks="LE_bb7784de54667ceb772af6a600df6af2">izpraševalca</comp>
+            </collocation>
+            <collocation form="predlog izpraševalca" cluster="2" frequency="39" logDice="2.82">
+              <comp position="1" type="collocate" sloleks="LE_32ddbbc939261949e07545f599a96666">predlog</comp>
+              <comp position="2" type="headword" sloleks="LE_bb7784de54667ceb772af6a600df6af2">izpraševalca</comp>
+            </collocation>
+            <collocation form="vloga izpraševalca" cluster="3" frequency="18" logDice="2.23">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_bb7784de54667ceb772af6a600df6af2">izpraševalca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="dogovor z izpraševalcem" cluster="1" frequency="6" logDice="3.65">
+              <comp position="1" type="collocate" sloleks="LE_46887c5eb5e3e088095d5a7a3f7d66ea">dogovor</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_bb7784de54667ceb772af6a600df6af2">izpraševalcem</comp>
+            </collocation>
+            <collocation form="pogovor z izpraševalcem" cluster="2" frequency="5" logDice="1.61">
+              <comp position="1" type="collocate" sloleks="LE_4d397baebd70f7228e28d943e00294e3">pogovor</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_bb7784de54667ceb772af6a600df6af2">izpraševalcem</comp>
+            </collocation>
+            <collocation form="izpraševalec s kandidatom" cluster="3" frequency="4" logDice="5.83">
+              <comp position="1" type="headword" sloleks="LE_bb7784de54667ceb772af6a600df6af2">izpraševalec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_376ba6d3c5a122c91472298aa2feeaf6">kandidatom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

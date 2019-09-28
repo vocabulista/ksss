@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="52076">črkopis</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">457</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="latiničen črkopis" cluster="1" frequency="9" logDice="9.8">
+              <comp position="1" type="collocate" sloleks="LE_5ad2174505e8915b4eb53d77187fdf5e">latiničen</comp>
+              <comp position="2" type="headword" sloleks="LE_aaafda34c9428de537fc3795d36e60ee">črkopis</comp>
+            </collocation>
+            <collocation form="slovanski črkopis" cluster="2" frequency="9" logDice="4.72">
+              <comp position="1" type="collocate" sloleks="LE_b7ac4cfe40b33842ca5f48e4dc29cd4e">slovanski</comp>
+              <comp position="2" type="headword" sloleks="LE_aaafda34c9428de537fc3795d36e60ee">črkopis</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="reforma črkopisa" cluster="1" frequency="5" logDice="3.23">
+              <comp position="1" type="collocate" sloleks="LE_6c1f1ffef5dbc88a133cc16ff63c5b81">reforma</comp>
+              <comp position="2" type="headword" sloleks="LE_aaafda34c9428de537fc3795d36e60ee">črkopisa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="zapis v črkopisu" cluster="1" frequency="5" logDice="5.59">
+              <comp position="1" type="collocate" sloleks="LE_5704e85d99cff0223ab5caec7b19dc4c">zapis</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_aaafda34c9428de537fc3795d36e60ee">črkopisu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

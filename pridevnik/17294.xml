@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="17294">enoizmenski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">771</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="enoizmenski pouk" cluster="1" frequency="304" logDice="9.06">
+              <comp position="1" type="headword" sloleks="LE_fd0e982cfa5fff8704412b5e3bbd60d1">enoizmenski</comp>
+              <comp position="2" type="collocate" sloleks="LE_dde1178c0f1874d5d84f51e66bdb04ee">pouk</comp>
+            </collocation>
+            <collocation form="enoizmensko delo" cluster="2" frequency="378" logDice="4.2">
+              <comp position="1" type="headword" sloleks="LE_fd0e982cfa5fff8704412b5e3bbd60d1">enoizmensko</comp>
+              <comp position="2" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="Skupaj enoizmenski" cluster="1" frequency="28" logDice="5.82">
+              <comp position="1" type="collocate" sloleks="LE_6b2c35f4f994f6854f5f57d777267a77">Skupaj</comp>
+              <comp position="2" type="headword" sloleks="LE_fd0e982cfa5fff8704412b5e3bbd60d1">enoizmenski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="39443">župen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">910</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="župen zavetnik" cluster="1" frequency="20" logDice="8.42">
+              <comp position="1" type="headword" sloleks="LE_75fadd9259bcd81961f6f5e7fbf7b397">župen</comp>
+              <comp position="2" type="collocate" sloleks="LE_da9ddf814821bcb0ab1bfc1d24526ae8">zavetnik</comp>
+            </collocation>
+            <collocation form="župna nadarbina" cluster="2" frequency="9" logDice="8.35">
+              <comp position="1" type="headword" sloleks="LE_75fadd9259bcd81961f6f5e7fbf7b397">župna</comp>
+              <comp position="2" type="collocate" sloleks="LE_d4a569eefe38d3fbf22574084122f8bf">nadarbina</comp>
+            </collocation>
+            <collocation form="župna cerkev" cluster="3" frequency="699" logDice="7.8">
+              <comp position="1" type="headword" sloleks="LE_75fadd9259bcd81961f6f5e7fbf7b397">župna</comp>
+              <comp position="2" type="collocate" sloleks="LE_71364d2c460f04c8b1dbbb72e4901dca">cerkev</comp>
+            </collocation>
+            <collocation form="župen upravitelj" cluster="4" frequency="35" logDice="6.19">
+              <comp position="1" type="headword" sloleks="LE_75fadd9259bcd81961f6f5e7fbf7b397">župen</comp>
+              <comp position="2" type="collocate" sloleks="LE_52f0f455a91dc30e597b4242495b0f48">upravitelj</comp>
+            </collocation>
+            <collocation form="župen urad" cluster="5" frequency="15" logDice="2.89">
+              <comp position="1" type="headword" sloleks="LE_75fadd9259bcd81961f6f5e7fbf7b397">župen</comp>
+              <comp position="2" type="collocate" sloleks="LE_b4dd3f87e9bdfa5ee33d22f2c1685678">urad</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

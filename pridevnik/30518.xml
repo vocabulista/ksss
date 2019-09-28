@@ -1,0 +1,77 @@
+<entry>
+  <header>
+    <lexical_unit id="30518">preobložen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">461</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="preobložen stok" cluster="1" frequency="14" logDice="9.73">
+              <comp position="1" type="headword" sloleks="LE_8adcf54896b35da3d1013950c3ff30b5">preobložen</comp>
+              <comp position="2" type="collocate" sloleks="LE_f956dc42f95084a98bd445ed8fe6003f">stok</comp>
+            </collocation>
+            <collocation form="preobložena trta" cluster="2" frequency="9" logDice="4.75">
+              <comp position="1" type="headword" sloleks="LE_8adcf54896b35da3d1013950c3ff30b5">preobložena</comp>
+              <comp position="2" type="collocate" sloleks="LE_9cfc67f2a3f2a0e947fcdf566d4e7c40">trta</comp>
+            </collocation>
+            <collocation form="preobložen krožnik" cluster="3" frequency="7" logDice="4.68">
+              <comp position="1" type="headword" sloleks="LE_8adcf54896b35da3d1013950c3ff30b5">preobložen</comp>
+              <comp position="2" type="collocate" sloleks="LE_e8b1cca7997b9b0c3bd5a6282ada9623">krožnik</comp>
+            </collocation>
+            <collocation form="preobložena polica" cluster="4" frequency="11" logDice="3.94">
+              <comp position="1" type="headword" sloleks="LE_8adcf54896b35da3d1013950c3ff30b5">preobložena</comp>
+              <comp position="2" type="collocate" sloleks="LE_e4ac3c64d714498678e90a03a52bb3f4">polica</comp>
+            </collocation>
+            <collocation form="preobložena miza" cluster="5" frequency="32" logDice="3.76">
+              <comp position="1" type="headword" sloleks="LE_8adcf54896b35da3d1013950c3ff30b5">preobložena</comp>
+              <comp position="2" type="collocate" sloleks="LE_f04e4cc44cf7497b038fc5fc1fd3eb30">miza</comp>
+            </collocation>
+            <collocation form="preobložena veja" cluster="6" frequency="9" logDice="3.66">
+              <comp position="1" type="headword" sloleks="LE_8adcf54896b35da3d1013950c3ff30b5">preobložena</comp>
+              <comp position="2" type="collocate" sloleks="LE_3b64510c2ce1abbe1a994ff032f9ea0b">veja</comp>
+            </collocation>
+            <collocation form="preobložena metoda" cluster="7" frequency="10" logDice="2.47">
+              <comp position="1" type="headword" sloleks="LE_8adcf54896b35da3d1013950c3ff30b5">preobložena</comp>
+              <comp position="2" type="collocate" sloleks="LE_675bb3300eebea6ea6f395eade13fc2c">metoda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 z sbz6">
+          <collocations>
+            <collocation form="preobložen s stereotipom" cluster="1" frequency="4" logDice="9.32">
+              <comp position="1" type="headword" sloleks="LE_8adcf54896b35da3d1013950c3ff30b5">preobložen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_7e6cc9cc91c0fec072176ca0275fcdc6">stereotipom</comp>
+            </collocation>
+            <collocation form="preobložen s pomenom" cluster="2" frequency="5" logDice="8.87">
+              <comp position="1" type="headword" sloleks="LE_8adcf54896b35da3d1013950c3ff30b5">preobložen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_ef93d9cf9ab8a9c0f3eb6d73736a9dba">pomenom</comp>
+            </collocation>
+            <collocation form="preobložen z dokumentom" cluster="3" frequency="4" logDice="7.84">
+              <comp position="1" type="headword" sloleks="LE_8adcf54896b35da3d1013950c3ff30b5">preobložen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_bdaf11a6fa87a4547d55a132f603581b">dokumentom</comp>
+            </collocation>
+            <collocation form="preobložen z delom" cluster="4" frequency="13" logDice="6.01">
+              <comp position="1" type="headword" sloleks="LE_8adcf54896b35da3d1013950c3ff30b5">preobložen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="dobesedno preobložen" cluster="1" frequency="5" logDice="4.99">
+              <comp position="1" type="collocate" sloleks="LE_bffec2e3c44400c319dff55bd9852452">dobesedno</comp>
+              <comp position="2" type="headword" sloleks="LE_8adcf54896b35da3d1013950c3ff30b5">preobložen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

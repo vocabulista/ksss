@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="88422">shranitev</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">414</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="shranitev listine" cluster="1" frequency="13" logDice="4.84">
+              <comp position="1" type="headword" sloleks="LE_b0b55ec94c84cfa394a55c907518a6e0">shranitev</comp>
+              <comp position="2" type="collocate" sloleks="LE_0f00bcc0dbcfb2817d7361cffc885fc0">listine</comp>
+            </collocation>
+            <collocation form="shranitev datoteke" cluster="2" frequency="9" logDice="4.03">
+              <comp position="1" type="headword" sloleks="LE_b0b55ec94c84cfa394a55c907518a6e0">shranitev</comp>
+              <comp position="2" type="collocate" sloleks="LE_23fb42e55ba237b993af12a69060bb7f">datoteke</comp>
+            </collocation>
+            <collocation form="shranitev spremembe" cluster="3" frequency="13" logDice="3.08">
+              <comp position="1" type="headword" sloleks="LE_b0b55ec94c84cfa394a55c907518a6e0">shranitev</comp>
+              <comp position="2" type="collocate" sloleks="LE_43a3bb7510833003ff85626ef9cc9915">spremembe</comp>
+            </collocation>
+            <collocation form="shranitev podatka" cluster="3" frequency="13" logDice="1.54">
+              <comp position="1" type="headword" sloleks="LE_b0b55ec94c84cfa394a55c907518a6e0">shranitev</comp>
+              <comp position="2" type="collocate" sloleks="LE_dceff032dbcde0be8f54f9dd068c8f74">podatka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="shranitev v obliki" cluster="1" frequency="113" logDice="6.03">
+              <comp position="1" type="headword" sloleks="LE_b0b55ec94c84cfa394a55c907518a6e0">shranitev</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">obliki</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="uporabljati za shranitev" cluster="1" frequency="4" logDice="1.87">
+              <comp position="1" type="collocate" sloleks="LE_7a8b477802781e8149004a2a769c51c1">uporabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_b0b55ec94c84cfa394a55c907518a6e0">shranitev</comp>
+            </collocation>
+            <collocation form="odločiti za shranitev" cluster="2" frequency="4" logDice="0.14">
+              <comp position="1" type="collocate" sloleks="LE_1849ab807e0602a0ae7fa9a648251d4b">odločiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_b0b55ec94c84cfa394a55c907518a6e0">shranitev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="prostor za shranitev" cluster="1" frequency="5" logDice="1.52">
+              <comp position="1" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostor</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_b0b55ec94c84cfa394a55c907518a6e0">shranitev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

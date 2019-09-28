@@ -1,0 +1,74 @@
+<entry>
+  <header>
+    <lexical_unit id="19898">izobčen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">775</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 iz sbz2">
+          <collocations>
+            <collocation form="izobčen iz Cerkve" cluster="1" frequency="20" logDice="11.75">
+              <comp position="1" type="headword" sloleks="LE_a32a9bc0ff96740da3f0e2c41382c5eb">izobčen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_71364d2c460f04c8b1dbbb72e4901dca">Cerkve</comp>
+            </collocation>
+            <collocation form="izobčen iz skupnosti" cluster="2" frequency="13" logDice="10.86">
+              <comp position="1" type="headword" sloleks="LE_a32a9bc0ff96740da3f0e2c41382c5eb">izobčen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_a54e3d34cf1afe3eafb013c4eaa4f477">skupnosti</comp>
+            </collocation>
+            <collocation form="izobčen iz družbe" cluster="3" frequency="15" logDice="9.82">
+              <comp position="1" type="headword" sloleks="LE_a32a9bc0ff96740da3f0e2c41382c5eb">izobčen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_4d78f38b1eeb8492cae54547d0252bf9">družbe</comp>
+            </collocation>
+            <collocation form="izobčen iz življenja" cluster="4" frequency="8" logDice="9.06">
+              <comp position="1" type="headword" sloleks="LE_a32a9bc0ff96740da3f0e2c41382c5eb">izobčen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_b7a6a2019becc6510edb8591e171b0a7">življenja</comp>
+            </collocation>
+            <collocation form="izobčen iz družine" cluster="5" frequency="4" logDice="8.06">
+              <comp position="1" type="headword" sloleks="LE_a32a9bc0ff96740da3f0e2c41382c5eb">izobčen</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_9a7d912c8ec5a6cbc42d2975b5563b34">družine</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="izobčen duhovnik" cluster="1" frequency="14" logDice="4.87">
+              <comp position="1" type="headword" sloleks="LE_a32a9bc0ff96740da3f0e2c41382c5eb">izobčen</comp>
+              <comp position="2" type="collocate" sloleks="LE_0f0838f94d15e317d4786e329589aa2e">duhovnik</comp>
+            </collocation>
+            <collocation form="izobčen konj" cluster="2" frequency="8" logDice="3.12">
+              <comp position="1" type="headword" sloleks="LE_a32a9bc0ff96740da3f0e2c41382c5eb">izobčen</comp>
+              <comp position="2" type="collocate" sloleks="LE_a528e2f2e480d48407f95d45a8edfe7c">konj</comp>
+            </collocation>
+            <collocation form="izobčen član" cluster="3" frequency="10" logDice="1.31">
+              <comp position="1" type="headword" sloleks="LE_a32a9bc0ff96740da3f0e2c41382c5eb">izobčen</comp>
+              <comp position="2" type="collocate" sloleks="LE_39d3a6c0cb58c4df843632f14f2543d3">član</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="socialno izobčen" cluster="1" frequency="11" logDice="4.58">
+              <comp position="1" type="collocate" sloleks="LE_18bfdf50c6b7395e76e487657932a63e">socialno</comp>
+              <comp position="2" type="headword" sloleks="LE_a32a9bc0ff96740da3f0e2c41382c5eb">izobčen</comp>
+            </collocation>
+            <collocation form="mednarodno izobčen" cluster="2" frequency="8" logDice="4.19">
+              <comp position="1" type="collocate" sloleks="LE_90159d5411e0c61bce694bdf9264a152">mednarodno</comp>
+              <comp position="2" type="headword" sloleks="LE_a32a9bc0ff96740da3f0e2c41382c5eb">izobčen</comp>
+            </collocation>
+            <collocation form="rekoč izobčen" cluster="3" frequency="5" logDice="3.45">
+              <comp position="1" type="collocate" sloleks="LE_ebe36e072129b4f73209c9a9f3355a31">rekoč</comp>
+              <comp position="2" type="headword" sloleks="LE_a32a9bc0ff96740da3f0e2c41382c5eb">izobčen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

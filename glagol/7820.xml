@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="7820">rigati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">464</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="rigati v prestolnici" cluster="1" frequency="10" logDice="4.47">
+              <comp position="1" type="headword" sloleks="LE_0dc91232375eee16c0a83a01b42cc279">rigati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_6b8e1df638207469f9789d0440ba1540">prestolnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="glasno rigati" cluster="1" frequency="12" logDice="4.25">
+              <comp position="1" type="collocate" sloleks="LE_8d32e8ffef5c2d930893f51f039b425a">glasno</comp>
+              <comp position="2" type="headword" sloleks="LE_0dc91232375eee16c0a83a01b42cc279">rigati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

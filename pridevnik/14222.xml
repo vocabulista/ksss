@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="14222">betežen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">605</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="betežen starček" cluster="1" frequency="24" logDice="9.06">
+              <comp position="1" type="headword" sloleks="LE_4fd2631e729606186db89809612f7993">betežen</comp>
+              <comp position="2" type="collocate" sloleks="LE_1f1ad44f316cccf1ca92a7cca5848636">starček</comp>
+            </collocation>
+            <collocation form="betežen starec" cluster="1" frequency="18" logDice="7.66">
+              <comp position="1" type="headword" sloleks="LE_4fd2631e729606186db89809612f7993">betežen</comp>
+              <comp position="2" type="collocate" sloleks="LE_fe6cbc9611537e2dc58e41f463b8a309">starec</comp>
+            </collocation>
+            <collocation form="betežna starka" cluster="2" frequency="8" logDice="7.5">
+              <comp position="1" type="headword" sloleks="LE_4fd2631e729606186db89809612f7993">betežna</comp>
+              <comp position="2" type="collocate" sloleks="LE_d27fa718bbff5c706472117e20b8b42c">starka</comp>
+            </collocation>
+            <collocation form="betežna starost" cluster="3" frequency="7" logDice="3.29">
+              <comp position="1" type="headword" sloleks="LE_4fd2631e729606186db89809612f7993">betežna</comp>
+              <comp position="2" type="collocate" sloleks="LE_7d59fd6c3305dbfdb676367a1e942d44">starost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="betežen in/ali star" cluster="1" frequency="74" logDice="6.54">
+              <comp position="3" type="headword" sloleks="LE_4fd2631e729606186db89809612f7993">betežen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_a60139f10427cd234d823ade0ac648c8">star</comp>
+              </collocation>
+            <collocation form="betežen in/ali bolan" cluster="2" frequency="14" logDice="6.54">
+              <comp position="3" type="headword" sloleks="LE_4fd2631e729606186db89809612f7993">betežen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_12f3c0d081dfc8a8c68f6cfbbd4f2c30">bolan</comp>
+              </collocation>
+            <collocation form="betežen in/ali reven" cluster="3" frequency="8" logDice="5.67">
+              <comp position="3" type="headword" sloleks="LE_4fd2631e729606186db89809612f7993">betežen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_3602df2804cd4a7e1a840b97a5f95254">reven</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="precej betežen" cluster="1" frequency="9" logDice="0.5">
+              <comp position="1" type="collocate" sloleks="LE_e0671a56c827200d0ebc033694e6214b">precej</comp>
+              <comp position="2" type="headword" sloleks="LE_4fd2631e729606186db89809612f7993">betežen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

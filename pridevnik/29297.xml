@@ -1,0 +1,74 @@
+<entry>
+  <header>
+    <lexical_unit id="29297">polpretekel</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">3437</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="polpretekla zgodovina" cluster="1" frequency="2568" logDice="9.79">
+              <comp position="1" type="headword" sloleks="LE_176d558409f0a292cf438f4453d5ea6a">polpretekla</comp>
+              <comp position="2" type="collocate" sloleks="LE_b2dc0e37e23a16ae3fe7cfe473a5341b">zgodovina</comp>
+            </collocation>
+            <collocation form="polpretekla doba" cluster="1" frequency="174" logDice="5.54">
+              <comp position="1" type="headword" sloleks="LE_176d558409f0a292cf438f4453d5ea6a">polpretekla</comp>
+              <comp position="2" type="collocate" sloleks="LE_de90dd1327fca7d794058c6493fad6f6">doba</comp>
+            </collocation>
+            <collocation form="polpreteklo obdobje" cluster="2" frequency="148" logDice="4.63">
+              <comp position="1" type="headword" sloleks="LE_176d558409f0a292cf438f4453d5ea6a">polpreteklo</comp>
+              <comp position="2" type="collocate" sloleks="LE_498f5ebac18d9460a9f193249cd7f0bc">obdobje</comp>
+            </collocation>
+            <collocation form="polpreteklo dogajanje" cluster="3" frequency="35" logDice="4.25">
+              <comp position="1" type="headword" sloleks="LE_176d558409f0a292cf438f4453d5ea6a">polpreteklo</comp>
+              <comp position="2" type="collocate" sloleks="LE_074089eeaa23c9e20e21a161e79f6956">dogajanje</comp>
+            </collocation>
+            <collocation form="polpretekel čas" cluster="4" frequency="120" logDice="2.63">
+              <comp position="1" type="headword" sloleks="LE_176d558409f0a292cf438f4453d5ea6a">polpretekel</comp>
+              <comp position="2" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">čas</comp>
+            </collocation>
+            <collocation form="polpretekel režim" cluster="5" frequency="8" logDice="2.28">
+              <comp position="1" type="headword" sloleks="LE_176d558409f0a292cf438f4453d5ea6a">polpretekel</comp>
+              <comp position="2" type="collocate" sloleks="LE_82bdd0685736288f0c05938d899998c5">režim</comp>
+            </collocation>
+            <collocation form="polpretekel dogodek" cluster="6" frequency="26" logDice="2.27">
+              <comp position="1" type="headword" sloleks="LE_176d558409f0a292cf438f4453d5ea6a">polpretekel</comp>
+              <comp position="2" type="collocate" sloleks="LE_4ebf7faa63d583a7c8baa57987b0f3bf">dogodek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="polpretekel in/ali pretekel" cluster="1" frequency="39" logDice="10.19">
+              <comp position="3" type="headword" sloleks="LE_176d558409f0a292cf438f4453d5ea6a">polpretekel</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_7e85de7ea634a6a2b15879c270709459">pretekel</comp>
+              </collocation>
+            <collocation form="polpretekel in/ali invaliden" cluster="2" frequency="5" logDice="7.81">
+              <comp position="3" type="headword" sloleks="LE_176d558409f0a292cf438f4453d5ea6a">polpretekel</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_c9166e246d23e7c9463ecadf62210ab1">invaliden</comp>
+              </collocation>
+            <collocation form="polpretekel in/ali sodoben" cluster="3" frequency="27" logDice="7.17">
+              <comp position="3" type="headword" sloleks="LE_176d558409f0a292cf438f4453d5ea6a">polpretekel</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_cac6ed684ec953de897ea1c45efb640b">sodoben</comp>
+              </collocation>
+            <collocation form="polpretekel in/ali aktualen" cluster="3" frequency="7" logDice="6.47">
+              <comp position="3" type="headword" sloleks="LE_176d558409f0a292cf438f4453d5ea6a">polpretekel</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_dbb17d69edbed33f53d0586c54c36922">aktualen</comp>
+              </collocation>
+            <collocation form="polpretekel in sedanji" cluster="4" frequency="14" logDice="6.03">
+              <comp position="1" type="headword" sloleks="LE_176d558409f0a292cf438f4453d5ea6a">polpretekel</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_deed9694cf13ddeba89b181f10251ba4">sedanji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="86832">rožiček</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">403</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="ržen rožiček" cluster="1" frequency="94" logDice="10.38">
+              <comp position="1" type="collocate" sloleks="LE_4c69a0c0f7ef89978c96b226255981c8">ržen</comp>
+              <comp position="2" type="headword" sloleks="LE_3b00973508968f64796a4f092b23d0c2">rožiček</comp>
+            </collocation>
+            <collocation form="hudičev rožiček" cluster="2" frequency="8" logDice="5.7">
+              <comp position="1" type="collocate" sloleks="LE_106395db856bd09d0ca307813bf6dae0">hudičev</comp>
+              <comp position="2" type="headword" sloleks="LE_3b00973508968f64796a4f092b23d0c2">rožiček</comp>
+            </collocation>
+            <collocation form="značilen rožiček" cluster="3" frequency="9" logDice="2.37">
+              <comp position="1" type="collocate" sloleks="LE_d8eb3ebee84215090028a473fe20e5b1">značilen</comp>
+              <comp position="2" type="headword" sloleks="LE_3b00973508968f64796a4f092b23d0c2">rožiček</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="izvleček iz rožička" cluster="1" frequency="5" logDice="6.62">
+              <comp position="1" type="collocate" sloleks="LE_2dcaa6687e6dd1684b7b48b94e9f7f76">izvleček</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_3b00973508968f64796a4f092b23d0c2">rožička</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="zastrupitev z rožičkom" cluster="1" frequency="24" logDice="7.85">
+              <comp position="1" type="collocate" sloleks="LE_8673b58582f3961865f27e9835cdeae7">zastrupitev</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_3b00973508968f64796a4f092b23d0c2">rožičkom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

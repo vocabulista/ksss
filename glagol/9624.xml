@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="9624">zajecljati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">899</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="zajecljati v zadregi" cluster="1" frequency="12" logDice="6.55">
+              <comp position="1" type="headword" sloleks="LE_b06187465116447b1d38557278268d3c">zajecljati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_5843bd0df2eba11381ffd00b5ec4460b">zadregi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="zajecljati z glasom" cluster="1" frequency="4" logDice="3.23">
+              <comp position="1" type="headword" sloleks="LE_b06187465116447b1d38557278268d3c">zajecljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_bdaf56c7a9eddd2562b11c97c0770037">glasom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="prestrašeno zajecljati" cluster="1" frequency="9" logDice="7.57">
+              <comp position="1" type="collocate" sloleks="">prestrašeno</comp>
+              <comp position="2" type="headword" sloleks="LE_b06187465116447b1d38557278268d3c">zajecljati</comp>
+            </collocation>
+            <collocation form="presenečeno zajecljati" cluster="2" frequency="6" logDice="6.02">
+              <comp position="1" type="collocate" sloleks="LE_74249ba85191eff0b7c12b3f7cf39b97">presenečeno</comp>
+              <comp position="2" type="headword" sloleks="LE_b06187465116447b1d38557278268d3c">zajecljati</comp>
+            </collocation>
+            <collocation form="zaskrbljeno zajecljati" cluster="3" frequency="4" logDice="5.56">
+              <comp position="1" type="collocate" sloleks="">zaskrbljeno</comp>
+              <comp position="2" type="headword" sloleks="LE_b06187465116447b1d38557278268d3c">zajecljati</comp>
+            </collocation>
+            <collocation form="sem zajecljati" cluster="4" frequency="4" logDice="3.5">
+              <comp position="1" type="collocate" sloleks="LE_de17dc058996787f29ef6f0b8a242900">sem</comp>
+              <comp position="2" type="headword" sloleks="LE_b06187465116447b1d38557278268d3c">zajecljati</comp>
+            </collocation>
+            <collocation form="nekaj zajecljati" cluster="5" frequency="10" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_eb511b2a8ca41b887db9b389e9bd0591">nekaj</comp>
+              <comp position="2" type="headword" sloleks="LE_b06187465116447b1d38557278268d3c">zajecljati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

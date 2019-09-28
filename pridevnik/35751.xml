@@ -1,0 +1,57 @@
+<entry>
+  <header>
+    <lexical_unit id="35751">teatrski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">757</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="teatrska predstava" cluster="1" frequency="26" logDice="2.91">
+              <comp position="1" type="headword" sloleks="LE_53890fd60912b577d17c34a683d2da9e">teatrska</comp>
+              <comp position="2" type="collocate" sloleks="LE_d9b3b0d634fe5397b484fa7a2db17b0c">predstava</comp>
+            </collocation>
+            <collocation form="teatrska akcija" cluster="1" frequency="22" logDice="2.4">
+              <comp position="1" type="headword" sloleks="LE_53890fd60912b577d17c34a683d2da9e">teatrska</comp>
+              <comp position="2" type="collocate" sloleks="LE_c6314b87ee5075309a505f26f656ecbd">akcija</comp>
+            </collocation>
+            <collocation form="teatrska produkcija" cluster="2" frequency="7" logDice="2.88">
+              <comp position="1" type="headword" sloleks="LE_53890fd60912b577d17c34a683d2da9e">teatrska</comp>
+              <comp position="2" type="collocate" sloleks="LE_830f59f0cae7c4f9a81bab95e64865bf">produkcija</comp>
+            </collocation>
+            <collocation form="teatrska scena" cluster="2" frequency="7" logDice="1.74">
+              <comp position="1" type="headword" sloleks="LE_53890fd60912b577d17c34a683d2da9e">teatrska</comp>
+              <comp position="2" type="collocate" sloleks="LE_b36c7cac8ddfc37cb3e05f6c9ef7339d">scena</comp>
+            </collocation>
+            <collocation form="teatrsko dogajanje" cluster="3" frequency="8" logDice="2.18">
+              <comp position="1" type="headword" sloleks="LE_53890fd60912b577d17c34a683d2da9e">teatrsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_074089eeaa23c9e20e21a161e79f6956">dogajanje</comp>
+            </collocation>
+            <collocation form="teatrska tradicija" cluster="4" frequency="7" logDice="2.15">
+              <comp position="1" type="headword" sloleks="LE_53890fd60912b577d17c34a683d2da9e">teatrska</comp>
+              <comp position="2" type="collocate" sloleks="LE_63e5f2295991fadfefa5bf96986c210c">tradicija</comp>
+            </collocation>
+            <collocation form="teatrski učinek" cluster="5" frequency="6" logDice="0.83">
+              <comp position="1" type="headword" sloleks="LE_53890fd60912b577d17c34a683d2da9e">teatrski</comp>
+              <comp position="2" type="collocate" sloleks="LE_2353cab56c2f4b095b8ea704f5199db8">učinek</comp>
+            </collocation>
+            <collocation form="teatrski festival" cluster="6" frequency="6" logDice="0.79">
+              <comp position="1" type="headword" sloleks="LE_53890fd60912b577d17c34a683d2da9e">teatrski</comp>
+              <comp position="2" type="collocate" sloleks="LE_ced9627635c10e3958ee72069937f6bf">festival</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="preveč teatrski" cluster="1" frequency="5" logDice="0.61">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_53890fd60912b577d17c34a683d2da9e">teatrski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

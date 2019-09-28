@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="88966">sklanjanje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">445</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 nad sbz6">
+          <collocations>
+            <collocation form="sklanjanje nad mizo" cluster="1" frequency="5" logDice="8.98">
+              <comp position="1" type="headword" sloleks="LE_4b42c3a701886c177a25b817a7ea1df2">sklanjanje</comp>
+              <comp position="2" type="other" sloleks="LE_d1a9059d44a24194d17af34039c48e9a">nad</comp>
+              <comp position="3" type="collocate" sloleks="LE_f04e4cc44cf7497b038fc5fc1fd3eb30">mizo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="sklanjanje samostalnika" cluster="1" frequency="11" logDice="9.64">
+              <comp position="1" type="headword" sloleks="LE_4b42c3a701886c177a25b817a7ea1df2">sklanjanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_ce59c129af8b9b83b992aabceba780f4">samostalnika</comp>
+            </collocation>
+            <collocation form="sklanjanje glave" cluster="2" frequency="23" logDice="5.35">
+              <comp position="1" type="headword" sloleks="LE_4b42c3a701886c177a25b817a7ea1df2">sklanjanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_49f28ed22f8b4f55f12b45ad1b95d3b0">glave</comp>
+            </collocation>
+            <collocation form="sklanjanje imena" cluster="3" frequency="30" logDice="5.14">
+              <comp position="1" type="headword" sloleks="LE_4b42c3a701886c177a25b817a7ea1df2">sklanjanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">imena</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pogosto sklanjanje" cluster="1" frequency="12" logDice="2.66">
+              <comp position="1" type="collocate" sloleks="LE_2ecdf1445e4b8c64b8108c40b9b0a1d1">pogosto</comp>
+              <comp position="2" type="headword" sloleks="LE_4b42c3a701886c177a25b817a7ea1df2">sklanjanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="52013">coprnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1007</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="coprnica s Slivnice" cluster="1" frequency="9" logDice="12.49">
+              <comp position="1" type="headword" sloleks="LE_4eadaece3513f1c80e14819b73edcce4">coprnica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_85b5fa250ea522ffce83eeb4f66987ca">Slivnice</comp>
+            </collocation>
+            <collocation form="coprnica s Kleka" cluster="2" frequency="5" logDice="12.03">
+              <comp position="1" type="headword" sloleks="LE_4eadaece3513f1c80e14819b73edcce4">coprnica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f118f51be2b574ee01a3f77cf4853f">Kleka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="slivniška coprnica" cluster="1" frequency="21" logDice="9.5">
+              <comp position="1" type="collocate" sloleks="LE_05d9f1adcb38f71bb1e626daea6cebb5">slivniška</comp>
+              <comp position="2" type="headword" sloleks="LE_4eadaece3513f1c80e14819b73edcce4">coprnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="rodbina coprnice" cluster="1" frequency="5" logDice="7.95">
+              <comp position="1" type="collocate" sloleks="LE_a64ab13087097f11533109f5a13f8104">rodbina</comp>
+              <comp position="2" type="headword" sloleks="LE_4eadaece3513f1c80e14819b73edcce4">coprnice</comp>
+            </collocation>
+            <collocation form="Poklic coprnice" cluster="2" frequency="25" logDice="6.84">
+              <comp position="1" type="collocate" sloleks="LE_ee2dc2f20fc3eba609ef788b9cb08df4">Poklic</comp>
+              <comp position="2" type="headword" sloleks="LE_4eadaece3513f1c80e14819b73edcce4">coprnice</comp>
+            </collocation>
+            <collocation form="zbirališče coprnice" cluster="3" frequency="7" logDice="6.4">
+              <comp position="1" type="collocate" sloleks="LE_f20bbc0b6c007da4655349191c66d4f5">zbirališče</comp>
+              <comp position="2" type="headword" sloleks="LE_4eadaece3513f1c80e14819b73edcce4">coprnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,63 @@
+<entry>
+  <header>
+    <lexical_unit id="38104">vzgojiteljski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">947</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="vzgojiteljska šola" cluster="1" frequency="551" logDice="5.18">
+              <comp position="1" type="headword" sloleks="LE_708abda08fa1b86bade578eb104f9dbd">vzgojiteljska</comp>
+              <comp position="2" type="collocate" sloleks="LE_9c664dac39a3cc920d3849a80fadafa1">šola</comp>
+            </collocation>
+            <collocation form="vzgojiteljski poklic" cluster="2" frequency="23" logDice="4.55">
+              <comp position="1" type="headword" sloleks="LE_708abda08fa1b86bade578eb104f9dbd">vzgojiteljski</comp>
+              <comp position="2" type="collocate" sloleks="LE_ee2dc2f20fc3eba609ef788b9cb08df4">poklic</comp>
+            </collocation>
+            <collocation form="vzgojiteljski kader" cluster="3" frequency="23" logDice="4.31">
+              <comp position="1" type="headword" sloleks="LE_708abda08fa1b86bade578eb104f9dbd">vzgojiteljski</comp>
+              <comp position="2" type="collocate" sloleks="LE_2e9ed57db0c68b0c5da51f81da8df56b">kader</comp>
+            </collocation>
+            <collocation form="vzgojiteljski zbor" cluster="4" frequency="134" logDice="3.8">
+              <comp position="1" type="headword" sloleks="LE_708abda08fa1b86bade578eb104f9dbd">vzgojiteljski</comp>
+              <comp position="2" type="collocate" sloleks="LE_56ae41b6d71148e851cdd275624be8f4">zbor</comp>
+            </collocation>
+            <collocation form="vzgojiteljska smer" cluster="5" frequency="7" logDice="1.86">
+              <comp position="1" type="headword" sloleks="LE_708abda08fa1b86bade578eb104f9dbd">vzgojiteljska</comp>
+              <comp position="2" type="collocate" sloleks="LE_85882917927d0a985cbee54691f45223">smer</comp>
+            </collocation>
+            <collocation form="vzgojiteljski par" cluster="6" frequency="6" logDice="1.6">
+              <comp position="1" type="headword" sloleks="LE_708abda08fa1b86bade578eb104f9dbd">vzgojiteljski</comp>
+              <comp position="2" type="collocate" sloleks="LE_dd28036b83c065c8e73341fe9c8f68f5">par</comp>
+            </collocation>
+            <collocation form="vzgojiteljsko društvo" cluster="7" frequency="12" logDice="0.82">
+              <comp position="1" type="headword" sloleks="LE_708abda08fa1b86bade578eb104f9dbd">vzgojiteljsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_f1fd3c17e2206150a5ab762769b6e8ff">društvo</comp>
+            </collocation>
+            <collocation form="vzgojiteljska vloga" cluster="8" frequency="10" logDice="0.82">
+              <comp position="1" type="headword" sloleks="LE_708abda08fa1b86bade578eb104f9dbd">vzgojiteljska</comp>
+              <comp position="2" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="vzgojiteljski in/ali učiteljski" cluster="1" frequency="47" logDice="12.49">
+              <comp position="3" type="headword" sloleks="LE_708abda08fa1b86bade578eb104f9dbd">vzgojiteljski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_9ceb3ef6253648cab7d488bd83a67e45">učiteljski</comp>
+              </collocation>
+            <collocation form="vzgojiteljski in tekstilen" cluster="2" frequency="6" logDice="6.4">
+              <comp position="1" type="headword" sloleks="LE_708abda08fa1b86bade578eb104f9dbd">vzgojiteljski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_199ea79796098f3e2c86f06f9dba774d">tekstilen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

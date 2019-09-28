@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="27410">opredmeten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1114</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="opredmeten in neopredmeten" cluster="1" frequency="75" logDice="13.75">
+              <comp position="1" type="headword" sloleks="LE_e037c3feced3ccb770fc9105db230083">opredmeten</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_748e80863ef0ca0d153200b3452f341f">neopredmeten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="opredmeteno sredstvo" cluster="1" frequency="857" logDice="6.85">
+              <comp position="1" type="headword" sloleks="LE_e037c3feced3ccb770fc9105db230083">opredmeteno</comp>
+              <comp position="2" type="collocate" sloleks="LE_94c4f4cf5104632466509789b5cde032">sredstvo</comp>
+            </collocation>
+            <collocation form="opredmetena dediščina" cluster="2" frequency="45" logDice="4.18">
+              <comp position="1" type="headword" sloleks="LE_e037c3feced3ccb770fc9105db230083">opredmetena</comp>
+              <comp position="2" type="collocate" sloleks="LE_b2e5547918cfecfb0dafd87858879913">dediščina</comp>
+            </collocation>
+            <collocation form="opredmetena oblika" cluster="3" frequency="16" logDice="1.36">
+              <comp position="1" type="headword" sloleks="LE_e037c3feced3ccb770fc9105db230083">opredmetena</comp>
+              <comp position="2" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">oblika</comp>
+            </collocation>
+            <collocation form="opredmetena stvar" cluster="3" frequency="10" logDice="1.36">
+              <comp position="1" type="headword" sloleks="LE_e037c3feced3ccb770fc9105db230083">opredmetena</comp>
+              <comp position="2" type="collocate" sloleks="LE_c62e36388a9104c47cf960cd4bdf4ca3">stvar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

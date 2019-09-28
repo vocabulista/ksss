@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="62868">kanja</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">981</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Kanja iz toplice" cluster="1" frequency="34" logDice="9.5">
+              <comp position="1" type="headword" sloleks="LE_5eb615ad061e63511a23d4ca4b8744b6">Kanja</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_cd283a4d5d926e225d1d194f7fbcb1b7">toplice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="koconoga kanja" cluster="1" frequency="8" logDice="10.27">
+              <comp position="1" type="collocate" sloleks="LE_e094f0cce5ae26f7b72fce96f593d80f">koconoga</comp>
+              <comp position="2" type="headword" sloleks="LE_5eb615ad061e63511a23d4ca4b8744b6">kanja</comp>
+            </collocation>
+            <collocation form="rjasta kanja" cluster="2" frequency="8" logDice="9.12">
+              <comp position="1" type="collocate" sloleks="LE_8ab4ce7da18e9189fa7b2bf0f7a9dbf6">rjasta</comp>
+              <comp position="2" type="headword" sloleks="LE_5eb615ad061e63511a23d4ca4b8744b6">kanja</comp>
+            </collocation>
+            <collocation form="navadna kanja" cluster="3" frequency="9" logDice="1.89">
+              <comp position="1" type="collocate" sloleks="LE_f59369d8b37702c03d2e6f31cbe3f5d8">navadna</comp>
+              <comp position="2" type="headword" sloleks="LE_5eb615ad061e63511a23d4ca4b8744b6">kanja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="padalec Kanje" cluster="1" frequency="6" logDice="8.96">
+              <comp position="1" type="collocate" sloleks="LE_3455d5ff47a69f473a3c1da6ad45f4f9">padalec</comp>
+              <comp position="2" type="headword" sloleks="LE_5eb615ad061e63511a23d4ca4b8744b6">Kanje</comp>
+            </collocation>
+            <collocation form="ekipa Kanje" cluster="2" frequency="5" logDice="1.23">
+              <comp position="1" type="collocate" sloleks="LE_b9e9e733fb718cd2faed16b97326064f">ekipa</comp>
+              <comp position="2" type="headword" sloleks="LE_5eb615ad061e63511a23d4ca4b8744b6">Kanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

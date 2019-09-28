@@ -1,0 +1,83 @@
+<entry>
+  <header>
+    <lexical_unit id="26761">obvladujoč</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">798</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="obvladujoča družba" cluster="1" frequency="531" logDice="5.41">
+              <comp position="1" type="headword" sloleks="LE_fa8a23085a11d968d52d151c54b45c4f">obvladujoča</comp>
+              <comp position="2" type="collocate" sloleks="LE_4d78f38b1eeb8492cae54547d0252bf9">družba</comp>
+            </collocation>
+            <collocation form="obvladujoča oseba" cluster="1" frequency="15" logDice="1.11">
+              <comp position="1" type="headword" sloleks="LE_fa8a23085a11d968d52d151c54b45c4f">obvladujoča</comp>
+              <comp position="2" type="collocate" sloleks="LE_5e8793197d1b4e3a6b3f8ae0aa95a812">oseba</comp>
+            </collocation>
+            <collocation form="obvladujoča banka" cluster="1" frequency="9" logDice="0.52">
+              <comp position="1" type="headword" sloleks="LE_fa8a23085a11d968d52d151c54b45c4f">obvladujoča</comp>
+              <comp position="2" type="collocate" sloleks="LE_efdb4fed18a2b60ac11282627b28fcfc">banka</comp>
+            </collocation>
+            <collocation form="obvladujoča lastnica" cluster="2" frequency="9" logDice="4.59">
+              <comp position="1" type="headword" sloleks="LE_fa8a23085a11d968d52d151c54b45c4f">obvladujoča</comp>
+              <comp position="2" type="collocate" sloleks="LE_d39f02c17da134a0c9e790b480bdedf0">lastnica</comp>
+            </collocation>
+            <collocation form="obvladujoč lastnik" cluster="3" frequency="15" logDice="2.39">
+              <comp position="1" type="headword" sloleks="LE_fa8a23085a11d968d52d151c54b45c4f">obvladujoč</comp>
+              <comp position="2" type="collocate" sloleks="LE_66c7de1ac3f03dd18265b3091c93bdc0">lastnik</comp>
+            </collocation>
+            <collocation form="obvladujoč položaj" cluster="4" frequency="27" logDice="2.36">
+              <comp position="1" type="headword" sloleks="LE_fa8a23085a11d968d52d151c54b45c4f">obvladujoč</comp>
+              <comp position="2" type="collocate" sloleks="LE_0227904f3ee297f8f6c33b433ba96e65">položaj</comp>
+            </collocation>
+            <collocation form="obvladujoč delež" cluster="4" frequency="24" logDice="2.31">
+              <comp position="1" type="headword" sloleks="LE_fa8a23085a11d968d52d151c54b45c4f">obvladujoč</comp>
+              <comp position="2" type="collocate" sloleks="LE_8f8dbfe55e81431b97506b6dc95f9da4">delež</comp>
+            </collocation>
+            <collocation form="obvladujoč vpliv" cluster="4" frequency="8" logDice="1.9">
+              <comp position="1" type="headword" sloleks="LE_fa8a23085a11d968d52d151c54b45c4f">obvladujoč</comp>
+              <comp position="2" type="collocate" sloleks="LE_4dac044878c71472e44f21dc0e9220c2">vpliv</comp>
+            </collocation>
+            <collocation form="obvladujoče podjetje" cluster="5" frequency="39" logDice="1.6">
+              <comp position="1" type="headword" sloleks="LE_fa8a23085a11d968d52d151c54b45c4f">obvladujoče</comp>
+              <comp position="2" type="collocate" sloleks="LE_1aed870e4b1c077c155d34b01ab0af57">podjetje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="obvladujoč in/ali monopolen" cluster="1" frequency="8" logDice="10.46">
+              <comp position="3" type="headword" sloleks="LE_fa8a23085a11d968d52d151c54b45c4f">obvladujoč</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_88685830c5f0baa545eb0c42f3bbb0a3">monopolen</comp>
+              </collocation>
+            <collocation form="obvladujoč in/ali odvisen" cluster="2" frequency="25" logDice="9.33">
+              <comp position="3" type="headword" sloleks="LE_fa8a23085a11d968d52d151c54b45c4f">obvladujoč</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_54a31c5172f1f3780d126b8a2e13a017">odvisen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="domnevno obvladujoč" cluster="1" frequency="7" logDice="4.11">
+              <comp position="1" type="collocate" sloleks="LE_572e4c538c89a5c6c9a8546f11edca04">domnevno</comp>
+              <comp position="2" type="headword" sloleks="LE_fa8a23085a11d968d52d151c54b45c4f">obvladujoč</comp>
+            </collocation>
+            <collocation form="neposredno obvladujoč" cluster="2" frequency="6" logDice="3.62">
+              <comp position="1" type="collocate" sloleks="LE_f4baee16770b9414bad0fbf607024105">neposredno</comp>
+              <comp position="2" type="headword" sloleks="LE_fa8a23085a11d968d52d151c54b45c4f">obvladujoč</comp>
+            </collocation>
+            <collocation form="vse obvladujoč" cluster="3" frequency="9" logDice="1.21">
+              <comp position="1" type="collocate" sloleks="LE_69e1f6ea0eba690182112fa5f7865561">vse</comp>
+              <comp position="2" type="headword" sloleks="LE_fa8a23085a11d968d52d151c54b45c4f">obvladujoč</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

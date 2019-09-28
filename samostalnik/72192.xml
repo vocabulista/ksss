@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="72192">nekrolog</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">647</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="zapisati v nekrologu" cluster="1" frequency="6" logDice="3.15">
+              <comp position="1" type="collocate" sloleks="LE_c6de090644261696188a3ce198fb6cca">zapisati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_7c1e52fd84c00ff1a153cddd1cd937d8">nekrologu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="pisec nekrologa" cluster="1" frequency="19" logDice="5.63">
+              <comp position="1" type="collocate" sloleks="LE_4a4531092bb89ce30858f250ea1f2719">pisec</comp>
+              <comp position="2" type="headword" sloleks="LE_7c1e52fd84c00ff1a153cddd1cd937d8">nekrologa</comp>
+            </collocation>
+            <collocation form="pisanje nekrologa" cluster="2" frequency="12" logDice="3.75">
+              <comp position="1" type="collocate" sloleks="LE_2912249b30c6b1558ad720acc5a049dc">pisanje</comp>
+              <comp position="2" type="headword" sloleks="LE_7c1e52fd84c00ff1a153cddd1cd937d8">nekrologa</comp>
+            </collocation>
+            <collocation form="objava nekrologa" cluster="3" frequency="5" logDice="2.03">
+              <comp position="1" type="collocate" sloleks="LE_310d9afc4d8e7202a42ccfda4ceb91c8">objava</comp>
+              <comp position="2" type="headword" sloleks="LE_7c1e52fd84c00ff1a153cddd1cd937d8">nekrologa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

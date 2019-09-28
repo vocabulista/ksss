@@ -1,0 +1,62 @@
+<entry>
+  <header>
+    <lexical_unit id="31826">rastel</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">753</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 kot sbz0">
+          <collocations>
+            <collocation form="rastel kot goba" cluster="1" frequency="10" logDice="7.26">
+              <comp position="1" type="headword" sloleks="LE_fd63a25daac78cdb2089359f26e2c995">rastel</comp>
+              <comp position="2" type="other" sloleks="LE_feac626fa40a7cc8a4394d667b7dd8a4">kot</comp>
+              <comp position="3" type="collocate" sloleks="LE_dc2d358f092d2c7900b38042ccd576f3">goba</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 rbz">
+          <collocations>
+            <collocation form="rastel hitro" cluster="1" frequency="12" logDice="6.64">
+              <comp position="1" type="headword" sloleks="LE_fd63a25daac78cdb2089359f26e2c995">rastel</comp>
+              <comp position="2" type="collocate" sloleks="LE_cb95fbdb78349dad33e3d99ea7f281a8">hitro</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="rastla goba" cluster="1" frequency="13" logDice="5.5">
+              <comp position="1" type="headword" sloleks="LE_fd63a25daac78cdb2089359f26e2c995">rastla</comp>
+              <comp position="2" type="collocate" sloleks="LE_dc2d358f092d2c7900b38042ccd576f3">goba</comp>
+            </collocation>
+            <collocation form="rastla trava" cluster="2" frequency="11" logDice="4.33">
+              <comp position="1" type="headword" sloleks="LE_fd63a25daac78cdb2089359f26e2c995">rastla</comp>
+              <comp position="2" type="collocate" sloleks="LE_6818c2749803931be6bfa3c002fe3830">trava</comp>
+            </collocation>
+            <collocation form="rastlo drevo" cluster="3" frequency="7" logDice="2.9">
+              <comp position="1" type="headword" sloleks="LE_fd63a25daac78cdb2089359f26e2c995">rastlo</comp>
+              <comp position="2" type="collocate" sloleks="LE_7a1f2dd83e27565cc4158203cecb3b91">drevo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="hitro rastel" cluster="1" frequency="21" logDice="4.62">
+              <comp position="1" type="collocate" sloleks="LE_cb95fbdb78349dad33e3d99ea7f281a8">hitro</comp>
+              <comp position="2" type="headword" sloleks="LE_fd63a25daac78cdb2089359f26e2c995">rastel</comp>
+            </collocation>
+            <collocation form="počasi rastel" cluster="1" frequency="12" logDice="7.03">
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              <comp position="2" type="headword" sloleks="LE_fd63a25daac78cdb2089359f26e2c995">rastel</comp>
+            </collocation>
+            <collocation form="naprej rastel" cluster="2" frequency="8" logDice="3.82">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_fd63a25daac78cdb2089359f26e2c995">rastel</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

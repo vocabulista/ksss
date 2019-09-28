@@ -1,0 +1,69 @@
+<entry>
+  <header>
+    <lexical_unit id="51193">celec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">823</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Celec iz Ratkovcev" cluster="1" frequency="8" logDice="12.38">
+              <comp position="1" type="headword" sloleks="LE_323f6d91b09e522672cec5e293769d53">Celec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">Ratkovcev</comp>
+            </collocation>
+            <collocation form="Celec iz ratkovec" cluster="2" frequency="9" logDice="12.36">
+              <comp position="1" type="headword" sloleks="LE_323f6d91b09e522672cec5e293769d53">Celec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">ratkovec</comp>
+            </collocation>
+            <collocation form="Celec iz Sobote" cluster="3" frequency="7" logDice="5.75">
+              <comp position="1" type="headword" sloleks="LE_323f6d91b09e522672cec5e293769d53">Celec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_f6e29bfa11f75e2d16d2ef96c34016b7">Sobote</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz po SBZ5">
+          <collocations>
+            <collocation form="smučati po celcu" cluster="1" frequency="4" logDice="8.35">
+              <comp position="1" type="collocate" sloleks="LE_656eb8a3b8d4d794cf4fe59e07f4ef3a">smučati</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_323f6d91b09e522672cec5e293769d53">celcu</comp>
+            </collocation>
+            <collocation form="voziti po celcu" cluster="2" frequency="4" logDice="3.33">
+              <comp position="1" type="collocate" sloleks="LE_a5dbc789e94ecbcd6944586a415ba94d">voziti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_323f6d91b09e522672cec5e293769d53">celcu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 po SBZ5">
+          <collocations>
+            <collocation form="smučanje po celcu" cluster="1" frequency="10" logDice="9.32">
+              <comp position="1" type="collocate" sloleks="LE_72e4fc82310f671181ca76fe84e79778">smučanje</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_323f6d91b09e522672cec5e293769d53">celcu</comp>
+            </collocation>
+            <collocation form="vožnja po celcu" cluster="2" frequency="6" logDice="4.16">
+              <comp position="1" type="collocate" sloleks="LE_cd6b5da723aa271ed871bf1d115652d0">vožnja</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_323f6d91b09e522672cec5e293769d53">celcu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="smučanje v celcu" cluster="1" frequency="6" logDice="6.46">
+              <comp position="1" type="collocate" sloleks="LE_72e4fc82310f671181ca76fe84e79778">smučanje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_323f6d91b09e522672cec5e293769d53">celcu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

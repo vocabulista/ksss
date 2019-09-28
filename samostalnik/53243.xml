@@ -1,0 +1,496 @@
+<entry>
+  <header>
+    <lexical_unit id="53243">diabetes</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">4378</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="diabetes v populaciji" cluster="1" frequency="4" logDice="7.29">
+              <comp position="1" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_0840ec36ac985c5cfbc71484d3e2c3f1">populaciji</comp>
+            </collocation>
+            <collocation form="diabetes v koraku" cluster="2" frequency="7" logDice="7.19">
+              <comp position="1" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_715161c775bf3dcbc82618a272267cf0">koraku</comp>
+            </collocation>
+            <collocation form="diabetes v družini" cluster="3" frequency="11" logDice="4.17">
+              <comp position="1" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_9a7d912c8ec5a6cbc42d2975b5563b34">družini</comp>
+            </collocation>
+            <collocation form="diabetes v Sloveniji" cluster="4" frequency="9" logDice="0.49">
+              <comp position="1" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Sloveniji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="zdraviti diabetes" cluster="1" frequency="9" logDice="5.5">
+              <comp position="1" type="collocate" sloleks="LE_80a4736e90d09dcee86f05b69f433f9f">zdraviti</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="preprečevati diabetes" cluster="2" frequency="9" logDice="3.7">
+              <comp position="1" type="collocate" sloleks="LE_a89b8137704c066dadab24a61095ba89">preprečevati</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="odkriti diabetes" cluster="3" frequency="11" logDice="2.99">
+              <comp position="1" type="collocate" sloleks="LE_3b8fd825b5c0e82121561ac22146407c">odkriti</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="imeti diabetes" cluster="4" frequency="91" logDice="1.08">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz o SBZ5">
+          <collocations>
+            <collocation form="govoriti o diabetesu" cluster="1" frequency="7" logDice="0.66">
+              <comp position="1" type="collocate" sloleks="LE_1da4dedf23c5041ae767d038d2430123">govoriti</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="živeti z diabetesom" cluster="1" frequency="8" logDice="3.93">
+              <comp position="1" type="collocate" sloleks="LE_42cc4ca3168ca0f408ce857620c0a7d0">živeti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za diabetes" cluster="1" frequency="4" logDice="-1.6">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ6">
+          <collocations>
+            <collocation form="oboleti za diabetesom" cluster="1" frequency="13" logDice="9.09">
+              <comp position="1" type="collocate" sloleks="LE_aa9c561127fcb06eb945225a415a56b5">oboleti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesom</comp>
+            </collocation>
+            <collocation form="bolehati za diabetesom" cluster="2" frequency="25" logDice="9.02">
+              <comp position="1" type="collocate" sloleks="LE_b040168d1d6d01c44f22e3c742dc04f3">bolehati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesom</comp>
+            </collocation>
+            <collocation form="zboleti za diabetesom" cluster="3" frequency="63" logDice="8.6">
+              <comp position="1" type="collocate" sloleks="LE_fd0f60ca06786f1a5f74b44369ed7e6b">zboleti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesom</comp>
+            </collocation>
+            <collocation form="trpeti za diabetesom" cluster="4" frequency="13" logDice="7.51">
+              <comp position="1" type="collocate" sloleks="LE_f5d00d45503a4e20ac3dd19ac3c7b638">trpeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz zaradi SBZ2">
+          <collocations>
+            <collocation form="umreti zaradi diabetesa" cluster="1" frequency="4" logDice="3.62">
+              <comp position="1" type="collocate" sloleks="LE_678b76ec9e0cabc0fe3001e0643a8b7d">umreti</comp>
+              <comp position="2" type="other" sloleks="LE_e2128c24e3c3872c9e5c2981f71b461f">zaradi</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="gestacijski diabetes" cluster="1" frequency="31" logDice="11.38">
+              <comp position="1" type="collocate" sloleks="LE_96abd1d2bb8b08b53dcbc5583228e381">gestacijski</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="juvenilen diabetes" cluster="2" frequency="19" logDice="10.25">
+              <comp position="1" type="collocate" sloleks="LE_a82a810cc14f54dce2aa8fd123a9a673">juvenilen</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="nezdravljen diabetes" cluster="3" frequency="13" logDice="8.74">
+              <comp position="1" type="collocate" sloleks="LE_209e18bd40bf0a5dca61b1c524a00e49">nezdravljen</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="nosečniški diabetes" cluster="4" frequency="9" logDice="7.72">
+              <comp position="1" type="collocate" sloleks="LE_49ae322ca68b7bc6453dd588169ba06e">nosečniški</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="starosten diabetes" cluster="5" frequency="38" logDice="5.15">
+              <comp position="1" type="collocate" sloleks="LE_fa1f766a52c4c905b59b26e9cb39e1c6">starosten</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="otroški diabetes" cluster="6" frequency="13" logDice="1.61">
+              <comp position="1" type="collocate" sloleks="LE_1fbf9a7270f9b230effd46d49123fdff">otroški</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="mladosten diabetes" cluster="6" frequency="8" logDice="4.44">
+              <comp position="1" type="collocate" sloleks="LE_f6c04410ac76559c8ab50f6143c3b9b6">mladosten</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="imenovan diabetes" cluster="7" frequency="20" logDice="2.22">
+              <comp position="1" type="collocate" sloleks="LE_48445856b1ad858d1b8600c1111b730c">imenovan</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 z SBZ6">
+          <collocations>
+            <collocation form="povezan z diabetesom" cluster="1" frequency="19" logDice="2.19">
+              <comp position="1" type="collocate" sloleks="LE_84ef5df7d933128064d85c58468c7559">povezan</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 za SBZ6">
+          <collocations>
+            <collocation form="obolel za diabetesom" cluster="1" frequency="17" logDice="8.41">
+              <comp position="1" type="collocate" sloleks="LE_27af0a71d78b3ff90078b3efee087e41">obolel</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="prevalenca diabetesa" cluster="1" frequency="5" logDice="7.48">
+              <comp position="1" type="collocate" sloleks="">prevalenca</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="pojavnost diabetesa" cluster="2" frequency="12" logDice="7.45">
+              <comp position="1" type="collocate" sloleks="LE_c16e3b82e9eb97668f382bde80fbe0d6">pojavnost</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="preprečevanje diabetesa" cluster="3" frequency="17" logDice="3.94">
+              <comp position="1" type="collocate" sloleks="LE_d7ce10bd9a54c7a993e771eeb626d9de">preprečevanje</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="odkrivanje diabetesa" cluster="3" frequency="17" logDice="4.97">
+              <comp position="1" type="collocate" sloleks="LE_fda3f05d5d8a1b0aa27159d380495adc">odkrivanje</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="obvladovanje diabetesa" cluster="3" frequency="12" logDice="4.58">
+              <comp position="1" type="collocate" sloleks="LE_2e45ee306607602c249af303d5b152b7">obvladovanje</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="raziskovanje diabetesa" cluster="3" frequency="6" logDice="3.21">
+              <comp position="1" type="collocate" sloleks="LE_3bbe91679c2379c55000309813083b4c">raziskovanje</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="dan diabetesa" cluster="4" frequency="113" logDice="3.86">
+              <comp position="1" type="collocate" sloleks="LE_687a3a5f213dba3724e626216f1b09da">dan</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="primer diabetesa" cluster="4" frequency="37" logDice="2.65">
+              <comp position="1" type="collocate" sloleks="LE_8e6db377d52cf3acd614b87429fb9858">primer</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="posledica diabetesa" cluster="5" frequency="32" logDice="2.94">
+              <comp position="1" type="collocate" sloleks="LE_9e94e198ec2c32de37b2bd7b6e54af2e">posledica</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="nevarnost diabetesa" cluster="5" frequency="8" logDice="3.29">
+              <comp position="1" type="collocate" sloleks="LE_748e75bfb8d72b22882f959242b3d560">nevarnost</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="razvoj diabetesa" cluster="6" frequency="63" logDice="3.25">
+              <comp position="1" type="collocate" sloleks="LE_59210d6d596fdb364ef1653bd49f3a75">razvoj</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="raziskava diabetesa" cluster="6" frequency="7" logDice="3.04">
+              <comp position="1" type="collocate" sloleks="LE_a52c857738729a3a7a0e2bff72bbb2ac">raziskava</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="oblika diabetesa" cluster="7" frequency="39" logDice="2.65">
+              <comp position="1" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">oblika</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="tip diabetesa" cluster="7" frequency="18" logDice="4.17">
+              <comp position="1" type="collocate" sloleks="LE_8caa7f32790a1c710809c10a30d8579f">tip</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="barva diabetesa" cluster="7" frequency="5" logDice="2.05">
+              <comp position="1" type="collocate" sloleks="LE_d066cf8419aa6609519c184ed701618e">barva</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="zdravljenje diabetesa" cluster="8" frequency="97" logDice="6.35">
+              <comp position="1" type="collocate" sloleks="LE_7c0137a5473fd91b204bdf5ea8e08de5">zdravljenje</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="znak diabetesa" cluster="9" frequency="5" logDice="1.92">
+              <comp position="1" type="collocate" sloleks="LE_c14b604b2ebc69adbffa17600b4697c8">znak</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="znamenje diabetesa" cluster="9" frequency="5" logDice="1.91">
+              <comp position="1" type="collocate" sloleks="LE_89ced9910fe1652d14eb02bd6bddca8a">znamenje</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="diagnoza diabetesa" cluster="10" frequency="6" logDice="6.08">
+              <comp position="1" type="collocate" sloleks="LE_3c42ff06a2554daf4eebd452ef432803">diagnoza</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="nastanek diabetesa" cluster="11" frequency="75" logDice="5.9">
+              <comp position="1" type="collocate" sloleks="LE_9e1a48424817b24d6d3a4ab97909c024">nastanek</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="pojav diabetesa" cluster="11" frequency="14" logDice="4.66">
+              <comp position="1" type="collocate" sloleks="LE_d0fa033e21261b64a3d4f3b037d66371">pojav</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="epidemija diabetesa" cluster="12" frequency="7" logDice="5.58">
+              <comp position="1" type="collocate" sloleks="LE_6d4d71abbe3ade9032bb0898e23f0fc2">epidemija</comp>
+              <comp position="2" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+            <collocation form="diabetes tipa" cluster="13" frequency="564" logDice="9.53">
+              <comp position="1" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+              <comp position="2" type="collocate" sloleks="LE_8caa7f32790a1c710809c10a30d8579f">tipa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="izobraževanje o diabetesu" cluster="1" frequency="8" logDice="7.9">
+              <comp position="1" type="collocate" sloleks="LE_94aeb280aef97194e99f9e24a34d8669">izobraževanje</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesu</comp>
+            </collocation>
+            <collocation form="znanje o diabetesu" cluster="1" frequency="7" logDice="4.93">
+              <comp position="1" type="collocate" sloleks="LE_0e6b8ca9c227b92670827830f4032745">znanje</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesu</comp>
+            </collocation>
+            <collocation form="konferenca o diabetesu" cluster="2" frequency="7" logDice="4.77">
+              <comp position="1" type="collocate" sloleks="LE_9e4a03c7bfddd378fa93c31c23b31760">konferenca</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesu</comp>
+            </collocation>
+            <collocation form="revija o diabetesu" cluster="2" frequency="4" logDice="6.98">
+              <comp position="1" type="collocate" sloleks="LE_204d5501054914c9e28f5661e901ede4">revija</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesu</comp>
+            </collocation>
+            <collocation form="razstava o diabetesu" cluster="2" frequency="4" logDice="4.33">
+              <comp position="1" type="collocate" sloleks="LE_5360488843496d51e5802aa5c14a1d93">razstava</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesu</comp>
+            </collocation>
+            <collocation form="vprašanje o diabetesu" cluster="3" frequency="20" logDice="4.9">
+              <comp position="1" type="collocate" sloleks="LE_18ddad642f4f2459ae6eda5f8fcda990">vprašanje</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesu</comp>
+            </collocation>
+            <collocation form="dejstvo o diabetesu" cluster="3" frequency="4" logDice="5.81">
+              <comp position="1" type="collocate" sloleks="LE_255c5ca471183c2c3fe9d12e0951677a">dejstvo</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesu</comp>
+            </collocation>
+            <collocation form="podatek o diabetesu" cluster="3" frequency="4" logDice="0.5">
+              <comp position="1" type="collocate" sloleks="LE_dceff032dbcde0be8f54f9dd068c8f74">podatek</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 proti SBZ3">
+          <collocations>
+            <collocation form="zdravilo proti diabetesu" cluster="1" frequency="12" logDice="6.34">
+              <comp position="1" type="collocate" sloleks="LE_005f608d88779abbae906ed3762c1400">zdravilo</comp>
+              <comp position="2" type="other" sloleks="LE_ce0c7e81c2858bb279d87fd9640cfc97">proti</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesu</comp>
+            </collocation>
+            <collocation form="boj proti diabetesu" cluster="2" frequency="13" logDice="3.57">
+              <comp position="1" type="collocate" sloleks="LE_a5073c99761fce3d65fbd43ccbe8351f">boj</comp>
+              <comp position="2" type="other" sloleks="LE_ce0c7e81c2858bb279d87fd9640cfc97">proti</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="pilot z diabetesom" cluster="1" frequency="4" logDice="7.84">
+              <comp position="1" type="collocate" sloleks="LE_3a10595d3ccab7b7c68e46a39c1824a7">pilot</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesom</comp>
+            </collocation>
+            <collocation form="bolnik z diabetesom" cluster="2" frequency="96" logDice="7.33">
+              <comp position="1" type="collocate" sloleks="LE_b6c5a89fe8af52cbe0faba9f493dfdf3">bolnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesom</comp>
+            </collocation>
+            <collocation form="oseba z diabetesom" cluster="2" frequency="9" logDice="4.3">
+              <comp position="1" type="collocate" sloleks="LE_5e8793197d1b4e3a6b3f8ae0aa95a812">oseba</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesom</comp>
+            </collocation>
+            <collocation form="zveza z diabetesom" cluster="3" frequency="4" logDice="-0.1">
+              <comp position="1" type="collocate" sloleks="LE_f685db62cc2d867e40d31988d86fbd1e">zveza</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesom</comp>
+            </collocation>
+            <collocation form="življenje z diabetesom" cluster="4" frequency="18" logDice="6.14">
+              <comp position="1" type="collocate" sloleks="LE_b7a6a2019becc6510edb8591e171b0a7">življenje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesom</comp>
+            </collocation>
+            <collocation form="človek z diabetesom" cluster="5" frequency="55" logDice="5.63">
+              <comp position="1" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človek</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesom</comp>
+            </collocation>
+            <collocation form="otrok z diabetesom" cluster="5" frequency="19" logDice="5.14">
+              <comp position="1" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otrok</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesom</comp>
+            </collocation>
+            <collocation form="ženska z diabetesom" cluster="5" frequency="16" logDice="5.83">
+              <comp position="1" type="collocate" sloleks="LE_27b2cafdf8a189c632c32da066af1ce5">ženska</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesom</comp>
+            </collocation>
+            <collocation form="moški z diabetesom" cluster="5" frequency="4" logDice="4.66">
+              <comp position="1" type="collocate" sloleks="LE_25c4075e38aa692c9790c4ffdb7260db">moški</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesom</comp>
+            </collocation>
+            <collocation form="težava z diabetesom" cluster="6" frequency="6" logDice="1.05">
+              <comp position="1" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težava</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesom</comp>
+            </collocation>
+            <collocation form="zaplet z diabetesom" cluster="6" frequency="4" logDice="4.49">
+              <comp position="1" type="collocate" sloleks="LE_06d11c6f1714dcad4fb0d826f78d62fd">zaplet</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="Marš za diabetes" cluster="1" frequency="8" logDice="9.67">
+              <comp position="1" type="collocate" sloleks="LE_f615f20a601bc2b5bd7dac0772a80c8c">Marš</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="federacija za diabetes" cluster="2" frequency="6" logDice="8.37">
+              <comp position="1" type="collocate" sloleks="LE_f6366b13fb8f5bbeaa13e9a9d3efb90c">federacija</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="zveza za diabetes" cluster="3" frequency="14" logDice="6.13">
+              <comp position="1" type="collocate" sloleks="LE_f685db62cc2d867e40d31988d86fbd1e">zveza</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="center za diabetes" cluster="3" frequency="10" logDice="2.38">
+              <comp position="1" type="collocate" sloleks="LE_2f065577a7792f26481f7fba67e1e5ab">center</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="program za diabetes" cluster="3" frequency="9" logDice="2.78">
+              <comp position="1" type="collocate" sloleks="LE_2da10dc9e8a0e2ff7fd5a1ddd0278e88">program</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="organizacija za diabetes" cluster="3" frequency="4" logDice="3.34">
+              <comp position="1" type="collocate" sloleks="LE_513f9f374314ddaf09bb7d123d083113">organizacija</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="strokovnjak za diabetes" cluster="3" frequency="4" logDice="2.72">
+              <comp position="1" type="collocate" sloleks="LE_f148c89ddbbfc6907ba9fc0273aa62b7">strokovnjak</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="cena za diabetes" cluster="4" frequency="4" logDice="2.55">
+              <comp position="1" type="collocate" sloleks="LE_69b40aa886598a40e47070a0270e9b28">cena</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="združenje za diabetes" cluster="5" frequency="36" logDice="6.79">
+              <comp position="1" type="collocate" sloleks="LE_7a22a73126b77d071ee8e6cf0ef9b2cb">združenje</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="oddelek za diabetes" cluster="5" frequency="18" logDice="3.56">
+              <comp position="1" type="collocate" sloleks="LE_f73286dd6f89a4307b05a1a8ffe3e326">oddelek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="inštitut za diabetes" cluster="5" frequency="4" logDice="2.07">
+              <comp position="1" type="collocate" sloleks="LE_656c06c9eac2e2d364a723c828c33be4">inštitut</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="tveganje za diabetes" cluster="6" frequency="45" logDice="6.81">
+              <comp position="1" type="collocate" sloleks="LE_22b730c6d470268680ad4f77eb641c34">tveganje</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="vzrok za diabetes" cluster="6" frequency="4" logDice="2.0">
+              <comp position="1" type="collocate" sloleks="LE_512feae3d46dd338651f56dfb32f271e">vzrok</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="zdravilo za diabetes" cluster="7" frequency="42" logDice="6.9">
+              <comp position="1" type="collocate" sloleks="LE_005f608d88779abbae906ed3762c1400">zdravilo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="ambulanta za diabetes" cluster="8" frequency="5" logDice="5.69">
+              <comp position="1" type="collocate" sloleks="LE_c4801ace8b69aa439144de43a047919a">ambulanta</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="specialist za diabetes" cluster="9" frequency="6" logDice="4.9">
+              <comp position="1" type="collocate" sloleks="LE_efc2432aaa7c892ff8de3f6e10e91cf6">specialist</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+            <collocation form="fundacija za diabetes" cluster="10" frequency="4" logDice="4.74">
+              <comp position="1" type="collocate" sloleks="LE_bc4a479cd68c7de5d75c721466109250">fundacija</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetes</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ6">
+          <collocations>
+            <collocation form="obolevanje za diabetesom" cluster="1" frequency="7" logDice="9.95">
+              <comp position="1" type="collocate" sloleks="LE_45b20688cf4c9b91d0507d8b2087df98">obolevanje</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesom</comp>
+            </collocation>
+            <collocation form="obolevnost za diabetesom" cluster="2" frequency="5" logDice="8.57">
+              <comp position="1" type="collocate" sloleks="LE_2854ba428fffbb3f28930ad150b182d4">obolevnost</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 zaradi SBZ2">
+          <collocations>
+            <collocation form="umrljivost zaradi diabetesa" cluster="1" frequency="4" logDice="7.64">
+              <comp position="1" type="collocate" sloleks="LE_80d9454f584f20fd2451de75849c8aff">umrljivost</comp>
+              <comp position="2" type="other" sloleks="LE_e2128c24e3c3872c9e5c2981f71b461f">zaradi</comp>
+              <comp position="3" type="headword" sloleks="LE_d78bf76369e3cb268abcf5a74417e359">diabetesa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

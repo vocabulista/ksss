@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="99910">zobatec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">619</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pečen zobatec" cluster="1" frequency="15" logDice="4.74">
+              <comp position="1" type="collocate" sloleks="LE_47e8d97afbbe2e99ccd9f10fd0e294c9|LE_8a4c3d777258ff5407ec91ab5dd4ba55">pečen</comp>
+              <comp position="2" type="headword" sloleks="LE_9c257203fdbf24ac04764bce1d1e52dc">zobatec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="jata zobatca" cluster="1" frequency="10" logDice="6.8">
+              <comp position="1" type="collocate" sloleks="LE_711c7c2ba1ef2109df52936fb76281a7">jata</comp>
+              <comp position="2" type="headword" sloleks="LE_9c257203fdbf24ac04764bce1d1e52dc">zobatca</comp>
+            </collocation>
+            <collocation form="kg zobatca" cluster="2" frequency="6" logDice="3.48">
+              <comp position="1" type="collocate" sloleks="LE_85ff9c3b54a0c996dbb6d0657cf20797">kg</comp>
+              <comp position="2" type="headword" sloleks="LE_9c257203fdbf24ac04764bce1d1e52dc">zobatca</comp>
+            </collocation>
+            <collocation form="kilogram zobatca" cluster="3" frequency="6" logDice="2.77">
+              <comp position="1" type="collocate" sloleks="LE_758190145382857bd4e278cfd092045b">kilogram</comp>
+              <comp position="2" type="headword" sloleks="LE_9c257203fdbf24ac04764bce1d1e52dc">zobatca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ4">
+          <collocations>
+            <collocation form="lov na zobatca" cluster="1" frequency="10" logDice="4.99">
+              <comp position="1" type="collocate" sloleks="LE_edd39bd58891ca70e7f6a1f23509f935">lov</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_9c257203fdbf24ac04764bce1d1e52dc">zobatca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

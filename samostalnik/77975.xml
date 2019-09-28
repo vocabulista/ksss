@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="77975">pipec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">545</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="navaden pipec" cluster="1" frequency="8" logDice="1.73">
+              <comp position="1" type="collocate" sloleks="LE_f59369d8b37702c03d2e6f31cbe3f5d8">navaden</comp>
+              <comp position="2" type="headword" sloleks="LE_f0735c30be94b872c58d902319e7734a">pipec</comp>
+            </collocation>
+            <collocation form="zlat pipec" cluster="2" frequency="9" logDice="0.92">
+              <comp position="1" type="collocate" sloleks="LE_841fe594eda42d033f6b9f2e7dc246e9">zlat</comp>
+              <comp position="2" type="headword" sloleks="LE_f0735c30be94b872c58d902319e7734a">pipec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="kavboj Pipca" cluster="1" frequency="5" logDice="9.83">
+              <comp position="1" type="collocate" sloleks="LE_053fd19f3f674fa823ab1fa8c38efe20">kavboj</comp>
+              <comp position="2" type="headword" sloleks="LE_f0735c30be94b872c58d902319e7734a">Pipca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="53909">dolgoživost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">598</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="dolgoživost živali" cluster="1" frequency="12" logDice="2.73">
+              <comp position="1" type="headword" sloleks="LE_37beec351d7f9d1995130034f14be7d6">dolgoživost</comp>
+              <comp position="2" type="collocate" sloleks="LE_b6200c4865c660bb286b47ec062ae356">živali</comp>
+            </collocation>
+            <collocation form="dolgoživost ženske" cluster="1" frequency="8" logDice="2.02">
+              <comp position="1" type="headword" sloleks="LE_37beec351d7f9d1995130034f14be7d6">dolgoživost</comp>
+              <comp position="2" type="collocate" sloleks="LE_27b2cafdf8a189c632c32da066af1ce5">ženske</comp>
+            </collocation>
+            <collocation form="medicina dolgoživosti" cluster="2" frequency="9" logDice="6.32">
+              <comp position="1" type="collocate" sloleks="LE_066881b44b6f5b7f2ea5ebef55af1294">medicina</comp>
+              <comp position="2" type="headword" sloleks="LE_37beec351d7f9d1995130034f14be7d6">dolgoživosti</comp>
+            </collocation>
+            <collocation form="skrivnost dolgoživosti" cluster="3" frequency="20" logDice="4.79">
+              <comp position="1" type="collocate" sloleks="LE_973da8220dff8aba695e375e54ec5826">skrivnost</comp>
+              <comp position="2" type="headword" sloleks="LE_37beec351d7f9d1995130034f14be7d6">dolgoživosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="vplivati na dolgoživost" cluster="1" frequency="5" logDice="0.44">
+              <comp position="1" type="collocate" sloleks="LE_311f98501605bd2a2d7eaa33739357f6">vplivati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_37beec351d7f9d1995130034f14be7d6">dolgoživost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="gen za dolgoživost" cluster="1" frequency="6" logDice="7.56">
+              <comp position="1" type="collocate" sloleks="LE_9fba630243ae292facbe201cfa4236dd">gen</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_37beec351d7f9d1995130034f14be7d6">dolgoživost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

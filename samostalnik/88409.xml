@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="88409">shizofrenik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">534</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="paranoiden shizofrenik" cluster="1" frequency="13" logDice="9.1">
+              <comp position="1" type="collocate" sloleks="LE_2e0ea7037d2f2aae6cd4b9cf2e339f2a">paranoiden</comp>
+              <comp position="2" type="headword" sloleks="LE_9c620ee5cea034424a7a3d53887fbbd7">shizofrenik</comp>
+            </collocation>
+            <collocation form="paranoičen shizofrenik" cluster="2" frequency="14" logDice="8.64">
+              <comp position="1" type="collocate" sloleks="LE_23a822ad9747f021c3cddc80203e5449">paranoičen</comp>
+              <comp position="2" type="headword" sloleks="LE_9c620ee5cea034424a7a3d53887fbbd7">shizofrenik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="UM SHIZOFRENIKA" cluster="1" frequency="75" logDice="11.01">
+              <comp position="1" type="collocate" sloleks="LE_0f0b3a7b70083369df4c5ce4a84a449a">UM</comp>
+              <comp position="2" type="headword" sloleks="LE_9c620ee5cea034424a7a3d53887fbbd7">SHIZOFRENIKA</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 pri SBZ5">
+          <collocations>
+            <collocation form="depresija pri shizofreniku" cluster="1" frequency="7" logDice="10.13">
+              <comp position="1" type="collocate" sloleks="LE_6d6f12c9273d081b346f42c5a6d78375">depresija</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_9c620ee5cea034424a7a3d53887fbbd7">shizofreniku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,83 @@
+<entry>
+  <header>
+    <lexical_unit id="2860">napeči</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">546</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="napeči toliko" cluster="1" frequency="17" logDice="1.95">
+              <comp position="1" type="headword" sloleks="LE_98b9106fc10969b1c76d0c5bf080d61a">napeči</comp>
+              <comp position="2" type="collocate" sloleks="LE_e8a73a0e682431303071ff7537eabf4b">toliko</comp>
+            </collocation>
+            <collocation form="napeči približno" cluster="2" frequency="8" logDice="1.18">
+              <comp position="1" type="headword" sloleks="LE_98b9106fc10969b1c76d0c5bf080d61a">napeči</comp>
+              <comp position="2" type="collocate" sloleks="LE_bff0759952f037b2a47f76933a190170">približno</comp>
+            </collocation>
+            <collocation form="napeči veliko" cluster="3" frequency="25" logDice="0.86">
+              <comp position="1" type="headword" sloleks="LE_98b9106fc10969b1c76d0c5bf080d61a">napeči</comp>
+              <comp position="2" type="collocate" sloleks="LE_431ef7ec57af288ca0e781bb12f6e7f0">veliko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="napeči pecivo" cluster="1" frequency="34" logDice="9.47">
+              <comp position="1" type="headword" sloleks="LE_98b9106fc10969b1c76d0c5bf080d61a">napeči</comp>
+              <comp position="2" type="collocate" sloleks="LE_903b4708630fb38f04ea911f26f63a02">pecivo</comp>
+            </collocation>
+            <collocation form="napeči piškot" cluster="1" frequency="8" logDice="7.37">
+              <comp position="1" type="headword" sloleks="LE_98b9106fc10969b1c76d0c5bf080d61a">napeči</comp>
+              <comp position="2" type="collocate" sloleks="LE_6cbbc7aea3614382d421194ebc09fec4">piškot</comp>
+            </collocation>
+            <collocation form="napeči potico" cluster="2" frequency="7" logDice="7.64">
+              <comp position="1" type="headword" sloleks="LE_98b9106fc10969b1c76d0c5bf080d61a">napeči</comp>
+              <comp position="2" type="collocate" sloleks="LE_4077b14118183c14a0c23fde3a134da6">potico</comp>
+            </collocation>
+            <collocation form="napeči goro" cluster="3" frequency="5" logDice="5.57">
+              <comp position="1" type="headword" sloleks="LE_98b9106fc10969b1c76d0c5bf080d61a">napeči</comp>
+              <comp position="2" type="collocate" sloleks="LE_8faa372c7e81e800eb88188ec3f5cde9">goro</comp>
+            </collocation>
+            <collocation form="napeči kruh" cluster="4" frequency="10" logDice="4.75">
+              <comp position="1" type="headword" sloleks="LE_98b9106fc10969b1c76d0c5bf080d61a">napeči</comp>
+              <comp position="2" type="collocate" sloleks="LE_e0dfccb0af83b931a6cf202a952d9fb5">kruh</comp>
+            </collocation>
+            <collocation form="napeči kup" cluster="5" frequency="6" logDice="4.04">
+              <comp position="1" type="headword" sloleks="LE_98b9106fc10969b1c76d0c5bf080d61a">napeči</comp>
+              <comp position="2" type="collocate" sloleks="LE_726a2f014c8637e480b08fdf02d78f36">kup</comp>
+            </collocation>
+            <collocation form="napeči količino" cluster="6" frequency="4" logDice="2.38">
+              <comp position="1" type="headword" sloleks="LE_98b9106fc10969b1c76d0c5bf080d61a">napeči</comp>
+              <comp position="2" type="collocate" sloleks="LE_962c73eca27e836ddb2ea664db69f933">količino</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="napeči za priložnost" cluster="1" frequency="14" logDice="6.35">
+              <comp position="1" type="headword" sloleks="LE_98b9106fc10969b1c76d0c5bf080d61a">napeči</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_603b647f30f702ed4697c3b9926b382f">priložnost</comp>
+            </collocation>
+            <collocation form="napeči za obiskovalca" cluster="2" frequency="4" logDice="5.2">
+              <comp position="1" type="headword" sloleks="LE_98b9106fc10969b1c76d0c5bf080d61a">napeči</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_3974f599f2b3fc31c35ea298dce06f1b">obiskovalca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="doma napeči" cluster="1" frequency="4" logDice="1.26">
+              <comp position="1" type="collocate" sloleks="LE_e763d76187601d485fd9a1af70a03a8c">doma</comp>
+              <comp position="2" type="headword" sloleks="LE_98b9106fc10969b1c76d0c5bf080d61a">napeči</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="34924">starokopiten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">434</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="starokopitna mama" cluster="1" frequency="8" logDice="3.03">
+              <comp position="1" type="headword" sloleks="LE_fae7e0a2e2de53fdb39ec442cbd76e7b">starokopitna</comp>
+              <comp position="2" type="collocate" sloleks="LE_17accc042a5f6d587dff2dcf3ce1dc83">mama</comp>
+            </collocation>
+            <collocation form="starokopitna ženska" cluster="2" frequency="7" logDice="1.04">
+              <comp position="1" type="headword" sloleks="LE_fae7e0a2e2de53fdb39ec442cbd76e7b">starokopitna</comp>
+              <comp position="2" type="collocate" sloleks="LE_27b2cafdf8a189c632c32da066af1ce5">ženska</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="preveč starokopiten" cluster="1" frequency="14" logDice="2.09">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_fae7e0a2e2de53fdb39ec442cbd76e7b">starokopiten</comp>
+            </collocation>
+            <collocation form="malo starokopiten" cluster="2" frequency="7" logDice="1.44">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_fae7e0a2e2de53fdb39ec442cbd76e7b">starokopiten</comp>
+            </collocation>
+            <collocation form="precej starokopiten" cluster="3" frequency="10" logDice="0.66">
+              <comp position="1" type="collocate" sloleks="LE_e0671a56c827200d0ebc033694e6214b">precej</comp>
+              <comp position="2" type="headword" sloleks="LE_fae7e0a2e2de53fdb39ec442cbd76e7b">starokopiten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

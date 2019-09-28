@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="8844">ujčkati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">429</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="ujčkati na kolenu" cluster="1" frequency="6" logDice="6.89">
+              <comp position="1" type="headword" sloleks="LE_645d76c1fcc080331fcf09695dc0b783">ujčkati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_c9d8b483b5b619f87889b11bbb4a3863">kolenu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="ujčkati vnuka" cluster="1" frequency="4" logDice="6.86">
+              <comp position="1" type="headword" sloleks="LE_645d76c1fcc080331fcf09695dc0b783">ujčkati</comp>
+              <comp position="2" type="collocate" sloleks="LE_da0da8b28b3233581ff218e543e54e2a">vnuka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="ujčkati v naročju" cluster="1" frequency="10" logDice="6.51">
+              <comp position="1" type="headword" sloleks="LE_645d76c1fcc080331fcf09695dc0b783">ujčkati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_b85c46eee6afaa2f953fba111d9968b0">naročju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="preveč ujčkati" cluster="1" frequency="8" logDice="2.01">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_645d76c1fcc080331fcf09695dc0b783">ujčkati</comp>
+            </collocation>
+            <collocation form="naprej ujčkati" cluster="2" frequency="7" logDice="0.98">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_645d76c1fcc080331fcf09695dc0b783">ujčkati</comp>
+            </collocation>
+            <collocation form="nič ujčkati" cluster="3" frequency="5" logDice="0.97">
+              <comp position="1" type="collocate" sloleks="LE_8e90bcbc87a903b29aed9727fd2eee14">nič</comp>
+              <comp position="2" type="headword" sloleks="LE_645d76c1fcc080331fcf09695dc0b783">ujčkati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

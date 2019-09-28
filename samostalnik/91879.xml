@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="91879">streptokok</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">410</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="okužiti s streptokokom" cluster="1" frequency="8" logDice="6.68">
+              <comp position="1" type="collocate" sloleks="LE_34b265ba0ec5d99a38800e693eec8a4b">okužiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_66050440486ded31ab36ffddafbb339f">streptokokom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="hemolitičen streptokok" cluster="1" frequency="45" logDice="12.68">
+              <comp position="1" type="collocate" sloleks="LE_b0c35a1642bc096733cd7dda1ca38c9d">hemolitičen</comp>
+              <comp position="2" type="headword" sloleks="LE_66050440486ded31ab36ffddafbb339f">streptokok</comp>
+            </collocation>
+            <collocation form="fekalen streptokok" cluster="2" frequency="8" logDice="6.86">
+              <comp position="1" type="collocate" sloleks="LE_8bd42ca05f6ecccbb41fca17cb67906b">fekalen</comp>
+              <comp position="2" type="headword" sloleks="LE_66050440486ded31ab36ffddafbb339f">streptokok</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="okužba s streptokokom" cluster="1" frequency="20" logDice="6.35">
+              <comp position="1" type="collocate" sloleks="LE_317412be3a9df9cfb98197f161046457">okužba</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_66050440486ded31ab36ffddafbb339f">streptokokom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

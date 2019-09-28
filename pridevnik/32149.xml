@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="32149">razvaljan</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">418</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="razvaljano testo" cluster="1" frequency="195" logDice="9.2">
+              <comp position="1" type="headword" sloleks="LE_ed1b76d65d997dab59fd7840b89107b6">razvaljano</comp>
+              <comp position="2" type="collocate" sloleks="LE_ed787fda2477a9fe348cf8476d101b49">testo</comp>
+            </collocation>
+            <collocation form="razvaljan test" cluster="2" frequency="120" logDice="6.58">
+              <comp position="1" type="headword" sloleks="LE_ed1b76d65d997dab59fd7840b89107b6">razvaljan</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9ec7ab730b3894358b8a9143ca6bfa0">test</comp>
+            </collocation>
+            <collocation form="razvaljana masa" cluster="3" frequency="11" logDice="3.04">
+              <comp position="1" type="headword" sloleks="LE_ed1b76d65d997dab59fd7840b89107b6">razvaljana</comp>
+              <comp position="2" type="collocate" sloleks="LE_63a0fbbb7b40f249d202d61b3ead2f07">masa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="tanko razvaljan" cluster="1" frequency="19" logDice="8.33">
+              <comp position="1" type="collocate" sloleks="LE_35aa819489e7d3e8230902291b3a254c">tanko</comp>
+              <comp position="2" type="headword" sloleks="LE_ed1b76d65d997dab59fd7840b89107b6">razvaljan</comp>
+            </collocation>
+            <collocation form="enakomerno razvaljan" cluster="2" frequency="9" logDice="6.26">
+              <comp position="1" type="collocate" sloleks="LE_8db1db0086839dd2928ede4e065d0e0e">enakomerno</comp>
+              <comp position="2" type="headword" sloleks="LE_ed1b76d65d997dab59fd7840b89107b6">razvaljan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,52 @@
+<entry>
+  <header>
+    <lexical_unit id="57460">gips</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">574</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="gips plošče" cluster="1" frequency="130" logDice="7.49">
+              <comp position="1" type="headword" sloleks="LE_cff4bd8103ddcaf21d14aa875b668721">gips</comp>
+              <comp position="2" type="collocate" sloleks="LE_75a10c913aa58b7a0188e78adfd52ab4">plošče</comp>
+            </collocation>
+            <collocation form="gips stene" cluster="2" frequency="12" logDice="5.42">
+              <comp position="1" type="headword" sloleks="LE_cff4bd8103ddcaf21d14aa875b668721">gips</comp>
+              <comp position="2" type="collocate" sloleks="LE_47b154875543bbeb3c61452a95a438a3">stene</comp>
+            </collocation>
+            <collocation form="gips sistema" cluster="3" frequency="9" logDice="1.15">
+              <comp position="1" type="headword" sloleks="LE_cff4bd8103ddcaf21d14aa875b668721">gips</comp>
+              <comp position="2" type="collocate" sloleks="LE_b126847d984efa55c2ffad50be4e1dac">sistema</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="imeti v gipsu" cluster="1" frequency="4" logDice="-0.97">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_cff4bd8103ddcaf21d14aa875b668721">gipsu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="noga v gipsu" cluster="1" frequency="7" logDice="6.35">
+              <comp position="1" type="collocate" sloleks="LE_85bf97bb223851882a947ddf0be6aea7">noga</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_cff4bd8103ddcaf21d14aa875b668721">gipsu</comp>
+            </collocation>
+            <collocation form="roka v gipsu" cluster="2" frequency="10" logDice="5.23">
+              <comp position="1" type="collocate" sloleks="LE_5fa1bf1096bd6c7b00158af4c43b33b3">roka</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_cff4bd8103ddcaf21d14aa875b668721">gipsu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

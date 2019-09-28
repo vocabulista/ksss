@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="30634">preredek</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">460</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="preredka izjema" cluster="1" frequency="7" logDice="4.03">
+              <comp position="1" type="headword" sloleks="LE_499499871320ac64e0c9499346b2011b">preredka</comp>
+              <comp position="2" type="collocate" sloleks="LE_54b4bd0db633db62323d38061a58b596">izjema</comp>
+            </collocation>
+            <collocation form="preredek zrak" cluster="2" frequency="6" logDice="2.22">
+              <comp position="1" type="headword" sloleks="LE_499499871320ac64e0c9499346b2011b">preredek</comp>
+              <comp position="2" type="collocate" sloleks="LE_d3b9b2b5ce24a4cb7da4e0e9da2b1348">zrak</comp>
+            </collocation>
+            <collocation form="preredek trenutek" cluster="3" frequency="9" logDice="1.63">
+              <comp position="1" type="headword" sloleks="LE_499499871320ac64e0c9499346b2011b">preredek</comp>
+              <comp position="2" type="collocate" sloleks="LE_20e42f7c3b00f5a4a38e89957060a1f2">trenutek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="žal preredek" cluster="1" frequency="15" logDice="5.68">
+              <comp position="1" type="collocate" sloleks="LE_66944356b1eb4d0fafa4e64de3270f3a">žal</comp>
+              <comp position="2" type="headword" sloleks="LE_499499871320ac64e0c9499346b2011b">preredek</comp>
+            </collocation>
+            <collocation form="vse preredek" cluster="2" frequency="31" logDice="3.0">
+              <comp position="1" type="collocate" sloleks="LE_69e1f6ea0eba690182112fa5f7865561">vse</comp>
+              <comp position="2" type="headword" sloleks="LE_499499871320ac64e0c9499346b2011b">preredek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

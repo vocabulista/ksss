@@ -1,0 +1,40 @@
+<entry>
+  <header>
+    <lexical_unit id="50764">bukovec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1118</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="rogaški bukovec" cluster="1" frequency="8" logDice="3.41">
+              <comp position="1" type="collocate" sloleks="LE_64711d75a1ec6e3828b507171c1a501f">rogaški</comp>
+              <comp position="2" type="headword" sloleks="LE_e790afefe844cb074a7e4f8debf092e7">bukovec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="Vrbnjak iz bukovca" cluster="1" frequency="11" logDice="11.99">
+              <comp position="1" type="collocate" sloleks="LE_cf772e103808e1b37ac820e57433e777|LE_dcaab371cd8d444c7d7757ca93f781b8">Vrbnjak</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_e790afefe844cb074a7e4f8debf092e7">bukovca</comp>
+            </collocation>
+            <collocation form="pevec iz bukovca" cluster="2" frequency="6" logDice="6.22">
+              <comp position="1" type="collocate" sloleks="LE_23c9ebb15dcb2cadd67e5bf9e8b6f1df">pevec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_e790afefe844cb074a7e4f8debf092e7">bukovca</comp>
+            </collocation>
+            <collocation form="prijatelj iz bukovca" cluster="3" frequency="5" logDice="4.88">
+              <comp position="1" type="collocate" sloleks="LE_04d85f43e6fdbc81d853e26c5158132f">prijatelj</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_e790afefe844cb074a7e4f8debf092e7">bukovca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

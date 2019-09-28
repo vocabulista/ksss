@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="55731">epoksi</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">498</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="epoksi smole" cluster="1" frequency="45" logDice="9.44">
+              <comp position="1" type="headword" sloleks="LE_3d761b0acfed21e4d14a2f968b30693a">epoksi</comp>
+              <comp position="2" type="collocate" sloleks="LE_df5e6a2e00f361a459f40c055967ec1a">smole</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 z SBZ6">
+          <collocations>
+            <collocation form="prevlečen z epoksijem" cluster="1" frequency="4" logDice="6.28">
+              <comp position="1" type="collocate" sloleks="LE_551cb88324e9017c6a05d7ea199198c5">prevlečen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_3d761b0acfed21e4d14a2f968b30693a">epoksijem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

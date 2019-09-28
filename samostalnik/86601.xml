@@ -1,0 +1,44 @@
+<entry>
+  <header>
+    <lexical_unit id="86601">rojenica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">559</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 v sbz4">
+          <collocations>
+            <collocation form="rojenica v zibel" cluster="1" frequency="7" logDice="12.1">
+              <comp position="1" type="headword" sloleks="LE_859920dbc5157ae1f181850604814e41">rojenica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_4883b1dd5461d471f6340db2fa75bbc4">zibel</comp>
+            </collocation>
+            <collocation form="rojenica v zibko" cluster="2" frequency="6" logDice="11.99">
+              <comp position="1" type="headword" sloleks="LE_859920dbc5157ae1f181850604814e41">rojenica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_d0c2bf3ed00b7d5185278c649b4abbd9">zibko</comp>
+            </collocation>
+            <collocation form="rojenica v zibelko" cluster="3" frequency="5" logDice="10.63">
+              <comp position="1" type="headword" sloleks="LE_859920dbc5157ae1f181850604814e41">rojenica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_3fc37efef35ac48e4bb4f36cb75047a6">zibelko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="vila rojenice" cluster="1" frequency="18" logDice="8.05">
+              <comp position="1" type="collocate" sloleks="LE_8577080e318ac65a4ef6f9485483fd71">vila</comp>
+              <comp position="2" type="headword" sloleks="LE_859920dbc5157ae1f181850604814e41">rojenice</comp>
+            </collocation>
+            <collocation form="vrt rojenice" cluster="2" frequency="5" logDice="4.3">
+              <comp position="1" type="collocate" sloleks="LE_15929de10ee14dea04fcdeff221d8b56">vrt</comp>
+              <comp position="2" type="headword" sloleks="LE_859920dbc5157ae1f181850604814e41">rojenice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

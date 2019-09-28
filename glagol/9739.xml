@@ -1,0 +1,67 @@
+<entry>
+  <header>
+    <lexical_unit id="9739">zamejiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">482</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="zamejiti širjenje" cluster="1" frequency="7" logDice="5.92">
+              <comp position="1" type="headword" sloleks="LE_45b96040d71761de2af71b7a6257418d">zamejiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_b88399e6082dcb9dcbd20e5c961a6f5a">širjenje</comp>
+            </collocation>
+            <collocation form="zamejiti območje" cluster="2" frequency="5" logDice="3.51">
+              <comp position="1" type="headword" sloleks="LE_45b96040d71761de2af71b7a6257418d">zamejiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_637bb12e70b217aeada98e77f3559b30">območje</comp>
+            </collocation>
+            <collocation form="zamejiti prostor" cluster="3" frequency="18" logDice="3.04">
+              <comp position="1" type="headword" sloleks="LE_45b96040d71761de2af71b7a6257418d">zamejiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostor</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="zamejiti v okvir" cluster="1" frequency="4" logDice="4.44">
+              <comp position="1" type="headword" sloleks="LE_45b96040d71761de2af71b7a6257418d">zamejiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_7ad9953b27a13e215544d77e1a778983">okvir</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="zamejiti z mejo" cluster="1" frequency="4" logDice="7.34">
+              <comp position="1" type="headword" sloleks="LE_45b96040d71761de2af71b7a6257418d">zamejiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_9f2a02329b99f686c0effa70a70cb37f">mejo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="časovno zamejiti" cluster="1" frequency="4" logDice="5.43">
+              <comp position="1" type="collocate" sloleks="LE_78016911656b19942adbc62f0d3d2216">časovno</comp>
+              <comp position="2" type="headword" sloleks="LE_45b96040d71761de2af71b7a6257418d">zamejiti</comp>
+            </collocation>
+            <collocation form="ostro zamejiti" cluster="2" frequency="6" logDice="3.48">
+              <comp position="1" type="collocate" sloleks="LE_50febbc263575d4290dfe6771deb5927">ostro</comp>
+              <comp position="2" type="headword" sloleks="LE_45b96040d71761de2af71b7a6257418d">zamejiti</comp>
+            </collocation>
+            <collocation form="natančno zamejiti" cluster="3" frequency="6" logDice="1.81">
+              <comp position="1" type="collocate" sloleks="LE_6862c6cc1601370ffc05cb3f5dc95bc9">natančno</comp>
+              <comp position="2" type="headword" sloleks="LE_45b96040d71761de2af71b7a6257418d">zamejiti</comp>
+            </collocation>
+            <collocation form="nekoliko zamejiti" cluster="4" frequency="5" logDice="1.05">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_45b96040d71761de2af71b7a6257418d">zamejiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="38861">zavozlan</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">519</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="zavozlan klobčič" cluster="1" frequency="10" logDice="8.57">
+              <comp position="1" type="headword" sloleks="LE_556bcee1a89dd2a415d7af0f9e67f1de">zavozlan</comp>
+              <comp position="2" type="collocate" sloleks="LE_0678f0995f882d414d2718e863cc8358">klobčič</comp>
+            </collocation>
+            <collocation form="zavozlan robec" cluster="2" frequency="11" logDice="8.33">
+              <comp position="1" type="headword" sloleks="LE_556bcee1a89dd2a415d7af0f9e67f1de">zavozlan</comp>
+              <comp position="2" type="collocate" sloleks="LE_d885ceb3f8e964cf6381702683b7697a">robec</comp>
+            </collocation>
+            <collocation form="zavozlan dimnik" cluster="3" frequency="8" logDice="6.35">
+              <comp position="1" type="headword" sloleks="LE_556bcee1a89dd2a415d7af0f9e67f1de">zavozlan</comp>
+              <comp position="2" type="collocate" sloleks="LE_40dcd74a94f98fd7ef7af7bc028b20f2">dimnik</comp>
+            </collocation>
+            <collocation form="zavozlana dlaka" cluster="4" frequency="14" logDice="6.08">
+              <comp position="1" type="headword" sloleks="LE_556bcee1a89dd2a415d7af0f9e67f1de">zavozlana</comp>
+              <comp position="2" type="collocate" sloleks="LE_8650131a141ca862bb50877fbfcb7447">dlaka</comp>
+            </collocation>
+            <collocation form="zavozlana vrv" cluster="5" frequency="12" logDice="5.77">
+              <comp position="1" type="headword" sloleks="LE_556bcee1a89dd2a415d7af0f9e67f1de">zavozlana</comp>
+              <comp position="2" type="collocate" sloleks="LE_d47cc59c0a87a60ea3ccd3f7836dbe5e">vrv</comp>
+            </collocation>
+            <collocation form="zavozlana vrvica" cluster="5" frequency="10" logDice="5.93">
+              <comp position="1" type="headword" sloleks="LE_556bcee1a89dd2a415d7af0f9e67f1de">zavozlana</comp>
+              <comp position="2" type="collocate" sloleks="LE_c53d3cf9acf78e81f5818617af012224">vrvica</comp>
+            </collocation>
+            <collocation form="zavozlan kabel" cluster="6" frequency="6" logDice="4.16">
+              <comp position="1" type="headword" sloleks="LE_556bcee1a89dd2a415d7af0f9e67f1de">zavozlan</comp>
+              <comp position="2" type="collocate" sloleks="LE_5e6d149bea5a830f5ebc572918ed12e3">kabel</comp>
+            </collocation>
+            <collocation form="zavozlan las" cluster="7" frequency="11" logDice="2.96">
+              <comp position="1" type="headword" sloleks="LE_556bcee1a89dd2a415d7af0f9e67f1de">zavozlan</comp>
+              <comp position="2" type="collocate" sloleks="LE_efa5b979af023ef3a1f9a62889d9ad2d">las</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="zavozlan in/ali prepleten" cluster="1" frequency="7" logDice="8.75">
+              <comp position="3" type="headword" sloleks="LE_556bcee1a89dd2a415d7af0f9e67f1de">zavozlan</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_f1acff55c43e053370d56f9901470190">prepleten</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

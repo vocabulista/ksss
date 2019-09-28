@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="76735">papirničar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">424</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Papirničar iz jagnjenica" cluster="1" frequency="6" logDice="12.19">
+              <comp position="1" type="headword" sloleks="LE_8f022137334200ff7d20258945dd156d">Papirničar</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">jagnjenica</comp>
+            </collocation>
+            <collocation form="Papirničar iz Radeč" cluster="2" frequency="7" logDice="8.38">
+              <comp position="1" type="headword" sloleks="LE_8f022137334200ff7d20258945dd156d">Papirničar</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_10ccde5c24b28f8e97682f3378d78440">Radeč</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="radeški papirničar" cluster="1" frequency="29" logDice="9.56">
+              <comp position="1" type="collocate" sloleks="LE_533f80344f4e1dc00337c6873f2dd88a">radeški</comp>
+              <comp position="2" type="headword" sloleks="LE_8f022137334200ff7d20258945dd156d">papirničar</comp>
+            </collocation>
+            <collocation form="krški papirničar" cluster="2" frequency="20" logDice="4.79">
+              <comp position="1" type="collocate" sloleks="LE_e929a409a0ca79f145b5ff464a65086e">krški</comp>
+              <comp position="2" type="headword" sloleks="LE_8f022137334200ff7d20258945dd156d">papirničar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="orkester papirničarja" cluster="1" frequency="19" logDice="5.58">
+              <comp position="1" type="collocate" sloleks="LE_f32233cd38c33779162133877f1ade76">orkester</comp>
+              <comp position="2" type="headword" sloleks="LE_8f022137334200ff7d20258945dd156d">papirničarja</comp>
+            </collocation>
+            <collocation form="združenje papirničarja" cluster="2" frequency="7" logDice="2.05">
+              <comp position="1" type="collocate" sloleks="LE_7a22a73126b77d071ee8e6cf0ef9b2cb">združenje</comp>
+              <comp position="2" type="headword" sloleks="LE_8f022137334200ff7d20258945dd156d">papirničarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

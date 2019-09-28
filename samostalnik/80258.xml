@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="80258">ponočnjak</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">589</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="predstaviti za ponočnjaka" cluster="1" frequency="9" logDice="7.52">
+              <comp position="1" type="collocate" sloleks="LE_64ac80e6ae1f424ec2dd34859705e6c0">predstaviti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_c6c890b0bb4c3d68eb081225776f2b40">ponočnjaka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="samotarski ponočnjak" cluster="1" frequency="9" logDice="7.93">
+              <comp position="1" type="collocate" sloleks="LE_1b92498320eca4bd52a0073aee6a3573">samotarski</comp>
+              <comp position="2" type="headword" sloleks="LE_c6c890b0bb4c3d68eb081225776f2b40">ponočnjak</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="predstava za ponočnjaka" cluster="1" frequency="61" logDice="9.23">
+              <comp position="1" type="collocate" sloleks="LE_d9b3b0d634fe5397b484fa7a2db17b0c">predstava</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_c6c890b0bb4c3d68eb081225776f2b40">ponočnjaka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

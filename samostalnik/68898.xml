@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="68898">medicinec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">900</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="medicinec iz cveta" cluster="1" frequency="4" logDice="7.89">
+              <comp position="1" type="headword" sloleks="LE_fb0e619664db82086b7f0e99eb6ad6b9">medicinec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_94d0f7e010ad7f3fd319d2500a8722ff">cveta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="soden medicinec" cluster="1" frequency="89" logDice="4.71">
+              <comp position="1" type="collocate" sloleks="LE_56ba7769bea59109fca11e92d60424a7">soden</comp>
+              <comp position="2" type="headword" sloleks="LE_fb0e619664db82086b7f0e99eb6ad6b9">medicinec</comp>
+            </collocation>
+            <collocation form="mlad medicinec" cluster="2" frequency="27" logDice="0.82">
+              <comp position="1" type="collocate" sloleks="LE_0ee11dc77f2b35d3d3b7f2db250e72fb">mlad</comp>
+              <comp position="2" type="headword" sloleks="LE_fb0e619664db82086b7f0e99eb6ad6b9">medicinec</comp>
+            </collocation>
+            <collocation form="mrtev medicinec" cluster="2" frequency="14" logDice="3.79">
+              <comp position="1" type="collocate" sloleks="LE_cb5f532d4270d28973cc89f7ded21a6f">mrtev</comp>
+              <comp position="2" type="headword" sloleks="LE_fb0e619664db82086b7f0e99eb6ad6b9">medicinec</comp>
+            </collocation>
+            <collocation form="alternativen medicinec" cluster="3" frequency="9" logDice="3.49">
+              <comp position="1" type="collocate" sloleks="LE_19d90cf8308c82aefa628844314a256f">alternativen</comp>
+              <comp position="2" type="headword" sloleks="LE_fb0e619664db82086b7f0e99eb6ad6b9">medicinec</comp>
+            </collocation>
+            <collocation form="bodoč medicinec" cluster="4" frequency="11" logDice="2.65">
+              <comp position="1" type="collocate" sloleks="LE_c6f3c4a3d0b2c4f0f11710302ae9f88b">bodoč</comp>
+              <comp position="2" type="headword" sloleks="LE_fb0e619664db82086b7f0e99eb6ad6b9">medicinec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="izobraževanje medicinca" cluster="1" frequency="7" logDice="3.92">
+              <comp position="1" type="collocate" sloleks="LE_94aeb280aef97194e99f9e24a34d8669">izobraževanje</comp>
+              <comp position="2" type="headword" sloleks="LE_fb0e619664db82086b7f0e99eb6ad6b9">medicinca</comp>
+            </collocation>
+            <collocation form="generacija medicinca" cluster="2" frequency="9" logDice="3.36">
+              <comp position="1" type="collocate" sloleks="LE_3ae79f27727e36bc3b9d688dcc7e1dff">generacija</comp>
+              <comp position="2" type="headword" sloleks="LE_fb0e619664db82086b7f0e99eb6ad6b9">medicinca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

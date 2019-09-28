@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="98276">zapiralo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">587</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="zapiralo za vrata" cluster="1" frequency="6" logDice="8.12">
+              <comp position="1" type="headword" sloleks="LE_fbc4186ca08753d541938157a4d0815d">zapiralo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_5b997c4e88dd626d1f19eb6721f9f994">vrata</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="varnostno zapiralo" cluster="1" frequency="8" logDice="1.08">
+              <comp position="1" type="collocate" sloleks="LE_58b96ef5c98808a2c5bca972d7b56147">varnostno</comp>
+              <comp position="2" type="headword" sloleks="LE_fbc4186ca08753d541938157a4d0815d">zapiralo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="utor zapirala" cluster="1" frequency="6" logDice="9.98">
+              <comp position="1" type="collocate" sloleks="LE_885dfcb6aa53078ac296dd4a078138c4">utor</comp>
+              <comp position="2" type="headword" sloleks="LE_fbc4186ca08753d541938157a4d0815d">zapirala</comp>
+            </collocation>
+            <collocation form="uho zapirala" cluster="2" frequency="8" logDice="6.86">
+              <comp position="1" type="collocate" sloleks="LE_ed81cbe45540a33ca421c25755837659">uho</comp>
+              <comp position="2" type="headword" sloleks="LE_fbc4186ca08753d541938157a4d0815d">zapirala</comp>
+            </collocation>
+            <collocation form="oblast zapirala" cluster="3" frequency="6" logDice="4.44">
+              <comp position="1" type="collocate" sloleks="LE_517516784cc4f3948ad94ba945fd370b">oblast</comp>
+              <comp position="2" type="headword" sloleks="LE_fbc4186ca08753d541938157a4d0815d">zapirala</comp>
+            </collocation>
+            <collocation form="zapiralo odtoka" cluster="4" frequency="12" logDice="9.33">
+              <comp position="1" type="headword" sloleks="LE_fbc4186ca08753d541938157a4d0815d">zapiralo</comp>
+              <comp position="2" type="collocate" sloleks="LE_84340594a34b2b01eba944c15ba330a8">odtoka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="ogrlica z zapiralom" cluster="1" frequency="4" logDice="8.42">
+              <comp position="1" type="collocate" sloleks="LE_1c9632e4174e678ff9cad812243185d6">ogrlica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_fbc4186ca08753d541938157a4d0815d">zapiralom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

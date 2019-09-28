@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="89990">software</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">3429</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Software iz Ljubljane" cluster="1" frequency="7" logDice="2.54">
+              <comp position="1" type="headword" sloleks="LE_b589db9afab18d262cc8d6eb45de7ed4">Software</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee11c4f6f901052d38c8252202477c9e">Ljubljane</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="Software assuranca" cluster="1" frequency="15" logDice="12.12">
+              <comp position="1" type="headword" sloleks="LE_b589db9afab18d262cc8d6eb45de7ed4">Software</comp>
+              <comp position="2" type="collocate" sloleks="">assuranca</comp>
+            </collocation>
+            <collocation form="Software allianca" cluster="2" frequency="23" logDice="10.66">
+              <comp position="1" type="headword" sloleks="LE_b589db9afab18d262cc8d6eb45de7ed4">Software</comp>
+              <comp position="2" type="collocate" sloleks="">allianca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="računalniški software" cluster="1" frequency="8" logDice="1.65">
+              <comp position="1" type="collocate" sloleks="LE_a36799cc1b8d1e1d320eef518e98e87e">računalniški</comp>
+              <comp position="2" type="headword" sloleks="LE_b589db9afab18d262cc8d6eb45de7ed4">software</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="strokovnjak za software" cluster="1" frequency="4" logDice="2.74">
+              <comp position="1" type="collocate" sloleks="LE_f148c89ddbbfc6907ba9fc0273aa62b7">strokovnjak</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_b589db9afab18d262cc8d6eb45de7ed4">software</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

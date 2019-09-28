@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="89923">sočnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">643</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="sočnost mesa" cluster="1" frequency="16" logDice="4.21">
+              <comp position="1" type="headword" sloleks="LE_01dd98ff4c2a22c73d460550cc046226">sočnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_4aa90a3e352de0e91eff0dc41f04a0ea">mesa</comp>
+            </collocation>
+            <collocation form="sočnost jezika" cluster="2" frequency="9" logDice="2.52">
+              <comp position="1" type="headword" sloleks="LE_01dd98ff4c2a22c73d460550cc046226">sočnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_84e841a4b1d5e4b816efe7f126e1f693">jezika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="ohraniti sočnost" cluster="1" frequency="45" logDice="4.77">
+              <comp position="1" type="collocate" sloleks="LE_c9d170ee84e4a3fcf90f085c87edb5f8">ohraniti</comp>
+              <comp position="2" type="headword" sloleks="LE_01dd98ff4c2a22c73d460550cc046226">sočnost</comp>
+            </collocation>
+            <collocation form="izgubiti sočnost" cluster="2" frequency="14" logDice="2.2">
+              <comp position="1" type="collocate" sloleks="LE_337bc3eb3083fe8e2c2136a94040b7cf">izgubiti</comp>
+              <comp position="2" type="headword" sloleks="LE_01dd98ff4c2a22c73d460550cc046226">sočnost</comp>
+            </collocation>
+            <collocation form="izgubljati sočnost" cluster="2" frequency="10" logDice="4.13">
+              <comp position="1" type="collocate" sloleks="LE_4e5c6104847c21ebc80ee3fa323c49d5">izgubljati</comp>
+              <comp position="2" type="headword" sloleks="LE_01dd98ff4c2a22c73d460550cc046226">sočnost</comp>
+            </collocation>
+            <collocation form="dajati sočnost" cluster="3" frequency="12" logDice="2.06">
+              <comp position="1" type="collocate" sloleks="LE_d6d8f52b2b1192ce779222d2b9f85fbf">dajati</comp>
+              <comp position="2" type="headword" sloleks="LE_01dd98ff4c2a22c73d460550cc046226">sočnost</comp>
+            </collocation>
+            <collocation form="dodati sočnost" cluster="3" frequency="8" logDice="1.4">
+              <comp position="1" type="collocate" sloleks="LE_c650260a47b57510d011b500dfe60df5">dodati</comp>
+              <comp position="2" type="headword" sloleks="LE_01dd98ff4c2a22c73d460550cc046226">sočnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="poskrbeti za sočnost" cluster="1" frequency="4" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_610c30927c7792ff5bc41d0843ec83a6">poskrbeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_01dd98ff4c2a22c73d460550cc046226">sočnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

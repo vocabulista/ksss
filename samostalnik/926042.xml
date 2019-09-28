@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="926042">hvale</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="hvale na račun" cluster="1" frequency="196" logDice="7.67">
+              <comp position="1" type="headword" sloleks="">hvale</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_03d4207cd319441760ba30bae2e1320e">račun</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="poln hvale" cluster="1" frequency="275" logDice="5.53">
+              <comp position="1" type="collocate" sloleks="LE_ba66920997eaf6ebf1b95667348fc4c3">poln</comp>
+              <comp position="2" type="headword" sloleks="">hvale</comp>
+            </collocation>
+            <collocation form="deležen hvale" cluster="2" frequency="22" logDice="4.07">
+              <comp position="1" type="collocate" sloleks="LE_d107a39f9de53272bd32b38e28b5e35f">deležen</comp>
+              <comp position="2" type="headword" sloleks="">hvale</comp>
+            </collocation>
+            <collocation form="vreden hvale" cluster="3" frequency="38" logDice="3.61">
+              <comp position="1" type="collocate" sloleks="LE_3e7ac9d48e2d083773313134238b93b0">vreden</comp>
+              <comp position="2" type="headword" sloleks="">hvale</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

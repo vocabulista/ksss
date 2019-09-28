@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="312">akati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">1549</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ iz sbz2">
+          <collocations>
+            <collocation form="akati iz Lesc" cluster="1" frequency="4" logDice="9.57">
+              <comp position="1" type="headword" sloleks="LE_a2f23e200d88b178c97c2f804e0b1552">akati</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_acab76a616fe50036c8579de493be07a">Lesc</comp>
+            </collocation>
+            <collocation form="akati iz Trbovelj" cluster="2" frequency="5" logDice="8.33">
+              <comp position="1" type="headword" sloleks="LE_a2f23e200d88b178c97c2f804e0b1552">akati</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_65fc630f0f97fa2ccf6c695334dc8ea5">Trbovelj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="akati v klub" cluster="1" frequency="6" logDice="4.54">
+              <comp position="1" type="headword" sloleks="LE_a2f23e200d88b178c97c2f804e0b1552">akati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_205ce919e68ed95a2dc64567475887d3">klub</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="akati v podjetju" cluster="1" frequency="8" logDice="2.97">
+              <comp position="1" type="headword" sloleks="LE_a2f23e200d88b178c97c2f804e0b1552">akati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_1aed870e4b1c077c155d34b01ab0af57">podjetju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

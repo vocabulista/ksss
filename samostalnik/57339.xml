@@ -1,0 +1,35 @@
+<entry>
+  <header>
+    <lexical_unit id="57339">geometer</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">527</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="meritev geometra" cluster="1" frequency="5" logDice="4.3">
+              <comp position="1" type="collocate" sloleks="LE_1a7f8238d076ca005197d84e61be00d3">meritev</comp>
+              <comp position="2" type="headword" sloleks="LE_050260d2afc3274c3ee55089b06d75fd">geometra</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="oddelek za geometra" cluster="1" frequency="15" logDice="3.3">
+              <comp position="1" type="collocate" sloleks="LE_f73286dd6f89a4307b05a1a8ffe3e326">oddelek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_050260d2afc3274c3ee55089b06d75fd">geometra</comp>
+            </collocation>
+            <collocation form="šola za geometra" cluster="2" frequency="4" logDice="2.61">
+              <comp position="1" type="collocate" sloleks="LE_9c664dac39a3cc920d3849a80fadafa1">šola</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_050260d2afc3274c3ee55089b06d75fd">geometra</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="93368">tiramisu</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">555</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="tiramisu z rožičem" cluster="1" frequency="5" logDice="11.64">
+              <comp position="1" type="headword" sloleks="LE_c7db5999fad7e8991e6de57b85c54f2c">tiramisu</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_d4111c323563133fc557028739d0ee6f">rožičem</comp>
+            </collocation>
+            <collocation form="tiramisu z želejem" cluster="2" frequency="4" logDice="10.27">
+              <comp position="1" type="headword" sloleks="LE_c7db5999fad7e8991e6de57b85c54f2c">tiramisu</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_baad042f8ac8a52150c76c97707dea9b">želejem</comp>
+            </collocation>
+            <collocation form="tiramisu z malino" cluster="3" frequency="5" logDice="9.64">
+              <comp position="1" type="headword" sloleks="LE_c7db5999fad7e8991e6de57b85c54f2c">tiramisu</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_499627f06a0bc9491d3edccfd89f727b">malino</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="jagoden tiramisu" cluster="1" frequency="15" logDice="6.77">
+              <comp position="1" type="collocate" sloleks="LE_667d062fb23c850941c1506c47ed1259">jagoden</comp>
+              <comp position="2" type="headword" sloleks="LE_c7db5999fad7e8991e6de57b85c54f2c">tiramisu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="recept za tiramisu" cluster="1" frequency="8" logDice="4.44">
+              <comp position="1" type="collocate" sloleks="LE_29b0e225b9cc0a9a52e020dacd37828d">recept</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_c7db5999fad7e8991e6de57b85c54f2c">tiramisu</comp>
+            </collocation>
+            <collocation form="krema za tiramisu" cluster="2" frequency="4" logDice="4.39">
+              <comp position="1" type="collocate" sloleks="LE_c580085f66825beed3ba7cb6bbeb817d">krema</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_c7db5999fad7e8991e6de57b85c54f2c">tiramisu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

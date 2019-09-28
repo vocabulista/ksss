@@ -1,0 +1,36 @@
+<entry>
+  <header>
+    <lexical_unit id="2482802">pete</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="pete etape" cluster="1" frequency="25" logDice="6.81">
+              <comp position="1" type="headword" sloleks="">pete</comp>
+              <comp position="2" type="collocate" sloleks="LE_356b70946e3f18b007c47ec0c9c53512">etape</comp>
+            </collocation>
+            <collocation form="pete generacije" cluster="2" frequency="43" logDice="5.53">
+              <comp position="1" type="headword" sloleks="">pete</comp>
+              <comp position="2" type="collocate" sloleks="LE_3ae79f27727e36bc3b9d688dcc7e1dff">generacije</comp>
+            </collocation>
+            <collocation form="pete zmage" cluster="3" frequency="8" logDice="3.5">
+              <comp position="1" type="headword" sloleks="">pete</comp>
+              <comp position="2" type="collocate" sloleks="LE_508bb96f40e25186ee8d1a812b97170d">zmage</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="visok pete" cluster="1" frequency="31" logDice="0.64">
+              <comp position="1" type="collocate" sloleks="LE_4233591f5096276ee0d2cc73b3e78e36">visok</comp>
+              <comp position="2" type="headword" sloleks="">pete</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

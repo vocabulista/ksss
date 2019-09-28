@@ -1,0 +1,78 @@
+<entry>
+  <header>
+    <lexical_unit id="81216">povišek</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">493</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="povišek stranice" cluster="1" frequency="9" logDice="7.15">
+              <comp position="1" type="headword" sloleks="LE_b952be82c44258fc8064ed560dab8c83">povišek</comp>
+              <comp position="2" type="collocate" sloleks="LE_ed37889c1f1dca6ac157151b14a14452">stranice</comp>
+            </collocation>
+            <collocation form="povišek plače" cluster="2" frequency="35" logDice="3.75">
+              <comp position="1" type="headword" sloleks="LE_b952be82c44258fc8064ed560dab8c83">povišek</comp>
+              <comp position="2" type="collocate" sloleks="LE_5e60f7e201847a7be65d2212fdd74103">plače</comp>
+            </collocation>
+            <collocation form="evro poviška" cluster="3" frequency="13" logDice="2.29">
+              <comp position="1" type="collocate" sloleks="LE_919aa8f150efeee18de452278649aae8">evro</comp>
+              <comp position="2" type="headword" sloleks="LE_b952be82c44258fc8064ed560dab8c83">poviška</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="povišek za silažo" cluster="1" frequency="7" logDice="8.65">
+              <comp position="1" type="headword" sloleks="LE_b952be82c44258fc8064ed560dab8c83">povišek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_aa7daca883544f0b2d99079233191c8b">silažo</comp>
+            </collocation>
+            <collocation form="povišek za prevoz" cluster="2" frequency="4" logDice="3.71">
+              <comp position="1" type="headword" sloleks="LE_b952be82c44258fc8064ed560dab8c83">povišek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_08fc8e00213589633e3b30c746c02ba6">prevoz</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="prositi za povišek" cluster="1" frequency="11" logDice="3.67">
+              <comp position="1" type="collocate" sloleks="LE_8964780e933272192255d479aad46f53">prositi</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_b952be82c44258fc8064ed560dab8c83">povišek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="plačen povišek" cluster="1" frequency="12" logDice="4.46">
+              <comp position="1" type="collocate" sloleks="LE_7dfc813bf42d14bc97bf56b3e5d8279e">plačen</comp>
+              <comp position="2" type="headword" sloleks="LE_b952be82c44258fc8064ed560dab8c83">povišek</comp>
+            </collocation>
+            <collocation form="odstoten povišek" cluster="2" frequency="18" logDice="2.19">
+              <comp position="1" type="collocate" sloleks="LE_615456eabc443927cc62bb7ad74fdb52">odstoten</comp>
+              <comp position="2" type="headword" sloleks="LE_b952be82c44258fc8064ed560dab8c83">povišek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="tehnostroj s poviškom" cluster="1" frequency="6" logDice="12.06">
+              <comp position="1" type="collocate" sloleks="">tehnostroj</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_b952be82c44258fc8064ed560dab8c83">poviškom</comp>
+            </collocation>
+            <collocation form="prikolica s poviškom" cluster="2" frequency="8" logDice="7.54">
+              <comp position="1" type="collocate" sloleks="LE_1a4445d78ff2442626ce99e45ca0c10d">prikolica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_b952be82c44258fc8064ed560dab8c83">poviškom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

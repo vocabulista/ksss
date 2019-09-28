@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="92017">stropnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">398</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="Stropnik z inštituta" cluster="1" frequency="13" logDice="6.23">
+              <comp position="1" type="headword" sloleks="LE_4ff55bf568b0b3d48a0c30b95db448ef">Stropnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_656c06c9eac2e2d364a723c828c33be4">inštituta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="lesen stropnik" cluster="1" frequency="10" logDice="2.24">
+              <comp position="1" type="collocate" sloleks="LE_39fa6eac8b3aca677a672c92e27a594c|LE_6be16eebd901c9f88de46c0031bec9fd">lesen</comp>
+              <comp position="2" type="headword" sloleks="LE_4ff55bf568b0b3d48a0c30b95db448ef">stropnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

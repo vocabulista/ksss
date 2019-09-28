@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="26638">obotavljiv</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">409</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="obotavljiv začetek" cluster="1" frequency="19" logDice="3.83">
+              <comp position="1" type="headword" sloleks="LE_554acb00a4e461ac936e8c0633e98789">obotavljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_ff54e76842fd90ab703dad7694fad404">začetek</comp>
+            </collocation>
+            <collocation form="obotavljiv korak" cluster="2" frequency="21" logDice="3.43">
+              <comp position="1" type="headword" sloleks="LE_554acb00a4e461ac936e8c0633e98789">obotavljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_715161c775bf3dcbc82618a272267cf0">korak</comp>
+            </collocation>
+            <collocation form="obotavljiv glas" cluster="3" frequency="6" logDice="1.09">
+              <comp position="1" type="headword" sloleks="LE_554acb00a4e461ac936e8c0633e98789">obotavljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_bdaf56c7a9eddd2562b11c97c0770037">glas</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="obotavljiv in/ali počasen" cluster="1" frequency="9" logDice="6.66">
+              <comp position="3" type="headword" sloleks="LE_554acb00a4e461ac936e8c0633e98789">obotavljiv</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_0480dd2009afbbba657be52edd17283b">počasen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="preveč obotavljiv" cluster="1" frequency="21" logDice="2.68">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_554acb00a4e461ac936e8c0633e98789">obotavljiv</comp>
+            </collocation>
+            <collocation form="nekoliko obotavljiv" cluster="2" frequency="10" logDice="1.48">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_554acb00a4e461ac936e8c0633e98789">obotavljiv</comp>
+            </collocation>
+            <collocation form="malo obotavljiv" cluster="3" frequency="5" logDice="0.96">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_554acb00a4e461ac936e8c0633e98789">obotavljiv</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="36970">uspavan</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">505</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="uspavana lepotica" cluster="1" frequency="6" logDice="3.3">
+              <comp position="1" type="headword" sloleks="LE_ba0d1255185aabb4d06fc0b0853260a6">uspavana</comp>
+              <comp position="2" type="collocate" sloleks="LE_c226f475f3409a2d8960d102df741bb6">lepotica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="nekako uspavan" cluster="1" frequency="6" logDice="3.92">
+              <comp position="1" type="collocate" sloleks="LE_a96326ed8c158842276cc429a0b285f7">nekako</comp>
+              <comp position="2" type="headword" sloleks="LE_ba0d1255185aabb4d06fc0b0853260a6">uspavan</comp>
+            </collocation>
+            <collocation form="rahlo uspavan" cluster="2" frequency="5" logDice="2.86">
+              <comp position="1" type="collocate" sloleks="LE_bc8fa6f6461bdf94aa79ffddcde1c898">rahlo</comp>
+              <comp position="2" type="headword" sloleks="LE_ba0d1255185aabb4d06fc0b0853260a6">uspavan</comp>
+            </collocation>
+            <collocation form="nekoliko uspavan" cluster="3" frequency="19" logDice="2.4">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_ba0d1255185aabb4d06fc0b0853260a6">uspavan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

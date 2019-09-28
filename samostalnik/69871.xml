@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="69871">mitra</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">602</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="škofovska mitra" cluster="1" frequency="13" logDice="6.09">
+              <comp position="1" type="collocate" sloleks="LE_496787476e4d1d9bb217520f1d7272b6">škofovska</comp>
+              <comp position="2" type="headword" sloleks="LE_88ebff87d185cd11bbde47cf212bd5cf">mitra</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="bog Mitre" cluster="1" frequency="40" logDice="7.23">
+              <comp position="1" type="collocate" sloleks="LE_4b293a6111b46265077bf30063fd7037">bog</comp>
+              <comp position="2" type="headword" sloleks="LE_88ebff87d185cd11bbde47cf212bd5cf">Mitre</comp>
+            </collocation>
+            <collocation form="kult Mitre" cluster="2" frequency="9" logDice="6.41">
+              <comp position="1" type="collocate" sloleks="LE_4192516adabbddba9086c22db7b58a7f">kult</comp>
+              <comp position="2" type="headword" sloleks="LE_88ebff87d185cd11bbde47cf212bd5cf">Mitre</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

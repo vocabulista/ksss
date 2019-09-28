@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="65160">kosmulja</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">695</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="kitajska kosmulja" cluster="1" frequency="20" logDice="3.04">
+              <comp position="1" type="collocate" sloleks="LE_fb185a15f7fbc97760ca90b27e8bf70f">kitajska</comp>
+              <comp position="2" type="headword" sloleks="LE_2baf3661677e31ba39b571f65b9a499a">kosmulja</comp>
+            </collocation>
+            <collocation form="morska kosmulja" cluster="2" frequency="9" logDice="1.97">
+              <comp position="1" type="collocate" sloleks="LE_57bed162279dc52ad8b850de264a14ad">morska</comp>
+              <comp position="2" type="headword" sloleks="LE_2baf3661677e31ba39b571f65b9a499a">kosmulja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="g kosmulje" cluster="1" frequency="25" logDice="3.4">
+              <comp position="1" type="collocate" sloleks="LE_ca18aba540992b5043c6ba88e8ebb544">g</comp>
+              <comp position="2" type="headword" sloleks="LE_2baf3661677e31ba39b571f65b9a499a">kosmulje</comp>
+            </collocation>
+            <collocation form="Dežela kosmulje" cluster="2" frequency="6" logDice="2.86">
+              <comp position="1" type="collocate" sloleks="LE_21c89b1f11d02144625685de7b2e94af">Dežela</comp>
+              <comp position="2" type="headword" sloleks="LE_2baf3661677e31ba39b571f65b9a499a">kosmulje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="marmelada iz kosmulje" cluster="1" frequency="4" logDice="8.82">
+              <comp position="1" type="collocate" sloleks="LE_877cc0d5baf7b949647b56d621499197">marmelada</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_2baf3661677e31ba39b571f65b9a499a">kosmulje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="vrt s kosmuljo" cluster="1" frequency="4" logDice="6.23">
+              <comp position="1" type="collocate" sloleks="LE_15929de10ee14dea04fcdeff221d8b56">vrt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_2baf3661677e31ba39b571f65b9a499a">kosmuljo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

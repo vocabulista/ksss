@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="76412">oznanjevalec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">410</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="oznanjevalec evangelija" cluster="1" frequency="56" logDice="10.09">
+              <comp position="1" type="headword" sloleks="LE_06ff345819d9102ef54de23f7595fa06">oznanjevalec</comp>
+              <comp position="2" type="collocate" sloleks="LE_46e834a1fb9ae442bf75744ab925ea74">evangelija</comp>
+            </collocation>
+            <collocation form="oznanjevalec nauka" cluster="2" frequency="12" logDice="7.61">
+              <comp position="1" type="headword" sloleks="LE_06ff345819d9102ef54de23f7595fa06">oznanjevalec</comp>
+              <comp position="2" type="collocate" sloleks="LE_e97ba874382a85375d3218bc6b492482">nauka</comp>
+            </collocation>
+            <collocation form="oznanjevalec vere" cluster="3" frequency="25" logDice="5.99">
+              <comp position="1" type="headword" sloleks="LE_06ff345819d9102ef54de23f7595fa06">oznanjevalec</comp>
+              <comp position="2" type="collocate" sloleks="LE_583319a05698c528b3d8a3b0f4aea875">vere</comp>
+            </collocation>
+            <collocation form="oznanjevalec resnice" cluster="4" frequency="12" logDice="4.66">
+              <comp position="1" type="headword" sloleks="LE_06ff345819d9102ef54de23f7595fa06">oznanjevalec</comp>
+              <comp position="2" type="collocate" sloleks="LE_382669cfefeb9ec0a37edec1a50079a1">resnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="goreč oznanjevalec" cluster="1" frequency="11" logDice="4.99">
+              <comp position="1" type="collocate" sloleks="LE_734d8a381a1095600a2498d8091ddbc2">goreč</comp>
+              <comp position="2" type="headword" sloleks="LE_06ff345819d9102ef54de23f7595fa06">oznanjevalec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

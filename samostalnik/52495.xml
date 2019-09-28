@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="52495">datacija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">471</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="datacija lesa" cluster="1" frequency="10" logDice="4.02">
+              <comp position="1" type="headword" sloleks="LE_7f96aaf0e5ea502e8ae831d8f2646667">datacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_a64d3c025e48884a3606fcff72b3d118">lesa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="radiokarbonski datacija" cluster="1" frequency="11" logDice="10.35">
+              <comp position="1" type="collocate" sloleks="">radiokarbonski</comp>
+              <comp position="2" type="headword" sloleks="LE_7f96aaf0e5ea502e8ae831d8f2646667">datacija</comp>
+            </collocation>
+            <collocation form="absolutna datacija" cluster="2" frequency="9" logDice="3.56">
+              <comp position="1" type="collocate" sloleks="LE_66b5b813a3b875f6634cd4f828cf2681">absolutna</comp>
+              <comp position="2" type="headword" sloleks="LE_7f96aaf0e5ea502e8ae831d8f2646667">datacija</comp>
+            </collocation>
+            <collocation form="natančna datacija" cluster="3" frequency="8" logDice="2.13">
+              <comp position="1" type="collocate" sloleks="LE_229d70f4dcbb0db8dfccf3b59dec8e3b">natančna</comp>
+              <comp position="2" type="headword" sloleks="LE_7f96aaf0e5ea502e8ae831d8f2646667">datacija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

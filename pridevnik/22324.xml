@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="22324">kvaren</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">532</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="kvaren vpliv" cluster="1" frequency="263" logDice="6.95">
+              <comp position="1" type="headword" sloleks="LE_ac2040901e6b26a1ca7f42d7a06f3563">kvaren</comp>
+              <comp position="2" type="collocate" sloleks="LE_4dac044878c71472e44f21dc0e9220c2">vpliv</comp>
+            </collocation>
+            <collocation form="kvaren učinek" cluster="1" frequency="25" logDice="2.89">
+              <comp position="1" type="headword" sloleks="LE_ac2040901e6b26a1ca7f42d7a06f3563">kvaren</comp>
+              <comp position="2" type="collocate" sloleks="LE_2353cab56c2f4b095b8ea704f5199db8">učinek</comp>
+            </collocation>
+            <collocation form="kvarna posledica" cluster="2" frequency="43" logDice="4.18">
+              <comp position="1" type="headword" sloleks="LE_ac2040901e6b26a1ca7f42d7a06f3563">kvarna</comp>
+              <comp position="2" type="collocate" sloleks="LE_9e94e198ec2c32de37b2bd7b6e54af2e">posledica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 za sbz4">
+          <collocations>
+            <collocation form="kvaren za družbo" cluster="1" frequency="4" logDice="6.93">
+              <comp position="1" type="headword" sloleks="LE_ac2040901e6b26a1ca7f42d7a06f3563">kvaren</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_4d78f38b1eeb8492cae54547d0252bf9">družbo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

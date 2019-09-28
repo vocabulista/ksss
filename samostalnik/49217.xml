@@ -1,0 +1,56 @@
+<entry>
+  <header>
+    <lexical_unit id="49217">bičanje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">630</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 do sbz2">
+          <collocations>
+            <collocation form="bičanje do krvi" cluster="1" frequency="5" logDice="9.88">
+              <comp position="1" type="headword" sloleks="LE_ef20a3af0a8260c4d7e411b0decd6600">bičanje</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_3f38ba2d1d9b5ab220cbf69f18564673">krvi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="bičanje vetra" cluster="1" frequency="19" logDice="5.83">
+              <comp position="1" type="headword" sloleks="LE_ef20a3af0a8260c4d7e411b0decd6600">bičanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_359bdba534f8ddcc908fda2de0cbc7e1">vetra</comp>
+            </collocation>
+            <collocation form="prizor bičanja" cluster="2" frequency="6" logDice="5.13">
+              <comp position="1" type="collocate" sloleks="LE_8bb63327d6eb154642411f2be3d7f73d">prizor</comp>
+              <comp position="2" type="headword" sloleks="LE_ef20a3af0a8260c4d7e411b0decd6600">bičanja</comp>
+            </collocation>
+            <collocation form="sled bičanja" cluster="3" frequency="5" logDice="3.26">
+              <comp position="1" type="collocate" sloleks="LE_dd625ad43e9cf5421631fc70650263c6|LE_291e304cb7e9db1dd763515469187d38">sled</comp>
+              <comp position="2" type="headword" sloleks="LE_ef20a3af0a8260c4d7e411b0decd6600">bičanja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="obsoditi na bičanje" cluster="1" frequency="10" logDice="5.49">
+              <comp position="1" type="collocate" sloleks="LE_f0c208764096be7a13f8c10e78ec2066">obsoditi</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_ef20a3af0a8260c4d7e411b0decd6600">bičanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="kaznovati z bičanjem" cluster="1" frequency="11" logDice="5.6">
+              <comp position="1" type="collocate" sloleks="LE_9fc664a70c5c037e4e1041cd94c780cb">kaznovati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_ef20a3af0a8260c4d7e411b0decd6600">bičanjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

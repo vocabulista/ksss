@@ -1,0 +1,68 @@
+<entry>
+  <header>
+    <lexical_unit id="81821">predelovalnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">545</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="predelovalnica mesa" cluster="1" frequency="70" logDice="6.33">
+              <comp position="1" type="headword" sloleks="LE_9923f795700359172cafc4ac884398fa">predelovalnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_4aa90a3e352de0e91eff0dc41f04a0ea">mesa</comp>
+            </collocation>
+            <collocation form="predelovalnica odpadka" cluster="2" frequency="84" logDice="5.85">
+              <comp position="1" type="headword" sloleks="LE_9923f795700359172cafc4ac884398fa">predelovalnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_6c25032317155c13566794d1930b90b7">odpadka</comp>
+            </collocation>
+            <collocation form="predelovalnica smeti" cluster="2" frequency="14" logDice="6.0">
+              <comp position="1" type="headword" sloleks="LE_9923f795700359172cafc4ac884398fa">predelovalnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_8ad8888f26ae6bda3d0a33215de0552b">smeti</comp>
+            </collocation>
+            <collocation form="predelovalnica gume" cluster="3" frequency="11" logDice="5.48">
+              <comp position="1" type="headword" sloleks="LE_9923f795700359172cafc4ac884398fa">predelovalnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_fe7d88b7ecacdaa8905419ce69f9fa90">gume</comp>
+            </collocation>
+            <collocation form="predelovalnica ribe" cluster="4" frequency="17" logDice="4.64">
+              <comp position="1" type="headword" sloleks="LE_9923f795700359172cafc4ac884398fa">predelovalnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_d7b8f7ec392e661983c77782c366fd0d">ribe</comp>
+            </collocation>
+            <collocation form="gradnja predelovalnice" cluster="5" frequency="19" logDice="2.25">
+              <comp position="1" type="collocate" sloleks="LE_3625065aad7c72d3cd7d1c94e3b12e46">gradnja</comp>
+              <comp position="2" type="headword" sloleks="LE_9923f795700359172cafc4ac884398fa">predelovalnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="delavec v predelovalnici" cluster="1" frequency="5" logDice="3.04">
+              <comp position="1" type="collocate" sloleks="LE_85630a93aeb01535235f6c83e3750975">delavec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_9923f795700359172cafc4ac884398fa">predelovalnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="zaplet s predelovalnico" cluster="1" frequency="4" logDice="4.55">
+              <comp position="1" type="collocate" sloleks="LE_06d11c6f1714dcad4fb0d826f78d62fd">zaplet</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_9923f795700359172cafc4ac884398fa">predelovalnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="lokacija za predelovalnico" cluster="1" frequency="6" logDice="5.22">
+              <comp position="1" type="collocate" sloleks="LE_e6c9530c024ea7e27466163b1a94b9f5">lokacija</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_9923f795700359172cafc4ac884398fa">predelovalnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,40 @@
+<entry>
+  <header>
+    <lexical_unit id="720127">fonda</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="fonda ure" cluster="1" frequency="17" logDice="3.54">
+              <comp position="1" type="headword" sloleks="">fonda</comp>
+              <comp position="2" type="collocate" sloleks="LE_77e6b5a072871d299d405565eaad4389">ure</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="telečji fonda" cluster="1" frequency="16" logDice="6.84">
+              <comp position="1" type="collocate" sloleks="LE_496acc29af119ef6637541fd916224ed">telečji</comp>
+              <comp position="2" type="headword" sloleks="">fonda</comp>
+            </collocation>
+            <collocation form="ribji fonda" cluster="2" frequency="22" logDice="5.37">
+              <comp position="1" type="collocate" sloleks="LE_2de153f005dc7ff362648f1c41e7ca18">ribji</comp>
+              <comp position="2" type="headword" sloleks="">fonda</comp>
+            </collocation>
+            <collocation form="specialen fonda" cluster="3" frequency="9" logDice="4.13">
+              <comp position="1" type="collocate" sloleks="LE_77f4c71e2bd565fbdfc3e826f9c90bb9">specialen</comp>
+              <comp position="2" type="headword" sloleks="">fonda</comp>
+            </collocation>
+            <collocation form="stavben fonda" cluster="4" frequency="8" logDice="3.48">
+              <comp position="1" type="collocate" sloleks="LE_df6f5c7de349feffc6f650907fa9595b">stavben</comp>
+              <comp position="2" type="headword" sloleks="">fonda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

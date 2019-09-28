@@ -1,0 +1,52 @@
+<entry>
+  <header>
+    <lexical_unit id="1164">futrati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">715</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="futrati na račun" cluster="1" frequency="6" logDice="2.51">
+              <comp position="1" type="headword" sloleks="LE_dd0950ab64f758b7cb50418e1df2bf00">futrati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_03d4207cd319441760ba30bae2e1320e">račun</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="futrati državo" cluster="1" frequency="4" logDice="1.79">
+              <comp position="1" type="headword" sloleks="LE_dd0950ab64f758b7cb50418e1df2bf00">futrati</comp>
+              <comp position="2" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">državo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="futrati z mesom" cluster="1" frequency="4" logDice="6.49">
+              <comp position="1" type="headword" sloleks="LE_dd0950ab64f758b7cb50418e1df2bf00">futrati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_4aa90a3e352de0e91eff0dc41f04a0ea">mesom</comp>
+            </collocation>
+            <collocation form="futrati z denarjem" cluster="2" frequency="6" logDice="3.35">
+              <comp position="1" type="headword" sloleks="LE_dd0950ab64f758b7cb50418e1df2bf00">futrati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denarjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="naprej futrati" cluster="1" frequency="5" logDice="0.49">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_dd0950ab64f758b7cb50418e1df2bf00">futrati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

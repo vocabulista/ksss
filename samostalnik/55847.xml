@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="55847">estet</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">860</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="literaren estet" cluster="1" frequency="9" logDice="2.25">
+              <comp position="1" type="collocate" sloleks="LE_938252d304749b7315805d39cded35d5">literaren</comp>
+              <comp position="2" type="headword" sloleks="LE_725e311688ebacbe5e1c5e70d30c476b">estet</comp>
+            </collocation>
+            <collocation form="velik estet" cluster="2" frequency="105" logDice="0.56">
+              <comp position="1" type="collocate" sloleks="LE_6ca59c38ee7f7e489a6c13cd1c322726">velik</comp>
+              <comp position="2" type="headword" sloleks="LE_725e311688ebacbe5e1c5e70d30c476b">estet</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="oko esteta" cluster="1" frequency="7" logDice="5.23">
+              <comp position="1" type="collocate" sloleks="LE_5be17c9e359e9f2f62119ef5d2265da6">oko</comp>
+              <comp position="2" type="headword" sloleks="LE_725e311688ebacbe5e1c5e70d30c476b">esteta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

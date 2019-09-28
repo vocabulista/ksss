@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="72949">neuravnoteženost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">452</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="neuravnoteženost prostora" cluster="1" frequency="12" logDice="1.92">
+              <comp position="1" type="headword" sloleks="LE_eb059c98f75d24cfb59f5a6e1febeb50">neuravnoteženost</comp>
+              <comp position="2" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostora</comp>
+            </collocation>
+            <collocation form="neuravnoteženost sodišča" cluster="2" frequency="9" logDice="1.1">
+              <comp position="1" type="headword" sloleks="LE_eb059c98f75d24cfb59f5a6e1febeb50">neuravnoteženost</comp>
+              <comp position="2" type="collocate" sloleks="LE_989f65b9e9021c2bfb10c5161a6e59ab">sodišča</comp>
+            </collocation>
+            <collocation form="posledica neuravnoteženosti" cluster="3" frequency="10" logDice="1.27">
+              <comp position="1" type="collocate" sloleks="LE_9e94e198ec2c32de37b2bd7b6e54af2e">posledica</comp>
+              <comp position="2" type="headword" sloleks="LE_eb059c98f75d24cfb59f5a6e1febeb50">neuravnoteženosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz o SBZ5">
+          <collocations>
+            <collocation form="govoriti o neuravnoteženosti" cluster="1" frequency="7" logDice="0.66">
+              <comp position="1" type="collocate" sloleks="LE_1da4dedf23c5041ae767d038d2430123">govoriti</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_eb059c98f75d24cfb59f5a6e1febeb50">neuravnoteženosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="teza o neuravnoteženosti" cluster="1" frequency="4" logDice="5.59">
+              <comp position="1" type="collocate" sloleks="LE_8f98e42ab3139b15f8df634c5136a89e">teza</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_eb059c98f75d24cfb59f5a6e1febeb50">neuravnoteženosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

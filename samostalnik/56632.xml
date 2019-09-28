@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="56632">fonogram</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">419</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 brez sbz2">
+          <collocations>
+            <collocation form="fonogram brez banderole" cluster="1" frequency="4" logDice="13.3">
+              <comp position="1" type="headword" sloleks="LE_4b3d15b830fe4b09f1e35bfb3ed53249">fonogram</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="collocate" sloleks="LE_100b3b1ea149e0667ca43a341674e399">banderole</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="priobčitev fonograma" cluster="1" frequency="9" logDice="9.86">
+              <comp position="1" type="collocate" sloleks="">priobčitev</comp>
+              <comp position="2" type="headword" sloleks="LE_4b3d15b830fe4b09f1e35bfb3ed53249">fonograma</comp>
+            </collocation>
+            <collocation form="proizvajalec fonograma" cluster="2" frequency="168" logDice="7.12">
+              <comp position="1" type="collocate" sloleks="LE_3bf2375e8c2495b2a135a907b9268843">proizvajalec</comp>
+              <comp position="2" type="headword" sloleks="LE_4b3d15b830fe4b09f1e35bfb3ed53249">fonograma</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="predvajanje s fonogramom" cluster="1" frequency="9" logDice="11.44">
+              <comp position="1" type="collocate" sloleks="LE_6f9b44bbf6383d52f392735a556cd951">predvajanje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_4b3d15b830fe4b09f1e35bfb3ed53249">fonogramom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

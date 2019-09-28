@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="33340">semaforiziran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1277</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="semaforizirano križišče" cluster="1" frequency="1042" logDice="11.71">
+              <comp position="1" type="headword" sloleks="LE_046031ab8b5e5cc79fad3d942a0b7dc4">semaforizirano</comp>
+              <comp position="2" type="collocate" sloleks="LE_4eeb93828f20e1f00bdaed930931d96a">križišče</comp>
+            </collocation>
+            <collocation form="semaforizirano krožišče" cluster="1" frequency="16" logDice="7.44">
+              <comp position="1" type="headword" sloleks="LE_046031ab8b5e5cc79fad3d942a0b7dc4">semaforizirano</comp>
+              <comp position="2" type="collocate" sloleks="LE_441b74acf45801e274cd88bad90bd692">krožišče</comp>
+            </collocation>
+            <collocation form="semaforiziran prehod" cluster="2" frequency="77" logDice="5.28">
+              <comp position="1" type="headword" sloleks="LE_046031ab8b5e5cc79fad3d942a0b7dc4">semaforiziran</comp>
+              <comp position="2" type="collocate" sloleks="LE_6bbb2dfa695a0acfe193236971d127a3">prehod</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="novo semaforiziran" cluster="1" frequency="8" logDice="4.13">
+              <comp position="1" type="collocate" sloleks="LE_6e9c6bec7b24ac28e591123a0a8a95fe">novo</comp>
+              <comp position="2" type="headword" sloleks="LE_046031ab8b5e5cc79fad3d942a0b7dc4">semaforiziran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

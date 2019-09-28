@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="53977">dominantnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">550</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="dominantnost roke" cluster="1" frequency="10" logDice="3.46">
+              <comp position="1" type="headword" sloleks="LE_6910c63dd6bc1032937c0376637bd9fc">dominantnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_5fa1bf1096bd6c7b00158af4c43b33b3">roke</comp>
+            </collocation>
+            <collocation form="hierarhija dominantnosti" cluster="2" frequency="8" logDice="7.17">
+              <comp position="1" type="collocate" sloleks="LE_1c37183365b01095abd794203c95db8d">hierarhija</comp>
+              <comp position="2" type="headword" sloleks="LE_6910c63dd6bc1032937c0376637bd9fc">dominantnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="moška dominantnost" cluster="1" frequency="17" logDice="2.36">
+              <comp position="1" type="collocate" sloleks="LE_4eb7bea9712dcafeb80f79732f045001">moška</comp>
+              <comp position="2" type="headword" sloleks="LE_6910c63dd6bc1032937c0376637bd9fc">dominantnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 po SBZ5">
+          <collocations>
+            <collocation form="težnja po dominantnosti" cluster="1" frequency="4" logDice="4.74">
+              <comp position="1" type="collocate" sloleks="LE_8638484840da0caec7f23629e2bb3cf1">težnja</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_6910c63dd6bc1032937c0376637bd9fc">dominantnosti</comp>
+            </collocation>
+            <collocation form="želja po dominantnosti" cluster="2" frequency="8" logDice="2.56">
+              <comp position="1" type="collocate" sloleks="LE_5bbd47ac0286ad82a89f112c6af6067a">želja</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_6910c63dd6bc1032937c0376637bd9fc">dominantnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="457201">diesel</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="diesel agregata" cluster="1" frequency="11" logDice="7.11">
+              <comp position="1" type="headword" sloleks="">diesel</comp>
+              <comp position="2" type="collocate" sloleks="LE_752b17ed0c6af0521302ed333369c15d">agregata</comp>
+            </collocation>
+            <collocation form="diesel motorja" cluster="2" frequency="21" logDice="4.12">
+              <comp position="1" type="headword" sloleks="">diesel</comp>
+              <comp position="2" type="collocate" sloleks="LE_f2500a2481839c4e1efd6315d8b961cc">motorja</comp>
+            </collocation>
+            <collocation form="diesel goriva" cluster="3" frequency="9" logDice="2.83">
+              <comp position="1" type="headword" sloleks="">diesel</comp>
+              <comp position="2" type="collocate" sloleks="LE_80d289a950bb91a0a536512300030724">goriva</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="diesel s sedežem" cluster="1" frequency="4" logDice="3.21">
+              <comp position="1" type="headword" sloleks="">diesel</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_42b5df4302592a62c432da286741d70a">sedežem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="bio diesel" cluster="1" frequency="10" logDice="5.08">
+              <comp position="1" type="collocate" sloleks="LE_6b868afe6bc13ce2c83417d8fd9606e4">bio</comp>
+              <comp position="2" type="headword" sloleks="">diesel</comp>
+            </collocation>
+            <collocation form="bencinski diesel" cluster="2" frequency="12" logDice="3.17">
+              <comp position="1" type="collocate" sloleks="LE_4bcf2da008a80b29c0376c019639b3e5">bencinski</comp>
+              <comp position="2" type="headword" sloleks="">diesel</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

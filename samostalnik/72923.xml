@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="72923">neuigranost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">482</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="neuigranost moštva" cluster="1" frequency="14" logDice="3.5">
+              <comp position="1" type="headword" sloleks="LE_22f5985cc8ec8860ae5121bb7b0fae01">neuigranost</comp>
+              <comp position="2" type="collocate" sloleks="LE_debb225ddad7d017db950b83fe872cc5">moštva</comp>
+            </collocation>
+            <collocation form="neuigranost ekipe" cluster="2" frequency="25" logDice="3.45">
+              <comp position="1" type="headword" sloleks="LE_22f5985cc8ec8860ae5121bb7b0fae01">neuigranost</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9e9e733fb718cd2faed16b97326064f">ekipe</comp>
+            </collocation>
+            <collocation form="posledica neuigranosti" cluster="3" frequency="30" logDice="2.85">
+              <comp position="1" type="collocate" sloleks="LE_9e94e198ec2c32de37b2bd7b6e54af2e">posledica</comp>
+              <comp position="2" type="headword" sloleks="LE_22f5985cc8ec8860ae5121bb7b0fae01">neuigranosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="precejšnja neuigranost" cluster="1" frequency="8" logDice="2.78">
+              <comp position="1" type="collocate" sloleks="LE_f26f254947e42326cd0dba743af25397">precejšnja</comp>
+              <comp position="2" type="headword" sloleks="LE_22f5985cc8ec8860ae5121bb7b0fae01">neuigranost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="težava z neuigranostjo" cluster="1" frequency="11" logDice="1.93">
+              <comp position="1" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težava</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_22f5985cc8ec8860ae5121bb7b0fae01">neuigranostjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 zaradi SBZ2">
+          <collocations>
+            <collocation form="težava zaradi neuigranosti" cluster="1" frequency="4" logDice="4.43">
+              <comp position="1" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težava</comp>
+              <comp position="2" type="other" sloleks="LE_e2128c24e3c3872c9e5c2981f71b461f">zaradi</comp>
+              <comp position="3" type="headword" sloleks="LE_22f5985cc8ec8860ae5121bb7b0fae01">neuigranosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

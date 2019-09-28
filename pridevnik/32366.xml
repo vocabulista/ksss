@@ -1,0 +1,57 @@
+<entry>
+  <header>
+    <lexical_unit id="32366">remonten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">440</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="remontna ladjedelnica" cluster="1" frequency="16" logDice="7.6">
+              <comp position="1" type="headword" sloleks="LE_7fac358403fa23680c7ed3b2e2edbf24">remontna</comp>
+              <comp position="2" type="collocate" sloleks="LE_5d6331219d8c7e8bc433c98c51cff80d">ladjedelnica</comp>
+            </collocation>
+            <collocation form="remonten zavod" cluster="2" frequency="115" logDice="5.24">
+              <comp position="1" type="headword" sloleks="LE_7fac358403fa23680c7ed3b2e2edbf24">remonten</comp>
+              <comp position="2" type="collocate" sloleks="LE_2777d6c1285e9554661aeab8eb5b4753">zavod</comp>
+            </collocation>
+            <collocation form="remontna delavnica" cluster="3" frequency="20" logDice="3.17">
+              <comp position="1" type="headword" sloleks="LE_7fac358403fa23680c7ed3b2e2edbf24">remontna</comp>
+              <comp position="2" type="collocate" sloleks="LE_cdb16d4c515c146a270237e7a121813e">delavnica</comp>
+            </collocation>
+            <collocation form="remontna dejavnost" cluster="4" frequency="73" logDice="3.09">
+              <comp position="1" type="headword" sloleks="LE_7fac358403fa23680c7ed3b2e2edbf24">remontna</comp>
+              <comp position="2" type="collocate" sloleks="LE_7fd9651ddee6b84cd9c853211be163f8">dejavnost</comp>
+            </collocation>
+            <collocation form="remontna storitev" cluster="4" frequency="16" logDice="2.12">
+              <comp position="1" type="headword" sloleks="LE_7fac358403fa23680c7ed3b2e2edbf24">remontna</comp>
+              <comp position="2" type="collocate" sloleks="LE_abb14230c15d4fd66a15377c1ed699a9">storitev</comp>
+            </collocation>
+            <collocation form="remontno delo" cluster="5" frequency="99" logDice="2.27">
+              <comp position="1" type="headword" sloleks="LE_7fac358403fa23680c7ed3b2e2edbf24">remontno</comp>
+              <comp position="2" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+            </collocation>
+            <collocation form="remontna skupnost" cluster="6" frequency="12" logDice="0.63">
+              <comp position="1" type="headword" sloleks="LE_7fac358403fa23680c7ed3b2e2edbf24">remontna</comp>
+              <comp position="2" type="collocate" sloleks="LE_a54e3d34cf1afe3eafb013c4eaa4f477">skupnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="avtoservisno remonten" cluster="1" frequency="36" logDice="13.51">
+              <comp position="1" type="collocate" sloleks="">avtoservisno</comp>
+              <comp position="2" type="headword" sloleks="LE_7fac358403fa23680c7ed3b2e2edbf24">remonten</comp>
+            </collocation>
+            <collocation form="tehnično remonten" cluster="2" frequency="14" logDice="5.67">
+              <comp position="1" type="collocate" sloleks="LE_52df39edf3632182af7c8d2fb7d9e705">tehnično</comp>
+              <comp position="2" type="headword" sloleks="LE_7fac358403fa23680c7ed3b2e2edbf24">remonten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

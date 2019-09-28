@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="64778">kontrabant</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">524</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 čez sbz4">
+          <collocations>
+            <collocation form="Kontrabant čez Idrijo" cluster="1" frequency="10" logDice="12.65">
+              <comp position="1" type="headword" sloleks="LE_424f8571956d20f2cc742f28f43472b4">Kontrabant</comp>
+              <comp position="2" type="other" sloleks="LE_160ad4b4b11d5503081a58eba3acf84d">čez</comp>
+              <comp position="3" type="collocate" sloleks="LE_54a8f95c7dc2df8b1d9bc734957946dc">Idrijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="dežela kontrabanta" cluster="1" frequency="6" logDice="2.86">
+              <comp position="1" type="collocate" sloleks="LE_21c89b1f11d02144625685de7b2e94af">dežela</comp>
+              <comp position="2" type="headword" sloleks="LE_424f8571956d20f2cc742f28f43472b4">kontrabanta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

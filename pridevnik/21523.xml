@@ -1,0 +1,76 @@
+<entry>
+  <header>
+    <lexical_unit id="21523">konfesionalen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">904</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="konfesionalen in nekonfesionalen" cluster="1" frequency="13" logDice="12.59">
+              <comp position="1" type="headword" sloleks="LE_19c92ea9d07a296fe5f52618db6b1516">konfesionalen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_6dc85ba5312c886dfd50046a042a3327">nekonfesionalen</comp>
+            </collocation>
+            <collocation form="konfesionalen in/ali ideološki" cluster="2" frequency="17" logDice="7.76">
+              <comp position="3" type="headword" sloleks="LE_19c92ea9d07a296fe5f52618db6b1516">konfesionalen</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_a75e43b3d3489521f7d7c7155588636e">ideološki</comp>
+              </collocation>
+            <collocation form="konfesionalen ali političen" cluster="3" frequency="5" logDice="2.14">
+              <comp position="1" type="headword" sloleks="LE_19c92ea9d07a296fe5f52618db6b1516">konfesionalen</comp>
+              <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_a3bb12165721c242382f7e67d68cd13a">političen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="konfesionalen pouk" cluster="1" frequency="189" logDice="8.36">
+              <comp position="1" type="headword" sloleks="LE_19c92ea9d07a296fe5f52618db6b1516">konfesionalen</comp>
+              <comp position="2" type="collocate" sloleks="LE_dde1178c0f1874d5d84f51e66bdb04ee">pouk</comp>
+            </collocation>
+            <collocation form="konfesionalen verouk" cluster="2" frequency="13" logDice="8.16">
+              <comp position="1" type="headword" sloleks="LE_19c92ea9d07a296fe5f52618db6b1516">konfesionalen</comp>
+              <comp position="2" type="collocate" sloleks="LE_800f682bae8416467edb278df8243edb">verouk</comp>
+            </collocation>
+            <collocation form="konfesionalna vernost" cluster="3" frequency="8" logDice="7.78">
+              <comp position="1" type="headword" sloleks="LE_19c92ea9d07a296fe5f52618db6b1516">konfesionalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_cec5b09d8f7bba2e567c2cdd19dd1fcf">vernost</comp>
+            </collocation>
+            <collocation form="konfesionalna dejavnost" cluster="4" frequency="329" logDice="5.26">
+              <comp position="1" type="headword" sloleks="LE_19c92ea9d07a296fe5f52618db6b1516">konfesionalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_7fd9651ddee6b84cd9c853211be163f8">dejavnost</comp>
+            </collocation>
+            <collocation form="konfesionalna pripadnost" cluster="5" frequency="14" logDice="5.25">
+              <comp position="1" type="headword" sloleks="LE_19c92ea9d07a296fe5f52618db6b1516">konfesionalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_3b01ac625a834e8f5697a4a7ce060e10">pripadnost</comp>
+            </collocation>
+            <collocation form="konfesionalen smisel" cluster="6" frequency="8" logDice="2.77">
+              <comp position="1" type="headword" sloleks="LE_19c92ea9d07a296fe5f52618db6b1516">konfesionalen</comp>
+              <comp position="2" type="collocate" sloleks="LE_5360d45e9cbd1bd626d7f2caefd4dff5">smisel</comp>
+            </collocation>
+            <collocation form="konfesionalen predmet" cluster="7" frequency="14" logDice="2.6">
+              <comp position="1" type="headword" sloleks="LE_19c92ea9d07a296fe5f52618db6b1516">konfesionalen</comp>
+              <comp position="2" type="collocate" sloleks="LE_d51cd609db6fe289654ca191c3ec4f9a">predmet</comp>
+            </collocation>
+            <collocation form="konfesionalna šola" cluster="8" frequency="24" logDice="0.66">
+              <comp position="1" type="headword" sloleks="LE_19c92ea9d07a296fe5f52618db6b1516">konfesionalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_9c664dac39a3cc920d3849a80fadafa1">šola</comp>
+            </collocation>
+            <collocation form="konfesionalna institucija" cluster="8" frequency="9" logDice="2.34">
+              <comp position="1" type="headword" sloleks="LE_19c92ea9d07a296fe5f52618db6b1516">konfesionalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_cbdaa374765e1d9753223abce5f1a05e">institucija</comp>
+            </collocation>
+            <collocation form="konfesionalna vojna" cluster="9" frequency="9" logDice="0.65">
+              <comp position="1" type="headword" sloleks="LE_19c92ea9d07a296fe5f52618db6b1516">konfesionalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_b0936a94a2134cd7fa018cf829ffd67c">vojna</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

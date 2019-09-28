@@ -1,0 +1,52 @@
+<entry>
+  <header>
+    <lexical_unit id="59205">hetera</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">750</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="hetera družine" cluster="1" frequency="19" logDice="3.12">
+              <comp position="1" type="headword" sloleks="LE_ea01eae1e1697d3c999ba4ccac73360b">hetera</comp>
+              <comp position="2" type="collocate" sloleks="LE_9a7d912c8ec5a6cbc42d2975b5563b34">družine</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="živeti v hetero" cluster="1" frequency="5" logDice="7.92">
+              <comp position="1" type="collocate" sloleks="LE_42cc4ca3168ca0f408ce857620c0a7d0">živeti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_ea01eae1e1697d3c999ba4ccac73360b">hetero</comp>
+            </collocation>
+            <collocation form="zrasti v hetero" cluster="2" frequency="4" logDice="5.86">
+              <comp position="1" type="collocate" sloleks="LE_2a93ad516783cd5de4f8d7e5f28f9949">zrasti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_ea01eae1e1697d3c999ba4ccac73360b">hetero</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="grška hetera" cluster="1" frequency="12" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_d2c3a5a78719438589d3599c8e208aef">grška</comp>
+              <comp position="2" type="headword" sloleks="LE_ea01eae1e1697d3c999ba4ccac73360b">hetera</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 med SBZ6">
+          <collocations>
+            <collocation form="razlika med hetero" cluster="1" frequency="5" logDice="2.22">
+              <comp position="1" type="collocate" sloleks="LE_d8b5c5f08355edee42707780bbb4bdb8">razlika</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_ea01eae1e1697d3c999ba4ccac73360b">hetero</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

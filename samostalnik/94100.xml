@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="94100">triceps</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">433</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="izteg tricepsa" cluster="1" frequency="5" logDice="8.4">
+              <comp position="1" type="collocate" sloleks="LE_42e278c6304ca2093197a1212365bf94">izteg</comp>
+              <comp position="2" type="headword" sloleks="LE_623ba4a68a5e0b15b4529e1c132cc2c1">tricepsa</comp>
+            </collocation>
+            <collocation form="krepitev tricepsa" cluster="2" frequency="7" logDice="3.55">
+              <comp position="1" type="collocate" sloleks="LE_0d06730910ee7785f31e163d2e97bf42">krepitev</comp>
+              <comp position="2" type="headword" sloleks="LE_623ba4a68a5e0b15b4529e1c132cc2c1">tricepsa</comp>
+            </collocation>
+            <collocation form="glava tricepsa" cluster="3" frequency="7" logDice="3.4">
+              <comp position="1" type="collocate" sloleks="LE_49f28ed22f8b4f55f12b45ad1b95d3b0">glava</comp>
+              <comp position="2" type="headword" sloleks="LE_623ba4a68a5e0b15b4529e1c132cc2c1">tricepsa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="vaja za triceps" cluster="1" frequency="18" logDice="6.05">
+              <comp position="1" type="collocate" sloleks="LE_6e477d94a905db5ae833309ca1b97dc6">vaja</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_623ba4a68a5e0b15b4529e1c132cc2c1">triceps</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

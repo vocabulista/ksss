@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="16244">disketen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1124</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="disketen pogon" cluster="1" frequency="207" logDice="7.64">
+              <comp position="1" type="headword" sloleks="LE_ea5dccc64d2e2541959e6926bae47102">disketen</comp>
+              <comp position="2" type="collocate" sloleks="LE_4f66efe3bc56e39a131be9f6acd56121">pogon</comp>
+            </collocation>
+            <collocation form="disketna enota" cluster="2" frequency="861" logDice="7.12">
+              <comp position="1" type="headword" sloleks="LE_ea5dccc64d2e2541959e6926bae47102">disketna</comp>
+              <comp position="2" type="collocate" sloleks="LE_5b2baaa4fc466ab2dbf8c640e98f7c08">enota</comp>
+            </collocation>
+            <collocation form="disketen CD" cluster="3" frequency="10" logDice="6.12">
+              <comp position="1" type="headword" sloleks="LE_ea5dccc64d2e2541959e6926bae47102">disketen</comp>
+              <comp position="2" type="collocate" sloleks="LE_41dbc4486cd960251a259a8e3bc94149|LE_07e0c4c849a6b27ce27956e89ad992e3">CD</comp>
+            </collocation>
+            <collocation form="disketna afera" cluster="4" frequency="6" logDice="2.91">
+              <comp position="1" type="headword" sloleks="LE_ea5dccc64d2e2541959e6926bae47102">disketna</comp>
+              <comp position="2" type="collocate" sloleks="LE_e31a0beeface78aaee253009dde95f9b">afera</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

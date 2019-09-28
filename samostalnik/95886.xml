@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="95886">velikonočnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">521</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="endemična velikonočnica" cluster="1" frequency="8" logDice="8.24">
+              <comp position="1" type="collocate" sloleks="LE_e89376f066aebfd963d0e6b68e332796">endemična</comp>
+              <comp position="2" type="headword" sloleks="LE_3c30d6ea8d3cc1528e5e04abb777baa4">velikonočnica</comp>
+            </collocation>
+            <collocation form="zaščitena velikonočnica" cluster="2" frequency="11" logDice="2.39">
+              <comp position="1" type="collocate" sloleks="LE_8804aae7598c25af7b9b2bced066d3cf|LE_04a753aab404a0b14ef5d19e35f9c4b6">zaščitena</comp>
+              <comp position="2" type="headword" sloleks="LE_3c30d6ea8d3cc1528e5e04abb777baa4">velikonočnica</comp>
+            </collocation>
+            <collocation form="redka velikonočnica" cluster="3" frequency="9" logDice="2.25">
+              <comp position="1" type="collocate" sloleks="LE_72949f28f66775733fc64529f9037fda">redka</comp>
+              <comp position="2" type="headword" sloleks="LE_3c30d6ea8d3cc1528e5e04abb777baa4">velikonočnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="rastišče velikonočnice" cluster="1" frequency="49" logDice="10.67">
+              <comp position="1" type="collocate" sloleks="LE_fbddb441d18099fef50d3113bda4aa57">rastišče</comp>
+              <comp position="2" type="headword" sloleks="LE_3c30d6ea8d3cc1528e5e04abb777baa4">velikonočnice</comp>
+            </collocation>
+            <collocation form="cvet velikonočnice" cluster="2" frequency="21" logDice="6.44">
+              <comp position="1" type="collocate" sloleks="LE_94d0f7e010ad7f3fd319d2500a8722ff">cvet</comp>
+              <comp position="2" type="headword" sloleks="LE_3c30d6ea8d3cc1528e5e04abb777baa4">velikonočnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

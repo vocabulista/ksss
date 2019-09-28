@@ -1,0 +1,791 @@
+<entry>
+  <header>
+    <lexical_unit id="94082">trgovinica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">4028</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz5">
+          <collocations>
+            <collocation form="trgovinica na vogalu" cluster="1" frequency="8" logDice="7.5">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_648d569afa569deee9aa6e902f76196e">vogalu</comp>
+            </collocation>
+            <collocation form="trgovinica na tržnici" cluster="2" frequency="5" logDice="4.87">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_58ef3ffa045ce4268bd6c09acc7f1c99">tržnici</comp>
+            </collocation>
+            <collocation form="trgovinica na trgu" cluster="3" frequency="10" logDice="1.43">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_b735dfd291d0abd31eeabd75c4133487">trgu</comp>
+            </collocation>
+            <collocation form="trgovinica na ulici" cluster="3" frequency="9" logDice="3.7">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_554c79ab5e7baf29f70e8135a860c0e8">ulici</comp>
+            </collocation>
+            <collocation form="trgovinica na domu" cluster="3" frequency="6" logDice="3.37">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">domu</comp>
+            </collocation>
+            <collocation form="trgovinica na kmetiji" cluster="4" frequency="6" logDice="3.6">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_4b6dc4ee113f77788107a47c03291f40">kmetiji</comp>
+            </collocation>
+            <collocation form="trgovinica na strani" cluster="5" frequency="4" logDice="0.35">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_4432316ca39663f747c84fc21ac8e398">strani</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sredi sbz2">
+          <collocations>
+            <collocation form="trgovinica sredi mesta" cluster="1" frequency="4" logDice="6.19">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_b08dd6bd0f7648995dbd89fc74338f12">sredi</comp>
+              <comp position="3" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="trgovinica v vasici" cluster="1" frequency="7" logDice="6.95">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_0970c6fd2dcc3534d5542741ae24890f">vasici</comp>
+            </collocation>
+            <collocation form="trgovinica v jedru" cluster="2" frequency="9" logDice="5.96">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_1894b908c1595df21d247ce277282176">jedru</comp>
+            </collocation>
+            <collocation form="trgovinica v sklopu" cluster="2" frequency="4" logDice="4.06">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_bad9ac9ff6210bd8a301e6432e1b4209">sklopu</comp>
+            </collocation>
+            <collocation form="trgovinica v središču" cluster="3" frequency="22" logDice="4.87">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_9dcd9cc0d8f8ec1e5b9359a56c159356">središču</comp>
+            </collocation>
+            <collocation form="trgovinica v Ljubljani" cluster="3" frequency="9" logDice="0.74">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee11c4f6f901052d38c8252202477c9e">Ljubljani</comp>
+            </collocation>
+            <collocation form="trgovinica v mestu" cluster="3" frequency="8" logDice="1.76">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mestu</comp>
+            </collocation>
+            <collocation form="trgovinica v centru" cluster="3" frequency="8" logDice="3.39">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_2f065577a7792f26481f7fba67e1e5ab">centru</comp>
+            </collocation>
+            <collocation form="trgovinica v hiši" cluster="3" frequency="5" logDice="2.55">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_34e4b2cb65c667c6bf374f39db0e3597">hiši</comp>
+            </collocation>
+            <collocation form="trgovinica v vasi" cluster="3" frequency="4" logDice="2.43">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_746c4faa0cb704f82cd12acb408c94d3">vasi</comp>
+            </collocation>
+            <collocation form="trgovinica v nadstropju" cluster="4" frequency="5" logDice="4.16">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_0a1df5e3afec978fde2b3232b6bd1cc3">nadstropju</comp>
+            </collocation>
+            <collocation form="trgovinica v pritličju" cluster="4" frequency="4" logDice="4.69">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_9e53adb4733fb70c24f886d1b5753fc9">pritličju</comp>
+            </collocation>
+            <collocation form="trgovinica v ulici" cluster="5" frequency="8" logDice="3.94">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_554c79ab5e7baf29f70e8135a860c0e8">ulici</comp>
+            </collocation>
+            <collocation form="trgovinica v hotelu" cluster="5" frequency="4" logDice="2.84">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_11a5bf5cb49046224e398004267e2b90">hotelu</comp>
+            </collocation>
+            <collocation form="trgovinica v bližini" cluster="6" frequency="6" logDice="2.66">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_22ba8bb95587a3b4b7a0fd643359f2fb">bližini</comp>
+            </collocation>
+            <collocation form="prodajalka v trgovinici" cluster="7" frequency="8" logDice="7.92">
+              <comp position="1" type="collocate" sloleks="LE_c6615434acc5ca6c54af8926d625792e">prodajalka</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinici</comp>
+            </collocation>
+            <collocation form="nakupovanje v trgovinici" cluster="8" frequency="4" logDice="7.04">
+              <comp position="1" type="collocate" sloleks="LE_886cfdf50f13ba1c10557198f531ed80">nakupovanje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinici</comp>
+            </collocation>
+            <collocation form="trgovec v trgovinici" cluster="9" frequency="8" logDice="6.98">
+              <comp position="1" type="collocate" sloleks="LE_3993e5ce3f42afe24c248b78ce911c44">trgovec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinici</comp>
+            </collocation>
+            <collocation form="prodajalec v trgovinici" cluster="9" frequency="5" logDice="6.68">
+              <comp position="1" type="collocate" sloleks="LE_c111b06cc21d73e72c27cd45219eea83">prodajalec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinici</comp>
+            </collocation>
+            <collocation form="delo v trgovinici" cluster="10" frequency="5" logDice="0.89">
+              <comp position="1" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinici</comp>
+            </collocation>
+            <collocation form="prodaja v trgovinici" cluster="10" frequency="4" logDice="3.99">
+              <comp position="1" type="collocate" sloleks="LE_73b8ad7802a6ed5de4d0eb5d4f69e0b2">prodaja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="trgovinica s spominkom" cluster="1" frequency="198" logDice="11.88">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_37a7a9e0500b2ad6050c81858e27090a">spominkom</comp>
+            </collocation>
+            <collocation form="trgovinica s potrebščino" cluster="2" frequency="11" logDice="8.38">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_08b2ddc594e8541de7c6514510c19d58">potrebščino</comp>
+            </collocation>
+            <collocation form="trgovinica z obrtjo" cluster="3" frequency="4" logDice="7.37">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_03a5bc7a4aed1ab39bb88da6746d1f90">obrtjo</comp>
+            </collocation>
+            <collocation form="trgovinica z blagom" cluster="4" frequency="16" logDice="7.09">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_2c37e2846fd184de09f16e125bb1c28d">blagom</comp>
+            </collocation>
+            <collocation form="trgovinica z darilom" cluster="5" frequency="6" logDice="6.93">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_793c43f9ab831a61651cb39c75049b69">darilom</comp>
+            </collocation>
+            <collocation form="trgovinica z živilom" cluster="6" frequency="12" logDice="6.81">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_0da46ccc13d41690183b64eceaeab0f0">živilom</comp>
+            </collocation>
+            <collocation form="trgovinica z zelenjavo" cluster="6" frequency="5" logDice="5.67">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_5508fb41c3d27538770156c7188c5329">zelenjavo</comp>
+            </collocation>
+            <collocation form="trgovinica z vinom" cluster="6" frequency="4" logDice="5.49">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_0ae7c92af34780f7f1922cd5b9806ca5">vinom</comp>
+            </collocation>
+            <collocation form="trgovinica z sadjem" cluster="6" frequency="4" logDice="5.48">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_0a5411794f51512fad9cffd341d0450e">sadjem</comp>
+            </collocation>
+            <collocation form="trgovinica s oblačilom" cluster="7" frequency="22" logDice="7.93">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_bd99cf35070ea402a178ea6ec61df2cc">oblačilom</comp>
+            </collocation>
+            <collocation form="trgovinica s čevljem" cluster="7" frequency="10" logDice="7.47">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_1a09bef53dca30614de78fc93d660bac">čevljem</comp>
+            </collocation>
+            <collocation form="trgovinica s nakitom" cluster="7" frequency="8" logDice="7.85">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_b55b6fb092a3683fb3980e28f956ba42">nakitom</comp>
+            </collocation>
+            <collocation form="trgovinica s perilom" cluster="7" frequency="4" logDice="6.76">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_6c2dbc1aedf74642271fe1f873a39822">perilom</comp>
+            </collocation>
+            <collocation form="trgovinica s časopisom" cluster="8" frequency="4" logDice="6.76">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_34e3ef81e77e995ef88c4b217d0fffce">časopisom</comp>
+            </collocation>
+            <collocation form="trgovinica s izdelkom" cluster="9" frequency="43" logDice="7.83">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_bbffae950f5cec8d80d5d541602c3313">izdelkom</comp>
+            </collocation>
+            <collocation form="trgovinica s ponudbo" cluster="9" frequency="18" logDice="6.64">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_d9e3765be172d6f3372cede08396a2f8">ponudbo</comp>
+            </collocation>
+            <collocation form="trgovinica s predmetom" cluster="9" frequency="9" logDice="6.69">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_d51cd609db6fe289654ca191c3ec4f9a">predmetom</comp>
+            </collocation>
+            <collocation form="trgovinica s dodatkom" cluster="9" frequency="9" logDice="5.51">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_b823bdcf315aa4e078f3dbc0741bde3b">dodatkom</comp>
+            </collocation>
+            <collocation form="trgovinica s opremo" cluster="9" frequency="8" logDice="4.9">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_7c582f88b553e5dc3aeb56af36d217ec">opremo</comp>
+            </collocation>
+            <collocation form="trgovinica s materialom" cluster="9" frequency="4" logDice="5.37">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_3c83a59228fd24befce6e7dbf8479f4f">materialom</comp>
+            </collocation>
+            <collocation form="trgovinica s hrano" cluster="9" frequency="4" logDice="3.95">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_4b3b80327bf9e7fafcc3a73e85eae950">hrano</comp>
+            </collocation>
+            <collocation form="trgovinica s tekstilom" cluster="10" frequency="4" logDice="6.68">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_24143e35379ea5376542bb9ddaed6efd">tekstilom</comp>
+            </collocation>
+            <collocation form="trgovinica s čokolado" cluster="11" frequency="4" logDice="6.44">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_a9fd7fcd3d860cd54fc98e6b5294d783">čokolado</comp>
+            </collocation>
+            <collocation form="trgovinica z robo" cluster="12" frequency="8" logDice="8.22">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_e4d34b3bbeb70f879c89d4de9bbf09f9">robo</comp>
+            </collocation>
+            <collocation form="trgovinica s prehrano" cluster="13" frequency="7" logDice="6.26">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_cc45ccb9ca4af414d51013e339a1766f">prehrano</comp>
+            </collocation>
+            <collocation form="trgovinica z delom" cluster="14" frequency="4" logDice="2.94">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delom</comp>
+            </collocation>
+            <collocation form="trgovinica s sladkarijo" cluster="15" frequency="6" logDice="7.91">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_a5746e2f2ec06902ba4d3ddf9c5943eb">sladkarijo</comp>
+            </collocation>
+            <collocation form="trgovinica z bižuterijo" cluster="16" frequency="4" logDice="7.64">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_15a1273e4bc6e9dba5c69b74ad1e4557">bižuterijo</comp>
+            </collocation>
+            <collocation form="trgovinica s keramiko" cluster="17" frequency="4" logDice="7.48">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_39ff6cb7a6a737914c0b9dfb1b77fcf0">keramiko</comp>
+            </collocation>
+            <collocation form="promenada s trgovinico" cluster="18" frequency="11" logDice="11.24">
+              <comp position="1" type="collocate" sloleks="LE_78c6cfd82ad807a8342e1936420494fe">promenada</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+            <collocation form="uličica s trgovinico" cluster="19" frequency="4" logDice="9.86">
+              <comp position="1" type="collocate" sloleks="LE_944f9f53b8783df9d6f59d4558d51d4d">uličica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+            <collocation form="ulica s trgovinico" cluster="20" frequency="5" logDice="6.82">
+              <comp position="1" type="collocate" sloleks="LE_554c79ab5e7baf29f70e8135a860c0e8">ulica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+            <collocation form="svet s trgovinico" cluster="21" frequency="5" logDice="4.49">
+              <comp position="1" type="collocate" sloleks="LE_55184295ed657acc8ec5dcd62f7084bf">svet</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+            <collocation form="mesto s trgovinico" cluster="22" frequency="7" logDice="3.89">
+              <comp position="1" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesto</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="trgovinica za turista" cluster="1" frequency="7" logDice="6.94">
+              <comp position="1" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_de863a2d5ba5aa449220fe8d6b5538e9">turista</comp>
+            </collocation>
+            <collocation form="prostor za trgovinico" cluster="2" frequency="5" logDice="1.52">
+              <comp position="1" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostor</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="ogledovati trgovinico" cluster="1" frequency="8" logDice="5.06">
+              <comp position="1" type="collocate" sloleks="LE_635e32b3585b2d57d4396f584f5dda8e">ogledovati</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+            <collocation form="odpreti trgovinico" cluster="2" frequency="96" logDice="4.69">
+              <comp position="1" type="collocate" sloleks="LE_e8a0b78c58df134dead0230dc2e801ab">odpreti</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+            <collocation form="najti trgovinico" cluster="2" frequency="19" logDice="1.72">
+              <comp position="1" type="collocate" sloleks="LE_843e328fc791979a62059ce2c06a66c8">najti</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+            <collocation form="urediti trgovinico" cluster="2" frequency="12" logDice="2.66">
+              <comp position="1" type="collocate" sloleks="LE_7c60aa387a485771432ec7438aaddefa">urediti</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+            <collocation form="obiskati trgovinico" cluster="2" frequency="11" logDice="2.73">
+              <comp position="1" type="collocate" sloleks="LE_ac330ed125bf741cd131a62e82535952">obiskati</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+            <collocation form="zapreti trgovinico" cluster="2" frequency="9" logDice="2.99">
+              <comp position="1" type="collocate" sloleks="LE_969a1a0f2700f3c509e26dc338f84db2">zapreti</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+            <collocation form="imeti trgovinico" cluster="3" frequency="74" logDice="0.78">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+            <collocation form="voditi trgovinico" cluster="3" frequency="9" logDice="1.82">
+              <comp position="1" type="collocate" sloleks="LE_b044981ae81c995865d0ad4c2cd7b62b">voditi</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz po SBZ5">
+          <collocations>
+            <collocation form="stikati po trgovinici" cluster="1" frequency="8" logDice="8.4">
+              <comp position="1" type="collocate" sloleks="LE_c3803cbe875696aa6eb79337f7b47329">stikati</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinici</comp>
+            </collocation>
+            <collocation form="sprehajati po trgovinici" cluster="2" frequency="4" logDice="3.88">
+              <comp position="1" type="collocate" sloleks="LE_15ec7270fa6f410c8c477e53ff5ed824">sprehajati</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="skočiti v trgovinico" cluster="1" frequency="4" logDice="4.01">
+              <comp position="1" type="collocate" sloleks="LE_dfe75638a5071bba1f69b07fc2709f40">skočiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+            <collocation form="zaviti v trgovinico" cluster="2" frequency="5" logDice="3.98">
+              <comp position="1" type="collocate" sloleks="LE_5ff12f6cc99e079a35d5719f91f56eec">zaviti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+            <collocation form="vstopiti v trgovinico" cluster="3" frequency="8" logDice="2.92">
+              <comp position="1" type="collocate" sloleks="LE_d1659a944d7f923f5649f2a88fa6f68e">vstopiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+            <collocation form="stopiti v trgovinico" cluster="3" frequency="5" logDice="2.61">
+              <comp position="1" type="collocate" sloleks="LE_c12c50e3eb3a6e95291005bd962d3fac">stopiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+            <collocation form="priti v trgovinico" cluster="4" frequency="5" logDice="0.55">
+              <comp position="1" type="collocate" sloleks="LE_fc339e29cc0e8ec9efe1ef0acdfb11b5">priti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+            <collocation form="hoditi v trgovinico" cluster="4" frequency="4" logDice="2.53">
+              <comp position="1" type="collocate" sloleks="LE_ecd5d4ecb63a8422fe3303a9c6e9ae32">hoditi</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="nakupovati v trgovinici" cluster="1" frequency="9" logDice="7.95">
+              <comp position="1" type="collocate" sloleks="LE_b7c80d46b3a60b5491d6028cdd129354">nakupovati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinici</comp>
+            </collocation>
+            <collocation form="kupiti v trgovinici" cluster="2" frequency="33" logDice="6.3">
+              <comp position="1" type="collocate" sloleks="LE_cfca503c3162d4a887b66b6d1a4f1f46">kupiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinici</comp>
+            </collocation>
+            <collocation form="prodajati v trgovinici" cluster="2" frequency="28" logDice="6.78">
+              <comp position="1" type="collocate" sloleks="LE_3f2240489d68f3fe669791a71de84651">prodajati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinici</comp>
+            </collocation>
+            <collocation form="ponujati v trgovinici" cluster="2" frequency="10" logDice="5.31">
+              <comp position="1" type="collocate" sloleks="LE_88f0935094203778c8c0128032bfb22b">ponujati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinici</comp>
+            </collocation>
+            <collocation form="pomagati v trgovinici" cluster="2" frequency="4" logDice="3.5">
+              <comp position="1" type="collocate" sloleks="LE_2fc43d313cb40b86ed2a370a430e93c1">pomagati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinici</comp>
+            </collocation>
+            <collocation form="najti v trgovinici" cluster="3" frequency="9" logDice="2.52">
+              <comp position="1" type="collocate" sloleks="LE_843e328fc791979a62059ce2c06a66c8">najti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinici</comp>
+            </collocation>
+            <collocation form="dobiti v trgovinici" cluster="3" frequency="7" logDice="2.41">
+              <comp position="1" type="collocate" sloleks="LE_abe97863495bd3d2d1b41f81933061b7">dobiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinici</comp>
+            </collocation>
+            <collocation form="videti v trgovinici" cluster="3" frequency="7" logDice="2.27">
+              <comp position="1" type="collocate" sloleks="LE_c26a3fecae6697a7f6f9475e85ca9f58">videti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinici</comp>
+            </collocation>
+            <collocation form="delati v trgovinici" cluster="3" frequency="7" logDice="2.25">
+              <comp position="1" type="collocate" sloleks="LE_240594860749d18971944f6690505af1">delati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinici</comp>
+            </collocation>
+            <collocation form="znajti v trgovinici" cluster="4" frequency="6" logDice="1.92">
+              <comp position="1" type="collocate" sloleks="LE_c7ea193e7027efd5dd87ce5a7383424d">znajti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="preživljati s trgovinico" cluster="1" frequency="6" logDice="5.28">
+              <comp position="1" type="collocate" sloleks="LE_dd6b659bb1696dc1baa94c382e5d84a0">preživljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za trgovinico" cluster="1" frequency="5" logDice="-1.28">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="butična trgovinica" cluster="1" frequency="16" logDice="7.31">
+              <comp position="1" type="collocate" sloleks="LE_ac72bb1cfc59fbe20cf40623cbc402d7">butična</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="zakotna trgovinica" cluster="2" frequency="12" logDice="6.49">
+              <comp position="1" type="collocate" sloleks="LE_6d3fd651be6b6844ae55fe34aa38fb54">zakotna</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="erotična trgovinica" cluster="3" frequency="14" logDice="4.48">
+              <comp position="1" type="collocate" sloleks="LE_6cd799354cbad998b8d0503d2ab3af61">erotična</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="vaška trgovinica" cluster="4" frequency="22" logDice="4.44">
+              <comp position="1" type="collocate" sloleks="LE_6f68bece59c6bc45dc865ee7515a820f">vaška</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="specializirana trgovinica" cluster="5" frequency="12" logDice="4.36">
+              <comp position="1" type="collocate" sloleks="LE_c4eb5a3d2f52a889bfde8700a42cb50e">specializirana</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="majhna trgovinica" cluster="6" frequency="279" logDice="4.23">
+              <comp position="1" type="collocate" sloleks="LE_046f6756496c07b99f5ce226a4c8204d">majhna</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="številna trgovinica" cluster="6" frequency="141" logDice="3.64">
+              <comp position="1" type="collocate" sloleks="LE_4f31fb911f8a68938dce145d431affa8">številna</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="polna trgovinica" cluster="6" frequency="31" logDice="2.37">
+              <comp position="1" type="collocate" sloleks="LE_ba66920997eaf6ebf1b95667348fc4c3">polna</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="razna trgovinica" cluster="6" frequency="12" logDice="1.85">
+              <comp position="1" type="collocate" sloleks="LE_10ab2d5761b41f492d84f334d55dcdd9">razna</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="redka trgovinica" cluster="6" frequency="9" logDice="2.2">
+              <comp position="1" type="collocate" sloleks="LE_72949f28f66775733fc64529f9037fda">redka</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="živilska trgovinica" cluster="7" frequency="9" logDice="3.94">
+              <comp position="1" type="collocate" sloleks="LE_9a9cec528b211c7db832140f9dcf779d">živilska</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="mala trgovinica" cluster="8" frequency="129" logDice="3.86">
+              <comp position="1" type="collocate" sloleks="LE_0b2cc34f00671cbd2bc04dca56aba76b">mala</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="Rdeča trgovinica" cluster="8" frequency="10" logDice="0.63">
+              <comp position="1" type="collocate" sloleks="LE_f39824a0a0c94efb31b4fa9dc908ea0f">Rdeča</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="zanimiva trgovinica" cluster="9" frequency="14" logDice="1.4">
+              <comp position="1" type="collocate" sloleks="LE_457382739f4bad61cb10e5eaedfe0425">zanimiva</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="skromna trgovinica" cluster="9" frequency="13" logDice="3.26">
+              <comp position="1" type="collocate" sloleks="LE_dfc3a42210ff4d3db2dae182fd34bb90">skromna</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="prijetna trgovinica" cluster="9" frequency="10" logDice="1.97">
+              <comp position="1" type="collocate" sloleks="LE_c54487f53545d75fcf13a9fa0732e5f5">prijetna</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="pisana trgovinica" cluster="9" frequency="8" logDice="3.12">
+              <comp position="1" type="collocate" sloleks="LE_8e94767c51196b3b4c3688a82597a53c">pisana</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="urejena trgovinica" cluster="10" frequency="21" logDice="3.25">
+              <comp position="1" type="collocate" sloleks="LE_ce47be4ef2a051504f7ac1423727f7e8">urejena</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="odprta trgovinica" cluster="10" frequency="20" logDice="2.11">
+              <comp position="1" type="collocate" sloleks="LE_4fee2700c77cfe4618d574b223a3d625">odprta</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="muzejska trgovinica" cluster="11" frequency="53" logDice="6.18">
+              <comp position="1" type="collocate" sloleks="LE_38da68b0d7385957dd8b99753b9c3487">muzejska</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="skrita trgovinica" cluster="12" frequency="8" logDice="2.76">
+              <comp position="1" type="collocate" sloleks="LE_58868a672ef2dcbc5baabb5b48da0f05">skrita</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="zasebna trgovinica" cluster="13" frequency="24" logDice="2.5">
+              <comp position="1" type="collocate" sloleks="LE_a52e18cf9191730c422e2822d9ecb6ce">zasebna</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="lokalna trgovinica" cluster="13" frequency="20" logDice="1.66">
+              <comp position="1" type="collocate" sloleks="LE_c4c329be50ab16177a6a46f6a9806c81">lokalna</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="lastna trgovinica" cluster="13" frequency="17" logDice="1.04">
+              <comp position="1" type="collocate" sloleks="LE_2abe7eaeb479470168734b06e7dd4872">lastna</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="modna trgovinica" cluster="13" frequency="16" logDice="2.3">
+              <comp position="1" type="collocate" sloleks="LE_5aa227c9115a49dba89c24d06c70f2ef">modna</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="turistična trgovinica" cluster="13" frequency="10" logDice="0.69">
+              <comp position="1" type="collocate" sloleks="LE_f87a89a2e9f5592be2bf24dc755bf6b5">turistična</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="bližnja trgovinica" cluster="14" frequency="16" logDice="2.33">
+              <comp position="1" type="collocate" sloleks="LE_110a275d00cc102bd686164f371a4676">bližnja</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="kitajska trgovinica" cluster="15" frequency="11" logDice="2.15">
+              <comp position="1" type="collocate" sloleks="LE_fb185a15f7fbc97760ca90b27e8bf70f">kitajska</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="zaprašena trgovinica" cluster="16" frequency="8" logDice="6.02">
+              <comp position="1" type="collocate" sloleks="LE_ac323edba6eb3159f52e637bc380e122">zaprašena</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="lična trgovinica" cluster="17" frequency="14" logDice="5.93">
+              <comp position="1" type="collocate" sloleks="LE_6b2928448356f2fb4790e1b62eee63f9">lična</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="založena trgovinica" cluster="18" frequency="10" logDice="5.76">
+              <comp position="1" type="collocate" sloleks="LE_2b196e811baa91ed3385ccc236028d23|LE_9add4c031d952a4388250695d8b3f97b">založena</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="ljubka trgovinica" cluster="19" frequency="17" logDice="5.73">
+              <comp position="1" type="collocate" sloleks="LE_93c794b63f43ed0d3a4521288fc6d12e">ljubka</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="prikupna trgovinica" cluster="19" frequency="14" logDice="5.49">
+              <comp position="1" type="collocate" sloleks="LE_147f26d2fe41b75a7efbfd3b40273a90">prikupna</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="nešteta trgovinica" cluster="20" frequency="13" logDice="5.53">
+              <comp position="1" type="collocate" sloleks="LE_756c799a987a9d4e7d584dd6e3c21647">nešteta</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+            <collocation form="samopostrežna trgovinica" cluster="21" frequency="9" logDice="5.48">
+              <comp position="1" type="collocate" sloleks="LE_ecd26c834b7505b205cda1a905f9286c">samopostrežna</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ2">
+          <collocations>
+            <collocation form="poln trgovinice" cluster="1" frequency="8" logDice="4.02">
+              <comp position="1" type="collocate" sloleks="LE_ba66920997eaf6ebf1b95667348fc4c3">poln</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 z SBZ6">
+          <collocations>
+            <collocation form="nasičen s trgovinico" cluster="1" frequency="6" logDice="8.1">
+              <comp position="1" type="collocate" sloleks="LE_5ed4a8922b5101914ff37fa823da869b">nasičen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+            <collocation form="obdan s trgovinico" cluster="2" frequency="7" logDice="4.87">
+              <comp position="1" type="collocate" sloleks="LE_df84c58e06750dc234ef73e12f75d45a">obdan</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="izložba trgovinice" cluster="1" frequency="7" logDice="6.91">
+              <comp position="1" type="collocate" sloleks="LE_6d62c68e6e8ab3157497dd6497fedddc">izložba</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+            <collocation form="polica trgovinice" cluster="2" frequency="7" logDice="5.21">
+              <comp position="1" type="collocate" sloleks="LE_e4ac3c64d714498678e90a03a52bb3f4">polica</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+            <collocation form="ulica trgovinice" cluster="3" frequency="6" logDice="2.55">
+              <comp position="1" type="collocate" sloleks="LE_554c79ab5e7baf29f70e8135a860c0e8">ulica</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+            <collocation form="množica trgovinice" cluster="4" frequency="7" logDice="2.5">
+              <comp position="1" type="collocate" sloleks="LE_7d16fbe97018e676409272758b6a725b">množica</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+            <collocation form="lastnik trgovinice" cluster="5" frequency="61" logDice="3.91">
+              <comp position="1" type="collocate" sloleks="LE_66c7de1ac3f03dd18265b3091c93bdc0">lastnik</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+            <collocation form="par trgovinice" cluster="5" frequency="7" logDice="2.48">
+              <comp position="1" type="collocate" sloleks="LE_dd28036b83c065c8e73341fe9c8f68f5">par</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+            <collocation form="odprtje trgovinice" cluster="6" frequency="6" logDice="2.28">
+              <comp position="1" type="collocate" sloleks="LE_ba593c44aa97d9afd1afe3a546de8df5">odprtje</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+            <collocation form="ogled trgovinice" cluster="6" frequency="5" logDice="1.47">
+              <comp position="1" type="collocate" sloleks="LE_6d61c73d7a928fcd2e3971cde100ab73">ogled</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+            <collocation form="obisk trgovinice" cluster="6" frequency="5" logDice="1.18">
+              <comp position="1" type="collocate" sloleks="LE_b8c2d2adf31d1e34a582d21c6efe5e02">obisk</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+            <collocation form="število trgovinice" cluster="7" frequency="18" logDice="0.96">
+              <comp position="1" type="collocate" sloleks="LE_59f757c87d8de95cdfd38f88b75245a6">število</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+            <collocation form="ponudba trgovinice" cluster="7" frequency="8" logDice="2.18">
+              <comp position="1" type="collocate" sloleks="LE_d9e3765be172d6f3372cede08396a2f8">ponudba</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+            <collocation form="poslovanje trgovinice" cluster="7" frequency="5" logDice="2.03">
+              <comp position="1" type="collocate" sloleks="LE_a40b6deb4d00eb82c4b5b9303ed451e6">poslovanje</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+            <collocation form="bližina trgovinice" cluster="8" frequency="6" logDice="1.61">
+              <comp position="1" type="collocate" sloleks="LE_22ba8bb95587a3b4b7a0fd643359f2fb">bližina</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+            <collocation form="notranjost trgovinice" cluster="8" frequency="5" logDice="2.94">
+              <comp position="1" type="collocate" sloleks="LE_00fc6e317e8f7ea30a0ffa258a11fd5e">notranjost</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+            <collocation form="kompleks trgovinice" cluster="9" frequency="5" logDice="4.64">
+              <comp position="1" type="collocate" sloleks="LE_43bbbc997ce18a591a586b1190e8aee5">kompleks</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+            <collocation form="lastnica trgovinice" cluster="10" frequency="11" logDice="4.3">
+              <comp position="1" type="collocate" sloleks="LE_d39f02c17da134a0c9e790b480bdedf0">lastnica</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+            <collocation form="vrata trgovinice" cluster="11" frequency="18" logDice="4.05">
+              <comp position="1" type="collocate" sloleks="LE_5b997c4e88dd626d1f19eb6721f9f994">vrata</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+            <collocation form="stena trgovinice" cluster="11" frequency="6" logDice="3.68">
+              <comp position="1" type="collocate" sloleks="LE_47b154875543bbeb3c61452a95a438a3">stena</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+            <collocation form="zapiranje trgovinice" cluster="12" frequency="5" logDice="4.04">
+              <comp position="1" type="collocate" sloleks="LE_c7c34d335a2193f821406ed207c89f99">zapiranje</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+            <collocation form="stotina trgovinice" cluster="13" frequency="5" logDice="3.75">
+              <comp position="1" type="collocate" sloleks="LE_016e6238b49e36170578f29ed22d2f98">stotina</comp>
+              <comp position="2" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 do SBZ2">
+          <collocations>
+            <collocation form="m do trgovinice" cluster="1" frequency="5" logDice="8.8">
+              <comp position="1" type="collocate" sloleks="LE_bc2f3fa6c5f02020bc972603cafa4b75">m</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 nad SBZ6">
+          <collocations>
+            <collocation form="oblika nad trgovinico" cluster="1" frequency="4" logDice="12.09">
+              <comp position="1" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">oblika</comp>
+              <comp position="2" type="other" sloleks="LE_d1a9059d44a24194d17af34039c48e9a">nad</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 po SBZ5">
+          <collocations>
+            <collocation form="nostalgija po trgovinici" cluster="1" frequency="4" logDice="7.04">
+              <comp position="1" type="collocate" sloleks="LE_226a688e04209dbab488bfba426ccd04">nostalgija</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinici</comp>
+            </collocation>
+            <collocation form="pohajkovanje po trgovinici" cluster="2" frequency="4" logDice="6.98">
+              <comp position="1" type="collocate" sloleks="LE_91ed9fa8f4b0620740a73b8a8b032068">pohajkovanje</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_6a95114d429e464dd5fec22c97262696">trgovinici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

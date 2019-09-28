@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="71541">nasilnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1049</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="nasilnost dejanja" cluster="1" frequency="8" logDice="2.51">
+              <comp position="1" type="headword" sloleks="LE_89c61a16746cb4997abc4abd951b42d3">nasilnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_838099f4290a785c6f8bfe0b75fb429d">dejanja</comp>
+            </collocation>
+            <collocation form="izbruh nasilnosti" cluster="2" frequency="6" logDice="3.71">
+              <comp position="1" type="collocate" sloleks="LE_4b6d9109d200561ab53d102a12e42bab">izbruh</comp>
+              <comp position="2" type="headword" sloleks="LE_89c61a16746cb4997abc4abd951b42d3">nasilnosti</comp>
+            </collocation>
+            <collocation form="stopnja nasilnosti" cluster="3" frequency="5" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_ed1cc20afdfdf1e20fe2e301bae175ee">stopnja</comp>
+              <comp position="2" type="headword" sloleks="LE_89c61a16746cb4997abc4abd951b42d3">nasilnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz o SBZ5">
+          <collocations>
+            <collocation form="govoriti o nasilnosti" cluster="1" frequency="4" logDice="-0.15">
+              <comp position="1" type="collocate" sloleks="LE_1da4dedf23c5041ae767d038d2430123">govoriti</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_89c61a16746cb4997abc4abd951b42d3">nasilnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz po SBZ5">
+          <collocations>
+            <collocation form="izstopati po nasilnosti" cluster="1" frequency="6" logDice="7.13">
+              <comp position="1" type="collocate" sloleks="LE_256e26c3b5e2ee8ea1dfb2727beb883d">izstopati</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_89c61a16746cb4997abc4abd951b42d3">nasilnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 po SBZ5">
+          <collocations>
+            <collocation form="znan po nasilnosti" cluster="1" frequency="7" logDice="3.41">
+              <comp position="1" type="collocate" sloleks="LE_3ca4e8269ed35ff770799effa47b0eda">znan</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_89c61a16746cb4997abc4abd951b42d3">nasilnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 pred SBZ6">
+          <collocations>
+            <collocation form="strah pred nasilnostjo" cluster="1" frequency="5" logDice="2.33">
+              <comp position="1" type="collocate" sloleks="LE_ec7941261a5b1a40fb742699e58175ca">strah</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="headword" sloleks="LE_89c61a16746cb4997abc4abd951b42d3">nasilnostjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

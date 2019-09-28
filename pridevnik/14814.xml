@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="14814">brezpiloten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">649</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="brezpiloten letalnik" cluster="1" frequency="27" logDice="10.27">
+              <comp position="1" type="headword" sloleks="LE_c8ca6e0b4cbbf13fe0310b23edd433ba">brezpiloten</comp>
+              <comp position="2" type="collocate" sloleks="">letalnik</comp>
+            </collocation>
+            <collocation form="brezpilotno letalo" cluster="2" frequency="506" logDice="8.19">
+              <comp position="1" type="headword" sloleks="LE_c8ca6e0b4cbbf13fe0310b23edd433ba">brezpilotno</comp>
+              <comp position="2" type="collocate" sloleks="LE_6bf9d47d4d57721e1f631edb30e33595">letalo</comp>
+            </collocation>
+            <collocation form="brezpilotno plovilo" cluster="3" frequency="52" logDice="6.61">
+              <comp position="1" type="headword" sloleks="LE_c8ca6e0b4cbbf13fe0310b23edd433ba">brezpilotno</comp>
+              <comp position="2" type="collocate" sloleks="LE_e2a47bdc28bc460e5719bcb7c439486b">plovilo</comp>
+            </collocation>
+            <collocation form="brezpiloten bombnik" cluster="4" frequency="8" logDice="6.27">
+              <comp position="1" type="headword" sloleks="LE_c8ca6e0b4cbbf13fe0310b23edd433ba">brezpiloten</comp>
+              <comp position="2" type="collocate" sloleks="LE_c09561f09dbca9a0735ae1ba23d0af02">bombnik</comp>
+            </collocation>
+            <collocation form="brezpiloten helikopter" cluster="5" frequency="7" logDice="4.93">
+              <comp position="1" type="headword" sloleks="LE_c8ca6e0b4cbbf13fe0310b23edd433ba">brezpiloten</comp>
+              <comp position="2" type="collocate" sloleks="LE_ce3d0467026af121511129a19111dd99">helikopter</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="več brezpiloten" cluster="1" frequency="7" logDice="0.52">
+              <comp position="1" type="collocate" sloleks="LE_35a40117ea9b0ca39c7a43d940592d29">več</comp>
+              <comp position="2" type="headword" sloleks="LE_c8ca6e0b4cbbf13fe0310b23edd433ba">brezpiloten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

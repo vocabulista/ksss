@@ -1,0 +1,109 @@
+<entry>
+  <header>
+    <lexical_unit id="16003">depoziten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">874</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="depoziten in posojilen" cluster="1" frequency="15" logDice="10.73">
+              <comp position="1" type="headword" sloleks="LE_44b5d8889725a113dd2a57c36acf2b60">depoziten</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_fd2b93380d4c18bb3aa7de005371b7e9">posojilen</comp>
+            </collocation>
+            <collocation form="depoziten in/ali krediten" cluster="2" frequency="39" logDice="10.24">
+              <comp position="3" type="headword" sloleks="LE_44b5d8889725a113dd2a57c36acf2b60">depoziten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_fd2b12e3d543f092e5c17e65c245bad5">krediten</comp>
+              </collocation>
+            <collocation form="depoziten in/ali renten" cluster="3" frequency="6" logDice="9.7">
+              <comp position="3" type="headword" sloleks="LE_44b5d8889725a113dd2a57c36acf2b60">depoziten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_2577f54fe25fcc8a945075a4b6778198">renten</comp>
+              </collocation>
+            <collocation form="depoziten in/ali tekoč" cluster="4" frequency="7" logDice="6.59">
+              <comp position="3" type="headword" sloleks="LE_44b5d8889725a113dd2a57c36acf2b60">depoziten</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_fbc50b8e8e5b135ab1606c0b7ff9ce32">tekoč</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="depoziten OM" cluster="1" frequency="10" logDice="8.15">
+              <comp position="1" type="headword" sloleks="LE_44b5d8889725a113dd2a57c36acf2b60">depoziten</comp>
+              <comp position="2" type="collocate" sloleks="LE_e9e84b32a7e5c72ee5cc1b208e330289">OM</comp>
+            </collocation>
+            <collocation form="depozitno varčevanje" cluster="2" frequency="40" logDice="7.25">
+              <comp position="1" type="headword" sloleks="LE_44b5d8889725a113dd2a57c36acf2b60">depozitno</comp>
+              <comp position="2" type="collocate" sloleks="LE_94bc156a8a04e0616f0dcecd148ff954">varčevanje</comp>
+            </collocation>
+            <collocation form="depozitna baza" cluster="3" frequency="9" logDice="3.32">
+              <comp position="1" type="headword" sloleks="LE_44b5d8889725a113dd2a57c36acf2b60">depozitna</comp>
+              <comp position="2" type="collocate" sloleks="LE_93a7dc5be8f36d1f6d4a11e746674f40">baza</comp>
+            </collocation>
+            <collocation form="depozitna pogodba" cluster="4" frequency="109" logDice="4.22">
+              <comp position="1" type="headword" sloleks="LE_44b5d8889725a113dd2a57c36acf2b60">depozitna</comp>
+              <comp position="2" type="collocate" sloleks="LE_f8f86304f16174105dd9c075264d9c0c">pogodba</comp>
+            </collocation>
+            <collocation form="depozitna ponudba" cluster="4" frequency="38" logDice="3.22">
+              <comp position="1" type="headword" sloleks="LE_44b5d8889725a113dd2a57c36acf2b60">depozitna</comp>
+              <comp position="2" type="collocate" sloleks="LE_d9e3765be172d6f3372cede08396a2f8">ponudba</comp>
+            </collocation>
+            <collocation form="depozitna naložba" cluster="4" frequency="25" logDice="3.62">
+              <comp position="1" type="headword" sloleks="LE_44b5d8889725a113dd2a57c36acf2b60">depozitna</comp>
+              <comp position="2" type="collocate" sloleks="LE_7e54578f86482491986bdc333a002cf2">naložba</comp>
+            </collocation>
+            <collocation form="depozitna vloga" cluster="4" frequency="23" logDice="2.02">
+              <comp position="1" type="headword" sloleks="LE_44b5d8889725a113dd2a57c36acf2b60">depozitna</comp>
+              <comp position="2" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+            </collocation>
+            <collocation form="depozitna enota" cluster="5" frequency="66" logDice="3.42">
+              <comp position="1" type="headword" sloleks="LE_44b5d8889725a113dd2a57c36acf2b60">depozitna</comp>
+              <comp position="2" type="collocate" sloleks="LE_5b2baaa4fc466ab2dbf8c640e98f7c08">enota</comp>
+            </collocation>
+            <collocation form="depozitna banka" cluster="5" frequency="37" logDice="2.56">
+              <comp position="1" type="headword" sloleks="LE_44b5d8889725a113dd2a57c36acf2b60">depozitna</comp>
+              <comp position="2" type="collocate" sloleks="LE_efdb4fed18a2b60ac11282627b28fcfc">banka</comp>
+            </collocation>
+            <collocation form="depozitna agencija" cluster="5" frequency="6" logDice="0.72">
+              <comp position="1" type="headword" sloleks="LE_44b5d8889725a113dd2a57c36acf2b60">depozitna</comp>
+              <comp position="2" type="collocate" sloleks="LE_c77074df05d2719216d477bd01d418ad">agencija</comp>
+            </collocation>
+            <collocation form="depozitna stran" cluster="6" frequency="22" logDice="0.87">
+              <comp position="1" type="headword" sloleks="LE_44b5d8889725a113dd2a57c36acf2b60">depozitna</comp>
+              <comp position="2" type="collocate" sloleks="LE_4432316ca39663f747c84fc21ac8e398">stran</comp>
+            </collocation>
+            <collocation form="depozitno poslovanje" cluster="7" frequency="37" logDice="4.59">
+              <comp position="1" type="headword" sloleks="LE_44b5d8889725a113dd2a57c36acf2b60">depozitno</comp>
+              <comp position="2" type="collocate" sloleks="LE_a40b6deb4d00eb82c4b5b9303ed451e6">poslovanje</comp>
+            </collocation>
+            <collocation form="depozitno sredstvo" cluster="7" frequency="12" logDice="0.69">
+              <comp position="1" type="headword" sloleks="LE_44b5d8889725a113dd2a57c36acf2b60">depozitno</comp>
+              <comp position="2" type="collocate" sloleks="LE_94c4f4cf5104632466509789b5cde032">sredstvo</comp>
+            </collocation>
+            <collocation form="depoziten račun" cluster="8" frequency="107" logDice="5.54">
+              <comp position="1" type="headword" sloleks="LE_44b5d8889725a113dd2a57c36acf2b60">depoziten</comp>
+              <comp position="2" type="collocate" sloleks="LE_03d4207cd319441760ba30bae2e1320e">račun</comp>
+            </collocation>
+            <collocation form="depoziten posel" cluster="8" frequency="33" logDice="3.91">
+              <comp position="1" type="headword" sloleks="LE_44b5d8889725a113dd2a57c36acf2b60">depoziten</comp>
+              <comp position="2" type="collocate" sloleks="LE_4944cd3b7cdda05428aed18cfcac7eb9">posel</comp>
+            </collocation>
+            <collocation form="depozitne obresti" cluster="9" frequency="24" logDice="5.03">
+              <comp position="1" type="headword" sloleks="LE_44b5d8889725a113dd2a57c36acf2b60">depozitne</comp>
+              <comp position="2" type="collocate" sloleks="LE_8a95eaf256a8b4f99d4cf3ce6edd84de">obresti</comp>
+            </collocation>
+            <collocation form="depozitna mera" cluster="10" frequency="124" logDice="4.68">
+              <comp position="1" type="headword" sloleks="LE_44b5d8889725a113dd2a57c36acf2b60">depozitna</comp>
+              <comp position="2" type="collocate" sloleks="LE_bb15e9b82aee6708602364eaa5091645">mera</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

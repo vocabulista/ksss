@@ -1,0 +1,57 @@
+<entry>
+  <header>
+    <lexical_unit id="83284">priklon</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">587</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 do sbz2">
+          <collocations>
+            <collocation form="priklon do tal" cluster="1" frequency="7" logDice="7.34">
+              <comp position="1" type="headword" sloleks="LE_c90d2b96e8fdd66fe9da6418bbb0648e">priklon</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_eb748b49130a91779627e8f89256bf42">tal</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 pred sbz6">
+          <collocations>
+            <collocation form="priklon pred dostojanstvenikom" cluster="1" frequency="6" logDice="12.83">
+              <comp position="1" type="headword" sloleks="LE_c90d2b96e8fdd66fe9da6418bbb0648e">priklon</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_fe49280891d97ea72cbfacf41a41789f">dostojanstvenikom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="zahvaliti s priklonom" cluster="1" frequency="6" logDice="7.41">
+              <comp position="1" type="collocate" sloleks="LE_d2f0ccba9031f2e1c3a3da1b4e2a548a">zahvaliti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_c90d2b96e8fdd66fe9da6418bbb0648e">priklonom</comp>
+            </collocation>
+            <collocation form="posloviti s priklonom" cluster="2" frequency="7" logDice="6.48">
+              <comp position="1" type="collocate" sloleks="LE_19b7973660d1805ef7edfca7a225bf6c">posloviti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_c90d2b96e8fdd66fe9da6418bbb0648e">priklonom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="globok priklon" cluster="1" frequency="70" logDice="5.34">
+              <comp position="1" type="collocate" sloleks="LE_0b7a86889302f2e1631bcc681f755968">globok</comp>
+              <comp position="2" type="headword" sloleks="LE_c90d2b96e8fdd66fe9da6418bbb0648e">priklon</comp>
+            </collocation>
+            <collocation form="rahel priklon" cluster="1" frequency="26" logDice="5.54">
+              <comp position="1" type="collocate" sloleks="LE_55b1681a682901ef47fe3e769ebee49c">rahel</comp>
+              <comp position="2" type="headword" sloleks="LE_c90d2b96e8fdd66fe9da6418bbb0648e">priklon</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,62 @@
+<entry>
+  <header>
+    <lexical_unit id="32474">revijski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">575</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="revijski orkester" cluster="1" frequency="325" logDice="7.86">
+              <comp position="1" type="headword" sloleks="LE_de5813518e2aa3ba290cfb0da31cec53">revijski</comp>
+              <comp position="2" type="collocate" sloleks="LE_f32233cd38c33779162133877f1ade76">orkester</comp>
+            </collocation>
+            <collocation form="revijska čitalnica" cluster="2" frequency="6" logDice="6.25">
+              <comp position="1" type="headword" sloleks="LE_de5813518e2aa3ba290cfb0da31cec53">revijska</comp>
+              <comp position="2" type="collocate" sloleks="LE_12751f1104c5e0fd0b056847bad4d39d">čitalnica</comp>
+            </collocation>
+            <collocation form="revijska plesalka" cluster="3" frequency="6" logDice="4.63">
+              <comp position="1" type="headword" sloleks="LE_de5813518e2aa3ba290cfb0da31cec53">revijska</comp>
+              <comp position="2" type="collocate" sloleks="LE_3ad4b4d8993e2b246e55ec366d4aab8f">plesalka</comp>
+            </collocation>
+            <collocation form="revijski papir" cluster="4" frequency="18" logDice="3.04">
+              <comp position="1" type="headword" sloleks="LE_de5813518e2aa3ba290cfb0da31cec53">revijski</comp>
+              <comp position="2" type="collocate" sloleks="LE_bd43c7f1c3166c88c6e6fd690b721f1f">papir</comp>
+            </collocation>
+            <collocation form="revijski večer" cluster="5" frequency="15" logDice="2.34">
+              <comp position="1" type="headword" sloleks="LE_de5813518e2aa3ba290cfb0da31cec53">revijski</comp>
+              <comp position="2" type="collocate" sloleks="LE_19ad54ddbd118041967cb2362c53e3be">večer</comp>
+            </collocation>
+            <collocation form="revijski nastop" cluster="6" frequency="11" logDice="1.84">
+              <comp position="1" type="headword" sloleks="LE_de5813518e2aa3ba290cfb0da31cec53">revijski</comp>
+              <comp position="2" type="collocate" sloleks="LE_3c02505e3165a041b4879a0ffb8f719b">nastop</comp>
+            </collocation>
+            <collocation form="revijski ples" cluster="6" frequency="6" logDice="2.08">
+              <comp position="1" type="headword" sloleks="LE_de5813518e2aa3ba290cfb0da31cec53">revijski</comp>
+              <comp position="2" type="collocate" sloleks="LE_0a5139d7e3ed9a03478faf8c1e367d5b">ples</comp>
+            </collocation>
+            <collocation form="revijska glasba" cluster="7" frequency="15" logDice="1.96">
+              <comp position="1" type="headword" sloleks="LE_de5813518e2aa3ba290cfb0da31cec53">revijska</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9d4fb1bfd740612d94d302113e10a62">glasba</comp>
+            </collocation>
+            <collocation form="revijsko gledališče" cluster="8" frequency="9" logDice="1.73">
+              <comp position="1" type="headword" sloleks="LE_de5813518e2aa3ba290cfb0da31cec53">revijsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_9fe96d8226476bff101c6dfd171ff0f4">gledališče</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="revijski in/ali časopisen" cluster="1" frequency="10" logDice="8.88">
+              <comp position="3" type="headword" sloleks="LE_de5813518e2aa3ba290cfb0da31cec53">revijski</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_2c3d1705b6a77cbdb56fbc222475d098">časopisen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

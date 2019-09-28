@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="74959">okel</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">679</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="okel slona" cluster="1" frequency="11" logDice="7.53">
+              <comp position="1" type="headword" sloleks="LE_9cbbd16200228cfc00fad739c930ee87">okel</comp>
+              <comp position="2" type="collocate" sloleks="LE_f25bbf16d66557bec65af8fc26e499b3">slona</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="mrožev okel" cluster="1" frequency="13" logDice="10.68">
+              <comp position="1" type="collocate" sloleks="LE_21d29f83f7de316ca85ed14ba88c3d12">mrožev</comp>
+              <comp position="2" type="headword" sloleks="LE_9cbbd16200228cfc00fad739c930ee87">okel</comp>
+            </collocation>
+            <collocation form="mamutov okel" cluster="1" frequency="12" logDice="9.69">
+              <comp position="1" type="collocate" sloleks="LE_0998cbd5b9028cee7fc5568333087b4f">mamutov</comp>
+              <comp position="2" type="headword" sloleks="LE_9cbbd16200228cfc00fad739c930ee87">okel</comp>
+            </collocation>
+            <collocation form="slonov okel" cluster="2" frequency="37" logDice="10.32">
+              <comp position="1" type="collocate" sloleks="LE_e917563fbcba2dec818cdfb2e2e32aab">slonov</comp>
+              <comp position="2" type="headword" sloleks="LE_9cbbd16200228cfc00fad739c930ee87">okel</comp>
+            </collocation>
+            <collocation form="slonji okel" cluster="2" frequency="23" logDice="9.55">
+              <comp position="1" type="collocate" sloleks="LE_9f3a0c0fd10064c39d04f3d1b6542c0c">slonji</comp>
+              <comp position="2" type="headword" sloleks="LE_9cbbd16200228cfc00fad739c930ee87">okel</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="sesalec z oklom" cluster="1" frequency="15" logDice="11.34">
+              <comp position="1" type="collocate" sloleks="LE_8d3fa5328dfd89b406cafd199db72164">sesalec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_9cbbd16200228cfc00fad739c930ee87">oklom</comp>
+            </collocation>
+            <collocation form="slon z oklom" cluster="2" frequency="15" logDice="11.06">
+              <comp position="1" type="collocate" sloleks="LE_f25bbf16d66557bec65af8fc26e499b3">slon</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_9cbbd16200228cfc00fad739c930ee87">oklom</comp>
+            </collocation>
+            <collocation form="žival z oklom" cluster="3" frequency="25" logDice="8.66">
+              <comp position="1" type="collocate" sloleks="LE_b6200c4865c660bb286b47ec062ae356">žival</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_9cbbd16200228cfc00fad739c930ee87">oklom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

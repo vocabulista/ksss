@@ -1,0 +1,79 @@
+<entry>
+  <header>
+    <lexical_unit id="81903">prednica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1070</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="prednica iz leta" cluster="1" frequency="9" logDice="1.92">
+              <comp position="1" type="headword" sloleks="LE_d1d35a812a19ee467d3eb0f01242c9cc">prednica</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="prednica samostana" cluster="1" frequency="17" logDice="6.55">
+              <comp position="1" type="headword" sloleks="LE_d1d35a812a19ee467d3eb0f01242c9cc">prednica</comp>
+              <comp position="2" type="collocate" sloleks="LE_68659746be8572a232576462b708851e">samostana</comp>
+            </collocation>
+            <collocation form="prednica tožnika" cluster="2" frequency="8" logDice="5.48">
+              <comp position="1" type="headword" sloleks="LE_d1d35a812a19ee467d3eb0f01242c9cc">prednica</comp>
+              <comp position="2" type="collocate" sloleks="LE_f85c487d2ecdfc68acad796331aa1dc9">tožnika</comp>
+            </collocation>
+            <collocation form="prednica stranke" cluster="3" frequency="15" logDice="1.44">
+              <comp position="1" type="headword" sloleks="LE_d1d35a812a19ee467d3eb0f01242c9cc">prednica</comp>
+              <comp position="2" type="collocate" sloleks="LE_945a204a300f28702820c4bc0481d2e7">stranke</comp>
+            </collocation>
+            <collocation form="mati prednice" cluster="4" frequency="25" logDice="5.96">
+              <comp position="1" type="collocate" sloleks="LE_c60ad337818645beb21c89ff38faccd7">mati</comp>
+              <comp position="2" type="headword" sloleks="LE_d1d35a812a19ee467d3eb0f01242c9cc">prednice</comp>
+            </collocation>
+            <collocation form="stopinja prednice" cluster="5" frequency="5" logDice="2.43">
+              <comp position="1" type="collocate" sloleks="LE_084c0d32be4af09b7c8993adbdbb6baf">stopinja</comp>
+              <comp position="2" type="headword" sloleks="LE_d1d35a812a19ee467d3eb0f01242c9cc">prednice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz od SBZ2">
+          <collocations>
+            <collocation form="podedovati od prednice" cluster="1" frequency="5" logDice="6.97">
+              <comp position="1" type="collocate" sloleks="LE_84c8e6fc4fdaed4b55759419e766f51d">podedovati</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="headword" sloleks="LE_d1d35a812a19ee467d3eb0f01242c9cc">prednice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="tožničina prednica" cluster="1" frequency="12" logDice="7.75">
+              <comp position="1" type="collocate" sloleks="LE_a53fca18038fa79c25ca8091590ac2f2">tožničina</comp>
+              <comp position="2" type="headword" sloleks="LE_d1d35a812a19ee467d3eb0f01242c9cc">prednica</comp>
+            </collocation>
+            <collocation form="samostanska prednica" cluster="2" frequency="10" logDice="5.86">
+              <comp position="1" type="collocate" sloleks="LE_a3259ba0eaa1a9da7e14c823d798a530">samostanska</comp>
+              <comp position="2" type="headword" sloleks="LE_d1d35a812a19ee467d3eb0f01242c9cc">prednica</comp>
+            </collocation>
+            <collocation form="daljna prednica" cluster="3" frequency="12" logDice="4.05">
+              <comp position="1" type="collocate" sloleks="LE_d44671b9a42a05f85a938119d835ba16">daljna</comp>
+              <comp position="2" type="headword" sloleks="LE_d1d35a812a19ee467d3eb0f01242c9cc">prednica</comp>
+            </collocation>
+            <collocation form="pravna prednica" cluster="4" frequency="95" logDice="3.6">
+              <comp position="1" type="collocate" sloleks="LE_b35171096999910bbf3756c86463805b">pravna</comp>
+              <comp position="2" type="headword" sloleks="LE_d1d35a812a19ee467d3eb0f01242c9cc">prednica</comp>
+            </collocation>
+            <collocation form="slavna prednica" cluster="5" frequency="10" logDice="2.66">
+              <comp position="1" type="collocate" sloleks="LE_412f741689616fdbd844edf33c686a25">slavna</comp>
+              <comp position="2" type="headword" sloleks="LE_d1d35a812a19ee467d3eb0f01242c9cc">prednica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

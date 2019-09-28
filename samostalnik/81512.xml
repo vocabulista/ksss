@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="81512">praoče</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">404</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="praoče človeštva" cluster="1" frequency="28" logDice="6.19">
+              <comp position="1" type="headword" sloleks="LE_25d67108f4873045f04fc54547ad3d98">praoče</comp>
+              <comp position="2" type="collocate" sloleks="LE_b0feaffca1895210787c6e0d0df8cd05">človeštva</comp>
+            </collocation>
+            <collocation form="uboj praočeta" cluster="2" frequency="6" logDice="6.26">
+              <comp position="1" type="collocate" sloleks="LE_63114c8678e18125240102638c0d018b">uboj</comp>
+              <comp position="2" type="headword" sloleks="LE_25d67108f4873045f04fc54547ad3d98">praočeta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="imeti za praočeta" cluster="1" frequency="4" logDice="0.92">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_25d67108f4873045f04fc54547ad3d98">praočeta</comp>
+            </collocation>
+            <collocation form="veljati za praočeta" cluster="2" frequency="4" logDice="0.57">
+              <comp position="1" type="collocate" sloleks="LE_d1ea0d9dd4771e211c9eddc0d342acc2">veljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_25d67108f4873045f04fc54547ad3d98">praočeta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="biblijski praoče" cluster="1" frequency="22" logDice="8.21">
+              <comp position="1" type="collocate" sloleks="LE_da5e79d2d533f366a61205b97d515006">biblijski</comp>
+              <comp position="2" type="headword" sloleks="LE_25d67108f4873045f04fc54547ad3d98">praoče</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

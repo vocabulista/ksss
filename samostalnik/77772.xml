@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="77772">petunija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">678</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="petunija s cvetom" cluster="1" frequency="5" logDice="6.3">
+              <comp position="1" type="headword" sloleks="LE_3f0b89b34e6cc818c7d98530aea5e3ae">petunija</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_94d0f7e010ad7f3fd319d2500a8722ff">cvetom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="verben petunija" cluster="1" frequency="13" logDice="10.26">
+              <comp position="1" type="collocate" sloleks="">verben</comp>
+              <comp position="2" type="headword" sloleks="LE_3f0b89b34e6cc818c7d98530aea5e3ae">petunija</comp>
+            </collocation>
+            <collocation form="viseča petunija" cluster="2" frequency="74" logDice="8.74">
+              <comp position="1" type="collocate" sloleks="LE_1e06f2f81babf1f85a0488121358e85c">viseča</comp>
+              <comp position="2" type="headword" sloleks="LE_3f0b89b34e6cc818c7d98530aea5e3ae">petunija</comp>
+            </collocation>
+            <collocation form="polnjena petunija" cluster="3" frequency="14" logDice="7.08">
+              <comp position="1" type="collocate" sloleks="LE_1d8f54c4d00da0cd95c92aa75226ec6f">polnjena</comp>
+              <comp position="2" type="headword" sloleks="LE_3f0b89b34e6cc818c7d98530aea5e3ae">petunija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="sorta petunije" cluster="1" frequency="5" logDice="4.09">
+              <comp position="1" type="collocate" sloleks="LE_c86ad87167b0e93c217178ab470266b8">sorta</comp>
+              <comp position="2" type="headword" sloleks="LE_3f0b89b34e6cc818c7d98530aea5e3ae">petunije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,52 @@
+<entry>
+  <header>
+    <lexical_unit id="9908">zarjuti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">455</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ od sbz2">
+          <collocations>
+            <collocation form="zarjuti od bolečine" cluster="1" frequency="6" logDice="7.4">
+              <comp position="1" type="headword" sloleks="LE_a56dd0747addf82f606b1011af77311b">zarjuti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_6a7434a210c21ded27b4dc2fde249a7c">bolečine</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="zarjuti v glas" cluster="1" frequency="4" logDice="5.2">
+              <comp position="1" type="headword" sloleks="LE_a56dd0747addf82f606b1011af77311b">zarjuti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_bdaf56c7a9eddd2562b11c97c0770037">glas</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="zarjuti z glasom" cluster="1" frequency="6" logDice="3.82">
+              <comp position="1" type="headword" sloleks="LE_a56dd0747addf82f606b1011af77311b">zarjuti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_bdaf56c7a9eddd2562b11c97c0770037">glasom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="živalsko zarjuti" cluster="1" frequency="4" logDice="9.18">
+              <comp position="1" type="collocate" sloleks="LE_ad662df9c17e4ccec957d80a245c9821">živalsko</comp>
+              <comp position="2" type="headword" sloleks="LE_a56dd0747addf82f606b1011af77311b">zarjuti</comp>
+            </collocation>
+            <collocation form="glasno zarjuti" cluster="2" frequency="5" logDice="2.98">
+              <comp position="1" type="collocate" sloleks="LE_8d32e8ffef5c2d930893f51f039b425a">glasno</comp>
+              <comp position="2" type="headword" sloleks="LE_a56dd0747addf82f606b1011af77311b">zarjuti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

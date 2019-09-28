@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="21538">konjerejski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1197</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="konjerejsko društvo" cluster="1" frequency="965" logDice="7.15">
+              <comp position="1" type="headword" sloleks="LE_f26906c6d3daffb450ff8189816ab043">konjerejsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_f1fd3c17e2206150a5ab762769b6e8ff">društvo</comp>
+            </collocation>
+            <collocation form="konjerejska tradicija" cluster="2" frequency="13" logDice="3.03">
+              <comp position="1" type="headword" sloleks="LE_f26906c6d3daffb450ff8189816ab043">konjerejska</comp>
+              <comp position="2" type="collocate" sloleks="LE_63e5f2295991fadfefa5bf96986c210c">tradicija</comp>
+            </collocation>
+            <collocation form="konjerejska kmetija" cluster="3" frequency="10" logDice="2.89">
+              <comp position="1" type="headword" sloleks="LE_f26906c6d3daffb450ff8189816ab043">konjerejska</comp>
+              <comp position="2" type="collocate" sloleks="LE_4b6dc4ee113f77788107a47c03291f40">kmetija</comp>
+            </collocation>
+            <collocation form="konjerejska prireditev" cluster="3" frequency="8" logDice="0.73">
+              <comp position="1" type="headword" sloleks="LE_f26906c6d3daffb450ff8189816ab043">konjerejska</comp>
+              <comp position="2" type="collocate" sloleks="LE_aa6325a30c5a7caf9790d6246d534648">prireditev</comp>
+            </collocation>
+            <collocation form="konjerejski center" cluster="4" frequency="38" logDice="1.81">
+              <comp position="1" type="headword" sloleks="LE_f26906c6d3daffb450ff8189816ab043">konjerejski</comp>
+              <comp position="2" type="collocate" sloleks="LE_2f065577a7792f26481f7fba67e1e5ab">center</comp>
+            </collocation>
+            <collocation form="konjerejski strokovnjak" cluster="5" frequency="9" logDice="1.73">
+              <comp position="1" type="headword" sloleks="LE_f26906c6d3daffb450ff8189816ab043">konjerejski</comp>
+              <comp position="2" type="collocate" sloleks="LE_f148c89ddbbfc6907ba9fc0273aa62b7">strokovnjak</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="konjerejski in/ali govedorejski" cluster="1" frequency="7" logDice="11.9">
+              <comp position="3" type="headword" sloleks="LE_f26906c6d3daffb450ff8189816ab043">konjerejski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_1454aa097f07124d9a99d45c891b7396">govedorejski</comp>
+              </collocation>
+            <collocation form="konjerejski in konjeniški" cluster="2" frequency="13" logDice="11.6">
+              <comp position="1" type="headword" sloleks="LE_f26906c6d3daffb450ff8189816ab043">konjerejski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_a4b4403d9281281d46697bfeab5c65c1">konjeniški</comp>
+            </collocation>
+            <collocation form="konjerejski in/ali turističen" cluster="3" frequency="5" logDice="4.65">
+              <comp position="3" type="headword" sloleks="LE_f26906c6d3daffb450ff8189816ab043">konjerejski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_f87a89a2e9f5592be2bf24dc755bf6b5">turističen</comp>
+              </collocation>
+            <collocation form="konjerejski in/ali kulturen" cluster="4" frequency="5" logDice="2.1">
+              <comp position="3" type="headword" sloleks="LE_f26906c6d3daffb450ff8189816ab043">konjerejski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_5c6df36bdc0a2c223bcdc5b7ff33d0bf">kulturen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

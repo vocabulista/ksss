@@ -1,0 +1,48 @@
+<entry>
+  <header>
+    <lexical_unit id="27206">olepševalen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">516</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="olepševalen in tujskoprometen" cluster="1" frequency="10" logDice="12.11">
+              <comp position="1" type="headword" sloleks="LE_f6b1624553f24035da0e3f69d368753a">olepševalen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="">tujskoprometen</comp>
+            </collocation>
+            <collocation form="olepševalen in/ali turističen" cluster="2" frequency="29" logDice="7.18">
+              <comp position="3" type="headword" sloleks="LE_f6b1624553f24035da0e3f69d368753a">olepševalen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_f87a89a2e9f5592be2bf24dc755bf6b5">turističen</comp>
+              </collocation>
+            <collocation form="olepševalen in/ali prometen" cluster="3" frequency="6" logDice="5.92">
+              <comp position="3" type="headword" sloleks="LE_f6b1624553f24035da0e3f69d368753a">olepševalen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_cd33b01eff91f37c6dc5d9511b9d4057">prometen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="olepševalno društvo" cluster="1" frequency="376" logDice="5.79">
+              <comp position="1" type="headword" sloleks="LE_f6b1624553f24035da0e3f69d368753a">olepševalno</comp>
+              <comp position="2" type="collocate" sloleks="LE_f1fd3c17e2206150a5ab762769b6e8ff">društvo</comp>
+            </collocation>
+            <collocation form="olepševalen izraz" cluster="2" frequency="6" logDice="2.4">
+              <comp position="1" type="headword" sloleks="LE_f6b1624553f24035da0e3f69d368753a">olepševalen</comp>
+              <comp position="2" type="collocate" sloleks="LE_d2d667d478e9b9620d18a0927cab6911">izraz</comp>
+            </collocation>
+            <collocation form="olepševalna akcija" cluster="3" frequency="19" logDice="2.19">
+              <comp position="1" type="headword" sloleks="LE_f6b1624553f24035da0e3f69d368753a">olepševalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_c6314b87ee5075309a505f26f656ecbd">akcija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

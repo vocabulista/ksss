@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="90736">spominček</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">452</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="spominček s potovanja" cluster="1" frequency="4" logDice="6.72">
+              <comp position="1" type="headword" sloleks="LE_d2efa3abcca9db3890dc03ea36efa54c">spominček</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_21199f43ad8b18505266fa0f432fb8db">potovanja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="kupiti spominček" cluster="1" frequency="30" logDice="3.6">
+              <comp position="1" type="collocate" sloleks="LE_cfca503c3162d4a887b66b6d1a4f1f46">kupiti</comp>
+              <comp position="2" type="headword" sloleks="LE_d2efa3abcca9db3890dc03ea36efa54c">spominček</comp>
+            </collocation>
+            <collocation form="prinesti spominček" cluster="2" frequency="12" logDice="2.28">
+              <comp position="1" type="collocate" sloleks="LE_376b846259c21a1cacd9ac530246f078">prinesti</comp>
+              <comp position="2" type="headword" sloleks="LE_d2efa3abcca9db3890dc03ea36efa54c">spominček</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="moder spominček" cluster="1" frequency="11" logDice="2.09">
+              <comp position="1" type="collocate" sloleks="LE_b77d374d59b54f808284a0dca42e2434">moder</comp>
+              <comp position="2" type="headword" sloleks="LE_d2efa3abcca9db3890dc03ea36efa54c">spominček</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="trgovina s spominčkom" cluster="1" frequency="7" logDice="2.91">
+              <comp position="1" type="collocate" sloleks="LE_e6520ed1b394dc72516ec7ff3398e16c">trgovina</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_d2efa3abcca9db3890dc03ea36efa54c">spominčkom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

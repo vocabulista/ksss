@@ -1,0 +1,67 @@
+<entry>
+  <header>
+    <lexical_unit id="8028">šimfati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">644</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="šimfati vlado" cluster="1" frequency="9" logDice="3.53">
+              <comp position="1" type="headword" sloleks="LE_e7bc70dc38d64c679ce905dae3741621">šimfati</comp>
+              <comp position="2" type="collocate" sloleks="LE_63d183132c68728be91773043828fb2d">vlado</comp>
+            </collocation>
+            <collocation form="šimfati oblast" cluster="2" frequency="5" logDice="3.23">
+              <comp position="1" type="headword" sloleks="LE_e7bc70dc38d64c679ce905dae3741621">šimfati</comp>
+              <comp position="2" type="collocate" sloleks="LE_517516784cc4f3948ad94ba945fd370b">oblast</comp>
+            </collocation>
+            <collocation form="šimfati državo" cluster="3" frequency="6" logDice="2.38">
+              <comp position="1" type="headword" sloleks="LE_e7bc70dc38d64c679ce905dae3741621">šimfati</comp>
+              <comp position="2" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">državo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ čez sbz4">
+          <collocations>
+            <collocation form="šimfati čez vero" cluster="1" frequency="8" logDice="12.04">
+              <comp position="1" type="headword" sloleks="LE_e7bc70dc38d64c679ce905dae3741621">šimfati</comp>
+              <comp position="2" type="other" sloleks="LE_160ad4b4b11d5503081a58eba3acf84d">čez</comp>
+              <comp position="3" type="collocate" sloleks="LE_583319a05698c528b3d8a3b0f4aea875">vero</comp>
+            </collocation>
+            <collocation form="šimfati čez državo" cluster="2" frequency="5" logDice="9.37">
+              <comp position="1" type="headword" sloleks="LE_e7bc70dc38d64c679ce905dae3741621">šimfati</comp>
+              <comp position="2" type="other" sloleks="LE_160ad4b4b11d5503081a58eba3acf84d">čez</comp>
+              <comp position="3" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">državo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="toliko šimfati" cluster="1" frequency="10" logDice="3.1">
+              <comp position="1" type="collocate" sloleks="LE_e8a73a0e682431303071ff7537eabf4b">toliko</comp>
+              <comp position="2" type="headword" sloleks="LE_e7bc70dc38d64c679ce905dae3741621">šimfati</comp>
+            </collocation>
+            <collocation form="preveč šimfati" cluster="2" frequency="6" logDice="1.59">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_e7bc70dc38d64c679ce905dae3741621">šimfati</comp>
+            </collocation>
+            <collocation form="malo šimfati" cluster="3" frequency="8" logDice="0.98">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_e7bc70dc38d64c679ce905dae3741621">šimfati</comp>
+            </collocation>
+            <collocation form="nekaj šimfati" cluster="4" frequency="5" logDice="0.24">
+              <comp position="1" type="collocate" sloleks="LE_eb511b2a8ca41b887db9b389e9bd0591">nekaj</comp>
+              <comp position="2" type="headword" sloleks="LE_e7bc70dc38d64c679ce905dae3741621">šimfati</comp>
+            </collocation>
+            <collocation form="naprej šimfati" cluster="5" frequency="4" logDice="0.17">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_e7bc70dc38d64c679ce905dae3741621">šimfati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

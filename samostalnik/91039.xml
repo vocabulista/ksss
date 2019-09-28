@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="91039">srečnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">602</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Srečnik iz Tržiča" cluster="1" frequency="6" logDice="6.46">
+              <comp position="1" type="headword" sloleks="LE_df5f8459a34d67dca3cd65656fffefad">Srečnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_8a13a2a46f056dff0a0da427847e7526">Tržiča</comp>
+            </collocation>
+            <collocation form="Srečnik iz društva" cluster="2" frequency="4" logDice="4.49">
+              <comp position="1" type="headword" sloleks="LE_df5f8459a34d67dca3cd65656fffefad">Srečnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_f1fd3c17e2206150a5ab762769b6e8ff">društva</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="srečnik na strošek" cluster="1" frequency="6" logDice="6.46">
+              <comp position="1" type="headword" sloleks="LE_df5f8459a34d67dca3cd65656fffefad">srečnik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_c04e68299307d659d0cadde6f5fc0c28">strošek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="srečnik z učiteljico" cluster="1" frequency="5" logDice="8.46">
+              <comp position="1" type="headword" sloleks="LE_df5f8459a34d67dca3cd65656fffefad">srečnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_36b6dd34c5986c3e7abeec526ecf9bd7">učiteljico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Lado Srečnika" cluster="1" frequency="47" logDice="10.28">
+              <comp position="1" type="collocate" sloleks="LE_f0c0203b9ff66ee387531c7d86be2170">Lado</comp>
+              <comp position="2" type="headword" sloleks="LE_df5f8459a34d67dca3cd65656fffefad">Srečnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,56 @@
+<entry>
+  <header>
+    <lexical_unit id="1936">jadikovati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">698</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ nad sbz4">
+          <collocations>
+            <collocation form="jadikovati nad usodo" cluster="1" frequency="7" logDice="9.94">
+              <comp position="1" type="headword" sloleks="LE_c3a64d5188975568b11314c0b17a9b56">jadikovati</comp>
+              <comp position="2" type="other" sloleks="LE_d1a9059d44a24194d17af34039c48e9a">nad</comp>
+              <comp position="3" type="collocate" sloleks="LE_b1d14ebdc7a6abd9b935251ee7b61ba2">usodo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ nad sbz6">
+          <collocations>
+            <collocation form="jadikovati nad krivico" cluster="1" frequency="4" logDice="10.04">
+              <comp position="1" type="headword" sloleks="LE_c3a64d5188975568b11314c0b17a9b56">jadikovati</comp>
+              <comp position="2" type="other" sloleks="LE_d1a9059d44a24194d17af34039c48e9a">nad</comp>
+              <comp position="3" type="collocate" sloleks="LE_1aafd38e036369d512fe735038d70c33">krivico</comp>
+            </collocation>
+            <collocation form="jadikovati nad usodo" cluster="2" frequency="8" logDice="9.58">
+              <comp position="1" type="headword" sloleks="LE_c3a64d5188975568b11314c0b17a9b56">jadikovati</comp>
+              <comp position="2" type="other" sloleks="LE_d1a9059d44a24194d17af34039c48e9a">nad</comp>
+              <comp position="3" type="collocate" sloleks="LE_b1d14ebdc7a6abd9b935251ee7b61ba2">usodo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="prepozno jadikovati" cluster="1" frequency="4" logDice="5.19">
+              <comp position="1" type="collocate" sloleks="LE_d10b94f21db2a1938fd57557834c2135">prepozno</comp>
+              <comp position="2" type="headword" sloleks="LE_c3a64d5188975568b11314c0b17a9b56">jadikovati</comp>
+            </collocation>
+            <collocation form="neprestano jadikovati" cluster="2" frequency="5" logDice="3.64">
+              <comp position="1" type="collocate" sloleks="LE_e794c36d8c0974eac39cc447b8d47c84">neprestano</comp>
+              <comp position="2" type="headword" sloleks="LE_c3a64d5188975568b11314c0b17a9b56">jadikovati</comp>
+            </collocation>
+            <collocation form="preveč jadikovati" cluster="3" frequency="5" logDice="1.34">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_c3a64d5188975568b11314c0b17a9b56">jadikovati</comp>
+            </collocation>
+            <collocation form="naprej jadikovati" cluster="4" frequency="8" logDice="1.17">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_c3a64d5188975568b11314c0b17a9b56">jadikovati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

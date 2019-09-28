@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="100014">zorica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">413</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz pred SBZ6">
+          <collocations>
+            <collocation form="osvajati pred Zorico" cluster="1" frequency="8" logDice="12.24">
+              <comp position="1" type="collocate" sloleks="LE_10cef816619b20051b78ce9ec7730f45">osvajati</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="headword" sloleks="LE_be55d5c6989c21f171df3ae67b7f2cb3">Zorico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="sodnica Zorice" cluster="1" frequency="5" logDice="6.21">
+              <comp position="1" type="collocate" sloleks="LE_bb47370304a74ca11b1ccabcf9aa59f6">sodnica</comp>
+              <comp position="2" type="headword" sloleks="LE_be55d5c6989c21f171df3ae67b7f2cb3">Zorice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 pred SBZ6">
+          <collocations>
+            <collocation form="Miloš pred Zorico" cluster="1" frequency="8" logDice="13.75">
+              <comp position="1" type="collocate" sloleks="LE_00d3348e5a08e0dc17a8aaec6ae5d52b">Miloš</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="headword" sloleks="LE_be55d5c6989c21f171df3ae67b7f2cb3">Zorico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

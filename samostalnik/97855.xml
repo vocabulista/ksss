@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="97855">zajebancija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">724</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="zajebancija na račun" cluster="1" frequency="8" logDice="3.07">
+              <comp position="1" type="headword" sloleks="LE_e9dd6463689ac7cccf88ff6c979e6222">zajebancija</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_03d4207cd319441760ba30bae2e1320e">račun</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za zajebancijo" cluster="1" frequency="12" logDice="-0.02">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_e9dd6463689ac7cccf88ff6c979e6222">zajebancijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="čista zajebancija" cluster="1" frequency="19" logDice="2.47">
+              <comp position="1" type="collocate" sloleks="LE_b0f01a4af83087947c0c1f51b4c0c6bc">čista</comp>
+              <comp position="2" type="headword" sloleks="LE_e9dd6463689ac7cccf88ff6c979e6222">zajebancija</comp>
+            </collocation>
+            <collocation form="navadna zajebancija" cluster="2" frequency="8" logDice="1.72">
+              <comp position="1" type="collocate" sloleks="LE_f59369d8b37702c03d2e6f31cbe3f5d8">navadna</comp>
+              <comp position="2" type="headword" sloleks="LE_e9dd6463689ac7cccf88ff6c979e6222">zajebancija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

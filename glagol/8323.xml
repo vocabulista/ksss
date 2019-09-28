@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="8323">splašiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">521</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="splašiti jato" cluster="1" frequency="5" logDice="7.85">
+              <comp position="1" type="headword" sloleks="LE_7ca23fdfa367fac5857c9ae9c1c06bbd">splašiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_711c7c2ba1ef2109df52936fb76281a7">jato</comp>
+            </collocation>
+            <collocation form="splašiti sosesko" cluster="2" frequency="4" logDice="7.62">
+              <comp position="1" type="headword" sloleks="LE_7ca23fdfa367fac5857c9ae9c1c06bbd">splašiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_56a059debef7056c910150bfad570e7c">sosesko</comp>
+            </collocation>
+            <collocation form="splašiti konja" cluster="3" frequency="13" logDice="6.16">
+              <comp position="1" type="headword" sloleks="LE_7ca23fdfa367fac5857c9ae9c1c06bbd">splašiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_a528e2f2e480d48407f95d45a8edfe7c">konja</comp>
+            </collocation>
+            <collocation form="splašiti ribo" cluster="4" frequency="10" logDice="5.24">
+              <comp position="1" type="headword" sloleks="LE_7ca23fdfa367fac5857c9ae9c1c06bbd">splašiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_d7b8f7ec392e661983c77782c366fd0d">ribo</comp>
+            </collocation>
+            <collocation form="splašiti žival" cluster="5" frequency="5" logDice="4.13">
+              <comp position="1" type="headword" sloleks="LE_7ca23fdfa367fac5857c9ae9c1c06bbd">splašiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_b6200c4865c660bb286b47ec062ae356">žival</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz SBZ2">
+          <collocations>
+            <collocation form="ne splašiti ribe" cluster="1" frequency="6" logDice="8.35">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_7ca23fdfa367fac5857c9ae9c1c06bbd">splašiti</comp>
+              <comp position="3" type="collocate" sloleks="LE_d7b8f7ec392e661983c77782c366fd0d">ribe</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="nemarno splašiti" cluster="1" frequency="4" logDice="7.45">
+              <comp position="1" type="collocate" sloleks="LE_302a46646eba4365d3df1fbdd616bbb0">nemarno</comp>
+              <comp position="2" type="headword" sloleks="LE_7ca23fdfa367fac5857c9ae9c1c06bbd">splašiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="91422">stenogram</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">499</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="stenogram seje" cluster="1" frequency="43" logDice="5.32">
+              <comp position="1" type="headword" sloleks="LE_18b6bc35487b20897270b7add2721714">stenogram</comp>
+              <comp position="2" type="collocate" sloleks="LE_69dcab59c30b954c56acd84e9b699cd0">seje</comp>
+            </collocation>
+            <collocation form="stenogram pogovora" cluster="1" frequency="31" logDice="5.18">
+              <comp position="1" type="headword" sloleks="LE_18b6bc35487b20897270b7add2721714">stenogram</comp>
+              <comp position="2" type="collocate" sloleks="LE_4d397baebd70f7228e28d943e00294e3">pogovora</comp>
+            </collocation>
+            <collocation form="stenogram razprave" cluster="1" frequency="16" logDice="4.82">
+              <comp position="1" type="headword" sloleks="LE_18b6bc35487b20897270b7add2721714">stenogram</comp>
+              <comp position="2" type="collocate" sloleks="LE_d58e7f8d86be2eef759384195d65ffa5">razprave</comp>
+            </collocation>
+            <collocation form="fotokopija stenograma" cluster="2" frequency="5" logDice="5.12">
+              <comp position="1" type="collocate" sloleks="LE_b64a041a76e48195ce5f1520daeb21ba">fotokopija</comp>
+              <comp position="2" type="headword" sloleks="LE_18b6bc35487b20897270b7add2721714">stenograma</comp>
+            </collocation>
+            <collocation form="objava stenograma" cluster="3" frequency="10" logDice="3.04">
+              <comp position="1" type="collocate" sloleks="LE_310d9afc4d8e7202a42ccfda4ceb91c8">objava</comp>
+              <comp position="2" type="headword" sloleks="LE_18b6bc35487b20897270b7add2721714">stenograma</comp>
+            </collocation>
+            <collocation form="vsebina stenograma" cluster="4" frequency="5" logDice="1.66">
+              <comp position="1" type="collocate" sloleks="LE_6dcb4d18292d5087cc927ab205813347">vsebina</comp>
+              <comp position="2" type="headword" sloleks="LE_18b6bc35487b20897270b7add2721714">stenograma</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="stenogram s seje" cluster="1" frequency="10" logDice="7.62">
+              <comp position="1" type="headword" sloleks="LE_18b6bc35487b20897270b7add2721714">stenogram</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_69dcab59c30b954c56acd84e9b699cd0">seje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Kučanov stenogram" cluster="1" frequency="29" logDice="7.48">
+              <comp position="1" type="collocate" sloleks="LE_6a5f38086a4211a893d9054d3d8200db">Kučanov</comp>
+              <comp position="2" type="headword" sloleks="LE_18b6bc35487b20897270b7add2721714">stenogram</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

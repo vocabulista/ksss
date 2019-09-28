@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="80307">poosebljenje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">810</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="poosebljenje zla" cluster="1" frequency="43" logDice="7.78">
+              <comp position="1" type="headword" sloleks="LE_75aafad7fae9fb24b375976c76d9518e">poosebljenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_926b6aa1d593f471979ef6d8edee220c">zla</comp>
+            </collocation>
+            <collocation form="poosebljenje sanje" cluster="2" frequency="20" logDice="5.44">
+              <comp position="1" type="headword" sloleks="LE_75aafad7fae9fb24b375976c76d9518e">poosebljenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_acb16acb48f5515625108b0a496bffb4">sanje</comp>
+            </collocation>
+            <collocation form="poosebljenje oblasti" cluster="3" frequency="11" logDice="2.8">
+              <comp position="1" type="headword" sloleks="LE_75aafad7fae9fb24b375976c76d9518e">poosebljenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_517516784cc4f3948ad94ba945fd370b">oblasti</comp>
+            </collocation>
+            <collocation form="poosebljenje moči" cluster="3" frequency="10" logDice="2.56">
+              <comp position="1" type="headword" sloleks="LE_75aafad7fae9fb24b375976c76d9518e">poosebljenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_0b71c85c50e39f2c8cb5e91791d67af9">moči</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="veljati za poosebljenje" cluster="1" frequency="13" logDice="2.27">
+              <comp position="1" type="collocate" sloleks="LE_d1ea0d9dd4771e211c9eddc0d342acc2">veljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_75aafad7fae9fb24b375976c76d9518e">poosebljenje</comp>
+            </collocation>
+            <collocation form="imeti za poosebljenje" cluster="2" frequency="4" logDice="0.92">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_75aafad7fae9fb24b375976c76d9518e">poosebljenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pravo poosebljenje" cluster="1" frequency="24" logDice="0.51">
+              <comp position="1" type="collocate" sloleks="LE_b6d87b136784072fa5bb21831fa825be">pravo</comp>
+              <comp position="2" type="headword" sloleks="LE_75aafad7fae9fb24b375976c76d9518e">poosebljenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

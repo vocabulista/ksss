@@ -1,0 +1,44 @@
+<entry>
+  <header>
+    <lexical_unit id="6550554">zmišljevati</lexical_unit>
+    <category>glagol</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="zmišljevati stvar" cluster="1" frequency="8" logDice="2.08">
+              <comp position="1" type="headword" sloleks="">zmišljevati</comp>
+              <comp position="2" type="collocate" sloleks="LE_c62e36388a9104c47cf960cd4bdf4ca3">stvar</comp>
+            </collocation>
+            <collocation form="zmišljevati ime" cluster="2" frequency="5" logDice="1.42">
+              <comp position="1" type="headword" sloleks="">zmišljevati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">ime</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="sproti zmišljevati" cluster="1" frequency="13" logDice="4.66">
+              <comp position="1" type="collocate" sloleks="LE_ce593b33a1546924b2c4514ccc2a3bab">sproti</comp>
+              <comp position="2" type="headword" sloleks="">zmišljevati</comp>
+            </collocation>
+            <collocation form="nekaj zmišljevati" cluster="2" frequency="24" logDice="2.5">
+              <comp position="1" type="collocate" sloleks="LE_eb511b2a8ca41b887db9b389e9bd0591">nekaj</comp>
+              <comp position="2" type="headword" sloleks="">zmišljevati</comp>
+            </collocation>
+            <collocation form="naprej zmišljevati" cluster="3" frequency="5" logDice="0.49">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="">zmišljevati</comp>
+            </collocation>
+            <collocation form="malo zmišljevati" cluster="4" frequency="5" logDice="0.31">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="">zmišljevati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

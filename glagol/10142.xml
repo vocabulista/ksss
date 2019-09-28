@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="10142">zavreščati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">582</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="zavreščati na glas" cluster="1" frequency="4" logDice="3.19">
+              <comp position="1" type="headword" sloleks="LE_223d83e08c7a210e26285a3ba777afe1">zavreščati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_bdaf56c7a9eddd2562b11c97c0770037">glas</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ od sbz2">
+          <collocations>
+            <collocation form="zavreščati od groze" cluster="1" frequency="7" logDice="8.1">
+              <comp position="1" type="headword" sloleks="LE_223d83e08c7a210e26285a3ba777afe1">zavreščati</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_992b4c7702cc22e5ae93d2f362e1aa3a">groze</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="presunljivo zavreščati" cluster="1" frequency="6" logDice="9.11">
+              <comp position="1" type="collocate" sloleks="LE_246d8be63071b436ccd0980356c23fc3">presunljivo</comp>
+              <comp position="2" type="headword" sloleks="LE_223d83e08c7a210e26285a3ba777afe1">zavreščati</comp>
+            </collocation>
+            <collocation form="glasno zavreščati" cluster="2" frequency="6" logDice="3.24">
+              <comp position="1" type="collocate" sloleks="LE_8d32e8ffef5c2d930893f51f039b425a">glasno</comp>
+              <comp position="2" type="headword" sloleks="LE_223d83e08c7a210e26285a3ba777afe1">zavreščati</comp>
+            </collocation>
+            <collocation form="nenadoma zavreščati" cluster="3" frequency="4" logDice="1.74">
+              <comp position="1" type="collocate" sloleks="LE_aa4b7ad6edf7bc6253c423b84d3da24a">nenadoma</comp>
+              <comp position="2" type="headword" sloleks="LE_223d83e08c7a210e26285a3ba777afe1">zavreščati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

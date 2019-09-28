@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="21336">kolateralen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1230</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="kolateralna škoda" cluster="1" frequency="902" logDice="8.78">
+              <comp position="1" type="headword" sloleks="LE_a09dea237f9e1debfb626062544b02ac">kolateralna</comp>
+              <comp position="2" type="collocate" sloleks="LE_d0eef6fed3fa66df037002eb7e67a633">škoda</comp>
+            </collocation>
+            <collocation form="kolateralna korist" cluster="1" frequency="14" logDice="3.9">
+              <comp position="1" type="headword" sloleks="LE_a09dea237f9e1debfb626062544b02ac">kolateralna</comp>
+              <comp position="2" type="collocate" sloleks="LE_e4a5ebc6dc0230e468f1bd9a503b7685">korist</comp>
+            </collocation>
+            <collocation form="kolateralen ligament" cluster="2" frequency="8" logDice="7.52">
+              <comp position="1" type="headword" sloleks="LE_a09dea237f9e1debfb626062544b02ac">kolateralen</comp>
+              <comp position="2" type="collocate" sloleks="LE_6cd27607a3a96aa4a4fa786ab04167c6">ligament</comp>
+            </collocation>
+            <collocation form="kolateralna žrtev" cluster="3" frequency="172" logDice="7.08">
+              <comp position="1" type="headword" sloleks="LE_a09dea237f9e1debfb626062544b02ac">kolateralna</comp>
+              <comp position="2" type="collocate" sloleks="LE_f46ebb4646225631d376c958798abe48">žrtev</comp>
+            </collocation>
+            <collocation form="kolateralna vez" cluster="4" frequency="13" logDice="3.73">
+              <comp position="1" type="headword" sloleks="LE_a09dea237f9e1debfb626062544b02ac">kolateralna</comp>
+              <comp position="2" type="collocate" sloleks="LE_c16c97be58f47ce556654a419005ecca">vez</comp>
+            </collocation>
+            <collocation form="kolateralna posledica" cluster="5" frequency="11" logDice="2.19">
+              <comp position="1" type="headword" sloleks="LE_a09dea237f9e1debfb626062544b02ac">kolateralna</comp>
+              <comp position="2" type="collocate" sloleks="LE_9e94e198ec2c32de37b2bd7b6e54af2e">posledica</comp>
+            </collocation>
+            <collocation form="kolateralen učinek" cluster="6" frequency="9" logDice="1.41">
+              <comp position="1" type="headword" sloleks="LE_a09dea237f9e1debfb626062544b02ac">kolateralen</comp>
+              <comp position="2" type="collocate" sloleks="LE_2353cab56c2f4b095b8ea704f5199db8">učinek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="veliko kolateralen" cluster="1" frequency="10" logDice="0.85">
+              <comp position="1" type="collocate" sloleks="LE_431ef7ec57af288ca0e781bb12f6e7f0">veliko</comp>
+              <comp position="2" type="headword" sloleks="LE_a09dea237f9e1debfb626062544b02ac">kolateralen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

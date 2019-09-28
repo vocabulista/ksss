@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="27606">oskrunjen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">419</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="oskrunjen grob" cluster="1" frequency="27" logDice="6.25">
+              <comp position="1" type="headword" sloleks="LE_34c5fcbdb35669ec3a4285277b88eee5">oskrunjen</comp>
+              <comp position="2" type="collocate" sloleks="LE_d56403be43e952c9b37f5f1cadb243c2">grob</comp>
+            </collocation>
+            <collocation form="oskrunjen spomenik" cluster="2" frequency="46" logDice="5.32">
+              <comp position="1" type="headword" sloleks="LE_34c5fcbdb35669ec3a4285277b88eee5">oskrunjen</comp>
+              <comp position="2" type="collocate" sloleks="LE_e9eaab1fe0b5a887e9cdfbc2b0d56ab9">spomenik</comp>
+            </collocation>
+            <collocation form="oskrunjeno pokopališče" cluster="3" frequency="9" logDice="4.65">
+              <comp position="1" type="headword" sloleks="LE_34c5fcbdb35669ec3a4285277b88eee5">oskrunjeno</comp>
+              <comp position="2" type="collocate" sloleks="LE_c5252176908282ab1877a04327ecf95a">pokopališče</comp>
+            </collocation>
+            <collocation form="oskrunjena cerkev" cluster="4" frequency="8" logDice="1.36">
+              <comp position="1" type="headword" sloleks="LE_34c5fcbdb35669ec3a4285277b88eee5">oskrunjena</comp>
+              <comp position="2" type="collocate" sloleks="LE_71364d2c460f04c8b1dbbb72e4901dca">cerkev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="večkrat oskrunjen" cluster="1" frequency="7" logDice="3.78">
+              <comp position="1" type="collocate" sloleks="LE_a632a4cd780b70ff7634918837d4eddb">večkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_34c5fcbdb35669ec3a4285277b88eee5">oskrunjen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

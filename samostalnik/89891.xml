@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="89891">sočasnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">408</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="sočasnost izpolnitve" cluster="1" frequency="16" logDice="8.46">
+              <comp position="1" type="headword" sloleks="LE_c600b7e86006b8140b635b34968f793c">sočasnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_84c64bac2c91cf33ba7cd2760f4e5747">izpolnitve</comp>
+            </collocation>
+            <collocation form="sočasnost dogodka" cluster="2" frequency="20" logDice="3.43">
+              <comp position="1" type="headword" sloleks="LE_c600b7e86006b8140b635b34968f793c">sočasnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_4ebf7faa63d583a7c8baa57987b0f3bf">dogodka</comp>
+            </collocation>
+            <collocation form="načelo sočasnosti" cluster="3" frequency="13" logDice="3.1">
+              <comp position="1" type="collocate" sloleks="LE_5a443f15d8b4838fe872b4d2b544f4ce">načelo</comp>
+              <comp position="2" type="headword" sloleks="LE_c600b7e86006b8140b635b34968f793c">sočasnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="pravilo o sočasnosti" cluster="1" frequency="5" logDice="4.85">
+              <comp position="1" type="collocate" sloleks="LE_51ba7008d358dced3f5e2276d31828bd">pravilo</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_c600b7e86006b8140b635b34968f793c">sočasnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

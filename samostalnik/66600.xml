@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="66600">lapsus</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1101</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="lapsus calami" cluster="1" frequency="11" logDice="12.01">
+              <comp position="1" type="headword" sloleks="LE_9da71c4fa0248b079585f8e51438a51a">lapsus</comp>
+              <comp position="2" type="collocate" sloleks="">calami</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz do SBZ2">
+          <collocations>
+            <collocation form="priti do lapsusa" cluster="1" frequency="20" logDice="1.63">
+              <comp position="1" type="collocate" sloleks="LE_fc339e29cc0e8ec9efe1ef0acdfb11b5">priti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_9da71c4fa0248b079585f8e51438a51a">lapsusa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="opozoriti na lapsus" cluster="1" frequency="7" logDice="2.63">
+              <comp position="1" type="collocate" sloleks="LE_9d89109b8231c20ace2c0b60a9753af4">opozoriti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_9da71c4fa0248b079585f8e51438a51a">lapsus</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="opravičevati za lapsus" cluster="1" frequency="13" logDice="7.1">
+              <comp position="1" type="collocate" sloleks="LE_e8ac3ce1d228a6ff76a2338e76820185">opravičevati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_9da71c4fa0248b079585f8e51438a51a">lapsus</comp>
+            </collocation>
+            <collocation form="iti za lapsus" cluster="2" frequency="69" logDice="2.51">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_9da71c4fa0248b079585f8e51438a51a">lapsus</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="očiten lapsus" cluster="1" frequency="9" logDice="3.59">
+              <comp position="1" type="collocate" sloleks="LE_e45ab914741bd26d943edec37cd56847">očiten</comp>
+              <comp position="2" type="headword" sloleks="LE_9da71c4fa0248b079585f8e51438a51a">lapsus</comp>
+            </collocation>
+            <collocation form="hud lapsus" cluster="2" frequency="14" logDice="1.21">
+              <comp position="1" type="collocate" sloleks="LE_52de53dad147ca0010c605df13741ac2">hud</comp>
+              <comp position="2" type="headword" sloleks="LE_9da71c4fa0248b079585f8e51438a51a">lapsus</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

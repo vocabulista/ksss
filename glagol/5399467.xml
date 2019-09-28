@@ -1,0 +1,48 @@
+<entry>
+  <header>
+    <lexical_unit id="5399467">niti</lexical_unit>
+    <category>glagol</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="niti bitno" cluster="1" frequency="5" logDice="9.85">
+              <comp position="1" type="headword" sloleks="">niti</comp>
+              <comp position="2" type="collocate" sloleks="LE_51fc12a11d1489ec64a8ec058eead2e1">bitno</comp>
+            </collocation>
+            <collocation form="niti lako" cluster="2" frequency="6" logDice="9.26">
+              <comp position="1" type="headword" sloleks="">niti</comp>
+              <comp position="2" type="collocate" sloleks="">lako</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="niti šta" cluster="1" frequency="6" logDice="9.89">
+              <comp position="1" type="headword" sloleks="">niti</comp>
+              <comp position="2" type="collocate" sloleks="">šta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="spom niti" cluster="1" frequency="4" logDice="10.41">
+              <comp position="1" type="collocate" sloleks="">spom</comp>
+              <comp position="2" type="headword" sloleks="">niti</comp>
+            </collocation>
+            <collocation form="ovo niti" cluster="2" frequency="4" logDice="8.76">
+              <comp position="1" type="collocate" sloleks="">ovo</comp>
+              <comp position="2" type="headword" sloleks="">niti</comp>
+            </collocation>
+            <collocation form="visoko niti" cluster="3" frequency="10" logDice="4.64">
+              <comp position="1" type="collocate" sloleks="LE_d86577b4184b53617245ebe98adcaa36">visoko</comp>
+              <comp position="2" type="headword" sloleks="">niti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

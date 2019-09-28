@@ -1,0 +1,44 @@
+<entry>
+  <header>
+    <lexical_unit id="44519">radoživo</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">464</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="rbz RBZ">
+          <collocations>
+            <collocation form="komedijantsko radoživo" cluster="1" frequency="4" logDice="10.44">
+              <comp position="1" type="collocate" sloleks="LE_52b8a0d351e8fa75b185e4520305a270">komedijantsko</comp>
+              <comp position="2" type="headword" sloleks="LE_20138e9451499f12008c7c70aa1b521b">radoživo</comp>
+            </collocation>
+            <collocation form="bolj radoživo" cluster="2" frequency="12" logDice="1.21">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_20138e9451499f12008c7c70aa1b521b">radoživo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ in/ali rbz">
+          <collocations>
+            <collocation form="radoživo in/ali dobrodušno" cluster="1" frequency="6" logDice="10.51">
+              <comp position="3" type="headword" sloleks="LE_20138e9451499f12008c7c70aa1b521b">radoživo</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_134b645200cea64e5a7a13fb1c70eb01">dobrodušno</comp>
+              </collocation>
+            <collocation form="radoživo in/ali veselo" cluster="2" frequency="6" logDice="6.92">
+              <comp position="3" type="headword" sloleks="LE_20138e9451499f12008c7c70aa1b521b">radoživo</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_9e742988a5de914da1cc9d96be09da01">veselo</comp>
+              </collocation>
+            <collocation form="radoživo in/ali sproščeno" cluster="3" frequency="6" logDice="6.41">
+              <comp position="3" type="headword" sloleks="LE_20138e9451499f12008c7c70aa1b521b">radoživo</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="">sproščeno</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

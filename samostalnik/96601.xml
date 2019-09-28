@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="96601">vodenica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">405</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz pri SBZ5">
+          <collocations>
+            <collocation form="pomagati pri vodenici" cluster="1" frequency="4" logDice="1.47">
+              <comp position="1" type="collocate" sloleks="LE_2fc43d313cb40b86ed2a370a430e93c1">pomagati</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_1a77f05eaccd3eb7f750bd06de2654d2">vodenici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="trebušna vodenica" cluster="1" frequency="17" logDice="5.3">
+              <comp position="1" type="collocate" sloleks="LE_de9d5fa0a1477022e665e808782a0227">trebušna</comp>
+              <comp position="2" type="headword" sloleks="LE_1a77f05eaccd3eb7f750bd06de2654d2">vodenica</comp>
+            </collocation>
+            <collocation form="srčna vodenica" cluster="2" frequency="16" logDice="3.48">
+              <comp position="1" type="collocate" sloleks="LE_3cfb293b11f220476e2f3551a0ef4b9f">srčna</comp>
+              <comp position="2" type="headword" sloleks="LE_1a77f05eaccd3eb7f750bd06de2654d2">vodenica</comp>
+            </collocation>
+            <collocation form="mala vodenica" cluster="3" frequency="72" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_0b2cc34f00671cbd2bc04dca56aba76b">mala</comp>
+              <comp position="2" type="headword" sloleks="LE_1a77f05eaccd3eb7f750bd06de2654d2">vodenica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="hiša v Vodenici" cluster="1" frequency="6" logDice="2.61">
+              <comp position="1" type="collocate" sloleks="LE_34e4b2cb65c667c6bf374f39db0e3597">hiša</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_1a77f05eaccd3eb7f750bd06de2654d2">Vodenici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

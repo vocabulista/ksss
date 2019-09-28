@@ -1,0 +1,35 @@
+<entry>
+  <header>
+    <lexical_unit id="82387">premetanka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">562</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="PREMETANKA s STREŠICO" cluster="1" frequency="5" logDice="10.86">
+              <comp position="1" type="headword" sloleks="LE_e93f95db1d5a1cd744dc09712c6f0d74">PREMETANKA</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_22d1cd81444a3d3dc8e0d3935cd9b513">STREŠICO</comp>
+            </collocation>
+            <collocation form="premetanka s tekstom" cluster="2" frequency="5" logDice="8.33">
+              <comp position="1" type="headword" sloleks="LE_e93f95db1d5a1cd744dc09712c6f0d74">premetanka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_2a1dc037ea9be653523a841f84de0814">tekstom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="gibalna premetanka" cluster="1" frequency="22" logDice="6.33">
+              <comp position="1" type="collocate" sloleks="LE_1056fbf0ae461380994c9e2e3151d857">gibalna</comp>
+              <comp position="2" type="headword" sloleks="LE_e93f95db1d5a1cd744dc09712c6f0d74">premetanka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

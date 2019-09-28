@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="66173">kulturnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">699</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="vsestranska kulturnica" cluster="1" frequency="13" logDice="5.07">
+              <comp position="1" type="collocate" sloleks="LE_187148c3720a11a48af2c7cd4223cf96">vsestranska</comp>
+              <comp position="2" type="headword" sloleks="LE_223dd42820da5b3197fab03aa0bdde00">kulturnica</comp>
+            </collocation>
+            <collocation form="velenjska kulturnica" cluster="2" frequency="16" logDice="4.68">
+              <comp position="1" type="collocate" sloleks="LE_86a0663b29e7d61735b50e30da8a3360">velenjska</comp>
+              <comp position="2" type="headword" sloleks="LE_223dd42820da5b3197fab03aa0bdde00">kulturnica</comp>
+            </collocation>
+            <collocation form="obalna kulturnica" cluster="3" frequency="8" logDice="3.43">
+              <comp position="1" type="collocate" sloleks="LE_ed05a169db4e35dc73b7fff9422b70d6">obalna</comp>
+              <comp position="2" type="headword" sloleks="LE_223dd42820da5b3197fab03aa0bdde00">kulturnica</comp>
+            </collocation>
+            <collocation form="znana kulturnica" cluster="4" frequency="13" logDice="0.62">
+              <comp position="1" type="collocate" sloleks="LE_3ca4e8269ed35ff770799effa47b0eda">znana</comp>
+              <comp position="2" type="headword" sloleks="LE_223dd42820da5b3197fab03aa0bdde00">kulturnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="knjigarna Kulturnice" cluster="1" frequency="8" logDice="7.92">
+              <comp position="1" type="collocate" sloleks="LE_fb8dd3c2b7208e69b4b0dbf7fafa229e">knjigarna</comp>
+              <comp position="2" type="headword" sloleks="LE_223dd42820da5b3197fab03aa0bdde00">Kulturnice</comp>
+            </collocation>
+            <collocation form="status kulturnice" cluster="2" frequency="5" logDice="1.81">
+              <comp position="1" type="collocate" sloleks="LE_8ded38ac7a37441b88a8e17272bf1926">status</comp>
+              <comp position="2" type="headword" sloleks="LE_223dd42820da5b3197fab03aa0bdde00">kulturnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="knjiga v Kulturnici" cluster="1" frequency="4" logDice="3.92">
+              <comp position="1" type="collocate" sloleks="LE_fcbd23f52ef0d5c8f302f9c1ba64a0e3">knjiga</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_223dd42820da5b3197fab03aa0bdde00">Kulturnici</comp>
+            </collocation>
+            <collocation form="ura v Kulturnici" cluster="2" frequency="14" logDice="3.09">
+              <comp position="1" type="collocate" sloleks="LE_77e6b5a072871d299d405565eaad4389">ura</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_223dd42820da5b3197fab03aa0bdde00">Kulturnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

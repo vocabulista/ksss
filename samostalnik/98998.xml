@@ -1,0 +1,185 @@
+<entry>
+  <header>
+    <lexical_unit id="98998">zdravica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1371</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 v sbz4">
+          <collocations>
+            <collocation form="zdravica v čast" cluster="1" frequency="10" logDice="6.15">
+              <comp position="1" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravica</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_31ca04dbfc5eb763c2e89cd4ba9a0eaf">čast</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="zdravica s penino" cluster="1" frequency="9" logDice="10.21">
+              <comp position="1" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_628734438e9d9303a078b6faecf1c8d6">penino</comp>
+            </collocation>
+            <collocation form="zdravica s šampanjcem" cluster="2" frequency="16" logDice="9.86">
+              <comp position="1" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_13215fd86fa08450a4b1585331f5a09b">šampanjcem</comp>
+            </collocation>
+            <collocation form="zdravica s kozarcem" cluster="3" frequency="5" logDice="7.88">
+              <comp position="1" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_fff7749669d83bd3bc9e860b08fe3343">kozarcem</comp>
+            </collocation>
+            <collocation form="zdravica z vinom" cluster="4" frequency="4" logDice="5.81">
+              <comp position="1" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_0ae7c92af34780f7f1922cd5b9806ca5">vinom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="zdravica za gosta" cluster="1" frequency="4" logDice="4.75">
+              <comp position="1" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_e6cee54a176357f6ae4eee7d6ef8c850">gosta</comp>
+            </collocation>
+            <collocation form="Zdravica za Slovenca" cluster="2" frequency="5" logDice="4.38">
+              <comp position="1" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">Zdravica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_729f0d5f17646d52975cea70c2c90304|LE_28fbf96b9bd02e5a6e7ae885f022743f">Slovenca</comp>
+            </collocation>
+            <collocation form="kozarček za zdravico" cluster="3" frequency="7" logDice="10.26">
+              <comp position="1" type="collocate" sloleks="LE_dbe3a479ad8638b480292d84d7019d26">kozarček</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravico</comp>
+            </collocation>
+            <collocation form="vino za zdravico" cluster="4" frequency="5" logDice="7.07">
+              <comp position="1" type="collocate" sloleks="LE_0ae7c92af34780f7f1922cd5b9806ca5">vino</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravico</comp>
+            </collocation>
+            <collocation form="posoda za zdravico" cluster="5" frequency="4" logDice="3.72">
+              <comp position="1" type="collocate" sloleks="LE_425a270d7f3f1c8f5b5bf6bb4e629719">posoda</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravico</comp>
+            </collocation>
+            <collocation form="čas za zdravico" cluster="6" frequency="7" logDice="1.49">
+              <comp position="1" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">čas</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravico</comp>
+            </collocation>
+            <collocation form="priložnost za zdravico" cluster="6" frequency="4" logDice="1.51">
+              <comp position="1" type="collocate" sloleks="LE_603b647f30f702ed4697c3b9926b382f">priložnost</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravico</comp>
+            </collocation>
+            <collocation form="razlog za zdravico" cluster="7" frequency="4" logDice="0.78">
+              <comp position="1" type="collocate" sloleks="LE_26c1514e5bfab4dd2b04f4e4711659e1">razlog</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="zapeti zdravico" cluster="1" frequency="15" logDice="5.93">
+              <comp position="1" type="collocate" sloleks="LE_e8a7ff99f4a109d8106cd6dd02ab8dba|LE_1e21f1412003a60bd1f636735fa19f93">zapeti</comp>
+              <comp position="2" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravico</comp>
+            </collocation>
+            <collocation form="izreči zdravico" cluster="2" frequency="13" logDice="4.58">
+              <comp position="1" type="collocate" sloleks="LE_5caca4e31da447988efb9dedd0140dd6">izreči</comp>
+              <comp position="2" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravico</comp>
+            </collocation>
+            <collocation form="predlagati zdravico" cluster="2" frequency="11" logDice="2.65">
+              <comp position="1" type="collocate" sloleks="LE_bf7e5a6ca425b8fca51489fd0356a878">predlagati</comp>
+              <comp position="2" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz ob SBZ5">
+          <collocations>
+            <collocation form="povedati ob zdravici" cluster="1" frequency="4" logDice="5.3">
+              <comp position="1" type="collocate" sloleks="LE_cf2e918645b765c031aa3d36edad265f">povedati</comp>
+              <comp position="2" type="other" sloleks="LE_0d51e0433cde1d7d6610f469ec11e938">ob</comp>
+              <comp position="3" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="poudariti v zdravici" cluster="1" frequency="4" logDice="4.36">
+              <comp position="1" type="collocate" sloleks="LE_06e78563401af0aae501f0a950ef702a">poudariti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravici</comp>
+            </collocation>
+            <collocation form="dejati v zdravici" cluster="2" frequency="4" logDice="3.62">
+              <comp position="1" type="collocate" sloleks="LE_589043755dd51c65044a2db476fcfa5f">dejati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="nazdraviti z zdravico" cluster="1" frequency="4" logDice="6.3">
+              <comp position="1" type="collocate" sloleks="LE_ff85246683ee9eb91062c70bea9d8f28">nazdraviti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravico</comp>
+            </collocation>
+            <collocation form="zaključiti z zdravico" cluster="2" frequency="4" logDice="3.23">
+              <comp position="1" type="collocate" sloleks="LE_0d8c4650caac4db47bfd5fa126b9e5cf">zaključiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravico</comp>
+            </collocation>
+            <collocation form="končati z zdravico" cluster="3" frequency="4" logDice="1.7">
+              <comp position="1" type="collocate" sloleks="LE_bff8ada88a0327f702f1df18714e8d4a">končati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravico</comp>
+            </collocation>
+            <collocation form="začeti z zdravico" cluster="4" frequency="4" logDice="0.69">
+              <comp position="1" type="collocate" sloleks="LE_5526be99243d6a70e33b06d3eabd15ae">začeti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="polnočna zdravica" cluster="1" frequency="9" logDice="5.53">
+              <comp position="1" type="collocate" sloleks="LE_4b4351c2fc740d1dbfb8b873ce6183b3">polnočna</comp>
+              <comp position="2" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravica</comp>
+            </collocation>
+            <collocation form="županova zdravica" cluster="2" frequency="11" logDice="5.03">
+              <comp position="1" type="collocate" sloleks="LE_3ba8fb8cb2f10c67eab940e3d96ef201">županova</comp>
+              <comp position="2" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravica</comp>
+            </collocation>
+            <collocation form="novoletna zdravica" cluster="3" frequency="24" logDice="4.33">
+              <comp position="1" type="collocate" sloleks="LE_df1d7410a39699cbf457ea3d4ba8a2a0">novoletna</comp>
+              <comp position="2" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravica</comp>
+            </collocation>
+            <collocation form="Prešernova zdravica" cluster="4" frequency="25" logDice="4.28">
+              <comp position="1" type="collocate" sloleks="LE_80e5d0c56ffc97d70310b4916f3288de">Prešernova</comp>
+              <comp position="2" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravica</comp>
+            </collocation>
+            <collocation form="obvezna zdravica" cluster="5" frequency="10" logDice="2.3">
+              <comp position="1" type="collocate" sloleks="LE_df2a2d8ead73c8ef2dfffeb3072b1df5">obvezna</comp>
+              <comp position="2" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="nina zdravice" cluster="1" frequency="16" logDice="11.9">
+              <comp position="1" type="collocate" sloleks="">nina</comp>
+              <comp position="2" type="headword" sloleks="LE_8381f4400146e5059a8eac74276f212a">zdravice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

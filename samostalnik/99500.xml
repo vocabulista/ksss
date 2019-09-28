@@ -1,0 +1,71 @@
+<entry>
+  <header>
+    <lexical_unit id="99500">žitnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">532</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="žitnica slovenstva" cluster="1" frequency="29" logDice="7.85">
+              <comp position="1" type="headword" sloleks="LE_f77193c87ba916aa4a124a94c59f8925">žitnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_dd0bc710982b950a1c50a13ecf93b2f4">slovenstva</comp>
+            </collocation>
+            <collocation form="žitnica Afrike" cluster="2" frequency="12" logDice="5.83">
+              <comp position="1" type="headword" sloleks="LE_f77193c87ba916aa4a124a94c59f8925">žitnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_6c0c00b0b850b59dc521b671e1ed5158">Afrike</comp>
+            </collocation>
+            <collocation form="žitnica Slovenije" cluster="3" frequency="37" logDice="1.2">
+              <comp position="1" type="headword" sloleks="LE_f77193c87ba916aa4a124a94c59f8925">žitnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Slovenije</comp>
+            </collocation>
+            <collocation form="žitnica Evrope" cluster="3" frequency="25" logDice="3.59">
+              <comp position="1" type="headword" sloleks="LE_f77193c87ba916aa4a124a94c59f8925">žitnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_0c70d71bb49cb550bb4e854282407723">Evrope</comp>
+            </collocation>
+            <collocation form="žitnica Jugoslavije" cluster="3" frequency="12" logDice="3.17">
+              <comp position="1" type="headword" sloleks="LE_f77193c87ba916aa4a124a94c59f8925">žitnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_79788572409c80dad44b1b6bdb85a417">Jugoslavije</comp>
+            </collocation>
+            <collocation form="žitnica zveze" cluster="4" frequency="9" logDice="1.29">
+              <comp position="1" type="headword" sloleks="LE_f77193c87ba916aa4a124a94c59f8925">žitnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_f685db62cc2d867e40d31988d86fbd1e">zveze</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="spremeniti v žitnico" cluster="1" frequency="7" logDice="2.36">
+              <comp position="1" type="collocate" sloleks="LE_7e38541e80f0b8333acf093049053f3b">spremeniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_f77193c87ba916aa4a124a94c59f8925">žitnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="veljati za žitnico" cluster="1" frequency="17" logDice="2.66">
+              <comp position="1" type="collocate" sloleks="LE_d1ea0d9dd4771e211c9eddc0d342acc2">veljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_f77193c87ba916aa4a124a94c59f8925">žitnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="grajska žitnica" cluster="1" frequency="27" logDice="5.15">
+              <comp position="1" type="collocate" sloleks="LE_ab29aeea254e42586f3391383d31fc64">grajska</comp>
+              <comp position="2" type="headword" sloleks="LE_f77193c87ba916aa4a124a94c59f8925">žitnica</comp>
+            </collocation>
+            <collocation form="nekdanja žitnica" cluster="2" frequency="24" logDice="1.07">
+              <comp position="1" type="collocate" sloleks="LE_8a7f20bd7c05984d11bf0b9c0d5d8dc4">nekdanja</comp>
+              <comp position="2" type="headword" sloleks="LE_f77193c87ba916aa4a124a94c59f8925">žitnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

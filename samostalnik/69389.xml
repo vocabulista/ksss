@@ -1,0 +1,56 @@
+<entry>
+  <header>
+    <lexical_unit id="69389">mežikanje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">475</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="mežikanje z veko" cluster="1" frequency="7" logDice="11.22">
+              <comp position="1" type="headword" sloleks="LE_28861eb8344af603e09dab09768cf753">mežikanje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_f2b458e80b0c97409e9427992cf3f54d">veko</comp>
+            </collocation>
+            <collocation form="mežikanje z očmi" cluster="2" frequency="12" logDice="6.44">
+              <comp position="1" type="headword" sloleks="LE_28861eb8344af603e09dab09768cf753">mežikanje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_6e683e53145b35a6cbb44ad1188b7a9f|LE_f7836a137770b18301878166ca9f053f">očmi</comp>
+            </collocation>
+            <collocation form="nasmeh z mežikanjem" cluster="3" frequency="4" logDice="10.41">
+              <comp position="1" type="collocate" sloleks="LE_e4a7f9d21e8b4e4417828e12ed26d24b">nasmeh</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_28861eb8344af603e09dab09768cf753">mežikanjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pogosto mežikanje" cluster="1" frequency="18" logDice="3.24">
+              <comp position="1" type="collocate" sloleks="LE_2ecdf1445e4b8c64b8108c40b9b0a1d1">pogosto</comp>
+              <comp position="2" type="headword" sloleks="LE_28861eb8344af603e09dab09768cf753">mežikanje</comp>
+            </collocation>
+            <collocation form="hitro mežikanje" cluster="2" frequency="10" logDice="0.82">
+              <comp position="1" type="collocate" sloleks="LE_2af28cbb04d2e8afedc54b00a27fc453">hitro</comp>
+              <comp position="2" type="headword" sloleks="LE_28861eb8344af603e09dab09768cf753">mežikanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="refleks mežikanja" cluster="1" frequency="7" logDice="8.67">
+              <comp position="1" type="collocate" sloleks="LE_84625067c9dc0677925e37a1c04185d8">refleks</comp>
+              <comp position="2" type="headword" sloleks="LE_28861eb8344af603e09dab09768cf753">mežikanja</comp>
+            </collocation>
+            <collocation form="pogostost mežikanja" cluster="2" frequency="6" logDice="5.75">
+              <comp position="1" type="collocate" sloleks="LE_1365333e55f75f838158e64084b6ad36">pogostost</comp>
+              <comp position="2" type="headword" sloleks="LE_28861eb8344af603e09dab09768cf753">mežikanja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

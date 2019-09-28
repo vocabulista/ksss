@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="89460">slepilo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1008</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="slepilo za javnost" cluster="1" frequency="5" logDice="3.08">
+              <comp position="1" type="headword" sloleks="LE_e76126aaf2fe5cd92b5e5d8e8b8210ac">slepilo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_e2876fc81d3c084862be27e9bd6863ca">javnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="živeti v slepilu" cluster="1" frequency="6" logDice="0.78">
+              <comp position="1" type="collocate" sloleks="LE_42cc4ca3168ca0f408ce857620c0a7d0">živeti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_e76126aaf2fe5cd92b5e5d8e8b8210ac">slepilu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za slepilo" cluster="1" frequency="6" logDice="-1.01">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_e76126aaf2fe5cd92b5e5d8e8b8210ac">slepilo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="laž v slepilu" cluster="1" frequency="6" logDice="8.82">
+              <comp position="1" type="collocate" sloleks="LE_846f2b16110ea2ca11b2d21b988df2c9">laž</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_e76126aaf2fe5cd92b5e5d8e8b8210ac">slepilu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="67464">ljubkovanje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">722</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="ljubkovanje prsi" cluster="1" frequency="10" logDice="6.39">
+              <comp position="1" type="headword" sloleks="LE_5dc7432c486c1d7e771b301615a86d52">ljubkovanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_3d025b17cd66a42ec9792b218a4cb1ac">prsi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="odzivati na ljubkovanje" cluster="1" frequency="4" logDice="4.04">
+              <comp position="1" type="collocate" sloleks="LE_01342079482b1b2e853b1f9b3ad5e97a">odzivati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_5dc7432c486c1d7e771b301615a86d52">ljubkovanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="nadaljevati z ljubkovanjem" cluster="1" frequency="6" logDice="2.28">
+              <comp position="1" type="collocate" sloleks="LE_bf40887e2899d51ca12eec3f323f6287">nadaljevati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_5dc7432c486c1d7e771b301615a86d52">ljubkovanjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nežno ljubkovanje" cluster="1" frequency="15" logDice="3.97">
+              <comp position="1" type="collocate" sloleks="LE_f837be4e6eab81c570700551368ed722">nežno</comp>
+              <comp position="2" type="headword" sloleks="LE_5dc7432c486c1d7e771b301615a86d52">ljubkovanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

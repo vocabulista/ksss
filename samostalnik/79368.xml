@@ -1,0 +1,29 @@
+<entry>
+  <header>
+    <lexical_unit id="79368">pogrebnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">808</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="pogrebnik podjetja" cluster="1" frequency="12" logDice="0.52">
+              <comp position="1" type="headword" sloleks="LE_bc270aba6c329bee537c9ca0226e92da">pogrebnik</comp>
+              <comp position="2" type="collocate" sloleks="LE_1aed870e4b1c077c155d34b01ab0af57">podjetja</comp>
+            </collocation>
+            <collocation form="kongres pogrebnika" cluster="2" frequency="11" logDice="4.99">
+              <comp position="1" type="collocate" sloleks="LE_ac9e732860f243279e39da7e754342ae">kongres</comp>
+              <comp position="2" type="headword" sloleks="LE_bc270aba6c329bee537c9ca0226e92da">pogrebnika</comp>
+            </collocation>
+            <collocation form="vloga pogrebnika" cluster="3" frequency="7" logDice="0.87">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_bc270aba6c329bee537c9ca0226e92da">pogrebnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="76559">palčica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">854</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Andersenova palčica" cluster="1" frequency="14" logDice="8.57">
+              <comp position="1" type="collocate" sloleks="LE_7acf436c4c8a42eb5fcadef8a5fd9463">Andersenova</comp>
+              <comp position="2" type="headword" sloleks="LE_bed5605882dba22f5732a3c305162eaa">palčica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="dobrota palčice" cluster="1" frequency="6" logDice="5.72">
+              <comp position="1" type="collocate" sloleks="LE_8f076bf816d5a4c096b7ecee9216c704">dobrota</comp>
+              <comp position="2" type="headword" sloleks="LE_bed5605882dba22f5732a3c305162eaa">palčice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="zgodba o Palčici" cluster="1" frequency="4" logDice="1.17">
+              <comp position="1" type="collocate" sloleks="LE_9d9531a39496cd12f07e32ab50c0280f">zgodba</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_bed5605882dba22f5732a3c305162eaa">Palčici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

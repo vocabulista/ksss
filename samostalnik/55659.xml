@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="55659">eon</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1154</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Horusov eon" cluster="1" frequency="15" logDice="11.39">
+              <comp position="1" type="collocate" sloleks="">Horusov</comp>
+              <comp position="2" type="headword" sloleks="LE_e9de41d3710219478b7c86ee54541c29">eon</comp>
+            </collocation>
+            <collocation form="nemški eon" cluster="2" frequency="36" logDice="2.05">
+              <comp position="1" type="collocate" sloleks="LE_3398f4f093d46af964d6964317ec3e80">nemški</comp>
+              <comp position="2" type="headword" sloleks="LE_e9de41d3710219478b7c86ee54541c29">eon</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="energija eona" cluster="1" frequency="9" logDice="4.9">
+              <comp position="1" type="collocate" sloleks="LE_a5b5cd7c325eb8bbda86e3d9bb680b09">energija</comp>
+              <comp position="2" type="headword" sloleks="LE_e9de41d3710219478b7c86ee54541c29">eona</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="sodelovanje z Eonom" cluster="1" frequency="4" logDice="0.55">
+              <comp position="1" type="collocate" sloleks="LE_5d0ed32540572fbd41d712e9a23fadb1">sodelovanje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_e9de41d3710219478b7c86ee54541c29">Eonom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

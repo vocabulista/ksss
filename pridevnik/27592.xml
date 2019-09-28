@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="27592">osji</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">823</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="osje gnezdo" cluster="1" frequency="554" logDice="10.94">
+              <comp position="1" type="headword" sloleks="LE_d6a35a0fd160a29ca516b0626bf8c183">osje</comp>
+              <comp position="2" type="collocate" sloleks="LE_0f6e3abd36f0a5440fde2cfb5f037a3a">gnezdo</comp>
+            </collocation>
+            <collocation form="osji pik" cluster="2" frequency="68" logDice="10.03">
+              <comp position="1" type="headword" sloleks="LE_d6a35a0fd160a29ca516b0626bf8c183">osji</comp>
+              <comp position="2" type="collocate" sloleks="LE_01575e0e55c4e8ad700937abe9255ffa">pik</comp>
+            </collocation>
+            <collocation form="osje želo" cluster="3" frequency="32" logDice="9.91">
+              <comp position="1" type="headword" sloleks="LE_d6a35a0fd160a29ca516b0626bf8c183">osje</comp>
+              <comp position="2" type="collocate" sloleks="LE_a28a53a86c094e2c1d15da410a386b3f">želo</comp>
+            </collocation>
+            <collocation form="osji strup" cluster="4" frequency="13" logDice="6.24">
+              <comp position="1" type="headword" sloleks="LE_d6a35a0fd160a29ca516b0626bf8c183">osji</comp>
+              <comp position="2" type="collocate" sloleks="LE_9a4e3b64be7f07b424a5b5dbbe0a1823">strup</comp>
+            </collocation>
+            <collocation form="osja pika" cluster="5" frequency="22" logDice="5.86">
+              <comp position="1" type="headword" sloleks="LE_d6a35a0fd160a29ca516b0626bf8c183">osja</comp>
+              <comp position="2" type="collocate" sloleks="LE_1059a8e412fb50645ea5beec29ec9dfc">pika</comp>
+            </collocation>
+            <collocation form="osji pas" cluster="6" frequency="32" logDice="4.02">
+              <comp position="1" type="headword" sloleks="LE_d6a35a0fd160a29ca516b0626bf8c183">osji</comp>
+              <comp position="2" type="collocate" sloleks="LE_89ac9c7dc7f715491af648500946332a">pas</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="osji in/ali čebelji" cluster="1" frequency="39" logDice="13.27">
+              <comp position="3" type="headword" sloleks="LE_d6a35a0fd160a29ca516b0626bf8c183">osji</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_27d86818dd58808135ac06d5133a8ce0">čebelji</comp>
+              </collocation>
+            <collocation form="osji in sršenji" cluster="2" frequency="13" logDice="12.51">
+              <comp position="1" type="headword" sloleks="LE_d6a35a0fd160a29ca516b0626bf8c183">osji</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_ac57b0cc8f721883d91a41ca12a69a0f">sršenji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

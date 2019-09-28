@@ -1,0 +1,635 @@
+<entry>
+  <header>
+    <lexical_unit id="96716">vojvoda</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">3861</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="vojvoda iz hiše" cluster="1" frequency="4" logDice="4.7">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_34e4b2cb65c667c6bf374f39db0e3597">hiše</comp>
+            </collocation>
+            <collocation form="vojvoda iz stoletja" cluster="2" frequency="7" logDice="4.44">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_20c284f688e5a2f02453c420d0dcfc56">stoletja</comp>
+            </collocation>
+            <collocation form="vojvoda iz leta" cluster="3" frequency="6" logDice="1.34">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="vojvoda v Rigolett" cluster="1" frequency="4" logDice="10.47">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="">Rigolett</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ3">
+          <collocations>
+            <collocation form="izročiti vojvodi" cluster="1" frequency="9" logDice="4.91">
+              <comp position="1" type="collocate" sloleks="LE_7e0a59e4a907514214ef8b2c4703340d">izročiti</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvodi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="ustoličevati vojvodo" cluster="1" frequency="17" logDice="11.05">
+              <comp position="1" type="collocate" sloleks="LE_697024b9a1fba34be67ee5a275988eaa">ustoličevati</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvodo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz o SBZ5">
+          <collocations>
+            <collocation form="govoriti o vojvodi" cluster="1" frequency="6" logDice="0.43">
+              <comp position="1" type="collocate" sloleks="LE_1da4dedf23c5041ae767d038d2430123">govoriti</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvodi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz po SBZ5">
+          <collocations>
+            <collocation form="imenovati po vojvodi" cluster="1" frequency="6" logDice="5.94">
+              <comp position="1" type="collocate" sloleks="LE_3e12a706ab8dbd4f47d3004afdf657ec">imenovati</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvodi</comp>
+            </collocation>
+            <collocation form="dobiti po vojvodi" cluster="2" frequency="4" logDice="3.11">
+              <comp position="1" type="collocate" sloleks="LE_abe97863495bd3d2d1b41f81933061b7">dobiti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvodi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="poročiti z vojvodo" cluster="1" frequency="32" logDice="6.45">
+              <comp position="1" type="collocate" sloleks="LE_b9c667080dab6d3d75df2d987c7ee965">poročiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvodo</comp>
+            </collocation>
+            <collocation form="pogovoriti z vojvodo" cluster="2" frequency="5" logDice="4.08">
+              <comp position="1" type="collocate" sloleks="LE_138d34a829d19929a55fad5b316f1927">pogovoriti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvodo</comp>
+            </collocation>
+            <collocation form="pogovarjati z vojvodo" cluster="3" frequency="9" logDice="3.41">
+              <comp position="1" type="collocate" sloleks="LE_4027e38ae800fbeb50666a09ec7b051c">pogovarjati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvodo</comp>
+            </collocation>
+            <collocation form="srečati z vojvodo" cluster="4" frequency="4" logDice="2.32">
+              <comp position="1" type="collocate" sloleks="LE_049fc92dfae25894d858637e2cc2c59c">srečati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvodo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="imenovati za vojvodo" cluster="1" frequency="6" logDice="4.55">
+              <comp position="1" type="collocate" sloleks="LE_3e12a706ab8dbd4f47d3004afdf657ec">imenovati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvodo</comp>
+            </collocation>
+            <collocation form="razglasiti za vojvodo" cluster="2" frequency="4" logDice="3.31">
+              <comp position="1" type="collocate" sloleks="LE_bf7aad6c518b6989f7d2c5d7b4806af8">razglasiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvodo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="četniški vojvoda" cluster="1" frequency="136" logDice="10.1">
+              <comp position="1" type="collocate" sloleks="LE_52a2d62034f91bf09706fb5aa62350ca">četniški</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="partizanski vojvoda" cluster="1" frequency="11" logDice="3.74">
+              <comp position="1" type="collocate" sloleks="LE_f03e2685790b45d1d1d427d8b39e6b69">partizanski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="burgundski vojvoda" cluster="2" frequency="54" logDice="9.24">
+              <comp position="1" type="collocate" sloleks="LE_e835cc9f730a2a93e61b0225faf7c4ff">burgundski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="luksemburški vojvoda" cluster="3" frequency="34" logDice="7.72">
+              <comp position="1" type="collocate" sloleks="LE_9bd83f7d40603c1d58ae07a68c3a2ecc">luksemburški</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="nekronan vojvoda" cluster="4" frequency="17" logDice="7.62">
+              <comp position="1" type="collocate" sloleks="LE_3bdfb54632012b82144fda361f4f4587">nekronan</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="normanski vojvoda" cluster="5" frequency="15" logDice="7.4">
+              <comp position="1" type="collocate" sloleks="LE_26723ed68d54971a03ca9bb92824181f">normanski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="bavarski vojvoda" cluster="6" frequency="66" logDice="7.37">
+              <comp position="1" type="collocate" sloleks="LE_0ce9773535427734d1250764452da07a">bavarski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="savojski vojvoda" cluster="7" frequency="15" logDice="7.27">
+              <comp position="1" type="collocate" sloleks="LE_cda802ed647158c67948ebd12c508204">savojski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="alkarski vojvoda" cluster="8" frequency="22" logDice="8.09">
+              <comp position="1" type="collocate" sloleks="">alkarski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="württemberški vojvoda" cluster="8" frequency="12" logDice="7.2">
+              <comp position="1" type="collocate" sloleks="">württemberški</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="saški vojvoda" cluster="9" frequency="16" logDice="7.13">
+              <comp position="1" type="collocate" sloleks="LE_dbbb89fa8ba806aebe2df4785d4ac14c">saški</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="yorški vojvoda" cluster="10" frequency="47" logDice="9.04">
+              <comp position="1" type="collocate" sloleks="LE_03c3d61e5ab352d05c0c30b71036c05e">yorški</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="kentski vojvoda" cluster="10" frequency="10" logDice="6.93">
+              <comp position="1" type="collocate" sloleks="LE_a0c66029f35b6283834434f2432df19a">kentski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="westminstrski vojvoda" cluster="11" frequency="12" logDice="6.9">
+              <comp position="1" type="collocate" sloleks="LE_ee29acbb0ce8b102051f656e61caa8df">westminstrski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="beneventski vojvoda" cluster="12" frequency="9" logDice="6.82">
+              <comp position="1" type="collocate" sloleks="">beneventski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="mantovski vojvoda" cluster="13" frequency="9" logDice="6.8">
+              <comp position="1" type="collocate" sloleks="LE_dec906d8f8f6b73ac6efee55c209ef5c">mantovski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="windsorski vojvoda" cluster="14" frequency="10" logDice="6.79">
+              <comp position="1" type="collocate" sloleks="LE_6ce04ddc5910820520aff39a6bd5801e">windsorski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="habsburški vojvoda" cluster="15" frequency="18" logDice="6.72">
+              <comp position="1" type="collocate" sloleks="LE_76c14f29b66f8b752f8224d653ef9097">habsburški</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="transilvanski vojvoda" cluster="16" frequency="8" logDice="6.54">
+              <comp position="1" type="collocate" sloleks="LE_79a6e953eeb00ae11ea6dcc67e1a5bf9">transilvanski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="rajni vojvoda" cluster="17" frequency="8" logDice="6.44">
+              <comp position="1" type="collocate" sloleks="LE_9d0740903051ef0eecbed93d8f1801c9">rajni</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="florentinski vojvoda" cluster="18" frequency="8" logDice="6.32">
+              <comp position="1" type="collocate" sloleks="LE_563de8840540947d6c8d4f0dbcf3aad1">florentinski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="piratski vojvoda" cluster="19" frequency="14" logDice="6.2">
+              <comp position="1" type="collocate" sloleks="LE_19da2fd0821ec08facd8cc8f41e7d26d">piratski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="koroški vojvoda" cluster="20" frequency="325" logDice="7.87">
+              <comp position="1" type="collocate" sloleks="LE_41364ac16c9a95a88cbb02b84282df89">koroški</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="štajerski vojvoda" cluster="20" frequency="28" logDice="5.03">
+              <comp position="1" type="collocate" sloleks="LE_22f0a49fef4ea87e6a9f31135efe77a9">štajerski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="kranjski vojvoda" cluster="20" frequency="9" logDice="1.57">
+              <comp position="1" type="collocate" sloleks="LE_0bd8e638d4f62a846bbd7f0cc97d5f60">kranjski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="vitek vojvoda" cluster="21" frequency="8" logDice="4.53">
+              <comp position="1" type="collocate" sloleks="LE_e3871645bf2fdc4318e9bd607cf534e2">vitek</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="mogočen vojvoda" cluster="22" frequency="13" logDice="3.86">
+              <comp position="1" type="collocate" sloleks="LE_697fc787e799644198584b19eb1dfd00">mogočen</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="karantanski vojvoda" cluster="23" frequency="48" logDice="8.85">
+              <comp position="1" type="collocate" sloleks="LE_fdf6b422d1afb0c51cfd1dde249bd00b">karantanski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="avstrijski vojvoda" cluster="24" frequency="56" logDice="3.84">
+              <comp position="1" type="collocate" sloleks="LE_2044cc24b18befa1709518ef073627ec">avstrijski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="srbski vojvoda" cluster="24" frequency="17" logDice="2.34">
+              <comp position="1" type="collocate" sloleks="LE_61652cfd1896737e7a4583998088c114">srbski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="francoski vojvoda" cluster="24" frequency="17" logDice="1.7">
+              <comp position="1" type="collocate" sloleks="LE_a10636c78f7699eb7d5802c9c9863aaf">francoski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="britanski vojvoda" cluster="24" frequency="14" logDice="1.92">
+              <comp position="1" type="collocate" sloleks="LE_676ba1b0b266514ee4b03a3d55b55910">britanski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="tamkajšnji vojvoda" cluster="24" frequency="10" logDice="2.13">
+              <comp position="1" type="collocate" sloleks="LE_ee917dbffe3a1d9e41eb070a0d8ab9da">tamkajšnji</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="angleški vojvoda" cluster="24" frequency="9" logDice="1.29">
+              <comp position="1" type="collocate" sloleks="LE_8b840258abd9241edccf9d7612498a6d">angleški</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="sedanji vojvoda" cluster="24" frequency="8" logDice="0.7">
+              <comp position="1" type="collocate" sloleks="LE_deed9694cf13ddeba89b181f10251ba4">sedanji</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="pokojen vojvoda" cluster="25" frequency="13" logDice="3.77">
+              <comp position="1" type="collocate" sloleks="LE_875766eb2549c8c90856f988edf7b4ff">pokojen</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="velik vojvoda" cluster="26" frequency="422" logDice="2.57">
+              <comp position="1" type="collocate" sloleks="LE_6ca59c38ee7f7e489a6c13cd1c322726">velik</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="edinburški vojvoda" cluster="27" frequency="36" logDice="8.56">
+              <comp position="1" type="collocate" sloleks="LE_aa2e00ec2ac8dd38a9fe6cf7b6e7c5d6">edinburški</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="vlaški vojvoda" cluster="28" frequency="21" logDice="7.84">
+              <comp position="1" type="collocate" sloleks="LE_ffc3048996f1a27ab394f5c006931ff3">vlaški</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="toskanski vojvoda" cluster="29" frequency="27" logDice="7.78">
+              <comp position="1" type="collocate" sloleks="LE_4de31687e46ee3a280dddce55bc65914">toskanski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+            <collocation form="milanski vojvoda" cluster="30" frequency="66" logDice="7.72">
+              <comp position="1" type="collocate" sloleks="LE_359a9292aa52a38022e34fd50ea4a2ab">milanski</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 z SBZ6">
+          <collocations>
+            <collocation form="povezan z vojvodo" cluster="1" frequency="9" logDice="1.12">
+              <comp position="1" type="collocate" sloleks="LE_84ef5df7d933128064d85c58468c7559">povezan</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvodo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 za SBZ4">
+          <collocations>
+            <collocation form="ustoličen za vojvodo" cluster="1" frequency="4" logDice="12.14">
+              <comp position="1" type="collocate" sloleks="LE_ebefefbe17041a91f48cad4171b2e09d">ustoličen</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvodo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="ustoličevanje vojvode" cluster="1" frequency="92" logDice="11.25">
+              <comp position="1" type="collocate" sloleks="LE_10d2cd851216d921d99249460de6ecae">ustoličevanje</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="horarij vojvode" cluster="2" frequency="20" logDice="9.25">
+              <comp position="1" type="collocate" sloleks="">horarij</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="sin vojvode" cluster="3" frequency="26" logDice="4.96">
+              <comp position="1" type="collocate" sloleks="LE_79e0b2d02a57a50544ca32d11914a5a7">sin</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="hči vojvode" cluster="3" frequency="25" logDice="6.62">
+              <comp position="1" type="collocate" sloleks="LE_548160594c54c41472ed7de0d4dde6b4">hči</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="hčerka vojvode" cluster="3" frequency="15" logDice="5.86">
+              <comp position="1" type="collocate" sloleks="LE_a7bfbea4c680735ff6a7f6faa0847ac6">hčerka</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="brat vojvode" cluster="3" frequency="10" logDice="4.74">
+              <comp position="1" type="collocate" sloleks="LE_596080a448c9d7dd107473b477aa03f5">brat</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="sestra vojvode" cluster="3" frequency="9" logDice="5.09">
+              <comp position="1" type="collocate" sloleks="LE_b3439352341b78a7b6c15e1ad2f3a564">sestra</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="oče vojvode" cluster="3" frequency="6" logDice="2.99">
+              <comp position="1" type="collocate" sloleks="LE_fc6f92b44e0935702b32d3acbccf0142">oče</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="žena vojvode" cluster="3" frequency="5" logDice="3.35">
+              <comp position="1" type="collocate" sloleks="LE_412b2e672422f341e6f8b4b4f03f0f24">žena</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="grad vojvode" cluster="4" frequency="20" logDice="6.96">
+              <comp position="1" type="collocate" sloleks="LE_b32c1e1e605a2353e11ee0a7e2e2e735">grad</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="palača vojvode" cluster="4" frequency="15" logDice="6.55">
+              <comp position="1" type="collocate" sloleks="LE_66069a99f8299ddbedb33fd4c43570db">palača</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="dvorec vojvode" cluster="4" frequency="7" logDice="6.79">
+              <comp position="1" type="collocate" sloleks="LE_017fca6c169dd159e44f3683e611fcc6">dvorec</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="posest vojvode" cluster="5" frequency="11" logDice="6.23">
+              <comp position="1" type="collocate" sloleks="LE_ea1d0c222be600b36041577f80c237c4">posest</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="rezidenca vojvode" cluster="6" frequency="6" logDice="6.19">
+              <comp position="1" type="collocate" sloleks="LE_5d24c35ead4486329e73582e759d79d3">rezidenca</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="umeščanje vojvode" cluster="7" frequency="6" logDice="5.94">
+              <comp position="1" type="collocate" sloleks="LE_4dbd1c573553ddc02b988807474917c3">umeščanje</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="soproga vojvode" cluster="8" frequency="7" logDice="5.53">
+              <comp position="1" type="collocate" sloleks="LE_c528db032c79bab2dcf6323a9661f418">soproga</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="poveljstvo vojvode" cluster="9" frequency="9" logDice="5.43">
+              <comp position="1" type="collocate" sloleks="LE_53a8c799d5027b4ed18b003ff7fdb63d">poveljstvo</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="pečat vojvode" cluster="10" frequency="5" logDice="5.42">
+              <comp position="1" type="collocate" sloleks="LE_8a83b58956cf1d648db1c8b410ff7edb">pečat</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="poroka vojvode" cluster="11" frequency="8" logDice="5.4">
+              <comp position="1" type="collocate" sloleks="LE_70ade28c20c7792013180cafdda513f2">poroka</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="ustoličenje vojvode" cluster="12" frequency="27" logDice="9.01">
+              <comp position="1" type="collocate" sloleks="LE_651608d9201e22b500d89e19404689a9">ustoličenje</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="listina vojvode" cluster="13" frequency="6" logDice="5.31">
+              <comp position="1" type="collocate" sloleks="LE_0f00bcc0dbcfb2817d7361cffc885fc0">listina</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="poročilo vojvode" cluster="13" frequency="5" logDice="2.16">
+              <comp position="1" type="collocate" sloleks="LE_00452c6ec77fc0b47997a85c80913ca4">poročilo</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="pohod vojvode" cluster="14" frequency="7" logDice="5.26">
+              <comp position="1" type="collocate" sloleks="LE_01073dd8973c0817869deec173590499">pohod</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="sanja vojvode" cluster="15" frequency="5" logDice="4.96">
+              <comp position="1" type="collocate" sloleks="LE_acb16acb48f5515625108b0a496bffb4">sanja</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="podoba vojvode" cluster="15" frequency="5" logDice="1.4">
+              <comp position="1" type="collocate" sloleks="LE_f981a5dcf51e5a8e22672e1d3009ebfe">podoba</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="spremstvo vojvode" cluster="16" frequency="8" logDice="4.58">
+              <comp position="1" type="collocate" sloleks="LE_984397de69387064cba404a8961e42a7">spremstvo</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="portret vojvode" cluster="17" frequency="8" logDice="4.38">
+              <comp position="1" type="collocate" sloleks="LE_7ec21e31c7000941b48ee8b0629894ec">portret</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="naslov vojvode" cluster="18" frequency="22" logDice="2.42">
+              <comp position="1" type="collocate" sloleks="LE_1aca8621567cc70c42163dfa35048969">naslov</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="naziv vojvode" cluster="18" frequency="8" logDice="4.24">
+              <comp position="1" type="collocate" sloleks="LE_c41a5bfe21c18c3ce31490d5080df16e">naziv</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="tajnik vojvode" cluster="19" frequency="6" logDice="4.15">
+              <comp position="1" type="collocate" sloleks="LE_f04b1108a7463454e3a44a8e1af0996a">tajnik</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="svetovalec vojvode" cluster="19" frequency="6" logDice="3.85">
+              <comp position="1" type="collocate" sloleks="LE_d274bfcc4961156353a91ad8ac94745e">svetovalec</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="dvor vojvode" cluster="20" frequency="25" logDice="8.56">
+              <comp position="1" type="collocate" sloleks="LE_956abf4d3f727074258caa617d987513">dvor</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="dom vojvode" cluster="21" frequency="8" logDice="2.5">
+              <comp position="1" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">dom</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="otrok vojvode" cluster="21" frequency="7" logDice="2.93">
+              <comp position="1" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otrok</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="vojska vojvode" cluster="21" frequency="5" logDice="3.88">
+              <comp position="1" type="collocate" sloleks="LE_014592c93c5ecc51294b73e71f55d921">vojska</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="družina vojvode" cluster="21" frequency="5" logDice="2.66">
+              <comp position="1" type="collocate" sloleks="LE_9a7d912c8ec5a6cbc42d2975b5563b34">družina</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="služba vojvode" cluster="21" frequency="5" logDice="2.0">
+              <comp position="1" type="collocate" sloleks="LE_595a77ebd11b27d069e3829b663f2954">služba</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="knjižnica vojvode" cluster="22" frequency="6" logDice="3.83">
+              <comp position="1" type="collocate" sloleks="LE_4335cf07a92312c0b252e55da6f28918">knjižnica</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="zbirka vojvode" cluster="22" frequency="6" logDice="1.96">
+              <comp position="1" type="collocate" sloleks="LE_b8e0610165688c675f0bd81c2c79fbd6">zbirka</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="smrt vojvode" cluster="23" frequency="9" logDice="2.9">
+              <comp position="1" type="collocate" sloleks="LE_7ccde25b582fa3323faaf4d1541c4793">smrt</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="umor vojvode" cluster="23" frequency="5" logDice="3.45">
+              <comp position="1" type="collocate" sloleks="LE_e1d415ebab0599b221c2915c0deebda5">umor</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="last vojvode" cluster="24" frequency="12" logDice="2.98">
+              <comp position="1" type="collocate" sloleks="LE_ee8fa7ae62f4b21cdcdf1be80fa1a321">last</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="Grad vojvode" cluster="25" frequency="15" logDice="8.42">
+              <comp position="1" type="collocate" sloleks="LE_ca321695d9fd9fc79e1e06a710d03be6|LE_0fc4a9c5b0dee2edc199cb461d654425">Grad</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="vloga vojvode" cluster="26" frequency="22" logDice="2.51">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="pomoč vojvode" cluster="26" frequency="9" logDice="0.96">
+              <comp position="1" type="collocate" sloleks="LE_84e3f9e3c4e9e1abf42cc69c125b0b58">pomoč</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="obisk vojvode" cluster="26" frequency="8" logDice="1.84">
+              <comp position="1" type="collocate" sloleks="LE_b8c2d2adf31d1e34a582d21c6efe5e02">obisk</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="položaj vojvode" cluster="26" frequency="6" logDice="1.43">
+              <comp position="1" type="collocate" sloleks="LE_0227904f3ee297f8f6c33b433ba96e65">položaj</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="sedež vojvode" cluster="27" frequency="5" logDice="2.08">
+              <comp position="1" type="collocate" sloleks="LE_42b5df4302592a62c432da286741d70a">sedež</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="vodstvo vojvode" cluster="28" frequency="16" logDice="1.89">
+              <comp position="1" type="collocate" sloleks="LE_cfbf3b6eda6e115103a1a0b3fa68f541">vodstvo</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="vojašnica vojvode" cluster="29" frequency="21" logDice="8.35">
+              <comp position="1" type="collocate" sloleks="LE_0a9891fc768fe8094ed68c866483c9e7">vojašnica</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="ministerial vojvode" cluster="30" frequency="9" logDice="8.03">
+              <comp position="1" type="collocate" sloleks="">ministerial</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="sel vojvode" cluster="31" frequency="6" logDice="7.16">
+              <comp position="1" type="collocate" sloleks="LE_352d182968dfb0f885a2b604f5bb4349">sel</comp>
+              <comp position="2" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvode</comp>
+            </collocation>
+            <collocation form="vojvoda sinjebradec" cluster="32" frequency="27" logDice="9.99">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="">sinjebradec</comp>
+            </collocation>
+            <collocation form="vojvoda Wellington" cluster="33" frequency="19" logDice="9.56">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="">Wellington</comp>
+            </collocation>
+            <collocation form="vojvoda ulrik" cluster="34" frequency="9" logDice="8.35">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="">ulrik</comp>
+            </collocation>
+            <collocation form="vojvoda Šešlja" cluster="35" frequency="12" logDice="8.28">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="LE_93da6209ca18f82acdac2232827c158c|LE_83cc35542a1616ff2559b08ba6d94c39">Šešlja</comp>
+            </collocation>
+            <collocation form="vojvoda alke" cluster="36" frequency="8" logDice="8.16">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="LE_5b9fe4bef464272c3d3f6ee297e2da9e">alke</comp>
+            </collocation>
+            <collocation form="vojvoda Albrechta" cluster="37" frequency="8" logDice="8.05">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="LE_3f6d0dd413e5652cd75ebf1bd515c77b|LE_4995f06f7dd3925302872bb6d5391d87">Albrechta</comp>
+            </collocation>
+            <collocation form="vojvoda Toskane" cluster="38" frequency="8" logDice="7.94">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="LE_5582a5b08433a05e6716488051a740cf">Toskane</comp>
+            </collocation>
+            <collocation form="vojvoda Krištofa" cluster="39" frequency="10" logDice="7.86">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="LE_150bbd56eb64fcdeadee40df0beacfc7">Krištofa</comp>
+            </collocation>
+            <collocation form="vojvoda Albrehta" cluster="40" frequency="9" logDice="7.86">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="LE_e2e22d2ac3700d779594744af94d03bb|LE_67ad1d0f06640315aab3e97d373d0607">Albrehta</comp>
+            </collocation>
+            <collocation form="vojvoda Henrika" cluster="41" frequency="12" logDice="7.76">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="LE_00def8f52e36b856f4ba11452587fe64">Henrika</comp>
+            </collocation>
+            <collocation form="vojvoda Parme" cluster="42" frequency="8" logDice="7.5">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="LE_2b4678ab04b25691cb86a57b13d871d0|LE_39b46a42d45b554830ee1826075e7e74|LE_20b5cc6210a48b43c78ff128e1585664">Parme</comp>
+            </collocation>
+            <collocation form="vojvoda Bernarda" cluster="43" frequency="10" logDice="7.26">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="LE_12edc39433fb98bc4392f5cb84cf112d">Bernarda</comp>
+            </collocation>
+            <collocation form="vojvoda spanheim" cluster="44" frequency="14" logDice="9.12">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="">spanheim</comp>
+            </collocation>
+            <collocation form="vojvoda Rudolfa" cluster="45" frequency="13" logDice="6.82">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="LE_d20daba9fc5aff417a82bdeabd5fb6dc|LE_662c030f2e494adb016b0b035c5a2ee7">Rudolfa</comp>
+            </collocation>
+            <collocation form="vojvoda Jeana" cluster="46" frequency="9" logDice="6.71">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="LE_7144af4d884c9a27abec8b24a756ed07">Jeana</comp>
+            </collocation>
+            <collocation form="vojvoda Karla" cluster="47" frequency="16" logDice="6.17">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="LE_4b75262f68954036c572d27140afc537">Karla</comp>
+            </collocation>
+            <collocation form="vojvoda sina" cluster="48" frequency="11" logDice="4.9">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="LE_79e0b2d02a57a50544ca32d11914a5a7">sina</comp>
+            </collocation>
+            <collocation form="vojvoda Mišić" cluster="49" frequency="13" logDice="9.02">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="">Mišić</comp>
+            </collocation>
+            <collocation form="vojvoda Mišiča" cluster="50" frequency="13" logDice="8.82">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="LE_505bf0d2f5d5b5c31e71250862f07f5c|LE_f21a6bd8cfd0847642b927b9fcfe40c0">Mišiča</comp>
+            </collocation>
+            <collocation form="vojvoda Luksemburga" cluster="51" frequency="15" logDice="8.7">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="LE_b143da992ab1d0443c66d69c06537d6a">Luksemburga</comp>
+            </collocation>
+            <collocation form="vojvoda Berryjski" cluster="52" frequency="9" logDice="8.54">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="">Berryjski</comp>
+            </collocation>
+            <collocation form="vojvoda Leopolda" cluster="53" frequency="22" logDice="8.51">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="LE_2a8990d4c76c7ff34707001ffdaf7c08">Leopolda</comp>
+            </collocation>
+            <collocation form="vojvoda Marlborough" cluster="54" frequency="8" logDice="8.37">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="">Marlborough</comp>
+            </collocation>
+            <collocation form="vojvoda Gediminas" cluster="54" frequency="8" logDice="8.35">
+              <comp position="1" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvoda</comp>
+              <comp position="2" type="collocate" sloleks="">Gediminas</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 pri SBZ5">
+          <collocations>
+            <collocation form="služba pri vojvodi" cluster="1" frequency="4" logDice="5.82">
+              <comp position="1" type="collocate" sloleks="LE_595a77ebd11b27d069e3829b663f2954">služba</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvodi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="poroka z vojvodo" cluster="1" frequency="27" logDice="7.8">
+              <comp position="1" type="collocate" sloleks="LE_70ade28c20c7792013180cafdda513f2">poroka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvodo</comp>
+            </collocation>
+            <collocation form="zveza z vojvodo" cluster="2" frequency="5" logDice="0.22">
+              <comp position="1" type="collocate" sloleks="LE_f685db62cc2d867e40d31988d86fbd1e">zveza</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_19649c560c17eb32ad17b8362ff2e29c">vojvodo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,94 @@
+<entry>
+  <header>
+    <lexical_unit id="86251">rezistenca</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">468</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="rezistenca na antibiotik" cluster="1" frequency="11" logDice="10.59">
+              <comp position="1" type="headword" sloleks="LE_094ed7a1443dba26acc46027bab12874">rezistenca</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_9a5bcbdd4e8b6a6e4aa9177c2bc35904">antibiotik</comp>
+            </collocation>
+            <collocation form="rezistenca na zdravilo" cluster="2" frequency="4" logDice="8.11">
+              <comp position="1" type="headword" sloleks="LE_094ed7a1443dba26acc46027bab12874">rezistenca</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_005f608d88779abbae906ed3762c1400">zdravilo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="voditi v rezistenco" cluster="1" frequency="7" logDice="3.51">
+              <comp position="1" type="collocate" sloleks="LE_b044981ae81c995865d0ad4c2cd7b62b">voditi</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_094ed7a1443dba26acc46027bab12874">rezistenco</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="inzulinska rezistenca" cluster="1" frequency="73" logDice="11.62">
+              <comp position="1" type="collocate" sloleks="LE_649b57ff9758adabe5f3c38f91f3a6ce">inzulinska</comp>
+              <comp position="2" type="headword" sloleks="LE_094ed7a1443dba26acc46027bab12874">rezistenca</comp>
+            </collocation>
+            <collocation form="insulinska rezistenca" cluster="1" frequency="52" logDice="11.96">
+              <comp position="1" type="collocate" sloleks="LE_0bb40935b4ec3751471504ba0f4f0f4f">insulinska</comp>
+              <comp position="2" type="headword" sloleks="LE_094ed7a1443dba26acc46027bab12874">rezistenca</comp>
+            </collocation>
+            <collocation form="pasivna rezistenca" cluster="2" frequency="10" logDice="4.68">
+              <comp position="1" type="collocate" sloleks="LE_9a94ae78eddc7c0adda1fe4c8c3edf45">pasivna</comp>
+              <comp position="2" type="headword" sloleks="LE_094ed7a1443dba26acc46027bab12874">rezistenca</comp>
+            </collocation>
+            <collocation form="aktivna rezistenca" cluster="3" frequency="9" logDice="1.99">
+              <comp position="1" type="collocate" sloleks="LE_3abd74abf188260b09b1ae5c6d2cd818">aktivna</comp>
+              <comp position="2" type="headword" sloleks="LE_094ed7a1443dba26acc46027bab12874">rezistenca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="sindrom rezistence" cluster="1" frequency="8" logDice="5.93">
+              <comp position="1" type="collocate" sloleks="LE_bf0c5212a7b89404b136b3e8066d2a94">sindrom</comp>
+              <comp position="2" type="headword" sloleks="LE_094ed7a1443dba26acc46027bab12874">rezistence</comp>
+            </collocation>
+            <collocation form="pojav rezistence" cluster="2" frequency="7" logDice="3.72">
+              <comp position="1" type="collocate" sloleks="LE_d0fa033e21261b64a3d4f3b037d66371">pojav</comp>
+              <comp position="2" type="headword" sloleks="LE_094ed7a1443dba26acc46027bab12874">rezistence</comp>
+            </collocation>
+            <collocation form="nastanek rezistence" cluster="3" frequency="6" logDice="2.28">
+              <comp position="1" type="collocate" sloleks="LE_9e1a48424817b24d6d3a4ab97909c024">nastanek</comp>
+              <comp position="2" type="headword" sloleks="LE_094ed7a1443dba26acc46027bab12874">rezistence</comp>
+            </collocation>
+            <collocation form="razvoj rezistence" cluster="4" frequency="12" logDice="0.86">
+              <comp position="1" type="collocate" sloleks="LE_59210d6d596fdb364ef1653bd49f3a75">razvoj</comp>
+              <comp position="2" type="headword" sloleks="LE_094ed7a1443dba26acc46027bab12874">rezistence</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="človek z rezistenco" cluster="1" frequency="4" logDice="1.86">
+              <comp position="1" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človek</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_094ed7a1443dba26acc46027bab12874">rezistenco</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="gen za rezistenco" cluster="1" frequency="4" logDice="7.01">
+              <comp position="1" type="collocate" sloleks="LE_9fba630243ae292facbe201cfa4236dd">gen</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_094ed7a1443dba26acc46027bab12874">rezistenco</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

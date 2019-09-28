@@ -1,0 +1,82 @@
+<entry>
+  <header>
+    <lexical_unit id="4500531">volatilnost</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="volatilnost tečaja" cluster="1" frequency="27" logDice="5.21">
+              <comp position="1" type="headword" sloleks="">volatilnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_5d02c8a026f40c53ca6b5616101080cf">tečaja</comp>
+            </collocation>
+            <collocation form="volatilnost delnice" cluster="1" frequency="15" logDice="2.34">
+              <comp position="1" type="headword" sloleks="">volatilnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_a4c3bc7b70a19466bd299690c070a28a">delnice</comp>
+            </collocation>
+            <collocation form="volatilnost indeksa" cluster="2" frequency="9" logDice="4.83">
+              <comp position="1" type="headword" sloleks="">volatilnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_c15feb1d2a326daed8b9da85ccc96e74">indeksa</comp>
+            </collocation>
+            <collocation form="volatilnost trga" cluster="3" frequency="34" logDice="4.19">
+              <comp position="1" type="headword" sloleks="">volatilnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_b735dfd291d0abd31eeabd75c4133487">trga</comp>
+            </collocation>
+            <collocation form="indeks volatilnost" cluster="4" frequency="41" logDice="6.35">
+              <comp position="1" type="collocate" sloleks="LE_c15feb1d2a326daed8b9da85ccc96e74">indeks</comp>
+              <comp position="2" type="headword" sloleks="">volatilnost</comp>
+            </collocation>
+            <collocation form="povečanje volatilnost" cluster="5" frequency="7" logDice="1.98">
+              <comp position="1" type="collocate" sloleks="LE_775e9a0b70911bd3453b668832678d14">povečanje</comp>
+              <comp position="2" type="headword" sloleks="">volatilnost</comp>
+            </collocation>
+            <collocation form="nadaljevanje volatilnost" cluster="6" frequency="5" logDice="1.18">
+              <comp position="1" type="collocate" sloleks="LE_4bd37a62ec53082b9d734bc5cfb000f8">nadaljevanje</comp>
+              <comp position="2" type="headword" sloleks="">volatilnost</comp>
+            </collocation>
+            <collocation form="obdobje volatilnost" cluster="7" frequency="5" logDice="1.15">
+              <comp position="1" type="collocate" sloleks="LE_498f5ebac18d9460a9f193249cd7f0bc">obdobje</comp>
+              <comp position="2" type="headword" sloleks="">volatilnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="opozarjati na volatilnost" cluster="1" frequency="4" logDice="2.0">
+              <comp position="1" type="collocate" sloleks="LE_2b0d3172ed316ac5b17087cc44769a7a">opozarjati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="">volatilnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="odražati v volatilnost" cluster="1" frequency="5" logDice="5.37">
+              <comp position="1" type="collocate" sloleks="LE_f235be1a149636f845211303bb4316a5">odražati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="">volatilnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="povečan volatilnost" cluster="1" frequency="18" logDice="3.77">
+              <comp position="1" type="collocate" sloleks="LE_50754eb7249a2c4d4191eb8b1ade3400">povečan</comp>
+              <comp position="2" type="headword" sloleks="">volatilnost</comp>
+            </collocation>
+            <collocation form="precejšnji volatilnost" cluster="2" frequency="8" logDice="2.77">
+              <comp position="1" type="collocate" sloleks="LE_f26f254947e42326cd0dba743af25397">precejšnji</comp>
+              <comp position="2" type="headword" sloleks="">volatilnost</comp>
+            </collocation>
+            <collocation form="visok volatilnost" cluster="3" frequency="66" logDice="1.73">
+              <comp position="1" type="collocate" sloleks="LE_4233591f5096276ee0d2cc73b3e78e36">visok</comp>
+              <comp position="2" type="headword" sloleks="">volatilnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

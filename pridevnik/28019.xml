@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="28019">partikularen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">750</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="partikularen in univerzalen" cluster="1" frequency="31" logDice="10.19">
+              <comp position="1" type="headword" sloleks="LE_ad440c2a1d4718a033bb2f0667e2b9ae">partikularen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_ff85a242d7364dd9c94f615e048375fe">univerzalen</comp>
+            </collocation>
+            <collocation form="partikularen in/ali oseben" cluster="2" frequency="5" logDice="4.06">
+              <comp position="3" type="headword" sloleks="LE_ad440c2a1d4718a033bb2f0667e2b9ae">partikularen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_9e83056cf1aaf379d3487d2ea9e95113">oseben</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="partikularen interes" cluster="1" frequency="215" logDice="6.01">
+              <comp position="1" type="headword" sloleks="LE_ad440c2a1d4718a033bb2f0667e2b9ae">partikularen</comp>
+              <comp position="2" type="collocate" sloleks="LE_852d4c3cd2b3cd0cc21c88ad76a6c9a7">interes</comp>
+            </collocation>
+            <collocation form="partikularen problem" cluster="1" frequency="8" logDice="0.99">
+              <comp position="1" type="headword" sloleks="LE_ad440c2a1d4718a033bb2f0667e2b9ae">partikularen</comp>
+              <comp position="2" type="collocate" sloleks="LE_978368a01311c2094cfb52416d9882f9">problem</comp>
+            </collocation>
+            <collocation form="partikularna vrednota" cluster="2" frequency="9" logDice="2.83">
+              <comp position="1" type="headword" sloleks="LE_ad440c2a1d4718a033bb2f0667e2b9ae">partikularna</comp>
+              <comp position="2" type="collocate" sloleks="LE_a9a487406cac0fb4290599f62f8f14c3">vrednota</comp>
+            </collocation>
+            <collocation form="partikularna identiteta" cluster="2" frequency="7" logDice="3.09">
+              <comp position="1" type="headword" sloleks="LE_ad440c2a1d4718a033bb2f0667e2b9ae">partikularna</comp>
+              <comp position="2" type="collocate" sloleks="LE_83c316a31cc0abbd58228a73a4210288">identiteta</comp>
+            </collocation>
+            <collocation form="partikularno stališče" cluster="3" frequency="7" logDice="2.17">
+              <comp position="1" type="headword" sloleks="LE_ad440c2a1d4718a033bb2f0667e2b9ae">partikularno</comp>
+              <comp position="2" type="collocate" sloleks="LE_f258ebe19a870ef3c0529a47abb1480f">stališče</comp>
+            </collocation>
+            <collocation form="partikularna zgodba" cluster="4" frequency="7" logDice="0.62">
+              <comp position="1" type="headword" sloleks="LE_ad440c2a1d4718a033bb2f0667e2b9ae">partikularna</comp>
+              <comp position="2" type="collocate" sloleks="LE_9d9531a39496cd12f07e32ab50c0280f">zgodba</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="7793">reprezentirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">477</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="reprezentirati situacijo" cluster="1" frequency="6" logDice="4.22">
+              <comp position="1" type="headword" sloleks="LE_96d7aea2dcb809fb899ba60baa938664">reprezentirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_91fe277dd4b027040178b7bae8b2dfa6">situacijo</comp>
+            </collocation>
+            <collocation form="reprezentirati voljo" cluster="2" frequency="4" logDice="3.22">
+              <comp position="1" type="headword" sloleks="LE_96d7aea2dcb809fb899ba60baa938664">reprezentirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_302cfe15db5d997ecf0eab411fa16934">voljo</comp>
+            </collocation>
+            <collocation form="reprezentirati vsebino" cluster="3" frequency="4" logDice="2.7">
+              <comp position="1" type="headword" sloleks="LE_96d7aea2dcb809fb899ba60baa938664">reprezentirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6dcb4d18292d5087cc927ab205813347">vsebino</comp>
+            </collocation>
+            <collocation form="reprezentirati glasbo" cluster="4" frequency="4" logDice="2.25">
+              <comp position="1" type="headword" sloleks="LE_96d7aea2dcb809fb899ba60baa938664">reprezentirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9d4fb1bfd740612d94d302113e10a62">glasbo</comp>
+            </collocation>
+            <collocation form="reprezentirati državo" cluster="5" frequency="5" logDice="2.11">
+              <comp position="1" type="headword" sloleks="LE_96d7aea2dcb809fb899ba60baa938664">reprezentirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">državo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="dostojno reprezentirati" cluster="1" frequency="4" logDice="4.96">
+              <comp position="1" type="collocate" sloleks="LE_18a811b223d73ff2cb2ad7c27e57be23">dostojno</comp>
+              <comp position="2" type="headword" sloleks="LE_96d7aea2dcb809fb899ba60baa938664">reprezentirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="24854">narcističen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">423</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="narcističen libido" cluster="1" frequency="10" logDice="8.53">
+              <comp position="1" type="headword" sloleks="LE_2a4b6129bedce13be9ffbc22e6ea5976">narcističen</comp>
+              <comp position="2" type="collocate" sloleks="LE_a10bf8a18dd65f8223ef4442d75ddde1">libido</comp>
+            </collocation>
+            <collocation form="narcistična motnja" cluster="2" frequency="30" logDice="4.99">
+              <comp position="1" type="headword" sloleks="LE_2a4b6129bedce13be9ffbc22e6ea5976">narcistična</comp>
+              <comp position="2" type="collocate" sloleks="LE_e07067dc89f16fa43aba5c323406c3a7">motnja</comp>
+            </collocation>
+            <collocation form="narcistična rana" cluster="3" frequency="7" logDice="4.0">
+              <comp position="1" type="headword" sloleks="LE_2a4b6129bedce13be9ffbc22e6ea5976">narcistična</comp>
+              <comp position="2" type="collocate" sloleks="LE_a1db92edc1845a0fa53a371906b32079">rana</comp>
+            </collocation>
+            <collocation form="narcistična osebnost" cluster="4" frequency="6" logDice="1.94">
+              <comp position="1" type="headword" sloleks="LE_2a4b6129bedce13be9ffbc22e6ea5976">narcistična</comp>
+              <comp position="2" type="collocate" sloleks="LE_6da16471e9236f3fb199d59b283a9afe">osebnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="patološko narcističen" cluster="1" frequency="6" logDice="9.23">
+              <comp position="1" type="collocate" sloleks="LE_67724bbbb38c8d4ad879265182b14e84">patološko</comp>
+              <comp position="2" type="headword" sloleks="LE_2a4b6129bedce13be9ffbc22e6ea5976">narcističen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

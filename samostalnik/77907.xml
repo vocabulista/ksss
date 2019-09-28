@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="77907">piksna</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">414</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="piksna eksport" cluster="1" frequency="8" logDice="11.22">
+              <comp position="1" type="headword" sloleks="LE_4124c77121fe9e9d7ebd3d0b74e8177b">piksna</comp>
+              <comp position="2" type="collocate" sloleks="">eksport</comp>
+            </collocation>
+            <collocation form="piksna pira" cluster="2" frequency="17" logDice="10.41">
+              <comp position="1" type="headword" sloleks="LE_4124c77121fe9e9d7ebd3d0b74e8177b">piksna</comp>
+              <comp position="2" type="collocate" sloleks="LE_5652bd886f01f119e3cf228f1788e07a">pira</comp>
+            </collocation>
+            <collocation form="piksna piva" cluster="3" frequency="29" logDice="5.99">
+              <comp position="1" type="headword" sloleks="LE_4124c77121fe9e9d7ebd3d0b74e8177b">piksna</comp>
+              <comp position="2" type="collocate" sloleks="LE_3b490983cf8550a4205b86347b74d62d">piva</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="prazna piksna" cluster="1" frequency="15" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_533f0a5e914341357a01cda9a8b9e579">prazna</comp>
+              <comp position="2" type="headword" sloleks="LE_4124c77121fe9e9d7ebd3d0b74e8177b">piksna</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="musk iz piksne" cluster="1" frequency="15" logDice="13.12">
+              <comp position="1" type="collocate" sloleks="">musk</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_4124c77121fe9e9d7ebd3d0b74e8177b">piksne</comp>
+            </collocation>
+            <collocation form="Muska iz piksne" cluster="2" frequency="11" logDice="12.65">
+              <comp position="1" type="collocate" sloleks="">Muska</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_4124c77121fe9e9d7ebd3d0b74e8177b">piksne</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

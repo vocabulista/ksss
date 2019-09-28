@@ -1,0 +1,510 @@
+<entry>
+  <header>
+    <lexical_unit id="1234">grabiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">3586</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ med sbz6">
+          <collocations>
+            <collocation form="grabiti med seksom" cluster="1" frequency="5" logDice="7.29">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_79d3c2a10071a93dcc686ed3dd5a1f63">seksom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="grabiti na kup" cluster="1" frequency="23" logDice="8.36">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_726a2f014c8637e480b08fdf02d78f36">kup</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="grabiti na travniku" cluster="1" frequency="4" logDice="5.29">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_d65f56774e87f29c95022836e6ffeb30">travniku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ po sbz5">
+          <collocations>
+            <collocation form="grabiti po denarju" cluster="1" frequency="7" logDice="8.8">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denarju</comp>
+            </collocation>
+            <collocation form="grabiti po meni" cluster="2" frequency="4" logDice="8.02">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_0d7c16563ca08245cab8459a6cd64fe8">meni</comp>
+            </collocation>
+            <collocation form="grabiti po telesu" cluster="3" frequency="5" logDice="5.24">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_79b86615dd52e06799792917a906328a">telesu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ pod sbz6">
+          <collocations>
+            <collocation form="grabiti pod planino" cluster="1" frequency="4" logDice="9.64">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="collocate" sloleks="LE_3627874c5d915aefdc9f6b307cfcc343">planino</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="grabiti kar" cluster="1" frequency="19" logDice="0.17">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_c135f6fe8de5dfaaa58b36300e2bf493">kar</comp>
+            </collocation>
+            <collocation form="grabiti vse" cluster="2" frequency="10" logDice="0.06">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_69e1f6ea0eba690182112fa5f7865561">vse</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="grabiti listje" cluster="1" frequency="77" logDice="10.13">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_203faef97bd7cfd19b5e60c68d346acb">listje</comp>
+            </collocation>
+            <collocation form="grabiti seno" cluster="2" frequency="58" logDice="9.78">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_d308e4eea6fba824d70d6892eef7e0ff">seno</comp>
+            </collocation>
+            <collocation form="grabiti bes" cluster="3" frequency="7" logDice="6.74">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_13c9f03d82b13281c3ce9ae4a18dee93">bes</comp>
+            </collocation>
+            <collocation form="grabiti krč" cluster="4" frequency="9" logDice="6.73">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_31b2902cef0f78ec0d253075347e68f0">krč</comp>
+            </collocation>
+            <collocation form="grabiti trato" cluster="5" frequency="4" logDice="6.73">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_ea4142190283e5f22e4de68535e75eba">trato</comp>
+            </collocation>
+            <collocation form="grabiti travo" cluster="6" frequency="27" logDice="7.37">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_6818c2749803931be6bfa3c002fe3830">travo</comp>
+            </collocation>
+            <collocation form="grabiti pesek" cluster="6" frequency="8" logDice="6.34">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_b3367a91ee6c77196c32452549548dee">pesek</comp>
+            </collocation>
+            <collocation form="grabiti bogastvo" cluster="7" frequency="15" logDice="6.25">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_e012b123c5159ac4b1afe8a78bea5f1c">bogastvo</comp>
+            </collocation>
+            <collocation form="grabiti premoženje" cluster="7" frequency="14" logDice="4.7">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_e230d10f69ce9dd3656c6b70d5646127">premoženje</comp>
+            </collocation>
+            <collocation form="grabiti dobiček" cluster="7" frequency="4" logDice="2.94">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_b791a9bb45ba4e9de1faf611b3045015">dobiček</comp>
+            </collocation>
+            <collocation form="grabiti smeh" cluster="8" frequency="5" logDice="5.93">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_3c4ec3ec1188a2f4a5fa0b066496c90d">smeh</comp>
+            </collocation>
+            <collocation form="grabiti žalost" cluster="9" frequency="5" logDice="5.64">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_9f1004b08bda49a1f49faa6513423d67">žalost</comp>
+            </collocation>
+            <collocation form="grabiti prsi" cluster="10" frequency="4" logDice="4.9">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_3d025b17cd66a42ec9792b218a4cb1ac">prsi</comp>
+            </collocation>
+            <collocation form="grabiti vejo" cluster="11" frequency="4" logDice="4.74">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_3b64510c2ce1abbe1a994ff032f9ea0b">vejo</comp>
+            </collocation>
+            <collocation form="grabiti steljo" cluster="12" frequency="6" logDice="7.91">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_10fde8239a421b8175318e00c15994b2">steljo</comp>
+            </collocation>
+            <collocation form="grabiti denar" cluster="13" frequency="73" logDice="4.57">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denar</comp>
+            </collocation>
+            <collocation form="grabiti moč" cluster="13" frequency="8" logDice="2.38">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_0b71c85c50e39f2c8cb5e91791d67af9">moč</comp>
+            </collocation>
+            <collocation form="grabiti človeka" cluster="13" frequency="6" logDice="1.59">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človeka</comp>
+            </collocation>
+            <collocation form="grabiti predmet" cluster="13" frequency="4" logDice="3.22">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_d51cd609db6fe289654ca191c3ec4f9a">predmet</comp>
+            </collocation>
+            <collocation form="grabiti stvar" cluster="13" frequency="4" logDice="1.07">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_c62e36388a9104c47cf960cd4bdf4ca3">stvar</comp>
+            </collocation>
+            <collocation form="grabiti strah" cluster="14" frequency="8" logDice="4.42">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_ec7941261a5b1a40fb742699e58175ca">strah</comp>
+            </collocation>
+            <collocation form="grabiti ostanek" cluster="15" frequency="5" logDice="4.12">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_1e8f1a48f0110a2a2ede2cf44f8963e5">ostanek</comp>
+            </collocation>
+            <collocation form="grabiti zemljo" cluster="16" frequency="7" logDice="4.07">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_9f4cbbb2b72bac81739b4274ec0514cc">zemljo</comp>
+            </collocation>
+            <collocation form="grabiti hrano" cluster="16" frequency="6" logDice="2.91">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_4b3b80327bf9e7fafcc3a73e85eae950">hrano</comp>
+            </collocation>
+            <collocation form="grabiti telo" cluster="16" frequency="4" logDice="2.39">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_79b86615dd52e06799792917a906328a">telo</comp>
+            </collocation>
+            <collocation form="grabiti podlago" cluster="17" frequency="4" logDice="3.6">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_e6e88eb8a2a7234da435310d47275f97">podlago</comp>
+            </collocation>
+            <collocation form="grabiti milijon" cluster="18" frequency="8" logDice="3.14">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_2a2331d56b991dd431d773c6fd13ad7f">milijon</comp>
+            </collocation>
+            <collocation form="grabiti sol" cluster="19" frequency="27" logDice="7.55">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_2d8062c4245f77e3286282fe221cfd10">sol</comp>
+            </collocation>
+            <collocation form="grabiti bogatstvo" cluster="20" frequency="4" logDice="7.35">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_489e58c254c1a428a0469c708ed000bb">bogatstvo</comp>
+            </collocation>
+            <collocation form="grabiti koralo" cluster="21" frequency="4" logDice="7.29">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_041c9f66437962dc028ff355d4dc0a4f">koralo</comp>
+            </collocation>
+            <collocation form="grabiti malodušje" cluster="22" frequency="5" logDice="7.26">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_16348c761018561830c0a8786b1de939">malodušje</comp>
+            </collocation>
+            <collocation form="grabiti čeljust" cluster="23" frequency="8" logDice="7.22">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_84438bae6622f539b99c93363f68b96c">čeljust</comp>
+            </collocation>
+            <collocation form="grabiti asfalt" cluster="24" frequency="6" logDice="7.01">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_3711379b37062739f4bb73f4d79471a4">asfalt</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="grabiti v asfalt" cluster="1" frequency="5" logDice="10.0">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_3711379b37062739f4bb73f4d79471a4">asfalt</comp>
+            </collocation>
+            <collocation form="grabiti v par" cluster="2" frequency="5" logDice="8.67">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_dd28036b83c065c8e73341fe9c8f68f5">par</comp>
+            </collocation>
+            <collocation form="grabiti v GOZD" cluster="3" frequency="4" logDice="4.59">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_0ca25687c86a1ca7b486899aeae45de7">GOZD</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="grabiti z grabljami" cluster="1" frequency="5" logDice="8.96">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_8df6a2cc194d128f8dad3875fd405d8a">grabljami</comp>
+            </collocation>
+            <collocation form="grabiti s kljunom" cluster="2" frequency="5" logDice="8.33">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_04dd904c1e9fa86f344b36d9b0d8c781">kljunom</comp>
+            </collocation>
+            <collocation form="grabiti z žlico" cluster="3" frequency="9" logDice="6.12">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_5b244d4e4129487f5e5521db873389aa">žlico</comp>
+            </collocation>
+            <collocation form="grabiti z roko" cluster="4" frequency="37" logDice="5.05">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_5fa1bf1096bd6c7b00158af4c43b33b3">roko</comp>
+            </collocation>
+            <collocation form="grabiti s prstom" cluster="5" frequency="6" logDice="3.89">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_6a9950af0f17ee23955c952bc9475a49|LE_a861eb7d5e70798c893c633c83cd3e90">prstom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="grabiti za prsi" cluster="1" frequency="25" logDice="10.13">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_3d025b17cd66a42ec9792b218a4cb1ac">prsi</comp>
+            </collocation>
+            <collocation form="grabiti za trebuh" cluster="1" frequency="6" logDice="8.04">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_1e76db64b359a770305e01712e576463">trebuh</comp>
+            </collocation>
+            <collocation form="grabiti za rit" cluster="2" frequency="24" logDice="9.48">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b204b88e2d8c06467e6dce084bb5a60b">rit</comp>
+            </collocation>
+            <collocation form="grabiti za zadnjico" cluster="2" frequency="20" logDice="10.02">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_45005ccc9cb605056a3de29840f19a2b">zadnjico</comp>
+            </collocation>
+            <collocation form="grabiti za rep" cluster="3" frequency="6" logDice="7.67">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_85cadaa0eacb7595e72a3703d455bafb">rep</comp>
+            </collocation>
+            <collocation form="grabiti za kljuko" cluster="4" frequency="4" logDice="7.45">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b3ec4a28a4be09f6d7fcca1b4cd261ef">kljuko</comp>
+            </collocation>
+            <collocation form="grabiti za roko" cluster="5" frequency="30" logDice="6.78">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_5fa1bf1096bd6c7b00158af4c43b33b3">roko</comp>
+            </collocation>
+            <collocation form="grabiti za glavo" cluster="5" frequency="8" logDice="6.25">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_49f28ed22f8b4f55f12b45ad1b95d3b0">glavo</comp>
+            </collocation>
+            <collocation form="grabiti za nogo" cluster="5" frequency="7" logDice="7.32">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_85bf97bb223851882a947ddf0be6aea7">nogo</comp>
+            </collocation>
+            <collocation form="grabiti za mikrofon" cluster="6" frequency="4" logDice="7.29">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_1f06875ea1ba0bcfa19c4560bafe776e">mikrofon</comp>
+            </collocation>
+            <collocation form="grabiti za ramo" cluster="7" frequency="4" logDice="7.23">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_5dd997a0724e3be8fec4f311c6e9a2ff">ramo</comp>
+            </collocation>
+            <collocation form="grabiti za žep" cluster="8" frequency="4" logDice="7.01">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_6c4917b1d9c4253494176700e4c1e611">žep</comp>
+            </collocation>
+            <collocation form="grabiti za las" cluster="9" frequency="13" logDice="5.42">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_efa5b979af023ef3a1f9a62889d9ad2d">las</comp>
+            </collocation>
+            <collocation form="grabiti za mednožje" cluster="10" frequency="15" logDice="9.92">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_135445b7f13ba5f85c77b1f2c1eeceb6">mednožje</comp>
+            </collocation>
+            <collocation form="grabiti za del" cluster="11" frequency="5" logDice="4.65">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_7ec85158e392e2a539875a30cf8d3436">del</comp>
+            </collocation>
+            <collocation form="grabiti za dojko" cluster="12" frequency="13" logDice="9.78">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_7c3df1d6a3061db91f6537bf0e5cf137">dojko</comp>
+            </collocation>
+            <collocation form="grabiti za vrat" cluster="13" frequency="49" logDice="8.99">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_c0bdcc7d80f60bde8acc9a489aa280cb">vrat</comp>
+            </collocation>
+            <collocation form="grabiti za jošek" cluster="14" frequency="7" logDice="8.95">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_8e4be473268b67f3b3f7f0b362e29e43">jošek</comp>
+            </collocation>
+            <collocation form="grabiti za srce" cluster="15" frequency="14" logDice="8.79">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_d24995e836bb300ecd1d5cd3d7e5f543">srce</comp>
+            </collocation>
+            <collocation form="grabiti za bilko" cluster="16" frequency="5" logDice="8.46">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_179aa501f2a9346caebad19ba3a20cc4">bilko</comp>
+            </collocation>
+            <collocation form="grabiti za grlo" cluster="17" frequency="6" logDice="8.44">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_2377b732f2d098e20963dbad197d0578">grlo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz6">
+          <collocations>
+            <collocation form="grabiti za zvezdo" cluster="1" frequency="7" logDice="12.28">
+              <comp position="1" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b4e8daf4a7117c872b502a5ffb92d23e">zvezdo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz INF-GBZ">
+          <collocations>
+            <collocation form="začenjati grabiti" cluster="1" frequency="7" logDice="4.84">
+              <comp position="1" type="collocate" sloleks="LE_39c2f42855c6bec54b3baab353b6c081">začenjati</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="pričeti grabiti" cluster="2" frequency="13" logDice="3.75">
+              <comp position="1" type="collocate" sloleks="LE_ded1741f1de355cb4a0e75c9109c069d">pričeti</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="začeti grabiti" cluster="3" frequency="168" logDice="3.54">
+              <comp position="1" type="collocate" sloleks="LE_5526be99243d6a70e33b06d3eabd15ae">začeti</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="pomagati grabiti" cluster="4" frequency="10" logDice="2.47">
+              <comp position="1" type="collocate" sloleks="LE_2fc43d313cb40b86ed2a370a430e93c1">pomagati</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="hlastno grabiti" cluster="1" frequency="7" logDice="7.18">
+              <comp position="1" type="collocate" sloleks="LE_f95911b8f931d45e385c2e0889ba703e">hlastno</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="panično grabiti" cluster="2" frequency="7" logDice="6.55">
+              <comp position="1" type="collocate" sloleks="LE_9335636cbeea982f76d9d6fcfd74be43">panično</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="vedno grabiti" cluster="3" frequency="31" logDice="1.16">
+              <comp position="1" type="collocate" sloleks="LE_eaabd5718a27f818fd47358031426355">vedno</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="bolj grabiti" cluster="3" frequency="25" logDice="1.67">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="kako grabiti" cluster="3" frequency="25" logDice="0.21">
+              <comp position="1" type="collocate" sloleks="LE_c6fd8628f731e3e158dc366537c82f5f">kako</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="spet grabiti" cluster="3" frequency="15" logDice="0.94">
+              <comp position="1" type="collocate" sloleks="LE_262d335ce33e8c5f94849e677bc83a19">spet</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="naprej grabiti" cluster="3" frequency="13" logDice="1.87">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="rad grabiti" cluster="3" frequency="10" logDice="0.11">
+              <comp position="1" type="collocate" sloleks="LE_0a2bb08c60a0cb7fd95c85fd75f2bfca">rad</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="sedaj grabiti" cluster="3" frequency="7" logDice="0.87">
+              <comp position="1" type="collocate" sloleks="LE_e50eb5a17c98c735c9fb6d8e08cf2787">sedaj</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="malo grabiti" cluster="3" frequency="7" logDice="0.78">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="nekaj grabiti" cluster="3" frequency="7" logDice="0.72">
+              <comp position="1" type="collocate" sloleks="LE_eb511b2a8ca41b887db9b389e9bd0591">nekaj</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="skupaj grabiti" cluster="3" frequency="7" logDice="0.46">
+              <comp position="1" type="collocate" sloleks="LE_6b2c35f4f994f6854f5f57d777267a77">skupaj</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="malce grabiti" cluster="3" frequency="7" logDice="2.44">
+              <comp position="1" type="collocate" sloleks="LE_2eec11a38ac5bbb5fa6d7682c1224a82">malce</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="raje grabiti" cluster="3" frequency="6" logDice="0.88">
+              <comp position="1" type="collocate" sloleks="LE_ffbac6bb621f782b67fe85e3adf7bf8e">raje</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="pogosto grabiti" cluster="3" frequency="6" logDice="0.2">
+              <comp position="1" type="collocate" sloleks="LE_0c25a8b75185d62f2dab515299cccbfc">pogosto</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="zato grabiti" cluster="3" frequency="6" logDice="0.06">
+              <comp position="1" type="collocate" sloleks="LE_a8c8d0c329f7b5193130e7eb405193e2">zato</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="močno grabiti" cluster="4" frequency="12" logDice="1.65">
+              <comp position="1" type="collocate" sloleks="LE_b061af875766d8e1437febe5ccafe554">močno</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="pošteno grabiti" cluster="4" frequency="7" logDice="3.1">
+              <comp position="1" type="collocate" sloleks="LE_8c19143f579e4e381f2632e636a1db22">pošteno</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="redno grabiti" cluster="5" frequency="18" logDice="3.37">
+              <comp position="1" type="collocate" sloleks="LE_35bbe424d330fd280eb80edb9f0c6e56">redno</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="počasi grabiti" cluster="5" frequency="16" logDice="2.59">
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="uspešno grabiti" cluster="5" frequency="6" logDice="0.97">
+              <comp position="1" type="collocate" sloleks="LE_1261ffe39150e62ae7fb3419f7a831f4">uspešno</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="pridno grabiti" cluster="5" frequency="6" logDice="3.38">
+              <comp position="1" type="collocate" sloleks="LE_e60ffa94c3ea9a856f174e1bf6d8c809">pridno</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="spredaj grabiti" cluster="6" frequency="7" logDice="6.05">
+              <comp position="1" type="collocate" sloleks="LE_34a95807a1f8bc5b9d626611d7348139">spredaj</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="kar grabiti" cluster="7" frequency="18" logDice="0.28">
+              <comp position="1" type="collocate" sloleks="LE_c135f6fe8de5dfaaa58b36300e2bf493">kar</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="dobesedno grabiti" cluster="8" frequency="7" logDice="3.06">
+              <comp position="1" type="collocate" sloleks="LE_bffec2e3c44400c319dff55bd9852452">dobesedno</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+            <collocation form="veselo grabiti" cluster="8" frequency="6" logDice="3.51">
+              <comp position="1" type="collocate" sloleks="LE_9e742988a5de914da1cc9d96be09da01">veselo</comp>
+              <comp position="2" type="headword" sloleks="LE_5a771b4a8ff0b567b7f6001939471826">grabiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

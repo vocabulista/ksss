@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="52908">demokratka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">404</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="demokratka iz Kalifornije" cluster="1" frequency="6" logDice="7.57">
+              <comp position="1" type="headword" sloleks="LE_77dbadbb146959e3d3c3a4f4556e1bb9">demokratka</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_4ed28e16d19763669bb7768d5964ec7c">Kalifornije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="liberalna demokratka" cluster="1" frequency="57" logDice="5.79">
+              <comp position="1" type="collocate" sloleks="LE_d6300700bbed4057c190a69735347637">liberalna</comp>
+              <comp position="2" type="headword" sloleks="LE_77dbadbb146959e3d3c3a4f4556e1bb9">demokratka</comp>
+            </collocation>
+            <collocation form="zagrizena demokratka" cluster="2" frequency="8" logDice="5.45">
+              <comp position="1" type="collocate" sloleks="LE_14fa1a5563014da014a4d9211a964bf4">zagrizena</comp>
+              <comp position="2" type="headword" sloleks="LE_77dbadbb146959e3d3c3a4f4556e1bb9">demokratka</comp>
+            </collocation>
+            <collocation form="krščanska demokratka" cluster="3" frequency="33" logDice="4.62">
+              <comp position="1" type="collocate" sloleks="LE_ab123b765dfb28dda246c2315a9dca62">krščanska</comp>
+              <comp position="2" type="headword" sloleks="LE_77dbadbb146959e3d3c3a4f4556e1bb9">demokratka</comp>
+            </collocation>
+            <collocation form="socialna demokratka" cluster="3" frequency="19" logDice="1.18">
+              <comp position="1" type="collocate" sloleks="LE_ac5cd5c075dfd74e26da2ffe70a668c0">socialna</comp>
+              <comp position="2" type="headword" sloleks="LE_77dbadbb146959e3d3c3a4f4556e1bb9">demokratka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

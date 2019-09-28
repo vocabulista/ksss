@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="58105">goseničar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">473</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="goseničar z mulčer" cluster="1" frequency="7" logDice="12.68">
+              <comp position="1" type="headword" sloleks="LE_6e0ed163f926724e9da7830c46491690">goseničar</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="">mulčer</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="goseničar za vinograd" cluster="1" frequency="4" logDice="8.45">
+              <comp position="1" type="headword" sloleks="LE_6e0ed163f926724e9da7830c46491690">goseničar</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_9a51574d36706eb2cde3cfbeb8bd9e77">vinograd</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="vinogradniški goseničar" cluster="1" frequency="15" logDice="5.97">
+              <comp position="1" type="collocate" sloleks="LE_072cec8e4fe3593b59df194cc7a29ec5">vinogradniški</comp>
+              <comp position="2" type="headword" sloleks="LE_6e0ed163f926724e9da7830c46491690">goseničar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="traktor goseničarja" cluster="1" frequency="5" logDice="6.57">
+              <comp position="1" type="collocate" sloleks="LE_69443f73afa4a0abfca6ac81e6fdede8">traktor</comp>
+              <comp position="2" type="headword" sloleks="LE_6e0ed163f926724e9da7830c46491690">goseničarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

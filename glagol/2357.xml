@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="2357">limati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">453</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="limati link" cluster="1" frequency="7" logDice="8.55">
+              <comp position="1" type="headword" sloleks="LE_f6f94fcf7175785eb76e11b2ad318dd7">limati</comp>
+              <comp position="2" type="collocate" sloleks="LE_e0029dbc76ffe7e67a82b7f545e1b568">link</comp>
+            </collocation>
+            <collocation form="limati minus" cluster="2" frequency="9" logDice="6.93">
+              <comp position="1" type="headword" sloleks="LE_f6f94fcf7175785eb76e11b2ad318dd7">limati</comp>
+              <comp position="2" type="collocate" sloleks="LE_0a5636e18bd66ec4b4c4ef17831a6313">minus</comp>
+            </collocation>
+            <collocation form="limati fotko" cluster="3" frequency="4" logDice="6.66">
+              <comp position="1" type="headword" sloleks="LE_f6f94fcf7175785eb76e11b2ad318dd7">limati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b2bb2bc82745142f6884d7d859727edb">fotko</comp>
+            </collocation>
+            <collocation form="limati sliko" cluster="4" frequency="4" logDice="1.85">
+              <comp position="1" type="headword" sloleks="LE_f6f94fcf7175785eb76e11b2ad318dd7">limati</comp>
+              <comp position="2" type="collocate" sloleks="LE_593e973f672b71320e37b77b785f08a0">sliko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="limati v prestolnici" cluster="1" frequency="5" logDice="3.48">
+              <comp position="1" type="headword" sloleks="LE_f6f94fcf7175785eb76e11b2ad318dd7">limati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_6b8e1df638207469f9789d0440ba1540">prestolnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

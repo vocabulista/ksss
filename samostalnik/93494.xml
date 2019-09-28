@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="93494">točaj</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">712</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Točaj iz Njive" cluster="1" frequency="8" logDice="10.19">
+              <comp position="1" type="headword" sloleks="LE_68e72d1eb97f568ae2c7b3f7e294a244">Točaj</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_cd0f466b04c54d46e0f2c9bbda4fc99f">Njive</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="govoriti s točajem" cluster="1" frequency="19" logDice="5.86">
+              <comp position="1" type="collocate" sloleks="LE_1da4dedf23c5041ae767d038d2430123">govoriti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_68e72d1eb97f568ae2c7b3f7e294a244">točajem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="paličen točaj" cluster="1" frequency="16" logDice="8.12">
+              <comp position="1" type="collocate" sloleks="LE_302ab01c08f1c3c92369d2b6350d98fe">paličen</comp>
+              <comp position="2" type="headword" sloleks="LE_68e72d1eb97f568ae2c7b3f7e294a244">točaj</comp>
+            </collocation>
+            <collocation form="prijazen točaj" cluster="2" frequency="9" logDice="2.17">
+              <comp position="1" type="collocate" sloleks="LE_439e00b230a5a160ad9e1edaf6af9e84">prijazen</comp>
+              <comp position="2" type="headword" sloleks="LE_68e72d1eb97f568ae2c7b3f7e294a244">točaj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="32433">resnicoljuben</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">664</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="resnicoljubno novinarstvo" cluster="1" frequency="8" logDice="5.39">
+              <comp position="1" type="headword" sloleks="LE_c1ad01aff6fdfa901108712566f11891">resnicoljubno</comp>
+              <comp position="2" type="collocate" sloleks="LE_047e7f93bd5e5e786d72581579bfaed8">novinarstvo</comp>
+            </collocation>
+            <collocation form="resnicoljuben človek" cluster="2" frequency="73" logDice="2.91">
+              <comp position="1" type="headword" sloleks="LE_c1ad01aff6fdfa901108712566f11891">resnicoljuben</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človek</comp>
+            </collocation>
+            <collocation form="resnicoljuben novinar" cluster="3" frequency="11" logDice="2.78">
+              <comp position="1" type="headword" sloleks="LE_c1ad01aff6fdfa901108712566f11891">resnicoljuben</comp>
+              <comp position="2" type="collocate" sloleks="LE_e20eb7206d68378732e9d3ec88e921cc">novinar</comp>
+            </collocation>
+            <collocation form="resnicoljuben politik" cluster="3" frequency="7" logDice="1.78">
+              <comp position="1" type="headword" sloleks="LE_c1ad01aff6fdfa901108712566f11891">resnicoljuben</comp>
+              <comp position="2" type="collocate" sloleks="LE_43bf7ab82ddd60104b42f5df3f200f85">politik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="resnicoljuben in/ali pošten" cluster="1" frequency="36" logDice="7.09">
+              <comp position="3" type="headword" sloleks="LE_c1ad01aff6fdfa901108712566f11891">resnicoljuben</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_219a8f61b8a2b992e07f84576a810354|LE_6ed4630561ce13959befbe1ca95cac42">pošten</comp>
+              </collocation>
+            <collocation form="resnicoljuben in/ali iskren" cluster="1" frequency="6" logDice="5.79">
+              <comp position="3" type="headword" sloleks="LE_c1ad01aff6fdfa901108712566f11891">resnicoljuben</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_7820112e94527ad809077c8348170c6e">iskren</comp>
+              </collocation>
+            <collocation form="resnicoljuben in/ali pravičen" cluster="1" frequency="5" logDice="5.63">
+              <comp position="3" type="headword" sloleks="LE_c1ad01aff6fdfa901108712566f11891">resnicoljuben</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_9352a9bd2f292d453c3090f8cf8e611e">pravičen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="preveč resnicoljuben" cluster="1" frequency="12" logDice="1.87">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_c1ad01aff6fdfa901108712566f11891">resnicoljuben</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="8828">ugonobiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">809</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="ugonobiti na koncu" cluster="1" frequency="5" logDice="0.34">
+              <comp position="1" type="headword" sloleks="LE_1d690e9b2db5345c216fc842bd7cf864">ugonobiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_d8d1737076777d9839ea949a2b88751a">koncu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="ugonobiti kugo" cluster="1" frequency="7" logDice="8.98">
+              <comp position="1" type="headword" sloleks="LE_1d690e9b2db5345c216fc842bd7cf864">ugonobiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_6107706225355428384a29a452bf1ed2">kugo</comp>
+            </collocation>
+            <collocation form="ugonobiti državo" cluster="2" frequency="4" logDice="1.79">
+              <comp position="1" type="headword" sloleks="LE_1d690e9b2db5345c216fc842bd7cf864">ugonobiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">državo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="dokončno ugonobiti" cluster="1" frequency="11" logDice="3.1">
+              <comp position="1" type="collocate" sloleks="LE_1b1364db6a65bb7d8e0561ff87f682a5">dokončno</comp>
+              <comp position="2" type="headword" sloleks="LE_1d690e9b2db5345c216fc842bd7cf864">ugonobiti</comp>
+            </collocation>
+            <collocation form="povsem ugonobiti" cluster="2" frequency="9" logDice="1.9">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_1d690e9b2db5345c216fc842bd7cf864">ugonobiti</comp>
+            </collocation>
+            <collocation form="popolnoma ugonobiti" cluster="3" frequency="5" logDice="1.36">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_1d690e9b2db5345c216fc842bd7cf864">ugonobiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

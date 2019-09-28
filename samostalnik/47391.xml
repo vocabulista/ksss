@@ -1,0 +1,517 @@
+<entry>
+  <header>
+    <lexical_unit id="47391">anestezija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">2889</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 med sbz6">
+          <collocations>
+            <collocation form="anestezija med operacijo" cluster="1" frequency="4" logDice="7.64">
+              <comp position="1" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezija</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_98a14b189aa5d99029fe2d9f68f72080">operacijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 pred sbz6">
+          <collocations>
+            <collocation form="anestezija pred operacijo" cluster="1" frequency="4" logDice="7.89">
+              <comp position="1" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezija</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_98a14b189aa5d99029fe2d9f68f72080">operacijo</comp>
+            </collocation>
+            <collocation form="anestezija pred posegom" cluster="2" frequency="4" logDice="7.52">
+              <comp position="1" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezija</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="collocate" sloleks="LE_beb682ab085ea21d29d7513eeee202da">posegom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="dobiti anestezijo" cluster="1" frequency="52" logDice="1.99">
+              <comp position="1" type="collocate" sloleks="LE_abe97863495bd3d2d1b41f81933061b7">dobiti</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+            <collocation form="dati anestezijo" cluster="1" frequency="37" logDice="3.0">
+              <comp position="1" type="collocate" sloleks="LE_251860b7395e9bef61ae04eb36d0639d">dati</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+            <collocation form="uporabiti anestezijo" cluster="1" frequency="18" logDice="3.1">
+              <comp position="1" type="collocate" sloleks="LE_afe0f614dc9e3c90eb71abb7051cdc3a">uporabiti</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+            <collocation form="zahtevati anestezijo" cluster="1" frequency="18" logDice="1.97">
+              <comp position="1" type="collocate" sloleks="LE_3ea255c52c394ad6ab59d37ae7f738e3">zahtevati</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+            <collocation form="potrebovati anestezijo" cluster="1" frequency="10" logDice="1.35">
+              <comp position="1" type="collocate" sloleks="LE_1d2dce4b8faea4af518b607a2b8b3ef9">potrebovati</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz brez SBZ2">
+          <collocations>
+            <collocation form="operirati brez anestezije" cluster="1" frequency="5" logDice="10.79">
+              <comp position="1" type="collocate" sloleks="LE_52487c0e43e45357fe88d4f17203612d">operirati</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+            <collocation form="izvajati brez anestezije" cluster="2" frequency="7" logDice="8.85">
+              <comp position="1" type="collocate" sloleks="LE_430f4f294c89e87b94f5119ca0b65369">izvajati</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+            <collocation form="opraviti brez anestezije" cluster="3" frequency="8" logDice="7.05">
+              <comp position="1" type="collocate" sloleks="LE_1b9afe9f658fd894d11b949816dd10f9">opraviti</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+            <collocation form="potekati brez anestezije" cluster="4" frequency="4" logDice="5.04">
+              <comp position="1" type="collocate" sloleks="LE_819184a7075249f01ba9c0ac8d261dd4">potekati</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz iz SBZ2">
+          <collocations>
+            <collocation form="zbuditi iz anestezije" cluster="1" frequency="16" logDice="8.46">
+              <comp position="1" type="collocate" sloleks="LE_959376166d3582f521bd647c2bd9b914">zbuditi</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+            <collocation form="prebuditi iz anestezije" cluster="2" frequency="8" logDice="7.43">
+              <comp position="1" type="collocate" sloleks="LE_692a643095954392992650ba1e518bef">prebuditi</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="pripraviti na anestezijo" cluster="1" frequency="6" logDice="3.51">
+              <comp position="1" type="collocate" sloleks="LE_8e690e3b791e31c28e29ebc586de523c">pripraviti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz o SBZ5">
+          <collocations>
+            <collocation form="govoriti o anesteziji" cluster="1" frequency="4" logDice="-0.15">
+              <comp position="1" type="collocate" sloleks="LE_1da4dedf23c5041ae767d038d2430123">govoriti</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anesteziji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz pod SBZ6">
+          <collocations>
+            <collocation form="opraviti pod anestezijo" cluster="1" frequency="9" logDice="9.97">
+              <comp position="1" type="collocate" sloleks="LE_1b9afe9f658fd894d11b949816dd10f9">opraviti</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+            <collocation form="potekati pod anestezijo" cluster="2" frequency="7" logDice="5.31">
+              <comp position="1" type="collocate" sloleks="LE_819184a7075249f01ba9c0ac8d261dd4">potekati</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz pri SBZ5">
+          <collocations>
+            <collocation form="uporabljati pri anesteziji" cluster="1" frequency="16" logDice="5.45">
+              <comp position="1" type="collocate" sloleks="LE_7a8b477802781e8149004a2a769c51c1">uporabljati</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anesteziji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="operirati v anesteziji" cluster="1" frequency="14" logDice="8.52">
+              <comp position="1" type="collocate" sloleks="LE_52487c0e43e45357fe88d4f17203612d">operirati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anesteziji</comp>
+            </collocation>
+            <collocation form="vstaviti v anesteziji" cluster="2" frequency="4" logDice="8.0">
+              <comp position="1" type="collocate" sloleks="LE_ec045a94dcf2144533bbc25df503e0ea">vstaviti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anesteziji</comp>
+            </collocation>
+            <collocation form="opraviti v anesteziji" cluster="3" frequency="86" logDice="7.12">
+              <comp position="1" type="collocate" sloleks="LE_1b9afe9f658fd894d11b949816dd10f9">opraviti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anesteziji</comp>
+            </collocation>
+            <collocation form="potekati v anesteziji" cluster="3" frequency="47" logDice="4.6">
+              <comp position="1" type="collocate" sloleks="LE_819184a7075249f01ba9c0ac8d261dd4">potekati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anesteziji</comp>
+            </collocation>
+            <collocation form="delati v anesteziji" cluster="3" frequency="7" logDice="2.25">
+              <comp position="1" type="collocate" sloleks="LE_240594860749d18971944f6690505af1">delati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anesteziji</comp>
+            </collocation>
+            <collocation form="odstraniti v anesteziji" cluster="4" frequency="5" logDice="6.63">
+              <comp position="1" type="collocate" sloleks="LE_c020fe4cf95fc67c8e6c9648409037cd">odstraniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anesteziji</comp>
+            </collocation>
+            <collocation form="izvajati v anesteziji" cluster="5" frequency="29" logDice="6.17">
+              <comp position="1" type="collocate" sloleks="LE_430f4f294c89e87b94f5119ca0b65369">izvajati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anesteziji</comp>
+            </collocation>
+            <collocation form="opravljati v anesteziji" cluster="5" frequency="18" logDice="5.81">
+              <comp position="1" type="collocate" sloleks="LE_4c9df2ccb77d29125a9d948d24e46e27">opravljati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anesteziji</comp>
+            </collocation>
+            <collocation form="izvesti v anesteziji" cluster="5" frequency="11" logDice="5.56">
+              <comp position="1" type="collocate" sloleks="LE_fb70143f99c81b29f61afe33316306d3|LE_db34c033aa9256049b111a628aad3059">izvesti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anesteziji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="opravljati z anestezijo" cluster="1" frequency="4" logDice="5.12">
+              <comp position="1" type="collocate" sloleks="LE_4c9df2ccb77d29125a9d948d24e46e27">opravljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+            <collocation form="preprečiti z anestezijo" cluster="2" frequency="4" logDice="4.93">
+              <comp position="1" type="collocate" sloleks="LE_7afe36ee40108248c294c18adda2c70f">preprečiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+            <collocation form="opraviti z anestezijo" cluster="3" frequency="8" logDice="3.37">
+              <comp position="1" type="collocate" sloleks="LE_1b9afe9f658fd894d11b949816dd10f9">opraviti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="uporabljati za anestezijo" cluster="1" frequency="13" logDice="3.56">
+              <comp position="1" type="collocate" sloleks="LE_7a8b477802781e8149004a2a769c51c1">uporabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+            <collocation form="odločiti za anestezijo" cluster="2" frequency="10" logDice="1.46">
+              <comp position="1" type="collocate" sloleks="LE_1849ab807e0602a0ae7fa9a648251d4b">odločiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+            <collocation form="poskrbeti za anestezijo" cluster="3" frequency="5" logDice="1.09">
+              <comp position="1" type="collocate" sloleks="LE_610c30927c7792ff5bc41d0843ec83a6">poskrbeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="epiduralna anestezija" cluster="1" frequency="148" logDice="10.93">
+              <comp position="1" type="collocate" sloleks="LE_d257889d3aabfdcef956257f5698959a">epiduralna</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezija</comp>
+            </collocation>
+            <collocation form="spinalen anestezija" cluster="1" frequency="38" logDice="9.31">
+              <comp position="1" type="collocate" sloleks="">spinalen</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezija</comp>
+            </collocation>
+            <collocation form="prevodena anestezija" cluster="2" frequency="23" logDice="7.67">
+              <comp position="1" type="collocate" sloleks="LE_49137ab066fd6005a48bb35eb320b342|LE_d79c16cb15df62caaa40c3105054b6b2">prevodena</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezija</comp>
+            </collocation>
+            <collocation form="področna anestezija" cluster="3" frequency="24" logDice="6.77">
+              <comp position="1" type="collocate" sloleks="LE_370052e5e51943f7346b8446f37b1387">področna</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezija</comp>
+            </collocation>
+            <collocation form="splošna anestezija" cluster="4" frequency="549" logDice="6.75">
+              <comp position="1" type="collocate" sloleks="LE_cdc9eac54f463ddd7c00de56a4c1e7f5">splošna</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezija</comp>
+            </collocation>
+            <collocation form="popolna anestezija" cluster="4" frequency="21" logDice="2.46">
+              <comp position="1" type="collocate" sloleks="LE_814a2c9c333ef1e9cb481395c05b7346">popolna</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezija</comp>
+            </collocation>
+            <collocation form="lokalna anestezija" cluster="5" frequency="642" logDice="6.66">
+              <comp position="1" type="collocate" sloleks="LE_c4c329be50ab16177a6a46f6a9806c81">lokalna</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezija</comp>
+            </collocation>
+            <collocation form="regionalna anestezija" cluster="5" frequency="28" logDice="3.43">
+              <comp position="1" type="collocate" sloleks="LE_f1791678baf8fce8a60a98c32305f36a">regionalna</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezija</comp>
+            </collocation>
+            <collocation form="potrebna anestezija" cluster="6" frequency="45" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_8315e7ec13172cb2fc32c85291e90099">potrebna</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezija</comp>
+            </collocation>
+            <collocation form="varna anestezija" cluster="6" frequency="10" logDice="2.17">
+              <comp position="1" type="collocate" sloleks="LE_bc8c5dc2994bc436e522e289e5f32b43">varna</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 v SBZ5">
+          <collocations>
+            <collocation form="operiran v anesteziji" cluster="1" frequency="5" logDice="9.67">
+              <comp position="1" type="collocate" sloleks="LE_da8025227400e7747c7adc365ed1352f">operiran</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anesteziji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 z SBZ6">
+          <collocations>
+            <collocation form="povezan z anestezijo" cluster="1" frequency="4" logDice="-0.05">
+              <comp position="1" type="collocate" sloleks="LE_84ef5df7d933128064d85c58468c7559">povezan</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="indukcija anestezije" cluster="1" frequency="12" logDice="10.12">
+              <comp position="1" type="collocate" sloleks="LE_b0733a5c5c2c159a9021dd1cc4ed5c0a">indukcija</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+            <collocation form="aplikacija anestezije" cluster="2" frequency="5" logDice="5.94">
+              <comp position="1" type="collocate" sloleks="LE_b693e8428c32734280e5a5c04576ea79">aplikacija</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+            <collocation form="vodenje anestezije" cluster="3" frequency="6" logDice="1.56">
+              <comp position="1" type="collocate" sloleks="LE_d3bd583f306ca8b6cf2f840eeab2fbc2">vodenje</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+            <collocation form="vzdrževanje anestezije" cluster="3" frequency="6" logDice="2.66">
+              <comp position="1" type="collocate" sloleks="LE_6743d322a85bec0387db75539eea1f33">vzdrževanje</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+            <collocation form="vrsta anestezije" cluster="4" frequency="39" logDice="2.18">
+              <comp position="1" type="collocate" sloleks="LE_4af9091c01f502e405be7dfe91eedee3">vrsta</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+            <collocation form="uporaba anestezije" cluster="4" frequency="14" logDice="1.29">
+              <comp position="1" type="collocate" sloleks="LE_9999e7dc3b8f5571ba09e352c31aea3f">uporaba</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+            <collocation form="oblika anestezije" cluster="4" frequency="9" logDice="0.54">
+              <comp position="1" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">oblika</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+            <collocation form="postopek anestezije" cluster="4" frequency="7" logDice="1.26">
+              <comp position="1" type="collocate" sloleks="LE_775481f1f5ba42be7d6b3125176050cb">postopek</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+            <collocation form="pomoč anestezije" cluster="4" frequency="7" logDice="0.61">
+              <comp position="1" type="collocate" sloleks="LE_84e3f9e3c4e9e1abf42cc69c125b0b58">pomoč</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+            <collocation form="dajanje anestezije" cluster="5" frequency="15" logDice="5.75">
+              <comp position="1" type="collocate" sloleks="LE_ce84b41a7ad539f76120d36204fe9cd1">dajanje</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+            <collocation form="globina anestezije" cluster="6" frequency="8" logDice="4.47">
+              <comp position="1" type="collocate" sloleks="LE_fad96f6996f60103623054badf834d24">globina</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+            <collocation form="tehnika anestezije" cluster="7" frequency="8" logDice="3.75">
+              <comp position="1" type="collocate" sloleks="LE_aa90d51520eb3d2bebaf7c31f2a23c3b">tehnika</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+            <collocation form="metoda anestezije" cluster="7" frequency="5" logDice="2.48">
+              <comp position="1" type="collocate" sloleks="LE_675bb3300eebea6ea6f395eade13fc2c">metoda</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+            <collocation form="učinek anestezije" cluster="8" frequency="12" logDice="3.25">
+              <comp position="1" type="collocate" sloleks="LE_2353cab56c2f4b095b8ea704f5199db8">učinek</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+            <collocation form="vpliv anestezije" cluster="8" frequency="7" logDice="1.83">
+              <comp position="1" type="collocate" sloleks="LE_4dac044878c71472e44f21dc0e9220c2">vpliv</comp>
+              <comp position="2" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 brez SBZ2">
+          <collocations>
+            <collocation form="poseg brez anestezije" cluster="1" frequency="6" logDice="10.29">
+              <comp position="1" type="collocate" sloleks="LE_beb682ab085ea21d29d7513eeee202da">poseg</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+            <collocation form="operacija brez anestezije" cluster="2" frequency="6" logDice="10.13">
+              <comp position="1" type="collocate" sloleks="LE_98a14b189aa5d99029fe2d9f68f72080">operacija</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 ob SBZ5">
+          <collocations>
+            <collocation form="poseg ob anesteziji" cluster="1" frequency="4" logDice="10.16">
+              <comp position="1" type="collocate" sloleks="LE_beb682ab085ea21d29d7513eeee202da">poseg</comp>
+              <comp position="2" type="other" sloleks="LE_0d51e0433cde1d7d6610f469ec11e938">ob</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anesteziji</comp>
+            </collocation>
+            <collocation form="minuta ob anesteziji" cluster="2" frequency="4" logDice="8.36">
+              <comp position="1" type="collocate" sloleks="LE_4dbac25ecbcde2d4ad6049424d74db15">minuta</comp>
+              <comp position="2" type="other" sloleks="LE_0d51e0433cde1d7d6610f469ec11e938">ob</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anesteziji</comp>
+            </collocation>
+            <collocation form="zaplet ob anesteziji" cluster="3" frequency="4" logDice="8.02">
+              <comp position="1" type="collocate" sloleks="LE_06d11c6f1714dcad4fb0d826f78d62fd">zaplet</comp>
+              <comp position="2" type="other" sloleks="LE_0d51e0433cde1d7d6610f469ec11e938">ob</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anesteziji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 po SBZ5">
+          <collocations>
+            <collocation form="potreba po anesteziji" cluster="1" frequency="4" logDice="1.46">
+              <comp position="1" type="collocate" sloleks="LE_16bf4d92d7aaee11efd4c8603b6e4ee0">potreba</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anesteziji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 pod SBZ6">
+          <collocations>
+            <collocation form="poseg pod anestezijo" cluster="1" frequency="5" logDice="11.36">
+              <comp position="1" type="collocate" sloleks="LE_beb682ab085ea21d29d7513eeee202da">poseg</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 pri SBZ5">
+          <collocations>
+            <collocation form="zaplet pri anesteziji" cluster="1" frequency="7" logDice="6.2">
+              <comp position="1" type="collocate" sloleks="LE_06d11c6f1714dcad4fb0d826f78d62fd">zaplet</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anesteziji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ4">
+          <collocations>
+            <collocation form="uvod v anestezijo" cluster="1" frequency="8" logDice="4.73">
+              <comp position="1" type="collocate" sloleks="LE_65ec33e7b7b1040b9f685e6c43325ae8">uvod</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="poseg v anesteziji" cluster="1" frequency="72" logDice="9.53">
+              <comp position="1" type="collocate" sloleks="LE_beb682ab085ea21d29d7513eeee202da">poseg</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anesteziji</comp>
+            </collocation>
+            <collocation form="artroskopija v anesteziji" cluster="2" frequency="5" logDice="9.44">
+              <comp position="1" type="collocate" sloleks="LE_ad6d5d7756742cb4817de1a92bfd4a8b">artroskopija</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anesteziji</comp>
+            </collocation>
+            <collocation form="operacija v anesteziji" cluster="3" frequency="38" logDice="8.24">
+              <comp position="1" type="collocate" sloleks="LE_98a14b189aa5d99029fe2d9f68f72080">operacija</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anesteziji</comp>
+            </collocation>
+            <collocation form="bolnik v anesteziji" cluster="4" frequency="4" logDice="5.23">
+              <comp position="1" type="collocate" sloleks="LE_b6c5a89fe8af52cbe0faba9f493dfdf3">bolnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anesteziji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="poseg z anestezijo" cluster="1" frequency="10" logDice="9.06">
+              <comp position="1" type="collocate" sloleks="LE_beb682ab085ea21d29d7513eeee202da">poseg</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+            <collocation form="porod z anestezijo" cluster="2" frequency="4" logDice="8.73">
+              <comp position="1" type="collocate" sloleks="LE_7a7a9d3347ed07c22775ea206dd27d28">porod</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+            <collocation form="srce z anestezijo" cluster="3" frequency="5" logDice="7.58">
+              <comp position="1" type="collocate" sloleks="LE_d24995e836bb300ecd1d5cd3d7e5f543">srce</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+            <collocation form="anestezija z iglo" cluster="4" frequency="4" logDice="7.45">
+              <comp position="1" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezija</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_23d7f2d69f4d419439716865a9fc26b2">iglo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="specialistka za anestezijo" cluster="1" frequency="7" logDice="7.31">
+              <comp position="1" type="collocate" sloleks="LE_cfbfab2821ea904a31cc27fd9c1011c2">specialistka</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+            <collocation form="aparat za anestezijo" cluster="2" frequency="12" logDice="6.56">
+              <comp position="1" type="collocate" sloleks="LE_8394f9997a2a0c916367cdf9c5c35551">aparat</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+            <collocation form="naprava za anestezijo" cluster="2" frequency="7" logDice="3.88">
+              <comp position="1" type="collocate" sloleks="LE_35970ca9f3b04f4bc834eb0dfdb70a08">naprava</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+            <collocation form="sredstvo za anestezijo" cluster="3" frequency="8" logDice="2.03">
+              <comp position="1" type="collocate" sloleks="LE_94c4f4cf5104632466509789b5cde032">sredstvo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+            <collocation form="zdravilo za anestezijo" cluster="3" frequency="7" logDice="4.33">
+              <comp position="1" type="collocate" sloleks="LE_005f608d88779abbae906ed3762c1400">zdravilo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+            <collocation form="oddelek za anestezijo" cluster="4" frequency="30" logDice="4.3">
+              <comp position="1" type="collocate" sloleks="LE_f73286dd6f89a4307b05a1a8ffe3e326">oddelek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+            <collocation form="služba za anestezijo" cluster="4" frequency="8" logDice="3.43">
+              <comp position="1" type="collocate" sloleks="LE_595a77ebd11b27d069e3829b663f2954">služba</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 zaradi SBZ2">
+          <collocations>
+            <collocation form="zaplet zaradi anestezije" cluster="1" frequency="5" logDice="7.8">
+              <comp position="1" type="collocate" sloleks="LE_06d11c6f1714dcad4fb0d826f78d62fd">zaplet</comp>
+              <comp position="2" type="other" sloleks="LE_e2128c24e3c3872c9e5c2981f71b461f">zaradi</comp>
+              <comp position="3" type="headword" sloleks="LE_1d459a93ca7f0a923d9221bb0d0a1b12">anestezije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

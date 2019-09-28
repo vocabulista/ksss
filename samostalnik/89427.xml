@@ -1,0 +1,75 @@
+<entry>
+  <header>
+    <lexical_unit id="89427">slavospev</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1291</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="slavospev ljubezni" cluster="1" frequency="12" logDice="3.46">
+              <comp position="1" type="headword" sloleks="LE_3a74bdd23280190c80cc9b9699f128d4">slavospev</comp>
+              <comp position="2" type="collocate" sloleks="LE_d611157e356b5a208a076a88682815f7">ljubezni</comp>
+            </collocation>
+            <collocation form="petje slavospeva" cluster="2" frequency="5" logDice="5.4">
+              <comp position="1" type="collocate" sloleks="LE_11d02dfaf695f8aba2c24329c3451f47">petje</comp>
+              <comp position="2" type="headword" sloleks="LE_3a74bdd23280190c80cc9b9699f128d4">slavospeva</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="peti slavospev" cluster="1" frequency="81" logDice="8.46">
+              <comp position="1" type="collocate" sloleks="LE_038b9736f296c5af1f912caa88ac5cc5|LE_68c1365fca5558d2213acce08c649e95">peti</comp>
+              <comp position="2" type="headword" sloleks="LE_3a74bdd23280190c80cc9b9699f128d4">slavospev</comp>
+            </collocation>
+            <collocation form="zapeti slavospev" cluster="1" frequency="9" logDice="5.18">
+              <comp position="1" type="collocate" sloleks="LE_e8a7ff99f4a109d8106cd6dd02ab8dba|LE_1e21f1412003a60bd1f636735fa19f93">zapeti</comp>
+              <comp position="2" type="headword" sloleks="LE_3a74bdd23280190c80cc9b9699f128d4">slavospev</comp>
+            </collocation>
+            <collocation form="pisati slavospev" cluster="2" frequency="21" logDice="4.37">
+              <comp position="1" type="collocate" sloleks="LE_4173587cb50dc70d0c9a1be18c9c1b96">pisati</comp>
+              <comp position="2" type="headword" sloleks="LE_3a74bdd23280190c80cc9b9699f128d4">slavospev</comp>
+            </collocation>
+            <collocation form="napisati slavospev" cluster="2" frequency="10" logDice="2.64">
+              <comp position="1" type="collocate" sloleks="LE_4b447f8d3f6099cf04f05e1f36dd760b">napisati</comp>
+              <comp position="2" type="headword" sloleks="LE_3a74bdd23280190c80cc9b9699f128d4">slavospev</comp>
+            </collocation>
+            <collocation form="poslušati slavospev" cluster="3" frequency="20" logDice="4.36">
+              <comp position="1" type="collocate" sloleks="LE_b66359f697d6db06df147d6f90b94ae1">poslušati</comp>
+              <comp position="2" type="headword" sloleks="LE_3a74bdd23280190c80cc9b9699f128d4">slavospev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="začeti s slavospevom" cluster="1" frequency="4" logDice="0.69">
+              <comp position="1" type="collocate" sloleks="LE_5526be99243d6a70e33b06d3eabd15ae">začeti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_3a74bdd23280190c80cc9b9699f128d4">slavospevom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za slavospev" cluster="1" frequency="9" logDice="-0.43">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_3a74bdd23280190c80cc9b9699f128d4">slavospev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pravi slavospev" cluster="1" frequency="31" logDice="0.88">
+              <comp position="1" type="collocate" sloleks="LE_b6d87b136784072fa5bb21831fa825be">pravi</comp>
+              <comp position="2" type="headword" sloleks="LE_3a74bdd23280190c80cc9b9699f128d4">slavospev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

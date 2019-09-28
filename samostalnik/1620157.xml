@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="1620157">marin</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="marin s privezom" cluster="1" frequency="5" logDice="9.53">
+              <comp position="1" type="headword" sloleks="">marin</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_b68535bb223e1263eb0fbef34a008c4b">privezom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="luksuzen marin" cluster="1" frequency="8" logDice="4.12">
+              <comp position="1" type="collocate" sloleks="LE_fecaa3ca2882a895ed64145161b30891">luksuzen</comp>
+              <comp position="2" type="headword" sloleks="">marin</comp>
+            </collocation>
+            <collocation form="hrvaški marin" cluster="2" frequency="17" logDice="1.38">
+              <comp position="1" type="collocate" sloleks="LE_49484a5e0458838688f66f7b89fd4295">hrvaški</comp>
+              <comp position="2" type="headword" sloleks="">marin</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="alga marin" cluster="1" frequency="13" logDice="10.02">
+              <comp position="1" type="collocate" sloleks="LE_0a0907d6bee7ad2ef62c08e6cccaf8fa">alga</comp>
+              <comp position="2" type="headword" sloleks="">marin</comp>
+            </collocation>
+            <collocation form="Istrabenz marin" cluster="2" frequency="5" logDice="7.21">
+              <comp position="1" type="collocate" sloleks="LE_b0918205a1c64b63177b5ac5f95a6119">Istrabenz</comp>
+              <comp position="2" type="headword" sloleks="">marin</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

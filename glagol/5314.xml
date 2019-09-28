@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="5314">polaskati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">515</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz3">
+          <collocations>
+            <collocation form="polaskati gostitelju" cluster="1" frequency="13" logDice="7.78">
+              <comp position="1" type="headword" sloleks="LE_53a3fd0fdfa295f4cfb2ef529ea962dd">polaskati</comp>
+              <comp position="2" type="collocate" sloleks="LE_c4c1b18d0865e68593ede31d3d26263a">gostitelju</comp>
+            </collocation>
+            <collocation form="polaskati prvaku" cluster="2" frequency="6" logDice="7.13">
+              <comp position="1" type="headword" sloleks="LE_53a3fd0fdfa295f4cfb2ef529ea962dd">polaskati</comp>
+              <comp position="2" type="collocate" sloleks="LE_01b9cba07c706b5c4db57839c927b3d4">prvaku</comp>
+            </collocation>
+            <collocation form="polaskati delodajalcu" cluster="3" frequency="8" logDice="6.71">
+              <comp position="1" type="headword" sloleks="LE_53a3fd0fdfa295f4cfb2ef529ea962dd">polaskati</comp>
+              <comp position="2" type="collocate" sloleks="LE_1131f54c08d4ed9766105722ceedfe6f">delodajalcu</comp>
+            </collocation>
+            <collocation form="polaskati organizatorju" cluster="4" frequency="4" logDice="5.66">
+              <comp position="1" type="headword" sloleks="LE_53a3fd0fdfa295f4cfb2ef529ea962dd">polaskati</comp>
+              <comp position="2" type="collocate" sloleks="LE_4b0b50fe6a1aed06e63cb78e8d4fdc80">organizatorju</comp>
+            </collocation>
+            <collocation form="polaskati gostu" cluster="5" frequency="4" logDice="3.82">
+              <comp position="1" type="headword" sloleks="LE_53a3fd0fdfa295f4cfb2ef529ea962dd">polaskati</comp>
+              <comp position="2" type="collocate" sloleks="LE_e6cee54a176357f6ae4eee7d6ef8c850">gostu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="polaskati z besedo" cluster="1" frequency="12" logDice="3.8">
+              <comp position="1" type="headword" sloleks="LE_53a3fd0fdfa295f4cfb2ef529ea962dd">polaskati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">besedo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="malce polaskati" cluster="1" frequency="8" logDice="2.66">
+              <comp position="1" type="collocate" sloleks="LE_2eec11a38ac5bbb5fa6d7682c1224a82">malce</comp>
+              <comp position="2" type="headword" sloleks="LE_53a3fd0fdfa295f4cfb2ef529ea962dd">polaskati</comp>
+            </collocation>
+            <collocation form="zelo polaskati" cluster="2" frequency="6" logDice="0.12">
+              <comp position="1" type="collocate" sloleks="LE_195d60c164b7057008d21b29153e2352">zelo</comp>
+              <comp position="2" type="headword" sloleks="LE_53a3fd0fdfa295f4cfb2ef529ea962dd">polaskati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

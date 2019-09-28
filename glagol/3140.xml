@@ -1,0 +1,72 @@
+<entry>
+  <header>
+    <lexical_unit id="3140">nažigati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">582</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ do sbz2">
+          <collocations>
+            <collocation form="nažigati do onemoglosti" cluster="1" frequency="4" logDice="6.08">
+              <comp position="1" type="headword" sloleks="LE_07b94b2a7e3c004a4f8ed02c880a24fa">nažigati</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_c76b15680b1fcf8e73284aa9a12e5aec">onemoglosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="nažigati pank" cluster="1" frequency="5" logDice="9.55">
+              <comp position="1" type="headword" sloleks="LE_07b94b2a7e3c004a4f8ed02c880a24fa">nažigati</comp>
+              <comp position="2" type="collocate" sloleks="LE_acf381985489af41c403beec83210cfa">pank</comp>
+            </collocation>
+            <collocation form="nažigati kitaro" cluster="2" frequency="12" logDice="7.0">
+              <comp position="1" type="headword" sloleks="LE_07b94b2a7e3c004a4f8ed02c880a24fa">nažigati</comp>
+              <comp position="2" type="collocate" sloleks="LE_d32d4def87d31a3048a547e998fbd750">kitaro</comp>
+            </collocation>
+            <collocation form="nažigati glasbo" cluster="3" frequency="5" logDice="2.58">
+              <comp position="1" type="headword" sloleks="LE_07b94b2a7e3c004a4f8ed02c880a24fa">nažigati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9d4fb1bfd740612d94d302113e10a62">glasbo</comp>
+            </collocation>
+            <collocation form="nažigati igro" cluster="4" frequency="4" logDice="1.81">
+              <comp position="1" type="headword" sloleks="LE_07b94b2a7e3c004a4f8ed02c880a24fa">nažigati</comp>
+              <comp position="2" type="collocate" sloleks="LE_61ca0973ad331da91acd1b8da555233b">igro</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="nažigati v avtu" cluster="1" frequency="6" logDice="4.66">
+              <comp position="1" type="headword" sloleks="LE_07b94b2a7e3c004a4f8ed02c880a24fa">nažigati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_84b2715275b48c307a68bfa3d2b1a5bf">avtu</comp>
+            </collocation>
+            <collocation form="nažigati v sobi" cluster="2" frequency="4" logDice="2.75">
+              <comp position="1" type="headword" sloleks="LE_07b94b2a7e3c004a4f8ed02c880a24fa">nažigati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_51d0948fdcd403a7c15f9ade2ec2b331">sobi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="veselo nažigati" cluster="1" frequency="15" logDice="4.88">
+              <comp position="1" type="collocate" sloleks="LE_9e742988a5de914da1cc9d96be09da01">veselo</comp>
+              <comp position="2" type="headword" sloleks="LE_07b94b2a7e3c004a4f8ed02c880a24fa">nažigati</comp>
+            </collocation>
+            <collocation form="neusmiljeno nažigati" cluster="2" frequency="4" logDice="4.5">
+              <comp position="1" type="collocate" sloleks="LE_1643d10750162ec4499e422516fb8ef2">neusmiljeno</comp>
+              <comp position="2" type="headword" sloleks="LE_07b94b2a7e3c004a4f8ed02c880a24fa">nažigati</comp>
+            </collocation>
+            <collocation form="naprej nažigati" cluster="3" frequency="5" logDice="0.49">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_07b94b2a7e3c004a4f8ed02c880a24fa">nažigati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

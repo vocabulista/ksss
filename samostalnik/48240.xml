@@ -1,0 +1,91 @@
+<entry>
+  <header>
+    <lexical_unit id="48240">avtomatizem</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1100</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz do SBZ2">
+          <collocations>
+            <collocation form="usvojiti do avtomatizma" cluster="1" frequency="6" logDice="12.38">
+              <comp position="1" type="collocate" sloleks="LE_7bdc2370f7b6e877c054970f66da684a">usvojiti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_422a4815e506019a911d0e357fd12251">avtomatizma</comp>
+            </collocation>
+            <collocation form="priti do avtomatizma" cluster="2" frequency="9" logDice="0.48">
+              <comp position="1" type="collocate" sloleks="LE_fc339e29cc0e8ec9efe1ef0acdfb11b5">priti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_422a4815e506019a911d0e357fd12251">avtomatizma</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz o SBZ5">
+          <collocations>
+            <collocation form="govoriti o avtomatizmu" cluster="1" frequency="7" logDice="0.66">
+              <comp position="1" type="collocate" sloleks="LE_1da4dedf23c5041ae767d038d2430123">govoriti</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_422a4815e506019a911d0e357fd12251">avtomatizmu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz po SBZ5">
+          <collocations>
+            <collocation form="postati po avtomatizmu" cluster="1" frequency="5" logDice="4.93">
+              <comp position="1" type="collocate" sloleks="LE_c8e9d4f0bbc764e535f72bddd3507947|LE_c2ff60a03966bdff6d1c8481489399e9">postati</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_422a4815e506019a911d0e357fd12251">avtomatizmu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="izdajati v avtomatizmu" cluster="1" frequency="4" logDice="6.87">
+              <comp position="1" type="collocate" sloleks="LE_7c9d4a097dde0f504094cb7178a0a138">izdajati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_422a4815e506019a911d0e357fd12251">avtomatizmu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za avtomatizem" cluster="1" frequency="12" logDice="-0.02">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_422a4815e506019a911d0e357fd12251">avtomatizem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="psihičen avtomatizem" cluster="1" frequency="8" logDice="3.75">
+              <comp position="1" type="collocate" sloleks="LE_328d26bc344501d84301cbfb40762b39">psihičen</comp>
+              <comp position="2" type="headword" sloleks="LE_422a4815e506019a911d0e357fd12251">avtomatizem</comp>
+            </collocation>
+            <collocation form="čist avtomatizem" cluster="2" frequency="17" logDice="2.31">
+              <comp position="1" type="collocate" sloleks="LE_b0f01a4af83087947c0c1f51b4c0c6bc">čist</comp>
+              <comp position="2" type="headword" sloleks="LE_422a4815e506019a911d0e357fd12251">avtomatizem</comp>
+            </collocation>
+            <collocation form="popoln avtomatizem" cluster="2" frequency="10" logDice="1.4">
+              <comp position="1" type="collocate" sloleks="LE_814a2c9c333ef1e9cb481395c05b7346">popoln</comp>
+              <comp position="2" type="headword" sloleks="LE_422a4815e506019a911d0e357fd12251">avtomatizem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="stvar avtomatizma" cluster="1" frequency="6" logDice="2.86">
+              <comp position="1" type="collocate" sloleks="LE_c62e36388a9104c47cf960cd4bdf4ca3">stvar</comp>
+              <comp position="2" type="headword" sloleks="LE_422a4815e506019a911d0e357fd12251">avtomatizma</comp>
+            </collocation>
+            <collocation form="načelo avtomatizma" cluster="2" frequency="8" logDice="2.39">
+              <comp position="1" type="collocate" sloleks="LE_5a443f15d8b4838fe872b4d2b544f4ce">načelo</comp>
+              <comp position="2" type="headword" sloleks="LE_422a4815e506019a911d0e357fd12251">avtomatizma</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="9957">zaskočiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">585</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="zaskočiti na cesti" cluster="1" frequency="5" logDice="1.92">
+              <comp position="1" type="headword" sloleks="LE_cf337780f87d0104bf0df146feb975d0">zaskočiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_0e822f9721ddeb3fd7d90e02f70c9a2f">cesti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="zaskočiti vrata" cluster="1" frequency="5" logDice="1.73">
+              <comp position="1" type="headword" sloleks="LE_cf337780f87d0104bf0df146feb975d0">zaskočiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_5b997c4e88dd626d1f19eb6721f9f994">vrata</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="zaskočiti v položaju" cluster="1" frequency="10" logDice="3.89">
+              <comp position="1" type="headword" sloleks="LE_cf337780f87d0104bf0df146feb975d0">zaskočiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_0227904f3ee297f8f6c33b433ba96e65">položaju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="zadaj zaskočiti" cluster="1" frequency="6" logDice="5.15">
+              <comp position="1" type="collocate" sloleks="LE_6a7d6c4f5d82e0b18dede47545b3e169">zadaj</comp>
+              <comp position="2" type="headword" sloleks="LE_cf337780f87d0104bf0df146feb975d0">zaskočiti</comp>
+            </collocation>
+            <collocation form="samodejno zaskočiti" cluster="2" frequency="5" logDice="3.86">
+              <comp position="1" type="collocate" sloleks="LE_796bc7d84c77b7494c1f108b5dcf3463">samodejno</comp>
+              <comp position="2" type="headword" sloleks="LE_cf337780f87d0104bf0df146feb975d0">zaskočiti</comp>
+            </collocation>
+            <collocation form="zvečer zaskočiti" cluster="3" frequency="4" logDice="1.4">
+              <comp position="1" type="collocate" sloleks="LE_1dbae9bbcb5d25d2e943d3353aa1c6e9">zvečer</comp>
+              <comp position="2" type="headword" sloleks="LE_cf337780f87d0104bf0df146feb975d0">zaskočiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

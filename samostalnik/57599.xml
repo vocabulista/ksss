@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="57599">glicinija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">576</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="glicinija iz papirja" cluster="1" frequency="10" logDice="7.36">
+              <comp position="1" type="headword" sloleks="LE_599557c4699a76e94fa91c2af35169c7">glicinija</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_bd43c7f1c3166c88c6e6fd690b721f1f">papirja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="cvetoča glicinija" cluster="1" frequency="20" logDice="5.67">
+              <comp position="1" type="collocate" sloleks="LE_2be005ae4abd4aa1cb6e1542569e47ef">cvetoča</comp>
+              <comp position="2" type="headword" sloleks="LE_599557c4699a76e94fa91c2af35169c7">glicinija</comp>
+            </collocation>
+            <collocation form="kitajska glicinija" cluster="2" frequency="18" logDice="2.89">
+              <comp position="1" type="collocate" sloleks="LE_fb185a15f7fbc97760ca90b27e8bf70f">kitajska</comp>
+              <comp position="2" type="headword" sloleks="LE_599557c4699a76e94fa91c2af35169c7">glicinija</comp>
+            </collocation>
+            <collocation form="japonska glicinija" cluster="3" frequency="11" logDice="2.58">
+              <comp position="1" type="collocate" sloleks="LE_432bc44c9a7dc6e766e26e52d3d84e8f">japonska</comp>
+              <comp position="2" type="headword" sloleks="LE_599557c4699a76e94fa91c2af35169c7">glicinija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="grozd glicinije" cluster="1" frequency="6" logDice="7.75">
+              <comp position="1" type="collocate" sloleks="LE_6c34922d104c0890aa12a79894edf4c6">grozd</comp>
+              <comp position="2" type="headword" sloleks="LE_599557c4699a76e94fa91c2af35169c7">glicinije</comp>
+            </collocation>
+            <collocation form="cvet glicinije" cluster="2" frequency="16" logDice="6.04">
+              <comp position="1" type="collocate" sloleks="LE_94d0f7e010ad7f3fd319d2500a8722ff">cvet</comp>
+              <comp position="2" type="headword" sloleks="LE_599557c4699a76e94fa91c2af35169c7">glicinije</comp>
+            </collocation>
+            <collocation form="ulica glicinije" cluster="3" frequency="64" logDice="5.98">
+              <comp position="1" type="collocate" sloleks="LE_554c79ab5e7baf29f70e8135a860c0e8">ulica</comp>
+              <comp position="2" type="headword" sloleks="LE_599557c4699a76e94fa91c2af35169c7">glicinije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="54062">dopisovalec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">524</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 v sbz4">
+          <collocations>
+            <collocation form="dopisovalec v rubriko" cluster="1" frequency="5" logDice="9.47">
+              <comp position="1" type="headword" sloleks="LE_336c9dff90bb1943a7398e4a542911fd">dopisovalec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_e3a974355489a5f3446059f661703fb5">rubriko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="dopisovalec s konca" cluster="1" frequency="6" logDice="4.6">
+              <comp position="1" type="headword" sloleks="LE_336c9dff90bb1943a7398e4a542911fd">dopisovalec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_d8d1737076777d9839ea949a2b88751a">konca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="anonimen dopisovalec" cluster="1" frequency="14" logDice="4.94">
+              <comp position="1" type="collocate" sloleks="LE_fb81fcfc19f8300b531d597ba2dd806d">anonimen</comp>
+              <comp position="2" type="headword" sloleks="LE_336c9dff90bb1943a7398e4a542911fd">dopisovalec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="pismo dopisovalca" cluster="1" frequency="6" logDice="3.29">
+              <comp position="1" type="collocate" sloleks="LE_bc3ef9b863fbcf5d9ecc2351db390439">pismo</comp>
+              <comp position="2" type="headword" sloleks="LE_336c9dff90bb1943a7398e4a542911fd">dopisovalca</comp>
+            </collocation>
+            <collocation form="krog dopisovalca" cluster="2" frequency="6" logDice="0.89">
+              <comp position="1" type="collocate" sloleks="LE_066eb108c6dc35d7d2865febd65e4fb6">krog</comp>
+              <comp position="2" type="headword" sloleks="LE_336c9dff90bb1943a7398e4a542911fd">dopisovalca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

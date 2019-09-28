@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="697619">femme</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="femme fatala" cluster="1" frequency="191" logDice="13.48">
+              <comp position="1" type="headword" sloleks="">femme</comp>
+              <comp position="2" type="collocate" sloleks="">fatala</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="izbrati za femme" cluster="1" frequency="4" logDice="2.83">
+              <comp position="1" type="collocate" sloleks="LE_9a298309cf1dd67939144a6855fbce8e">izbrati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="">femme</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="un femme" cluster="1" frequency="15" logDice="7.29">
+              <comp position="1" type="collocate" sloleks="">un</comp>
+              <comp position="2" type="headword" sloleks="">femme</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="izbor za femme" cluster="1" frequency="8" logDice="5.14">
+              <comp position="1" type="collocate" sloleks="LE_dbea8dca0a5d5d74da0f5eea90e9ab2a">izbor</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="">femme</comp>
+            </collocation>
+            <collocation form="kandidatka za femme" cluster="2" frequency="10" logDice="4.79">
+              <comp position="1" type="collocate" sloleks="LE_548814a252ccebaa1cdabff0a2bd845d">kandidatka</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="">femme</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

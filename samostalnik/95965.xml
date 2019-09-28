@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="95965">verjetje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">593</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 v sbz4">
+          <collocations>
+            <collocation form="verjetje v uspeh" cluster="1" frequency="4" logDice="8.18">
+              <comp position="1" type="headword" sloleks="LE_2bb7bfe53d5d8dc5f7f0ef15d061c5a9">verjetje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee3bfca66217ba6b70159eae393e66f8">uspeh</comp>
+            </collocation>
+            <collocation form="verjetje v moč" cluster="2" frequency="5" logDice="8.02">
+              <comp position="1" type="headword" sloleks="LE_2bb7bfe53d5d8dc5f7f0ef15d061c5a9">verjetje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_0b71c85c50e39f2c8cb5e91791d67af9">moč</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="ozadenjski verjetje" cluster="1" frequency="13" logDice="11.12">
+              <comp position="1" type="collocate" sloleks="">ozadenjski</comp>
+              <comp position="2" type="headword" sloleks="LE_2bb7bfe53d5d8dc5f7f0ef15d061c5a9">verjetje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="stvar verjetja" cluster="1" frequency="5" logDice="2.6">
+              <comp position="1" type="collocate" sloleks="LE_c62e36388a9104c47cf960cd4bdf4ca3">stvar</comp>
+              <comp position="2" type="headword" sloleks="LE_2bb7bfe53d5d8dc5f7f0ef15d061c5a9">verjetja</comp>
+            </collocation>
+            <collocation form="metoda verjetja" cluster="2" frequency="5" logDice="2.49">
+              <comp position="1" type="collocate" sloleks="LE_675bb3300eebea6ea6f395eade13fc2c">metoda</comp>
+              <comp position="2" type="headword" sloleks="LE_2bb7bfe53d5d8dc5f7f0ef15d061c5a9">verjetja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="nasprotje z verjetjem" cluster="1" frequency="5" logDice="1.47">
+              <comp position="1" type="collocate" sloleks="LE_856a910b1c3332ccea09cc03944b7de2">nasprotje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_2bb7bfe53d5d8dc5f7f0ef15d061c5a9">verjetjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="razlog za verjetje" cluster="1" frequency="9" logDice="1.95">
+              <comp position="1" type="collocate" sloleks="LE_26c1514e5bfab4dd2b04f4e4711659e1">razlog</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_2bb7bfe53d5d8dc5f7f0ef15d061c5a9">verjetje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

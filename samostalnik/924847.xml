@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="924847">hummer</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="hummer za vojsko" cluster="1" frequency="5" logDice="6.32">
+              <comp position="1" type="headword" sloleks="">hummer</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_014592c93c5ecc51294b73e71f55d921">vojsko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="ameriški hummer" cluster="1" frequency="34" logDice="1.12">
+              <comp position="1" type="collocate" sloleks="LE_c02b8fa5427c488774a5c66efd9beafc">ameriški</comp>
+              <comp position="2" type="headword" sloleks="">hummer</comp>
+            </collocation>
+            <collocation form="vojaški hummer" cluster="2" frequency="9" logDice="0.81">
+              <comp position="1" type="collocate" sloleks="LE_7148397ee3df6dc9fba14c0f25b252e3">vojaški</comp>
+              <comp position="2" type="headword" sloleks="">hummer</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="nakup hummer" cluster="1" frequency="23" logDice="2.72">
+              <comp position="1" type="collocate" sloleks="LE_a1ab00519230d9a2b9b9d13c6d348162">nakup</comp>
+              <comp position="2" type="headword" sloleks="">hummer</comp>
+            </collocation>
+            <collocation form="različica hummer" cluster="2" frequency="6" logDice="2.33">
+              <comp position="1" type="collocate" sloleks="LE_01eeb2dc69e5d47e92faab5f88e63b8a">različica</comp>
+              <comp position="2" type="headword" sloleks="">hummer</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="vožnja s hummer" cluster="1" frequency="8" logDice="3.83">
+              <comp position="1" type="collocate" sloleks="LE_cd6b5da723aa271ed871bf1d115652d0">vožnja</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="">hummer</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

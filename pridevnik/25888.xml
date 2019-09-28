@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="25888">nerazpoznaven</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">645</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nerazpoznavna gmota" cluster="1" frequency="14" logDice="6.27">
+              <comp position="1" type="headword" sloleks="LE_81e4aeaf6f3abd0de360d3e6b7bdae1a">nerazpoznavna</comp>
+              <comp position="2" type="collocate" sloleks="LE_ece5912e9729b714b6a8d0bcb88978db">gmota</comp>
+            </collocation>
+            <collocation form="nerazpoznavna mešanica" cluster="2" frequency="7" logDice="3.59">
+              <comp position="1" type="headword" sloleks="LE_81e4aeaf6f3abd0de360d3e6b7bdae1a">nerazpoznavna</comp>
+              <comp position="2" type="collocate" sloleks="LE_d638460552637ca98a257506863acb65">mešanica</comp>
+            </collocation>
+            <collocation form="nerazpoznavna identiteta" cluster="3" frequency="6" logDice="2.88">
+              <comp position="1" type="headword" sloleks="LE_81e4aeaf6f3abd0de360d3e6b7bdae1a">nerazpoznavna</comp>
+              <comp position="2" type="collocate" sloleks="LE_83c316a31cc0abbd58228a73a4210288">identiteta</comp>
+            </collocation>
+            <collocation form="nerazpoznavna oblika" cluster="4" frequency="11" logDice="0.83">
+              <comp position="1" type="headword" sloleks="LE_81e4aeaf6f3abd0de360d3e6b7bdae1a">nerazpoznavna</comp>
+              <comp position="2" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">oblika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="praktično nerazpoznaven" cluster="1" frequency="5" logDice="3.25">
+              <comp position="1" type="collocate" sloleks="LE_1d2724065d2fbcc820683706ab4ac941">praktično</comp>
+              <comp position="2" type="headword" sloleks="LE_81e4aeaf6f3abd0de360d3e6b7bdae1a">nerazpoznaven</comp>
+            </collocation>
+            <collocation form="popolnoma nerazpoznaven" cluster="2" frequency="14" logDice="2.1">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_81e4aeaf6f3abd0de360d3e6b7bdae1a">nerazpoznaven</comp>
+            </collocation>
+            <collocation form="povsem nerazpoznaven" cluster="3" frequency="23" logDice="1.81">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_81e4aeaf6f3abd0de360d3e6b7bdae1a">nerazpoznaven</comp>
+            </collocation>
+            <collocation form="precej nerazpoznaven" cluster="4" frequency="11" logDice="0.8">
+              <comp position="1" type="collocate" sloleks="LE_e0671a56c827200d0ebc033694e6214b">precej</comp>
+              <comp position="2" type="headword" sloleks="LE_81e4aeaf6f3abd0de360d3e6b7bdae1a">nerazpoznaven</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

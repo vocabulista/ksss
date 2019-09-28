@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="23971">milostljiv</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">481</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="milostljiv grešnik" cluster="1" frequency="16" logDice="8.44">
+              <comp position="1" type="headword" sloleks="LE_c383ef336f7a8efddb78d3184e2cea9e">milostljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_cf2c57955da122d87af9b6beb68f77ce">grešnik</comp>
+            </collocation>
+            <collocation form="milostljiva gospa" cluster="2" frequency="57" logDice="6.55">
+              <comp position="1" type="headword" sloleks="LE_c383ef336f7a8efddb78d3184e2cea9e">milostljiva</comp>
+              <comp position="2" type="collocate" sloleks="LE_b96c908a06a02a15d08b2d9232022ff8">gospa</comp>
+            </collocation>
+            <collocation form="milostljiv Bog" cluster="3" frequency="16" logDice="4.63">
+              <comp position="1" type="headword" sloleks="LE_c383ef336f7a8efddb78d3184e2cea9e">milostljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_4b293a6111b46265077bf30063fd7037">Bog</comp>
+            </collocation>
+            <collocation form="milostljiv sodnik" cluster="3" frequency="6" logDice="1.23">
+              <comp position="1" type="headword" sloleks="LE_c383ef336f7a8efddb78d3184e2cea9e">milostljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_dc0300c802ff98b1bb1078da111d532d">sodnik</comp>
+            </collocation>
+            <collocation form="milostljiv gospod" cluster="4" frequency="19" logDice="4.35">
+              <comp position="1" type="headword" sloleks="LE_c383ef336f7a8efddb78d3184e2cea9e">milostljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_f821a8ec5e93963b87e7f4d8c6398ef1">gospod</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="milostljiv in/ali usmiljen" cluster="1" frequency="24" logDice="11.88">
+              <comp position="3" type="headword" sloleks="LE_c383ef336f7a8efddb78d3184e2cea9e">milostljiv</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_9d492fee0f813cfb28541b8ae0f9a516">usmiljen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

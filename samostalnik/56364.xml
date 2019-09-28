@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="56364">fikus</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">831</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="drobnolisten fikus" cluster="1" frequency="12" logDice="10.58">
+              <comp position="1" type="collocate" sloleks="LE_ab4f111aa97ea2460f36841dcba1861a">drobnolisten</comp>
+              <comp position="2" type="headword" sloleks="LE_5ea15d62634ed83419dfa686fd75d333">fikus</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="list fikusa" cluster="1" frequency="11" logDice="2.41">
+              <comp position="1" type="collocate" sloleks="LE_83c15927a3c6619d08f16ff12f82390f">list</comp>
+              <comp position="2" type="headword" sloleks="LE_5ea15d62634ed83419dfa686fd75d333">fikusa</comp>
+            </collocation>
+            <collocation form="vloga fikusa" cluster="2" frequency="6" logDice="0.65">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_5ea15d62634ed83419dfa686fd75d333">fikusa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="pisarna s fikusom" cluster="1" frequency="6" logDice="8.19">
+              <comp position="1" type="collocate" sloleks="LE_ada0b3b67080bfe4f736eaed10233e9f">pisarna</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_5ea15d62634ed83419dfa686fd75d333">fikusom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

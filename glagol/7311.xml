@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="7311">psovati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">607</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="psovati mater" cluster="1" frequency="11" logDice="6.45">
+              <comp position="1" type="headword" sloleks="LE_f654d822f6117965cce7f143cac65405">psovati</comp>
+              <comp position="2" type="collocate" sloleks="LE_c60ad337818645beb21c89ff38faccd7">mater</comp>
+            </collocation>
+            <collocation form="psovati mamo" cluster="1" frequency="6" logDice="4.47">
+              <comp position="1" type="headword" sloleks="LE_f654d822f6117965cce7f143cac65405">psovati</comp>
+              <comp position="2" type="collocate" sloleks="LE_17accc042a5f6d587dff2dcf3ce1dc83">mamo</comp>
+            </collocation>
+            <collocation form="psovati pripadnost" cluster="2" frequency="5" logDice="5.79">
+              <comp position="1" type="headword" sloleks="LE_f654d822f6117965cce7f143cac65405">psovati</comp>
+              <comp position="2" type="collocate" sloleks="LE_3b01ac625a834e8f5697a4a7ce060e10">pripadnost</comp>
+            </collocation>
+            <collocation form="psovati boga" cluster="3" frequency="4" logDice="4.52">
+              <comp position="1" type="headword" sloleks="LE_f654d822f6117965cce7f143cac65405">psovati</comp>
+              <comp position="2" type="collocate" sloleks="LE_4b293a6111b46265077bf30063fd7037">boga</comp>
+            </collocation>
+            <collocation form="psovati Slovenca" cluster="4" frequency="5" logDice="4.2">
+              <comp position="1" type="headword" sloleks="LE_f654d822f6117965cce7f143cac65405">psovati</comp>
+              <comp position="2" type="collocate" sloleks="LE_729f0d5f17646d52975cea70c2c90304|LE_28fbf96b9bd02e5a6e7ae885f022743f">Slovenca</comp>
+            </collocation>
+            <collocation form="psovati vlado" cluster="4" frequency="4" logDice="2.36">
+              <comp position="1" type="headword" sloleks="LE_f654d822f6117965cce7f143cac65405">psovati</comp>
+              <comp position="2" type="collocate" sloleks="LE_63d183132c68728be91773043828fb2d">vlado</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="psovati s kolegom" cluster="1" frequency="4" logDice="3.87">
+              <comp position="1" type="headword" sloleks="LE_f654d822f6117965cce7f143cac65405">psovati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_d5ad17a00b29739bd123690a78c70a1a">kolegom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="glasno psovati" cluster="1" frequency="4" logDice="2.66">
+              <comp position="1" type="collocate" sloleks="LE_8d32e8ffef5c2d930893f51f039b425a">glasno</comp>
+              <comp position="2" type="headword" sloleks="LE_f654d822f6117965cce7f143cac65405">psovati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

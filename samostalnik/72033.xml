@@ -1,0 +1,62 @@
+<entry>
+  <header>
+    <lexical_unit id="72033">negacija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">966</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="negacija trditve" cluster="1" frequency="10" logDice="6.36">
+              <comp position="1" type="headword" sloleks="LE_d50fb19967e38b96eb4e2e4ce9705585">negacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_535a7ad78436662a28765190d4f1e099">trditve</comp>
+            </collocation>
+            <collocation form="negacija načela" cluster="2" frequency="16" logDice="5.4">
+              <comp position="1" type="headword" sloleks="LE_d50fb19967e38b96eb4e2e4ce9705585">negacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_5a443f15d8b4838fe872b4d2b544f4ce">načela</comp>
+            </collocation>
+            <collocation form="negacija demokracije" cluster="2" frequency="10" logDice="3.58">
+              <comp position="1" type="headword" sloleks="LE_d50fb19967e38b96eb4e2e4ce9705585">negacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_0a23ea97b7dde4013fd3ea300164d8e4">demokracije</comp>
+            </collocation>
+            <collocation form="negacija institucije" cluster="3" frequency="9" logDice="4.07">
+              <comp position="1" type="headword" sloleks="LE_d50fb19967e38b96eb4e2e4ce9705585">negacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_cbdaa374765e1d9753223abce5f1a05e">institucije</comp>
+            </collocation>
+            <collocation form="negacija pravice" cluster="4" frequency="10" logDice="1.28">
+              <comp position="1" type="headword" sloleks="LE_d50fb19967e38b96eb4e2e4ce9705585">negacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_8c0e472df622ea735bcaed6544ab6130">pravice</comp>
+            </collocation>
+            <collocation form="negacija življenja" cluster="4" frequency="10" logDice="0.83">
+              <comp position="1" type="headword" sloleks="LE_d50fb19967e38b96eb4e2e4ce9705585">negacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_b7a6a2019becc6510edb8591e171b0a7">življenja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za negacijo" cluster="1" frequency="11" logDice="-0.14">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d50fb19967e38b96eb4e2e4ce9705585">negacijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="absolutna negacija" cluster="1" frequency="8" logDice="3.38">
+              <comp position="1" type="collocate" sloleks="LE_66b5b813a3b875f6634cd4f828cf2681">absolutna</comp>
+              <comp position="2" type="headword" sloleks="LE_d50fb19967e38b96eb4e2e4ce9705585">negacija</comp>
+            </collocation>
+            <collocation form="popolna negacija" cluster="2" frequency="25" logDice="2.72">
+              <comp position="1" type="collocate" sloleks="LE_814a2c9c333ef1e9cb481395c05b7346">popolna</comp>
+              <comp position="2" type="headword" sloleks="LE_d50fb19967e38b96eb4e2e4ce9705585">negacija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

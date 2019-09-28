@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="8151">skupiniti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">703</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ iz sbz2">
+          <collocations>
+            <collocation form="skupiniti iz Bovca" cluster="1" frequency="7" logDice="10.0">
+              <comp position="1" type="headword" sloleks="LE_c88e0239f14aa06c4685e31bf47f1a9a">skupiniti</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_e286fbd1db89d6bbb39f8e43d4c68050">Bovca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="skupiniti na facebook" cluster="1" frequency="7" logDice="7.19">
+              <comp position="1" type="headword" sloleks="LE_c88e0239f14aa06c4685e31bf47f1a9a">skupiniti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="">facebook</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="skupiniti STATISTIČNO" cluster="1" frequency="7" logDice="6.88">
+              <comp position="1" type="headword" sloleks="LE_c88e0239f14aa06c4685e31bf47f1a9a">skupiniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_0505070021e9a059a6176be823db83ba">STATISTIČNO</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="skupiniti za samopomoč" cluster="1" frequency="73" logDice="12.29">
+              <comp position="1" type="headword" sloleks="LE_c88e0239f14aa06c4685e31bf47f1a9a">skupiniti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_6f37471553d4983de6878af8e92e01a4">samopomoč</comp>
+            </collocation>
+            <collocation form="skupiniti za obstanek" cluster="2" frequency="4" logDice="5.18">
+              <comp position="1" type="headword" sloleks="LE_c88e0239f14aa06c4685e31bf47f1a9a">skupiniti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_8d7c930d093c3f1091f9a9691b3fbecd">obstanek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

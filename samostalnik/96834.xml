@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="96834">vozlič</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1590</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Vozlič iz Podplata" cluster="1" frequency="9" logDice="10.82">
+              <comp position="1" type="headword" sloleks="LE_05ab922856f1f6adf1268158b988a3f7">Vozlič</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_7d021a64477b055e51c18dd6ad15649d">Podplata</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="limfen vozlič" cluster="1" frequency="23" logDice="8.11">
+              <comp position="1" type="collocate" sloleks="LE_35a806b8eb4ffd3700099cafe55e5c6b">limfen</comp>
+              <comp position="2" type="headword" sloleks="LE_05ab922856f1f6adf1268158b988a3f7">vozlič</comp>
+            </collocation>
+            <collocation form="podkožen vozlič" cluster="2" frequency="11" logDice="7.63">
+              <comp position="1" type="collocate" sloleks="LE_6b551c9e782664ffe71f1cc34e255f7a">podkožen</comp>
+              <comp position="2" type="headword" sloleks="LE_05ab922856f1f6adf1268158b988a3f7">vozlič</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Matej Vozliča" cluster="1" frequency="18" logDice="6.6">
+              <comp position="1" type="collocate" sloleks="LE_f95a75bb4dcf8a00b919f9649ecba529">Matej</comp>
+              <comp position="2" type="headword" sloleks="LE_05ab922856f1f6adf1268158b988a3f7">Vozliča</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

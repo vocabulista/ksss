@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="4662">pesniti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">675</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="pesniti sonet" cluster="1" frequency="6" logDice="9.31">
+              <comp position="1" type="headword" sloleks="LE_f4e51ea080e7b8e4662627db9cc50e0a">pesniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_d1f03f00881118cdd94e4e7f2009efa3">sonet</comp>
+            </collocation>
+            <collocation form="pesniti pesem" cluster="2" frequency="11" logDice="3.7">
+              <comp position="1" type="headword" sloleks="LE_f4e51ea080e7b8e4662627db9cc50e0a">pesniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_6235b39c027e8b67ccd0ab2a0e87ad16">pesem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="pesniti v narečju" cluster="1" frequency="6" logDice="7.26">
+              <comp position="1" type="headword" sloleks="LE_f4e51ea080e7b8e4662627db9cc50e0a">pesniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_b8ebf34d63da33385a93697d92131b5e">narečju</comp>
+            </collocation>
+            <collocation form="pesniti v jeziku" cluster="2" frequency="21" logDice="5.46">
+              <comp position="1" type="headword" sloleks="LE_f4e51ea080e7b8e4662627db9cc50e0a">pesniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_84e841a4b1d5e4b816efe7f126e1f693">jeziku</comp>
+            </collocation>
+            <collocation form="pesniti v obliki" cluster="3" frequency="4" logDice="1.95">
+              <comp position="1" type="headword" sloleks="LE_f4e51ea080e7b8e4662627db9cc50e0a">pesniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">obliki</comp>
+            </collocation>
+            <collocation form="pesniti v času" cluster="4" frequency="5" logDice="-0.53">
+              <comp position="1" type="headword" sloleks="LE_f4e51ea080e7b8e4662627db9cc50e0a">pesniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">času</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

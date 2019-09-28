@@ -1,0 +1,29 @@
+<entry>
+  <header>
+    <lexical_unit id="177013">avtocenter</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="povedati v avtocenter" cluster="1" frequency="7" logDice="3.6">
+              <comp position="1" type="collocate" sloleks="LE_cf2e918645b765c031aa3d36edad265f">povedati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="">avtocenter</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="prostor avtocenter" cluster="1" frequency="5" logDice="1.07">
+              <comp position="1" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostor</comp>
+              <comp position="2" type="headword" sloleks="">avtocenter</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

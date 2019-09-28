@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="7748">rdečeti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">543</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ iz sbz2">
+          <collocations>
+            <collocation form="rdečeti iz mesta" cluster="1" frequency="11" logDice="5.37">
+              <comp position="1" type="headword" sloleks="LE_ccde266fb3b9a53438cd86604c2fbb5a">rdečeti</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="temno rdečeti" cluster="1" frequency="6" logDice="8.27">
+              <comp position="1" type="collocate" sloleks="LE_99d51baa896a4842e8e09ba2360dd4a9">temno</comp>
+              <comp position="2" type="headword" sloleks="LE_ccde266fb3b9a53438cd86604c2fbb5a">rdečeti</comp>
+            </collocation>
+            <collocation form="krvavo rdečeti" cluster="2" frequency="8" logDice="6.69">
+              <comp position="1" type="collocate" sloleks="LE_53af14a62f9759a5c9fc0381946934b2">krvavo</comp>
+              <comp position="2" type="headword" sloleks="LE_ccde266fb3b9a53438cd86604c2fbb5a">rdečeti</comp>
+            </collocation>
+            <collocation form="živo rdečeti" cluster="3" frequency="4" logDice="3.48">
+              <comp position="1" type="collocate" sloleks="LE_3254cce79bb838ad557144a541c0fa49">živo</comp>
+              <comp position="2" type="headword" sloleks="LE_ccde266fb3b9a53438cd86604c2fbb5a">rdečeti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

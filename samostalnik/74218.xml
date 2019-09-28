@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="74218">očitanje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">486</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="očitanje dejanja" cluster="1" frequency="72" logDice="5.67">
+              <comp position="1" type="headword" sloleks="LE_1e03c798a9fe899b526ee3afc5095c3f">očitanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_838099f4290a785c6f8bfe0b75fb429d">dejanja</comp>
+            </collocation>
+            <collocation form="očitanje napake" cluster="2" frequency="9" logDice="4.13">
+              <comp position="1" type="headword" sloleks="LE_1e03c798a9fe899b526ee3afc5095c3f">očitanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_062a179ee1410808218c093ac1a7b38b">napake</comp>
+            </collocation>
+            <collocation form="dejanje očitanja" cluster="3" frequency="15" logDice="3.7">
+              <comp position="1" type="collocate" sloleks="LE_838099f4290a785c6f8bfe0b75fb429d">dejanje</comp>
+              <comp position="2" type="headword" sloleks="LE_1e03c798a9fe899b526ee3afc5095c3f">očitanja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="medsebojno očitanje" cluster="1" frequency="10" logDice="2.34">
+              <comp position="1" type="collocate" sloleks="LE_97c26195b03e298d0b9ec1c61b5837f8">medsebojno</comp>
+              <comp position="2" type="headword" sloleks="LE_1e03c798a9fe899b526ee3afc5095c3f">očitanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

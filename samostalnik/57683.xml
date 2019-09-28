@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="57683">glorija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">503</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="glorija iz Lendave" cluster="1" frequency="8" logDice="7.64">
+              <comp position="1" type="headword" sloleks="LE_9114b57e9bb59798ea8f517aa4f7de0b">glorija</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_d87dc8681361aa7e574be6501f016002">Lendave</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nebeška glorija" cluster="1" frequency="9" logDice="4.99">
+              <comp position="1" type="collocate" sloleks="LE_54ca6921c78d890ab9df61ffd84ace4b">nebeška</comp>
+              <comp position="2" type="headword" sloleks="LE_9114b57e9bb59798ea8f517aa4f7de0b">glorija</comp>
+            </collocation>
+            <collocation form="jutranja glorija" cluster="2" frequency="25" logDice="3.7">
+              <comp position="1" type="collocate" sloleks="LE_2dc5e796c81a27da075da675d9152d02">jutranja</comp>
+              <comp position="2" type="headword" sloleks="LE_9114b57e9bb59798ea8f517aa4f7de0b">glorija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

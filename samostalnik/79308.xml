@@ -1,0 +1,52 @@
+<entry>
+  <header>
+    <lexical_unit id="79308">poganstvo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">517</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 v sbz4">
+          <collocations>
+            <collocation form="poganstvo v krščanstvo" cluster="1" frequency="10" logDice="11.32">
+              <comp position="1" type="headword" sloleks="LE_0e4022c2aa7413a1a49a7f127925ae7d">poganstvo</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_53a42999cabcb3f59159b5fc6c6179d3">krščanstvo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz iz SBZ2">
+          <collocations>
+            <collocation form="izvirati iz poganstva" cluster="1" frequency="5" logDice="2.99">
+              <comp position="1" type="collocate" sloleks="LE_c3688d205b3f41612327fa63373fb936">izvirati</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_0e4022c2aa7413a1a49a7f127925ae7d">poganstva</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="ostanek poganstva" cluster="1" frequency="21" logDice="4.39">
+              <comp position="1" type="collocate" sloleks="LE_1e8f1a48f0110a2a2ede2cf44f8963e5">ostanek</comp>
+              <comp position="2" type="headword" sloleks="LE_0e4022c2aa7413a1a49a7f127925ae7d">poganstva</comp>
+            </collocation>
+            <collocation form="simbol poganstva" cluster="2" frequency="5" logDice="2.82">
+              <comp position="1" type="collocate" sloleks="LE_bdfd9d5dc1e7d7616f219bd5d751795f">simbol</comp>
+              <comp position="2" type="headword" sloleks="LE_0e4022c2aa7413a1a49a7f127925ae7d">poganstva</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="prehod iz poganstva" cluster="1" frequency="4" logDice="5.01">
+              <comp position="1" type="collocate" sloleks="LE_6bbb2dfa695a0acfe193236971d127a3">prehod</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_0e4022c2aa7413a1a49a7f127925ae7d">poganstva</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

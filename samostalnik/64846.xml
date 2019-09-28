@@ -1,0 +1,62 @@
+<entry>
+  <header>
+    <lexical_unit id="64846">konzumacija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">461</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="konzumacija krme" cluster="1" frequency="29" logDice="7.18">
+              <comp position="1" type="headword" sloleks="LE_d12f53a2fe43a1b9a992828fbe51ba6d">konzumacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_b291592b892d5108296d33726c3140fd">krme</comp>
+            </collocation>
+            <collocation form="konzumacija pijače" cluster="2" frequency="13" logDice="4.71">
+              <comp position="1" type="headword" sloleks="LE_d12f53a2fe43a1b9a992828fbe51ba6d">konzumacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_3ff9968d39b88a9b888926d8a42d22dc">pijače</comp>
+            </collocation>
+            <collocation form="konzumacija mesa" cluster="3" frequency="10" logDice="3.53">
+              <comp position="1" type="headword" sloleks="LE_d12f53a2fe43a1b9a992828fbe51ba6d">konzumacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_4aa90a3e352de0e91eff0dc41f04a0ea">mesa</comp>
+            </collocation>
+            <collocation form="konzumacija alkohola" cluster="4" frequency="10" logDice="3.38">
+              <comp position="1" type="headword" sloleks="LE_d12f53a2fe43a1b9a992828fbe51ba6d">konzumacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_00027f12830a95cf2eeca194c7abb012">alkohola</comp>
+            </collocation>
+            <collocation form="EUR konzumacije" cluster="5" frequency="5" logDice="5.97">
+              <comp position="1" type="collocate" sloleks="LE_df1917fc80ae10538455db73df3bef80">EUR</comp>
+              <comp position="2" type="headword" sloleks="LE_d12f53a2fe43a1b9a992828fbe51ba6d">konzumacije</comp>
+            </collocation>
+            <collocation form="tolar konzumacije" cluster="6" frequency="7" logDice="1.85">
+              <comp position="1" type="collocate" sloleks="LE_65baaacaefaf6c73cca24a77f2ec4856">tolar</comp>
+              <comp position="2" type="headword" sloleks="LE_d12f53a2fe43a1b9a992828fbe51ba6d">konzumacije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="konzumacija za pijačo" cluster="1" frequency="7" logDice="7.18">
+              <comp position="1" type="headword" sloleks="LE_d12f53a2fe43a1b9a992828fbe51ba6d">konzumacija</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_3ff9968d39b88a9b888926d8a42d22dc">pijačo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pretirana konzumacija" cluster="1" frequency="10" logDice="3.52">
+              <comp position="1" type="collocate" sloleks="LE_97b9f9bb1479d471e7250254339115ed">pretirana</comp>
+              <comp position="2" type="headword" sloleks="LE_d12f53a2fe43a1b9a992828fbe51ba6d">konzumacija</comp>
+            </collocation>
+            <collocation form="hitra konzumacija" cluster="2" frequency="13" logDice="1.2">
+              <comp position="1" type="collocate" sloleks="LE_2af28cbb04d2e8afedc54b00a27fc453">hitra</comp>
+              <comp position="2" type="headword" sloleks="LE_d12f53a2fe43a1b9a992828fbe51ba6d">konzumacija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

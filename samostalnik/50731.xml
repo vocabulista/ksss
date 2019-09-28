@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="50731">buditelj</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">626</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="buditelj zavesti" cluster="1" frequency="16" logDice="5.75">
+              <comp position="1" type="headword" sloleks="LE_d37ac15a68f551ffda1c1bf0bf876907">buditelj</comp>
+              <comp position="2" type="collocate" sloleks="LE_c020891ce691dc822b49ef1af07144cd">zavesti</comp>
+            </collocation>
+            <collocation form="buditelj Slovenca" cluster="2" frequency="11" logDice="3.01">
+              <comp position="1" type="headword" sloleks="LE_d37ac15a68f551ffda1c1bf0bf876907">buditelj</comp>
+              <comp position="2" type="collocate" sloleks="LE_729f0d5f17646d52975cea70c2c90304|LE_28fbf96b9bd02e5a6e7ae885f022743f">Slovenca</comp>
+            </collocation>
+            <collocation form="rojstvo buditelja" cluster="3" frequency="9" logDice="3.71">
+              <comp position="1" type="collocate" sloleks="LE_b40f66076c42c60626a11e232a9ff9f4">rojstvo</comp>
+              <comp position="2" type="headword" sloleks="LE_d37ac15a68f551ffda1c1bf0bf876907">buditelja</comp>
+            </collocation>
+            <collocation form="vloga buditelja" cluster="4" frequency="8" logDice="1.06">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_d37ac15a68f551ffda1c1bf0bf876907">buditelja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="naroden buditelj" cluster="1" frequency="462" logDice="7.04">
+              <comp position="1" type="collocate" sloleks="LE_5aeb18f32525d080a73c8c3fa62276cd">naroden</comp>
+              <comp position="2" type="headword" sloleks="LE_d37ac15a68f551ffda1c1bf0bf876907">buditelj</comp>
+            </collocation>
+            <collocation form="beneški buditelj" cluster="2" frequency="8" logDice="3.9">
+              <comp position="1" type="collocate" sloleks="LE_28e038fb4a9bbac920fd1452d5a8eb0b">beneški</comp>
+              <comp position="2" type="headword" sloleks="LE_d37ac15a68f551ffda1c1bf0bf876907">buditelj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,75 @@
+<entry>
+  <header>
+    <lexical_unit id="10184">zažugati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">646</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz3">
+          <collocations>
+            <collocation form="zažugati vladi" cluster="1" frequency="4" logDice="3.22">
+              <comp position="1" type="headword" sloleks="LE_a907f40cb4119702ce57a34945c13992">zažugati</comp>
+              <comp position="2" type="collocate" sloleks="LE_63d183132c68728be91773043828fb2d">vladi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="zažugati z izstopom" cluster="1" frequency="6" logDice="8.29">
+              <comp position="1" type="headword" sloleks="LE_a907f40cb4119702ce57a34945c13992">zažugati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_5a22b3efcd6b1333397f9021ec4c196b">izstopom</comp>
+            </collocation>
+            <collocation form="zažugati s sankcijo" cluster="2" frequency="6" logDice="8.08">
+              <comp position="1" type="headword" sloleks="LE_a907f40cb4119702ce57a34945c13992">zažugati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_5138475c5639f31452c3ea0327378b32">sankcijo</comp>
+            </collocation>
+            <collocation form="zažugati s kazalcem" cluster="3" frequency="7" logDice="7.7">
+              <comp position="1" type="headword" sloleks="LE_a907f40cb4119702ce57a34945c13992">zažugati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_511a0352145640fcef400863b2e0e965">kazalcem</comp>
+            </collocation>
+            <collocation form="zažugati s prstom" cluster="4" frequency="42" logDice="6.7">
+              <comp position="1" type="headword" sloleks="LE_a907f40cb4119702ce57a34945c13992">zažugati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_6a9950af0f17ee23955c952bc9475a49|LE_a861eb7d5e70798c893c633c83cd3e90">prstom</comp>
+            </collocation>
+            <collocation form="zažugati s pestjo" cluster="5" frequency="8" logDice="6.31">
+              <comp position="1" type="headword" sloleks="LE_a907f40cb4119702ce57a34945c13992">zažugati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_a38df103bacbc31315c06e83bc0e3c0c">pestjo</comp>
+            </collocation>
+            <collocation form="zažugati s stavko" cluster="6" frequency="5" logDice="5.87">
+              <comp position="1" type="headword" sloleks="LE_a907f40cb4119702ce57a34945c13992">zažugati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_a5291582047b130280e626b928d62129">stavko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="resno zažugati" cluster="1" frequency="9" logDice="2.66">
+              <comp position="1" type="collocate" sloleks="LE_5e5a4ee7d6998535d85dfb6c3874cd3f">resno</comp>
+              <comp position="2" type="headword" sloleks="LE_a907f40cb4119702ce57a34945c13992">zažugati</comp>
+            </collocation>
+            <collocation form="javno zažugati" cluster="2" frequency="4" logDice="1.59">
+              <comp position="1" type="collocate" sloleks="LE_9b491c373a2c03dacd39956afb8d048a">javno</comp>
+              <comp position="2" type="headword" sloleks="LE_a907f40cb4119702ce57a34945c13992">zažugati</comp>
+            </collocation>
+            <collocation form="večkrat zažugati" cluster="3" frequency="5" logDice="0.83">
+              <comp position="1" type="collocate" sloleks="LE_a632a4cd780b70ff7634918837d4eddb">večkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_a907f40cb4119702ce57a34945c13992">zažugati</comp>
+            </collocation>
+            <collocation form="spet zažugati" cluster="4" frequency="8" logDice="0.03">
+              <comp position="1" type="collocate" sloleks="LE_262d335ce33e8c5f94849e677bc83a19">spet</comp>
+              <comp position="2" type="headword" sloleks="LE_a907f40cb4119702ce57a34945c13992">zažugati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

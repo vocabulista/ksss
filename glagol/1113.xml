@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="1113">fermentirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">404</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="fermentirati v kislino" cluster="1" frequency="7" logDice="9.81">
+              <comp position="1" type="headword" sloleks="LE_0d332cb68f9a82bc2a67ae9f9a4491cd">fermentirati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_d9abb5a071ead823a824332e9be22309">kislino</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="fermentirati v želodcu" cluster="1" frequency="8" logDice="6.82">
+              <comp position="1" type="headword" sloleks="LE_0d332cb68f9a82bc2a67ae9f9a4491cd">fermentirati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_48251e0ff3cbe2f79a913d2d52ebcc54">želodcu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="fermentirati s kvasom" cluster="1" frequency="4" logDice="10.38">
+              <comp position="1" type="headword" sloleks="LE_0d332cb68f9a82bc2a67ae9f9a4491cd">fermentirati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_01ceb47a518a93cc5f80f17ae5b0a9fa">kvasom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="dvakrat fermentirati" cluster="1" frequency="5" logDice="2.13">
+              <comp position="1" type="collocate" sloleks="LE_602c564da660b0177b4c9ca91f86275e">dvakrat</comp>
+              <comp position="2" type="headword" sloleks="LE_0d332cb68f9a82bc2a67ae9f9a4491cd">fermentirati</comp>
+            </collocation>
+            <collocation form="počasi fermentirati" cluster="2" frequency="6" logDice="1.18">
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              <comp position="2" type="headword" sloleks="LE_0d332cb68f9a82bc2a67ae9f9a4491cd">fermentirati</comp>
+            </collocation>
+            <collocation form="nekoliko fermentirati" cluster="3" frequency="5" logDice="1.05">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_0d332cb68f9a82bc2a67ae9f9a4491cd">fermentirati</comp>
+            </collocation>
+            <collocation form="hitro fermentirati" cluster="4" frequency="7" logDice="0.06">
+              <comp position="1" type="collocate" sloleks="LE_cb95fbdb78349dad33e3d99ea7f281a8">hitro</comp>
+              <comp position="2" type="headword" sloleks="LE_0d332cb68f9a82bc2a67ae9f9a4491cd">fermentirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

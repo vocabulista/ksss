@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="2495208">piar</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="piar SOVE" cluster="1" frequency="71" logDice="8.63">
+              <comp position="1" type="headword" sloleks="">piar</comp>
+              <comp position="2" type="collocate" sloleks="LE_ca57173fd909c221490138aea7ebfe19">SOVE</comp>
+            </collocation>
+            <collocation form="Pro piar" cluster="2" frequency="6" logDice="6.19">
+              <comp position="1" type="collocate" sloleks="">Pro</comp>
+              <comp position="2" type="headword" sloleks="">piar</comp>
+            </collocation>
+            <collocation form="mojster piar" cluster="3" frequency="5" logDice="3.05">
+              <comp position="1" type="collocate" sloleks="LE_1d34c7cacbaf665b8a2421d52e5ac27d">mojster</comp>
+              <comp position="2" type="headword" sloleks="">piar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="ukvarjati s piar" cluster="1" frequency="4" logDice="0.06">
+              <comp position="1" type="collocate" sloleks="LE_d218d442858c415bdeff018dc056aea9">ukvarjati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="">piar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za piar" cluster="1" frequency="4" logDice="-1.6">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="">piar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="vladen piar" cluster="1" frequency="12" logDice="1.84">
+              <comp position="1" type="collocate" sloleks="LE_237e6a1f48bee0b12503c19cc3655e56">vladen</comp>
+              <comp position="2" type="headword" sloleks="">piar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

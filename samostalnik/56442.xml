@@ -1,0 +1,57 @@
+<entry>
+  <header>
+    <lexical_unit id="56442">finančnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">511</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="finančnica SLS" cluster="1" frequency="60" logDice="6.41">
+              <comp position="1" type="headword" sloleks="LE_be18b0a167ee4633739c5c1dc62f37c8">finančnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_93cfe22497a98a7a8147f93583395a21|LE_52e89ad0327360447920ea3f55df1e8f">SLS</comp>
+            </collocation>
+            <collocation form="finančnica Merkurja" cluster="2" frequency="18" logDice="5.92">
+              <comp position="1" type="headword" sloleks="LE_be18b0a167ee4633739c5c1dc62f37c8">finančnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_4ae4b48aec8a9b4bba65cfd76e5728ca">Merkurja</comp>
+            </collocation>
+            <collocation form="finančnica stranke" cluster="3" frequency="51" logDice="3.21">
+              <comp position="1" type="headword" sloleks="LE_be18b0a167ee4633739c5c1dc62f37c8">finančnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_945a204a300f28702820c4bc0481d2e7">stranke</comp>
+            </collocation>
+            <collocation form="beseda finančnice" cluster="4" frequency="7" logDice="1.19">
+              <comp position="1" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">beseda</comp>
+              <comp position="2" type="headword" sloleks="LE_be18b0a167ee4633739c5c1dc62f37c8">finančnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nekdanja finančnica" cluster="1" frequency="144" logDice="3.66">
+              <comp position="1" type="collocate" sloleks="LE_8a7f20bd7c05984d11bf0b9c0d5d8dc4">nekdanja</comp>
+              <comp position="2" type="headword" sloleks="LE_be18b0a167ee4633739c5c1dc62f37c8">finančnica</comp>
+            </collocation>
+            <collocation form="bivša finančnica" cluster="1" frequency="23" logDice="3.04">
+              <comp position="1" type="collocate" sloleks="LE_2db2293b59177d3c2a3fb8992eee03ea">bivša</comp>
+              <comp position="2" type="headword" sloleks="LE_be18b0a167ee4633739c5c1dc62f37c8">finančnica</comp>
+            </collocation>
+            <collocation form="glavna finančnica" cluster="2" frequency="70" logDice="2.35">
+              <comp position="1" type="collocate" sloleks="LE_d2682b9f543a6df6814c2b0dde4cf533">glavna</comp>
+              <comp position="2" type="headword" sloleks="LE_be18b0a167ee4633739c5c1dc62f37c8">finančnica</comp>
+            </collocation>
+            <collocation form="sposobna finančnica" cluster="2" frequency="8" logDice="3.47">
+              <comp position="1" type="collocate" sloleks="LE_e114691ec7b2005f1abf41efd232c245">sposobna</comp>
+              <comp position="2" type="headword" sloleks="LE_be18b0a167ee4633739c5c1dc62f37c8">finančnica</comp>
+            </collocation>
+            <collocation form="občinska finančnica" cluster="3" frequency="41" logDice="2.48">
+              <comp position="1" type="collocate" sloleks="LE_1590ce886a6c1aca2522428105eb26f7">občinska</comp>
+              <comp position="2" type="headword" sloleks="LE_be18b0a167ee4633739c5c1dc62f37c8">finančnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,75 @@
+<entry>
+  <header>
+    <lexical_unit id="26506">občečloveški</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">517</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="občečloveška vrednota" cluster="1" frequency="111" logDice="6.46">
+              <comp position="1" type="headword" sloleks="LE_d703cd7ccb182e52404c0f091b78d6d3">občečloveška</comp>
+              <comp position="2" type="collocate" sloleks="LE_a9a487406cac0fb4290599f62f8f14c3">vrednota</comp>
+            </collocation>
+            <collocation form="občečloveška kultura" cluster="1" frequency="9" logDice="1.73">
+              <comp position="1" type="headword" sloleks="LE_d703cd7ccb182e52404c0f091b78d6d3">občečloveška</comp>
+              <comp position="2" type="collocate" sloleks="LE_4edc5c7069eb1ef7bd3436cfbffaee8a">kultura</comp>
+            </collocation>
+            <collocation form="občečloveška lastnost" cluster="1" frequency="8" logDice="1.88">
+              <comp position="1" type="headword" sloleks="LE_d703cd7ccb182e52404c0f091b78d6d3">občečloveška</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9e19f48ce23fa03bd6cf2669b73a296">lastnost</comp>
+            </collocation>
+            <collocation form="občečloveška etika" cluster="2" frequency="13" logDice="5.64">
+              <comp position="1" type="headword" sloleks="LE_d703cd7ccb182e52404c0f091b78d6d3">občečloveška</comp>
+              <comp position="2" type="collocate" sloleks="LE_c8dea475751848229da4a31bab1f8e97">etika</comp>
+            </collocation>
+            <collocation form="občečloveško vprašanje" cluster="3" frequency="11" logDice="0.66">
+              <comp position="1" type="headword" sloleks="LE_d703cd7ccb182e52404c0f091b78d6d3">občečloveško</comp>
+              <comp position="2" type="collocate" sloleks="LE_18ddad642f4f2459ae6eda5f8fcda990">vprašanje</comp>
+            </collocation>
+            <collocation form="občečloveško sporočilo" cluster="3" frequency="6" logDice="1.86">
+              <comp position="1" type="headword" sloleks="LE_d703cd7ccb182e52404c0f091b78d6d3">občečloveško</comp>
+              <comp position="2" type="collocate" sloleks="LE_be60708f2de6d5c0e0d91901cc38082b">sporočilo</comp>
+            </collocation>
+            <collocation form="občečloveška norma" cluster="4" frequency="8" logDice="3.7">
+              <comp position="1" type="headword" sloleks="LE_d703cd7ccb182e52404c0f091b78d6d3">občečloveška</comp>
+              <comp position="2" type="collocate" sloleks="LE_14bf0626947335de2a9c88ca831dc044">norma</comp>
+            </collocation>
+            <collocation form="občečloveška tema" cluster="5" frequency="18" logDice="2.76">
+              <comp position="1" type="headword" sloleks="LE_d703cd7ccb182e52404c0f091b78d6d3">občečloveška</comp>
+              <comp position="2" type="collocate" sloleks="LE_2fc28e0a57fc33a1646e43e1a6f376a0">tema</comp>
+            </collocation>
+            <collocation form="občečloveško pravilo" cluster="6" frequency="11" logDice="2.49">
+              <comp position="1" type="headword" sloleks="LE_d703cd7ccb182e52404c0f091b78d6d3">občečloveško</comp>
+              <comp position="2" type="collocate" sloleks="LE_51ba7008d358dced3f5e2276d31828bd">pravilo</comp>
+            </collocation>
+            <collocation form="občečloveško načelo" cluster="6" frequency="6" logDice="2.41">
+              <comp position="1" type="headword" sloleks="LE_d703cd7ccb182e52404c0f091b78d6d3">občečloveško</comp>
+              <comp position="2" type="collocate" sloleks="LE_5a443f15d8b4838fe872b4d2b544f4ce">načelo</comp>
+            </collocation>
+            <collocation form="občečloveški problem" cluster="7" frequency="13" logDice="1.69">
+              <comp position="1" type="headword" sloleks="LE_d703cd7ccb182e52404c0f091b78d6d3">občečloveški</comp>
+              <comp position="2" type="collocate" sloleks="LE_978368a01311c2094cfb52416d9882f9">problem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="občečloveški in/ali krščanski" cluster="1" frequency="6" logDice="6.95">
+              <comp position="3" type="headword" sloleks="LE_d703cd7ccb182e52404c0f091b78d6d3">občečloveški</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_ab123b765dfb28dda246c2315a9dca62">krščanski</comp>
+              </collocation>
+            <collocation form="občečloveški in/ali slovenski" cluster="2" frequency="5" logDice="2.43">
+              <comp position="3" type="headword" sloleks="LE_d703cd7ccb182e52404c0f091b78d6d3">občečloveški</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_de75b2f2edf5733ebcb1fb3a6e49b565">slovenski</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

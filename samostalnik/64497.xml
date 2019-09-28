@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="64497">komornik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">714</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="dvoren komornik" cluster="1" frequency="10" logDice="5.86">
+              <comp position="1" type="collocate" sloleks="LE_0cb872cd0a7b351ad6c5e368cdfd5d7f">dvoren</comp>
+              <comp position="2" type="headword" sloleks="LE_9854ada08e779857cf16609044dbea60">komornik</comp>
+            </collocation>
+            <collocation form="papežev komornik" cluster="2" frequency="9" logDice="5.31">
+              <comp position="1" type="collocate" sloleks="LE_24849214c9662cb1c81760aaa1ff503a">papežev</comp>
+              <comp position="2" type="headword" sloleks="LE_9854ada08e779857cf16609044dbea60">komornik</comp>
+            </collocation>
+            <collocation form="skriven komornik" cluster="3" frequency="8" logDice="4.14">
+              <comp position="1" type="collocate" sloleks="LE_08be8a67f791a542a38dc88a7c81d4fb">skriven</comp>
+              <comp position="2" type="headword" sloleks="LE_9854ada08e779857cf16609044dbea60">komornik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Dimitrij komornika" cluster="1" frequency="14" logDice="7.32">
+              <comp position="1" type="collocate" sloleks="LE_44fec1fa6aff595d8d5cbba174324e66">Dimitrij</comp>
+              <comp position="2" type="headword" sloleks="LE_9854ada08e779857cf16609044dbea60">komornika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

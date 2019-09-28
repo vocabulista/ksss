@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="4242">opleniti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">468</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="opleniti Rim" cluster="1" frequency="6" logDice="9.17">
+              <comp position="1" type="headword" sloleks="LE_e2ea9f3d870f6bbe3dbada9dcb5b4283">opleniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_51147b54ccea1212067eb4913c41a8c0">Rim</comp>
+            </collocation>
+            <collocation form="opleniti samostan" cluster="2" frequency="4" logDice="6.3">
+              <comp position="1" type="headword" sloleks="LE_e2ea9f3d870f6bbe3dbada9dcb5b4283">opleniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_68659746be8572a232576462b708851e">samostan</comp>
+            </collocation>
+            <collocation form="opleniti grad" cluster="3" frequency="4" logDice="4.91">
+              <comp position="1" type="headword" sloleks="LE_e2ea9f3d870f6bbe3dbada9dcb5b4283">opleniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_b32c1e1e605a2353e11ee0a7e2e2e735">grad</comp>
+            </collocation>
+            <collocation form="opleniti mesto" cluster="4" frequency="23" logDice="2.33">
+              <comp position="1" type="headword" sloleks="LE_e2ea9f3d870f6bbe3dbada9dcb5b4283">opleniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesto</comp>
+            </collocation>
+            <collocation form="opleniti podjetje" cluster="5" frequency="4" logDice="1.89">
+              <comp position="1" type="headword" sloleks="LE_e2ea9f3d870f6bbe3dbada9dcb5b4283">opleniti</comp>
+              <comp position="2" type="collocate" sloleks="LE_1aed870e4b1c077c155d34b01ab0af57">podjetje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="dodobra opleniti" cluster="1" frequency="6" logDice="3.26">
+              <comp position="1" type="collocate" sloleks="LE_3c8bd34eaaa54cedf37e03f66d875dd3">dodobra</comp>
+              <comp position="2" type="headword" sloleks="LE_e2ea9f3d870f6bbe3dbada9dcb5b4283">opleniti</comp>
+            </collocation>
+            <collocation form="temeljito opleniti" cluster="2" frequency="5" logDice="2.47">
+              <comp position="1" type="collocate" sloleks="LE_0d1f2dd81c16048b551ab702b238e730">temeljito</comp>
+              <comp position="2" type="headword" sloleks="LE_e2ea9f3d870f6bbe3dbada9dcb5b4283">opleniti</comp>
+            </collocation>
+            <collocation form="popolnoma opleniti" cluster="3" frequency="5" logDice="1.36">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_e2ea9f3d870f6bbe3dbada9dcb5b4283">opleniti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

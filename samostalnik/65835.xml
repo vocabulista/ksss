@@ -1,0 +1,85 @@
+<entry>
+  <header>
+    <lexical_unit id="65835">križnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">936</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="križnica za krmo" cluster="1" frequency="4" logDice="7.02">
+              <comp position="1" type="headword" sloleks="LE_a57bd3d7cc2c69bceeb835c1461797ce">križnica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b291592b892d5108296d33726c3140fd">krmo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="krmna križnica" cluster="1" frequency="9" logDice="5.4">
+              <comp position="1" type="collocate" sloleks="LE_5e3f5ea73636d0e186a4939ca187e969">krmna</comp>
+              <comp position="2" type="headword" sloleks="LE_a57bd3d7cc2c69bceeb835c1461797ce">križnica</comp>
+            </collocation>
+            <collocation form="ostala križnica" cluster="2" frequency="14" logDice="1.75">
+              <comp position="1" type="collocate" sloleks="LE_a35d925fc34619135ca715f633027fd4">ostala</comp>
+              <comp position="2" type="headword" sloleks="LE_a57bd3d7cc2c69bceeb835c1461797ce">križnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="družina križnice" cluster="1" frequency="178" logDice="7.86">
+              <comp position="1" type="collocate" sloleks="LE_9a7d912c8ec5a6cbc42d2975b5563b34">družina</comp>
+              <comp position="2" type="headword" sloleks="LE_a57bd3d7cc2c69bceeb835c1461797ce">križnice</comp>
+            </collocation>
+            <collocation form="krmljenje križnice" cluster="2" frequency="5" logDice="6.59">
+              <comp position="1" type="collocate" sloleks="LE_de5f2a39b30daaa51180fbf5c79ca6f8">krmljenje</comp>
+              <comp position="2" type="headword" sloleks="LE_a57bd3d7cc2c69bceeb835c1461797ce">križnice</comp>
+            </collocation>
+            <collocation form="setev križnice" cluster="3" frequency="5" logDice="6.02">
+              <comp position="1" type="collocate" sloleks="LE_51a8a554c5f317fee04aa9681b82c9cc">setev</comp>
+              <comp position="2" type="headword" sloleks="LE_a57bd3d7cc2c69bceeb835c1461797ce">križnice</comp>
+            </collocation>
+            <collocation form="rod križnice" cluster="4" frequency="10" logDice="5.01">
+              <comp position="1" type="collocate" sloleks="LE_0209fb9e7b7e33421f5518f6401df8cf">rod</comp>
+              <comp position="2" type="headword" sloleks="LE_a57bd3d7cc2c69bceeb835c1461797ce">križnice</comp>
+            </collocation>
+            <collocation form="zlom križnice" cluster="5" frequency="6" logDice="4.38">
+              <comp position="1" type="collocate" sloleks="LE_3bf8a3ddb9afce37d6f1cd7306fb6ebc">zlom</comp>
+              <comp position="2" type="headword" sloleks="LE_a57bd3d7cc2c69bceeb835c1461797ce">križnice</comp>
+            </collocation>
+            <collocation form="predel križnice" cluster="6" frequency="5" logDice="3.12">
+              <comp position="1" type="collocate" sloleks="LE_df08c52b2fb80ff0bf36fdd23050776e">predel</comp>
+              <comp position="2" type="headword" sloleks="LE_a57bd3d7cc2c69bceeb835c1461797ce">križnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 med SBZ6">
+          <collocations>
+            <collocation form="sklep med križnico" cluster="1" frequency="9" logDice="11.56">
+              <comp position="1" type="collocate" sloleks="LE_deb91e24f82bff5cd331c1eaac56c861">sklep</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_a57bd3d7cc2c69bceeb835c1461797ce">križnico</comp>
+            </collocation>
+            <collocation form="povezava med križnico" cluster="2" frequency="5" logDice="3.25">
+              <comp position="1" type="collocate" sloleks="LE_585f5dc11b4e301ea7b13c392b5a0d47">povezava</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_a57bd3d7cc2c69bceeb835c1461797ce">križnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ5">
+          <collocations>
+            <collocation form="oligofag na križnici" cluster="1" frequency="11" logDice="11.64">
+              <comp position="1" type="collocate" sloleks="">oligofag</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a57bd3d7cc2c69bceeb835c1461797ce">križnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="53142">devetdesetletnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">416</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="devetdesetletnica rojstva" cluster="1" frequency="24" logDice="5.14">
+              <comp position="1" type="headword" sloleks="LE_271ad6326710c5212694257d5449c2f9">devetdesetletnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_b40f66076c42c60626a11e232a9ff9f4">rojstva</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz ob SBZ5">
+          <collocations>
+            <collocation form="iziti ob devetdesetletnici" cluster="1" frequency="6" logDice="7.77">
+              <comp position="1" type="collocate" sloleks="LE_6a7e6ac1b0a0ebe12f202d21927c4ef1">iziti</comp>
+              <comp position="2" type="other" sloleks="LE_0d51e0433cde1d7d6610f469ec11e938">ob</comp>
+              <comp position="3" type="headword" sloleks="LE_271ad6326710c5212694257d5449c2f9">devetdesetletnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="čila devetdesetletnica" cluster="1" frequency="9" logDice="6.96">
+              <comp position="1" type="collocate" sloleks="LE_dc0247c3910096a83692fb3f9c020a39">čila</comp>
+              <comp position="2" type="headword" sloleks="LE_271ad6326710c5212694257d5449c2f9">devetdesetletnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 ob SBZ5">
+          <collocations>
+            <collocation form="razstava ob devetdesetletnici" cluster="1" frequency="4" logDice="6.89">
+              <comp position="1" type="collocate" sloleks="LE_5360488843496d51e5802aa5c14a1d93">razstava</comp>
+              <comp position="2" type="other" sloleks="LE_0d51e0433cde1d7d6610f469ec11e938">ob</comp>
+              <comp position="3" type="headword" sloleks="LE_271ad6326710c5212694257d5449c2f9">devetdesetletnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

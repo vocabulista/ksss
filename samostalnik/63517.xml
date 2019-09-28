@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="63517">kilokalorija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">788</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="kilokalorija na kilogram" cluster="1" frequency="7" logDice="6.72">
+              <comp position="1" type="headword" sloleks="LE_19a43963c4c58056b9cc6c1cfa9218f4">kilokalorija</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_758190145382857bd4e278cfd092045b">kilogram</comp>
+            </collocation>
+            <collocation form="kilokalorija na minuto" cluster="2" frequency="6" logDice="4.82">
+              <comp position="1" type="headword" sloleks="LE_19a43963c4c58056b9cc6c1cfa9218f4">kilokalorija</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_4dbac25ecbcde2d4ad6049424d74db15">minuto</comp>
+            </collocation>
+            <collocation form="kilokalorija na dan" cluster="3" frequency="35" logDice="4.08">
+              <comp position="1" type="headword" sloleks="LE_19a43963c4c58056b9cc6c1cfa9218f4">kilokalorija</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_687a3a5f213dba3724e626216f1b09da">dan</comp>
+            </collocation>
+            <collocation form="kilokalorija na uro" cluster="4" frequency="7" logDice="3.1">
+              <comp position="1" type="headword" sloleks="LE_19a43963c4c58056b9cc6c1cfa9218f4">kilokalorija</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_77e6b5a072871d299d405565eaad4389">uro</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="meriti v kilokaloriji" cluster="1" frequency="7" logDice="5.41">
+              <comp position="1" type="collocate" sloleks="LE_19fca02bd56a89e835ba1fb5c4e061ce">meriti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_19a43963c4c58056b9cc6c1cfa9218f4">kilokaloriji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="kcal kilokalorije" cluster="1" frequency="6" logDice="10.82">
+              <comp position="1" type="collocate" sloleks="LE_f1ff3e395abc26855802569c2cff73bb">kcal</comp>
+              <comp position="2" type="headword" sloleks="LE_19a43963c4c58056b9cc6c1cfa9218f4">kilokalorije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

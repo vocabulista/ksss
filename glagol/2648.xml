@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="2648">nadirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">427</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="nadirati stranko" cluster="1" frequency="5" logDice="3.5">
+              <comp position="1" type="headword" sloleks="LE_3a3df500477c746d852a1dc362189c46">nadirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_945a204a300f28702820c4bc0481d2e7">stranko</comp>
+            </collocation>
+            <collocation form="nadirati človeka" cluster="2" frequency="10" logDice="2.35">
+              <comp position="1" type="headword" sloleks="LE_3a3df500477c746d852a1dc362189c46">nadirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človeka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="besno nadirati" cluster="1" frequency="4" logDice="5.67">
+              <comp position="1" type="collocate" sloleks="LE_eccc5c4775e017ef7c31b6fd9c405b89">besno</comp>
+              <comp position="2" type="headword" sloleks="LE_3a3df500477c746d852a1dc362189c46">nadirati</comp>
+            </collocation>
+            <collocation form="naprej nadirati" cluster="2" frequency="4" logDice="0.17">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_3a3df500477c746d852a1dc362189c46">nadirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

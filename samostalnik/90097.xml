@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="90097">soliranje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">601</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="soliranje ministra" cluster="1" frequency="8" logDice="2.01">
+              <comp position="1" type="headword" sloleks="LE_f004d9fd11bde73017129a2d322ae40c">soliranje</comp>
+              <comp position="2" type="collocate" sloleks="LE_14d03bd4c4af80feb9e303c813fc6d24">ministra</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za soliranje" cluster="1" frequency="5" logDice="-1.28">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_f004d9fd11bde73017129a2d322ae40c">soliranje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="kitarsko soliranje" cluster="1" frequency="8" logDice="5.8">
+              <comp position="1" type="collocate" sloleks="LE_70c58ec5a36f923228d2c0304fee0950">kitarsko</comp>
+              <comp position="2" type="headword" sloleks="LE_f004d9fd11bde73017129a2d322ae40c">soliranje</comp>
+            </collocation>
+            <collocation form="Pahorjevo soliranje" cluster="2" frequency="8" logDice="4.4">
+              <comp position="1" type="collocate" sloleks="LE_9e2e6d90a62ffc301636e6375ac77dde">Pahorjevo</comp>
+              <comp position="2" type="headword" sloleks="LE_f004d9fd11bde73017129a2d322ae40c">soliranje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="očitek o soliranju" cluster="1" frequency="5" logDice="4.7">
+              <comp position="1" type="collocate" sloleks="LE_73a297a00cf99013b6a034b27ec651af">očitek</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_f004d9fd11bde73017129a2d322ae40c">soliranju</comp>
+            </collocation>
+            <collocation form="zgodba o soliranju" cluster="2" frequency="4" logDice="1.17">
+              <comp position="1" type="collocate" sloleks="LE_9d9531a39496cd12f07e32ab50c0280f">zgodba</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_f004d9fd11bde73017129a2d322ae40c">soliranju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="prostor za soliranje" cluster="1" frequency="5" logDice="1.52">
+              <comp position="1" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostor</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_f004d9fd11bde73017129a2d322ae40c">soliranje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

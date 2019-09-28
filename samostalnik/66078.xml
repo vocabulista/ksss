@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="66078">krznar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">574</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Krznar iz Mežice" cluster="1" frequency="4" logDice="8.13">
+              <comp position="1" type="headword" sloleks="LE_8a819e9eeee8d7cfe832f688b017f4ef">Krznar</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_db59c0f6eccbc4dcda4f6b6e8234a6d6">Mežice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="ljubljanski krznar" cluster="1" frequency="14" logDice="0.57">
+              <comp position="1" type="collocate" sloleks="LE_2017c528556d77ae4597e9aa4b76d24b">ljubljanski</comp>
+              <comp position="2" type="headword" sloleks="LE_8a819e9eeee8d7cfe832f688b017f4ef">krznar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="19154">homofoben</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">449</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="homofobno nasilje" cluster="1" frequency="49" logDice="5.88">
+              <comp position="1" type="headword" sloleks="LE_15a25eb70b0c9e275243563906f63064">homofobno</comp>
+              <comp position="2" type="collocate" sloleks="LE_27b212dc14ebed78971b6a76ad7a5f41">nasilje</comp>
+            </collocation>
+            <collocation form="homofoben izpad" cluster="2" frequency="15" logDice="5.74">
+              <comp position="1" type="headword" sloleks="LE_15a25eb70b0c9e275243563906f63064">homofoben</comp>
+              <comp position="2" type="collocate" sloleks="LE_1e39a1c7ea84e4ff43115713a72fa19a">izpad</comp>
+            </collocation>
+            <collocation form="homofoben napad" cluster="3" frequency="68" logDice="4.58">
+              <comp position="1" type="headword" sloleks="LE_15a25eb70b0c9e275243563906f63064">homofoben</comp>
+              <comp position="2" type="collocate" sloleks="LE_90137343c36c722d5cef55cc198d0e93">napad</comp>
+            </collocation>
+            <collocation form="homofobna izjava" cluster="4" frequency="22" logDice="3.48">
+              <comp position="1" type="headword" sloleks="LE_15a25eb70b0c9e275243563906f63064">homofobna</comp>
+              <comp position="2" type="collocate" sloleks="LE_43a60c321a9a7889eb71aacc9ccb368f">izjava</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="homofoben in/ali rasističen" cluster="1" frequency="11" logDice="9.42">
+              <comp position="3" type="headword" sloleks="LE_15a25eb70b0c9e275243563906f63064">homofoben</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_cc9ba918411cc06eef477413d4c3c941">rasističen</comp>
+              </collocation>
+            <collocation form="homofoben in/ali nestrpen" cluster="2" frequency="5" logDice="7.34">
+              <comp position="3" type="headword" sloleks="LE_15a25eb70b0c9e275243563906f63064">homofoben</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_00fe5c5543e4ec04baa67bab82f9dde0">nestrpen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

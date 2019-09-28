@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="96528">vlažilec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">467</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="vlažilec zraka" cluster="1" frequency="220" logDice="7.91">
+              <comp position="1" type="headword" sloleks="LE_9ab951e9bfa0c3c5a7cbe7aa635896fe">vlažilec</comp>
+              <comp position="2" type="collocate" sloleks="LE_d3b9b2b5ce24a4cb7da4e0e9da2b1348">zraka</comp>
+            </collocation>
+            <collocation form="vlažilec kože" cluster="2" frequency="22" logDice="4.42">
+              <comp position="1" type="headword" sloleks="LE_9ab951e9bfa0c3c5a7cbe7aa635896fe">vlažilec</comp>
+              <comp position="2" type="collocate" sloleks="LE_1204dd81b00363a398d5f5a84ff9f358">kože</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="ultrazvočen vlažilec" cluster="1" frequency="35" logDice="8.28">
+              <comp position="1" type="collocate" sloleks="LE_655d42ed99e06c95bd9ed93bd2e15f88">ultrazvočen</comp>
+              <comp position="2" type="headword" sloleks="LE_9ab951e9bfa0c3c5a7cbe7aa635896fe">vlažilec</comp>
+            </collocation>
+            <collocation form="Avtomatski vlažilec" cluster="2" frequency="8" logDice="4.04">
+              <comp position="1" type="collocate" sloleks="LE_0b960bdf080d0a4c6c9bffba859a579a">Avtomatski</comp>
+              <comp position="2" type="headword" sloleks="LE_9ab951e9bfa0c3c5a7cbe7aa635896fe">vlažilec</comp>
+            </collocation>
+            <collocation form="naraven vlažilec" cluster="3" frequency="32" logDice="2.61">
+              <comp position="1" type="collocate" sloleks="LE_b80182b9e66e69f83903a4af39604a97">naraven</comp>
+              <comp position="2" type="headword" sloleks="LE_9ab951e9bfa0c3c5a7cbe7aa635896fe">vlažilec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,67 @@
+<entry>
+  <header>
+    <lexical_unit id="21480">kompromitiran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">452</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="kompromitiran politik" cluster="1" frequency="9" logDice="2.14">
+              <comp position="1" type="headword" sloleks="LE_9ed0ad00f9071dd8854443b5df7bb30f">kompromitiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_43bf7ab82ddd60104b42f5df3f200f85">politik</comp>
+            </collocation>
+            <collocation form="kompromitiran človek" cluster="2" frequency="15" logDice="0.63">
+              <comp position="1" type="headword" sloleks="LE_9ed0ad00f9071dd8854443b5df7bb30f">kompromitiran</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 z sbz6">
+          <collocations>
+            <collocation form="kompromitiran s FAŠIZMOM" cluster="1" frequency="5" logDice="11.23">
+              <comp position="1" type="headword" sloleks="LE_9ed0ad00f9071dd8854443b5df7bb30f">kompromitiran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_93dbdaada51df16e34660a59f9446831">FAŠIZMOM</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 zaradi sbz2">
+          <collocations>
+            <collocation form="kompromitiran zaradi sodelovanja" cluster="1" frequency="5" logDice="9.29">
+              <comp position="1" type="headword" sloleks="LE_9ed0ad00f9071dd8854443b5df7bb30f">kompromitiran</comp>
+              <comp position="2" type="other" sloleks="LE_e2128c24e3c3872c9e5c2981f71b461f">zaradi</comp>
+              <comp position="3" type="collocate" sloleks="LE_5d0ed32540572fbd41d712e9a23fadb1">sodelovanja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="imunsko kompromitiran" cluster="1" frequency="6" logDice="9.11">
+              <comp position="1" type="collocate" sloleks="LE_a85ca6f4f5098df96b24af3098d5fe4b">imunsko</comp>
+              <comp position="2" type="headword" sloleks="LE_9ed0ad00f9071dd8854443b5df7bb30f">kompromitiran</comp>
+            </collocation>
+            <collocation form="politično kompromitiran" cluster="2" frequency="5" logDice="3.19">
+              <comp position="1" type="collocate" sloleks="LE_9ed772e9e43890262413b22e2ea14bbc">politično</comp>
+              <comp position="2" type="headword" sloleks="LE_9ed0ad00f9071dd8854443b5df7bb30f">kompromitiran</comp>
+            </collocation>
+            <collocation form="močno kompromitiran" cluster="3" frequency="10" logDice="2.69">
+              <comp position="1" type="collocate" sloleks="LE_b061af875766d8e1437febe5ccafe554">močno</comp>
+              <comp position="2" type="headword" sloleks="LE_9ed0ad00f9071dd8854443b5df7bb30f">kompromitiran</comp>
+            </collocation>
+            <collocation form="hudo kompromitiran" cluster="3" frequency="5" logDice="2.36">
+              <comp position="1" type="collocate" sloleks="LE_feb425a4578d9be162c4327513777270">hudo</comp>
+              <comp position="2" type="headword" sloleks="LE_9ed0ad00f9071dd8854443b5df7bb30f">kompromitiran</comp>
+            </collocation>
+            <collocation form="preveč kompromitiran" cluster="4" frequency="7" logDice="1.09">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_9ed0ad00f9071dd8854443b5df7bb30f">kompromitiran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

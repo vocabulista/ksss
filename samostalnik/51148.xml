@@ -1,0 +1,57 @@
+<entry>
+  <header>
+    <lexical_unit id="51148">cederom</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">524</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="cederom za otroka" cluster="1" frequency="4" logDice="1.16">
+              <comp position="1" type="headword" sloleks="LE_d4d41d966e122adaf2e0f637deb9816d">cederom</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otroka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="interaktiven cederom" cluster="1" frequency="10" logDice="5.6">
+              <comp position="1" type="collocate" sloleks="LE_add234e1f6b90c34ef5d6eea79da73d7">interaktiven</comp>
+              <comp position="2" type="headword" sloleks="LE_d4d41d966e122adaf2e0f637deb9816d">cederom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="izdaja cederoma" cluster="1" frequency="6" logDice="1.69">
+              <comp position="1" type="collocate" sloleks="LE_7683011bbc418354ce3ad92abaaaca94">izdaja</comp>
+              <comp position="2" type="headword" sloleks="LE_d4d41d966e122adaf2e0f637deb9816d">cederoma</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ5">
+          <collocations>
+            <collocation form="slovar na cederomu" cluster="1" frequency="4" logDice="9.63">
+              <comp position="1" type="collocate" sloleks="LE_20c56bdc358bedbb152e7382ec2ed943">slovar</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_d4d41d966e122adaf2e0f637deb9816d">cederomu</comp>
+            </collocation>
+            <collocation form="imenik na cederomu" cluster="2" frequency="5" logDice="8.94">
+              <comp position="1" type="collocate" sloleks="LE_0eea3b6150a8a9510a18561eb52c0253">imenik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_d4d41d966e122adaf2e0f637deb9816d">cederomu</comp>
+            </collocation>
+            <collocation form="jezik na cederomu" cluster="3" frequency="4" logDice="5.43">
+              <comp position="1" type="collocate" sloleks="LE_84e841a4b1d5e4b816efe7f126e1f693">jezik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_d4d41d966e122adaf2e0f637deb9816d">cederomu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

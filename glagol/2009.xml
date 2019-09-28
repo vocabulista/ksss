@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="2009">kartati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">585</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="kartati s prijateljem" cluster="1" frequency="8" logDice="3.91">
+              <comp position="1" type="headword" sloleks="LE_d8ed1c751195a00af3377612855d7465">kartati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_04d85f43e6fdbc81d853e26c5158132f">prijateljem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ za sbz4">
+          <collocations>
+            <collocation form="kartati za denar" cluster="1" frequency="14" logDice="5.01">
+              <comp position="1" type="headword" sloleks="LE_d8ed1c751195a00af3377612855d7465">kartati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="zvečer kartati" cluster="1" frequency="9" logDice="2.57">
+              <comp position="1" type="collocate" sloleks="LE_1dbae9bbcb5d25d2e943d3353aa1c6e9">zvečer</comp>
+              <comp position="2" type="headword" sloleks="LE_d8ed1c751195a00af3377612855d7465">kartati</comp>
+            </collocation>
+            <collocation form="doma kartati" cluster="2" frequency="4" logDice="1.26">
+              <comp position="1" type="collocate" sloleks="LE_e763d76187601d485fd9a1af70a03a8c">doma</comp>
+              <comp position="2" type="headword" sloleks="LE_d8ed1c751195a00af3377612855d7465">kartati</comp>
+            </collocation>
+            <collocation form="rad kartati" cluster="3" frequency="18" logDice="0.96">
+              <comp position="1" type="collocate" sloleks="LE_0a2bb08c60a0cb7fd95c85fd75f2bfca">rad</comp>
+              <comp position="2" type="headword" sloleks="LE_d8ed1c751195a00af3377612855d7465">kartati</comp>
+            </collocation>
+            <collocation form="skupaj kartati" cluster="3" frequency="8" logDice="0.66">
+              <comp position="1" type="collocate" sloleks="LE_6b2c35f4f994f6854f5f57d777267a77">skupaj</comp>
+              <comp position="2" type="headword" sloleks="LE_d8ed1c751195a00af3377612855d7465">kartati</comp>
+            </collocation>
+            <collocation form="veliko kartati" cluster="4" frequency="7" logDice="0.38">
+              <comp position="1" type="collocate" sloleks="LE_431ef7ec57af288ca0e781bb12f6e7f0">veliko</comp>
+              <comp position="2" type="headword" sloleks="LE_d8ed1c751195a00af3377612855d7465">kartati</comp>
+            </collocation>
+            <collocation form="malo kartati" cluster="4" frequency="5" logDice="0.31">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_d8ed1c751195a00af3377612855d7465">kartati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,66 @@
+<entry>
+  <header>
+    <lexical_unit id="85522">razvajenost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">587</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="razvajenost otroka" cluster="1" frequency="18" logDice="2.13">
+              <comp position="1" type="headword" sloleks="LE_652347f0ebcf2c6e129eec1d520cd94f">razvajenost</comp>
+              <comp position="2" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otroka</comp>
+            </collocation>
+            <collocation form="posledica razvajenosti" cluster="2" frequency="9" logDice="1.12">
+              <comp position="1" type="collocate" sloleks="LE_9e94e198ec2c32de37b2bd7b6e54af2e">posledica</comp>
+              <comp position="2" type="headword" sloleks="LE_652347f0ebcf2c6e129eec1d520cd94f">razvajenosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz o SBZ5">
+          <collocations>
+            <collocation form="govoriti o razvajenosti" cluster="1" frequency="6" logDice="0.43">
+              <comp position="1" type="collocate" sloleks="LE_1da4dedf23c5041ae767d038d2430123">govoriti</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_652347f0ebcf2c6e129eec1d520cd94f">razvajenosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za razvajenost" cluster="1" frequency="9" logDice="-0.43">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_652347f0ebcf2c6e129eec1d520cd94f">razvajenost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz zaradi SBZ2">
+          <collocations>
+            <collocation form="privoščiti zaradi razvajenosti" cluster="1" frequency="4" logDice="9.56">
+              <comp position="1" type="collocate" sloleks="LE_3091b8c96961809fcc43c85be80c94b0">privoščiti</comp>
+              <comp position="2" type="other" sloleks="LE_e2128c24e3c3872c9e5c2981f71b461f">zaradi</comp>
+              <comp position="3" type="headword" sloleks="LE_652347f0ebcf2c6e129eec1d520cd94f">razvajenosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="predavanje o razvajenosti" cluster="1" frequency="4" logDice="4.04">
+              <comp position="1" type="collocate" sloleks="LE_ad184839a83413733999cf134c1bd522">predavanje</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_652347f0ebcf2c6e129eec1d520cd94f">razvajenosti</comp>
+            </collocation>
+            <collocation form="knjiga o razvajenosti" cluster="2" frequency="4" logDice="2.92">
+              <comp position="1" type="collocate" sloleks="LE_fcbd23f52ef0d5c8f302f9c1ba64a0e3">knjiga</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_652347f0ebcf2c6e129eec1d520cd94f">razvajenosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

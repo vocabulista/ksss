@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="4586">paliti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">602</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="paliti na tip" cluster="1" frequency="6" logDice="8.76">
+              <comp position="1" type="headword" sloleks="LE_05f32a9bad7cced056d441574713c60f">paliti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_8caa7f32790a1c710809c10a30d8579f">tip</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="paliti v jeziku" cluster="1" frequency="5" logDice="3.4">
+              <comp position="1" type="headword" sloleks="LE_05f32a9bad7cced056d441574713c60f">paliti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_84e841a4b1d5e4b816efe7f126e1f693">jeziku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="najbolj paliti" cluster="1" frequency="9" logDice="0.8">
+              <comp position="1" type="collocate" sloleks="LE_72b2a3522865b723e8c26b8ade696fca">najbolj</comp>
+              <comp position="2" type="headword" sloleks="LE_05f32a9bad7cced056d441574713c60f">paliti</comp>
+            </collocation>
+            <collocation form="vedno paliti" cluster="2" frequency="20" logDice="0.53">
+              <comp position="1" type="collocate" sloleks="LE_eaabd5718a27f818fd47358031426355">vedno</comp>
+              <comp position="2" type="headword" sloleks="LE_05f32a9bad7cced056d441574713c60f">paliti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

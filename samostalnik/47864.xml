@@ -1,0 +1,67 @@
+<entry>
+  <header>
+    <lexical_unit id="47864">armija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">564</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="jugoslovanska armija" cluster="1" frequency="55" logDice="4.77">
+              <comp position="1" type="collocate" sloleks="LE_aefc34b00d29db79f67ba6076c174067">jugoslovanska</comp>
+              <comp position="2" type="headword" sloleks="LE_a7d4a2008509e594497c9d7c5822f07c">armija</comp>
+            </collocation>
+            <collocation form="narodna armija" cluster="2" frequency="91" logDice="4.7">
+              <comp position="1" type="collocate" sloleks="LE_5aeb18f32525d080a73c8c3fa62276cd">narodna</comp>
+              <comp position="2" type="headword" sloleks="LE_a7d4a2008509e594497c9d7c5822f07c">armija</comp>
+            </collocation>
+            <collocation form="slavna armija" cluster="3" frequency="8" logDice="2.34">
+              <comp position="1" type="collocate" sloleks="LE_412f741689616fdbd844edf33c686a25">slavna</comp>
+              <comp position="2" type="headword" sloleks="LE_a7d4a2008509e594497c9d7c5822f07c">armija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="jugo armije" cluster="1" frequency="9" logDice="8.6">
+              <comp position="1" type="collocate" sloleks="LE_f05bc77d80186db722500d927c843d6d">jugo</comp>
+              <comp position="2" type="headword" sloleks="LE_a7d4a2008509e594497c9d7c5822f07c">armije</comp>
+            </collocation>
+            <collocation form="general armije" cluster="2" frequency="7" logDice="4.54">
+              <comp position="1" type="collocate" sloleks="LE_1e0a8f96dcb73c29bdb1a3aaa227529c">general</comp>
+              <comp position="2" type="headword" sloleks="LE_a7d4a2008509e594497c9d7c5822f07c">armije</comp>
+            </collocation>
+            <collocation form="ulica armije" cluster="3" frequency="9" logDice="3.15">
+              <comp position="1" type="collocate" sloleks="LE_554c79ab5e7baf29f70e8135a860c0e8">ulica</comp>
+              <comp position="2" type="headword" sloleks="LE_a7d4a2008509e594497c9d7c5822f07c">armije</comp>
+            </collocation>
+            <collocation form="dom armije" cluster="3" frequency="9" logDice="2.7">
+              <comp position="1" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">dom</comp>
+              <comp position="2" type="headword" sloleks="LE_a7d4a2008509e594497c9d7c5822f07c">armije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="vrnitev iz armije" cluster="1" frequency="4" logDice="5.08">
+              <comp position="1" type="collocate" sloleks="LE_bf0aece34dfc281e22753a6db1dfdafd">vrnitev</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_a7d4a2008509e594497c9d7c5822f07c">armije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="plen za armijo" cluster="1" frequency="4" logDice="9.14">
+              <comp position="1" type="collocate" sloleks="LE_a564bc51855fbd54e9443475950c7233">plen</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_a7d4a2008509e594497c9d7c5822f07c">armijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

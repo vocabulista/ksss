@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="72848">nestanovitnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">488</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="nestanovitnost tečaja" cluster="1" frequency="10" logDice="3.78">
+              <comp position="1" type="headword" sloleks="LE_5c032ea5fa939419e8fd8f86b4c86378">nestanovitnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_5d02c8a026f40c53ca6b5616101080cf">tečaja</comp>
+            </collocation>
+            <collocation form="nestanovitnost trga" cluster="2" frequency="14" logDice="2.91">
+              <comp position="1" type="headword" sloleks="LE_5c032ea5fa939419e8fd8f86b4c86378">nestanovitnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_b735dfd291d0abd31eeabd75c4133487">trga</comp>
+            </collocation>
+            <collocation form="nestanovitnost cene" cluster="2" frequency="13" logDice="2.28">
+              <comp position="1" type="headword" sloleks="LE_5c032ea5fa939419e8fd8f86b4c86378">nestanovitnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_69b40aa886598a40e47070a0270e9b28">cene</comp>
+            </collocation>
+            <collocation form="obdobje nestanovitnosti" cluster="3" frequency="7" logDice="1.63">
+              <comp position="1" type="collocate" sloleks="LE_498f5ebac18d9460a9f193249cd7f0bc">obdobje</comp>
+              <comp position="2" type="headword" sloleks="LE_5c032ea5fa939419e8fd8f86b4c86378">nestanovitnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz o SBZ5">
+          <collocations>
+            <collocation form="govoriti o nestanovitnosti" cluster="1" frequency="4" logDice="-0.15">
+              <comp position="1" type="collocate" sloleks="LE_1da4dedf23c5041ae767d038d2430123">govoriti</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_5c032ea5fa939419e8fd8f86b4c86378">nestanovitnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="izkušnja o nestanovitnosti" cluster="1" frequency="4" logDice="7.24">
+              <comp position="1" type="collocate" sloleks="LE_cc1bdf7573b2f228f436611e70021bd9">izkušnja</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_5c032ea5fa939419e8fd8f86b4c86378">nestanovitnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

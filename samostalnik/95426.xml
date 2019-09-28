@@ -1,0 +1,61 @@
+<entry>
+  <header>
+    <lexical_unit id="95426">uzurpacija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">474</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="uzurpacija oblasti" cluster="1" frequency="103" logDice="6.04">
+              <comp position="1" type="headword" sloleks="LE_69e24f6e1dca54d34badd338939d1bd6">uzurpacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_517516784cc4f3948ad94ba945fd370b">oblasti</comp>
+            </collocation>
+            <collocation form="uzurpacija moči" cluster="1" frequency="10" logDice="2.57">
+              <comp position="1" type="headword" sloleks="LE_69e24f6e1dca54d34badd338939d1bd6">uzurpacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_0b71c85c50e39f2c8cb5e91791d67af9">moči</comp>
+            </collocation>
+            <collocation form="uzurpacija prostora" cluster="2" frequency="106" logDice="5.06">
+              <comp position="1" type="headword" sloleks="LE_69e24f6e1dca54d34badd338939d1bd6">uzurpacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostora</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za uzurpacijo" cluster="1" frequency="15" logDice="0.31">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_69e24f6e1dca54d34badd338939d1bd6">uzurpacijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 do SBZ2">
+          <collocations>
+            <collocation form="pravica do uzurpacije" cluster="1" frequency="7" logDice="1.4">
+              <comp position="1" type="collocate" sloleks="LE_8c0e472df622ea735bcaed6544ab6130">pravica</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_69e24f6e1dca54d34badd338939d1bd6">uzurpacije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="kazen za uzurpacijo" cluster="1" frequency="4" logDice="3.52">
+              <comp position="1" type="collocate" sloleks="LE_8fa53f030173ede6213a1a3aa5c8d7a6">kazen</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_69e24f6e1dca54d34badd338939d1bd6">uzurpacijo</comp>
+            </collocation>
+            <collocation form="nadomestilo za uzurpacijo" cluster="2" frequency="4" logDice="3.29">
+              <comp position="1" type="collocate" sloleks="LE_dbff222732164516a9c3b0dc5f05acb3">nadomestilo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_69e24f6e1dca54d34badd338939d1bd6">uzurpacijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

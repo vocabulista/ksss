@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="69904">mlačev</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">534</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="mlačev na način" cluster="1" frequency="10" logDice="2.9">
+              <comp position="1" type="headword" sloleks="LE_b9c1d2ecbd0a6f3f3751a653f5785c99">mlačev</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_78347f5e8e1e11f66d26223c13ba02df">način</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="mlačev rži" cluster="1" frequency="10" logDice="9.64">
+              <comp position="1" type="headword" sloleks="LE_b9c1d2ecbd0a6f3f3751a653f5785c99">mlačev</comp>
+              <comp position="2" type="collocate" sloleks="LE_2c2d09d11591e98b522935d5380a8fd3">rži</comp>
+            </collocation>
+            <collocation form="mlačev žita" cluster="2" frequency="51" logDice="8.25">
+              <comp position="1" type="headword" sloleks="LE_b9c1d2ecbd0a6f3f3751a653f5785c99">mlačev</comp>
+              <comp position="2" type="collocate" sloleks="LE_ea13dbcae001526a9777c0cf784f0b97">žita</comp>
+            </collocation>
+            <collocation form="mlačev pšenice" cluster="3" frequency="17" logDice="6.3">
+              <comp position="1" type="headword" sloleks="LE_b9c1d2ecbd0a6f3f3751a653f5785c99">mlačev</comp>
+              <comp position="2" type="collocate" sloleks="LE_c355b5607febb61decb2c8989e92e5ae">pšenice</comp>
+            </collocation>
+            <collocation form="prikaz mlačve" cluster="4" frequency="35" logDice="5.41">
+              <comp position="1" type="collocate" sloleks="LE_85696e09ddab3801fff8602d0bf167cc">prikaz</comp>
+              <comp position="2" type="headword" sloleks="LE_b9c1d2ecbd0a6f3f3751a653f5785c99">mlačve</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="mlačev z mlatilnico" cluster="1" frequency="28" logDice="12.73">
+              <comp position="1" type="headword" sloleks="LE_b9c1d2ecbd0a6f3f3751a653f5785c99">mlačev</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_6bd36fbe7f3f8e7c9db6fd4ffa845d58">mlatilnico</comp>
+            </collocation>
+            <collocation form="mlačev s cepcem" cluster="2" frequency="20" logDice="11.83">
+              <comp position="1" type="headword" sloleks="LE_b9c1d2ecbd0a6f3f3751a653f5785c99">mlačev</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_419f2b701229ed7aa872f954bfcfe0fd">cepcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz po SBZ5">
+          <collocations>
+            <collocation form="ostati po mlačvi" cluster="1" frequency="4" logDice="4.33">
+              <comp position="1" type="collocate" sloleks="LE_f2645fccc77ca8ba15862278bf3ee661">ostati</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_b9c1d2ecbd0a6f3f3751a653f5785c99">mlačvi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

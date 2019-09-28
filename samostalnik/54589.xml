@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="54589">drvar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1218</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="kositrn drvar" cluster="1" frequency="16" logDice="10.02">
+              <comp position="1" type="collocate" sloleks="LE_aea60593ca21ce193a04a14fa7306ea2">kositrn</comp>
+              <comp position="2" type="headword" sloleks="LE_3084a84f7ef768afde41679e1ef07f54">drvar</comp>
+            </collocation>
+            <collocation form="Titov drvar" cluster="2" frequency="11" logDice="4.71">
+              <comp position="1" type="collocate" sloleks="LE_e10919439678647900f73778f896c035">Titov</comp>
+              <comp position="2" type="headword" sloleks="LE_3084a84f7ef768afde41679e1ef07f54">drvar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="območje Drvarja" cluster="1" frequency="7" logDice="0.55">
+              <comp position="1" type="collocate" sloleks="LE_637bb12e70b217aeada98e77f3559b30">območje</comp>
+              <comp position="2" type="headword" sloleks="LE_3084a84f7ef768afde41679e1ef07f54">Drvarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="Tit v Drvarju" cluster="1" frequency="9" logDice="9.83">
+              <comp position="1" type="collocate" sloleks="LE_0d886be30c7eb4a8a97e4c558dd4feed">Tit</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_3084a84f7ef768afde41679e1ef07f54">Drvarju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

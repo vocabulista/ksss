@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="53876">dolgin</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">560</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="dolgin z brčico" cluster="1" frequency="4" logDice="9.93">
+              <comp position="1" type="headword" sloleks="LE_be585429ccd44356d79ad314d128251e">dolgin</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_31411dcfacc2978ac1dfe8c8b43523fb">brčico</comp>
+            </collocation>
+            <collocation form="dolgin z lasom" cluster="2" frequency="4" logDice="5.79">
+              <comp position="1" type="headword" sloleks="LE_be585429ccd44356d79ad314d128251e">dolgin</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_efa5b979af023ef3a1f9a62889d9ad2d">lasom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="suhljat dolgin" cluster="1" frequency="10" logDice="7.75">
+              <comp position="1" type="collocate" sloleks="LE_d6f90f99c6a750e45537779f0814dee9">suhljat</comp>
+              <comp position="2" type="headword" sloleks="LE_be585429ccd44356d79ad314d128251e">dolgin</comp>
+            </collocation>
+            <collocation form="izrazit dolgin" cluster="2" frequency="8" logDice="3.48">
+              <comp position="1" type="collocate" sloleks="LE_805ac5a81a494b858dffb4f2c2f94983">izrazit</comp>
+              <comp position="2" type="headword" sloleks="LE_be585429ccd44356d79ad314d128251e">dolgin</comp>
+            </collocation>
+            <collocation form="suh dolgin" cluster="3" frequency="9" logDice="2.03">
+              <comp position="1" type="collocate" sloleks="LE_1d980acd2a91c076b44dfbb2c62adcf9">suh</comp>
+              <comp position="2" type="headword" sloleks="LE_be585429ccd44356d79ad314d128251e">dolgin</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

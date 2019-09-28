@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="67544">logar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">347</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="Logar za besedo" cluster="1" frequency="4" logDice="3.52">
+              <comp position="1" type="headword" sloleks="LE_f956cee09392a707f5e3596dc73bbfde">Logar</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">besedo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Matija Logarja" cluster="1" frequency="6" logDice="5.48">
+              <comp position="1" type="collocate" sloleks="LE_b3cc4aec1dfe772fdd8d17202760d245">Matija</comp>
+              <comp position="2" type="headword" sloleks="LE_f956cee09392a707f5e3596dc73bbfde">Logarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="dogovor z logarjem" cluster="1" frequency="4" logDice="3.07">
+              <comp position="1" type="collocate" sloleks="LE_46887c5eb5e3e088095d5a7a3f7d66ea">dogovor</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_f956cee09392a707f5e3596dc73bbfde">logarjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

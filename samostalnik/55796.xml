@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="55796">erupcija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">484</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="erupcija vulkana" cluster="1" frequency="21" logDice="7.99">
+              <comp position="1" type="headword" sloleks="LE_380e060b28894fed6bee5ab1b02dc153">erupcija</comp>
+              <comp position="2" type="collocate" sloleks="LE_a53a9ce6bceec3583323e04e59173bf4">vulkana</comp>
+            </collocation>
+            <collocation form="erupcija navdušenja" cluster="2" frequency="13" logDice="7.39">
+              <comp position="1" type="headword" sloleks="LE_380e060b28894fed6bee5ab1b02dc153">erupcija</comp>
+              <comp position="2" type="collocate" sloleks="LE_ed7399943472961adf0dd1cb306736d7">navdušenja</comp>
+            </collocation>
+            <collocation form="erupcija veselja" cluster="3" frequency="10" logDice="6.16">
+              <comp position="1" type="headword" sloleks="LE_380e060b28894fed6bee5ab1b02dc153">erupcija</comp>
+              <comp position="2" type="collocate" sloleks="LE_9793d9b0b396cdcba2b099374bb344d4">veselja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz do SBZ2">
+          <collocations>
+            <collocation form="priti do erupcije" cluster="1" frequency="4" logDice="-0.69">
+              <comp position="1" type="collocate" sloleks="LE_fc339e29cc0e8ec9efe1ef0acdfb11b5">priti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_380e060b28894fed6bee5ab1b02dc153">erupcije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="vulkanska erupcija" cluster="1" frequency="42" logDice="7.77">
+              <comp position="1" type="collocate" sloleks="LE_ac6848acfeacd8e49357fb90722186cb">vulkanska</comp>
+              <comp position="2" type="headword" sloleks="LE_380e060b28894fed6bee5ab1b02dc153">erupcija</comp>
+            </collocation>
+            <collocation form="nenadna erupcija" cluster="2" frequency="11" logDice="4.48">
+              <comp position="1" type="collocate" sloleks="LE_e31caa49a3eecd7f607ee6ed2a8f0dab">nenadna</comp>
+              <comp position="2" type="headword" sloleks="LE_380e060b28894fed6bee5ab1b02dc153">erupcija</comp>
+            </collocation>
+            <collocation form="močna erupcija" cluster="3" frequency="12" logDice="0.71">
+              <comp position="1" type="collocate" sloleks="LE_88608b12a3e7410d9019117c066da0de|LE_867d38a6da5ab2a221d49425c2c5dae7">močna</comp>
+              <comp position="2" type="headword" sloleks="LE_380e060b28894fed6bee5ab1b02dc153">erupcija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,64 @@
+<entry>
+  <header>
+    <lexical_unit id="18676">grmoven</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">404</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="grmovna zarast" cluster="1" frequency="18" logDice="9.97">
+              <comp position="1" type="headword" sloleks="LE_e23c5d5d36f74e03b00c4404cda6683f">grmovna</comp>
+              <comp position="2" type="collocate" sloleks="LE_e98767da30bdaaceaf7773f2aa5f4ba8">zarast</comp>
+            </collocation>
+            <collocation form="grmovna vegetacija" cluster="2" frequency="37" logDice="9.09">
+              <comp position="1" type="headword" sloleks="LE_e23c5d5d36f74e03b00c4404cda6683f">grmovna</comp>
+              <comp position="2" type="collocate" sloleks="LE_2c1fcb5f82efb5a302fe4fb75cabac48">vegetacija</comp>
+            </collocation>
+            <collocation form="grmoven sloj" cluster="3" frequency="38" logDice="5.73">
+              <comp position="1" type="headword" sloleks="LE_e23c5d5d36f74e03b00c4404cda6683f">grmoven</comp>
+              <comp position="2" type="collocate" sloleks="LE_8ecd1a7547dd4f62f836b54a509d49d0">sloj</comp>
+            </collocation>
+            <collocation form="grmovna vrsta" cluster="4" frequency="225" logDice="5.16">
+              <comp position="1" type="headword" sloleks="LE_e23c5d5d36f74e03b00c4404cda6683f">grmovna</comp>
+              <comp position="2" type="collocate" sloleks="LE_4af9091c01f502e405be7dfe91eedee3">vrsta</comp>
+            </collocation>
+            <collocation form="grmoven nasad" cluster="5" frequency="7" logDice="4.54">
+              <comp position="1" type="headword" sloleks="LE_e23c5d5d36f74e03b00c4404cda6683f">grmoven</comp>
+              <comp position="2" type="collocate" sloleks="LE_40cce179ada181f6c35c2170d42c6afa">nasad</comp>
+            </collocation>
+            <collocation form="grmovna plast" cluster="6" frequency="15" logDice="4.3">
+              <comp position="1" type="headword" sloleks="LE_e23c5d5d36f74e03b00c4404cda6683f">grmovna</comp>
+              <comp position="2" type="collocate" sloleks="LE_18cdccf5d5c2b2fb789da69b1905efa5">plast</comp>
+            </collocation>
+            <collocation form="grmoven pas" cluster="7" frequency="6" logDice="1.62">
+              <comp position="1" type="headword" sloleks="LE_e23c5d5d36f74e03b00c4404cda6683f">grmoven</comp>
+              <comp position="2" type="collocate" sloleks="LE_89ac9c7dc7f715491af648500946332a">pas</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="grmoven in/ali drevesen" cluster="1" frequency="158" logDice="13.5">
+              <comp position="3" type="headword" sloleks="LE_e23c5d5d36f74e03b00c4404cda6683f">grmoven</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_c1245a6d6549d02aaf6a1524e8a754bf">drevesen</comp>
+              </collocation>
+            <collocation form="grmoven in/ali zeliščen" cluster="2" frequency="17" logDice="9.46">
+              <comp position="3" type="headword" sloleks="LE_e23c5d5d36f74e03b00c4404cda6683f">grmoven</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_aadd702223e9ee19865bb74cb1349bf5">zeliščen</comp>
+              </collocation>
+            <collocation form="grmoven in rastlinski" cluster="3" frequency="5" logDice="5.15">
+              <comp position="1" type="headword" sloleks="LE_e23c5d5d36f74e03b00c4404cda6683f">grmoven</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_991188ff17c23b54914a95666785fbe5">rastlinski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

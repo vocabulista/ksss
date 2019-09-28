@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="33669">simptomatičen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">617</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="simptomatično zdravljenje" cluster="1" frequency="22" logDice="4.35">
+              <comp position="1" type="headword" sloleks="LE_b9d3d34f208bb223c32360695086a915">simptomatično</comp>
+              <comp position="2" type="collocate" sloleks="LE_7c0137a5473fd91b204bdf5ea8e08de5">zdravljenje</comp>
+            </collocation>
+            <collocation form="simptomatičen primer" cluster="2" frequency="16" logDice="1.67">
+              <comp position="1" type="headword" sloleks="LE_b9d3d34f208bb223c32360695086a915">simptomatičen</comp>
+              <comp position="2" type="collocate" sloleks="LE_8e6db377d52cf3acd614b87429fb9858">primer</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 za sbz4">
+          <collocations>
+            <collocation form="simptomatičen za razmero" cluster="1" frequency="4" logDice="6.88">
+              <comp position="1" type="headword" sloleks="LE_b9d3d34f208bb223c32360695086a915">simptomatičen</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_f9cdd3c7dab1cb0cac2577ae8e353759">razmero</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="naravnost simptomatičen" cluster="1" frequency="7" logDice="4.55">
+              <comp position="1" type="collocate" sloleks="LE_ab0b27655baba8e8a87cbd747d6a5a91">naravnost</comp>
+              <comp position="2" type="headword" sloleks="LE_b9d3d34f208bb223c32360695086a915">simptomatičen</comp>
+            </collocation>
+            <collocation form="kako simptomatičen" cluster="2" frequency="8" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_c6fd8628f731e3e158dc366537c82f5f">kako</comp>
+              <comp position="2" type="headword" sloleks="LE_b9d3d34f208bb223c32360695086a915">simptomatičen</comp>
+            </collocation>
+            <collocation form="kar simptomatičen" cluster="2" frequency="8" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_c135f6fe8de5dfaaa58b36300e2bf493">kar</comp>
+              <comp position="2" type="headword" sloleks="LE_b9d3d34f208bb223c32360695086a915">simptomatičen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

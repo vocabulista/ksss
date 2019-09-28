@@ -1,0 +1,44 @@
+<entry>
+  <header>
+    <lexical_unit id="96580">vnučka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">856</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="paziti vnučko" cluster="1" frequency="8" logDice="7.64">
+              <comp position="1" type="collocate" sloleks="LE_0fea27cb5b212d7f73606fc95d999c0f">paziti</comp>
+              <comp position="2" type="headword" sloleks="LE_b00db4d0116eba5b4931522258d3245e">vnučko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="paziti na vnučko" cluster="1" frequency="13" logDice="4.86">
+              <comp position="1" type="collocate" sloleks="LE_0fea27cb5b212d7f73606fc95d999c0f">paziti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_b00db4d0116eba5b4931522258d3245e">vnučko</comp>
+            </collocation>
+            <collocation form="počakati na vnučko" cluster="2" frequency="4" logDice="3.48">
+              <comp position="1" type="collocate" sloleks="LE_d15e1095dd97ff49bca350a0ebc19b37">počakati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_b00db4d0116eba5b4931522258d3245e">vnučko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="skrbeti za vnučko" cluster="1" frequency="4" logDice="0.5">
+              <comp position="1" type="collocate" sloleks="LE_ede1f4889f5d12d03cea1e42693522c8">skrbeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_b00db4d0116eba5b4931522258d3245e">vnučko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

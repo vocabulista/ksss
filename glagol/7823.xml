@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="7823">rihtati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">509</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="rihtati posel" cluster="1" frequency="34" logDice="5.87">
+              <comp position="1" type="headword" sloleks="LE_760801c14057d12eabc4225c76df569f">rihtati</comp>
+              <comp position="2" type="collocate" sloleks="LE_4944cd3b7cdda05428aed18cfcac7eb9">posel</comp>
+            </collocation>
+            <collocation form="rihtati kredit" cluster="2" frequency="8" logDice="4.79">
+              <comp position="1" type="headword" sloleks="LE_760801c14057d12eabc4225c76df569f">rihtati</comp>
+              <comp position="2" type="collocate" sloleks="LE_e7a5c54b9dd726bb095a88279b8d22a7">kredit</comp>
+            </collocation>
+            <collocation form="rihtati službo" cluster="3" frequency="8" logDice="2.89">
+              <comp position="1" type="headword" sloleks="LE_760801c14057d12eabc4225c76df569f">rihtati</comp>
+              <comp position="2" type="collocate" sloleks="LE_595a77ebd11b27d069e3829b663f2954">službo</comp>
+            </collocation>
+            <collocation form="rihtati stanovanje" cluster="4" frequency="4" logDice="2.22">
+              <comp position="1" type="headword" sloleks="LE_760801c14057d12eabc4225c76df569f">rihtati</comp>
+              <comp position="2" type="collocate" sloleks="LE_790d388e4f6c9a2d50a5209ec61504cf">stanovanje</comp>
+            </collocation>
+            <collocation form="rihtati stvar" cluster="5" frequency="6" logDice="1.67">
+              <comp position="1" type="headword" sloleks="LE_760801c14057d12eabc4225c76df569f">rihtati</comp>
+              <comp position="2" type="collocate" sloleks="LE_c62e36388a9104c47cf960cd4bdf4ca3">stvar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="nekaj rihtati" cluster="1" frequency="5" logDice="0.24">
+              <comp position="1" type="collocate" sloleks="LE_eb511b2a8ca41b887db9b389e9bd0591">nekaj</comp>
+              <comp position="2" type="headword" sloleks="LE_760801c14057d12eabc4225c76df569f">rihtati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

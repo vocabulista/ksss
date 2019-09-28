@@ -1,0 +1,61 @@
+<entry>
+  <header>
+    <lexical_unit id="78375">pleksi</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">880</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="pleksi stekla" cluster="1" frequency="276" logDice="10.56">
+              <comp position="1" type="headword" sloleks="LE_fa5ca8a60bceed687b4da82db4777823">pleksi</comp>
+              <comp position="2" type="collocate" sloleks="LE_99a519acd32643bbcc9d11eb32434eb6">stekla</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz skozi SBZ4">
+          <collocations>
+            <collocation form="steči skozi pleksi" cluster="1" frequency="7" logDice="9.28">
+              <comp position="1" type="collocate" sloleks="LE_aacd98e5d5df2b0d057bfcb44b3f361d">steči</comp>
+              <comp position="2" type="other" sloleks="LE_ebc04cc308e03e1880853d61a3c2bb70">skozi</comp>
+              <comp position="3" type="headword" sloleks="LE_fa5ca8a60bceed687b4da82db4777823">pleksi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="steči v pleksi" cluster="1" frequency="4" logDice="5.58">
+              <comp position="1" type="collocate" sloleks="LE_aacd98e5d5df2b0d057bfcb44b3f361d">steči</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_fa5ca8a60bceed687b4da82db4777823">pleksi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="prozoren pleksi" cluster="1" frequency="19" logDice="6.48">
+              <comp position="1" type="collocate" sloleks="LE_737a95e2a5268a7d0bd009d99837352c">prozoren</comp>
+              <comp position="2" type="headword" sloleks="LE_fa5ca8a60bceed687b4da82db4777823">pleksi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ4">
+          <collocations>
+            <collocation form="smola na pleksi" cluster="1" frequency="4" logDice="11.17">
+              <comp position="1" type="collocate" sloleks="LE_df5e6a2e00f361a459f40c055967ec1a">smola</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_fa5ca8a60bceed687b4da82db4777823">pleksi</comp>
+            </collocation>
+            <collocation form="slika na pleksi" cluster="2" frequency="4" logDice="5.15">
+              <comp position="1" type="collocate" sloleks="LE_593e973f672b71320e37b77b785f08a0">slika</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_fa5ca8a60bceed687b4da82db4777823">pleksi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

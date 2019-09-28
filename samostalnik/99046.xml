@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="99046">zdržljivost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">845</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="zdržljivost baterije" cluster="1" frequency="353" logDice="10.78">
+              <comp position="1" type="headword" sloleks="LE_f6c9b346949b2364a6be6bf8535241d5">zdržljivost</comp>
+              <comp position="2" type="collocate" sloleks="LE_818227c953ef115c808d965e7a61680b">baterije</comp>
+            </collocation>
+            <collocation form="testo zdržljivosti" cluster="2" frequency="6" logDice="6.97">
+              <comp position="1" type="collocate" sloleks="LE_ed787fda2477a9fe348cf8476d101b49">testo</comp>
+              <comp position="2" type="headword" sloleks="LE_f6c9b346949b2364a6be6bf8535241d5">zdržljivosti</comp>
+            </collocation>
+            <collocation form="meja zdržljivosti" cluster="3" frequency="19" logDice="3.58">
+              <comp position="1" type="collocate" sloleks="LE_9f2a02329b99f686c0effa70a70cb37f">meja</comp>
+              <comp position="2" type="headword" sloleks="LE_f6c9b346949b2364a6be6bf8535241d5">zdržljivosti</comp>
+            </collocation>
+            <collocation form="stopnja zdržljivosti" cluster="4" frequency="5" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_ed1cc20afdfdf1e20fe2e301bae175ee">stopnja</comp>
+              <comp position="2" type="headword" sloleks="LE_f6c9b346949b2364a6be6bf8535241d5">zdržljivosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="telesna zdržljivost" cluster="1" frequency="23" logDice="2.82">
+              <comp position="1" type="collocate" sloleks="LE_f6d55d6e1cbced22c5f2730f21b80429">telesna</comp>
+              <comp position="2" type="headword" sloleks="LE_f6c9b346949b2364a6be6bf8535241d5">zdržljivost</comp>
+            </collocation>
+            <collocation form="fizična zdržljivost" cluster="2" frequency="14" logDice="2.72">
+              <comp position="1" type="collocate" sloleks="LE_d0fc668d52ee5c2c447c7f9b347ea465">fizična</comp>
+              <comp position="2" type="headword" sloleks="LE_f6c9b346949b2364a6be6bf8535241d5">zdržljivost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

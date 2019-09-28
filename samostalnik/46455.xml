@@ -1,0 +1,52 @@
+<entry>
+  <header>
+    <lexical_unit id="46455">abecednik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">514</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="abecednik iz leta" cluster="1" frequency="7" logDice="1.56">
+              <comp position="1" type="headword" sloleks="LE_018d4cfea028dd35729137cc1cd5be9d">abecednik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="abecednik s čitanko" cluster="1" frequency="4" logDice="13.09">
+              <comp position="1" type="headword" sloleks="LE_018d4cfea028dd35729137cc1cd5be9d">abecednik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_6fb0f3a5e0020471e35653470ec94217">čitanko</comp>
+            </collocation>
+            <collocation form="Katekizem z Abecednikom" cluster="2" frequency="7" logDice="13.55">
+              <comp position="1" type="collocate" sloleks="LE_c3642352b2afb278f3f8ae718762591a">Katekizem</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_018d4cfea028dd35729137cc1cd5be9d">Abecednikom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Amadeusov abecednik" cluster="1" frequency="9" logDice="11.03">
+              <comp position="1" type="collocate" sloleks="">Amadeusov</comp>
+              <comp position="2" type="headword" sloleks="LE_018d4cfea028dd35729137cc1cd5be9d">abecednik</comp>
+            </collocation>
+            <collocation form="potrošnikov abecednik" cluster="2" frequency="11" logDice="8.26">
+              <comp position="1" type="collocate" sloleks="LE_3f2e07d211c84cfe41e01914219c823e">potrošnikov</comp>
+              <comp position="2" type="headword" sloleks="LE_018d4cfea028dd35729137cc1cd5be9d">abecednik</comp>
+            </collocation>
+            <collocation form="Trubarjev abecednik" cluster="3" frequency="35" logDice="7.08">
+              <comp position="1" type="collocate" sloleks="LE_5088f0c6dbd84d8759dcb7b41c09a0bf">Trubarjev</comp>
+              <comp position="2" type="headword" sloleks="LE_018d4cfea028dd35729137cc1cd5be9d">abecednik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

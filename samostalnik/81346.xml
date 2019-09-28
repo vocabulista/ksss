@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="81346">požeruh</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">611</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="veljati za požeruha" cluster="1" frequency="4" logDice="0.57">
+              <comp position="1" type="collocate" sloleks="LE_d1ea0d9dd4771e211c9eddc0d342acc2">veljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_c66ceff70cf43cddb187498f53032585">požeruha</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nenasiten požeruh" cluster="1" frequency="11" logDice="7.77">
+              <comp position="1" type="collocate" sloleks="LE_3f3784e5f9128b541092b2c02be1fd94">nenasiten</comp>
+              <comp position="2" type="headword" sloleks="LE_c66ceff70cf43cddb187498f53032585">požeruh</comp>
+            </collocation>
+            <collocation form="pernat požeruh" cluster="2" frequency="12" logDice="7.64">
+              <comp position="1" type="collocate" sloleks="LE_ed1f9a473f3fd7b32bd662955edff15e">pernat</comp>
+              <comp position="2" type="headword" sloleks="LE_c66ceff70cf43cddb187498f53032585">požeruh</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

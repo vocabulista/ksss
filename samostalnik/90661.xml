@@ -1,0 +1,70 @@
+<entry>
+  <header>
+    <lexical_unit id="90661">splovitev</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">415</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="splovitev jadrnice" cluster="1" frequency="19" logDice="6.44">
+              <comp position="1" type="headword" sloleks="LE_7cc7773def562d51e45299681c7b7efe">splovitev</comp>
+              <comp position="2" type="collocate" sloleks="LE_1ef3fdbab9e487b8258439443e4860dc">jadrnice</comp>
+            </collocation>
+            <collocation form="splovitev ladje" cluster="2" frequency="9" logDice="4.06">
+              <comp position="1" type="headword" sloleks="LE_7cc7773def562d51e45299681c7b7efe">splovitev</comp>
+              <comp position="2" type="collocate" sloleks="LE_22276d3f354f37114d4e36e499994820">ladje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="pripravljati na splovitev" cluster="1" frequency="4" logDice="1.92">
+              <comp position="1" type="collocate" sloleks="LE_aa276ee22368f98ca51880c3db9b1ae1">pripravljati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_7cc7773def562d51e45299681c7b7efe">splovitev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="slavnostna splovitev" cluster="1" frequency="9" logDice="3.19">
+              <comp position="1" type="collocate" sloleks="LE_5c1d0901c27b9b493c93ae1ed9f352e0">slavnostna</comp>
+              <comp position="2" type="headword" sloleks="LE_7cc7773def562d51e45299681c7b7efe">splovitev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 po SBZ5">
+          <collocations>
+            <collocation form="teden po splovitvi" cluster="1" frequency="4" logDice="4.11">
+              <comp position="1" type="collocate" sloleks="LE_5130fa65a5d85e948e4519c7d93f6a65">teden</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_7cc7773def562d51e45299681c7b7efe">splovitvi</comp>
+            </collocation>
+            <collocation form="mesec po splovitvi" cluster="2" frequency="4" logDice="3.09">
+              <comp position="1" type="collocate" sloleks="LE_d87e72e2a6ded77b0ae520112759ad42">mesec</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_7cc7773def562d51e45299681c7b7efe">splovitvi</comp>
+            </collocation>
+            <collocation form="leto po splovitvi" cluster="3" frequency="6" logDice="2.51">
+              <comp position="1" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leto</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_7cc7773def562d51e45299681c7b7efe">splovitvi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 pred SBZ6">
+          <collocations>
+            <collocation form="dan pred splovitvijo" cluster="1" frequency="6" logDice="2.38">
+              <comp position="1" type="collocate" sloleks="LE_687a3a5f213dba3724e626216f1b09da">dan</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="headword" sloleks="LE_7cc7773def562d51e45299681c7b7efe">splovitvijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

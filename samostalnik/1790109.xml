@@ -1,0 +1,57 @@
+<entry>
+  <header>
+    <lexical_unit id="1790109">mousse</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="mousse iz čokolade" cluster="1" frequency="6" logDice="9.09">
+              <comp position="1" type="headword" sloleks="">mousse</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_a9fd7fcd3d860cd54fc98e6b5294d783">čokolade</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="mousse s kumkvatom" cluster="1" frequency="5" logDice="11.36">
+              <comp position="1" type="headword" sloleks="">mousse</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_53b5f717fba955afbb7084ecb5803d8f">kumkvatom</comp>
+            </collocation>
+            <collocation form="mousse z agrumom" cluster="2" frequency="6" logDice="11.06">
+              <comp position="1" type="headword" sloleks="">mousse</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_0f3056eb225efafeef75eaa50e2fdfcc">agrumom</comp>
+            </collocation>
+            <collocation form="mousse z jagodo" cluster="3" frequency="4" logDice="7.21">
+              <comp position="1" type="headword" sloleks="">mousse</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_78e809b7b2579e20d34f82a18c961809">jagodo</comp>
+            </collocation>
+            <collocation form="mousse z omako" cluster="4" frequency="6" logDice="6.03">
+              <comp position="1" type="headword" sloleks="">mousse</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_23544152bbf41e13a1bc96c9137fb2c2">omako</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="čokoladen mousse" cluster="1" frequency="74" logDice="7.7">
+              <comp position="1" type="collocate" sloleks="LE_6d67a84ee304fd81ebb651eadd732f8a">čokoladen</comp>
+              <comp position="2" type="headword" sloleks="">mousse</comp>
+            </collocation>
+            <collocation form="sladek mousse" cluster="2" frequency="8" logDice="2.58">
+              <comp position="1" type="collocate" sloleks="LE_035004fc2abf9abc22e182cbdce3f664">sladek</comp>
+              <comp position="2" type="headword" sloleks="">mousse</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

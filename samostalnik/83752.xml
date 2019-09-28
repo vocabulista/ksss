@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="83752">proba</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">583</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="margin proba" cluster="1" frequency="8" logDice="9.71">
+              <comp position="1" type="collocate" sloleks="">margin</comp>
+              <comp position="2" type="headword" sloleks="LE_30ce5c85d78e1f40348e67d77ee6b5bc">proba</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="štih probe" cluster="1" frequency="13" logDice="11.9">
+              <comp position="1" type="collocate" sloleks="LE_d8e1fd59a2954660bad22d34de80baa8">štih</comp>
+              <comp position="2" type="headword" sloleks="LE_30ce5c85d78e1f40348e67d77ee6b5bc">probe</comp>
+            </collocation>
+            <collocation form="Anisotropy Probe" cluster="2" frequency="10" logDice="11.67">
+              <comp position="1" type="collocate" sloleks="">Anisotropy</comp>
+              <comp position="2" type="headword" sloleks="LE_30ce5c85d78e1f40348e67d77ee6b5bc">Probe</comp>
+            </collocation>
+            <collocation form="Gravity Probe" cluster="3" frequency="9" logDice="11.48">
+              <comp position="1" type="collocate" sloleks="">Gravity</comp>
+              <comp position="2" type="headword" sloleks="LE_30ce5c85d78e1f40348e67d77ee6b5bc">Probe</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

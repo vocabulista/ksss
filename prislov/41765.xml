@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="41765">lepotno</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">455</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ gbz">
+          <collocations>
+            <collocation form="lepotno osvežiti" cluster="1" frequency="19" logDice="8.0">
+              <comp position="1" type="headword" sloleks="LE_12ad2d6175bf0230dd5957617e207f6c">lepotno</comp>
+              <comp position="2" type="collocate" sloleks="LE_798bbb4d5f28a439a6660781cc42ae13">osvežiti</comp>
+            </collocation>
+            <collocation form="lepotno operirati" cluster="2" frequency="14" logDice="7.55">
+              <comp position="1" type="headword" sloleks="LE_12ad2d6175bf0230dd5957617e207f6c">lepotno</comp>
+              <comp position="2" type="collocate" sloleks="LE_52487c0e43e45357fe88d4f17203612d">operirati</comp>
+            </collocation>
+            <collocation form="lepotno pomladiti" cluster="3" frequency="4" logDice="6.87">
+              <comp position="1" type="headword" sloleks="LE_12ad2d6175bf0230dd5957617e207f6c">lepotno</comp>
+              <comp position="2" type="collocate" sloleks="LE_d5f9fc5373c68a29f332a1b5fcdafa9d">pomladiti</comp>
+            </collocation>
+            <collocation form="lepotno popraviti" cluster="4" frequency="18" logDice="5.18">
+              <comp position="1" type="headword" sloleks="LE_12ad2d6175bf0230dd5957617e207f6c">lepotno</comp>
+              <comp position="2" type="collocate" sloleks="LE_2cd9eb59d6ae515645948f975cd80df0">popraviti</comp>
+            </collocation>
+            <collocation form="lepotno obdelati" cluster="5" frequency="6" logDice="4.99">
+              <comp position="1" type="headword" sloleks="LE_12ad2d6175bf0230dd5957617e207f6c">lepotno</comp>
+              <comp position="2" type="collocate" sloleks="LE_0398090dcf99897c16ea0360466e3c9e">obdelati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz RBZ">
+          <collocations>
+            <collocation form="večkrat lepotno" cluster="1" frequency="5" logDice="4.09">
+              <comp position="1" type="collocate" sloleks="LE_a632a4cd780b70ff7634918837d4eddb">večkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_12ad2d6175bf0230dd5957617e207f6c">lepotno</comp>
+            </collocation>
+            <collocation form="malo lepotno" cluster="2" frequency="4" logDice="0.55">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_12ad2d6175bf0230dd5957617e207f6c">lepotno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

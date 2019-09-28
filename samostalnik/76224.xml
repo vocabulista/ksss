@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="76224">otrplost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">515</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="otrplost tilnika" cluster="1" frequency="15" logDice="10.89">
+              <comp position="1" type="headword" sloleks="LE_bb7f02f6ce0cb39db1388ea54c914f1f">otrplost</comp>
+              <comp position="2" type="collocate" sloleks="LE_a08c81ff9ef0d7e5ca1f740543eb64af">tilnika</comp>
+            </collocation>
+            <collocation form="otrplost mišice" cluster="2" frequency="16" logDice="5.13">
+              <comp position="1" type="headword" sloleks="LE_bb7f02f6ce0cb39db1388ea54c914f1f">otrplost</comp>
+              <comp position="2" type="collocate" sloleks="LE_8cb637c99a79db8dda2b76102818f9be">mišice</comp>
+            </collocation>
+            <collocation form="občutek otrplosti" cluster="3" frequency="9" logDice="2.55">
+              <comp position="1" type="collocate" sloleks="LE_23671e6156ee6c327e7c512a951bd4f3">občutek</comp>
+              <comp position="2" type="headword" sloleks="LE_bb7f02f6ce0cb39db1388ea54c914f1f">otrplosti</comp>
+            </collocation>
+            <collocation form="stanje otrplosti" cluster="4" frequency="8" logDice="2.25">
+              <comp position="1" type="collocate" sloleks="LE_2ad4e1571957d685096e1a60acee4119">stanje</comp>
+              <comp position="2" type="headword" sloleks="LE_bb7f02f6ce0cb39db1388ea54c914f1f">otrplosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz iz SBZ2">
+          <collocations>
+            <collocation form="prebuditi iz otrplosti" cluster="1" frequency="13" logDice="8.12">
+              <comp position="1" type="collocate" sloleks="LE_692a643095954392992650ba1e518bef">prebuditi</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_bb7f02f6ce0cb39db1388ea54c914f1f">otrplosti</comp>
+            </collocation>
+            <collocation form="zbuditi iz otrplosti" cluster="2" frequency="6" logDice="7.04">
+              <comp position="1" type="collocate" sloleks="LE_959376166d3582f521bd647c2bd9b914">zbuditi</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_bb7f02f6ce0cb39db1388ea54c914f1f">otrplosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="mrliška otrplost" cluster="1" frequency="13" logDice="6.14">
+              <comp position="1" type="collocate" sloleks="LE_ee62f2e0f163338ebb30d6db91a411c9">mrliška</comp>
+              <comp position="2" type="headword" sloleks="LE_bb7f02f6ce0cb39db1388ea54c914f1f">otrplost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

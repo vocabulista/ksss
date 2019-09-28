@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="4687">pilotirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">1180</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ med sbz6">
+          <collocations>
+            <collocation form="pilotirati med vojno" cluster="1" frequency="4" logDice="2.55">
+              <comp position="1" type="headword" sloleks="LE_2fa837d7523a2b51a56863631b523eba">pilotirati</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_b0936a94a2134cd7fa018cf829ffd67c">vojno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="pilotirati cessno" cluster="1" frequency="5" logDice="9.09">
+              <comp position="1" type="headword" sloleks="LE_2fa837d7523a2b51a56863631b523eba">pilotirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6bd2b2fe2ef82aea0717877099dfe3e0">cessno</comp>
+            </collocation>
+            <collocation form="pilotirati letalo" cluster="2" frequency="159" logDice="8.78">
+              <comp position="1" type="headword" sloleks="LE_2fa837d7523a2b51a56863631b523eba">pilotirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6bf9d47d4d57721e1f631edb30e33595">letalo</comp>
+            </collocation>
+            <collocation form="pilotirati helikopter" cluster="3" frequency="13" logDice="8.37">
+              <comp position="1" type="headword" sloleks="LE_2fa837d7523a2b51a56863631b523eba">pilotirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_ce3d0467026af121511129a19111dd99">helikopter</comp>
+            </collocation>
+            <collocation form="pilotirati ladjo" cluster="4" frequency="10" logDice="5.8">
+              <comp position="1" type="headword" sloleks="LE_2fa837d7523a2b51a56863631b523eba">pilotirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_22276d3f354f37114d4e36e499994820">ladjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="pilotirati v času" cluster="1" frequency="5" logDice="-0.53">
+              <comp position="1" type="headword" sloleks="LE_2fa837d7523a2b51a56863631b523eba">pilotirati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">času</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="nekoč pilotirati" cluster="1" frequency="5" logDice="1.21">
+              <comp position="1" type="collocate" sloleks="LE_60179edcbf14353a50c5821b3f1a56ef">nekoč</comp>
+              <comp position="2" type="headword" sloleks="LE_2fa837d7523a2b51a56863631b523eba">pilotirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

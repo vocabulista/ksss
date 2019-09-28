@@ -1,0 +1,44 @@
+<entry>
+  <header>
+    <lexical_unit id="84231">psihoterapevtka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">616</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="psihoterapevtka s področja" cluster="1" frequency="6" logDice="1.89">
+              <comp position="1" type="headword" sloleks="LE_baf275819fbfba8b13d563680ce5f157">psihoterapevtka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_66c02e1a651f578a71415b967738b69b">področja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="priznana psihoterapevtka" cluster="1" frequency="15" logDice="3.33">
+              <comp position="1" type="collocate" sloleks="LE_666e6361b81942ddc6013aa3d5e020b2">priznana</comp>
+              <comp position="2" type="headword" sloleks="LE_baf275819fbfba8b13d563680ce5f157">psihoterapevtka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="počutje s psihoterapevtko" cluster="1" frequency="6" logDice="9.98">
+              <comp position="1" type="collocate" sloleks="LE_28c5fb9fd1324e0ed28df3a07ba74468">počutje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_baf275819fbfba8b13d563680ce5f157">psihoterapevtko</comp>
+            </collocation>
+            <collocation form="terapija s psihoterapevtko" cluster="2" frequency="4" logDice="5.63">
+              <comp position="1" type="collocate" sloleks="LE_ab79f4d18063499c07f234b497542048">terapija</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_baf275819fbfba8b13d563680ce5f157">psihoterapevtko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

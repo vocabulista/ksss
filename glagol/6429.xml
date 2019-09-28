@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="6429">prekrstiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">765</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="prekrstiti zelenca" cluster="1" frequency="5" logDice="10.02">
+              <comp position="1" type="headword" sloleks="LE_a00265078a331ad664d2ef47a8420e52">prekrstiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_e0ef783a5c24d312127f20ff254aa2bb">zelenca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="prekrstiti v vero" cluster="1" frequency="4" logDice="7.01">
+              <comp position="1" type="headword" sloleks="LE_a00265078a331ad664d2ef47a8420e52">prekrstiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_583319a05698c528b3d8a3b0f4aea875">vero</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="pomotoma prekrstiti" cluster="1" frequency="6" logDice="5.59">
+              <comp position="1" type="collocate" sloleks="LE_26c9b44f87126514f04e03228b62a450">pomotoma</comp>
+              <comp position="2" type="headword" sloleks="LE_a00265078a331ad664d2ef47a8420e52">prekrstiti</comp>
+            </collocation>
+            <collocation form="enostavno prekrstiti" cluster="2" frequency="10" logDice="3.0">
+              <comp position="1" type="collocate" sloleks="LE_1742969fa982d14b68f426dd1a897788">enostavno</comp>
+              <comp position="2" type="headword" sloleks="LE_a00265078a331ad664d2ef47a8420e52">prekrstiti</comp>
+            </collocation>
+            <collocation form="takoj prekrstiti" cluster="3" frequency="10" logDice="1.11">
+              <comp position="1" type="collocate" sloleks="LE_63831e752d3a6105c3245c75b9779495">takoj</comp>
+              <comp position="2" type="headword" sloleks="LE_a00265078a331ad664d2ef47a8420e52">prekrstiti</comp>
+            </collocation>
+            <collocation form="preprosto prekrstiti" cluster="4" frequency="4" logDice="0.78">
+              <comp position="1" type="collocate" sloleks="LE_9aa4c8fe2067ba27e01dd34632bb062a">preprosto</comp>
+              <comp position="2" type="headword" sloleks="LE_a00265078a331ad664d2ef47a8420e52">prekrstiti</comp>
+            </collocation>
+            <collocation form="kmalu prekrstiti" cluster="5" frequency="6" logDice="0.45">
+              <comp position="1" type="collocate" sloleks="LE_ced824ab75f7c67449dd92c1d3fa5432">kmalu</comp>
+              <comp position="2" type="headword" sloleks="LE_a00265078a331ad664d2ef47a8420e52">prekrstiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

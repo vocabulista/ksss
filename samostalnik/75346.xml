@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="75346">oniks</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">494</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="jeseniški oniks" cluster="1" frequency="21" logDice="4.98">
+              <comp position="1" type="collocate" sloleks="LE_8995ef6d49ba0a8432bc40ddd5961d18">jeseniški</comp>
+              <comp position="2" type="headword" sloleks="LE_e85eaba301be08613bbec87bad8c47f5">oniks</comp>
+            </collocation>
+            <collocation form="črn oniks" cluster="2" frequency="18" logDice="1.32">
+              <comp position="1" type="collocate" sloleks="LE_efad3f083a68e148bcd4aa4f62efd36c">črn</comp>
+              <comp position="2" type="headword" sloleks="LE_e85eaba301be08613bbec87bad8c47f5">oniks</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="pismo iz oniksa" cluster="1" frequency="6" logDice="6.74">
+              <comp position="1" type="collocate" sloleks="LE_bc3ef9b863fbcf5d9ecc2351db390439">pismo</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_e85eaba301be08613bbec87bad8c47f5">oniksa</comp>
+            </collocation>
+            <collocation form="predmet iz oniksa" cluster="2" frequency="10" logDice="6.57">
+              <comp position="1" type="collocate" sloleks="LE_d51cd609db6fe289654ca191c3ec4f9a">predmet</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_e85eaba301be08613bbec87bad8c47f5">oniksa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

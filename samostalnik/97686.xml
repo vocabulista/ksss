@@ -1,0 +1,56 @@
+<entry>
+  <header>
+    <lexical_unit id="97686">zadevščina</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">994</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="zadevščina z imenom" cluster="1" frequency="4" logDice="2.1">
+              <comp position="1" type="headword" sloleks="LE_dc9aea04b0c9c7968304147c0bb055dd">zadevščina</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">imenom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za zadevščino" cluster="1" frequency="6" logDice="-1.01">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_dc9aea04b0c9c7968304147c0bb055dd">zadevščino</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="podobna zadevščina" cluster="1" frequency="51" logDice="2.71">
+              <comp position="1" type="collocate" sloleks="LE_fe27dd90ab33535f358577dc2b8afbcb">podobna</comp>
+              <comp position="2" type="headword" sloleks="LE_dc9aea04b0c9c7968304147c0bb055dd">zadevščina</comp>
+            </collocation>
+            <collocation form="zabavna zadevščina" cluster="2" frequency="8" logDice="2.28">
+              <comp position="1" type="collocate" sloleks="LE_a5194ce07957863da8e57c6d192c620d">zabavna</comp>
+              <comp position="2" type="headword" sloleks="LE_dc9aea04b0c9c7968304147c0bb055dd">zadevščina</comp>
+            </collocation>
+            <collocation form="cela zadevščina" cluster="3" frequency="8" logDice="0.92">
+              <comp position="1" type="collocate" sloleks="LE_f80e0ae3d5b4efeb6ae9ebbfa265a595">cela</comp>
+              <comp position="2" type="headword" sloleks="LE_dc9aea04b0c9c7968304147c0bb055dd">zadevščina</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="uprava za zadevščino" cluster="1" frequency="4" logDice="3.46">
+              <comp position="1" type="collocate" sloleks="LE_44971dda17ead413a5e8f023b8fb1f2b">uprava</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_dc9aea04b0c9c7968304147c0bb055dd">zadevščino</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="52520">davkar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1208</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz SBZ3">
+          <collocations>
+            <collocation form="morati davkarju" cluster="1" frequency="8" logDice="3.94">
+              <comp position="1" type="collocate" sloleks="LE_5a69e334926729c2b878f5735b5ec456">morati</comp>
+              <comp position="2" type="headword" sloleks="LE_8f3b76ff1f22745948322a6d8ad3278f">davkarju</comp>
+            </collocation>
+            <collocation form="poslati davkarju" cluster="2" frequency="9" logDice="3.6">
+              <comp position="1" type="collocate" sloleks="LE_2873647ece0cee5270a6a7e35345f894">poslati</comp>
+              <comp position="2" type="headword" sloleks="LE_8f3b76ff1f22745948322a6d8ad3278f">davkarju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="ptujski davkar" cluster="1" frequency="8" logDice="3.12">
+              <comp position="1" type="collocate" sloleks="LE_193e0faeed29e9ebf967eafa1302634e">ptujski</comp>
+              <comp position="2" type="headword" sloleks="LE_8f3b76ff1f22745948322a6d8ad3278f">davkar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="ravnanje davkarja" cluster="1" frequency="6" logDice="3.23">
+              <comp position="1" type="collocate" sloleks="LE_7e82fe508f090aca8e5ea9595ce1c11e">ravnanje</comp>
+              <comp position="2" type="headword" sloleks="LE_8f3b76ff1f22745948322a6d8ad3278f">davkarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="težava z davkarjem" cluster="1" frequency="5" logDice="0.79">
+              <comp position="1" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težava</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_8f3b76ff1f22745948322a6d8ad3278f">davkarjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

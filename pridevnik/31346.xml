@@ -1,0 +1,62 @@
+<entry>
+  <header>
+    <lexical_unit id="31346">prostodušen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">719</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="prostodušna naivnost" cluster="1" frequency="9" logDice="7.4">
+              <comp position="1" type="headword" sloleks="LE_78916d2f5971e712410adb5207a316e1">prostodušna</comp>
+              <comp position="2" type="collocate" sloleks="LE_a4a1fa6e80b0497376fe9236f4f480b7">naivnost</comp>
+            </collocation>
+            <collocation form="prostodušno sprenevedanje" cluster="2" frequency="6" logDice="6.34">
+              <comp position="1" type="headword" sloleks="LE_78916d2f5971e712410adb5207a316e1">prostodušno</comp>
+              <comp position="2" type="collocate" sloleks="LE_e24d2e1608818b2a20d51de6f499006d">sprenevedanje</comp>
+            </collocation>
+            <collocation form="prostodušen smeh" cluster="3" frequency="6" logDice="4.71">
+              <comp position="1" type="headword" sloleks="LE_78916d2f5971e712410adb5207a316e1">prostodušen</comp>
+              <comp position="2" type="collocate" sloleks="LE_3c4ec3ec1188a2f4a5fa0b066496c90d">smeh</comp>
+            </collocation>
+            <collocation form="prostodušno priznanje" cluster="4" frequency="36" logDice="4.4">
+              <comp position="1" type="headword" sloleks="LE_78916d2f5971e712410adb5207a316e1">prostodušno</comp>
+              <comp position="2" type="collocate" sloleks="LE_d82e5a0d4769e4a68638b7e3aed82f5e">priznanje</comp>
+            </collocation>
+            <collocation form="prostodušna izjava" cluster="5" frequency="21" logDice="3.41">
+              <comp position="1" type="headword" sloleks="LE_78916d2f5971e712410adb5207a316e1">prostodušna</comp>
+              <comp position="2" type="collocate" sloleks="LE_43a60c321a9a7889eb71aacc9ccb368f">izjava</comp>
+            </collocation>
+            <collocation form="prostodušna beseda" cluster="5" frequency="9" logDice="0.74">
+              <comp position="1" type="headword" sloleks="LE_78916d2f5971e712410adb5207a316e1">prostodušna</comp>
+              <comp position="2" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">beseda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="prostodušen in/ali iskren" cluster="1" frequency="6" logDice="5.83">
+              <comp position="3" type="headword" sloleks="LE_78916d2f5971e712410adb5207a316e1">prostodušen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_7820112e94527ad809077c8348170c6e">iskren</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="neverjetno prostodušen" cluster="1" frequency="5" logDice="3.8">
+              <comp position="1" type="collocate" sloleks="LE_af319b7234c351cf41c715900e10853f">neverjetno</comp>
+              <comp position="2" type="headword" sloleks="LE_78916d2f5971e712410adb5207a316e1">prostodušen</comp>
+            </collocation>
+            <collocation form="preveč prostodušen" cluster="2" frequency="7" logDice="1.09">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_78916d2f5971e712410adb5207a316e1">prostodušen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

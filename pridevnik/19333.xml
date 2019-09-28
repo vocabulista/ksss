@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="19333">iberski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1125</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="iberski polotok" cluster="1" frequency="859" logDice="11.19">
+              <comp position="1" type="headword" sloleks="LE_2945c69dd0ee583ac134fec6424bdb59">iberski</comp>
+              <comp position="2" type="collocate" sloleks="LE_f4df629f0bacfadf20af3ab90f187f06">polotok</comp>
+            </collocation>
+            <collocation form="iberski ris" cluster="2" frequency="23" logDice="8.13">
+              <comp position="1" type="headword" sloleks="LE_2945c69dd0ee583ac134fec6424bdb59">iberski</comp>
+              <comp position="2" type="collocate" sloleks="LE_6c2d8799d1df8eb2aafeb5282aaf17e8">ris</comp>
+            </collocation>
+            <collocation form="iberska članica" cluster="3" frequency="11" logDice="2.98">
+              <comp position="1" type="headword" sloleks="LE_2945c69dd0ee583ac134fec6424bdb59">iberska</comp>
+              <comp position="2" type="collocate" sloleks="LE_f7ade94fa104909df972e9fa5d53f58e">članica</comp>
+            </collocation>
+            <collocation form="iberska kultura" cluster="3" frequency="11" logDice="2.0">
+              <comp position="1" type="headword" sloleks="LE_2945c69dd0ee583ac134fec6424bdb59">iberska</comp>
+              <comp position="2" type="collocate" sloleks="LE_4edc5c7069eb1ef7bd3436cfbffaee8a">kultura</comp>
+            </collocation>
+            <collocation form="iberski vrh" cluster="4" frequency="11" logDice="1.71">
+              <comp position="1" type="headword" sloleks="LE_2945c69dd0ee583ac134fec6424bdb59">iberski</comp>
+              <comp position="2" type="collocate" sloleks="LE_5111d9a7de58321a8ec7f1a0aa9fce76">vrh</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

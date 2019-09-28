@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="3835701">sta</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="sta s sekretarjem" cluster="1" frequency="4" logDice="7.23">
+              <comp position="1" type="headword" sloleks="">sta</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_63262a5652b32e7bc3d0a8f4156df7e6">sekretarjem</comp>
+            </collocation>
+            <collocation form="sta z ženo" cluster="2" frequency="4" logDice="4.31">
+              <comp position="1" type="headword" sloleks="">sta</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_412b2e672422f341e6f8b4b4f03f0f24">ženo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="znan sta" cluster="1" frequency="28" logDice="1.73">
+              <comp position="1" type="collocate" sloleks="LE_3ca4e8269ed35ff770799effa47b0eda">znan</comp>
+              <comp position="2" type="headword" sloleks="">sta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

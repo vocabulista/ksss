@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="89434">sledilec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">610</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="sledilec trenda" cluster="1" frequency="10" logDice="6.19">
+              <comp position="1" type="headword" sloleks="LE_f1104f0ea329992c9a3583107126ca7e">sledilec</comp>
+              <comp position="2" type="collocate" sloleks="LE_79b73a78a03fd6e0164bdbd45af6a22f">trenda</comp>
+            </collocation>
+            <collocation form="vloga sledilca" cluster="2" frequency="12" logDice="1.65">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_f1104f0ea329992c9a3583107126ca7e">sledilca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="zvest sledilec" cluster="1" frequency="14" logDice="3.76">
+              <comp position="1" type="collocate" sloleks="LE_910d236b0b94310160765a53a87a0db8">zvest</comp>
+              <comp position="2" type="headword" sloleks="LE_f1104f0ea329992c9a3583107126ca7e">sledilec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

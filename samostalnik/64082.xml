@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="64082">kocen</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">496</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="izrezati kocen" cluster="1" frequency="36" logDice="8.22">
+              <comp position="1" type="collocate" sloleks="LE_7ccb2816965859b5c21fe1ab466f306b">izrezati</comp>
+              <comp position="2" type="headword" sloleks="LE_1b4213b09b2d121e934250ddb5260cc5">kocen</comp>
+            </collocation>
+            <collocation form="odrezati kocen" cluster="2" frequency="15" logDice="6.23">
+              <comp position="1" type="collocate" sloleks="LE_2676786d6ccd8b41d6843753f12c4053">odrezati</comp>
+              <comp position="2" type="headword" sloleks="LE_1b4213b09b2d121e934250ddb5260cc5">kocen</comp>
+            </collocation>
+            <collocation form="odstraniti kocen" cluster="3" frequency="34" logDice="5.21">
+              <comp position="1" type="collocate" sloleks="LE_c020fe4cf95fc67c8e6c9648409037cd">odstraniti</comp>
+              <comp position="2" type="headword" sloleks="LE_1b4213b09b2d121e934250ddb5260cc5">kocen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="zarezati v kocen" cluster="1" frequency="4" logDice="5.86">
+              <comp position="1" type="collocate" sloleks="LE_5098cb1bad362fe2ff3c9ef1d6ecdd05">zarezati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_1b4213b09b2d121e934250ddb5260cc5">kocen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="trd kocen" cluster="1" frequency="8" logDice="1.89">
+              <comp position="1" type="collocate" sloleks="LE_101d4350f102396faae6f43c7eb55f77">trd</comp>
+              <comp position="2" type="headword" sloleks="LE_1b4213b09b2d121e934250ddb5260cc5">kocen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Blaž Kocena" cluster="1" frequency="48" logDice="8.6">
+              <comp position="1" type="collocate" sloleks="LE_766d71249990c41395b1076d3b669139">Blaž</comp>
+              <comp position="2" type="headword" sloleks="LE_1b4213b09b2d121e934250ddb5260cc5">Kocena</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,44 @@
+<entry>
+  <header>
+    <lexical_unit id="36823">upajoč</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">638</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="upajoč in čakajoč" cluster="1" frequency="6" logDice="11.06">
+              <comp position="1" type="headword" sloleks="LE_b50cbdee8719b9af2eb7ed30f645dda4">upajoč</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_9fda863ad9caaaca4d307b5a8dbddebf">čakajoč</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 na sbz4">
+          <collocations>
+            <collocation form="upajoč na čudež" cluster="1" frequency="5" logDice="10.39">
+              <comp position="1" type="headword" sloleks="LE_b50cbdee8719b9af2eb7ed30f645dda4">upajoč</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_7f1277f44bd908ad2528b2978c0b8449">čudež</comp>
+            </collocation>
+            <collocation form="upajoč na uspeh" cluster="2" frequency="4" logDice="7.4">
+              <comp position="1" type="headword" sloleks="LE_b50cbdee8719b9af2eb7ed30f645dda4">upajoč</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee3bfca66217ba6b70159eae393e66f8">uspeh</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="vedno upajoč" cluster="1" frequency="10" logDice="0.72">
+              <comp position="1" type="collocate" sloleks="LE_eaabd5718a27f818fd47358031426355">vedno</comp>
+              <comp position="2" type="headword" sloleks="LE_b50cbdee8719b9af2eb7ed30f645dda4">upajoč</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

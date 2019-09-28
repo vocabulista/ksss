@@ -1,0 +1,994 @@
+<entry>
+  <header>
+    <lexical_unit id="99533">živinoreja</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">7183</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="živinoreja s sirarstvom" cluster="1" frequency="4" logDice="11.12">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_c961e5d6b304448f3c4990ba62c54de9">sirarstvom</comp>
+            </collocation>
+            <collocation form="kmetija z živinorejo" cluster="2" frequency="9" logDice="7.21">
+              <comp position="1" type="collocate" sloleks="LE_4b6dc4ee113f77788107a47c03291f40">kmetija</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="povezava z živinorejo" cluster="3" frequency="5" logDice="2.06">
+              <comp position="1" type="collocate" sloleks="LE_585f5dc11b4e301ea7b13c392b5a0d47">povezava</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="primerjava z živinorejo" cluster="4" frequency="5" logDice="0.82">
+              <comp position="1" type="collocate" sloleks="LE_b0908a9cb9434cce78c34e4e7824a22a">primerjava</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="opustiti živinorejo" cluster="1" frequency="23" logDice="5.86">
+              <comp position="1" type="collocate" sloleks="LE_ffa7e5f725a6e5f901b0e080abf77227">opustiti</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="študirati živinorejo" cluster="2" frequency="13" logDice="5.21">
+              <comp position="1" type="collocate" sloleks="LE_8fcedbe5c41407d7555b644bcbfae016">študirati</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="vplivati na živinorejo" cluster="1" frequency="4" logDice="0.11">
+              <comp position="1" type="collocate" sloleks="LE_311f98501605bd2a2d7eaa33739357f6">vplivati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz od SBZ2">
+          <collocations>
+            <collocation form="živeti od živinoreje" cluster="1" frequency="10" logDice="5.31">
+              <comp position="1" type="collocate" sloleks="LE_42cc4ca3168ca0f408ce857620c0a7d0">živeti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz poleg SBZ2">
+          <collocations>
+            <collocation form="ukvarjati poleg živinoreje" cluster="1" frequency="6" logDice="8.41">
+              <comp position="1" type="collocate" sloleks="LE_d218d442858c415bdeff018dc056aea9">ukvarjati</comp>
+              <comp position="2" type="other" sloleks="LE_33c341016cb5696647a7f2c6cc689291">poleg</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="usmerjati v živinorejo" cluster="1" frequency="10" logDice="6.51">
+              <comp position="1" type="collocate" sloleks="LE_ad4029c72489130ff6100b3a2e83ae1b">usmerjati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="usmeriti v živinorejo" cluster="2" frequency="11" logDice="5.31">
+              <comp position="1" type="collocate" sloleks="LE_6a54c59b1c7f94addd58fc0e30dcd8dc">usmeriti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="preusmeriti v živinorejo" cluster="3" frequency="4" logDice="5.26">
+              <comp position="1" type="collocate" sloleks="LE_a38a2fe7592d1d98d15cb4b14b86b199">preusmeriti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="vlagati v živinorejo" cluster="4" frequency="5" logDice="3.43">
+              <comp position="1" type="collocate" sloleks="LE_143c95806399b04c3527f52148c7caf3">vlagati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="uporabljati v živinoreji" cluster="1" frequency="7" logDice="3.31">
+              <comp position="1" type="collocate" sloleks="LE_7a8b477802781e8149004a2a769c51c1">uporabljati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="dogajati v živinoreji" cluster="2" frequency="4" logDice="1.91">
+              <comp position="1" type="collocate" sloleks="LE_fcdfe5a73e67a26c48b2d03a9d989c6c">dogajati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="imeti v živinoreji" cluster="3" frequency="4" logDice="-0.97">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="pečati z živinorejo" cluster="1" frequency="10" logDice="8.68">
+              <comp position="1" type="collocate" sloleks="LE_48085740d5ee5ea9c3e3df6b46615511">pečati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="počenjati z Živinorejo" cluster="2" frequency="4" logDice="7.97">
+              <comp position="1" type="collocate" sloleks="LE_c4734f78c0d77c9272074bbd284a8029">počenjati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">Živinorejo</comp>
+            </collocation>
+            <collocation form="preživljati z živinorejo" cluster="3" frequency="16" logDice="6.6">
+              <comp position="1" type="collocate" sloleks="LE_dd6b659bb1696dc1baa94c382e5d84a0">preživljati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="ukvarjati z živinorejo" cluster="4" frequency="268" logDice="6.12">
+              <comp position="1" type="collocate" sloleks="LE_d218d442858c415bdeff018dc056aea9">ukvarjati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="odločiti za živinorejo" cluster="1" frequency="5" logDice="0.46">
+              <comp position="1" type="collocate" sloleks="LE_1849ab807e0602a0ae7fa9a648251d4b">odločiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="ekstenzivna živinoreja" cluster="1" frequency="24" logDice="8.41">
+              <comp position="1" type="collocate" sloleks="LE_8fff33ad49e5ea38aa4d69700353fd43">ekstenzivna</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+            </collocation>
+            <collocation form="množična živinoreja" cluster="2" frequency="43" logDice="4.89">
+              <comp position="1" type="collocate" sloleks="LE_f311b1f0569632b98fe2bd294e590d08">množična</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+            </collocation>
+            <collocation form="masovna živinoreja" cluster="2" frequency="32" logDice="7.88">
+              <comp position="1" type="collocate" sloleks="LE_3dd127fc2856a2bdd3ad9279a7da5b2a">masovna</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+            </collocation>
+            <collocation form="ekološka živinoreja" cluster="3" frequency="55" logDice="4.82">
+              <comp position="1" type="collocate" sloleks="LE_3f2454a6038fe4813583ddf6e24acb67">ekološka</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+            </collocation>
+            <collocation form="industrijska živinoreja" cluster="3" frequency="12" logDice="2.74">
+              <comp position="1" type="collocate" sloleks="LE_7ce3bc30099a08c105b842b5419bdc62">industrijska</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+            </collocation>
+            <collocation form="pomurska živinoreja" cluster="4" frequency="12" logDice="4.22">
+              <comp position="1" type="collocate" sloleks="LE_75da0183b6f891014905baf6cef48fbe">pomurska</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+            </collocation>
+            <collocation form="razvita živinoreja" cluster="5" frequency="30" logDice="4.09">
+              <comp position="1" type="collocate" sloleks="LE_4d2bdd7e4422f8328b9b369e46107f3a">razvita</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+            </collocation>
+            <collocation form="sodobna živinoreja" cluster="5" frequency="12" logDice="1.02">
+              <comp position="1" type="collocate" sloleks="LE_cac6ed684ec953de897ea1c45efb640b">sodobna</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+            </collocation>
+            <collocation form="celotna živinoreja" cluster="5" frequency="12" logDice="0.76">
+              <comp position="1" type="collocate" sloleks="LE_2a9735c2d6e5b20f692870fd84200f78">celotna</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+            </collocation>
+            <collocation form="namenjena živinoreja" cluster="6" frequency="14" logDice="1.42">
+              <comp position="1" type="collocate" sloleks="LE_eed44a3aaf6fe7ffbbb56cff0a5bde3b">namenjena</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+            </collocation>
+            <collocation form="primerna živinoreja" cluster="6" frequency="8" logDice="1.07">
+              <comp position="1" type="collocate" sloleks="LE_729f9977a82c3542ae4d4d8191bc0804">primerna</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+            </collocation>
+            <collocation form="slovenska živinoreja" cluster="7" frequency="132" logDice="1.21">
+              <comp position="1" type="collocate" sloleks="LE_de75b2f2edf5733ebcb1fb3a6e49b565">slovenska</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+            </collocation>
+            <collocation form="britanska živinoreja" cluster="7" frequency="8" logDice="1.14">
+              <comp position="1" type="collocate" sloleks="LE_676ba1b0b266514ee4b03a3d55b55910">britanska</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+            </collocation>
+            <collocation form="industrializirana živinoreja" cluster="8" frequency="8" logDice="7.34">
+              <comp position="1" type="collocate" sloleks="LE_941140842e47f12855b2f588636d80c6">industrializirana</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+            </collocation>
+            <collocation form="Visokogorska živinoreja" cluster="9" frequency="17" logDice="7.15">
+              <comp position="1" type="collocate" sloleks="LE_a0b5f3e852a091a8d12f95e1142ee6e6">Visokogorska</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+            </collocation>
+            <collocation form="pašna živinoreja" cluster="10" frequency="15" logDice="6.77">
+              <comp position="1" type="collocate" sloleks="LE_2983c3639590037121c90b65c8a84598">pašna</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+            </collocation>
+            <collocation form="nomadska živinoreja" cluster="11" frequency="9" logDice="6.68">
+              <comp position="1" type="collocate" sloleks="LE_108d49be6c5cc39d5eb4047013ffbf8d">nomadska</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+            </collocation>
+            <collocation form="hlevska živinoreja" cluster="12" frequency="16" logDice="6.31">
+              <comp position="1" type="collocate" sloleks="LE_5b23f425806b9e79b9572e78654ec37f">hlevska</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+            </collocation>
+            <collocation form="intenzivna živinoreja" cluster="13" frequency="81" logDice="6.14">
+              <comp position="1" type="collocate" sloleks="LE_da1f6deb7571d9d7b9b4273ce7358572">intenzivna</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+            </collocation>
+            <collocation form="mlečna živinoreja" cluster="14" frequency="34" logDice="5.35">
+              <comp position="1" type="collocate" sloleks="LE_dd1f6c328e36a6671d9c50c325fa7646">mlečna</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 v SBZ4">
+          <collocations>
+            <collocation form="usmerjen v živinorejo" cluster="1" frequency="68" logDice="7.61">
+              <comp position="1" type="collocate" sloleks="LE_aa26d431274738513b973be0e377e6ca">usmerjen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 v SBZ5">
+          <collocations>
+            <collocation form="izpričan v živinoreji" cluster="1" frequency="4" logDice="10.24">
+              <comp position="1" type="collocate" sloleks="LE_669b25779a75bc2199b1d02fa0977f37">izpričan</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 z SBZ6">
+          <collocations>
+            <collocation form="glaven z živinorejo" cluster="1" frequency="4" logDice="7.31">
+              <comp position="1" type="collocate" sloleks="LE_d2682b9f543a6df6814c2b0dde4cf533">glaven</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="povezan z živinorejo" cluster="2" frequency="17" logDice="2.03">
+              <comp position="1" type="collocate" sloleks="LE_84ef5df7d933128064d85c58468c7559">povezan</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 za SBZ4">
+          <collocations>
+            <collocation form="primeren za živinorejo" cluster="1" frequency="22" logDice="3.84">
+              <comp position="1" type="collocate" sloleks="LE_729f9977a82c3542ae4d4d8191bc0804">primeren</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="intenziviranje živinoreje" cluster="1" frequency="7" logDice="7.45">
+              <comp position="1" type="collocate" sloleks="LE_90e8def6f52d05bd4350f183bd457aea">intenziviranje</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="opuščanje živinoreje" cluster="2" frequency="15" logDice="7.04">
+              <comp position="1" type="collocate" sloleks="LE_3594346395d1334a5a9825352c6eca33">opuščanje</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="opustitev živinoreje" cluster="2" frequency="6" logDice="4.78">
+              <comp position="1" type="collocate" sloleks="LE_43c87f1dad8165f819992c5322404dfb">opustitev</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="področje živinoreje" cluster="3" frequency="196" logDice="4.61">
+              <comp position="1" type="collocate" sloleks="LE_66c02e1a651f578a71415b967738b69b">področje</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="osnova živinoreje" cluster="3" frequency="6" logDice="1.76">
+              <comp position="1" type="collocate" sloleks="LE_25d7e9c6fd68f8446f6a04b8cfe6afcd">osnova</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="breme živinoreje" cluster="4" frequency="8" logDice="4.29">
+              <comp position="1" type="collocate" sloleks="LE_edd76cfb7cf61c63412b2f134b3d235d">breme</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="študent živinoreje" cluster="5" frequency="15" logDice="4.19">
+              <comp position="1" type="collocate" sloleks="LE_2e7a1fef2084dabc5924b3b359fb109a">študent</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="veja živinoreje" cluster="6" frequency="7" logDice="3.97">
+              <comp position="1" type="collocate" sloleks="LE_3b64510c2ce1abbe1a994ff032f9ea0b">veja</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="razvoj živinoreje" cluster="7" frequency="93" logDice="3.81">
+              <comp position="1" type="collocate" sloleks="LE_59210d6d596fdb364ef1653bd49f3a75">razvoj</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="potreba živinoreje" cluster="7" frequency="12" logDice="2.9">
+              <comp position="1" type="collocate" sloleks="LE_16bf4d92d7aaee11efd4c8603b6e4ee0">potreba</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="napredek živinoreje" cluster="7" frequency="10" logDice="4.97">
+              <comp position="1" type="collocate" sloleks="LE_2d73efa461f58d356bd93f2f63b8454f">napredek</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="prihodnost živinoreje" cluster="7" frequency="9" logDice="3.37">
+              <comp position="1" type="collocate" sloleks="LE_0f987c9335ef2920c7afd61c36a192ed">prihodnost</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="pospeševanje živinoreje" cluster="8" frequency="10" logDice="4.88">
+              <comp position="1" type="collocate" sloleks="LE_05f1ffb8f1e61f41b0117c35994d4d66">pospeševanje</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="ohranitev živinoreje" cluster="8" frequency="9" logDice="3.73">
+              <comp position="1" type="collocate" sloleks="LE_0dc06fdc422364606e939d9acf3405a3">ohranitev</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="ohranjanje živinoreje" cluster="8" frequency="6" logDice="2.51">
+              <comp position="1" type="collocate" sloleks="LE_44224daf4151a99708dbab61619113e1">ohranjanje</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="spodbujanje živinoreje" cluster="8" frequency="5" logDice="2.57">
+              <comp position="1" type="collocate" sloleks="LE_9a2a2afab5cb4b8d4d1fd68a0997ddb3">spodbujanje</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="odprava živinoreje" cluster="9" frequency="8" logDice="2.82">
+              <comp position="1" type="collocate" sloleks="LE_8302d4e7a55df7fb9c5b73050563e677">odprava</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="ukinitev živinoreje" cluster="9" frequency="6" logDice="3.67">
+              <comp position="1" type="collocate" sloleks="LE_4bfe6674ade32682c091a9fae36154e5">ukinitev</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="obstoj živinoreje" cluster="9" frequency="5" logDice="2.74">
+              <comp position="1" type="collocate" sloleks="LE_aee76033cae29dd8cf4fdb4926ab6102">obstoj</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="obseg živinoreje" cluster="10" frequency="13" logDice="2.98">
+              <comp position="1" type="collocate" sloleks="LE_664a95da2cc6b19f039092a59f3a525f">obseg</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="delež živinoreje" cluster="10" frequency="5" logDice="0.91">
+              <comp position="1" type="collocate" sloleks="LE_8f8dbfe55e81431b97506b6dc95f9da4">delež</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="panoga živinoreje" cluster="11" frequency="12" logDice="6.94">
+              <comp position="1" type="collocate" sloleks="LE_5dd5d87c49a0de2c33e09014c426d8fd">panoga</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="oblika živinoreje" cluster="12" frequency="17" logDice="1.46">
+              <comp position="1" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">oblika</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="način živinoreje" cluster="12" frequency="11" logDice="0.83">
+              <comp position="1" type="collocate" sloleks="LE_78347f5e8e1e11f66d26223c13ba02df">način</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="pomen živinoreje" cluster="12" frequency="10" logDice="2.39">
+              <comp position="1" type="collocate" sloleks="LE_ef93d9cf9ab8a9c0f3eb6d73736a9dba">pomen</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="položaj živinoreje" cluster="12" frequency="9" logDice="2.02">
+              <comp position="1" type="collocate" sloleks="LE_0227904f3ee297f8f6c33b433ba96e65">položaj</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="problem živinoreje" cluster="12" frequency="7" logDice="1.91">
+              <comp position="1" type="collocate" sloleks="LE_978368a01311c2094cfb52416d9882f9">problem</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="posledica živinoreje" cluster="12" frequency="7" logDice="0.74">
+              <comp position="1" type="collocate" sloleks="LE_9e94e198ec2c32de37b2bd7b6e54af2e">posledica</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="kraj živinoreje" cluster="13" frequency="5" logDice="1.43">
+              <comp position="1" type="collocate" sloleks="LE_7f68ad51dbf6aa81c1b08f8afa92155d">kraj</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="pridelek živinoreje" cluster="14" frequency="8" logDice="5.29">
+              <comp position="1" type="collocate" sloleks="LE_df83e2f644a9365590dc9a9660ed1d03">pridelek</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="študij živinoreje" cluster="15" frequency="21" logDice="4.86">
+              <comp position="1" type="collocate" sloleks="LE_e52336022dd6b96e8c4202b06d39d187">študij</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="predstavitev živinoreje" cluster="15" frequency="6" logDice="1.18">
+              <comp position="1" type="collocate" sloleks="LE_408e1eaf13c0ef938c4e34e6c9a0a822">predstavitev</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="likvidacija živinoreje" cluster="16" frequency="5" logDice="5.21">
+              <comp position="1" type="collocate" sloleks="LE_2a7908accb57793728c384f5623ff1d2">likvidacija</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="inženir živinoreje" cluster="17" frequency="7" logDice="4.9">
+              <comp position="1" type="collocate" sloleks="LE_29ae545e4408a461aada4318e840153e">inženir</comp>
+              <comp position="2" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+            <collocation form="živinoreja fakultete" cluster="18" frequency="9" logDice="3.07">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="collocate" sloleks="LE_00551f6b0565bbceaf188a9fddd79b4d">fakultete</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="dohodek iz živinoreje" cluster="1" frequency="4" logDice="4.46">
+              <comp position="1" type="collocate" sloleks="LE_ec784d5d1024ff76eeea2a16583f1cd1">dohodek</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ5">
+          <collocations>
+            <collocation form="poudarek na živinoreji" cluster="1" frequency="10" logDice="4.54">
+              <comp position="1" type="collocate" sloleks="LE_757ee8afad3e3c0aabb08c6418303ba9">poudarek</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="živinoreja na gospodarstvu" cluster="2" frequency="5" logDice="7.15">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_b2c23c24d90d406931520c0ed138adc2">gospodarstvu</comp>
+            </collocation>
+            <collocation form="živinoreja na kmetiji" cluster="2" frequency="5" logDice="3.34">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_4b6dc4ee113f77788107a47c03291f40">kmetiji</comp>
+            </collocation>
+            <collocation form="živinoreja na pašniku" cluster="3" frequency="4" logDice="6.84">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_8e167e38356ab24969b250920ca63e9a">pašniku</comp>
+            </collocation>
+            <collocation form="živinoreja na območju" cluster="4" frequency="18" logDice="2.99">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_637bb12e70b217aeada98e77f3559b30">območju</comp>
+            </collocation>
+            <collocation form="živinoreja na področju" cluster="4" frequency="5" logDice="0.02">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_66c02e1a651f578a71415b967738b69b">področju</comp>
+            </collocation>
+            <collocation form="živinoreja na ravni" cluster="4" frequency="4" logDice="1.4">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_1c5879ca919226df3e61cfd0d36941e3">ravni</comp>
+            </collocation>
+            <collocation form="živinoreja na Primorskem" cluster="5" frequency="6" logDice="4.26">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_e71e119a702c5e3996812a7b3e174b91">Primorskem</comp>
+            </collocation>
+            <collocation form="živinoreja na Krasu" cluster="5" frequency="4" logDice="5.28">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_d2e49347bfce85a1e3867908b284ea65">Krasu</comp>
+            </collocation>
+            <collocation form="živinoreja na fakulteti" cluster="6" frequency="21" logDice="4.79">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_00551f6b0565bbceaf188a9fddd79b4d">fakulteti</comp>
+            </collocation>
+            <collocation form="živinoreja na Oddelku" cluster="6" frequency="4" logDice="3.76">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_f73286dd6f89a4307b05a1a8ffe3e326">Oddelku</comp>
+            </collocation>
+            <collocation form="živinoreja na Ptuju" cluster="7" frequency="7" logDice="4.79">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_a2f58eb8bd89b1883ea99538dfd1683c">Ptuju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="zakon o živinoreji" cluster="1" frequency="283" logDice="4.92">
+              <comp position="1" type="collocate" sloleks="LE_b3ce668b2bbbbdfa905463c113c05551">zakon</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="miza o živinoreji" cluster="2" frequency="4" logDice="4.7">
+              <comp position="1" type="collocate" sloleks="LE_f04e4cc44cf7497b038fc5fc1fd3eb30">miza</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="predavanje o živinoreji" cluster="3" frequency="4" logDice="3.98">
+              <comp position="1" type="collocate" sloleks="LE_ad184839a83413733999cf134c1bd522">predavanje</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="podatek o živinoreji" cluster="4" frequency="4" logDice="0.5">
+              <comp position="1" type="collocate" sloleks="LE_dceff032dbcde0be8f54f9dd068c8f74">podatek</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 od SBZ2">
+          <collocations>
+            <collocation form="dohodek od živinoreje" cluster="1" frequency="4" logDice="5.79">
+              <comp position="1" type="collocate" sloleks="LE_ec784d5d1024ff76eeea2a16583f1cd1">dohodek</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ4">
+          <collocations>
+            <collocation form="kmetija v živinorejo" cluster="1" frequency="4" logDice="8.25">
+              <comp position="1" type="collocate" sloleks="LE_4b6dc4ee113f77788107a47c03291f40">kmetija</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="selekcija v živinoreji" cluster="1" frequency="58" logDice="10.59">
+              <comp position="1" type="collocate" sloleks="LE_4b06502ff3facc2e75c8ba42e999c8e4">selekcija</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="raznovrstnost v živinoreji" cluster="2" frequency="37" logDice="10.32">
+              <comp position="1" type="collocate" sloleks="LE_c143f9d2d6ae6b15216bde0ea0773877">raznovrstnost</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="pestrost v živinoreji" cluster="2" frequency="4" logDice="7.31">
+              <comp position="1" type="collocate" sloleks="LE_5b3e58d1a7be3f1ac040a26501d03d60">pestrost</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="čreda v živinoreji" cluster="3" frequency="4" logDice="7.24">
+              <comp position="1" type="collocate" sloleks="LE_909472e0941aecce2c0f3366f8358c71">čreda</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="proizvodnja v živinoreji" cluster="4" frequency="27" logDice="6.92">
+              <comp position="1" type="collocate" sloleks="LE_4a1754c19d9e05c064189e8d6ddbd00a">proizvodnja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="uporaba v živinoreji" cluster="4" frequency="7" logDice="5.04">
+              <comp position="1" type="collocate" sloleks="LE_9999e7dc3b8f5571ba09e352c31aea3f">uporaba</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="tehnika v živinoreji" cluster="4" frequency="4" logDice="5.86">
+              <comp position="1" type="collocate" sloleks="LE_aa90d51520eb3d2bebaf7c31f2a23c3b">tehnika</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="zakonodaja v živinoreji" cluster="4" frequency="4" logDice="5.34">
+              <comp position="1" type="collocate" sloleks="LE_4468c129faae33bbee6d887e6b62b210">zakonodaja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="tehnologija v živinoreji" cluster="4" frequency="4" logDice="4.98">
+              <comp position="1" type="collocate" sloleks="LE_f60ec9358517b03c1fa8e59cbc05b034">tehnologija</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="antibiotik v živinoreji" cluster="5" frequency="4" logDice="6.89">
+              <comp position="1" type="collocate" sloleks="LE_9a5bcbdd4e8b6a6e4aa9177c2bc35904">antibiotik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="krma v živinoreji" cluster="6" frequency="4" logDice="6.84">
+              <comp position="1" type="collocate" sloleks="LE_b291592b892d5108296d33726c3140fd">krma</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="kmetovanje v živinoreji" cluster="7" frequency="4" logDice="6.74">
+              <comp position="1" type="collocate" sloleks="LE_0d9c72ffb4944bbf9fd6cfc855325809">kmetovanje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="naloga v živinoreji" cluster="8" frequency="25" logDice="6.69">
+              <comp position="1" type="collocate" sloleks="LE_85b4631dc6e0b0f426e7455c2bc6a05e">naloga</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="problematika v živinoreji" cluster="8" frequency="4" logDice="5.7">
+              <comp position="1" type="collocate" sloleks="LE_2fdb60174a8be4bfdfd09c22eb19246e">problematika</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="kriza v živinoreji" cluster="9" frequency="24" logDice="6.2">
+              <comp position="1" type="collocate" sloleks="LE_629f24cea35bb0632bed89b6a9abe142">kriza</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="razmera v živinoreji" cluster="9" frequency="24" logDice="4.4">
+              <comp position="1" type="collocate" sloleks="LE_f9cdd3c7dab1cb0cac2577ae8e353759">razmera</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="ukrep v živinoreji" cluster="9" frequency="17" logDice="6.38">
+              <comp position="1" type="collocate" sloleks="LE_255f7b84fe0103df32854855e1084ff0">ukrep</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="težava v živinoreji" cluster="9" frequency="12" logDice="4.41">
+              <comp position="1" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težava</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="stanje v živinoreji" cluster="9" frequency="8" logDice="3.75">
+              <comp position="1" type="collocate" sloleks="LE_2ad4e1571957d685096e1a60acee4119">stanje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="dogajanje v živinoreji" cluster="9" frequency="6" logDice="2.72">
+              <comp position="1" type="collocate" sloleks="LE_074089eeaa23c9e20e21a161e79f6956">dogajanje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="okolje v živinoreji" cluster="9" frequency="4" logDice="4.52">
+              <comp position="1" type="collocate" sloleks="LE_eb922917c5a94eb61166666cf13defaf">okolje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="problem v živinoreji" cluster="9" frequency="4" logDice="3.57">
+              <comp position="1" type="collocate" sloleks="LE_978368a01311c2094cfb52416d9882f9">problem</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="sprememba v živinoreji" cluster="9" frequency="4" logDice="1.76">
+              <comp position="1" type="collocate" sloleks="LE_43a3bb7510833003ff85626ef9cc9915">sprememba</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="delo v živinoreji" cluster="10" frequency="21" logDice="2.95">
+              <comp position="1" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="služba v živinoreji" cluster="10" frequency="18" logDice="5.39">
+              <comp position="1" type="collocate" sloleks="LE_595a77ebd11b27d069e3829b663f2954">služba</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="banka v živinoreji" cluster="10" frequency="18" logDice="5.34">
+              <comp position="1" type="collocate" sloleks="LE_efdb4fed18a2b60ac11282627b28fcfc">banka</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="organizacija v živinoreji" cluster="10" frequency="17" logDice="5.97">
+              <comp position="1" type="collocate" sloleks="LE_513f9f374314ddaf09bb7d123d083113">organizacija</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="del v živinoreji" cluster="10" frequency="10" logDice="5.01">
+              <comp position="1" type="collocate" sloleks="LE_7ec85158e392e2a539875a30cf8d3436">del</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="knjiga v živinoreji" cluster="10" frequency="4" logDice="3.83">
+              <comp position="1" type="collocate" sloleks="LE_fcbd23f52ef0d5c8f302f9c1ba64a0e3">knjiga</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="sistem v živinoreji" cluster="10" frequency="4" logDice="3.38">
+              <comp position="1" type="collocate" sloleks="LE_b126847d984efa55c2ffad50be4e1dac">sistem</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="kontrola v živinoreji" cluster="11" frequency="16" logDice="8.48">
+              <comp position="1" type="collocate" sloleks="LE_d7c5cb11f0555075d6a315facaadabe9">kontrola</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="nadzor v živinoreji" cluster="11" frequency="4" logDice="4.93">
+              <comp position="1" type="collocate" sloleks="LE_18a2adc6a9e973e769119006405e1c9d">nadzor</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="panoga v živinoreji" cluster="12" frequency="4" logDice="5.87">
+              <comp position="1" type="collocate" sloleks="LE_5dd5d87c49a0de2c33e09014c426d8fd">panoga</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="prehrana v živinoreji" cluster="13" frequency="5" logDice="5.86">
+              <comp position="1" type="collocate" sloleks="LE_cc45ccb9ca4af414d51013e339a1766f">prehrana</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="plačilo v živinoreji" cluster="14" frequency="6" logDice="5.45">
+              <comp position="1" type="collocate" sloleks="LE_3bb5e78707260b905240767d7a877341">plačilo</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="škoda v živinoreji" cluster="14" frequency="4" logDice="4.6">
+              <comp position="1" type="collocate" sloleks="LE_d0eef6fed3fa66df037002eb7e67a633">škoda</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="strošek v živinoreji" cluster="14" frequency="4" logDice="4.06">
+              <comp position="1" type="collocate" sloleks="LE_c04e68299307d659d0cadde6f5fc0c28">strošek</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="napredek v živinoreji" cluster="15" frequency="8" logDice="5.37">
+              <comp position="1" type="collocate" sloleks="LE_2d73efa461f58d356bd93f2f63b8454f">napredek</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="novost v živinoreji" cluster="15" frequency="6" logDice="4.41">
+              <comp position="1" type="collocate" sloleks="LE_1fd83056ddc5ef3b0aee396b7fc93f38">novost</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="dodatek v živinoreji" cluster="16" frequency="4" logDice="5.33">
+              <comp position="1" type="collocate" sloleks="LE_b823bdcf315aa4e078f3dbc0741bde3b">dodatek</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="DELOVODJA v ŽIVINOREJI" cluster="17" frequency="7" logDice="8.27">
+              <comp position="1" type="collocate" sloleks="LE_d6463a033a1f79d2d00f7c115bf69997">DELOVODJA</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">ŽIVINOREJI</comp>
+            </collocation>
+            <collocation form="žival v živinoreji" cluster="18" frequency="7" logDice="5.16">
+              <comp position="1" type="collocate" sloleks="LE_b6200c4865c660bb286b47ec062ae356">žival</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="zdravilo v živinoreji" cluster="18" frequency="4" logDice="4.93">
+              <comp position="1" type="collocate" sloleks="LE_005f608d88779abbae906ed3762c1400">zdravilo</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="snov v živinoreji" cluster="18" frequency="4" logDice="4.34">
+              <comp position="1" type="collocate" sloleks="LE_e3520ad3a55d265bbaf91aacf6222027">snov</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="moka v živinoreji" cluster="19" frequency="10" logDice="8.16">
+              <comp position="1" type="collocate" sloleks="LE_a241cee9bb10fa419b4c41ff117ba117">moka</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="agonist v živinoreji" cluster="20" frequency="5" logDice="7.92">
+              <comp position="1" type="collocate" sloleks="LE_c290609c4ee0e29140515c952dad1446">agonist</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="proizvodnost v živinoreji" cluster="21" frequency="5" logDice="7.89">
+              <comp position="1" type="collocate" sloleks="LE_645e41fc5e3157275523f59d65fa8704">proizvodnost</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="potencial v živinoreji" cluster="22" frequency="8" logDice="7.49">
+              <comp position="1" type="collocate" sloleks="LE_1e18b66211c18813517345aed8f35ef9">potencial</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="produktivnost v živinoreji" cluster="23" frequency="7" logDice="7.44">
+              <comp position="1" type="collocate" sloleks="LE_4576ca4a9dd83800a1f12c63cc6f260a">produktivnost</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="ekologija v živinoreji" cluster="24" frequency="5" logDice="7.4">
+              <comp position="1" type="collocate" sloleks="LE_afb5f4306923727b07f9e781747cb209">ekologija</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreji</comp>
+            </collocation>
+            <collocation form="živinoreja v KGZ" cluster="25" frequency="9" logDice="9.74">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_eca224ad8a77cc631a37b8b49d72e6fb|LE_2aa9d102defc28954cab79c1cddee35f">KGZ</comp>
+            </collocation>
+            <collocation form="živinoreja v Ptuju" cluster="26" frequency="11" logDice="7.34">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_a2f58eb8bd89b1883ea99538dfd1683c">Ptuju</comp>
+            </collocation>
+            <collocation form="živinoreja v Sloveniji" cluster="27" frequency="13" logDice="1.02">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Sloveniji</comp>
+            </collocation>
+            <collocation form="živinoreja v Evropi" cluster="27" frequency="8" logDice="2.09">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_0c70d71bb49cb550bb4e854282407723">Evropi</comp>
+            </collocation>
+            <collocation form="živinoreja v letu" cluster="27" frequency="8" logDice="0.31">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">letu</comp>
+            </collocation>
+            <collocation form="živinoreja v svetu" cluster="27" frequency="4" logDice="1.26">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_55184295ed657acc8ec5dcd62f7084bf">svetu</comp>
+            </collocation>
+            <collocation form="živinoreja v državi" cluster="27" frequency="4" logDice="0.23">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">državi</comp>
+            </collocation>
+            <collocation form="živinoreja v zavodu" cluster="28" frequency="27" logDice="7.06">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_2777d6c1285e9554661aeab8eb5b4753">zavodu</comp>
+            </collocation>
+            <collocation form="živinoreja v službi" cluster="28" frequency="7" logDice="3.9">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_595a77ebd11b27d069e3829b663f2954">službi</comp>
+            </collocation>
+            <collocation form="živinoreja v uniji" cluster="28" frequency="5" logDice="3.83">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_19d11bdeb19509344e7104a009ad1c7d">uniji</comp>
+            </collocation>
+            <collocation form="živinoreja v EU" cluster="28" frequency="4" logDice="2.85">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_f4a4c4f250b57db7b964fb76e0012f0b|LE_2b43a390ffa3cfc6540d755cac383a5e">EU</comp>
+            </collocation>
+            <collocation form="živinoreja v Logatcu" cluster="29" frequency="4" logDice="5.19">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_84fa543c93ed2973d511737452429b78">Logatcu</comp>
+            </collocation>
+            <collocation form="živinoreja v kmetijstvu" cluster="30" frequency="6" logDice="4.5">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_714e171933e384aae7a0aa6896ef72d6">kmetijstvu</comp>
+            </collocation>
+            <collocation form="živinoreja v območju" cluster="31" frequency="5" logDice="4.1">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_637bb12e70b217aeada98e77f3559b30">območju</comp>
+            </collocation>
+            <collocation form="živinoreja v kraju" cluster="31" frequency="4" logDice="2.41">
+              <comp position="1" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinoreja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_7f68ad51dbf6aa81c1b08f8afa92155d">kraju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="specialist za živinorejo" cluster="1" frequency="61" logDice="8.13">
+              <comp position="1" type="collocate" sloleks="LE_efc2432aaa7c892ff8de3f6e10e91cf6">specialist</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="sektor za živinorejo" cluster="2" frequency="56" logDice="7.72">
+              <comp position="1" type="collocate" sloleks="LE_d7113705997fb9a704cd3450fc76cb87">sektor</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="kmetijstvo za živinorejo" cluster="2" frequency="9" logDice="7.75">
+              <comp position="1" type="collocate" sloleks="LE_714e171933e384aae7a0aa6896ef72d6">kmetijstvo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="zavod za živinorejo" cluster="3" frequency="197" logDice="6.31">
+              <comp position="1" type="collocate" sloleks="LE_2777d6c1285e9554661aeab8eb5b4753">zavod</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="oddelek za živinorejo" cluster="3" frequency="121" logDice="6.29">
+              <comp position="1" type="collocate" sloleks="LE_f73286dd6f89a4307b05a1a8ffe3e326">oddelek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="svet za živinorejo" cluster="3" frequency="45" logDice="5.48">
+              <comp position="1" type="collocate" sloleks="LE_55184295ed657acc8ec5dcd62f7084bf">svet</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="center za živinorejo" cluster="3" frequency="17" logDice="3.13">
+              <comp position="1" type="collocate" sloleks="LE_2f065577a7792f26481f7fba67e1e5ab">center</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="služba za živinorejo" cluster="3" frequency="15" logDice="4.3">
+              <comp position="1" type="collocate" sloleks="LE_595a77ebd11b27d069e3829b663f2954">služba</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="sklad za živinorejo" cluster="3" frequency="9" logDice="3.8">
+              <comp position="1" type="collocate" sloleks="LE_799c26a9ef189681d32106d72cb282a0">sklad</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="EU za živinorejo" cluster="4" frequency="6" logDice="5.29">
+              <comp position="1" type="collocate" sloleks="LE_f4a4c4f250b57db7b964fb76e0012f0b|LE_2b43a390ffa3cfc6540d755cac383a5e">EU</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="pogoj za živinorejo" cluster="5" frequency="8" logDice="1.59">
+              <comp position="1" type="collocate" sloleks="LE_65a7484d8f00462cb9c06a20e91d010f">pogoj</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="izziv za živinorejo" cluster="5" frequency="5" logDice="4.96">
+              <comp position="1" type="collocate" sloleks="LE_68030fbfa88b92ad387b844502dd8644">izziv</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="možnost za živinorejo" cluster="5" frequency="5" logDice="0.93">
+              <comp position="1" type="collocate" sloleks="LE_2e00efc106e45a8fd5ad17e06d9e6382">možnost</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="oprema za živinorejo" cluster="6" frequency="12" logDice="4.38">
+              <comp position="1" type="collocate" sloleks="LE_7c582f88b553e5dc3aeb56af36d217ec">oprema</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="pripomoček za živinorejo" cluster="6" frequency="4" logDice="3.96">
+              <comp position="1" type="collocate" sloleks="LE_708e8688a229e661e0b8e813c4453a4e">pripomoček</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="združenje za živinorejo" cluster="7" frequency="27" logDice="6.3">
+              <comp position="1" type="collocate" sloleks="LE_7a22a73126b77d071ee8e6cf0ef9b2cb">združenje</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="inštitut za živinorejo" cluster="7" frequency="10" logDice="3.37">
+              <comp position="1" type="collocate" sloleks="LE_656c06c9eac2e2d364a723c828c33be4">inštitut</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="odbor za živinorejo" cluster="7" frequency="8" logDice="2.29">
+              <comp position="1" type="collocate" sloleks="LE_8a88fc8558d7aaf0322ca909aacb4ac0">odbor</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="fakulteta za živinorejo" cluster="7" frequency="5" logDice="2.13">
+              <comp position="1" type="collocate" sloleks="LE_00551f6b0565bbceaf188a9fddd79b4d">fakulteta</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="svetovalec za živinorejo" cluster="8" frequency="25" logDice="6.9">
+              <comp position="1" type="collocate" sloleks="LE_d274bfcc4961156353a91ad8ac94745e">svetovalec</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="strokovnjak za živinorejo" cluster="8" frequency="6" logDice="3.27">
+              <comp position="1" type="collocate" sloleks="LE_f148c89ddbbfc6907ba9fc0273aa62b7">strokovnjak</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="minister za živinorejo" cluster="8" frequency="4" logDice="0.36">
+              <comp position="1" type="collocate" sloleks="LE_14d03bd4c4af80feb9e303c813fc6d24">minister</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="hlev za živinorejo" cluster="9" frequency="5" logDice="6.71">
+              <comp position="1" type="collocate" sloleks="LE_ca0e26d461ab0913ccc271f979dc7368">hlev</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="baza za živinorejo" cluster="10" frequency="5" logDice="6.61">
+              <comp position="1" type="collocate" sloleks="LE_93a7dc5be8f36d1f6d4a11e746674f40">baza</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+            <collocation form="referent za živinorejo" cluster="11" frequency="4" logDice="6.22">
+              <comp position="1" type="collocate" sloleks="LE_9834a1b9d7c046a003e96391ec58a4dc">referent</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_6afd4b92d3f6762accd32197c3623877">živinorejo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

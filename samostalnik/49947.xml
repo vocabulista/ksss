@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="49947">bord</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">459</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="voziti z bordom" cluster="1" frequency="4" logDice="3.18">
+              <comp position="1" type="collocate" sloleks="LE_a5dbc789e94ecbcd6944586a415ba94d">voziti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_decc9a12713464f2d22cb82510128568">bordom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Dovniković Borda" cluster="1" frequency="8" logDice="12.11">
+              <comp position="1" type="collocate" sloleks="">Dovniković</comp>
+              <comp position="2" type="headword" sloleks="LE_decc9a12713464f2d22cb82510128568">Borda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

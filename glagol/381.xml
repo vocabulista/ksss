@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="381">avtorizirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">403</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="avtorizirati posredovanje" cluster="1" frequency="4" logDice="5.91">
+              <comp position="1" type="headword" sloleks="LE_920bc2ea1560bbea3a209af4712a7296">avtorizirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_dd668a07179abeadcb72c647bdeba3c8">posredovanje</comp>
+            </collocation>
+            <collocation form="avtorizirati uporabo" cluster="2" frequency="7" logDice="3.29">
+              <comp position="1" type="headword" sloleks="LE_920bc2ea1560bbea3a209af4712a7296">avtorizirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_9999e7dc3b8f5571ba09e352c31aea3f">uporabo</comp>
+            </collocation>
+            <collocation form="avtorizirati izjavo" cluster="3" frequency="6" logDice="3.01">
+              <comp position="1" type="headword" sloleks="LE_920bc2ea1560bbea3a209af4712a7296">avtorizirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_43a60c321a9a7889eb71aacc9ccb368f">izjavo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="osebno avtorizirati" cluster="1" frequency="4" logDice="2.03">
+              <comp position="1" type="collocate" sloleks="LE_603e7a8240bc1aa19acb41b9307e8273">osebno</comp>
+              <comp position="2" type="headword" sloleks="LE_920bc2ea1560bbea3a209af4712a7296">avtorizirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

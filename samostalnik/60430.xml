@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="60430">inicialka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">752</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="inicialka imena" cluster="1" frequency="32" logDice="5.23">
+              <comp position="1" type="headword" sloleks="LE_f606c4fba2898c7a6839de07289b0932">inicialka</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">imena</comp>
+            </collocation>
+            <collocation form="inicialka lastnika" cluster="2" frequency="10" logDice="3.3">
+              <comp position="1" type="headword" sloleks="LE_f606c4fba2898c7a6839de07289b0932">inicialka</comp>
+              <comp position="2" type="collocate" sloleks="LE_66c7de1ac3f03dd18265b3091c93bdc0">lastnika</comp>
+            </collocation>
+            <collocation form="objava inicialke" cluster="3" frequency="6" logDice="2.3">
+              <comp position="1" type="collocate" sloleks="LE_310d9afc4d8e7202a42ccfda4ceb91c8">objava</comp>
+              <comp position="2" type="headword" sloleks="LE_f606c4fba2898c7a6839de07289b0932">inicialke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="vgravirana inicialka" cluster="1" frequency="10" logDice="8.4">
+              <comp position="1" type="collocate" sloleks="LE_d85f42ba7be1f51f7f982a3749990019">vgravirana</comp>
+              <comp position="2" type="headword" sloleks="LE_f606c4fba2898c7a6839de07289b0932">inicialka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 z SBZ6">
+          <collocations>
+            <collocation form="podpisan z inicialko" cluster="1" frequency="7" logDice="8.18">
+              <comp position="1" type="collocate" sloleks="LE_1fb47184fa62616d7e8971a8b841e2a7">podpisan</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_f606c4fba2898c7a6839de07289b0932">inicialko</comp>
+            </collocation>
+            <collocation form="okrašen z inicialko" cluster="2" frequency="4" logDice="4.52">
+              <comp position="1" type="collocate" sloleks="LE_5b2fa0dbaed38c83e234208e65e5c3b6">okrašen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_f606c4fba2898c7a6839de07289b0932">inicialko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="novinar z inicialko" cluster="1" frequency="7" logDice="7.53">
+              <comp position="1" type="collocate" sloleks="LE_e20eb7206d68378732e9d3ec88e921cc">novinar</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_f606c4fba2898c7a6839de07289b0932">inicialko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

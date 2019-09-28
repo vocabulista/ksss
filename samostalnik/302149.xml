@@ -1,0 +1,32 @@
+<entry>
+  <header>
+    <lexical_unit id="302149">cabernet</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="cabernet sauvignona" cluster="1" frequency="211" logDice="13.48">
+              <comp position="1" type="headword" sloleks="">cabernet</comp>
+              <comp position="2" type="collocate" sloleks="LE_8e90871317620109bd7eb4d6ac84e29f">sauvignona</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="rdeč cabernet" cluster="1" frequency="14" logDice="1.13">
+              <comp position="1" type="collocate" sloleks="LE_f39824a0a0c94efb31b4fa9dc908ea0f">rdeč</comp>
+              <comp position="2" type="headword" sloleks="">cabernet</comp>
+            </collocation>
+            <collocation form="odprt cabernet" cluster="2" frequency="9" logDice="0.96">
+              <comp position="1" type="collocate" sloleks="LE_4fee2700c77cfe4618d574b223a3d625">odprt</comp>
+              <comp position="2" type="headword" sloleks="">cabernet</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

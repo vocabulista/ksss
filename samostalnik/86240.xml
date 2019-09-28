@@ -1,0 +1,35 @@
+<entry>
+  <header>
+    <lexical_unit id="86240">rezika</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">505</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="navadna rezika" cluster="1" frequency="21" logDice="3.12">
+              <comp position="1" type="collocate" sloleks="LE_f59369d8b37702c03d2e6f31cbe3f5d8">navadna</comp>
+              <comp position="2" type="headword" sloleks="LE_dd64fbb0d37ad5afe0ae971044182a9c">rezika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 pri SBZ5">
+          <collocations>
+            <collocation form="Bar pri Reziki" cluster="1" frequency="7" logDice="12.41">
+              <comp position="1" type="collocate" sloleks="LE_6acedcde8ed151596bbb6c39b8cdefe5">Bar</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_dd64fbb0d37ad5afe0ae971044182a9c">Reziki</comp>
+            </collocation>
+            <collocation form="Bar pri Reziki" cluster="2" frequency="4" logDice="9.43">
+              <comp position="1" type="collocate" sloleks="LE_a295d1021e0320f31f2695e1ae4b8d29">Bar</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_dd64fbb0d37ad5afe0ae971044182a9c">Reziki</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

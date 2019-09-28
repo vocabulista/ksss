@@ -1,0 +1,72 @@
+<entry>
+  <header>
+    <lexical_unit id="98290">zapitek</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">661</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="zapitek z bankovcem" cluster="1" frequency="6" logDice="9.22">
+              <comp position="1" type="headword" sloleks="LE_22bec3761a1045c8e166875c4246fdda">zapitek</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_d55768c50d5e8b5f41797aa9c41e83b6">bankovcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="plačati zapitek" cluster="1" frequency="137" logDice="6.59">
+              <comp position="1" type="collocate" sloleks="LE_65a8257a4777d91ca083d5d192fee299">plačati</comp>
+              <comp position="2" type="headword" sloleks="LE_22bec3761a1045c8e166875c4246fdda">zapitek</comp>
+            </collocation>
+            <collocation form="plačevati zapitek" cluster="2" frequency="47" logDice="5.64">
+              <comp position="1" type="collocate" sloleks="LE_c3ea35fd182867a327a727a61b63d4e8">plačevati</comp>
+              <comp position="2" type="headword" sloleks="LE_22bec3761a1045c8e166875c4246fdda">zapitek</comp>
+            </collocation>
+            <collocation form="poravnati zapitek" cluster="3" frequency="15" logDice="5.6">
+              <comp position="1" type="collocate" sloleks="LE_80e628968b00c009b9ddd160bc41270b">poravnati</comp>
+              <comp position="2" type="headword" sloleks="LE_22bec3761a1045c8e166875c4246fdda">zapitek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="neplačan zapitek" cluster="1" frequency="9" logDice="5.4">
+              <comp position="1" type="collocate" sloleks="LE_101c7e4b957f1aaee3cd0bc4e9fb0437">neplačan</comp>
+              <comp position="2" type="headword" sloleks="LE_22bec3761a1045c8e166875c4246fdda">zapitek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="plačevanje zapitka" cluster="1" frequency="7" logDice="3.76">
+              <comp position="1" type="collocate" sloleks="LE_94140f5f661b1cd220c1a624d412d1a1">plačevanje</comp>
+              <comp position="2" type="headword" sloleks="LE_22bec3761a1045c8e166875c4246fdda">zapitka</comp>
+            </collocation>
+            <collocation form="plačilo zapitka" cluster="2" frequency="20" logDice="3.56">
+              <comp position="1" type="collocate" sloleks="LE_3bb5e78707260b905240767d7a877341">plačilo</comp>
+              <comp position="2" type="headword" sloleks="LE_22bec3761a1045c8e166875c4246fdda">zapitka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="račun za zapitek" cluster="1" frequency="14" logDice="5.44">
+              <comp position="1" type="collocate" sloleks="LE_03d4207cd319441760ba30bae2e1320e">račun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_22bec3761a1045c8e166875c4246fdda">zapitek</comp>
+            </collocation>
+            <collocation form="zapitek za model" cluster="2" frequency="5" logDice="5.78">
+              <comp position="1" type="headword" sloleks="LE_22bec3761a1045c8e166875c4246fdda">zapitek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_00f514f4ab76241d7f74b78e7f7fd1e5|LE_2faafd51dc30a40943b7e986dbaa7456">model</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

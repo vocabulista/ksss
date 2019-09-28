@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="24137">mnogovrsten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">409</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="mnogovrstna oblika" cluster="1" frequency="9" logDice="0.54">
+              <comp position="1" type="headword" sloleks="LE_4a8dd01cd777f7cbb3fded3945dbd2a0">mnogovrstna</comp>
+              <comp position="2" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">oblika</comp>
+            </collocation>
+            <collocation form="mnogovrstna možnost" cluster="1" frequency="6" logDice="0.68">
+              <comp position="1" type="headword" sloleks="LE_4a8dd01cd777f7cbb3fded3945dbd2a0">mnogovrstna</comp>
+              <comp position="2" type="collocate" sloleks="LE_2e00efc106e45a8fd5ad17e06d9e6382">možnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="mnogovrsten in/ali številen" cluster="1" frequency="5" logDice="6.09">
+              <comp position="3" type="headword" sloleks="LE_4a8dd01cd777f7cbb3fded3945dbd2a0">mnogovrsten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_4f31fb911f8a68938dce145d431affa8">številen</comp>
+              </collocation>
+            <collocation form="mnogovrsten in/ali pester" cluster="2" frequency="5" logDice="5.35">
+              <comp position="3" type="headword" sloleks="LE_4a8dd01cd777f7cbb3fded3945dbd2a0">mnogovrsten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_1bbaa259f4398302c0145e7882da9ff4">pester</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

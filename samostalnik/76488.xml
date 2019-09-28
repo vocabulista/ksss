@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="76488">pagina</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">5863</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz5">
+          <collocations>
+            <collocation form="pagina na strani" cluster="1" frequency="65" logDice="4.37">
+              <comp position="1" type="headword" sloleks="LE_ca4212b620e413a38a4453fe96dcb812">pagina</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_4432316ca39663f747c84fc21ac8e398">strani</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="živa pagina" cluster="1" frequency="539" logDice="7.65">
+              <comp position="1" type="collocate" sloleks="LE_d631b22ec6f88d4b2d35a791ecefe4f6">živa</comp>
+              <comp position="2" type="headword" sloleks="LE_ca4212b620e413a38a4453fe96dcb812">pagina</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

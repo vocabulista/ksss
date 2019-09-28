@@ -1,0 +1,504 @@
+<entry>
+  <header>
+    <lexical_unit id="87969">sela</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">3721</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="sela gore" cluster="1" frequency="42" logDice="6.01">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="collocate" sloleks="LE_8faa372c7e81e800eb88188ec3f5cde9">gore</comp>
+            </collocation>
+            <collocation form="Dečnih sel" cluster="2" frequency="5" logDice="11.0">
+              <comp position="1" type="collocate" sloleks="">Dečnih</comp>
+              <comp position="2" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sel</comp>
+            </collocation>
+            <collocation form="krajan sel" cluster="3" frequency="13" logDice="5.67">
+              <comp position="1" type="collocate" sloleks="LE_20101938b8a8336a4f15b2a669153dae">krajan</comp>
+              <comp position="2" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sel</comp>
+            </collocation>
+            <collocation form="okolica sel" cluster="4" frequency="9" logDice="2.39">
+              <comp position="1" type="collocate" sloleks="LE_47ad0b8169f925a63d1a9ab41a6ec943">okolica</comp>
+              <comp position="2" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sel</comp>
+            </collocation>
+            <collocation form="območje sel" cluster="4" frequency="7" logDice="0.55">
+              <comp position="1" type="collocate" sloleks="LE_637bb12e70b217aeada98e77f3559b30">območje</comp>
+              <comp position="2" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sel</comp>
+            </collocation>
+            <collocation form="prebivalec sel" cluster="5" frequency="6" logDice="1.85">
+              <comp position="1" type="collocate" sloleks="LE_0e2bcaf74d0b5c1a1b07fb37c4fefe3d">prebivalec</comp>
+              <comp position="2" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sel</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ5">
+          <collocations>
+            <collocation form="imeti na selih" cluster="1" frequency="9" logDice="1.78">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz pri SBZ5">
+          <collocations>
+            <collocation form="prodati pri selih" cluster="1" frequency="8" logDice="8.18">
+              <comp position="1" type="collocate" sloleks="LE_da511613d06b8d98752e3b8361d4d314">prodati</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Uršna sela" cluster="1" frequency="1668" logDice="13.65">
+              <comp position="1" type="collocate" sloleks="LE_dbfb8bd4b144cf7f23dd3ecd1fbc43f4">Uršna</comp>
+              <comp position="2" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+            </collocation>
+            <collocation form="Drganja sela" cluster="1" frequency="137" logDice="10.74">
+              <comp position="1" type="collocate" sloleks="LE_a7d21655abcb9eb7f4de2fdb2871671b">Drganja</comp>
+              <comp position="2" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+            </collocation>
+            <collocation form="mrčen sela" cluster="1" frequency="123" logDice="10.61">
+              <comp position="1" type="collocate" sloleks="">mrčen</comp>
+              <comp position="2" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+            </collocation>
+            <collocation form="dečen sela" cluster="1" frequency="63" logDice="9.5">
+              <comp position="1" type="collocate" sloleks="">dečen</comp>
+              <comp position="2" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+            </collocation>
+            <collocation form="uršen sela" cluster="1" frequency="50" logDice="9.35">
+              <comp position="1" type="collocate" sloleks="">uršen</comp>
+              <comp position="2" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+            </collocation>
+            <collocation form="Arnova sela" cluster="1" frequency="17" logDice="7.68">
+              <comp position="1" type="collocate" sloleks="LE_1912df245046d67006a5791423eab0b3">Arnova</comp>
+              <comp position="2" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+            </collocation>
+            <collocation form="Lepa sela" cluster="2" frequency="52" logDice="2.17">
+              <comp position="1" type="collocate" sloleks="LE_2653684c0f477a883f152a3e6d1d0766">Lepa</comp>
+              <comp position="2" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+            </collocation>
+            <collocation form="Mala sela" cluster="2" frequency="34" logDice="1.93">
+              <comp position="1" type="collocate" sloleks="LE_0b2cc34f00671cbd2bc04dca56aba76b">Mala</comp>
+              <comp position="2" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+            </collocation>
+            <collocation form="s sela" cluster="3" frequency="29" logDice="8.29">
+              <comp position="1" type="collocate" sloleks="">s</comp>
+              <comp position="2" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+            </collocation>
+            <collocation form="atrijska Sela" cluster="4" frequency="25" logDice="7.7">
+              <comp position="1" type="collocate" sloleks="LE_c6127727b56a7ba1d213bfa8d0722f74">atrijska</comp>
+              <comp position="2" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">Sela</comp>
+            </collocation>
+            <collocation form="Kulov sela" cluster="5" frequency="12" logDice="7.32">
+              <comp position="1" type="collocate" sloleks="">Kulov</comp>
+              <comp position="2" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+            </collocation>
+            <collocation form="zagorska sela" cluster="6" frequency="25" logDice="6.69">
+              <comp position="1" type="collocate" sloleks="LE_f40b6c2b94fa1ecd0b17a9b9dbb1d09c">zagorska</comp>
+              <comp position="2" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="Planina iz Sel" cluster="1" frequency="10" logDice="10.45">
+              <comp position="1" type="collocate" sloleks="LE_0a9561a718db359041e1c70714104a54">Planina</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">Sel</comp>
+            </collocation>
+            <collocation form="kapela iz Sel" cluster="2" frequency="7" logDice="9.38">
+              <comp position="1" type="collocate" sloleks="LE_93377376cfec00dee2cb2f193b8fa807">kapela</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">Sel</comp>
+            </collocation>
+            <collocation form="Selan iz sel" cluster="3" frequency="5" logDice="9.21">
+              <comp position="1" type="collocate" sloleks="LE_71321e65c9e40266a3a4954858abec5a|LE_63b4e8982dc7e85420c848c669810d6c">Selan</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sel</comp>
+            </collocation>
+            <collocation form="Župevc iz sel" cluster="4" frequency="4" logDice="9.1">
+              <comp position="1" type="collocate" sloleks="">Župevc</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sel</comp>
+            </collocation>
+            <collocation form="Černelič iz sel" cluster="5" frequency="4" logDice="9.09">
+              <comp position="1" type="collocate" sloleks="">Černelič</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sel</comp>
+            </collocation>
+            <collocation form="kmet iz sel" cluster="6" frequency="5" logDice="6.08">
+              <comp position="1" type="collocate" sloleks="LE_5fb2f2edbdd5aa2d939dbbca1647eb44">kmet</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sel</comp>
+            </collocation>
+            <collocation form="zbor iz sel" cluster="7" frequency="6" logDice="5.59">
+              <comp position="1" type="collocate" sloleks="LE_56ae41b6d71148e851cdd275624be8f4">zbor</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sel</comp>
+            </collocation>
+            <collocation form="skupina iz sel" cluster="7" frequency="6" logDice="4.76">
+              <comp position="1" type="collocate" sloleks="LE_7a31c94cb05484f8e60e8fbc4dad6a50">skupina</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sel</comp>
+            </collocation>
+            <collocation form="društvo iz sel" cluster="7" frequency="5" logDice="5.53">
+              <comp position="1" type="collocate" sloleks="LE_f1fd3c17e2206150a5ab762769b6e8ff">društvo</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sel</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ5">
+          <collocations>
+            <collocation form="samotar na selih" cluster="1" frequency="11" logDice="10.15">
+              <comp position="1" type="collocate" sloleks="LE_3f62ee988876ddab56677402863b0a51">samotar</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+            <collocation form="štorklja na Selih" cluster="2" frequency="4" logDice="8.5">
+              <comp position="1" type="collocate" sloleks="LE_43276b373fc5d2cda68b114672b7c9b5">štorklja</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">Selih</comp>
+            </collocation>
+            <collocation form="dom na selih" cluster="3" frequency="14" logDice="5.1">
+              <comp position="1" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">dom</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+            <collocation form="šola na selih" cluster="3" frequency="12" logDice="5.5">
+              <comp position="1" type="collocate" sloleks="LE_9c664dac39a3cc920d3849a80fadafa1">šola</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+            <collocation form="stavba na selih" cluster="3" frequency="8" logDice="5.86">
+              <comp position="1" type="collocate" sloleks="LE_d6a366f04b453f7b73bf85471dedf273">stavba</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+            <collocation form="hiša na selih" cluster="3" frequency="8" logDice="4.19">
+              <comp position="1" type="collocate" sloleks="LE_34e4b2cb65c667c6bf374f39db0e3597">hiša</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+            <collocation form="postaja na selih" cluster="3" frequency="6" logDice="5.54">
+              <comp position="1" type="collocate" sloleks="LE_6a105dd25229a952f54692e093d1479c">postaja</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+            <collocation form="naprava na selih" cluster="3" frequency="5" logDice="5.59">
+              <comp position="1" type="collocate" sloleks="LE_35970ca9f3b04f4bc834eb0dfdb70a08">naprava</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+            <collocation form="trgovina na selih" cluster="3" frequency="5" logDice="5.3">
+              <comp position="1" type="collocate" sloleks="LE_e6520ed1b394dc72516ec7ff3398e16c">trgovina</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+            <collocation form="cesta na selih" cluster="4" frequency="4" logDice="4.5">
+              <comp position="1" type="collocate" sloleks="LE_0e822f9721ddeb3fd7d90e02f70c9a2f">cesta</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+            <collocation form="leto na selih" cluster="5" frequency="6" logDice="3.09">
+              <comp position="1" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leto</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+            <collocation form="palček na selih" cluster="6" frequency="4" logDice="8.38">
+              <comp position="1" type="collocate" sloleks="LE_1a08dc9e17ddf5a5ad6d1fd33ae5dfc4">palček</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+            <collocation form="kanalizacija na Selih" cluster="7" frequency="6" logDice="7.72">
+              <comp position="1" type="collocate" sloleks="LE_4663f55b387a45ec82b499eb54850a9d">kanalizacija</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">Selih</comp>
+            </collocation>
+            <collocation form="vežica na selih" cluster="8" frequency="5" logDice="7.64">
+              <comp position="1" type="collocate" sloleks="LE_c47d5d80814891ba267cc8a27d3f6bf4">vežica</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+            <collocation form="gostilna na Selih" cluster="9" frequency="9" logDice="7.62">
+              <comp position="1" type="collocate" sloleks="LE_c768718679304d30d9dda056a08c37e4">gostilna</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">Selih</comp>
+            </collocation>
+            <collocation form="pokopališče na selih" cluster="10" frequency="7" logDice="7.61">
+              <comp position="1" type="collocate" sloleks="LE_c5252176908282ab1877a04327ecf95a">pokopališče</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+            <collocation form="kmetija na Selih" cluster="11" frequency="7" logDice="6.63">
+              <comp position="1" type="collocate" sloleks="LE_4b6dc4ee113f77788107a47c03291f40">kmetija</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">Selih</comp>
+            </collocation>
+            <collocation form="cona na Selih" cluster="12" frequency="5" logDice="6.44">
+              <comp position="1" type="collocate" sloleks="LE_b9b311cee17fff1e51df62f704cbbf2e">cona</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">Selih</comp>
+            </collocation>
+            <collocation form="spomenik na Selih" cluster="13" frequency="4" logDice="6.01">
+              <comp position="1" type="collocate" sloleks="LE_e9eaab1fe0b5a887e9cdfbc2b0d56ab9">spomenik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">Selih</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 od SBZ2">
+          <collocations>
+            <collocation form="cesta od sel" cluster="1" frequency="7" logDice="5.31">
+              <comp position="1" type="collocate" sloleks="LE_0e822f9721ddeb3fd7d90e02f70c9a2f">cesta</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sel</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 pri SBZ5">
+          <collocations>
+            <collocation form="verdun pri selih" cluster="1" frequency="15" logDice="11.72">
+              <comp position="1" type="collocate" sloleks="">verdun</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+            <collocation form="ljuben pri selih" cluster="2" frequency="8" logDice="11.02">
+              <comp position="1" type="collocate" sloleks="">ljuben</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+            <collocation form="Ljuben pri selih" cluster="2" frequency="4" logDice="10.07">
+              <comp position="1" type="collocate" sloleks="">Ljuben</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+            <collocation form="Laz pri selih" cluster="3" frequency="11" logDice="10.87">
+              <comp position="1" type="collocate" sloleks="LE_c717d2cc7b2d6affbc1c8de066b50114">Laz</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+            <collocation form="Laz pri selih" cluster="4" frequency="19" logDice="10.82">
+              <comp position="1" type="collocate" sloleks="LE_c943852df1ef1bd70eb9678c3109dc94">Laz</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+            <collocation form="Laze pri selih" cluster="5" frequency="11" logDice="10.08">
+              <comp position="1" type="collocate" sloleks="LE_10d991ae20704340d7bd48accbae3f4c">Laze</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+            <collocation form="cesta pri Selih" cluster="6" frequency="4" logDice="5.72">
+              <comp position="1" type="collocate" sloleks="LE_0e822f9721ddeb3fd7d90e02f70c9a2f">cesta</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">Selih</comp>
+            </collocation>
+            <collocation form="sela pri Šumberk" cluster="7" frequency="34" logDice="10.96">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="">Šumberk</comp>
+            </collocation>
+            <collocation form="sela pri Dragatušu" cluster="8" frequency="34" logDice="10.76">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_2da4cf0fc8e86edadd539aa335b5805e">Dragatušu</comp>
+            </collocation>
+            <collocation form="sela pri Adlešičih" cluster="8" frequency="6" logDice="8.19">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_e4b0ea40b285e35ff314b8131e9b8eae">Adlešičih</comp>
+            </collocation>
+            <collocation form="sela pri toplici" cluster="9" frequency="32" logDice="9.65">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_cd283a4d5d926e225d1d194f7fbcb1b7">toplici</comp>
+            </collocation>
+            <collocation form="sela pri Kamniku" cluster="9" frequency="9" logDice="7.39">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_8042ba4d1da8476bc32972fc773b90c0">Kamniku</comp>
+            </collocation>
+            <collocation form="sela pri Brežicah" cluster="9" frequency="5" logDice="6.9">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_9acc8ced7621de56f26c95eb0710d5ba">Brežicah</comp>
+            </collocation>
+            <collocation form="sela pri Osilnici" cluster="10" frequency="12" logDice="9.45">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_aa695194fa09a07435d5825b3e70d2b6">Osilnici</comp>
+            </collocation>
+            <collocation form="sela pri Ratež" cluster="11" frequency="21" logDice="10.45">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="">Ratež</comp>
+            </collocation>
+            <collocation form="sela pri Otovec" cluster="11" frequency="7" logDice="8.95">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="">Otovec</comp>
+            </collocation>
+            <collocation form="SELA pri DOBOVA" cluster="12" frequency="7" logDice="8.88">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">SELA</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="">DOBOVA</comp>
+            </collocation>
+            <collocation form="sela pri Podšumberk" cluster="13" frequency="6" logDice="8.82">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="">Podšumberk</comp>
+            </collocation>
+            <collocation form="sela pri Karteljevem" cluster="13" frequency="6" logDice="8.79">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="">Karteljevem</comp>
+            </collocation>
+            <collocation form="sela pri Raki" cluster="14" frequency="10" logDice="8.65">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_53f8d01ddc30c95a7237349cd21c6260">Raki</comp>
+            </collocation>
+            <collocation form="sela pri Artičah" cluster="15" frequency="6" logDice="8.6">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_fdd3fa6246797beb84699de9018ffe8f">Artičah</comp>
+            </collocation>
+            <collocation form="sela pri Jugor" cluster="16" frequency="5" logDice="8.51">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="">Jugor</comp>
+            </collocation>
+            <collocation form="sela pri Semiču" cluster="17" frequency="17" logDice="8.49">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_40c7c14f303daf029beec5b3427eaddb">Semiču</comp>
+            </collocation>
+            <collocation form="sela pri Šentjerneju" cluster="17" frequency="7" logDice="7.0">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_cb1e93d987e0973594250c5df1723bc2">Šentjerneju</comp>
+            </collocation>
+            <collocation form="sela pri Dobovi" cluster="18" frequency="34" logDice="10.45">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_49ec52a2b04830dd436374f45e0ecea3">Dobovi</comp>
+            </collocation>
+            <collocation form="sela pri zbura" cluster="19" frequency="4" logDice="8.22">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="">zbura</comp>
+            </collocation>
+            <collocation form="sela pri Vrhu" cluster="20" frequency="10" logDice="7.34">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_5111d9a7de58321a8ec7f1a0aa9fce76">Vrhu</comp>
+            </collocation>
+            <collocation form="sela pri Straži" cluster="21" frequency="21" logDice="10.08">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_fd700b9a77dfdf14fc46e1ea295abbc9">Straži</comp>
+            </collocation>
+            <collocation form="sela pri jugor" cluster="22" frequency="18" logDice="10.02">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="">jugor</comp>
+            </collocation>
+            <collocation form="sela pri vrčici" cluster="23" frequency="15" logDice="10.01">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_2c6d315d24f80dbe0cfbc9b28dd95e74">vrčici</comp>
+            </collocation>
+            <collocation form="sela pri ratež" cluster="24" frequency="14" logDice="9.89">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="">ratež</comp>
+            </collocation>
+            <collocation form="sela pri Ajdovcu" cluster="25" frequency="14" logDice="9.88">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="LE_f96156531d95379f0d02df4b2e88f086">Ajdovcu</comp>
+            </collocation>
+            <collocation form="sela pri Hinja" cluster="26" frequency="15" logDice="9.76">
+              <comp position="1" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sela</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="collocate" sloleks="">Hinja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 proti SBZ3">
+          <collocations>
+            <collocation form="cesta proti selom" cluster="1" frequency="6" logDice="5.69">
+              <comp position="1" type="collocate" sloleks="LE_0e822f9721ddeb3fd7d90e02f70c9a2f">cesta</comp>
+              <comp position="2" type="other" sloleks="LE_ce0c7e81c2858bb279d87fd9640cfc97">proti</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="obeležje v Selih" cluster="1" frequency="4" logDice="8.46">
+              <comp position="1" type="collocate" sloleks="LE_1b12bb2ca5f06606f1453b9a174785e4">obeležje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">Selih</comp>
+            </collocation>
+            <collocation form="kmetija v selih" cluster="2" frequency="5" logDice="5.14">
+              <comp position="1" type="collocate" sloleks="LE_4b6dc4ee113f77788107a47c03291f40">kmetija</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">selih</comp>
+            </collocation>
+            <collocation form="hiša v Selih" cluster="3" frequency="12" logDice="3.61">
+              <comp position="1" type="collocate" sloleks="LE_34e4b2cb65c667c6bf374f39db0e3597">hiša</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">Selih</comp>
+            </collocation>
+            <collocation form="cesta v Selih" cluster="4" frequency="6" logDice="3.0">
+              <comp position="1" type="collocate" sloleks="LE_0e822f9721ddeb3fd7d90e02f70c9a2f">cesta</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">Selih</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ2">
+          <collocations>
+            <collocation form="Klobučar s sel" cluster="1" frequency="12" logDice="11.23">
+              <comp position="1" type="collocate" sloleks="LE_2f91bea5d73ab7e6ef296741806038d1|LE_78695490598497b452be399de572e29a">Klobučar</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sel</comp>
+            </collocation>
+            <collocation form="Kulovec s sel" cluster="2" frequency="8" logDice="10.57">
+              <comp position="1" type="collocate" sloleks="LE_d2b4766f98b5fd4822ac55ba76774a31|LE_e2b74b09b5f8f53b9dfd975463c5b5dd">Kulovec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sel</comp>
+            </collocation>
+            <collocation form="Župevec s sel" cluster="3" frequency="5" logDice="10.13">
+              <comp position="1" type="collocate" sloleks="">Župevec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sel</comp>
+            </collocation>
+            <collocation form="Konček s sel" cluster="4" frequency="4" logDice="9.8">
+              <comp position="1" type="collocate" sloleks="LE_64fb7291a918b880d37890c222a76952">Konček</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sel</comp>
+            </collocation>
+            <collocation form="Kump s sel" cluster="5" frequency="4" logDice="9.77">
+              <comp position="1" type="collocate" sloleks="">Kump</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sel</comp>
+            </collocation>
+            <collocation form="Potočnik s sel" cluster="6" frequency="4" logDice="8.91">
+              <comp position="1" type="collocate" sloleks="LE_96a03243a94d6419b25446ff549ec0e1|LE_7ac50bdb2fbf779e06b2fd2cc3bbb1d8">Potočnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_4b9c9ffc93d2aa20b07f6825058c6788">sel</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

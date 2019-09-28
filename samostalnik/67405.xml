@@ -1,0 +1,72 @@
+<entry>
+  <header>
+    <lexical_unit id="67405">litografija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">728</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="litografija iz ateljeja" cluster="1" frequency="4" logDice="8.94">
+              <comp position="1" type="headword" sloleks="LE_fb042db1292e8da81b7f97559631135e">litografija</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_324f67bc3e28b570cefa4cb07d1b6c0b">ateljeja</comp>
+            </collocation>
+            <collocation form="litografija iz leta" cluster="2" frequency="7" logDice="1.56">
+              <comp position="1" type="headword" sloleks="LE_fb042db1292e8da81b7f97559631135e">litografija</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za litografijo" cluster="1" frequency="6" logDice="-1.01">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_fb042db1292e8da81b7f97559631135e">litografijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="imerzijski litografija" cluster="1" frequency="8" logDice="10.06">
+              <comp position="1" type="collocate" sloleks="">imerzijski</comp>
+              <comp position="2" type="headword" sloleks="LE_fb042db1292e8da81b7f97559631135e">litografija</comp>
+            </collocation>
+            <collocation form="barvna litografija" cluster="2" frequency="45" logDice="4.92">
+              <comp position="1" type="collocate" sloleks="LE_e1a8898e54ce222226d87580cce99b67">barvna</comp>
+              <comp position="2" type="headword" sloleks="LE_fb042db1292e8da81b7f97559631135e">litografija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="tehnika litografije" cluster="1" frequency="26" logDice="5.46">
+              <comp position="1" type="collocate" sloleks="LE_aa90d51520eb3d2bebaf7c31f2a23c3b">tehnika</comp>
+              <comp position="2" type="headword" sloleks="LE_fb042db1292e8da81b7f97559631135e">litografije</comp>
+            </collocation>
+            <collocation form="mojster litografije" cluster="2" frequency="5" logDice="3.04">
+              <comp position="1" type="collocate" sloleks="LE_1d34c7cacbaf665b8a2421d52e5ac27d">mojster</comp>
+              <comp position="2" type="headword" sloleks="LE_fb042db1292e8da81b7f97559631135e">litografije</comp>
+            </collocation>
+            <collocation form="razstava litografije" cluster="3" frequency="17" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_5360488843496d51e5802aa5c14a1d93">razstava</comp>
+              <comp position="2" type="headword" sloleks="LE_fb042db1292e8da81b7f97559631135e">litografije</comp>
+            </collocation>
+            <collocation form="serija litografije" cluster="4" frequency="6" logDice="2.52">
+              <comp position="1" type="collocate" sloleks="LE_7024b0f285ec3f777bbcddad6033b4b0">serija</comp>
+              <comp position="2" type="headword" sloleks="LE_fb042db1292e8da81b7f97559631135e">litografije</comp>
+            </collocation>
+            <collocation form="litografija slikarja" cluster="5" frequency="9" logDice="4.57">
+              <comp position="1" type="headword" sloleks="LE_fb042db1292e8da81b7f97559631135e">litografija</comp>
+              <comp position="2" type="collocate" sloleks="LE_0afc800924c6c6fde18b63924d6d8b66">slikarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

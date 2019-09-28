@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="89398">slavec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">483</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Cesarjev slavec" cluster="1" frequency="13" logDice="8.57">
+              <comp position="1" type="collocate" sloleks="LE_66eb07357a6847524f66c3ded50111f5">Cesarjev</comp>
+              <comp position="2" type="headword" sloleks="LE_9bbe16c822caecdf7ee1126199d47ba5">slavec</comp>
+            </collocation>
+            <collocation form="mali slavec" cluster="2" frequency="19" logDice="1.1">
+              <comp position="1" type="collocate" sloleks="LE_0b2cc34f00671cbd2bc04dca56aba76b">mali</comp>
+              <comp position="2" type="headword" sloleks="LE_9bbe16c822caecdf7ee1126199d47ba5">slavec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="petje slavca" cluster="1" frequency="24" logDice="7.65">
+              <comp position="1" type="collocate" sloleks="LE_11d02dfaf695f8aba2c24329c3451f47">petje</comp>
+              <comp position="2" type="headword" sloleks="LE_9bbe16c822caecdf7ee1126199d47ba5">slavca</comp>
+            </collocation>
+            <collocation form="pesem slavca" cluster="2" frequency="7" logDice="3.27">
+              <comp position="1" type="collocate" sloleks="LE_6235b39c027e8b67ccd0ab2a0e87ad16">pesem</comp>
+              <comp position="2" type="headword" sloleks="LE_9bbe16c822caecdf7ee1126199d47ba5">slavca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

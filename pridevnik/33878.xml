@@ -1,0 +1,63 @@
+<entry>
+  <header>
+    <lexical_unit id="33878">skočen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">565</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="skočen in kolenski" cluster="1" frequency="19" logDice="11.47">
+              <comp position="1" type="headword" sloleks="LE_6543065533e225a002c5019b558934ee">skočen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_d47fe87aba35d5c6cd2f5281bb885035">kolenski</comp>
+            </collocation>
+            <collocation form="skočen in/ali hiter" cluster="2" frequency="5" logDice="2.94">
+              <comp position="3" type="headword" sloleks="LE_6543065533e225a002c5019b558934ee">skočen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_2af28cbb04d2e8afedc54b00a27fc453">hiter</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="skočen zglob" cluster="1" frequency="7" logDice="8.24">
+              <comp position="1" type="headword" sloleks="LE_6543065533e225a002c5019b558934ee">skočen</comp>
+              <comp position="2" type="collocate" sloleks="LE_2e13882c666f4e45931f991bb45a7d1b">zglob</comp>
+            </collocation>
+            <collocation form="skočen sklep" cluster="2" frequency="384" logDice="8.05">
+              <comp position="1" type="headword" sloleks="LE_6543065533e225a002c5019b558934ee">skočen</comp>
+              <comp position="2" type="collocate" sloleks="LE_deb91e24f82bff5cd331c1eaac56c861">sklep</comp>
+            </collocation>
+            <collocation form="skočen seznam" cluster="2" frequency="6" logDice="2.67">
+              <comp position="1" type="headword" sloleks="LE_6543065533e225a002c5019b558934ee">skočen</comp>
+              <comp position="2" type="collocate" sloleks="LE_8e07f7a6b825d8b6bf5b0aeab2d8d9b7">seznam</comp>
+            </collocation>
+            <collocation form="skočna blazina" cluster="3" frequency="16" logDice="4.77">
+              <comp position="1" type="headword" sloleks="LE_6543065533e225a002c5019b558934ee">skočna</comp>
+              <comp position="2" type="collocate" sloleks="LE_ac54a720bb85f8ec5fd1e9eabe952401">blazina</comp>
+            </collocation>
+            <collocation form="skočen odziv" cluster="4" frequency="18" logDice="4.14">
+              <comp position="1" type="headword" sloleks="LE_6543065533e225a002c5019b558934ee">skočen</comp>
+              <comp position="2" type="collocate" sloleks="LE_35fc7755184a7472a39c47b0cd9a69f0">odziv</comp>
+            </collocation>
+            <collocation form="skočna moč" cluster="5" frequency="16" logDice="1.92">
+              <comp position="1" type="headword" sloleks="LE_6543065533e225a002c5019b558934ee">skočna</comp>
+              <comp position="2" type="collocate" sloleks="LE_0b71c85c50e39f2c8cb5e91791d67af9">moč</comp>
+            </collocation>
+            <collocation form="skočna sprememba" cluster="5" frequency="9" logDice="0.74">
+              <comp position="1" type="headword" sloleks="LE_6543065533e225a002c5019b558934ee">skočna</comp>
+              <comp position="2" type="collocate" sloleks="LE_43a3bb7510833003ff85626ef9cc9915">sprememba</comp>
+            </collocation>
+            <collocation form="skočna funkcija" cluster="5" frequency="6" logDice="1.45">
+              <comp position="1" type="headword" sloleks="LE_6543065533e225a002c5019b558934ee">skočna</comp>
+              <comp position="2" type="collocate" sloleks="LE_d3ec58edca217a31a8eacf1bf15f745f">funkcija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

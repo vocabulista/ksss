@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="33034">samozadovoljen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">482</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="samozadovoljen nasmešek" cluster="1" frequency="12" logDice="6.03">
+              <comp position="1" type="headword" sloleks="LE_46cdb1bda491ae1df7d137777f553cd4">samozadovoljen</comp>
+              <comp position="2" type="collocate" sloleks="LE_f59a995c056fbf7a3beb6cf6f943249f">nasmešek</comp>
+            </collocation>
+            <collocation form="samozadovoljen nasmeh" cluster="2" frequency="7" logDice="4.27">
+              <comp position="1" type="headword" sloleks="LE_46cdb1bda491ae1df7d137777f553cd4">samozadovoljen</comp>
+              <comp position="2" type="collocate" sloleks="LE_e4a7f9d21e8b4e4417828e12ed26d24b">nasmeh</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="samozadovoljen in/ali samozadosten" cluster="1" frequency="10" logDice="9.77">
+              <comp position="3" type="headword" sloleks="LE_46cdb1bda491ae1df7d137777f553cd4">samozadovoljen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_ec4a0cd8da6ae64bc88d1f569f82556c">samozadosten</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="preveč samozadovoljen" cluster="1" frequency="21" logDice="2.68">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_46cdb1bda491ae1df7d137777f553cd4">samozadovoljen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

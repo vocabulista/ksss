@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="58259">grabljica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">824</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="grabljica za nabiranje" cluster="1" frequency="5" logDice="7.4">
+              <comp position="1" type="headword" sloleks="LE_ea9c5f3dccc8bf7d19ce26f1c77c4b22">grabljica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_dcbdb55adeba6974c9e37e4834e84e4a">nabiranje</comp>
+            </collocation>
+            <collocation form="grabljica za pokal" cluster="2" frequency="24" logDice="4.77">
+              <comp position="1" type="headword" sloleks="LE_ea9c5f3dccc8bf7d19ce26f1c77c4b22">grabljica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_d17e6624973c79af10602120ecbf8483">pokal</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="pevka Grabljice" cluster="1" frequency="12" logDice="5.54">
+              <comp position="1" type="collocate" sloleks="LE_d26b19dc412401a1e3b6efb5322aa6f3">pevka</comp>
+              <comp position="2" type="headword" sloleks="LE_ea9c5f3dccc8bf7d19ce26f1c77c4b22">Grabljice</comp>
+            </collocation>
+            <collocation form="tekmovanje grabljice" cluster="2" frequency="8" logDice="3.64">
+              <comp position="1" type="collocate" sloleks="LE_cf9c71806a842d7c251392dd39734f20">tekmovanje</comp>
+              <comp position="2" type="headword" sloleks="LE_ea9c5f3dccc8bf7d19ce26f1c77c4b22">grabljice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

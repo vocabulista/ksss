@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="52701">degustator</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">439</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="degustator iz države" cluster="1" frequency="23" logDice="3.99">
+              <comp position="1" type="headword" sloleks="LE_ab18ae23ddd11ce42f7af636d25d8ff4">degustator</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">države</comp>
+            </collocation>
+            <collocation form="degustator iz Slovenije" cluster="2" frequency="5" logDice="2.5">
+              <comp position="1" type="headword" sloleks="LE_ab18ae23ddd11ce42f7af636d25d8ff4">degustator</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Slovenije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="priznan degustator" cluster="1" frequency="11" logDice="2.88">
+              <comp position="1" type="collocate" sloleks="LE_666e6361b81942ddc6013aa3d5e020b2">priznan</comp>
+              <comp position="2" type="headword" sloleks="LE_ab18ae23ddd11ce42f7af636d25d8ff4">degustator</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="komisija degustatorja" cluster="1" frequency="5" logDice="2.79">
+              <comp position="1" type="collocate" sloleks="LE_1d71b650207bc9d89d6fe3df1de3762a">komisija</comp>
+              <comp position="2" type="headword" sloleks="LE_ab18ae23ddd11ce42f7af636d25d8ff4">degustatorja</comp>
+            </collocation>
+            <collocation form="ocena degustatorja" cluster="2" frequency="7" logDice="1.53">
+              <comp position="1" type="collocate" sloleks="LE_876e5c609b3c91704b14383926ee218d">ocena</comp>
+              <comp position="2" type="headword" sloleks="LE_ab18ae23ddd11ce42f7af636d25d8ff4">degustatorja</comp>
+            </collocation>
+            <collocation form="mnenje degustatorja" cluster="3" frequency="6" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_570e657c7ba1bf69e788fb96b4ad3409">mnenje</comp>
+              <comp position="2" type="headword" sloleks="LE_ab18ae23ddd11ce42f7af636d25d8ff4">degustatorja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="tečaj za degustatorja" cluster="1" frequency="9" logDice="5.7">
+              <comp position="1" type="collocate" sloleks="LE_5d02c8a026f40c53ca6b5616101080cf">tečaj</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ab18ae23ddd11ce42f7af636d25d8ff4">degustatorja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

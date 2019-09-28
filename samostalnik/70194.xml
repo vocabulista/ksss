@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="70194">molčanje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">498</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="mučno molčanje" cluster="1" frequency="33" logDice="7.18">
+              <comp position="1" type="collocate" sloleks="LE_3894462000530755e57803e271d9128b|LE_4d007b1c103a2ad68185b0170edf1952">mučno</comp>
+              <comp position="2" type="headword" sloleks="LE_bbec01f7e04d23962193be64114e3f2b">molčanje</comp>
+            </collocation>
+            <collocation form="dolgo molčanje" cluster="2" frequency="39" logDice="1.95">
+              <comp position="1" type="collocate" sloleks="LE_e4a9ab0324b002b5f34e7335184d3dd1">dolgo</comp>
+              <comp position="2" type="headword" sloleks="LE_bbec01f7e04d23962193be64114e3f2b">molčanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="zakon molčanja" cluster="1" frequency="10" logDice="4.04">
+              <comp position="1" type="collocate" sloleks="LE_b3ce668b2bbbbdfa905463c113c05551">zakon</comp>
+              <comp position="2" type="headword" sloleks="LE_bbec01f7e04d23962193be64114e3f2b">molčanja</comp>
+            </collocation>
+            <collocation form="dolžnost molčanja" cluster="2" frequency="5" logDice="3.24">
+              <comp position="1" type="collocate" sloleks="LE_8ec3612adea25d80195f8e50f7a45e59">dolžnost</comp>
+              <comp position="2" type="headword" sloleks="LE_bbec01f7e04d23962193be64114e3f2b">molčanja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

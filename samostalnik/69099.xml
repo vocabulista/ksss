@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="69099">mencanje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">429</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="mencanje prosa" cluster="1" frequency="19" logDice="10.38">
+              <comp position="1" type="headword" sloleks="LE_2107863c3ed4511fa8ecf7fc03c9b590">mencanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_5901e0d42f779f677d9d4b717bf49e91">prosa</comp>
+            </collocation>
+            <collocation form="mencanje oči" cluster="2" frequency="19" logDice="6.05">
+              <comp position="1" type="headword" sloleks="LE_2107863c3ed4511fa8ecf7fc03c9b590">mencanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_6e683e53145b35a6cbb44ad1188b7a9f|LE_f7836a137770b18301878166ca9f053f">oči</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="mencanje z nogo" cluster="1" frequency="4" logDice="4.66">
+              <comp position="1" type="headword" sloleks="LE_2107863c3ed4511fa8ecf7fc03c9b590">mencanje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_85bf97bb223851882a947ddf0be6aea7">nogo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="priprava za mencanje" cluster="1" frequency="4" logDice="3.45">
+              <comp position="1" type="collocate" sloleks="LE_bdb43273740fff938591c6ba74f8869f">priprava</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_2107863c3ed4511fa8ecf7fc03c9b590">mencanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

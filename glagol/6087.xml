@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="6087">pozlatiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">786</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="pozlatiti oltar" cluster="1" frequency="5" logDice="7.15">
+              <comp position="1" type="headword" sloleks="LE_2eb86b0680e96231c675fc447d6db2fb">pozlatiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_5423904f459542c1668419541da145b1">oltar</comp>
+            </collocation>
+            <collocation form="pozlatiti rog" cluster="2" frequency="4" logDice="7.07">
+              <comp position="1" type="headword" sloleks="LE_2eb86b0680e96231c675fc447d6db2fb">pozlatiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_0df59e07cfb0ef06921a634c9206e82c">rog</comp>
+            </collocation>
+            <collocation form="pozlatiti slavo" cluster="3" frequency="4" logDice="4.66">
+              <comp position="1" type="headword" sloleks="LE_2eb86b0680e96231c675fc447d6db2fb">pozlatiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_0918629be38d9f94933db7ddc9f4c509">slavo</comp>
+            </collocation>
+            <collocation form="pozlatiti napis" cluster="4" frequency="4" logDice="4.64">
+              <comp position="1" type="headword" sloleks="LE_2eb86b0680e96231c675fc447d6db2fb">pozlatiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_5fb842be5b9529b5c0ae5eccdd7256f4">napis</comp>
+            </collocation>
+            <collocation form="pozlatiti ime" cluster="5" frequency="5" logDice="1.42">
+              <comp position="1" type="headword" sloleks="LE_2eb86b0680e96231c675fc447d6db2fb">pozlatiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">ime</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="dobesedno pozlatiti" cluster="1" frequency="5" logDice="2.6">
+              <comp position="1" type="collocate" sloleks="LE_bffec2e3c44400c319dff55bd9852452">dobesedno</comp>
+              <comp position="2" type="headword" sloleks="LE_2eb86b0680e96231c675fc447d6db2fb">pozlatiti</comp>
+            </collocation>
+            <collocation form="vse pozlatiti" cluster="2" frequency="7" logDice="0.5">
+              <comp position="1" type="collocate" sloleks="LE_69e1f6ea0eba690182112fa5f7865561">vse</comp>
+              <comp position="2" type="headword" sloleks="LE_2eb86b0680e96231c675fc447d6db2fb">pozlatiti</comp>
+            </collocation>
+            <collocation form="lepo pozlatiti" cluster="3" frequency="4" logDice="0.25">
+              <comp position="1" type="collocate" sloleks="LE_d01061f4e29d96c6aa9cb7941b715be1">lepo</comp>
+              <comp position="2" type="headword" sloleks="LE_2eb86b0680e96231c675fc447d6db2fb">pozlatiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

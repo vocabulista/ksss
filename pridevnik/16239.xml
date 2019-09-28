@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="16239">disfunkcionalen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">534</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="disfunkcionalen zoprnež" cluster="1" frequency="6" logDice="8.56">
+              <comp position="1" type="headword" sloleks="LE_02bb30a3c8b2f9f2be9d1f2b895ab803">disfunkcionalen</comp>
+              <comp position="2" type="collocate" sloleks="LE_26b245fe08a8f554e45dfa089ad4bd80">zoprnež</comp>
+            </collocation>
+            <collocation form="disfunkcionalna družina" cluster="2" frequency="235" logDice="5.72">
+              <comp position="1" type="headword" sloleks="LE_02bb30a3c8b2f9f2be9d1f2b895ab803">disfunkcionalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_9a7d912c8ec5a6cbc42d2975b5563b34">družina</comp>
+            </collocation>
+            <collocation form="disfunkcionalna predpostavka" cluster="3" frequency="6" logDice="4.75">
+              <comp position="1" type="headword" sloleks="LE_02bb30a3c8b2f9f2be9d1f2b895ab803">disfunkcionalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_f4fdfea7d7f1ef02a5a86037d9a8e3af">predpostavka</comp>
+            </collocation>
+            <collocation form="disfunkcionalen odnos" cluster="4" frequency="13" logDice="1.13">
+              <comp position="1" type="headword" sloleks="LE_02bb30a3c8b2f9f2be9d1f2b895ab803">disfunkcionalen</comp>
+              <comp position="2" type="collocate" sloleks="LE_77f2f37de07cb9f39cb3dd828efa7919">odnos</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="popolnoma disfunkcionalen" cluster="1" frequency="9" logDice="1.46">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_02bb30a3c8b2f9f2be9d1f2b895ab803">disfunkcionalen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

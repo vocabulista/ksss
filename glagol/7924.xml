@@ -1,0 +1,76 @@
+<entry>
+  <header>
+    <lexical_unit id="7924">scvreti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">508</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="scvreti na grmadi" cluster="1" frequency="9" logDice="7.78">
+              <comp position="1" type="headword" sloleks="LE_e0682b2742dd4d9eda7583fb6fc500b8">scvreti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_70a538cd98e176cb3b8416e1a6bc1cb8">grmadi</comp>
+            </collocation>
+            <collocation form="scvreti na stolu" cluster="2" frequency="12" logDice="6.6">
+              <comp position="1" type="headword" sloleks="LE_e0682b2742dd4d9eda7583fb6fc500b8">scvreti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_99bd39ad95b229dd259aa44e7c344f3c">stolu</comp>
+            </collocation>
+            <collocation form="scvreti na olju" cluster="3" frequency="4" logDice="5.02">
+              <comp position="1" type="headword" sloleks="LE_e0682b2742dd4d9eda7583fb6fc500b8">scvreti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_edbc216a092bf1781eab880a62d9f53d">olju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="scvreti slanino" cluster="1" frequency="9" logDice="8.6">
+              <comp position="1" type="headword" sloleks="LE_e0682b2742dd4d9eda7583fb6fc500b8">scvreti</comp>
+              <comp position="2" type="collocate" sloleks="LE_085a60f5b06f6c2e45a2b10710a39534">slanino</comp>
+            </collocation>
+            <collocation form="scvreti možgane" cluster="2" frequency="17" logDice="6.41">
+              <comp position="1" type="headword" sloleks="LE_e0682b2742dd4d9eda7583fb6fc500b8">scvreti</comp>
+              <comp position="2" type="collocate" sloleks="LE_37d8262ec9cac9e9da480d5d96d1d5f0">možgane</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="scvreti v peklu" cluster="1" frequency="12" logDice="8.27">
+              <comp position="1" type="headword" sloleks="LE_e0682b2742dd4d9eda7583fb6fc500b8">scvreti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_e81e4843f3ea3612e1e8a17b5c3d231e">peklu</comp>
+            </collocation>
+            <collocation form="scvreti v ognju" cluster="2" frequency="5" logDice="6.47">
+              <comp position="1" type="headword" sloleks="LE_e0682b2742dd4d9eda7583fb6fc500b8">scvreti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_939032824ae6e8829fec4a2f18ab7e9b">ognju</comp>
+            </collocation>
+            <collocation form="scvreti v ponvi" cluster="3" frequency="13" logDice="6.35">
+              <comp position="1" type="headword" sloleks="LE_e0682b2742dd4d9eda7583fb6fc500b8">scvreti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_1b3412465a95ca01c8c977aec5870e91">ponvi</comp>
+            </collocation>
+            <collocation form="scvreti v posodi" cluster="4" frequency="4" logDice="4.62">
+              <comp position="1" type="headword" sloleks="LE_e0682b2742dd4d9eda7583fb6fc500b8">scvreti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_425a270d7f3f1c8f5b5bf6bb4e629719">posodi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="dobesedno scvreti" cluster="1" frequency="17" logDice="4.37">
+              <comp position="1" type="collocate" sloleks="LE_bffec2e3c44400c319dff55bd9852452">dobesedno</comp>
+              <comp position="2" type="headword" sloleks="LE_e0682b2742dd4d9eda7583fb6fc500b8">scvreti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

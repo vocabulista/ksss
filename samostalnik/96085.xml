@@ -1,0 +1,64 @@
+<entry>
+  <header>
+    <lexical_unit id="96085">vetrolom</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">443</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="vetrolom iz materiala" cluster="1" frequency="4" logDice="4.82">
+              <comp position="1" type="headword" sloleks="LE_c6f7308e04d68a63c922ce5be1d3105d">vetrolom</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_3c83a59228fd24befce6e7dbf8479f4f">materiala</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="julijski vetrolom" cluster="1" frequency="10" logDice="4.08">
+              <comp position="1" type="collocate" sloleks="LE_7e8a7a6b36579498d614b21685992da2">julijski</comp>
+              <comp position="2" type="headword" sloleks="LE_c6f7308e04d68a63c922ce5be1d3105d">vetrolom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="sanacija vetroloma" cluster="1" frequency="21" logDice="4.85">
+              <comp position="1" type="collocate" sloleks="LE_b37e7e7121cbca14d5bb2913b13f4e3b">sanacija</comp>
+              <comp position="2" type="headword" sloleks="LE_c6f7308e04d68a63c922ce5be1d3105d">vetroloma</comp>
+            </collocation>
+            <collocation form="Zmanjševanje vetroloma" cluster="2" frequency="5" logDice="2.63">
+              <comp position="1" type="collocate" sloleks="LE_b800f0db046001429bb14f27c5ff405e">Zmanjševanje</comp>
+              <comp position="2" type="headword" sloleks="LE_c6f7308e04d68a63c922ce5be1d3105d">vetroloma</comp>
+            </collocation>
+            <collocation form="posledica vetroloma" cluster="3" frequency="15" logDice="1.85">
+              <comp position="1" type="collocate" sloleks="LE_9e94e198ec2c32de37b2bd7b6e54af2e">posledica</comp>
+              <comp position="2" type="headword" sloleks="LE_c6f7308e04d68a63c922ce5be1d3105d">vetroloma</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 po SBZ5">
+          <collocations>
+            <collocation form="gozd po vetrolomu" cluster="1" frequency="4" logDice="8.25">
+              <comp position="1" type="collocate" sloleks="LE_0ca25687c86a1ca7b486899aeae45de7">gozd</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_c6f7308e04d68a63c922ce5be1d3105d">vetrolomu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="delo v vetrolomu" cluster="1" frequency="5" logDice="0.89">
+              <comp position="1" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_c6f7308e04d68a63c922ce5be1d3105d">vetrolomu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

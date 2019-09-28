@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="79750">polifonija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">499</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="renesančna polifonija" cluster="1" frequency="31" logDice="7.38">
+              <comp position="1" type="collocate" sloleks="LE_1c7df482369c577de0ee859113cf6320">renesančna</comp>
+              <comp position="2" type="headword" sloleks="LE_7b28bbfff24069097b7c90c61e8f7929">polifonija</comp>
+            </collocation>
+            <collocation form="baročna polifonija" cluster="1" frequency="30" logDice="6.56">
+              <comp position="1" type="collocate" sloleks="LE_b0f41cfabf32e1fa44b2332c89b0f743">baročna</comp>
+              <comp position="2" type="headword" sloleks="LE_7b28bbfff24069097b7c90c61e8f7929">polifonija</comp>
+            </collocation>
+            <collocation form="vokalna polifonija" cluster="2" frequency="20" logDice="5.74">
+              <comp position="1" type="collocate" sloleks="LE_277080b234dbe9c1a7dcaef4f4b0aa98">vokalna</comp>
+              <comp position="2" type="headword" sloleks="LE_7b28bbfff24069097b7c90c61e8f7929">polifonija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="mojster polifonije" cluster="1" frequency="24" logDice="5.31">
+              <comp position="1" type="collocate" sloleks="LE_1d34c7cacbaf665b8a2421d52e5ac27d">mojster</comp>
+              <comp position="2" type="headword" sloleks="LE_7b28bbfff24069097b7c90c61e8f7929">polifonije</comp>
+            </collocation>
+            <collocation form="polifonija glasu" cluster="2" frequency="9" logDice="2.6">
+              <comp position="1" type="headword" sloleks="LE_7b28bbfff24069097b7c90c61e8f7929">polifonija</comp>
+              <comp position="2" type="collocate" sloleks="LE_bdaf56c7a9eddd2562b11c97c0770037">glasu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 do SBZ2">
+          <collocations>
+            <collocation form="Homer do polifonije" cluster="1" frequency="4" logDice="11.95">
+              <comp position="1" type="collocate" sloleks="LE_363204eb81a77f6f50eaec45507cd130">Homer</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_7b28bbfff24069097b7c90c61e8f7929">polifonije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

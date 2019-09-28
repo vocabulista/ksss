@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="88032">semenje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1201</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="odstraniti semenje" cluster="1" frequency="692" logDice="9.52">
+              <comp position="1" type="collocate" sloleks="LE_c020fe4cf95fc67c8e6c9648409037cd">odstraniti</comp>
+              <comp position="2" type="headword" sloleks="LE_6c1a3c2d3745d7d6ef10202483193d8c">semenje</comp>
+            </collocation>
+            <collocation form="izdolbsti semenje" cluster="2" frequency="36" logDice="9.45">
+              <comp position="1" type="collocate" sloleks="LE_0fd58d3df9ee1b1a41ebdc9a489c8785">izdolbsti</comp>
+              <comp position="2" type="headword" sloleks="LE_6c1a3c2d3745d7d6ef10202483193d8c">semenje</comp>
+            </collocation>
+            <collocation form="očistiti semenje" cluster="3" frequency="9" logDice="4.7">
+              <comp position="1" type="collocate" sloleks="LE_1e92ae4f508e479c6a7e4a4274833f2b">očistiti</comp>
+              <comp position="2" type="headword" sloleks="LE_6c1a3c2d3745d7d6ef10202483193d8c">semenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 brez SBZ2">
+          <collocations>
+            <collocation form="paradižnik brez semenja" cluster="1" frequency="9" logDice="11.9">
+              <comp position="1" type="collocate" sloleks="LE_9e65fa74975b57056821db6e74ccfb43">paradižnik</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_6c1a3c2d3745d7d6ef10202483193d8c">semenja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

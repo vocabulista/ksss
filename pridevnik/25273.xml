@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="25273">neiskren</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">558</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="neiskren in nemoralen" cluster="1" frequency="10" logDice="8.79">
+              <comp position="1" type="headword" sloleks="LE_620eedafebe95586b6af9379bd58c5ce">neiskren</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_5bed5ad67bfb44d7a8befa6aa3bebed8">nemoralen</comp>
+            </collocation>
+            <collocation form="neiskren in/ali iskren" cluster="2" frequency="5" logDice="5.56">
+              <comp position="3" type="headword" sloleks="LE_620eedafebe95586b6af9379bd58c5ce">neiskren</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_7820112e94527ad809077c8348170c6e">iskren</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="neiskren človek" cluster="1" frequency="45" logDice="2.21">
+              <comp position="1" type="headword" sloleks="LE_620eedafebe95586b6af9379bd58c5ce">neiskren</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človek</comp>
+            </collocation>
+            <collocation form="neiskren prijatelj" cluster="1" frequency="8" logDice="1.72">
+              <comp position="1" type="headword" sloleks="LE_620eedafebe95586b6af9379bd58c5ce">neiskren</comp>
+              <comp position="2" type="collocate" sloleks="LE_04d85f43e6fdbc81d853e26c5158132f">prijatelj</comp>
+            </collocation>
+            <collocation form="neiskren namen" cluster="2" frequency="7" logDice="1.56">
+              <comp position="1" type="headword" sloleks="LE_620eedafebe95586b6af9379bd58c5ce">neiskren</comp>
+              <comp position="2" type="collocate" sloleks="LE_b8bfcb1562b01862546effca7cc27d06">namen</comp>
+            </collocation>
+            <collocation form="neiskren odnos" cluster="3" frequency="16" logDice="1.43">
+              <comp position="1" type="headword" sloleks="LE_620eedafebe95586b6af9379bd58c5ce">neiskren</comp>
+              <comp position="2" type="collocate" sloleks="LE_77f2f37de07cb9f39cb3dd828efa7919">odnos</comp>
+            </collocation>
+            <collocation form="neiskren pogled" cluster="4" frequency="6" logDice="1.21">
+              <comp position="1" type="headword" sloleks="LE_620eedafebe95586b6af9379bd58c5ce">neiskren</comp>
+              <comp position="2" type="collocate" sloleks="LE_456820bc1f399479d902f190585f0938">pogled</comp>
+            </collocation>
+            <collocation form="neiskrena beseda" cluster="5" frequency="8" logDice="0.58">
+              <comp position="1" type="headword" sloleks="LE_620eedafebe95586b6af9379bd58c5ce">neiskrena</comp>
+              <comp position="2" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">beseda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

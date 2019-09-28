@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="26557">obit</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">607</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 z sbz6">
+          <collocations>
+            <collocation form="obit z desko" cluster="1" frequency="34" logDice="11.82">
+              <comp position="1" type="headword" sloleks="LE_2206b243f1c8ae6e077bc1e89d096f9b">obit</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_61d453dffa90487cca874d5e6c4e00d2">desko</comp>
+            </collocation>
+            <collocation form="obit z lesom" cluster="2" frequency="24" logDice="10.62">
+              <comp position="1" type="headword" sloleks="LE_2206b243f1c8ae6e077bc1e89d096f9b">obit</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_a64d3c025e48884a3606fcff72b3d118">lesom</comp>
+            </collocation>
+            <collocation form="obit z opažem" cluster="3" frequency="6" logDice="10.3">
+              <comp position="1" type="headword" sloleks="LE_2206b243f1c8ae6e077bc1e89d096f9b">obit</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_2c7987f50c79c0b3457b3fc07520004e">opažem</comp>
+            </collocation>
+            <collocation form="obit s pločevino" cluster="4" frequency="12" logDice="9.99">
+              <comp position="1" type="headword" sloleks="LE_2206b243f1c8ae6e077bc1e89d096f9b">obit</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_310c71e0f9b5c1d4e96f2c8be376b108">pločevino</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

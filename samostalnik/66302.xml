@@ -1,0 +1,76 @@
+<entry>
+  <header>
+    <lexical_unit id="66302">kustodinja</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">778</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="kustodinja muzeja" cluster="1" frequency="162" logDice="7.26">
+              <comp position="1" type="headword" sloleks="LE_9a763e1cbb1d0814dac2735f96fb254c">kustodinja</comp>
+              <comp position="2" type="collocate" sloleks="LE_88a018d975a53a6c04d5b12d6fedb635">muzeja</comp>
+            </collocation>
+            <collocation form="kustodinja razstave" cluster="1" frequency="38" logDice="4.74">
+              <comp position="1" type="headword" sloleks="LE_9a763e1cbb1d0814dac2735f96fb254c">kustodinja</comp>
+              <comp position="2" type="collocate" sloleks="LE_5360488843496d51e5802aa5c14a1d93">razstave</comp>
+            </collocation>
+            <collocation form="kustodinja galerije" cluster="1" frequency="29" logDice="6.1">
+              <comp position="1" type="headword" sloleks="LE_9a763e1cbb1d0814dac2735f96fb254c">kustodinja</comp>
+              <comp position="2" type="collocate" sloleks="LE_0bd27f88aedb85ccf93891ce3c58c7e6">galerije</comp>
+            </collocation>
+            <collocation form="kustodinja zbirke" cluster="1" frequency="11" logDice="4.19">
+              <comp position="1" type="headword" sloleks="LE_9a763e1cbb1d0814dac2735f96fb254c">kustodinja</comp>
+              <comp position="2" type="collocate" sloleks="LE_b8e0610165688c675f0bd81c2c79fbd6">zbirke</comp>
+            </collocation>
+            <collocation form="kustodinja projekta" cluster="2" frequency="8" logDice="1.15">
+              <comp position="1" type="headword" sloleks="LE_9a763e1cbb1d0814dac2735f96fb254c">kustodinja</comp>
+              <comp position="2" type="collocate" sloleks="LE_a34c0db39bb0196a80c5f3b9f5391fea">projekta</comp>
+            </collocation>
+            <collocation form="predavanje kustodinje" cluster="3" frequency="5" logDice="4.24">
+              <comp position="1" type="collocate" sloleks="LE_ad184839a83413733999cf134c1bd522">predavanje</comp>
+              <comp position="2" type="headword" sloleks="LE_9a763e1cbb1d0814dac2735f96fb254c">kustodinje</comp>
+            </collocation>
+            <collocation form="beseda kustodinje" cluster="4" frequency="6" logDice="0.97">
+              <comp position="1" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">beseda</comp>
+              <comp position="2" type="headword" sloleks="LE_9a763e1cbb1d0814dac2735f96fb254c">kustodinje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="kustodinja za zbirko" cluster="1" frequency="5" logDice="6.44">
+              <comp position="1" type="headword" sloleks="LE_9a763e1cbb1d0814dac2735f96fb254c">kustodinja</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b8e0610165688c675f0bd81c2c79fbd6">zbirko</comp>
+            </collocation>
+            <collocation form="kustodinja za film" cluster="2" frequency="5" logDice="3.52">
+              <comp position="1" type="headword" sloleks="LE_9a763e1cbb1d0814dac2735f96fb254c">kustodinja</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_ef1ac12433b4b7e1e0c31edb0c726d89">film</comp>
+            </collocation>
+            <collocation form="kustodinja za odnos" cluster="3" frequency="4" logDice="2.66">
+              <comp position="1" type="headword" sloleks="LE_9a763e1cbb1d0814dac2735f96fb254c">kustodinja</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_77f2f37de07cb9f39cb3dd828efa7919">odnos</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="visoka kustodinja" cluster="1" frequency="109" logDice="2.46">
+              <comp position="1" type="collocate" sloleks="LE_4233591f5096276ee0d2cc73b3e78e36">visoka</comp>
+              <comp position="2" type="headword" sloleks="LE_9a763e1cbb1d0814dac2735f96fb254c">kustodinja</comp>
+            </collocation>
+            <collocation form="dolgoletna kustodinja" cluster="2" frequency="8" logDice="2.14">
+              <comp position="1" type="collocate" sloleks="LE_0ba24e8167aebc0a1354105816269ff0">dolgoletna</comp>
+              <comp position="2" type="headword" sloleks="LE_9a763e1cbb1d0814dac2735f96fb254c">kustodinja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

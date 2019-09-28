@@ -1,0 +1,62 @@
+<entry>
+  <header>
+    <lexical_unit id="56739">fotoreportaža</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">843</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="fotoreportaža z dogodka" cluster="1" frequency="7" logDice="9.48">
+              <comp position="1" type="headword" sloleks="LE_a1e0976797b02d84ff1df86c68b0bcf3">fotoreportaža</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_4ebf7faa63d583a7c8baa57987b0f3bf">dogodka</comp>
+            </collocation>
+            <collocation form="fotoreportaža s koncerta" cluster="2" frequency="9" logDice="8.37">
+              <comp position="1" type="headword" sloleks="LE_a1e0976797b02d84ff1df86c68b0bcf3">fotoreportaža</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_59413a17c3a8b66da90ba33d0af97c1d">koncerta</comp>
+            </collocation>
+            <collocation form="fotoreportaža s sejma" cluster="3" frequency="4" logDice="7.87">
+              <comp position="1" type="headword" sloleks="LE_a1e0976797b02d84ff1df86c68b0bcf3">fotoreportaža</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_92734f8092514719c471964800f566be">sejma</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="fotoreportaža z naslovom" cluster="1" frequency="4" logDice="0.75">
+              <comp position="1" type="headword" sloleks="LE_a1e0976797b02d84ff1df86c68b0bcf3">fotoreportaža</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_1aca8621567cc70c42163dfa35048969">naslovom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="ekskluzivna fotoreportaža" cluster="1" frequency="13" logDice="4.82">
+              <comp position="1" type="collocate" sloleks="LE_7f1350c24f72dc9f8c99e92c0358f3a2">ekskluzivna</comp>
+              <comp position="2" type="headword" sloleks="LE_a1e0976797b02d84ff1df86c68b0bcf3">fotoreportaža</comp>
+            </collocation>
+            <collocation form="obsežna fotoreportaža" cluster="2" frequency="8" logDice="2.63">
+              <comp position="1" type="collocate" sloleks="LE_2b0c2a4b4cb351df7e3fb55013d01d25|LE_507f6389ba9f2f15db72aed044fbb965">obsežna</comp>
+              <comp position="2" type="headword" sloleks="LE_a1e0976797b02d84ff1df86c68b0bcf3">fotoreportaža</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="nagrada za fotoreportažo" cluster="1" frequency="7" logDice="2.52">
+              <comp position="1" type="collocate" sloleks="LE_36fb26ff3b13dda6ad73d5616b44950c">nagrada</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_a1e0976797b02d84ff1df86c68b0bcf3">fotoreportažo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

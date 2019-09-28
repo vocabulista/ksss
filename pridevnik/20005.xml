@@ -1,0 +1,67 @@
+<entry>
+  <header>
+    <lexical_unit id="20005">izstavljen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">993</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 na sbz4">
+          <collocations>
+            <collocation form="izstavljen na ime" cluster="1" frequency="9" logDice="9.08">
+              <comp position="1" type="headword" sloleks="LE_2aabd2c535474e4db66e8b72c48e7922">izstavljen</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_b9df4d56789fd8830be4ad3a4ee05aa6">ime</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 na sbz5">
+          <collocations>
+            <collocation form="izstavljen na podlagi" cluster="1" frequency="7" logDice="3.97">
+              <comp position="1" type="headword" sloleks="LE_2aabd2c535474e4db66e8b72c48e7922">izstavljen</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_e6e88eb8a2a7234da435310d47275f97">podlagi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="izstavljena faktura" cluster="1" frequency="28" logDice="9.5">
+              <comp position="1" type="headword" sloleks="LE_2aabd2c535474e4db66e8b72c48e7922">izstavljena</comp>
+              <comp position="2" type="collocate" sloleks="LE_ca32e12fe58f419d646b0f28b8a39047">faktura</comp>
+            </collocation>
+            <collocation form="izstavljen račun" cluster="2" frequency="515" logDice="7.81">
+              <comp position="1" type="headword" sloleks="LE_2aabd2c535474e4db66e8b72c48e7922">izstavljen</comp>
+              <comp position="2" type="collocate" sloleks="LE_03d4207cd319441760ba30bae2e1320e">račun</comp>
+            </collocation>
+            <collocation form="izstavljen davkoplačevalec" cluster="3" frequency="9" logDice="6.16">
+              <comp position="1" type="headword" sloleks="LE_2aabd2c535474e4db66e8b72c48e7922">izstavljen</comp>
+              <comp position="2" type="collocate" sloleks="LE_6005fb972ecda46d84a6396839533273">davkoplačevalec</comp>
+            </collocation>
+            <collocation form="izstavljena položnica" cluster="4" frequency="6" logDice="5.72">
+              <comp position="1" type="headword" sloleks="LE_2aabd2c535474e4db66e8b72c48e7922">izstavljena</comp>
+              <comp position="2" type="collocate" sloleks="LE_db84ae41eb2367201b21b6d6e7a7b298">položnica</comp>
+            </collocation>
+            <collocation form="izstavljen obračun" cluster="5" frequency="13" logDice="3.32">
+              <comp position="1" type="headword" sloleks="LE_2aabd2c535474e4db66e8b72c48e7922">izstavljen</comp>
+              <comp position="2" type="collocate" sloleks="LE_d3e80b1fdfa35353d1647935667ca95d">obračun</comp>
+            </collocation>
+            <collocation form="izstavljena situacija" cluster="6" frequency="14" logDice="2.94">
+              <comp position="1" type="headword" sloleks="LE_2aabd2c535474e4db66e8b72c48e7922">izstavljena</comp>
+              <comp position="2" type="collocate" sloleks="LE_91fe277dd4b027040178b7bae8b2dfa6">situacija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="pravilno izstavljen" cluster="1" frequency="23" logDice="5.75">
+              <comp position="1" type="collocate" sloleks="LE_44bdfefdf121488457dafd037cc5e133">pravilno</comp>
+              <comp position="2" type="headword" sloleks="LE_2aabd2c535474e4db66e8b72c48e7922">izstavljen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

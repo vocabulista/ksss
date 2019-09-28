@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="51332">cepilnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">404</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="cepilnik drv" cluster="1" frequency="248" logDice="11.54">
+              <comp position="1" type="headword" sloleks="LE_98abccc4130933460ca9960007564617">cepilnik</comp>
+              <comp position="2" type="collocate" sloleks="LE_b6a51fce43222d4131d3aaf5c58f1d5d">drv</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="cepilnik za drva" cluster="1" frequency="39" logDice="11.88">
+              <comp position="1" type="headword" sloleks="LE_98abccc4130933460ca9960007564617">cepilnik</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b6a51fce43222d4131d3aaf5c58f1d5d">drva</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="hidravličen cepilnik" cluster="1" frequency="68" logDice="8.03">
+              <comp position="1" type="collocate" sloleks="LE_bcdf092b0a3e19a1ee2a73c42e20a4c9">hidravličen</comp>
+              <comp position="2" type="headword" sloleks="LE_98abccc4130933460ca9960007564617">cepilnik</comp>
+            </collocation>
+            <collocation form="traktorski cepilnik" cluster="2" frequency="12" logDice="5.97">
+              <comp position="1" type="collocate" sloleks="LE_4c9ddc59fca2acc9163379d9e9818068">traktorski</comp>
+              <comp position="2" type="headword" sloleks="LE_98abccc4130933460ca9960007564617">cepilnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

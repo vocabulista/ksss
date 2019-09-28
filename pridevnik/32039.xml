@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="32039">razpenjen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">432</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="razpenjena brzica" cluster="1" frequency="15" logDice="8.74">
+              <comp position="1" type="headword" sloleks="LE_a146a5ca1e84f067add3c9813a598551">razpenjena</comp>
+              <comp position="2" type="collocate" sloleks="LE_c632e597eb140e688372169843598f20">brzica</comp>
+            </collocation>
+            <collocation form="razpenjen val" cluster="2" frequency="93" logDice="5.32">
+              <comp position="1" type="headword" sloleks="LE_a146a5ca1e84f067add3c9813a598551">razpenjen</comp>
+              <comp position="2" type="collocate" sloleks="LE_9222bed8735c3c3e4f44b0b831409bd5">val</comp>
+            </collocation>
+            <collocation form="razpenjeno morje" cluster="3" frequency="49" logDice="4.85">
+              <comp position="1" type="headword" sloleks="LE_a146a5ca1e84f067add3c9813a598551">razpenjeno</comp>
+              <comp position="2" type="collocate" sloleks="LE_bcd96bfadbb1e224af34457884db42c8">morje</comp>
+            </collocation>
+            <collocation form="razpenjena voda" cluster="4" frequency="63" logDice="3.32">
+              <comp position="1" type="headword" sloleks="LE_a146a5ca1e84f067add3c9813a598551">razpenjena</comp>
+              <comp position="2" type="collocate" sloleks="LE_0d8cbba4e56fea63657ac746d29cd047">voda</comp>
+            </collocation>
+            <collocation form="razpenjena reka" cluster="4" frequency="20" logDice="4.67">
+              <comp position="1" type="headword" sloleks="LE_a146a5ca1e84f067add3c9813a598551">razpenjena</comp>
+              <comp position="2" type="collocate" sloleks="LE_6662cfa7fb9c1345baab0f694d5a3590">reka</comp>
+            </collocation>
+            <collocation form="razpenjen potok" cluster="5" frequency="7" logDice="3.69">
+              <comp position="1" type="headword" sloleks="LE_a146a5ca1e84f067add3c9813a598551">razpenjen</comp>
+              <comp position="2" type="collocate" sloleks="LE_caca5ff4235178a10f62624a95430c94">potok</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="belo razpenjen" cluster="1" frequency="5" logDice="6.12">
+              <comp position="1" type="collocate" sloleks="LE_eeb48d7d1b60f803c5dabbce3a3afb0a">belo</comp>
+              <comp position="2" type="headword" sloleks="LE_a146a5ca1e84f067add3c9813a598551">razpenjen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

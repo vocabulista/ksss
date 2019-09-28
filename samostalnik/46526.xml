@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="46526">abstinent</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">605</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 od sbz2">
+          <collocations>
+            <collocation form="abstinent od droge" cluster="1" frequency="7" logDice="6.52">
+              <comp position="1" type="headword" sloleks="LE_bbaa8b410db20443c652591aa577e0c1">abstinent</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_40c830f1f018b10aa0f1f5ef730ce10f">droge</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="zaprisežen abstinent" cluster="1" frequency="8" logDice="5.89">
+              <comp position="1" type="collocate" sloleks="LE_08bc2a796db928f28f5e43289a7e2137">zaprisežen</comp>
+              <comp position="2" type="headword" sloleks="LE_bbaa8b410db20443c652591aa577e0c1">abstinent</comp>
+            </collocation>
+            <collocation form="popoln abstinent" cluster="2" frequency="54" logDice="3.84">
+              <comp position="1" type="collocate" sloleks="LE_814a2c9c333ef1e9cb481395c05b7346">popoln</comp>
+              <comp position="2" type="headword" sloleks="LE_bbaa8b410db20443c652591aa577e0c1">abstinent</comp>
+            </collocation>
+            <collocation form="volilen abstinent" cluster="3" frequency="27" logDice="2.74">
+              <comp position="1" type="collocate" sloleks="LE_35a1213b4004519a46862beb1d036e08">volilen</comp>
+              <comp position="2" type="headword" sloleks="LE_bbaa8b410db20443c652591aa577e0c1">abstinent</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="klub abstinenta" cluster="1" frequency="6" logDice="2.5">
+              <comp position="1" type="collocate" sloleks="LE_205ce919e68ed95a2dc64567475887d3">klub</comp>
+              <comp position="2" type="headword" sloleks="LE_bbaa8b410db20443c652591aa577e0c1">abstinenta</comp>
+            </collocation>
+            <collocation form="delež abstinenta" cluster="2" frequency="13" logDice="2.3">
+              <comp position="1" type="collocate" sloleks="LE_8f8dbfe55e81431b97506b6dc95f9da4">delež</comp>
+              <comp position="2" type="headword" sloleks="LE_bbaa8b410db20443c652591aa577e0c1">abstinenta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="primerjava z abstinentom" cluster="1" frequency="7" logDice="1.3">
+              <comp position="1" type="collocate" sloleks="LE_b0908a9cb9434cce78c34e4e7824a22a">primerjava</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_bbaa8b410db20443c652591aa577e0c1">abstinentom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

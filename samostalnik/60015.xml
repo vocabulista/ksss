@@ -1,0 +1,66 @@
+<entry>
+  <header>
+    <lexical_unit id="60015">identifikator</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">446</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="identifikator seje" cluster="1" frequency="9" logDice="3.07">
+              <comp position="1" type="headword" sloleks="LE_908b79436d94e5b5e80836776cd9bae5">identifikator</comp>
+              <comp position="2" type="collocate" sloleks="LE_69dcab59c30b954c56acd84e9b699cd0">seje</comp>
+            </collocation>
+            <collocation form="identifikator posameznika" cluster="2" frequency="13" logDice="2.96">
+              <comp position="1" type="headword" sloleks="LE_908b79436d94e5b5e80836776cd9bae5">identifikator</comp>
+              <comp position="2" type="collocate" sloleks="LE_5870be796ec2c585c2a3e9baa4dac0bf">posameznika</comp>
+            </collocation>
+            <collocation form="zbiranje identifikatorja" cluster="3" frequency="8" logDice="2.58">
+              <comp position="1" type="collocate" sloleks="LE_c8381d5056d7fd8c6f274c0127edf16d">zbiranje</comp>
+              <comp position="2" type="headword" sloleks="LE_908b79436d94e5b5e80836776cd9bae5">identifikatorja</comp>
+            </collocation>
+            <collocation form="uvedba identifikatorja" cluster="4" frequency="6" logDice="1.73">
+              <comp position="1" type="collocate" sloleks="LE_095bca6114678367cd4dbf7d3c5648fd">uvedba</comp>
+              <comp position="2" type="headword" sloleks="LE_908b79436d94e5b5e80836776cd9bae5">identifikatorja</comp>
+            </collocation>
+            <collocation form="uporaba identifikatorja" cluster="5" frequency="9" logDice="0.65">
+              <comp position="1" type="collocate" sloleks="LE_9999e7dc3b8f5571ba09e352c31aea3f">uporaba</comp>
+              <comp position="2" type="headword" sloleks="LE_908b79436d94e5b5e80836776cd9bae5">identifikatorja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="identifikator za povezovanje" cluster="1" frequency="6" logDice="6.39">
+              <comp position="1" type="headword" sloleks="LE_908b79436d94e5b5e80836776cd9bae5">identifikator</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_f128b800bd5e2d4cf8ebf27a0c8dff76">povezovanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="enoznačen identifikator" cluster="1" frequency="26" logDice="9.41">
+              <comp position="1" type="collocate" sloleks="LE_9ca8e810669c9d5a7749269bf05997b0">enoznačen</comp>
+              <comp position="2" type="headword" sloleks="LE_908b79436d94e5b5e80836776cd9bae5">identifikator</comp>
+            </collocation>
+            <collocation form="enoličen identifikator" cluster="2" frequency="33" logDice="8.79">
+              <comp position="1" type="collocate" sloleks="LE_e8ed02892ccde0a5d1f242214814358a">enoličen</comp>
+              <comp position="2" type="headword" sloleks="LE_908b79436d94e5b5e80836776cd9bae5">identifikator</comp>
+            </collocation>
+            <collocation form="aplikacijski identifikator" cluster="3" frequency="10" logDice="8.5">
+              <comp position="1" type="collocate" sloleks="LE_5f03ea9cd9bc0899b2948074ba2d7733">aplikacijski</comp>
+              <comp position="2" type="headword" sloleks="LE_908b79436d94e5b5e80836776cd9bae5">identifikator</comp>
+            </collocation>
+            <collocation form="enoten identifikator" cluster="4" frequency="15" logDice="3.18">
+              <comp position="1" type="collocate" sloleks="LE_f169749fbfeb6e0fcd8c702e4936c18d">enoten</comp>
+              <comp position="2" type="headword" sloleks="LE_908b79436d94e5b5e80836776cd9bae5">identifikator</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="63214">katehet</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">617</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="katehet s pištolo" cluster="1" frequency="7" logDice="6.19">
+              <comp position="1" type="headword" sloleks="LE_33d3580c54f4c02493b75edf3449e2e9">katehet</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_c025c958b2f934291aed2445f38cb207">pištolo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="vloga kateheta" cluster="1" frequency="6" logDice="0.65">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_33d3580c54f4c02493b75edf3449e2e9">kateheta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

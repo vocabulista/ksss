@@ -1,0 +1,82 @@
+<entry>
+  <header>
+    <lexical_unit id="8507">štediti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">411</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="štediti moč" cluster="1" frequency="35" logDice="4.53">
+              <comp position="1" type="headword" sloleks="LE_7f2f51e6168094ad355d4428d7e1d515">štediti</comp>
+              <comp position="2" type="collocate" sloleks="LE_0b71c85c50e39f2c8cb5e91791d67af9">moč</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="štediti s pohvalo" cluster="1" frequency="10" logDice="8.08">
+              <comp position="1" type="headword" sloleks="LE_7f2f51e6168094ad355d4428d7e1d515">štediti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_ca46dd586e37e3223436ba87755b450d">pohvalo</comp>
+            </collocation>
+            <collocation form="štediti s kritiko" cluster="2" frequency="4" logDice="6.36">
+              <comp position="1" type="headword" sloleks="LE_7f2f51e6168094ad355d4428d7e1d515">štediti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_03b31013c1f6f42e331e9151dfb98176">kritiko</comp>
+            </collocation>
+            <collocation form="štediti z materialom" cluster="3" frequency="4" logDice="5.89">
+              <comp position="1" type="headword" sloleks="LE_7f2f51e6168094ad355d4428d7e1d515">štediti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_3c83a59228fd24befce6e7dbf8479f4f">materialom</comp>
+            </collocation>
+            <collocation form="štediti z udarcem" cluster="4" frequency="4" logDice="5.15">
+              <comp position="1" type="headword" sloleks="LE_7f2f51e6168094ad355d4428d7e1d515">štediti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_6e5ed8add847e2bdd4d0ed88713bace6">udarcem</comp>
+            </collocation>
+            <collocation form="štediti z denarjem" cluster="5" frequency="5" logDice="3.1">
+              <comp position="1" type="headword" sloleks="LE_7f2f51e6168094ad355d4428d7e1d515">štediti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_131558386fe2663b840b4fa0cb561e5d">denarjem</comp>
+            </collocation>
+            <collocation form="štediti z močjo" cluster="5" frequency="4" logDice="3.03">
+              <comp position="1" type="headword" sloleks="LE_7f2f51e6168094ad355d4428d7e1d515">štediti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_0b71c85c50e39f2c8cb5e91791d67af9">močjo</comp>
+            </collocation>
+            <collocation form="štediti z besedo" cluster="6" frequency="5" logDice="2.53">
+              <comp position="1" type="headword" sloleks="LE_7f2f51e6168094ad355d4428d7e1d515">štediti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">besedo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz SBZ2">
+          <collocations>
+            <collocation form="ne štediti oči" cluster="1" frequency="4" logDice="7.66">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_7f2f51e6168094ad355d4428d7e1d515">štediti</comp>
+              <comp position="3" type="collocate" sloleks="LE_6e683e53145b35a6cbb44ad1188b7a9f|LE_f7836a137770b18301878166ca9f053f">oči</comp>
+            </collocation>
+            <collocation form="ne štediti moči" cluster="2" frequency="6" logDice="5.08">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_7f2f51e6168094ad355d4428d7e1d515">štediti</comp>
+              <comp position="3" type="collocate" sloleks="LE_0b71c85c50e39f2c8cb5e91791d67af9">moči</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="nič štediti" cluster="1" frequency="6" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_8e90bcbc87a903b29aed9727fd2eee14">nič</comp>
+              <comp position="2" type="headword" sloleks="LE_7f2f51e6168094ad355d4428d7e1d515">štediti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

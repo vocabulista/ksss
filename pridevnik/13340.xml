@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="13340">anahronističen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">467</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="anahronističen ostanek" cluster="1" frequency="7" logDice="3.7">
+              <comp position="1" type="headword" sloleks="LE_30045cced0160663b14a747f185e9cf1">anahronističen</comp>
+              <comp position="2" type="collocate" sloleks="LE_1e8f1a48f0110a2a2ede2cf44f8963e5">ostanek</comp>
+            </collocation>
+            <collocation form="anahronističen izraz" cluster="2" frequency="11" logDice="3.28">
+              <comp position="1" type="headword" sloleks="LE_30045cced0160663b14a747f185e9cf1">anahronističen</comp>
+              <comp position="2" type="collocate" sloleks="LE_d2d667d478e9b9620d18a0927cab6911">izraz</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="izrazito anahronističen" cluster="1" frequency="5" logDice="2.79">
+              <comp position="1" type="collocate" sloleks="LE_49bf3a0d5252c865efed470131f087c5">izrazito</comp>
+              <comp position="2" type="headword" sloleks="LE_30045cced0160663b14a747f185e9cf1">anahronističen</comp>
+            </collocation>
+            <collocation form="nekoliko anahronističen" cluster="2" frequency="11" logDice="1.61">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_30045cced0160663b14a747f185e9cf1">anahronističen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

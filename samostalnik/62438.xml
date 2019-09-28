@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="62438">jura</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">721</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pozna jura" cluster="1" frequency="22" logDice="3.81">
+              <comp position="1" type="collocate" sloleks="LE_4e545ced8620954115ee226cb212aea4">pozna</comp>
+              <comp position="2" type="headword" sloleks="LE_30e13720f35eae45dc9eb880a1512ece">jura</comp>
+            </collocation>
+            <collocation form="spodnja jura" cluster="2" frequency="18" logDice="2.5">
+              <comp position="1" type="collocate" sloleks="LE_c125bcd8580a683e9f0725c576a9183d">spodnja</comp>
+              <comp position="2" type="headword" sloleks="LE_30e13720f35eae45dc9eb880a1512ece">jura</comp>
+            </collocation>
+            <collocation form="zgornja jura" cluster="2" frequency="10" logDice="1.8">
+              <comp position="1" type="collocate" sloleks="LE_2c1f378a0eedbda143aa3cbd9699a927">zgornja</comp>
+              <comp position="2" type="headword" sloleks="LE_30e13720f35eae45dc9eb880a1512ece">jura</comp>
+            </collocation>
+            <collocation form="srednja jura" cluster="3" frequency="9" logDice="0.6">
+              <comp position="1" type="collocate" sloleks="LE_6ab7cfab8fbd4c67fd663d24357f8954">srednja</comp>
+              <comp position="2" type="headword" sloleks="LE_30e13720f35eae45dc9eb880a1512ece">jura</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="obdobje jure" cluster="1" frequency="24" logDice="3.41">
+              <comp position="1" type="collocate" sloleks="LE_498f5ebac18d9460a9f193249cd7f0bc">obdobje</comp>
+              <comp position="2" type="headword" sloleks="LE_30e13720f35eae45dc9eb880a1512ece">jure</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="greben iz jure" cluster="1" frequency="4" logDice="10.84">
+              <comp position="1" type="collocate" sloleks="LE_f67fa2c2f8fec4cebbb2bdf1e3e095ad">greben</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_30e13720f35eae45dc9eb880a1512ece">jure</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="92180">suhec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">524</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="suhec z lasom" cluster="1" frequency="6" logDice="6.38">
+              <comp position="1" type="headword" sloleks="LE_ec9e0dedede895d33dcd29ec8caf8267">suhec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_efa5b979af023ef3a1f9a62889d9ad2d">lasom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="krepak suhec" cluster="1" frequency="21" logDice="6.26">
+              <comp position="1" type="collocate" sloleks="LE_3d180c79d906f9cd3967171f13d83da3">krepak</comp>
+              <comp position="2" type="headword" sloleks="LE_ec9e0dedede895d33dcd29ec8caf8267">suhec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

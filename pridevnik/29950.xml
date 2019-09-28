@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="29950">poznavalski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">593</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="poznavalsko oko" cluster="1" frequency="23" logDice="5.4">
+              <comp position="1" type="headword" sloleks="LE_a7de057f56da308165e27249dc86772a">poznavalsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_5be17c9e359e9f2f62119ef5d2265da6">oko</comp>
+            </collocation>
+            <collocation form="poznavalski nasmešek" cluster="2" frequency="6" logDice="4.98">
+              <comp position="1" type="headword" sloleks="LE_a7de057f56da308165e27249dc86772a">poznavalski</comp>
+              <comp position="2" type="collocate" sloleks="LE_f59a995c056fbf7a3beb6cf6f943249f">nasmešek</comp>
+            </collocation>
+            <collocation form="poznavalsko občinstvo" cluster="3" frequency="24" logDice="4.8">
+              <comp position="1" type="headword" sloleks="LE_a7de057f56da308165e27249dc86772a">poznavalsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_9ad04c443daf1ba38a9738a769027a05">občinstvo</comp>
+            </collocation>
+            <collocation form="poznavalska publika" cluster="4" frequency="13" logDice="4.79">
+              <comp position="1" type="headword" sloleks="LE_a7de057f56da308165e27249dc86772a">poznavalska</comp>
+              <comp position="2" type="collocate" sloleks="LE_6723945b0a5af59e0be83677a59b5406">publika</comp>
+            </collocation>
+            <collocation form="poznavalski nasvet" cluster="5" frequency="23" logDice="4.33">
+              <comp position="1" type="headword" sloleks="LE_a7de057f56da308165e27249dc86772a">poznavalski</comp>
+              <comp position="2" type="collocate" sloleks="LE_b80e60157d94b2ea05763e6d4ed36373">nasvet</comp>
+            </collocation>
+            <collocation form="poznavalski komentar" cluster="6" frequency="10" logDice="3.44">
+              <comp position="1" type="headword" sloleks="LE_a7de057f56da308165e27249dc86772a">poznavalski</comp>
+              <comp position="2" type="collocate" sloleks="LE_19164d0c02318542e790ec82e2ab8301">komentar</comp>
+            </collocation>
+            <collocation form="poznavalski krog" cluster="7" frequency="45" logDice="3.43">
+              <comp position="1" type="headword" sloleks="LE_a7de057f56da308165e27249dc86772a">poznavalski</comp>
+              <comp position="2" type="collocate" sloleks="LE_066eb108c6dc35d7d2865febd65e4fb6">krog</comp>
+            </collocation>
+            <collocation form="poznavalski okus" cluster="8" frequency="8" logDice="2.69">
+              <comp position="1" type="headword" sloleks="LE_a7de057f56da308165e27249dc86772a">poznavalski</comp>
+              <comp position="2" type="collocate" sloleks="LE_d8073f7c60c2504626fd4db48536f904">okus</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="poznavalski in/ali strokoven" cluster="1" frequency="9" logDice="3.92">
+              <comp position="3" type="headword" sloleks="LE_a7de057f56da308165e27249dc86772a">poznavalski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_d4524fa4794029688a3631ccc899f25a">strokoven</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

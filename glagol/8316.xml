@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="8316">spizditi</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">467</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ iz sbz2">
+          <collocations>
+            <collocation form="spizditi iz države" cluster="1" frequency="5" logDice="4.14">
+              <comp position="1" type="headword" sloleks="LE_3e4caa1e6dcf66fe4b14a869dc47fd94">spizditi</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">države</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="spizditi nekam" cluster="1" frequency="5" logDice="4.06">
+              <comp position="1" type="headword" sloleks="LE_3e4caa1e6dcf66fe4b14a869dc47fd94">spizditi</comp>
+              <comp position="2" type="collocate" sloleks="LE_74a180fdd3c4cc19b78fe203d7dd8232">nekam</comp>
+            </collocation>
+            <collocation form="spizditi ven" cluster="2" frequency="7" logDice="2.98">
+              <comp position="1" type="headword" sloleks="LE_3e4caa1e6dcf66fe4b14a869dc47fd94">spizditi</comp>
+              <comp position="2" type="collocate" sloleks="LE_67d91f3f43278b6be6b4c6644874a517">ven</comp>
+            </collocation>
+            <collocation form="spizditi nazaj" cluster="3" frequency="7" logDice="1.5">
+              <comp position="1" type="headword" sloleks="LE_3e4caa1e6dcf66fe4b14a869dc47fd94">spizditi</comp>
+              <comp position="2" type="collocate" sloleks="LE_3717c322e8fa4dddb88c242050491707">nazaj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz2">
+          <collocations>
+            <collocation form="spizditi s foruma" cluster="1" frequency="6" logDice="10.76">
+              <comp position="1" type="headword" sloleks="LE_3e4caa1e6dcf66fe4b14a869dc47fd94">spizditi</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_c5e3533325fe5be8434d343066eafbe6">foruma</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

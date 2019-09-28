@@ -1,0 +1,82 @@
+<entry>
+  <header>
+    <lexical_unit id="25999">nespoštljiv</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">823</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 do sbz2">
+          <collocations>
+            <collocation form="nespoštljiv do mene" cluster="1" frequency="4" logDice="9.06">
+              <comp position="1" type="headword" sloleks="LE_03e89caa32fa669c43278189f922366d">nespoštljiv</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_0d7c16563ca08245cab8459a6cd64fe8">mene</comp>
+            </collocation>
+            <collocation form="nespoštljiv do človeka" cluster="2" frequency="4" logDice="6.8">
+              <comp position="1" type="headword" sloleks="LE_03e89caa32fa669c43278189f922366d">nespoštljiv</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človeka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="nespoštljiv in sramoten" cluster="1" frequency="5" logDice="8.24">
+              <comp position="1" type="headword" sloleks="LE_03e89caa32fa669c43278189f922366d">nespoštljiv</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_a64e94720f548423f04618273c05e02e">sramoten</comp>
+            </collocation>
+            <collocation form="nespoštljiv in žaljiv" cluster="2" frequency="15" logDice="7.91">
+              <comp position="1" type="headword" sloleks="LE_03e89caa32fa669c43278189f922366d">nespoštljiv</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_a77e2e442d62acf4e52e29e74a129d63">žaljiv</comp>
+            </collocation>
+            <collocation form="nespoštljiv in/ali nesramen" cluster="3" frequency="8" logDice="7.9">
+              <comp position="3" type="headword" sloleks="LE_03e89caa32fa669c43278189f922366d">nespoštljiv</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_e8c70b132aeff05cafe8d39ec32724b9">nesramen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nespoštljivo ravnanje" cluster="1" frequency="29" logDice="4.67">
+              <comp position="1" type="headword" sloleks="LE_03e89caa32fa669c43278189f922366d">nespoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_7e82fe508f090aca8e5ea9595ce1c11e">ravnanje</comp>
+            </collocation>
+            <collocation form="nespoštljivo obnašanje" cluster="1" frequency="28" logDice="5.92">
+              <comp position="1" type="headword" sloleks="LE_03e89caa32fa669c43278189f922366d">nespoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_fa7e99fad8557cb425899963d8ab21c7">obnašanje</comp>
+            </collocation>
+            <collocation form="nespoštljivo vedenje" cluster="1" frequency="22" logDice="4.88">
+              <comp position="1" type="headword" sloleks="LE_03e89caa32fa669c43278189f922366d">nespoštljivo</comp>
+              <comp position="2" type="collocate" sloleks="LE_3bdf5abfb2a566493af53e72977a2683">vedenje</comp>
+            </collocation>
+            <collocation form="nespoštljiv odnos" cluster="2" frequency="150" logDice="4.66">
+              <comp position="1" type="headword" sloleks="LE_03e89caa32fa669c43278189f922366d">nespoštljiv</comp>
+              <comp position="2" type="collocate" sloleks="LE_77f2f37de07cb9f39cb3dd828efa7919">odnos</comp>
+            </collocation>
+            <collocation form="nespoštljiva beseda" cluster="3" frequency="8" logDice="0.58">
+              <comp position="1" type="headword" sloleks="LE_03e89caa32fa669c43278189f922366d">nespoštljiva</comp>
+              <comp position="2" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">beseda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="skrajno nespoštljiv" cluster="1" frequency="9" logDice="3.96">
+              <comp position="1" type="collocate" sloleks="LE_50bd085be9fea6c2fd7222a14ab31702">skrajno</comp>
+              <comp position="2" type="headword" sloleks="LE_03e89caa32fa669c43278189f922366d">nespoštljiv</comp>
+            </collocation>
+            <collocation form="popolnoma nespoštljiv" cluster="2" frequency="5" logDice="0.61">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_03e89caa32fa669c43278189f922366d">nespoštljiv</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

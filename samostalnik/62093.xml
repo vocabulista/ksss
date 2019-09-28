@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="62093">jereb</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">374</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="gozden jereb" cluster="1" frequency="113" logDice="6.63">
+              <comp position="1" type="collocate" sloleks="LE_a3dc8a391b737fce9e4c18ad1b4d5eb3">gozden</comp>
+              <comp position="2" type="headword" sloleks="LE_ecf995cb0d8a6e1565b200dbded8fbec">jereb</comp>
+            </collocation>
+            <collocation form="snežen jereb" cluster="2" frequency="22" logDice="4.58">
+              <comp position="1" type="collocate" sloleks="LE_901f4ffc2c3ad51d4e789c6b2279273e|LE_f2ff6af86934c58de4430420bd8a79e1">snežen</comp>
+              <comp position="2" type="headword" sloleks="LE_ecf995cb0d8a6e1565b200dbded8fbec">jereb</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Aleksander Jereba" cluster="1" frequency="5" logDice="5.09">
+              <comp position="1" type="collocate" sloleks="LE_08ddddcebc45c784d8b022397969756f">Aleksander</comp>
+              <comp position="2" type="headword" sloleks="LE_ecf995cb0d8a6e1565b200dbded8fbec">Jereba</comp>
+            </collocation>
+            <collocation form="Dušan Jereba" cluster="2" frequency="7" logDice="4.51">
+              <comp position="1" type="collocate" sloleks="LE_bb76f4d9823599992e74eaafd146969f">Dušan</comp>
+              <comp position="2" type="headword" sloleks="LE_ecf995cb0d8a6e1565b200dbded8fbec">Jereba</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

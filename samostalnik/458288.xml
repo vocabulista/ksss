@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="458288">digitalec</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="digitalec s povečavo" cluster="1" frequency="5" logDice="9.12">
+              <comp position="1" type="headword" sloleks="">digitalec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_420e626a4f470b8b047cffc748f2ba1e">povečavo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="fotografirati z digitalec" cluster="1" frequency="5" logDice="7.15">
+              <comp position="1" type="collocate" sloleks="LE_ad9e97f6da36bd95b0a3c90b4747fc86">fotografirati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="">digitalec</comp>
+            </collocation>
+            <collocation form="posneti z digitalec" cluster="2" frequency="4" logDice="5.59">
+              <comp position="1" type="collocate" sloleks="LE_3906fa457dc2a89f9e9b1d8db8aabe5b">posneti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="">digitalec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="kompakten digitalec" cluster="1" frequency="29" logDice="6.6">
+              <comp position="1" type="collocate" sloleks="LE_05b8f303926537dde11c853bec4a1169">kompakten</comp>
+              <comp position="2" type="headword" sloleks="">digitalec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="72076">nehvaležnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">463</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="nehvaležnost obdarjenca" cluster="1" frequency="11" logDice="11.28">
+              <comp position="1" type="headword" sloleks="LE_00a01caaa800555e7d58e680e480a756">nehvaležnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_8735b4ddc7ef2cc72ec0a774183c1b0d">obdarjenca</comp>
+            </collocation>
+            <collocation form="standard nehvaležnosti" cluster="2" frequency="10" logDice="4.35">
+              <comp position="1" type="collocate" sloleks="LE_4cb76a43bf5359cd108c8cf9e67b0368">standard</comp>
+              <comp position="2" type="headword" sloleks="LE_00a01caaa800555e7d58e680e480a756">nehvaležnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="vračati z nehvaležnostjo" cluster="1" frequency="8" logDice="5.78">
+              <comp position="1" type="collocate" sloleks="LE_7bf4acfee93ea47df2d908732298b41a">vračati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_00a01caaa800555e7d58e680e480a756">nehvaležnostjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="huda nehvaležnost" cluster="1" frequency="27" logDice="2.16">
+              <comp position="1" type="collocate" sloleks="LE_52de53dad147ca0010c605df13741ac2">huda</comp>
+              <comp position="2" type="headword" sloleks="LE_00a01caaa800555e7d58e680e480a756">nehvaležnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 zaradi SBZ2">
+          <collocations>
+            <collocation form="pogodba zaradi nehvaležnosti" cluster="1" frequency="5" logDice="8.52">
+              <comp position="1" type="collocate" sloleks="LE_f8f86304f16174105dd9c075264d9c0c">pogodba</comp>
+              <comp position="2" type="other" sloleks="LE_e2128c24e3c3872c9e5c2981f71b461f">zaradi</comp>
+              <comp position="3" type="headword" sloleks="LE_00a01caaa800555e7d58e680e480a756">nehvaležnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

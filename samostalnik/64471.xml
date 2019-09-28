@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="64471">komičnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">522</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="komičnost situacije" cluster="1" frequency="13" logDice="5.85">
+              <comp position="1" type="headword" sloleks="LE_7ebcc8309b106fe2b6c6d190239a72f2">komičnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_91fe277dd4b027040178b7bae8b2dfa6">situacije</comp>
+            </collocation>
+            <collocation form="pridih komičnosti" cluster="2" frequency="7" logDice="5.42">
+              <comp position="1" type="collocate" sloleks="LE_ee064d0efe293315adf9bab78b7d372c">pridih</comp>
+              <comp position="2" type="headword" sloleks="LE_7ebcc8309b106fe2b6c6d190239a72f2">komičnosti</comp>
+            </collocation>
+            <collocation form="vrsta komičnosti" cluster="3" frequency="13" logDice="0.6">
+              <comp position="1" type="collocate" sloleks="LE_4af9091c01f502e405be7dfe91eedee3">vrsta</comp>
+              <comp position="2" type="headword" sloleks="LE_7ebcc8309b106fe2b6c6d190239a72f2">komičnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="občutek za komičnost" cluster="1" frequency="6" logDice="3.98">
+              <comp position="1" type="collocate" sloleks="LE_23671e6156ee6c327e7c512a951bd4f3">občutek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_7ebcc8309b106fe2b6c6d190239a72f2">komičnost</comp>
+            </collocation>
+            <collocation form="smisel za komičnost" cluster="2" frequency="4" logDice="3.56">
+              <comp position="1" type="collocate" sloleks="LE_5360d45e9cbd1bd626d7f2caefd4dff5">smisel</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_7ebcc8309b106fe2b6c6d190239a72f2">komičnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

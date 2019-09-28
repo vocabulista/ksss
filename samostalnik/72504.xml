@@ -1,0 +1,87 @@
+<entry>
+  <header>
+    <lexical_unit id="72504">nepopustljivost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1605</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 do sbz2">
+          <collocations>
+            <collocation form="nepopustljivost do sekunde" cluster="1" frequency="5" logDice="8.91">
+              <comp position="1" type="headword" sloleks="LE_b32fc7e6fc81ccb44acf1cfbff4328cc">nepopustljivost</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_28f8e53821d818c4ccde6b78f182c4c0">sekunde</comp>
+            </collocation>
+            <collocation form="nepopustljivost do minute" cluster="2" frequency="4" logDice="6.42">
+              <comp position="1" type="headword" sloleks="LE_b32fc7e6fc81ccb44acf1cfbff4328cc">nepopustljivost</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_4dbac25ecbcde2d4ad6049424d74db15">minute</comp>
+            </collocation>
+            <collocation form="nepopustljivost do konca" cluster="3" frequency="8" logDice="2.77">
+              <comp position="1" type="headword" sloleks="LE_b32fc7e6fc81ccb44acf1cfbff4328cc">nepopustljivost</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_d8d1737076777d9839ea949a2b88751a">konca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="nepopustljivost strani" cluster="1" frequency="11" logDice="2.69">
+              <comp position="1" type="headword" sloleks="LE_b32fc7e6fc81ccb44acf1cfbff4328cc">nepopustljivost</comp>
+              <comp position="2" type="collocate" sloleks="LE_4432316ca39663f747c84fc21ac8e398">strani</comp>
+            </collocation>
+            <collocation form="mera nepopustljivosti" cluster="2" frequency="5" logDice="2.5">
+              <comp position="1" type="collocate" sloleks="LE_bb15e9b82aee6708602364eaa5091645">mera</comp>
+              <comp position="2" type="headword" sloleks="LE_b32fc7e6fc81ccb44acf1cfbff4328cc">nepopustljivosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="pokazati nepopustljivost" cluster="1" frequency="21" logDice="3.15">
+              <comp position="1" type="collocate" sloleks="LE_6484af15523a06b64b3467bae5f2a4ac">pokazati</comp>
+              <comp position="2" type="headword" sloleks="LE_b32fc7e6fc81ccb44acf1cfbff4328cc">nepopustljivost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz po SBZ5">
+          <collocations>
+            <collocation form="sloveti po nepopustljivosti" cluster="1" frequency="8" logDice="5.23">
+              <comp position="1" type="collocate" sloleks="LE_3d0f811f26c77d8f8d63f2381c2af615">sloveti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_b32fc7e6fc81ccb44acf1cfbff4328cc">nepopustljivosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="dokazati z nepopustljivostjo" cluster="1" frequency="4" logDice="4.53">
+              <comp position="1" type="collocate" sloleks="LE_7ab14ed690b06b4bbd2195e30bda62fe">dokazati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_b32fc7e6fc81ccb44acf1cfbff4328cc">nepopustljivostjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pregovorna nepopustljivost" cluster="1" frequency="9" logDice="6.69">
+              <comp position="1" type="collocate" sloleks="LE_ab4658151fd55bee4ec1aa47d58f935a">pregovorna</comp>
+              <comp position="2" type="headword" sloleks="LE_b32fc7e6fc81ccb44acf1cfbff4328cc">nepopustljivost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 po SBZ5">
+          <collocations>
+            <collocation form="znan po nepopustljivosti" cluster="1" frequency="13" logDice="4.3">
+              <comp position="1" type="collocate" sloleks="LE_3ca4e8269ed35ff770799effa47b0eda">znan</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_b32fc7e6fc81ccb44acf1cfbff4328cc">nepopustljivosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

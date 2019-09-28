@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="84085">provitamin</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">558</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 z SBZ6">
+          <collocations>
+            <collocation form="obogaten s provitaminom" cluster="1" frequency="5" logDice="5.57">
+              <comp position="1" type="collocate" sloleks="LE_d0fae45d0e126a07a0d593216edfc9a6">obogaten</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_0d7924369aa70408d13304b61c412f98">provitaminom</comp>
+            </collocation>
+            <collocation form="bogat s provitaminom" cluster="2" frequency="5" logDice="4.53">
+              <comp position="1" type="collocate" sloleks="LE_dced9b89c62a9351467866138eb9d57d">bogat</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_0d7924369aa70408d13304b61c412f98">provitaminom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="vir provitamina" cluster="1" frequency="10" logDice="2.39">
+              <comp position="1" type="collocate" sloleks="LE_f2868b5fa7700f4f1a6833f2b2436164">vir</comp>
+              <comp position="2" type="headword" sloleks="LE_0d7924369aa70408d13304b61c412f98">provitamina</comp>
+            </collocation>
+            <collocation form="količina provitamina" cluster="2" frequency="7" logDice="1.26">
+              <comp position="1" type="collocate" sloleks="LE_962c73eca27e836ddb2ea664db69f933">količina</comp>
+              <comp position="2" type="headword" sloleks="LE_0d7924369aa70408d13304b61c412f98">provitamina</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

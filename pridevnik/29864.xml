@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="29864">poverjen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">476</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 kot sbz0">
+          <collocations>
+            <collocation form="poverjen kot pooblastilo" cluster="1" frequency="21" logDice="11.21">
+              <comp position="1" type="headword" sloleks="LE_a53626a57923e5c1ce4e088f6e35d39f">poverjen</comp>
+              <comp position="2" type="other" sloleks="LE_feac626fa40a7cc8a4394d667b7dd8a4">kot</comp>
+              <comp position="3" type="collocate" sloleks="LE_b7b40393d743cea6eec2b3689e04e754">pooblastilo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="poverjeno izvrševanje" cluster="1" frequency="8" logDice="7.5">
+              <comp position="1" type="headword" sloleks="LE_a53626a57923e5c1ce4e088f6e35d39f">poverjeno</comp>
+              <comp position="2" type="collocate" sloleks="LE_5b3aca2d6eab5d5c3400b5e8370a9197">izvrševanje</comp>
+            </collocation>
+            <collocation form="poverjeno pooblastilo" cluster="2" frequency="32" logDice="5.8">
+              <comp position="1" type="headword" sloleks="LE_a53626a57923e5c1ce4e088f6e35d39f">poverjeno</comp>
+              <comp position="2" type="collocate" sloleks="LE_b7b40393d743cea6eec2b3689e04e754">pooblastilo</comp>
+            </collocation>
+            <collocation form="poverjen ravnatelj" cluster="3" frequency="7" logDice="5.34">
+              <comp position="1" type="headword" sloleks="LE_a53626a57923e5c1ce4e088f6e35d39f">poverjen</comp>
+              <comp position="2" type="collocate" sloleks="LE_0b6a985369031f0c6780aef78c9ae939">ravnatelj</comp>
+            </collocation>
+            <collocation form="poverjena naloga" cluster="4" frequency="55" logDice="3.76">
+              <comp position="1" type="headword" sloleks="LE_a53626a57923e5c1ce4e088f6e35d39f">poverjena</comp>
+              <comp position="2" type="collocate" sloleks="LE_85b4631dc6e0b0f426e7455c2bc6a05e">naloga</comp>
+            </collocation>
+            <collocation form="poverjena skrb" cluster="4" frequency="9" logDice="3.52">
+              <comp position="1" type="headword" sloleks="LE_a53626a57923e5c1ce4e088f6e35d39f">poverjena</comp>
+              <comp position="2" type="collocate" sloleks="LE_8fc9c7c4a52d70b47b50fd6d5d96b148">skrb</comp>
+            </collocation>
+            <collocation form="poverjen nadzor" cluster="5" frequency="6" logDice="1.46">
+              <comp position="1" type="headword" sloleks="LE_a53626a57923e5c1ce4e088f6e35d39f">poverjen</comp>
+              <comp position="2" type="collocate" sloleks="LE_18a2adc6a9e973e769119006405e1c9d">nadzor</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 z sbz6">
+          <collocations>
+            <collocation form="poverjen z zakonom" cluster="1" frequency="6" logDice="4.33">
+              <comp position="1" type="headword" sloleks="LE_a53626a57923e5c1ce4e088f6e35d39f">poverjen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_b3ce668b2bbbbdfa905463c113c05551">zakonom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

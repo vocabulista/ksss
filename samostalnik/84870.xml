@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="84870">razbijač</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">562</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="razbijač toka" cluster="1" frequency="25" logDice="6.22">
+              <comp position="1" type="headword" sloleks="LE_1daa12e6fac9d767897ba605ab364098">razbijač</comp>
+              <comp position="2" type="collocate" sloleks="LE_9c9e617811ddd36d62c6aedbd73b9db5">toka</comp>
+            </collocation>
+            <collocation form="skupina razbijača" cluster="2" frequency="10" logDice="0.87">
+              <comp position="1" type="collocate" sloleks="LE_7a31c94cb05484f8e60e8fbc4dad6a50">skupina</comp>
+              <comp position="2" type="headword" sloleks="LE_1daa12e6fac9d767897ba605ab364098">razbijača</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="fenijski razbijač" cluster="1" frequency="9" logDice="10.43">
+              <comp position="1" type="collocate" sloleks="">fenijski</comp>
+              <comp position="2" type="headword" sloleks="LE_1daa12e6fac9d767897ba605ab364098">razbijač</comp>
+            </collocation>
+            <collocation form="uličen razbijač" cluster="2" frequency="12" logDice="4.64">
+              <comp position="1" type="collocate" sloleks="LE_f9f4f4ddb07f013bffee07653f97394c">uličen</comp>
+              <comp position="2" type="headword" sloleks="LE_1daa12e6fac9d767897ba605ab364098">razbijač</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

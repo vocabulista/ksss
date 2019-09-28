@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="91397">stela</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">829</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="stela z reliefom" cluster="1" frequency="4" logDice="9.31">
+              <comp position="1" type="headword" sloleks="LE_7912acf7d1ca85b9f6af22aba80d6804">stela</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_d26204ecdb997181d8c7d6532f37e196">reliefom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nagrobna stela" cluster="1" frequency="9" logDice="6.92">
+              <comp position="1" type="collocate" sloleks="LE_20e56b29f52735490b791d6543293baa">nagrobna</comp>
+              <comp position="2" type="headword" sloleks="LE_7912acf7d1ca85b9f6af22aba80d6804">stela</comp>
+            </collocation>
+            <collocation form="kamnita stela" cluster="2" frequency="11" logDice="4.05">
+              <comp position="1" type="collocate" sloleks="LE_11245b800453b21e95bfc3d507805968">kamnita</comp>
+              <comp position="2" type="headword" sloleks="LE_7912acf7d1ca85b9f6af22aba80d6804">stela</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ5">
+          <collocations>
+            <collocation form="napis na steli" cluster="1" frequency="5" logDice="5.29">
+              <comp position="1" type="collocate" sloleks="LE_5fb842be5b9529b5c0ae5eccdd7256f4">napis</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_7912acf7d1ca85b9f6af22aba80d6804">steli</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

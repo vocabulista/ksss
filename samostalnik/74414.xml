@@ -1,0 +1,56 @@
+<entry>
+  <header>
+    <lexical_unit id="74414">odlikovanec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">524</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="odlikovanec z odlikovanjem" cluster="1" frequency="17" logDice="11.26">
+              <comp position="1" type="headword" sloleks="LE_da13359c305bd326f3eb2fa170c53e53">odlikovanec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_ad239e0edd2847146fb641a40f66c601">odlikovanjem</comp>
+            </collocation>
+            <collocation form="odlikovanec s sodbo" cluster="2" frequency="6" logDice="7.23">
+              <comp position="1" type="headword" sloleks="LE_da13359c305bd326f3eb2fa170c53e53">odlikovanec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_ba7ab51fa50e0b3e23b9b82cfb40bdf1">sodbo</comp>
+            </collocation>
+            <collocation form="odlikovanec z redom" cluster="3" frequency="6" logDice="6.21">
+              <comp position="1" type="headword" sloleks="LE_da13359c305bd326f3eb2fa170c53e53">odlikovanec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_32cc2768fc63beee27ff73cd149852ee">redom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="današnji odlikovanec" cluster="1" frequency="14" logDice="1.48">
+              <comp position="1" type="collocate" sloleks="LE_3eca79d9ce3974a5dbf4794dc47c96d5">današnji</comp>
+              <comp position="2" type="headword" sloleks="LE_da13359c305bd326f3eb2fa170c53e53">odlikovanec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="priimek odlikovanca" cluster="1" frequency="7" logDice="5.04">
+              <comp position="1" type="collocate" sloleks="LE_560ca10af028f1d2f876912d492351d7">priimek</comp>
+              <comp position="2" type="headword" sloleks="LE_da13359c305bd326f3eb2fa170c53e53">odlikovanca</comp>
+            </collocation>
+            <collocation form="izbira odlikovanca" cluster="2" frequency="9" logDice="2.19">
+              <comp position="1" type="collocate" sloleks="LE_0183b3b968bada8d6e824d361c1c2bd2">izbira</comp>
+              <comp position="2" type="headword" sloleks="LE_da13359c305bd326f3eb2fa170c53e53">odlikovanca</comp>
+            </collocation>
+            <collocation form="seznam odlikovanca" cluster="3" frequency="6" logDice="1.53">
+              <comp position="1" type="collocate" sloleks="LE_8e07f7a6b825d8b6bf5b0aeab2d8d9b7">seznam</comp>
+              <comp position="2" type="headword" sloleks="LE_da13359c305bd326f3eb2fa170c53e53">odlikovanca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

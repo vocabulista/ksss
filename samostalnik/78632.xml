@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="78632">pobalin</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">640</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="vaški pobalin" cluster="1" frequency="13" logDice="3.74">
+              <comp position="1" type="collocate" sloleks="LE_6f68bece59c6bc45dc865ee7515a820f">vaški</comp>
+              <comp position="2" type="headword" sloleks="LE_4e3aabc8349cf0f0efdf908253aa248f">pobalin</comp>
+            </collocation>
+            <collocation form="cesten pobalin" cluster="2" frequency="8" logDice="1.81">
+              <comp position="1" type="collocate" sloleks="LE_43ad0ad4f80f1079b681ac2e0d7ddb2b">cesten</comp>
+              <comp position="2" type="headword" sloleks="LE_4e3aabc8349cf0f0efdf908253aa248f">pobalin</comp>
+            </collocation>
+            <collocation form="mali pobalin" cluster="3" frequency="14" logDice="0.66">
+              <comp position="1" type="collocate" sloleks="LE_0b2cc34f00671cbd2bc04dca56aba76b">mali</comp>
+              <comp position="2" type="headword" sloleks="LE_4e3aabc8349cf0f0efdf908253aa248f">pobalin</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="voziček s pobalinom" cluster="1" frequency="4" logDice="7.66">
+              <comp position="1" type="collocate" sloleks="LE_2ac9f316b6c634af5ad2a8251acd77b2">voziček</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_4e3aabc8349cf0f0efdf908253aa248f">pobalinom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

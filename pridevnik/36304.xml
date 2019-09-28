@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="36304">trditven</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">595</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="trditven in dokazen" cluster="1" frequency="199" logDice="13.87">
+              <comp position="1" type="headword" sloleks="LE_73cf65643875cdb4f88935b2c2da24ff">trditven</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_d8ef899de97ca590dcd6a5495065f586">dokazen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 kot sbz0">
+          <collocations>
+            <collocation form="trditven kot breme" cluster="1" frequency="16" logDice="10.27">
+              <comp position="1" type="headword" sloleks="LE_73cf65643875cdb4f88935b2c2da24ff">trditven</comp>
+              <comp position="2" type="other" sloleks="LE_feac626fa40a7cc8a4394d667b7dd8a4">kot</comp>
+              <comp position="3" type="collocate" sloleks="LE_edd76cfb7cf61c63412b2f134b3d235d">breme</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="trditveno breme" cluster="1" frequency="289" logDice="8.98">
+              <comp position="1" type="headword" sloleks="LE_73cf65643875cdb4f88935b2c2da24ff">trditveno</comp>
+              <comp position="2" type="collocate" sloleks="LE_edd76cfb7cf61c63412b2f134b3d235d">breme</comp>
+            </collocation>
+            <collocation form="trditvena podlaga" cluster="2" frequency="269" logDice="7.04">
+              <comp position="1" type="headword" sloleks="LE_73cf65643875cdb4f88935b2c2da24ff">trditvena</comp>
+              <comp position="2" type="collocate" sloleks="LE_e6e88eb8a2a7234da435310d47275f97">podlaga</comp>
+            </collocation>
+            <collocation form="trditvena navedba" cluster="3" frequency="6" logDice="3.83">
+              <comp position="1" type="headword" sloleks="LE_73cf65643875cdb4f88935b2c2da24ff">trditvena</comp>
+              <comp position="2" type="collocate" sloleks="LE_c15d87344eac470fa66a2773def6459b">navedba</comp>
+            </collocation>
+            <collocation form="trditveno gradivo" cluster="4" frequency="18" logDice="3.63">
+              <comp position="1" type="headword" sloleks="LE_73cf65643875cdb4f88935b2c2da24ff">trditveno</comp>
+              <comp position="2" type="collocate" sloleks="LE_168ebc18569a69bcbcf4f6446e8ec3ea">gradivo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

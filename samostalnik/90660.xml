@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="90660">splošnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">493</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="splošnost pravice" cluster="1" frequency="13" logDice="1.66">
+              <comp position="1" type="headword" sloleks="LE_1274f9f72862580cdf3fc9639a9b8775">splošnost</comp>
+              <comp position="2" type="collocate" sloleks="LE_8c0e472df622ea735bcaed6544ab6130">pravice</comp>
+            </collocation>
+            <collocation form="načelo splošnosti" cluster="2" frequency="14" logDice="3.21">
+              <comp position="1" type="collocate" sloleks="LE_5a443f15d8b4838fe872b4d2b544f4ce">načelo</comp>
+              <comp position="2" type="headword" sloleks="LE_1274f9f72862580cdf3fc9639a9b8775">splošnosti</comp>
+            </collocation>
+            <collocation form="raven splošnosti" cluster="3" frequency="10" logDice="2.15">
+              <comp position="1" type="collocate" sloleks="LE_1c5879ca919226df3e61cfd0d36941e3">raven</comp>
+              <comp position="2" type="headword" sloleks="LE_1274f9f72862580cdf3fc9639a9b8775">splošnosti</comp>
+            </collocation>
+            <collocation form="stopnja splošnosti" cluster="4" frequency="8" logDice="1.45">
+              <comp position="1" type="collocate" sloleks="LE_ed1cc20afdfdf1e20fe2e301bae175ee">stopnja</comp>
+              <comp position="2" type="headword" sloleks="LE_1274f9f72862580cdf3fc9639a9b8775">splošnosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="ravna splošnost" cluster="1" frequency="9" logDice="3.89">
+              <comp position="1" type="collocate" sloleks="LE_38c09e3e30ec09db227a8ad62db65518">ravna</comp>
+              <comp position="2" type="headword" sloleks="LE_1274f9f72862580cdf3fc9639a9b8775">splošnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

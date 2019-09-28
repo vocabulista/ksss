@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="35911">terski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">768</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="tersko narečje" cluster="1" frequency="98" logDice="9.04">
+              <comp position="1" type="headword" sloleks="LE_d476c89b665bf9e9f1f56b78088daca7">tersko</comp>
+              <comp position="2" type="collocate" sloleks="LE_b8ebf34d63da33385a93697d92131b5e">narečje</comp>
+            </collocation>
+            <collocation form="terski dialekt" cluster="2" frequency="18" logDice="8.24">
+              <comp position="1" type="headword" sloleks="LE_d476c89b665bf9e9f1f56b78088daca7">terski</comp>
+              <comp position="2" type="collocate" sloleks="LE_17955e2c0afb38a79a8b69d33b6aafb5">dialekt</comp>
+            </collocation>
+            <collocation form="terska dolina" cluster="3" frequency="518" logDice="7.3">
+              <comp position="1" type="headword" sloleks="LE_d476c89b665bf9e9f1f56b78088daca7">terska</comp>
+              <comp position="2" type="collocate" sloleks="LE_3cfd82133483d61493479af0121a6728">dolina</comp>
+            </collocation>
+            <collocation form="terski Slovenec" cluster="4" frequency="17" logDice="3.36">
+              <comp position="1" type="headword" sloleks="LE_d476c89b665bf9e9f1f56b78088daca7">terski</comp>
+              <comp position="2" type="collocate" sloleks="LE_729f0d5f17646d52975cea70c2c90304|LE_28fbf96b9bd02e5a6e7ae885f022743f">Slovenec</comp>
+            </collocation>
+            <collocation form="tersko območje" cluster="5" frequency="8" logDice="0.63">
+              <comp position="1" type="headword" sloleks="LE_d476c89b665bf9e9f1f56b78088daca7">tersko</comp>
+              <comp position="2" type="collocate" sloleks="LE_637bb12e70b217aeada98e77f3559b30">območje</comp>
+            </collocation>
+            <collocation form="terski jezik" cluster="6" frequency="8" logDice="0.57">
+              <comp position="1" type="headword" sloleks="LE_d476c89b665bf9e9f1f56b78088daca7">terski</comp>
+              <comp position="2" type="collocate" sloleks="LE_84e841a4b1d5e4b816efe7f126e1f693">jezik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="terski in/ali nadiški" cluster="1" frequency="113" logDice="13.58">
+              <comp position="3" type="headword" sloleks="LE_d476c89b665bf9e9f1f56b78088daca7">terski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_73ead0cca8e293fac2e0e331c342b39e">nadiški</comp>
+              </collocation>
+            <collocation form="terski in kanalski" cluster="2" frequency="17" logDice="10.98">
+              <comp position="1" type="headword" sloleks="LE_d476c89b665bf9e9f1f56b78088daca7">terski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_bbf19ecce8476902ae1b53ac3cc278a0">kanalski</comp>
+            </collocation>
+            <collocation form="terski in rezijanski" cluster="3" frequency="12" logDice="10.26">
+              <comp position="1" type="headword" sloleks="LE_d476c89b665bf9e9f1f56b78088daca7">terski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_03b13f3ea951457bda521997200993fb">rezijanski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,75 @@
+<entry>
+  <header>
+    <lexical_unit id="43843">poskočno</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">489</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ gbz">
+          <collocations>
+            <collocation form="poskočno zaplesati" cluster="1" frequency="4" logDice="6.11">
+              <comp position="1" type="headword" sloleks="LE_21152b56ffe038b4940cc87eb28fa93d">poskočno</comp>
+              <comp position="2" type="collocate" sloleks="LE_6f2b4c260b47e8668ac1fc71c88fc597">zaplesati</comp>
+            </collocation>
+            <collocation form="poskočno plesati" cluster="2" frequency="9" logDice="5.83">
+              <comp position="1" type="headword" sloleks="LE_21152b56ffe038b4940cc87eb28fa93d">poskočno</comp>
+              <comp position="2" type="collocate" sloleks="LE_aeb7a690e3773823a1c5ea4af37441a4">plesati</comp>
+            </collocation>
+            <collocation form="poskočno vstati" cluster="3" frequency="5" logDice="4.76">
+              <comp position="1" type="headword" sloleks="LE_21152b56ffe038b4940cc87eb28fa93d">poskočno</comp>
+              <comp position="2" type="collocate" sloleks="LE_cd146234b6185134d5d116e2d2eea090">vstati</comp>
+            </collocation>
+            <collocation form="poskočno odzvati" cluster="4" frequency="6" logDice="3.48">
+              <comp position="1" type="headword" sloleks="LE_21152b56ffe038b4940cc87eb28fa93d">poskočno</comp>
+              <comp position="2" type="collocate" sloleks="LE_f4c599c7f01d67d7e0aa550365eed53d">odzvati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz RBZ">
+          <collocations>
+            <collocation form="nadvse poskočno" cluster="1" frequency="5" logDice="3.7">
+              <comp position="1" type="collocate" sloleks="LE_d7fddc6b0e891b7aa2b609d0777af92a">nadvse</comp>
+              <comp position="2" type="headword" sloleks="LE_21152b56ffe038b4940cc87eb28fa93d">poskočno</comp>
+            </collocation>
+            <collocation form="izjemno poskočno" cluster="1" frequency="4" logDice="2.87">
+              <comp position="1" type="collocate" sloleks="LE_4685177735c785314580ae2542479197">izjemno</comp>
+              <comp position="2" type="headword" sloleks="LE_21152b56ffe038b4940cc87eb28fa93d">poskočno</comp>
+            </collocation>
+            <collocation form="bolj poskočno" cluster="2" frequency="32" logDice="2.63">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_21152b56ffe038b4940cc87eb28fa93d">poskočno</comp>
+            </collocation>
+            <collocation form="precej poskočno" cluster="3" frequency="10" logDice="1.58">
+              <comp position="1" type="collocate" sloleks="LE_e0671a56c827200d0ebc033694e6214b">precej</comp>
+              <comp position="2" type="headword" sloleks="LE_21152b56ffe038b4940cc87eb28fa93d">poskočno</comp>
+            </collocation>
+            <collocation form="manj poskočno" cluster="3" frequency="4" logDice="2.2">
+              <comp position="1" type="collocate" sloleks="LE_ecab8216e0225b7e80d79b53bd9b8959">manj</comp>
+              <comp position="2" type="headword" sloleks="LE_21152b56ffe038b4940cc87eb28fa93d">poskočno</comp>
+            </collocation>
+            <collocation form="najbolj poskočno" cluster="4" frequency="5" logDice="1.54">
+              <comp position="1" type="collocate" sloleks="LE_72b2a3522865b723e8c26b8ade696fca">najbolj</comp>
+              <comp position="2" type="headword" sloleks="LE_21152b56ffe038b4940cc87eb28fa93d">poskočno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ in/ali rbz">
+          <collocations>
+            <collocation form="poskočno in/ali energično" cluster="1" frequency="6" logDice="9.12">
+              <comp position="3" type="headword" sloleks="LE_21152b56ffe038b4940cc87eb28fa93d">poskočno</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_670bfd4a28ee8d07c5015202b1069b25">energično</comp>
+              </collocation>
+            <collocation form="poskočno in/ali veselo" cluster="2" frequency="9" logDice="7.52">
+              <comp position="3" type="headword" sloleks="LE_21152b56ffe038b4940cc87eb28fa93d">poskočno</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_9e742988a5de914da1cc9d96be09da01">veselo</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

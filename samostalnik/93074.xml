@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="93074">teptalec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">434</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="teptalec snega" cluster="1" frequency="115" logDice="7.86">
+              <comp position="1" type="headword" sloleks="LE_85d8962011ee32a46116f3a573367626">teptalec</comp>
+              <comp position="2" type="collocate" sloleks="LE_f69381a2fcfcf0a3bd618981427fd78f">snega</comp>
+            </collocation>
+            <collocation form="teptalec pravice" cluster="2" frequency="14" logDice="1.77">
+              <comp position="1" type="headword" sloleks="LE_85d8962011ee32a46116f3a573367626">teptalec</comp>
+              <comp position="2" type="collocate" sloleks="LE_8c0e472df622ea735bcaed6544ab6130">pravice</comp>
+            </collocation>
+            <collocation form="gosenica teptalca" cluster="3" frequency="6" logDice="8.38">
+              <comp position="1" type="collocate" sloleks="LE_92a058d0efd4b784390d6d27b4d701dc">gosenica</comp>
+              <comp position="2" type="headword" sloleks="LE_85d8962011ee32a46116f3a573367626">teptalca</comp>
+            </collocation>
+            <collocation form="voznik teptalca" cluster="4" frequency="21" logDice="3.97">
+              <comp position="1" type="collocate" sloleks="LE_4b861123b30bbee1260eeaec5a436720">voznik</comp>
+              <comp position="2" type="headword" sloleks="LE_85d8962011ee32a46116f3a573367626">teptalca</comp>
+            </collocation>
+            <collocation form="nakup teptalca" cluster="5" frequency="6" logDice="0.78">
+              <comp position="1" type="collocate" sloleks="LE_a1ab00519230d9a2b9b9d13c6d348162">nakup</comp>
+              <comp position="2" type="headword" sloleks="LE_85d8962011ee32a46116f3a573367626">teptalca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="teptalec za sneg" cluster="1" frequency="26" logDice="10.16">
+              <comp position="1" type="headword" sloleks="LE_85d8962011ee32a46116f3a573367626">teptalec</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_f69381a2fcfcf0a3bd618981427fd78f">sneg</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="vibracijski teptalec" cluster="1" frequency="9" logDice="7.92">
+              <comp position="1" type="collocate" sloleks="LE_c7ad263244d3f89ec48ead69dfe77010">vibracijski</comp>
+              <comp position="2" type="headword" sloleks="LE_85d8962011ee32a46116f3a573367626">teptalec</comp>
+            </collocation>
+            <collocation form="snežen teptalec" cluster="2" frequency="40" logDice="5.44">
+              <comp position="1" type="collocate" sloleks="LE_901f4ffc2c3ad51d4e789c6b2279273e|LE_f2ff6af86934c58de4430420bd8a79e1">snežen</comp>
+              <comp position="2" type="headword" sloleks="LE_85d8962011ee32a46116f3a573367626">teptalec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

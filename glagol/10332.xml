@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="10332">zjebati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">577</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="zjebati državo" cluster="1" frequency="9" logDice="2.96">
+              <comp position="1" type="headword" sloleks="LE_8af54ca86171aeaec6fc9a23c559a61c">zjebati</comp>
+              <comp position="2" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">državo</comp>
+            </collocation>
+            <collocation form="zjebati sistem" cluster="2" frequency="5" logDice="1.7">
+              <comp position="1" type="headword" sloleks="LE_8af54ca86171aeaec6fc9a23c559a61c">zjebati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b126847d984efa55c2ffad50be4e1dac">sistem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="totalno zjebati" cluster="1" frequency="10" logDice="7.67">
+              <comp position="1" type="collocate" sloleks="LE_975b093a1a8bd0cd64c7bc4a3b3aefeb">totalno</comp>
+              <comp position="2" type="headword" sloleks="LE_8af54ca86171aeaec6fc9a23c559a61c">zjebati</comp>
+            </collocation>
+            <collocation form="čisto zjebati" cluster="2" frequency="4" logDice="3.44">
+              <comp position="1" type="collocate" sloleks="LE_94a91e83047bf2e90acf82e14cbb99c9">čisto</comp>
+              <comp position="2" type="headword" sloleks="LE_8af54ca86171aeaec6fc9a23c559a61c">zjebati</comp>
+            </collocation>
+            <collocation form="vse zjebati" cluster="3" frequency="10" logDice="1.01">
+              <comp position="1" type="collocate" sloleks="LE_69e1f6ea0eba690182112fa5f7865561">vse</comp>
+              <comp position="2" type="headword" sloleks="LE_8af54ca86171aeaec6fc9a23c559a61c">zjebati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,57 @@
+<entry>
+  <header>
+    <lexical_unit id="47004">aleluja</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1218</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="aleluja iz olupka" cluster="1" frequency="7" logDice="11.15">
+              <comp position="1" type="headword" sloleks="LE_e1da16861f2ab1cd7f616994a548a9d4">aleluja</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_707ea5c86aaeed49ecdac560081eaa89">olupka</comp>
+            </collocation>
+            <collocation form="Aleluja iz oratorija" cluster="2" frequency="4" logDice="10.89">
+              <comp position="1" type="headword" sloleks="LE_e1da16861f2ab1cd7f616994a548a9d4">Aleluja</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_3771ff88a448a2b60853493d3f801e13">oratorija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="velikonočna aleluja" cluster="1" frequency="15" logDice="4.93">
+              <comp position="1" type="collocate" sloleks="LE_e9eb4c7d8a4f63ee1ba49d3f179f14f6">velikonočna</comp>
+              <comp position="2" type="headword" sloleks="LE_e1da16861f2ab1cd7f616994a548a9d4">aleluja</comp>
+            </collocation>
+            <collocation form="vesela aleluja" cluster="2" frequency="20" logDice="3.31">
+              <comp position="1" type="collocate" sloleks="LE_39ee63ee25ea31bdb9d083c20b835716">vesela</comp>
+              <comp position="2" type="headword" sloleks="LE_e1da16861f2ab1cd7f616994a548a9d4">aleluja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="maša z alelujo" cluster="1" frequency="6" logDice="8.68">
+              <comp position="1" type="collocate" sloleks="LE_bf73fbfc14a2eeeb70925bccb4968f61">maša</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_e1da16861f2ab1cd7f616994a548a9d4">alelujo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="pest za alelujo" cluster="1" frequency="8" logDice="7.89">
+              <comp position="1" type="collocate" sloleks="LE_a38df103bacbc31315c06e83bc0e3c0c">pest</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_e1da16861f2ab1cd7f616994a548a9d4">alelujo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

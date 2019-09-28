@@ -1,0 +1,44 @@
+<entry>
+  <header>
+    <lexical_unit id="24622">naduren</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">2017</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nadurno delo" cluster="1" frequency="1875" logDice="6.51">
+              <comp position="1" type="headword" sloleks="LE_e78568d81345fe862cb8a4bdf4fdf74b">nadurno</comp>
+              <comp position="2" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+            </collocation>
+            <collocation form="naduren del" cluster="2" frequency="82" logDice="2.35">
+              <comp position="1" type="headword" sloleks="LE_e78568d81345fe862cb8a4bdf4fdf74b">naduren</comp>
+              <comp position="2" type="collocate" sloleks="LE_7ec85158e392e2a539875a30cf8d3436">del</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="naduren in/ali nočen" cluster="1" frequency="54" logDice="9.94">
+              <comp position="3" type="headword" sloleks="LE_e78568d81345fe862cb8a4bdf4fdf74b">naduren</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_a606db4e3d360a1c1698fe851c4a1ce8">nočen</comp>
+              </collocation>
+            <collocation form="naduren in pogodben" cluster="2" frequency="11" logDice="8.92">
+              <comp position="1" type="headword" sloleks="LE_e78568d81345fe862cb8a4bdf4fdf74b">naduren</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_8e1e8bbc17fcd3806288d1d10648f284">pogodben</comp>
+            </collocation>
+            <collocation form="naduren in/ali reden" cluster="3" frequency="6" logDice="5.24">
+              <comp position="3" type="headword" sloleks="LE_e78568d81345fe862cb8a4bdf4fdf74b">naduren</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_115d2dcf4f88d713eedd7e4cb74e4988">reden</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,48 @@
+<entry>
+  <header>
+    <lexical_unit id="10165">zazevati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">458</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="zazevati na trgu" cluster="1" frequency="5" logDice="1.02">
+              <comp position="1" type="headword" sloleks="LE_90164b6e57ad2bd2fb889ec80beb8d88">zazevati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_b735dfd291d0abd31eeabd75c4133487">trgu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="zazevati v blagajni" cluster="1" frequency="6" logDice="6.52">
+              <comp position="1" type="headword" sloleks="LE_90164b6e57ad2bd2fb889ec80beb8d88">zazevati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_a4fd964a27b3287a6b165c78ddf79ab1">blagajni</comp>
+            </collocation>
+            <collocation form="zazevati v življenju" cluster="2" frequency="4" logDice="1.16">
+              <comp position="1" type="headword" sloleks="LE_90164b6e57ad2bd2fb889ec80beb8d88">zazevati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_b7a6a2019becc6510edb8591e171b0a7">življenju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="široko zazevati" cluster="1" frequency="13" logDice="5.45">
+              <comp position="1" type="collocate" sloleks="LE_aa2200bc7ba100c6a1aff61f1483dbc9">široko</comp>
+              <comp position="2" type="headword" sloleks="LE_90164b6e57ad2bd2fb889ec80beb8d88">zazevati</comp>
+            </collocation>
+            <collocation form="nenadoma zazevati" cluster="2" frequency="5" logDice="2.06">
+              <comp position="1" type="collocate" sloleks="LE_aa4b7ad6edf7bc6253c423b84d3da24a">nenadoma</comp>
+              <comp position="2" type="headword" sloleks="LE_90164b6e57ad2bd2fb889ec80beb8d88">zazevati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

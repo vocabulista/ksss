@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="33082">sanski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">407</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="sanski kanton" cluster="1" frequency="55" logDice="10.19">
+              <comp position="1" type="headword" sloleks="LE_6fd75bd349166994b5fd9e9445ce0300">sanski</comp>
+              <comp position="2" type="collocate" sloleks="LE_2cc06f02f094ca56a42d6cc58cedd613">kanton</comp>
+            </collocation>
+            <collocation form="sanska koza" cluster="2" frequency="45" logDice="8.54">
+              <comp position="1" type="headword" sloleks="LE_6fd75bd349166994b5fd9e9445ce0300">sanska</comp>
+              <comp position="2" type="collocate" sloleks="LE_3a8169c05dafcda2a42e079828889525">koza</comp>
+            </collocation>
+            <collocation form="sanska pasma" cluster="3" frequency="60" logDice="6.96">
+              <comp position="1" type="headword" sloleks="LE_6fd75bd349166994b5fd9e9445ce0300">sanska</comp>
+              <comp position="2" type="collocate" sloleks="LE_81203a47fa46351f9b9156ae16eb7c3e">pasma</comp>
+            </collocation>
+            <collocation form="sanski most" cluster="4" frequency="152" logDice="6.95">
+              <comp position="1" type="headword" sloleks="LE_6fd75bd349166994b5fd9e9445ce0300">sanski</comp>
+              <comp position="2" type="collocate" sloleks="LE_ea98143c3eabe190b20799ac81a9d75d">most</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

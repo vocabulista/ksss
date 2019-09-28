@@ -1,0 +1,29 @@
+<entry>
+  <header>
+    <lexical_unit id="31043">princeskin</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">404</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="princeskin krofka" cluster="1" frequency="6" logDice="8.78">
+              <comp position="1" type="headword" sloleks="LE_dc2af091d71092f13eb9717cf508f447">princeskin</comp>
+              <comp position="2" type="collocate" sloleks="">krofka</comp>
+            </collocation>
+            <collocation form="princeskin krof" cluster="2" frequency="23" logDice="8.45">
+              <comp position="1" type="headword" sloleks="LE_dc2af091d71092f13eb9717cf508f447">princeskin</comp>
+              <comp position="2" type="collocate" sloleks="LE_de458197713d46c1ebfa9b641949af1b">krof</comp>
+            </collocation>
+            <collocation form="Princeskin dnevnik" cluster="3" frequency="256" logDice="7.04">
+              <comp position="1" type="headword" sloleks="LE_dc2af091d71092f13eb9717cf508f447">Princeskin</comp>
+              <comp position="2" type="collocate" sloleks="LE_37487cb645ddeef16b628ad882435e8f">dnevnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,478 @@
+<entry>
+  <header>
+    <lexical_unit id="18412">gorenji</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">15664</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="gorenji in dolenji" cluster="1" frequency="127" logDice="13.58">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_ed1931f36ab6dcbf88aaee7385fc2bc5">dolenji</comp>
+            </collocation>
+            <collocation form="gorenji in spodnji" cluster="2" frequency="8" logDice="5.83">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_c125bcd8580a683e9f0725c576a9183d">spodnji</comp>
+            </collocation>
+            <collocation form="gorenji ali ljubljanski" cluster="3" frequency="6" logDice="5.45">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_2017c528556d77ae4597e9aa4b76d24b">ljubljanski</comp>
+            </collocation>
+            <collocation form="gorenji in/ali srednji" cluster="4" frequency="9" logDice="3.23">
+              <comp position="3" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_6ab7cfab8fbd4c67fd663d24357f8954">srednji</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 iz sbz2">
+          <collocations>
+            <collocation form="gorenji iz Velenja" cluster="1" frequency="10" logDice="11.99">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_74c8dc0341686cfebe69c0f3dc7ef72c">Velenja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 rbz">
+          <collocations>
+            <collocation form="Gorenji Globodol" cluster="1" frequency="11" logDice="11.47">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">Gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">Globodol</comp>
+            </collocation>
+            <collocation form="gorenji Karteljevem" cluster="2" frequency="9" logDice="11.15">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">Karteljevem</comp>
+            </collocation>
+            <collocation form="gorenji Dol" cluster="3" frequency="16" logDice="7.9">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_d2abb42ebf1cb6cd3a350cfb011b3906">Dol</comp>
+            </collocation>
+            <collocation form="gorenji letos" cluster="4" frequency="7" logDice="5.41">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_f92f60b3b9300c7d2f21f6d4ba0ff509">letos</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="gorenja vas" cluster="1" frequency="8541" logDice="10.98">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_746c4faa0cb704f82cd12acb408c94d3">vas</comp>
+            </collocation>
+            <collocation form="gorenja trgovina" cluster="1" frequency="25" logDice="3.29">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_e6520ed1b394dc72516ec7ff3398e16c">trgovina</comp>
+            </collocation>
+            <collocation form="gorenja Sava" cluster="2" frequency="444" logDice="9.39">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_782d81fa63744fcc06fc87ae050239df">Sava</comp>
+            </collocation>
+            <collocation form="gorenja Krka" cluster="2" frequency="9" logDice="3.92">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_d6818d79143b5b85449f3389d59c998e">Krka</comp>
+            </collocation>
+            <collocation form="gorenja sušica" cluster="3" frequency="97" logDice="7.75">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_24bdf760787df97d3d7bb4a937bac7b8">sušica</comp>
+            </collocation>
+            <collocation form="gorenja oprema" cluster="4" frequency="25" logDice="2.07">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_7c582f88b553e5dc3aeb56af36d217ec">oprema</comp>
+            </collocation>
+            <collocation form="gorenje društvo" cluster="5" frequency="18" logDice="1.32">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_f1fd3c17e2206150a5ab762769b6e8ff">društvo</comp>
+            </collocation>
+            <collocation form="gorenji Mokronog" cluster="6" frequency="82" logDice="7.54">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_5e4691ce32de7a5a5b7fba79f0b76561">Mokronog</comp>
+            </collocation>
+            <collocation form="gorenja Brezovica" cluster="7" frequency="77" logDice="7.39">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_5d8643e7361fb09b877e850e3f6e3010">Brezovica</comp>
+            </collocation>
+            <collocation form="gorenji Miersa" cluster="8" frequency="70" logDice="7.32">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">Miersa</comp>
+            </collocation>
+            <collocation form="gorenji miersa" cluster="8" frequency="62" logDice="7.15">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">miersa</comp>
+            </collocation>
+            <collocation form="gorenji Otave" cluster="8" frequency="23" logDice="5.73">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">Otave</comp>
+            </collocation>
+            <collocation form="gorenji Podšumberk" cluster="8" frequency="12" logDice="4.79">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">Podšumberk</comp>
+            </collocation>
+            <collocation form="gorenji Trebuša" cluster="8" frequency="8" logDice="4.19">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">Trebuša</comp>
+            </collocation>
+            <collocation form="gorenji žetina" cluster="9" frequency="61" logDice="7.12">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">žetina</comp>
+            </collocation>
+            <collocation form="gorenja gomila" cluster="10" frequency="64" logDice="7.09">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_7a347f23c68242315fd4645f1308ca4f">gomila</comp>
+            </collocation>
+            <collocation form="gorenji globodol" cluster="11" frequency="58" logDice="7.04">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">globodol</comp>
+            </collocation>
+            <collocation form="gorenji Globodol" cluster="11" frequency="8" logDice="4.2">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">Globodol</comp>
+            </collocation>
+            <collocation form="gorenje Poljane" cluster="12" frequency="58" logDice="7.03">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_8dd56fe7c9656ebb29a455edf4b24257">Poljane</comp>
+            </collocation>
+            <collocation form="gorenji leskovec" cluster="13" frequency="56" logDice="6.98">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_7b29233e6df491bd8c6dd5e6836c432f">leskovec</comp>
+            </collocation>
+            <collocation form="Gorenje Velenje" cluster="14" frequency="331" logDice="9.37">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">Gorenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_74c8dc0341686cfebe69c0f3dc7ef72c">Velenje</comp>
+            </collocation>
+            <collocation form="Gorenje Celje" cluster="14" frequency="19" logDice="4.59">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">Gorenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_aad3dc2c16f27182109d44b8e52beb04">Celje</comp>
+            </collocation>
+            <collocation form="Gorenje gostinstvo" cluster="15" frequency="53" logDice="6.88">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">Gorenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_0509173bfa8df2687218ee1f1feff03c">gostinstvo</comp>
+            </collocation>
+            <collocation form="gorenji tik" cluster="16" frequency="51" logDice="6.84">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_8b6dd7152227df06915491302d96e0cc">tik</comp>
+            </collocation>
+            <collocation form="gorenji tarbje" cluster="17" frequency="47" logDice="6.75">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">tarbje</comp>
+            </collocation>
+            <collocation form="gorenji Gold" cluster="18" frequency="42" logDice="6.5">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">Gold</comp>
+            </collocation>
+            <collocation form="gorenji log" cluster="19" frequency="60" logDice="6.49">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_15f18ff2403a0db09a2de58e6dab88f3">log</comp>
+            </collocation>
+            <collocation form="Gorenje jezero" cluster="20" frequency="171" logDice="6.44">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">Gorenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_70f9f2bc080439f3fbcea8c9f00ab68d">jezero</comp>
+            </collocation>
+            <collocation form="gorenji pirošica" cluster="21" frequency="37" logDice="6.4">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">pirošica</comp>
+            </collocation>
+            <collocation form="gorenji Leskovec" cluster="22" frequency="37" logDice="6.39">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_f8930619dcf9b0d2a54a275235f3c802|LE_50e64d3128ec27f42940dfdd909f00c5">Leskovec</comp>
+            </collocation>
+            <collocation form="gorenje kamenje" cluster="23" frequency="41" logDice="6.32">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_a7964be66d4f9f615ff616da92211d77">kamenje</comp>
+            </collocation>
+            <collocation form="gorenji Kamenc" cluster="24" frequency="34" logDice="6.28">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">Kamenc</comp>
+            </collocation>
+            <collocation form="gorenji Logatec" cluster="25" frequency="168" logDice="8.41">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_84fa543c93ed2973d511737452429b78">Logatec</comp>
+            </collocation>
+            <collocation form="Gorenji Tarbij" cluster="26" frequency="33" logDice="6.25">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">Gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">Tarbij</comp>
+            </collocation>
+            <collocation form="gorenje Ponikve" cluster="27" frequency="32" logDice="6.19">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_adb6068bfc070f8428fef20b51735cd4">Ponikve</comp>
+            </collocation>
+            <collocation form="gorenji maharovec" cluster="28" frequency="29" logDice="6.05">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">maharovec</comp>
+            </collocation>
+            <collocation form="gorenji Maharovec" cluster="28" frequency="20" logDice="5.52">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">Maharovec</comp>
+            </collocation>
+            <collocation form="gorenji Trimo" cluster="29" frequency="29" logDice="6.03">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_055add41e6f6c4384718782168445c69">Trimo</comp>
+            </collocation>
+            <collocation form="gorenji barnas" cluster="30" frequency="28" logDice="6.0">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">barnas</comp>
+            </collocation>
+            <collocation form="gorenja Muta" cluster="31" frequency="28" logDice="5.99">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_39341beef867f7bb2cd60b86470cfc25">Muta</comp>
+            </collocation>
+            <collocation form="gorenje Brdo" cluster="32" frequency="28" logDice="5.92">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_86fa53eaf060cd09fb5eb382f7e89098">Brdo</comp>
+            </collocation>
+            <collocation form="gorenje polje" cluster="33" frequency="138" logDice="5.7">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_3ea4193f7002a8cf5ffc93d3832da36c">polje</comp>
+            </collocation>
+            <collocation form="gorenji laknica" cluster="34" frequency="22" logDice="5.65">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">laknica</comp>
+            </collocation>
+            <collocation form="gorenji lakovnica" cluster="34" frequency="13" logDice="4.9">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">lakovnica</comp>
+            </collocation>
+            <collocation form="gorenje gradišče" cluster="35" frequency="144" logDice="8.27">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_e488fea42d8f97570c9c00e683c51486">gradišče</comp>
+            </collocation>
+            <collocation form="gorenji Slovan" cluster="36" frequency="25" logDice="5.6">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_a63fa808fdd3530f58da2caa0b074741">Slovan</comp>
+            </collocation>
+            <collocation form="gorenji Rudar" cluster="36" frequency="15" logDice="4.57">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_b37dfad6939d603f0c9351ed4f641672">Rudar</comp>
+            </collocation>
+            <collocation form="gorenji vrsnik" cluster="37" frequency="21" logDice="5.59">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">vrsnik</comp>
+            </collocation>
+            <collocation form="gorenja poljana" cluster="38" frequency="27" logDice="5.54">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_60fb391d1f6dbef2ccb114760819653d">poljana</comp>
+            </collocation>
+            <collocation form="gorenji podboršt" cluster="39" frequency="20" logDice="5.52">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">podboršt</comp>
+            </collocation>
+            <collocation form="gorenji BREZOVICA" cluster="40" frequency="20" logDice="5.52">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">BREZOVICA</comp>
+            </collocation>
+            <collocation form="gorenji radulja" cluster="41" frequency="20" logDice="5.51">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">radulja</comp>
+            </collocation>
+            <collocation form="gorenje Jesenice" cluster="42" frequency="23" logDice="5.49">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_5c8f8280ff04bc4563b3952edc8a092b">Jesenice</comp>
+            </collocation>
+            <collocation form="gorenji Radenci" cluster="43" frequency="20" logDice="5.48">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_b662a1472d632cfd378e96aee8d5d1f9">Radenci</comp>
+            </collocation>
+            <collocation form="gorenji Novaki" cluster="44" frequency="19" logDice="5.44">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_6b5c672415f1973f1d877cd1f7df523c">Novaki</comp>
+            </collocation>
+            <collocation form="gorenji trebuša" cluster="45" frequency="135" logDice="8.22">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">trebuša</comp>
+            </collocation>
+            <collocation form="gorenji kamenca" cluster="46" frequency="19" logDice="5.44">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">kamenca</comp>
+            </collocation>
+            <collocation form="gorenji suhadol" cluster="47" frequency="19" logDice="5.44">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">suhadol</comp>
+            </collocation>
+            <collocation form="gorenji skopica" cluster="48" frequency="19" logDice="5.44">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">skopica</comp>
+            </collocation>
+            <collocation form="gorenja Brda" cluster="49" frequency="21" logDice="5.42">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_2693ec66912ec5660d8c4ab4fcd79433|LE_ce3998738f3e873e43009d725684e021">Brda</comp>
+            </collocation>
+            <collocation form="gorenji Cimos" cluster="50" frequency="20" logDice="5.42">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_5ce1b59804559c478215754e8c19a0a8">Cimos</comp>
+            </collocation>
+            <collocation form="gorenji Prevent" cluster="50" frequency="13" logDice="4.8">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_648f4828ae986da36382cf3d2796027b">Prevent</comp>
+            </collocation>
+            <collocation form="gorenji Simplicity" cluster="51" frequency="18" logDice="5.37">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">Simplicity</comp>
+            </collocation>
+            <collocation form="gorenja otava" cluster="52" frequency="18" logDice="5.36">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_2065584bd62b2741ff11ce2932dff9c2">otava</comp>
+            </collocation>
+            <collocation form="gorenji kanomlja" cluster="53" frequency="17" logDice="5.28">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">kanomlja</comp>
+            </collocation>
+            <collocation form="gorenji design" cluster="54" frequency="17" logDice="5.21">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_ca4e11936536161e842b0a18d5608f7f">design</comp>
+            </collocation>
+            <collocation form="gorenji Grčevje" cluster="55" frequency="15" logDice="5.1">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">Grčevje</comp>
+            </collocation>
+            <collocation form="gorenji Novak" cluster="56" frequency="129" logDice="8.13">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_4c75edfd8e26778f5850e47dc1e50dad|LE_ca1f50abcccfe141255bb1b8e262f201">Novak</comp>
+            </collocation>
+            <collocation form="gorenji Glin" cluster="57" frequency="15" logDice="5.1">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">Glin</comp>
+            </collocation>
+            <collocation form="gorenja Intereuropa" cluster="58" frequency="15" logDice="5.09">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_c1845b79646a7984a968d2ba40337fa2">Intereuropa</comp>
+            </collocation>
+            <collocation form="gorenji marsina" cluster="59" frequency="14" logDice="5.01">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">marsina</comp>
+            </collocation>
+            <collocation form="gorenji Žetina" cluster="59" frequency="10" logDice="4.52">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">Žetina</comp>
+            </collocation>
+            <collocation form="gorenje Dole" cluster="60" frequency="14" logDice="5.0">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_640d3f2cb9c88243c1166a7271fc58c7">Dole</comp>
+            </collocation>
+            <collocation form="gorenje blato" cluster="61" frequency="17" logDice="4.9">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_eeef2e856c30cae614850901a958ea1a">blato</comp>
+            </collocation>
+            <collocation form="gorenji Termo" cluster="62" frequency="13" logDice="4.87">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">Termo</comp>
+            </collocation>
+            <collocation form="gorenji dol" cluster="63" frequency="16" logDice="4.83">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_6285391810003614e815cd95ce5cc6cc">dol</comp>
+            </collocation>
+            <collocation form="gorenja Orodjarna" cluster="64" frequency="13" logDice="4.82">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_a48324c4a37f1fda086e0ee0c325c1d2">Orodjarna</comp>
+            </collocation>
+            <collocation form="gorenje Vrhpolje" cluster="65" frequency="122" logDice="8.11">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_ed0bc04314637fd84fc03e9b8a4aa7a0|LE_03f808adee94fa5551cb4617069d1f3f">Vrhpolje</comp>
+            </collocation>
+            <collocation form="gorenji Zagreb" cluster="66" frequency="13" logDice="4.77">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_031c8321765aa1281943aab59f525b2d">Zagreb</comp>
+            </collocation>
+            <collocation form="gorenji interier" cluster="67" frequency="12" logDice="4.69">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_ef6de66a005d8b2b32acd5da1c167381">interier</comp>
+            </collocation>
+            <collocation form="gorenji Marles" cluster="68" frequency="11" logDice="4.66">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_904115eb6feae8b868040d302ba8acef">Marles</comp>
+            </collocation>
+            <collocation form="gorenji Pininfarina" cluster="69" frequency="11" logDice="4.66">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">Pininfarina</comp>
+            </collocation>
+            <collocation form="gorenji laz" cluster="70" frequency="12" logDice="4.63">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_c943852df1ef1bd70eb9678c3109dc94">laz</comp>
+            </collocation>
+            <collocation form="gorenji designed" cluster="71" frequency="10" logDice="4.52">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">designed</comp>
+            </collocation>
+            <collocation form="gorenji tarbi" cluster="72" frequency="106" logDice="7.92">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">tarbi</comp>
+            </collocation>
+            <collocation form="gorenja Ponikva" cluster="73" frequency="10" logDice="4.51">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_e9881e6ca0ec285a0c79b853ad0c05a7">Ponikva</comp>
+            </collocation>
+            <collocation form="gorenja žaga" cluster="74" frequency="17" logDice="4.47">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_e8272a6061b762ebdbcf4695a2b2fc38">žaga</comp>
+            </collocation>
+            <collocation form="gorenja Straža" cluster="75" frequency="19" logDice="4.43">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_fd700b9a77dfdf14fc46e1ea295abbc9">Straža</comp>
+            </collocation>
+            <collocation form="gorenji VRHPOLJE" cluster="76" frequency="9" logDice="4.37">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">VRHPOLJE</comp>
+            </collocation>
+            <collocation form="gorenji Trade" cluster="77" frequency="9" logDice="4.36">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">Trade</comp>
+            </collocation>
+            <collocation form="gorenji France" cluster="78" frequency="9" logDice="4.27">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_81479a1febed518ba307ef42caf94f3f">France</comp>
+            </collocation>
+            <collocation form="Gorenje Prule" cluster="79" frequency="8" logDice="4.18">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">Gorenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_d8f335d7e37250692d1365985157e018">Prule</comp>
+            </collocation>
+            <collocation form="gorenji Austria" cluster="80" frequency="8" logDice="4.17">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="">Austria</comp>
+            </collocation>
+            <collocation form="gorenja dobrava" cluster="81" frequency="123" logDice="7.77">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_c125d2ec9090570185bb0261115a4d99">dobrava</comp>
+            </collocation>
+            <collocation form="gorenje Ravne" cluster="82" frequency="8" logDice="4.06">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenje</comp>
+              <comp position="2" type="collocate" sloleks="LE_8d0ffe7fd49d2aee24c101b06d35a872">Ravne</comp>
+            </collocation>
+            <collocation form="Gorenja Idrija" cluster="83" frequency="8" logDice="3.99">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">Gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_54a8f95c7dc2df8b1d9bc734957946dc">Idrija</comp>
+            </collocation>
+            <collocation form="gorenja pivovarna" cluster="84" frequency="8" logDice="3.71">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_4d84403a8c9bf257774724fb3aa0d451">pivovarna</comp>
+            </collocation>
+            <collocation form="Gorenja toplica" cluster="85" frequency="15" logDice="3.3">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">Gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_cd283a4d5d926e225d1d194f7fbcb1b7">toplica</comp>
+            </collocation>
+            <collocation form="gorenji vrh" cluster="86" frequency="24" logDice="2.68">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_5111d9a7de58321a8ec7f1a0aa9fce76">vrh</comp>
+            </collocation>
+            <collocation form="gorenji konec" cluster="86" frequency="23" logDice="3.24">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_d8d1737076777d9839ea949a2b88751a">konec</comp>
+            </collocation>
+            <collocation form="gorenja Radgona" cluster="87" frequency="8" logDice="2.62">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenja</comp>
+              <comp position="2" type="collocate" sloleks="LE_7d6fe1aa459f6d82227f46a279ada8ec">Radgona</comp>
+            </collocation>
+            <collocation form="gorenji aparat" cluster="88" frequency="11" logDice="2.52">
+              <comp position="1" type="headword" sloleks="LE_c73f61f63862edfb1746daa1cc33b37a">gorenji</comp>
+              <comp position="2" type="collocate" sloleks="LE_8394f9997a2a0c916367cdf9c5c35551">aparat</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

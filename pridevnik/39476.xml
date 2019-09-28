@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="39476">žveplan</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">615</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 iz sbz2">
+          <collocations>
+            <collocation form="žveplan iz Celja" cluster="1" frequency="4" logDice="9.09">
+              <comp position="1" type="headword" sloleks="LE_a5c481b98d80b2d1bd63f0804bea544a">žveplan</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_aad3dc2c16f27182109d44b8e52beb04">Celja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="Žveplan Ozvatič" cluster="1" frequency="6" logDice="8.72">
+              <comp position="1" type="headword" sloleks="LE_a5c481b98d80b2d1bd63f0804bea544a">Žveplan</comp>
+              <comp position="2" type="collocate" sloleks="">Ozvatič</comp>
+            </collocation>
+            <collocation form="žveplana Ulica" cluster="2" frequency="332" logDice="6.34">
+              <comp position="1" type="headword" sloleks="LE_a5c481b98d80b2d1bd63f0804bea544a">žveplana</comp>
+              <comp position="2" type="collocate" sloleks="LE_554c79ab5e7baf29f70e8135a860c0e8">Ulica</comp>
+            </collocation>
+            <collocation form="Žveplan heroj" cluster="3" frequency="10" logDice="5.72">
+              <comp position="1" type="headword" sloleks="LE_a5c481b98d80b2d1bd63f0804bea544a">Žveplan</comp>
+              <comp position="2" type="collocate" sloleks="LE_699fe6702c9ebeb0abbc4d819ead6b64">heroj</comp>
+            </collocation>
+            <collocation form="žveplano vino" cluster="4" frequency="28" logDice="3.6">
+              <comp position="1" type="headword" sloleks="LE_a5c481b98d80b2d1bd63f0804bea544a">žveplano</comp>
+              <comp position="2" type="collocate" sloleks="LE_0ae7c92af34780f7f1922cd5b9806ca5">vino</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="premalo žveplan" cluster="1" frequency="6" logDice="2.8">
+              <comp position="1" type="collocate" sloleks="LE_97029bd650818206706ec558c787f45e">premalo</comp>
+              <comp position="2" type="headword" sloleks="LE_a5c481b98d80b2d1bd63f0804bea544a">žveplan</comp>
+            </collocation>
+            <collocation form="močno žveplan" cluster="2" frequency="9" logDice="2.55">
+              <comp position="1" type="collocate" sloleks="LE_b061af875766d8e1437febe5ccafe554">močno</comp>
+              <comp position="2" type="headword" sloleks="LE_a5c481b98d80b2d1bd63f0804bea544a">žveplan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

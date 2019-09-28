@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="50662">brusilec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">444</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="brusilec noža" cluster="1" frequency="18" logDice="7.87">
+              <comp position="1" type="headword" sloleks="LE_2c1fc9af669ce2454a5fbe3d984b38b4">brusilec</comp>
+              <comp position="2" type="collocate" sloleks="LE_7d4ddc25fa427a9f102158111391e200">noža</comp>
+            </collocation>
+            <collocation form="brusilec diamanta" cluster="2" frequency="12" logDice="7.75">
+              <comp position="1" type="headword" sloleks="LE_2c1fc9af669ce2454a5fbe3d984b38b4">brusilec</comp>
+              <comp position="2" type="collocate" sloleks="LE_e3a75ff198a17b37e1ea1487c13ec1e8">diamanta</comp>
+            </collocation>
+            <collocation form="brusilec leče" cluster="3" frequency="12" logDice="7.11">
+              <comp position="1" type="headword" sloleks="LE_2c1fc9af669ce2454a5fbe3d984b38b4">brusilec</comp>
+              <comp position="2" type="collocate" sloleks="LE_b237f8a22bab37115c503240a272b032">leče</comp>
+            </collocation>
+            <collocation form="brusilec stekla" cluster="4" frequency="13" logDice="6.19">
+              <comp position="1" type="headword" sloleks="LE_2c1fc9af669ce2454a5fbe3d984b38b4">brusilec</comp>
+              <comp position="2" type="collocate" sloleks="LE_99a519acd32643bbcc9d11eb32434eb6">stekla</comp>
+            </collocation>
+            <collocation form="brusilec kamna" cluster="5" frequency="9" logDice="5.17">
+              <comp position="1" type="headword" sloleks="LE_2c1fc9af669ce2454a5fbe3d984b38b4">brusilec</comp>
+              <comp position="2" type="collocate" sloleks="LE_541ccb2b48e3b90da037335188199d9d">kamna</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="LIČARSKI BRUSILEC" cluster="1" frequency="10" logDice="9.5">
+              <comp position="1" type="collocate" sloleks="LE_1aa2dc05f6e2d75d855abf3951ac383f">LIČARSKI</comp>
+              <comp position="2" type="headword" sloleks="LE_2c1fc9af669ce2454a5fbe3d984b38b4">BRUSILEC</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

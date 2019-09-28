@@ -1,0 +1,29 @@
+<entry>
+  <header>
+    <lexical_unit id="28870">podkupovalen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">610</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="podkupovalna afera" cluster="1" frequency="492" logDice="9.3">
+              <comp position="1" type="headword" sloleks="LE_cedf195229c85526d852022c69c4bee9">podkupovalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_e31a0beeface78aaee253009dde95f9b">afera</comp>
+            </collocation>
+            <collocation form="podkupovalen škandal" cluster="2" frequency="48" logDice="6.98">
+              <comp position="1" type="headword" sloleks="LE_cedf195229c85526d852022c69c4bee9">podkupovalen</comp>
+              <comp position="2" type="collocate" sloleks="LE_6394378f2c6325179b5371f232aadcf7">škandal</comp>
+            </collocation>
+            <collocation form="podkupovalno trženje" cluster="3" frequency="8" logDice="5.41">
+              <comp position="1" type="headword" sloleks="LE_cedf195229c85526d852022c69c4bee9">podkupovalno</comp>
+              <comp position="2" type="collocate" sloleks="LE_8a211aedf9bca49c76850a26658e3078">trženje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,73 @@
+<entry>
+  <header>
+    <lexical_unit id="17340">enostarševski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1252</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="enostarševski in dvostarševski" cluster="1" frequency="11" logDice="12.12">
+              <comp position="1" type="headword" sloleks="LE_93e71a3a32c6464f0fe07760b06c70cc">enostarševski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="">dvostarševski</comp>
+            </collocation>
+            <collocation form="enostarševski in reorganiziran" cluster="2" frequency="11" logDice="11.7">
+              <comp position="1" type="headword" sloleks="LE_93e71a3a32c6464f0fe07760b06c70cc">enostarševski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_12f13a714e57869144466e67fdc8305d">reorganiziran</comp>
+            </collocation>
+            <collocation form="enostarševski in/ali enočlanski" cluster="3" frequency="6" logDice="11.15">
+              <comp position="3" type="headword" sloleks="LE_93e71a3a32c6464f0fe07760b06c70cc">enostarševski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_b78aff4081a4edf42de1958f889f3390">enočlanski</comp>
+              </collocation>
+            <collocation form="enostarševski in/ali istospolen" cluster="4" frequency="9" logDice="10.54">
+              <comp position="3" type="headword" sloleks="LE_93e71a3a32c6464f0fe07760b06c70cc">enostarševski</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_7b3f9814b751f552e68513915bd10469">istospolen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="enostarševska družina" cluster="1" frequency="1057" logDice="7.88">
+              <comp position="1" type="headword" sloleks="LE_93e71a3a32c6464f0fe07760b06c70cc">enostarševska</comp>
+              <comp position="2" type="collocate" sloleks="LE_9a7d912c8ec5a6cbc42d2975b5563b34">družina</comp>
+            </collocation>
+            <collocation form="enostarševski druzina" cluster="2" frequency="8" logDice="7.45">
+              <comp position="1" type="headword" sloleks="LE_93e71a3a32c6464f0fe07760b06c70cc">enostarševski</comp>
+              <comp position="2" type="collocate" sloleks="">druzina</comp>
+            </collocation>
+            <collocation form="enostarševsko gospodinjstvo" cluster="3" frequency="39" logDice="6.99">
+              <comp position="1" type="headword" sloleks="LE_93e71a3a32c6464f0fe07760b06c70cc">enostarševsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_a984c18d8833c7631ae8127be462f14a">gospodinjstvo</comp>
+            </collocation>
+            <collocation form="enostarševski otrok" cluster="4" frequency="7" logDice="0.59">
+              <comp position="1" type="headword" sloleks="LE_93e71a3a32c6464f0fe07760b06c70cc">enostarševski</comp>
+              <comp position="2" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otrok</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz2">
+          <collocations>
+            <collocation form="enostarševski družine" cluster="1" frequency="12" logDice="10.12">
+              <comp position="1" type="headword" sloleks="LE_93e71a3a32c6464f0fe07760b06c70cc">enostarševski</comp>
+              <comp position="2" type="collocate" sloleks="LE_9a7d912c8ec5a6cbc42d2975b5563b34">družine</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="več enostarševski" cluster="1" frequency="12" logDice="1.29">
+              <comp position="1" type="collocate" sloleks="LE_35a40117ea9b0ca39c7a43d940592d29">več</comp>
+              <comp position="2" type="headword" sloleks="LE_93e71a3a32c6464f0fe07760b06c70cc">enostarševski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="64422">komat</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1415</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="komat za konja" cluster="1" frequency="26" logDice="8.91">
+              <comp position="1" type="headword" sloleks="LE_610527ee7a5182c7a7d8f5149b5fcf71">komat</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_a528e2f2e480d48407f95d45a8edfe7c">konja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="konjski komat" cluster="1" frequency="53" logDice="6.31">
+              <comp position="1" type="collocate" sloleks="LE_85ec67149a0e333d26aef57b28a50aa0">konjski</comp>
+              <comp position="2" type="headword" sloleks="LE_610527ee7a5182c7a7d8f5149b5fcf71">komat</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Anton Komata" cluster="1" frequency="71" logDice="7.13">
+              <comp position="1" type="collocate" sloleks="LE_456858aa999b2b8b3d63d0ad308b30ea">Anton</comp>
+              <comp position="2" type="headword" sloleks="LE_610527ee7a5182c7a7d8f5149b5fcf71">Komata</comp>
+            </collocation>
+            <collocation form="Rajko Komata" cluster="2" frequency="5" logDice="6.2">
+              <comp position="1" type="collocate" sloleks="LE_6e7588051cf4d99d72994814730906f4">Rajko</comp>
+              <comp position="2" type="headword" sloleks="LE_610527ee7a5182c7a7d8f5149b5fcf71">Komata</comp>
+            </collocation>
+            <collocation form="par komata" cluster="3" frequency="14" logDice="3.49">
+              <comp position="1" type="collocate" sloleks="LE_dd28036b83c065c8e73341fe9c8f68f5">par</comp>
+              <comp position="2" type="headword" sloleks="LE_610527ee7a5182c7a7d8f5149b5fcf71">komata</comp>
+            </collocation>
+            <collocation form="oblika komata" cluster="4" frequency="10" logDice="0.69">
+              <comp position="1" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">oblika</comp>
+              <comp position="2" type="headword" sloleks="LE_610527ee7a5182c7a7d8f5149b5fcf71">komata</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="konj s komatom" cluster="1" frequency="4" logDice="5.8">
+              <comp position="1" type="collocate" sloleks="LE_a528e2f2e480d48407f95d45a8edfe7c">konj</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_610527ee7a5182c7a7d8f5149b5fcf71">komatom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

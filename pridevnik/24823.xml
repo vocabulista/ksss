@@ -1,0 +1,25 @@
+<entry>
+  <header>
+    <lexical_unit id="24823">napovedovalen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">418</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="napovedovalna služba" cluster="1" frequency="310" logDice="5.1">
+              <comp position="1" type="headword" sloleks="LE_adb4d53d5f0d26fef1e91a5b132e13ba">napovedovalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_595a77ebd11b27d069e3829b663f2954">služba</comp>
+            </collocation>
+            <collocation form="napovedovalen model" cluster="2" frequency="15" logDice="2.0">
+              <comp position="1" type="headword" sloleks="LE_adb4d53d5f0d26fef1e91a5b132e13ba">napovedovalen</comp>
+              <comp position="2" type="collocate" sloleks="LE_00f514f4ab76241d7f74b78e7f7fd1e5|LE_2faafd51dc30a40943b7e986dbaa7456">model</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

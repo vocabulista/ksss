@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="105777">afna</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="afna iz Trebnjega" cluster="1" frequency="11" logDice="7.59">
+              <comp position="1" type="headword" sloleks="">afna</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_d4348fc7963821e4d0efa498a9461996">Trebnjega</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="guncati afna" cluster="1" frequency="161" logDice="13.69">
+              <comp position="1" type="collocate" sloleks="LE_e364c1cfd012cdbdffd9f43b016e1009">guncati</comp>
+              <comp position="2" type="headword" sloleks="">afna</comp>
+            </collocation>
+            <collocation form="nehati afna" cluster="2" frequency="13" logDice="8.89">
+              <comp position="1" type="collocate" sloleks="LE_562f2f7a3ccc31cd60c0ccceb068b243">nehati</comp>
+              <comp position="2" type="headword" sloleks="">afna</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="guncati za afna" cluster="1" frequency="13" logDice="13.69">
+              <comp position="1" type="collocate" sloleks="LE_e364c1cfd012cdbdffd9f43b016e1009">guncati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="">afna</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

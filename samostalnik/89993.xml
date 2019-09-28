@@ -1,0 +1,89 @@
+<entry>
+  <header>
+    <lexical_unit id="89993">soglasnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">967</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 brez sbz2">
+          <collocations>
+            <collocation form="soglasnik brez samoglasnika" cluster="1" frequency="12" logDice="13.3">
+              <comp position="1" type="headword" sloleks="LE_71cb027ab84590b617ac2d84d6166570">soglasnik</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="collocate" sloleks="LE_789396c4c2c730c7541445ad83be500e">samoglasnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="soglasnik iz besede" cluster="1" frequency="33" logDice="10.32">
+              <comp position="1" type="headword" sloleks="LE_71cb027ab84590b617ac2d84d6166570">soglasnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">besede</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="soglasnik v besedi" cluster="1" frequency="66" logDice="9.6">
+              <comp position="1" type="headword" sloleks="LE_71cb027ab84590b617ac2d84d6166570">soglasnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">besedi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nezveneč soglasnik" cluster="1" frequency="9" logDice="9.89">
+              <comp position="1" type="collocate" sloleks="LE_e89235d763fd5838965db6fbe4bfb10d">nezveneč</comp>
+              <comp position="2" type="headword" sloleks="LE_71cb027ab84590b617ac2d84d6166570">soglasnik</comp>
+            </collocation>
+            <collocation form="zveneč soglasnik" cluster="2" frequency="16" logDice="5.89">
+              <comp position="1" type="collocate" sloleks="LE_05a89889d1f33409071ee0a786f41d71">zveneč</comp>
+              <comp position="2" type="headword" sloleks="LE_71cb027ab84590b617ac2d84d6166570">soglasnik</comp>
+            </collocation>
+            <collocation form="končen soglasnik" cluster="3" frequency="12" logDice="1.72">
+              <comp position="1" type="collocate" sloleks="LE_6c368dc381372ba84b74b0d0a83b4691">končen</comp>
+              <comp position="2" type="headword" sloleks="LE_71cb027ab84590b617ac2d84d6166570">soglasnik</comp>
+            </collocation>
+            <collocation form="različen soglasnik" cluster="4" frequency="52" logDice="1.6">
+              <comp position="1" type="collocate" sloleks="LE_5afaf167aac1d7de6c6e2dd92ac8c695">različen</comp>
+              <comp position="2" type="headword" sloleks="LE_71cb027ab84590b617ac2d84d6166570">soglasnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="izgovorjava soglasnika" cluster="1" frequency="5" logDice="8.1">
+              <comp position="1" type="collocate" sloleks="LE_fab3bfcce31d15614d06ffda21c01709">izgovorjava</comp>
+              <comp position="2" type="headword" sloleks="LE_71cb027ab84590b617ac2d84d6166570">soglasnika</comp>
+            </collocation>
+            <collocation form="premik soglasnika" cluster="2" frequency="6" logDice="4.85">
+              <comp position="1" type="collocate" sloleks="LE_ecfdf69275e7460723de6177bfc8100e">premik</comp>
+              <comp position="2" type="headword" sloleks="LE_71cb027ab84590b617ac2d84d6166570">soglasnika</comp>
+            </collocation>
+            <collocation form="kombinacija soglasnika" cluster="3" frequency="5" logDice="2.55">
+              <comp position="1" type="collocate" sloleks="LE_b3ef6b5867abbf2b19225d750dea1b9c">kombinacija</comp>
+              <comp position="2" type="headword" sloleks="LE_71cb027ab84590b617ac2d84d6166570">soglasnika</comp>
+            </collocation>
+            <collocation form="skupina soglasnika" cluster="4" frequency="14" logDice="1.35">
+              <comp position="1" type="collocate" sloleks="LE_7a31c94cb05484f8e60e8fbc4dad6a50">skupina</comp>
+              <comp position="2" type="headword" sloleks="LE_71cb027ab84590b617ac2d84d6166570">soglasnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="beseda s soglasnikom" cluster="1" frequency="10" logDice="6.97">
+              <comp position="1" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">beseda</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_71cb027ab84590b617ac2d84d6166570">soglasnikom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

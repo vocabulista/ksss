@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="24553">načrpan</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">814</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="načrpana nafta" cluster="1" frequency="474" logDice="10.41">
+              <comp position="1" type="headword" sloleks="LE_f1a6d001f1992ab73f2aaa8e980a760c">načrpana</comp>
+              <comp position="2" type="collocate" sloleks="LE_2aa2118f9df21c936cbc2fb16d52484d">nafta</comp>
+            </collocation>
+            <collocation form="načrpan sod" cluster="2" frequency="8" logDice="5.48">
+              <comp position="1" type="headword" sloleks="LE_f1a6d001f1992ab73f2aaa8e980a760c">načrpan</comp>
+              <comp position="2" type="collocate" sloleks="LE_2ef619f5df9808ffeafa14e1fa01dca4">sod</comp>
+            </collocation>
+            <collocation form="načrpana količina" cluster="3" frequency="94" logDice="5.12">
+              <comp position="1" type="headword" sloleks="LE_f1a6d001f1992ab73f2aaa8e980a760c">načrpana</comp>
+              <comp position="2" type="collocate" sloleks="LE_962c73eca27e836ddb2ea664db69f933">količina</comp>
+            </collocation>
+            <collocation form="načrpana kvota" cluster="4" frequency="9" logDice="4.78">
+              <comp position="1" type="headword" sloleks="LE_f1a6d001f1992ab73f2aaa8e980a760c">načrpana</comp>
+              <comp position="2" type="collocate" sloleks="LE_01cac364a3a64a2aad121dbee8650b96">kvota</comp>
+            </collocation>
+            <collocation form="načrpana voda" cluster="5" frequency="143" logDice="4.5">
+              <comp position="1" type="headword" sloleks="LE_f1a6d001f1992ab73f2aaa8e980a760c">načrpana</comp>
+              <comp position="2" type="collocate" sloleks="LE_0d8cbba4e56fea63657ac746d29cd047">voda</comp>
+            </collocation>
+            <collocation form="načrpano zlato" cluster="6" frequency="6" logDice="4.25">
+              <comp position="1" type="headword" sloleks="LE_f1a6d001f1992ab73f2aaa8e980a760c">načrpano</comp>
+              <comp position="2" type="collocate" sloleks="LE_5e24931eeae692a3daa4cb05be44c244">zlato</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="dnevno načrpan" cluster="1" frequency="64" logDice="9.37">
+              <comp position="1" type="collocate" sloleks="LE_60df4420bde4dacee06ff1d7fb4d70ad">dnevno</comp>
+              <comp position="2" type="headword" sloleks="LE_f1a6d001f1992ab73f2aaa8e980a760c">načrpan</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

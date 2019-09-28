@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="59018">hasek</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">825</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz brez SBZ2">
+          <collocations>
+            <collocation form="zapraviti brez haska" cluster="1" frequency="4" logDice="9.41">
+              <comp position="1" type="collocate" sloleks="LE_a0ba9e7be51d37959b6a7cafba6c55fc">zapraviti</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_556bda05a83aae159f085ef55337508e">haska</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="sibirski hasek" cluster="1" frequency="15" logDice="7.24">
+              <comp position="1" type="collocate" sloleks="LE_154a7ff87e9513857f03b9811cf86cb9">sibirski</comp>
+              <comp position="2" type="headword" sloleks="LE_556bda05a83aae159f085ef55337508e">hasek</comp>
+            </collocation>
+            <collocation form="pravi hasek" cluster="2" frequency="51" logDice="1.6">
+              <comp position="1" type="collocate" sloleks="LE_b6d87b136784072fa5bb21831fa825be">pravi</comp>
+              <comp position="2" type="headword" sloleks="LE_556bda05a83aae159f085ef55337508e">hasek</comp>
+            </collocation>
+            <collocation form="poseben hasek" cluster="3" frequency="21" logDice="0.58">
+              <comp position="1" type="collocate" sloleks="LE_c6ac532196f00aeff80a6a291379271e">poseben</comp>
+              <comp position="2" type="headword" sloleks="LE_556bda05a83aae159f085ef55337508e">hasek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="81522">praporščak</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1194</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="praporščak društva" cluster="1" frequency="30" logDice="2.64">
+              <comp position="1" type="headword" sloleks="LE_f2042439a478252aeb63930c01203120">praporščak</comp>
+              <comp position="2" type="collocate" sloleks="LE_f1fd3c17e2206150a5ab762769b6e8ff">društva</comp>
+            </collocation>
+            <collocation form="praporščak organizacije" cluster="1" frequency="13" logDice="2.25">
+              <comp position="1" type="headword" sloleks="LE_f2042439a478252aeb63930c01203120">praporščak</comp>
+              <comp position="2" type="collocate" sloleks="LE_513f9f374314ddaf09bb7d123d083113">organizacije</comp>
+            </collocation>
+            <collocation form="čin praporščaka" cluster="2" frequency="9" logDice="7.78">
+              <comp position="1" type="collocate" sloleks="LE_14a5f90af0d0cdad1bf61d139c3cd422">čin</comp>
+              <comp position="2" type="headword" sloleks="LE_f2042439a478252aeb63930c01203120">praporščaka</comp>
+            </collocation>
+            <collocation form="srečanje praporščaka" cluster="3" frequency="6" logDice="1.66">
+              <comp position="1" type="collocate" sloleks="LE_779fa188c4acb969e9354bb72d376b6d">srečanje</comp>
+              <comp position="2" type="headword" sloleks="LE_f2042439a478252aeb63930c01203120">praporščaka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="praporščak s praporom" cluster="1" frequency="10" logDice="10.86">
+              <comp position="1" type="headword" sloleks="LE_f2042439a478252aeb63930c01203120">praporščak</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_85d94ffef35e564be15ab4a0f5fa2cf3">praporom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ3">
+          <collocations>
+            <collocation form="predati praporščaku" cluster="1" frequency="11" logDice="4.85">
+              <comp position="1" type="collocate" sloleks="LE_9ae9b8d58e90cf447de60dcea87e756e">predati</comp>
+              <comp position="2" type="headword" sloleks="LE_f2042439a478252aeb63930c01203120">praporščaku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

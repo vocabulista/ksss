@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="66027">krtek</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">452</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="priden krtek" cluster="1" frequency="17" logDice="5.41">
+              <comp position="1" type="collocate" sloleks="LE_fe35761ae14385d8419a4abac1c70a3e">priden</comp>
+              <comp position="2" type="headword" sloleks="LE_8c03d0a7a8de25fd64a092ec6e6f25c0">krtek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="zgodbica o Krtku" cluster="1" frequency="4" logDice="6.39">
+              <comp position="1" type="collocate" sloleks="LE_78bad44e22fb1e6320771b152d09004e">zgodbica</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_8c03d0a7a8de25fd64a092ec6e6f25c0">Krtku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

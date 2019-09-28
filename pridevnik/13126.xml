@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="13126">agrotehničen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">437</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="agrotehničen ukrep" cluster="1" frequency="345" logDice="6.46">
+              <comp position="1" type="headword" sloleks="LE_9d6bca838bfa16bfb0726e3a0bbc1ba5">agrotehničen</comp>
+              <comp position="2" type="collocate" sloleks="LE_255f7b84fe0103df32854855e1084ff0">ukrep</comp>
+            </collocation>
+            <collocation form="agrotehnično opravilo" cluster="2" frequency="6" logDice="2.63">
+              <comp position="1" type="headword" sloleks="LE_9d6bca838bfa16bfb0726e3a0bbc1ba5">agrotehnično</comp>
+              <comp position="2" type="collocate" sloleks="LE_18a7d79a757b21e6982fdb29591130fd">opravilo</comp>
+            </collocation>
+            <collocation form="agrotehničen dejavnik" cluster="3" frequency="8" logDice="2.4">
+              <comp position="1" type="headword" sloleks="LE_9d6bca838bfa16bfb0726e3a0bbc1ba5">agrotehničen</comp>
+              <comp position="2" type="collocate" sloleks="LE_cf8609d892bf4c9b195858a4e75f3684">dejavnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="vse agrotehničen" cluster="1" frequency="15" logDice="1.95">
+              <comp position="1" type="collocate" sloleks="LE_69e1f6ea0eba690182112fa5f7865561">vse</comp>
+              <comp position="2" type="headword" sloleks="LE_9d6bca838bfa16bfb0726e3a0bbc1ba5">agrotehničen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

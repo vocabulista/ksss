@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="51677">cinik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1470</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="dežuren cinik" cluster="1" frequency="8" logDice="3.37">
+              <comp position="1" type="collocate" sloleks="LE_6bbdafc31d850b0b7630ef1b300fab92">dežuren</comp>
+              <comp position="2" type="headword" sloleks="LE_2eb20847cc973fb88cc1d5aa2b06dd9a">cinik</comp>
+            </collocation>
+            <collocation form="večen cinik" cluster="2" frequency="8" logDice="2.44">
+              <comp position="1" type="collocate" sloleks="LE_a8b3d898f40b76f3a358e0cbea02569c">večen</comp>
+              <comp position="2" type="headword" sloleks="LE_2eb20847cc973fb88cc1d5aa2b06dd9a">cinik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="mnenje cinika" cluster="1" frequency="6" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_570e657c7ba1bf69e788fb96b4ad3409">mnenje</comp>
+              <comp position="2" type="headword" sloleks="LE_2eb20847cc973fb88cc1d5aa2b06dd9a">cinika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="klinika za cinika" cluster="1" frequency="15" logDice="7.48">
+              <comp position="1" type="collocate" sloleks="LE_6ae44ed0107a5523589c2c9d7764ab21">klinika</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_2eb20847cc973fb88cc1d5aa2b06dd9a">cinika</comp>
+            </collocation>
+            <collocation form="stroj za cinika" cluster="2" frequency="5" logDice="4.34">
+              <comp position="1" type="collocate" sloleks="LE_92b130473f034fabad4c95de8025d439">stroj</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_2eb20847cc973fb88cc1d5aa2b06dd9a">cinika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

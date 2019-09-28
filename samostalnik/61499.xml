@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="61499">iztirjenec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">455</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="spolen iztirjenec" cluster="1" frequency="221" logDice="6.55">
+              <comp position="1" type="collocate" sloleks="LE_0d56e1388b1d26a013733a7e1fa383df">spolen</comp>
+              <comp position="2" type="headword" sloleks="LE_d04b4866bf8676b9976736ff0fd7ea41">iztirjenec</comp>
+            </collocation>
+            <collocation form="seksualen iztirjenec" cluster="2" frequency="11" logDice="4.35">
+              <comp position="1" type="collocate" sloleks="LE_57a0c34771e3e417bf66bb3dff6f12cc">seksualen</comp>
+              <comp position="2" type="headword" sloleks="LE_d04b4866bf8676b9976736ff0fd7ea41">iztirjenec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="žrtev iztirjenca" cluster="1" frequency="9" logDice="2.42">
+              <comp position="1" type="collocate" sloleks="LE_f46ebb4646225631d376c958798abe48">žrtev</comp>
+              <comp position="2" type="headword" sloleks="LE_d04b4866bf8676b9976736ff0fd7ea41">iztirjenca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

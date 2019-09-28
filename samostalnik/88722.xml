@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="88722">sirek</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">477</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="krmen sirek" cluster="1" frequency="54" logDice="7.97">
+              <comp position="1" type="collocate" sloleks="LE_5e3f5ea73636d0e186a4939ca187e969">krmen</comp>
+              <comp position="2" type="headword" sloleks="LE_75d1245de567a24d5865e0a753a487ad">sirek</comp>
+            </collocation>
+            <collocation form="divji sirek" cluster="2" frequency="98" logDice="5.6">
+              <comp position="1" type="collocate" sloleks="LE_5ca5d3ebba6d615ded0f89b606cf0b92">divji</comp>
+              <comp position="2" type="headword" sloleks="LE_75d1245de567a24d5865e0a753a487ad">sirek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Konrad Sirka" cluster="1" frequency="6" logDice="8.19">
+              <comp position="1" type="collocate" sloleks="LE_99aabe61dd28a67d5b92d56a9b1c1376">Konrad</comp>
+              <comp position="2" type="headword" sloleks="LE_75d1245de567a24d5865e0a753a487ad">Sirka</comp>
+            </collocation>
+            <collocation form="posevek sirka" cluster="2" frequency="5" logDice="7.21">
+              <comp position="1" type="collocate" sloleks="LE_066558a2014ec675b48920ab9f82b457">posevek</comp>
+              <comp position="2" type="headword" sloleks="LE_75d1245de567a24d5865e0a753a487ad">sirka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="brk iz sirka" cluster="1" frequency="7" logDice="12.9">
+              <comp position="1" type="collocate" sloleks="LE_ced974026341afd5466e9e9e49fac983">brk</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_75d1245de567a24d5865e0a753a487ad">sirka</comp>
+            </collocation>
+            <collocation form="sirek iz semena" cluster="2" frequency="7" logDice="8.22">
+              <comp position="1" type="headword" sloleks="LE_75d1245de567a24d5865e0a753a487ad">sirek</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_8f780119a53f2013459083c0fd419a29">semena</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

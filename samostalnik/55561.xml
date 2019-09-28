@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="55561">energičnost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">651</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="motorna energičnost" cluster="1" frequency="8" logDice="2.14">
+              <comp position="1" type="collocate" sloleks="LE_2c7058b7bc7bb8a8032a544b29af5805">motorna</comp>
+              <comp position="2" type="headword" sloleks="LE_7561a436d4e25a9598b01dd1db32a674">energičnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 z SBZ6">
+          <collocations>
+            <collocation form="povezan z energičnostjo" cluster="1" frequency="11" logDice="1.41">
+              <comp position="1" type="collocate" sloleks="LE_84ef5df7d933128064d85c58468c7559">povezan</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_7561a436d4e25a9598b01dd1db32a674">energičnostjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

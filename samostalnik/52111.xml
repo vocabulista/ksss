@@ -1,0 +1,75 @@
+<entry>
+  <header>
+    <lexical_unit id="52111">črnka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1503</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="črnka iz jarenina" cluster="1" frequency="6" logDice="11.11">
+              <comp position="1" type="headword" sloleks="LE_b416d37589165818971a24b84585970d">črnka</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">jarenina</comp>
+            </collocation>
+            <collocation form="črnka iz Markovcev" cluster="2" frequency="4" logDice="9.46">
+              <comp position="1" type="headword" sloleks="LE_b416d37589165818971a24b84585970d">črnka</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_58f05aeea762670fedea01676542c555">Markovcev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="streljati na ČRNKO" cluster="1" frequency="4" logDice="4.77">
+              <comp position="1" type="collocate" sloleks="LE_883490345b2778a1f83b18090d3efe44">streljati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_b416d37589165818971a24b84585970d">ČRNKO</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="poročiti s črnko" cluster="1" frequency="6" logDice="4.05">
+              <comp position="1" type="collocate" sloleks="LE_b9c667080dab6d3d75df2d987c7ee965">poročiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_b416d37589165818971a24b84585970d">črnko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="imeti za črnko" cluster="1" frequency="4" logDice="0.92">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_b416d37589165818971a24b84585970d">črnko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="debela črnka" cluster="1" frequency="14" logDice="3.07">
+              <comp position="1" type="collocate" sloleks="LE_5e9ecc6d8e05a9e411ef42506ade7cef">debela</comp>
+              <comp position="2" type="headword" sloleks="LE_b416d37589165818971a24b84585970d">črnka</comp>
+            </collocation>
+            <collocation form="mlada črnka" cluster="2" frequency="51" logDice="1.74">
+              <comp position="1" type="collocate" sloleks="LE_0ee11dc77f2b35d3d3b7f2db250e72fb">mlada</comp>
+              <comp position="2" type="headword" sloleks="LE_b416d37589165818971a24b84585970d">črnka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="seks s črnko" cluster="1" frequency="4" logDice="5.95">
+              <comp position="1" type="collocate" sloleks="LE_79d3c2a10071a93dcc686ed3dd5a1f63">seks</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_b416d37589165818971a24b84585970d">črnko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

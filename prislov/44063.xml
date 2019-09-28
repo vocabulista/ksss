@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="44063">prejle</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">442</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ gbz">
+          <collocations>
+            <collocation form="prejle napisati" cluster="1" frequency="6" logDice="3.06">
+              <comp position="1" type="headword" sloleks="LE_e86e0fd7c9e056dcf4ff2b26f643dc58">prejle</comp>
+              <comp position="2" type="collocate" sloleks="LE_4b447f8d3f6099cf04f05e1f36dd760b">napisati</comp>
+            </collocation>
+            <collocation form="prejle omeniti" cluster="2" frequency="4" logDice="2.92">
+              <comp position="1" type="headword" sloleks="LE_e86e0fd7c9e056dcf4ff2b26f643dc58">prejle</comp>
+              <comp position="2" type="collocate" sloleks="LE_7210060aacd6e582c33959eb3c5f449c">omeniti</comp>
+            </collocation>
+            <collocation form="prejle govoriti" cluster="3" frequency="12" logDice="2.0">
+              <comp position="1" type="headword" sloleks="LE_e86e0fd7c9e056dcf4ff2b26f643dc58">prejle</comp>
+              <comp position="2" type="collocate" sloleks="LE_1da4dedf23c5041ae767d038d2430123">govoriti</comp>
+            </collocation>
+            <collocation form="prejle slišati" cluster="4" frequency="5" logDice="1.74">
+              <comp position="1" type="headword" sloleks="LE_e86e0fd7c9e056dcf4ff2b26f643dc58">prejle</comp>
+              <comp position="2" type="collocate" sloleks="LE_0368985f9887f303456539de53b84941">slišati</comp>
+            </collocation>
+            <collocation form="prejle reči" cluster="5" frequency="8" logDice="1.04">
+              <comp position="1" type="headword" sloleks="LE_e86e0fd7c9e056dcf4ff2b26f643dc58">prejle</comp>
+              <comp position="2" type="collocate" sloleks="LE_2e2f18bfd5ebbc4dc100327e7c4b4371">reči</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="videti prejle" cluster="1" frequency="5" logDice="1.13">
+              <comp position="1" type="collocate" sloleks="LE_c26a3fecae6697a7f6f9475e85ca9f58">videti</comp>
+              <comp position="2" type="headword" sloleks="LE_e86e0fd7c9e056dcf4ff2b26f643dc58">prejle</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

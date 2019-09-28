@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="89563">slovenje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">769</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="Slovenje za zaščito" cluster="1" frequency="4" logDice="2.58">
+              <comp position="1" type="headword" sloleks="LE_72ee28f58f1477fc126718a423057794">Slovenje</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_d0ba58b7dd2e6f0661398cc2033a341b">zaščito</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="RTV Slovenja" cluster="1" frequency="13" logDice="6.84">
+              <comp position="1" type="collocate" sloleks="LE_45caf5129679254c709cf37a2f19ab84|LE_153bc5099c835fe1632617d09c34db65">RTV</comp>
+              <comp position="2" type="headword" sloleks="LE_72ee28f58f1477fc126718a423057794">Slovenja</comp>
+            </collocation>
+            <collocation form="radio Slovenja" cluster="2" frequency="7" logDice="5.86">
+              <comp position="1" type="collocate" sloleks="LE_83e05537c8de1fbc82144e99f73050cb">radio</comp>
+              <comp position="2" type="headword" sloleks="LE_72ee28f58f1477fc126718a423057794">Slovenja</comp>
+            </collocation>
+            <collocation form="TV Slovenja" cluster="3" frequency="6" logDice="3.65">
+              <comp position="1" type="collocate" sloleks="LE_5e1aa9e018be97365d565c0081fdc474|LE_dd7e2ae673214cfa8708051f5146d806">TV</comp>
+              <comp position="2" type="headword" sloleks="LE_72ee28f58f1477fc126718a423057794">Slovenja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        </gramrels>
+    </sense>
+  </body>
+</entry>

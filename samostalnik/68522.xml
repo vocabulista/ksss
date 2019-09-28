@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="68522">markiza</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1089</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="markiza na vikonta" cluster="1" frequency="6" logDice="13.67">
+              <comp position="1" type="headword" sloleks="LE_da163705d6ee7d2d86b78dffe131dafc">markiza</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_26060fa83d00c8edb23dba3791f5ae52">vikonta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="platnena markiza" cluster="1" frequency="12" logDice="6.61">
+              <comp position="1" type="collocate" sloleks="LE_6fe51100e236827f9abaeb59f4896afd">platnena</comp>
+              <comp position="2" type="headword" sloleks="LE_da163705d6ee7d2d86b78dffe131dafc">markiza</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="vino markize" cluster="1" frequency="7" logDice="4.92">
+              <comp position="1" type="collocate" sloleks="LE_0ae7c92af34780f7f1922cd5b9806ca5">vino</comp>
+              <comp position="2" type="headword" sloleks="LE_da163705d6ee7d2d86b78dffe131dafc">markize</comp>
+            </collocation>
+            <collocation form="vloga markize" cluster="2" frequency="14" logDice="1.87">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_da163705d6ee7d2d86b78dffe131dafc">markize</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

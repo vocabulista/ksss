@@ -1,0 +1,56 @@
+<entry>
+  <header>
+    <lexical_unit id="95110">ureznina</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">705</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz5">
+          <collocations>
+            <collocation form="ureznina na zadnjici" cluster="1" frequency="4" logDice="8.48">
+              <comp position="1" type="headword" sloleks="LE_b8c2571e08f2a488bca2a390dfdbe78f">ureznina</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_45005ccc9cb605056a3de29840f19a2b">zadnjici</comp>
+            </collocation>
+            <collocation form="ureznina na roki" cluster="2" frequency="8" logDice="5.42">
+              <comp position="1" type="headword" sloleks="LE_b8c2571e08f2a488bca2a390dfdbe78f">ureznina</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_5fa1bf1096bd6c7b00158af4c43b33b3">roki</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="poskrbeti za ureznino" cluster="1" frequency="4" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_610c30927c7792ff5bc41d0843ec83a6">poskrbeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_b8c2571e08f2a488bca2a390dfdbe78f">ureznino</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="globoka ureznina" cluster="1" frequency="32" logDice="4.22">
+              <comp position="1" type="collocate" sloleks="LE_0b7a86889302f2e1631bcc681f755968">globoka</comp>
+              <comp position="2" type="headword" sloleks="LE_b8c2571e08f2a488bca2a390dfdbe78f">ureznina</comp>
+            </collocation>
+            <collocation form="majhna ureznina" cluster="2" frequency="36" logDice="1.28">
+              <comp position="1" type="collocate" sloleks="LE_046f6756496c07b99f5ce226a4c8204d">majhna</comp>
+              <comp position="2" type="headword" sloleks="LE_b8c2571e08f2a488bca2a390dfdbe78f">ureznina</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="zdravljenje ureznine" cluster="1" frequency="6" logDice="2.36">
+              <comp position="1" type="collocate" sloleks="LE_7c0137a5473fd91b204bdf5ea8e08de5">zdravljenje</comp>
+              <comp position="2" type="headword" sloleks="LE_b8c2571e08f2a488bca2a390dfdbe78f">ureznine</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,76 @@
+<entry>
+  <header>
+    <lexical_unit id="57684">glosa</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1802</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="glosa z naslovom" cluster="1" frequency="10" logDice="2.08">
+              <comp position="1" type="headword" sloleks="LE_bb8c11a867ea900f1dae1d9e5cfa6eb1">glosa</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_1aca8621567cc70c42163dfa35048969">naslovom</comp>
+            </collocation>
+            <collocation form="zveza z gloso" cluster="2" frequency="5" logDice="0.22">
+              <comp position="1" type="collocate" sloleks="LE_f685db62cc2d867e40d31988d86fbd1e">zveza</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_bb8c11a867ea900f1dae1d9e5cfa6eb1">gloso</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="glosa za ustnico" cluster="1" frequency="24" logDice="8.17">
+              <comp position="1" type="headword" sloleks="LE_bb8c11a867ea900f1dae1d9e5cfa6eb1">glosa</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_e7f2a87a0e07f0f78ed928d807514e00">ustnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="zasavska glosa" cluster="1" frequency="11" logDice="5.21">
+              <comp position="1" type="collocate" sloleks="LE_2170aa5e967f3630357ca0363b93dc04">zasavska</comp>
+              <comp position="2" type="headword" sloleks="LE_bb8c11a867ea900f1dae1d9e5cfa6eb1">glosa</comp>
+            </collocation>
+            <collocation form="Prešernova glosa" cluster="2" frequency="8" logDice="2.64">
+              <comp position="1" type="collocate" sloleks="LE_80e5d0c56ffc97d70310b4916f3288de">Prešernova</comp>
+              <comp position="2" type="headword" sloleks="LE_bb8c11a867ea900f1dae1d9e5cfa6eb1">glosa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="lip glose" cluster="1" frequency="5" logDice="10.12">
+              <comp position="1" type="collocate" sloleks="">lip</comp>
+              <comp position="2" type="headword" sloleks="LE_bb8c11a867ea900f1dae1d9e5cfa6eb1">glose</comp>
+            </collocation>
+            <collocation form="avtorica glose" cluster="2" frequency="5" logDice="3.64">
+              <comp position="1" type="collocate" sloleks="LE_532e937348f78099ef6072871add5d65">avtorica</comp>
+              <comp position="2" type="headword" sloleks="LE_bb8c11a867ea900f1dae1d9e5cfa6eb1">glose</comp>
+            </collocation>
+            <collocation form="avtor glose" cluster="2" frequency="5" logDice="1.48">
+              <comp position="1" type="collocate" sloleks="LE_4610786a8d8425a3ff9b2744b8fd8d79">avtor</comp>
+              <comp position="2" type="headword" sloleks="LE_bb8c11a867ea900f1dae1d9e5cfa6eb1">glose</comp>
+            </collocation>
+            <collocation form="sindikat Glose" cluster="3" frequency="6" logDice="2.75">
+              <comp position="1" type="collocate" sloleks="LE_80e7b021fab77747f0a899778050b67d">sindikat</comp>
+              <comp position="2" type="headword" sloleks="LE_bb8c11a867ea900f1dae1d9e5cfa6eb1">Glose</comp>
+            </collocation>
+            <collocation form="odbor Glose" cluster="3" frequency="5" logDice="1.42">
+              <comp position="1" type="collocate" sloleks="LE_8a88fc8558d7aaf0322ca909aacb4ac0">odbor</comp>
+              <comp position="2" type="headword" sloleks="LE_bb8c11a867ea900f1dae1d9e5cfa6eb1">Glose</comp>
+            </collocation>
+            <collocation form="predsednik Glose" cluster="4" frequency="28" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_7b6970ef8cd5ab25e1b3915be0c536bd">predsednik</comp>
+              <comp position="2" type="headword" sloleks="LE_bb8c11a867ea900f1dae1d9e5cfa6eb1">Glose</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

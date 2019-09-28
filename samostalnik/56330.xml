@@ -1,0 +1,67 @@
+<entry>
+  <header>
+    <lexical_unit id="56330">ficek</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">750</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="ficek v žepu" cluster="1" frequency="62" logDice="8.19">
+              <comp position="1" type="headword" sloleks="LE_27eaaeb8ef4efd92f9c806ad7295dc9b">ficek</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_6c4917b1d9c4253494176700e4c1e611">žepu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz brez SBZ2">
+          <collocations>
+            <collocation form="ostati brez ficka" cluster="1" frequency="29" logDice="4.32">
+              <comp position="1" type="collocate" sloleks="LE_f2645fccc77ca8ba15862278bf3ee661">ostati</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_27eaaeb8ef4efd92f9c806ad7295dc9b">ficka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz SBZ2">
+          <collocations>
+            <collocation form="ne dobiti ficka" cluster="1" frequency="34" logDice="5.63">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_abe97863495bd3d2d1b41f81933061b7">dobiti</comp>
+              <comp position="3" type="headword" sloleks="LE_27eaaeb8ef4efd92f9c806ad7295dc9b">ficka</comp>
+            </collocation>
+            <collocation form="ne imeti ficka" cluster="1" frequency="30" logDice="1.24">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="3" type="headword" sloleks="LE_27eaaeb8ef4efd92f9c806ad7295dc9b">ficka</comp>
+            </collocation>
+            <collocation form="ne dati ficka" cluster="2" frequency="14" logDice="5.56">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="collocate" sloleks="LE_251860b7395e9bef61ae04eb36d0639d">dati</comp>
+              <comp position="3" type="headword" sloleks="LE_27eaaeb8ef4efd92f9c806ad7295dc9b">ficka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="nit ficka" cluster="1" frequency="6" logDice="4.27">
+              <comp position="1" type="collocate" sloleks="LE_7e64900c124ac6f88a94a0243e7e5eb8">nit</comp>
+              <comp position="2" type="headword" sloleks="LE_27eaaeb8ef4efd92f9c806ad7295dc9b">ficka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 brez SBZ2">
+          <collocations>
+            <collocation form="cesta brez ficka" cluster="1" frequency="5" logDice="7.91">
+              <comp position="1" type="collocate" sloleks="LE_0e822f9721ddeb3fd7d90e02f70c9a2f">cesta</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_27eaaeb8ef4efd92f9c806ad7295dc9b">ficka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

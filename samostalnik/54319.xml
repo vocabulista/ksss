@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="54319">draže</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">639</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="Draže Mihailović" cluster="1" frequency="70" logDice="12.68">
+              <comp position="1" type="headword" sloleks="LE_aca1bc4272fc69d4635ddedf6f9252ce">Draže</comp>
+              <comp position="2" type="collocate" sloleks="">Mihailović</comp>
+            </collocation>
+            <collocation form="Draže Mihajlovića" cluster="2" frequency="50" logDice="11.88">
+              <comp position="1" type="headword" sloleks="LE_aca1bc4272fc69d4635ddedf6f9252ce">Draže</comp>
+              <comp position="2" type="collocate" sloleks="LE_4d773b9d8b965fbaa2d5117d96a7e7a0|LE_972d1e614281d35d0693f0c901123c39">Mihajlovića</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="draže s kislino" cluster="1" frequency="4" logDice="6.95">
+              <comp position="1" type="headword" sloleks="LE_aca1bc4272fc69d4635ddedf6f9252ce">draže</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_d9abb5a071ead823a824332e9be22309">kislino</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="čokoladen draže" cluster="1" frequency="8" logDice="4.49">
+              <comp position="1" type="collocate" sloleks="LE_6d67a84ee304fd81ebb651eadd732f8a">čokoladen</comp>
+              <comp position="2" type="headword" sloleks="LE_aca1bc4272fc69d4635ddedf6f9252ce">draže</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

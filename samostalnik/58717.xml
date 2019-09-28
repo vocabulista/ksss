@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="58717">gruden</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">740</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 do sbz2">
+          <collocations>
+            <collocation form="gruden do prosinca" cluster="1" frequency="199" logDice="13.99">
+              <comp position="1" type="headword" sloleks="LE_414177a593b78f1d34621bfb406a4628">gruden</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_8f76f66c261d36b8c440eadaf7e40c64">prosinca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Ig Grudna" cluster="1" frequency="15" logDice="10.5">
+              <comp position="1" type="collocate" sloleks="LE_f271db1a954b5c2e410a5e2bcc38bf8d">Ig</comp>
+              <comp position="2" type="headword" sloleks="LE_414177a593b78f1d34621bfb406a4628">Grudna</comp>
+            </collocation>
+            <collocation form="mesec grudna" cluster="2" frequency="6" logDice="1.0">
+              <comp position="1" type="collocate" sloleks="LE_d87e72e2a6ded77b0ae520112759ad42">mesec</comp>
+              <comp position="2" type="headword" sloleks="LE_414177a593b78f1d34621bfb406a4628">grudna</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

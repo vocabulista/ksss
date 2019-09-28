@@ -1,0 +1,56 @@
+<entry>
+  <header>
+    <lexical_unit id="90224">soplesalec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">889</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="soplesalec za tečaj" cluster="1" frequency="5" logDice="7.37">
+              <comp position="1" type="headword" sloleks="LE_26201345ed93d9ab6c164a73b938092a">soplesalec</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_5d02c8a026f40c53ca6b5616101080cf">tečaj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="profesionalen soplesalec" cluster="1" frequency="8" logDice="2.6">
+              <comp position="1" type="collocate" sloleks="LE_aac9726f22dc82ca3f89a0b3cf2193f6">profesionalen</comp>
+              <comp position="2" type="headword" sloleks="LE_26201345ed93d9ab6c164a73b938092a">soplesalec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="prst soplesalca" cluster="1" frequency="5" logDice="4.9">
+              <comp position="1" type="collocate" sloleks="LE_6a9950af0f17ee23955c952bc9475a49|LE_a861eb7d5e70798c893c633c83cd3e90">prst</comp>
+              <comp position="2" type="headword" sloleks="LE_26201345ed93d9ab6c164a73b938092a">soplesalca</comp>
+            </collocation>
+            <collocation form="objem soplesalca" cluster="2" frequency="5" logDice="4.08">
+              <comp position="1" type="collocate" sloleks="LE_bc6bed125e4c9b860253686e40013c70">objem</comp>
+              <comp position="2" type="headword" sloleks="LE_26201345ed93d9ab6c164a73b938092a">soplesalca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="ples s soplesalcem" cluster="1" frequency="4" logDice="6.03">
+              <comp position="1" type="collocate" sloleks="LE_0a5139d7e3ed9a03478faf8c1e367d5b">ples</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_26201345ed93d9ab6c164a73b938092a">soplesalcem</comp>
+            </collocation>
+            <collocation form="par s soplesalcem" cluster="2" frequency="4" logDice="5.64">
+              <comp position="1" type="collocate" sloleks="LE_dd28036b83c065c8e73341fe9c8f68f5">par</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_26201345ed93d9ab6c164a73b938092a">soplesalcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="38569">zanesen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">586</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="zanesen govor" cluster="1" frequency="8" logDice="3.17">
+              <comp position="1" type="headword" sloleks="LE_e573859996f640bfc1fbe339375495e4">zanesen</comp>
+              <comp position="2" type="collocate" sloleks="LE_62db55b79816c90308de7c02140fb3d5">govor</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 v sbz4">
+          <collocations>
+            <collocation form="zanesen v Evropo" cluster="1" frequency="4" logDice="8.54">
+              <comp position="1" type="headword" sloleks="LE_e573859996f640bfc1fbe339375495e4">zanesen</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_0c70d71bb49cb550bb4e854282407723">Evropo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="romantično zanesen" cluster="1" frequency="6" logDice="7.42">
+              <comp position="1" type="collocate" sloleks="LE_ec8a986ea0cd88cef1b97ff20f1b883d">romantično</comp>
+              <comp position="2" type="headword" sloleks="LE_e573859996f640bfc1fbe339375495e4">zanesen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

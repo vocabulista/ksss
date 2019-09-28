@@ -1,0 +1,62 @@
+<entry>
+  <header>
+    <lexical_unit id="5999">povešati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">563</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="povešati glavo" cluster="1" frequency="41" logDice="5.71">
+              <comp position="1" type="headword" sloleks="LE_99650cf854bea2fa89c50bb2f0331aab">povešati</comp>
+              <comp position="2" type="collocate" sloleks="LE_49f28ed22f8b4f55f12b45ad1b95d3b0">glavo</comp>
+            </collocation>
+            <collocation form="povešati oči" cluster="2" frequency="30" logDice="5.02">
+              <comp position="1" type="headword" sloleks="LE_99650cf854bea2fa89c50bb2f0331aab">povešati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6e683e53145b35a6cbb44ad1188b7a9f|LE_f7836a137770b18301878166ca9f053f">oči</comp>
+            </collocation>
+            <collocation form="povešati pogled" cluster="3" frequency="31" logDice="4.86">
+              <comp position="1" type="headword" sloleks="LE_99650cf854bea2fa89c50bb2f0331aab">povešati</comp>
+              <comp position="2" type="collocate" sloleks="LE_456820bc1f399479d902f190585f0938">pogled</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ čez sbz4">
+          <collocations>
+            <collocation form="povešati čez rob" cluster="1" frequency="4" logDice="5.65">
+              <comp position="1" type="headword" sloleks="LE_99650cf854bea2fa89c50bb2f0331aab">povešati</comp>
+              <comp position="2" type="other" sloleks="LE_160ad4b4b11d5503081a58eba3acf84d">čez</comp>
+              <comp position="3" type="collocate" sloleks="LE_f77fc4e15f47e160c4247e79bf3ae0fc">rob</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="ljubko povešati" cluster="1" frequency="10" logDice="9.14">
+              <comp position="1" type="collocate" sloleks="LE_3501b0fc3c275af4856c182e989e2513">ljubko</comp>
+              <comp position="2" type="headword" sloleks="LE_99650cf854bea2fa89c50bb2f0331aab">povešati</comp>
+            </collocation>
+            <collocation form="sramežljivo povešati" cluster="2" frequency="10" logDice="7.26">
+              <comp position="1" type="collocate" sloleks="LE_6a7de9dc0704e71412b229f70363d896">sramežljivo</comp>
+              <comp position="2" type="headword" sloleks="LE_99650cf854bea2fa89c50bb2f0331aab">povešati</comp>
+            </collocation>
+            <collocation form="žalostno povešati" cluster="3" frequency="8" logDice="4.98">
+              <comp position="1" type="collocate" sloleks="LE_a1627c049e9e9f3b91dbf756ff4a08c5">žalostno</comp>
+              <comp position="2" type="headword" sloleks="LE_99650cf854bea2fa89c50bb2f0331aab">povešati</comp>
+            </collocation>
+            <collocation form="počasi povešati" cluster="4" frequency="5" logDice="0.92">
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              <comp position="2" type="headword" sloleks="LE_99650cf854bea2fa89c50bb2f0331aab">povešati</comp>
+            </collocation>
+            <collocation form="nekoliko povešati" cluster="5" frequency="4" logDice="0.73">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_99650cf854bea2fa89c50bb2f0331aab">povešati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

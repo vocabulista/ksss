@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="8165">sladiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">609</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="sladiti aspartam" cluster="1" frequency="7" logDice="11.13">
+              <comp position="1" type="headword" sloleks="LE_8122bb4d8814a848035a59563d4d7cfa">sladiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_16bc491ca9b43f5297d642647c52717e">aspartam</comp>
+            </collocation>
+            <collocation form="sladiti ciklamat" cluster="2" frequency="4" logDice="10.47">
+              <comp position="1" type="headword" sloleks="LE_8122bb4d8814a848035a59563d4d7cfa">sladiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_e16d1f573b8b31182a0ec8cde7cf066f">ciklamat</comp>
+            </collocation>
+            <collocation form="sladiti čaj" cluster="3" frequency="7" logDice="4.95">
+              <comp position="1" type="headword" sloleks="LE_8122bb4d8814a848035a59563d4d7cfa">sladiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_67a606570b017a224b3075ed651cd3ec">čaj</comp>
+            </collocation>
+            <collocation form="sladiti življenje" cluster="4" frequency="13" logDice="1.94">
+              <comp position="1" type="headword" sloleks="LE_8122bb4d8814a848035a59563d4d7cfa">sladiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_b7a6a2019becc6510edb8591e171b0a7">življenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="sladiti z medom" cluster="1" frequency="61" logDice="10.36">
+              <comp position="1" type="headword" sloleks="LE_8122bb4d8814a848035a59563d4d7cfa">sladiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_f4b7e575d76dd5dfe82733e6e5391923|LE_2fbb04c44a2e16c8454038d7a4825e78">medom</comp>
+            </collocation>
+            <collocation form="sladiti s sladkorjem" cluster="2" frequency="18" logDice="7.26">
+              <comp position="1" type="headword" sloleks="LE_8122bb4d8814a848035a59563d4d7cfa">sladiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_da4f2da25b1df3ceda67d3f1a7d28518">sladkorjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="nikoli sladiti" cluster="1" frequency="12" logDice="0.65">
+              <comp position="1" type="collocate" sloleks="LE_6ffec37fc59ab2f513410468cce388b4">nikoli</comp>
+              <comp position="2" type="headword" sloleks="LE_8122bb4d8814a848035a59563d4d7cfa">sladiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

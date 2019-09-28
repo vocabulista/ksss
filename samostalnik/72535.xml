@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="72535">nepovezanost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">645</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 med sbz6">
+          <collocations>
+            <collocation form="nepovezanost med upravljavcem" cluster="1" frequency="4" logDice="9.48">
+              <comp position="1" type="headword" sloleks="LE_c85e1915b4e288c3d663e7c547666b65">nepovezanost</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_23ea1e3bc7d85566955b068b966649b1">upravljavcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="nepovezanost pridelovalca" cluster="1" frequency="15" logDice="6.86">
+              <comp position="1" type="headword" sloleks="LE_c85e1915b4e288c3d663e7c547666b65">nepovezanost</comp>
+              <comp position="2" type="collocate" sloleks="LE_4db6a7805eb45585986626b8cf727d84">pridelovalca</comp>
+            </collocation>
+            <collocation form="nepovezanost evidence" cluster="2" frequency="9" logDice="5.6">
+              <comp position="1" type="headword" sloleks="LE_c85e1915b4e288c3d663e7c547666b65">nepovezanost</comp>
+              <comp position="2" type="collocate" sloleks="LE_f8713ba22db4ff1842b2896dfe144e97">evidence</comp>
+            </collocation>
+            <collocation form="nepovezanost sestavine" cluster="3" frequency="9" logDice="5.26">
+              <comp position="1" type="headword" sloleks="LE_c85e1915b4e288c3d663e7c547666b65">nepovezanost</comp>
+              <comp position="2" type="collocate" sloleks="LE_9fdad534e9854d4c21d8f7eaf2876bda">sestavine</comp>
+            </collocation>
+            <collocation form="nepovezanost sistema" cluster="4" frequency="17" logDice="2.06">
+              <comp position="1" type="headword" sloleks="LE_c85e1915b4e288c3d663e7c547666b65">nepovezanost</comp>
+              <comp position="2" type="collocate" sloleks="LE_b126847d984efa55c2ffad50be4e1dac">sistema</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz zaradi SBZ2">
+          <collocations>
+            <collocation form="posredovati zaradi nepovezanosti" cluster="1" frequency="4" logDice="8.53">
+              <comp position="1" type="collocate" sloleks="LE_6c6aa4c477ab92111bdd7485b3d0590c">posredovati</comp>
+              <comp position="2" type="other" sloleks="LE_e2128c24e3c3872c9e5c2981f71b461f">zaradi</comp>
+              <comp position="3" type="headword" sloleks="LE_c85e1915b4e288c3d663e7c547666b65">nepovezanosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="popolna nepovezanost" cluster="1" frequency="8" logDice="1.08">
+              <comp position="1" type="collocate" sloleks="LE_814a2c9c333ef1e9cb481395c05b7346">popolna</comp>
+              <comp position="2" type="headword" sloleks="LE_c85e1915b4e288c3d663e7c547666b65">nepovezanost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

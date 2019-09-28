@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="70492">možicelj</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">498</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="možicelj s kapo" cluster="1" frequency="5" logDice="8.28">
+              <comp position="1" type="headword" sloleks="LE_3ca8e931f0fce69b28ec9a242adfbe2d">možicelj</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_9bd31b583b4b381f651846ea77816476">kapo</comp>
+            </collocation>
+            <collocation form="možicelj z glavo" cluster="2" frequency="6" logDice="4.34">
+              <comp position="1" type="headword" sloleks="LE_3ca8e931f0fce69b28ec9a242adfbe2d">možicelj</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_49f28ed22f8b4f55f12b45ad1b95d3b0">glavo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="zelen možicelj" cluster="1" frequency="40" logDice="3.4">
+              <comp position="1" type="collocate" sloleks="LE_6e8aa87791d8f00ce04541edfe194c36">zelen</comp>
+              <comp position="2" type="headword" sloleks="LE_3ca8e931f0fce69b28ec9a242adfbe2d">možicelj</comp>
+            </collocation>
+            <collocation form="majhen možicelj" cluster="2" frequency="30" logDice="1.02">
+              <comp position="1" type="collocate" sloleks="LE_046f6756496c07b99f5ce226a4c8204d">majhen</comp>
+              <comp position="2" type="headword" sloleks="LE_3ca8e931f0fce69b28ec9a242adfbe2d">možicelj</comp>
+            </collocation>
+            <collocation form="mali možicelj" cluster="2" frequency="22" logDice="1.32">
+              <comp position="1" type="collocate" sloleks="LE_0b2cc34f00671cbd2bc04dca56aba76b">mali</comp>
+              <comp position="2" type="headword" sloleks="LE_3ca8e931f0fce69b28ec9a242adfbe2d">možicelj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

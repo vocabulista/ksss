@@ -1,0 +1,57 @@
+<entry>
+  <header>
+    <lexical_unit id="44003">predmetno</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">529</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ pbz0">
+          <collocations>
+            <collocation form="predmetno relacijski" cluster="1" frequency="14" logDice="10.11">
+              <comp position="1" type="headword" sloleks="LE_5473a3e31f3a479f9913afc68f69e459">predmetno</comp>
+              <comp position="2" type="collocate" sloleks="LE_3864f9eb3394cffccf1ae9386eadb6d2">relacijski</comp>
+            </collocation>
+            <collocation form="predmetno javen" cluster="2" frequency="82" logDice="7.66">
+              <comp position="1" type="headword" sloleks="LE_5473a3e31f3a479f9913afc68f69e459">predmetno</comp>
+              <comp position="2" type="collocate" sloleks="LE_db9b9dea5c7c6b3fa2252be2bb86554a">javen</comp>
+            </collocation>
+            <collocation form="predmetno programski" cluster="2" frequency="15" logDice="6.92">
+              <comp position="1" type="headword" sloleks="LE_5473a3e31f3a479f9913afc68f69e459">predmetno</comp>
+              <comp position="2" type="collocate" sloleks="LE_4afb44c9c56470df53a56de3f6d4799d">programski</comp>
+            </collocation>
+            <collocation form="predmetno razvojen" cluster="2" frequency="5" logDice="4.86">
+              <comp position="1" type="headword" sloleks="LE_5473a3e31f3a479f9913afc68f69e459">predmetno</comp>
+              <comp position="2" type="collocate" sloleks="LE_7ff54c8b5e4dd9c21d3cb5bb4de030ec">razvojen</comp>
+            </collocation>
+            <collocation form="predmetno specifičen" cluster="3" frequency="23" logDice="7.25">
+              <comp position="1" type="headword" sloleks="LE_5473a3e31f3a479f9913afc68f69e459">predmetno</comp>
+              <comp position="2" type="collocate" sloleks="LE_c7a3f185a49244ce7f5391fcae3b6b60">specifičen</comp>
+            </collocation>
+            <collocation form="predmetno usmerjen" cluster="4" frequency="94" logDice="6.97">
+              <comp position="1" type="headword" sloleks="LE_5473a3e31f3a479f9913afc68f69e459">predmetno</comp>
+              <comp position="2" type="collocate" sloleks="LE_aa26d431274738513b973be0e377e6ca">usmerjen</comp>
+            </collocation>
+            <collocation form="predmetno zasnovan" cluster="5" frequency="14" logDice="5.78">
+              <comp position="1" type="headword" sloleks="LE_5473a3e31f3a479f9913afc68f69e459">predmetno</comp>
+              <comp position="2" type="collocate" sloleks="LE_a4e1df9c34bac3959c3237d1550db8b0">zasnovan</comp>
+            </collocation>
+            <collocation form="predmetno kazniv" cluster="6" frequency="4" logDice="4.65">
+              <comp position="1" type="headword" sloleks="LE_5473a3e31f3a479f9913afc68f69e459">predmetno</comp>
+              <comp position="2" type="collocate" sloleks="LE_f04920b035c1d6a8a76cf2afb42751fc">kazniv</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="izvesti predmetno" cluster="1" frequency="6" logDice="4.51">
+              <comp position="1" type="collocate" sloleks="LE_fb70143f99c81b29f61afe33316306d3|LE_db34c033aa9256049b111a628aad3059">izvesti</comp>
+              <comp position="2" type="headword" sloleks="LE_5473a3e31f3a479f9913afc68f69e459">predmetno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

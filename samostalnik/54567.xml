@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="54567">družabnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">472</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="družabnica za otroka" cluster="1" frequency="10" logDice="2.49">
+              <comp position="1" type="headword" sloleks="LE_230ab9577e8dbf0d791f1dc529cf3eb9">družabnica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_f0e43c165764f0255a2ffefcd26a4b05">otroka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Nabrita družabnica" cluster="1" frequency="39" logDice="10.21">
+              <comp position="1" type="collocate" sloleks="LE_9623b47e19becb5ef4e4eec08fd560f5">Nabrita</comp>
+              <comp position="2" type="headword" sloleks="LE_230ab9577e8dbf0d791f1dc529cf3eb9">družabnica</comp>
+            </collocation>
+            <collocation form="prijetna družabnica" cluster="2" frequency="12" logDice="2.26">
+              <comp position="1" type="collocate" sloleks="LE_c54487f53545d75fcf13a9fa0732e5f5">prijetna</comp>
+              <comp position="2" type="headword" sloleks="LE_230ab9577e8dbf0d791f1dc529cf3eb9">družabnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

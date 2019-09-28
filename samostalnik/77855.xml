@@ -1,0 +1,81 @@
+<entry>
+  <header>
+    <lexical_unit id="77855">pigmentacija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">422</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="pigmentacija predela" cluster="1" frequency="9" logDice="6.46">
+              <comp position="1" type="headword" sloleks="LE_8ca78fae1f225b7a424d332cb73d4ea4">pigmentacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_df08c52b2fb80ff0bf36fdd23050776e">predela</comp>
+            </collocation>
+            <collocation form="pigmentacija kože" cluster="2" frequency="60" logDice="5.87">
+              <comp position="1" type="headword" sloleks="LE_8ca78fae1f225b7a424d332cb73d4ea4">pigmentacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_1204dd81b00363a398d5f5a84ff9f358">kože</comp>
+            </collocation>
+            <collocation form="motnja pigmentacije" cluster="3" frequency="12" logDice="5.0">
+              <comp position="1" type="collocate" sloleks="LE_e07067dc89f16fa43aba5c323406c3a7">motnja</comp>
+              <comp position="2" type="headword" sloleks="LE_8ca78fae1f225b7a424d332cb73d4ea4">pigmentacije</comp>
+            </collocation>
+            <collocation form="sprememba pigmentacije" cluster="4" frequency="9" logDice="1.01">
+              <comp position="1" type="collocate" sloleks="LE_43a3bb7510833003ff85626ef9cc9915">sprememba</comp>
+              <comp position="2" type="headword" sloleks="LE_8ca78fae1f225b7a424d332cb73d4ea4">pigmentacije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz do SBZ2">
+          <collocations>
+            <collocation form="priti do pigmentacije" cluster="1" frequency="13" logDice="1.02">
+              <comp position="1" type="collocate" sloleks="LE_fc339e29cc0e8ec9efe1ef0acdfb11b5">priti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_8ca78fae1f225b7a424d332cb73d4ea4">pigmentacije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="neenakomerna pigmentacija" cluster="1" frequency="36" logDice="8.85">
+              <comp position="1" type="collocate" sloleks="LE_82c8b8637f3cbaccb5294b69abe69276">neenakomerna</comp>
+              <comp position="2" type="headword" sloleks="LE_8ca78fae1f225b7a424d332cb73d4ea4">pigmentacija</comp>
+            </collocation>
+            <collocation form="nepravilna pigmentacija" cluster="2" frequency="12" logDice="4.65">
+              <comp position="1" type="collocate" sloleks="LE_92c08eaead7a272c8f262ac1e2d3a8e0">nepravilna</comp>
+              <comp position="2" type="headword" sloleks="LE_8ca78fae1f225b7a424d332cb73d4ea4">pigmentacija</comp>
+            </collocation>
+            <collocation form="povečana pigmentacija" cluster="3" frequency="12" logDice="3.18">
+              <comp position="1" type="collocate" sloleks="LE_50754eb7249a2c4d4191eb8b1ade3400">povečana</comp>
+              <comp position="2" type="headword" sloleks="LE_8ca78fae1f225b7a424d332cb73d4ea4">pigmentacija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="motnja v pigmentaciji" cluster="1" frequency="6" logDice="4.38">
+              <comp position="1" type="collocate" sloleks="LE_e07067dc89f16fa43aba5c323406c3a7">motnja</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_8ca78fae1f225b7a424d332cb73d4ea4">pigmentaciji</comp>
+            </collocation>
+            <collocation form="sprememba v pigmentaciji" cluster="2" frequency="20" logDice="4.1">
+              <comp position="1" type="collocate" sloleks="LE_43a3bb7510833003ff85626ef9cc9915">sprememba</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_8ca78fae1f225b7a424d332cb73d4ea4">pigmentaciji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="težava s pigmentacijo" cluster="1" frequency="4" logDice="0.47">
+              <comp position="1" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težava</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_8ca78fae1f225b7a424d332cb73d4ea4">pigmentacijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

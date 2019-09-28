@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="69283">metaforika</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">785</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="bogata metaforika" cluster="1" frequency="41" logDice="3.43">
+              <comp position="1" type="collocate" sloleks="LE_dced9b89c62a9351467866138eb9d57d">bogata</comp>
+              <comp position="2" type="headword" sloleks="LE_dca8aae3f176b18d4326988fa2784af8">metaforika</comp>
+            </collocation>
+            <collocation form="polna metaforika" cluster="1" frequency="17" logDice="1.51">
+              <comp position="1" type="collocate" sloleks="LE_ba66920997eaf6ebf1b95667348fc4c3">polna</comp>
+              <comp position="2" type="headword" sloleks="LE_dca8aae3f176b18d4326988fa2784af8">metaforika</comp>
+            </collocation>
+            <collocation form="izvirna metaforika" cluster="2" frequency="9" logDice="2.97">
+              <comp position="1" type="collocate" sloleks="LE_b8516998c3064dbae8c1da87dd32967c">izvirna</comp>
+              <comp position="2" type="headword" sloleks="LE_dca8aae3f176b18d4326988fa2784af8">metaforika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 z SBZ6">
+          <collocations>
+            <collocation form="prepleten z metaforiko" cluster="1" frequency="5" logDice="6.06">
+              <comp position="1" type="collocate" sloleks="LE_f1acff55c43e053370d56f9901470190">prepleten</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_dca8aae3f176b18d4326988fa2784af8">metaforiko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

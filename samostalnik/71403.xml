@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="71403">naprednost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">649</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="tehnološka naprednost" cluster="1" frequency="121" logDice="6.27">
+              <comp position="1" type="collocate" sloleks="LE_6e98e3294c41ac12234b0d38cccb4833">tehnološka</comp>
+              <comp position="2" type="headword" sloleks="LE_0461b7d03be0f66107a423c87d99d30a">naprednost</comp>
+            </collocation>
+            <collocation form="tehnična naprednost" cluster="2" frequency="65" logDice="3.99">
+              <comp position="1" type="collocate" sloleks="LE_35870759c8f0b4c42ca951b12ea7d9bd">tehnična</comp>
+              <comp position="2" type="headword" sloleks="LE_0461b7d03be0f66107a423c87d99d30a">naprednost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="znak naprednosti" cluster="1" frequency="6" logDice="2.2">
+              <comp position="1" type="collocate" sloleks="LE_c14b604b2ebc69adbffa17600b4697c8">znak</comp>
+              <comp position="2" type="headword" sloleks="LE_0461b7d03be0f66107a423c87d99d30a">naprednosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

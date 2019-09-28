@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="57524">glasnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">490</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="GLASNICA ARGENTINA" cluster="1" frequency="9" logDice="9.99">
+              <comp position="1" type="headword" sloleks="LE_4afd8d4e4662829c5b01d34fc2225aed">GLASNICA</comp>
+              <comp position="2" type="collocate" sloleks="">ARGENTINA</comp>
+            </collocation>
+            <collocation form="glasnica miru" cluster="2" frequency="13" logDice="4.38">
+              <comp position="1" type="headword" sloleks="LE_4afd8d4e4662829c5b01d34fc2225aed">glasnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_f15f18f277caf643979fd56bcfc1132e">miru</comp>
+            </collocation>
+            <collocation form="glasnica ženske" cluster="3" frequency="12" logDice="2.6">
+              <comp position="1" type="headword" sloleks="LE_4afd8d4e4662829c5b01d34fc2225aed">glasnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_27b2cafdf8a189c632c32da066af1ce5">ženske</comp>
+            </collocation>
+            <collocation form="glasnica ministrstva" cluster="4" frequency="12" logDice="1.99">
+              <comp position="1" type="headword" sloleks="LE_4afd8d4e4662829c5b01d34fc2225aed">glasnica</comp>
+              <comp position="2" type="collocate" sloleks="LE_f330212ca20ea9e446e2adab59f8519d">ministrstva</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="oklicati za glasnico" cluster="1" frequency="4" logDice="7.1">
+              <comp position="1" type="collocate" sloleks="LE_2534fa2a78d283e670701924e3866d6b">oklicati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_4afd8d4e4662829c5b01d34fc2225aed">glasnico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

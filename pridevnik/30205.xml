@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="30205">predračunski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1176</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="predračunska vrednost" cluster="1" frequency="1055" logDice="7.61">
+              <comp position="1" type="headword" sloleks="LE_0947d7e7d22135b20005b545749ff6fd">predračunska</comp>
+              <comp position="2" type="collocate" sloleks="LE_aa6bad87e3fba76f27f4242d3cb9a383">vrednost</comp>
+            </collocation>
+            <collocation form="predračunska cena" cluster="1" frequency="23" logDice="1.75">
+              <comp position="1" type="headword" sloleks="LE_0947d7e7d22135b20005b545749ff6fd">predračunska</comp>
+              <comp position="2" type="collocate" sloleks="LE_69b40aa886598a40e47070a0270e9b28">cena</comp>
+            </collocation>
+            <collocation form="predračunska ocena" cluster="1" frequency="12" logDice="2.28">
+              <comp position="1" type="headword" sloleks="LE_0947d7e7d22135b20005b545749ff6fd">predračunska</comp>
+              <comp position="2" type="collocate" sloleks="LE_876e5c609b3c91704b14383926ee218d">ocena</comp>
+            </collocation>
+            <collocation form="predračunski elaborat" cluster="2" frequency="7" logDice="6.32">
+              <comp position="1" type="headword" sloleks="LE_0947d7e7d22135b20005b545749ff6fd">predračunski</comp>
+              <comp position="2" type="collocate" sloleks="LE_3764f50ac680348ee76a36356d6aa585">elaborat</comp>
+            </collocation>
+            <collocation form="predračunska postavka" cluster="3" frequency="13" logDice="4.81">
+              <comp position="1" type="headword" sloleks="LE_0947d7e7d22135b20005b545749ff6fd">predračunska</comp>
+              <comp position="2" type="collocate" sloleks="LE_ad22b33a09b7e4522ac3d3d193efc058">postavka</comp>
+            </collocation>
+            <collocation form="predračunska bilanca" cluster="4" frequency="8" logDice="3.85">
+              <comp position="1" type="headword" sloleks="LE_0947d7e7d22135b20005b545749ff6fd">predračunska</comp>
+              <comp position="2" type="collocate" sloleks="LE_70fef5226ef4203fbbafceb9326a6531">bilanca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

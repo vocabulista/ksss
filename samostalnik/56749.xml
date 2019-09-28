@@ -1,0 +1,63 @@
+<entry>
+  <header>
+    <lexical_unit id="56749">fototeka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1299</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="fototeka ekipe" cluster="1" frequency="443" logDice="7.59">
+              <comp position="1" type="headword" sloleks="LE_b678d5a8e0181bf6431dc370c15f2511">fototeka</comp>
+              <comp position="2" type="collocate" sloleks="LE_b9e9e733fb718cd2faed16b97326064f">ekipe</comp>
+            </collocation>
+            <collocation form="fototeka muzeja" cluster="2" frequency="155" logDice="7.18">
+              <comp position="1" type="headword" sloleks="LE_b678d5a8e0181bf6431dc370c15f2511">fototeka</comp>
+              <comp position="2" type="collocate" sloleks="LE_88a018d975a53a6c04d5b12d6fedb635">muzeja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="hraniti v fototeki" cluster="1" frequency="6" logDice="4.7">
+              <comp position="1" type="collocate" sloleks="LE_3eb2f8b8caad4928e8075ca2669a9ba4">hraniti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_b678d5a8e0181bf6431dc370c15f2511">fototeki</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Šušteršičeva fototeka" cluster="1" frequency="442" logDice="13.66">
+              <comp position="1" type="collocate" sloleks="LE_890c150325fa503360c12533812815b0">Šušteršičeva</comp>
+              <comp position="2" type="headword" sloleks="LE_b678d5a8e0181bf6431dc370c15f2511">fototeka</comp>
+            </collocation>
+            <collocation form="muzejska fototeka" cluster="2" frequency="9" logDice="3.7">
+              <comp position="1" type="collocate" sloleks="LE_38da68b0d7385957dd8b99753b9c3487">muzejska</comp>
+              <comp position="2" type="headword" sloleks="LE_b678d5a8e0181bf6431dc370c15f2511">fototeka</comp>
+            </collocation>
+            <collocation form="planinska fototeka" cluster="3" frequency="8" logDice="2.33">
+              <comp position="1" type="collocate" sloleks="LE_548f746441b3c0fe6c2f5bd21bd3a399">planinska</comp>
+              <comp position="2" type="headword" sloleks="LE_b678d5a8e0181bf6431dc370c15f2511">fototeka</comp>
+            </collocation>
+            <collocation form="bogata fototeka" cluster="4" frequency="16" logDice="2.07">
+              <comp position="1" type="collocate" sloleks="LE_dced9b89c62a9351467866138eb9d57d">bogata</comp>
+              <comp position="2" type="headword" sloleks="LE_b678d5a8e0181bf6431dc370c15f2511">fototeka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 iz SBZ2">
+          <collocations>
+            <collocation form="fotografija iz fototeke" cluster="1" frequency="11" logDice="6.71">
+              <comp position="1" type="collocate" sloleks="LE_e6df18792975a9b99ce5878081baa979">fotografija</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_b678d5a8e0181bf6431dc370c15f2511">fototeke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

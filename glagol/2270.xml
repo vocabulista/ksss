@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="2270">krušiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">540</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="krušiti omet" cluster="1" frequency="9" logDice="8.36">
+              <comp position="1" type="headword" sloleks="LE_45a498a35c7dfabe5e3f2e62b929d157">krušiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_dc3e9c37707942775d075f704ccd70e4">omet</comp>
+            </collocation>
+            <collocation form="krušiti kamenje" cluster="2" frequency="20" logDice="8.32">
+              <comp position="1" type="headword" sloleks="LE_45a498a35c7dfabe5e3f2e62b929d157">krušiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_a7964be66d4f9f615ff616da92211d77">kamenje</comp>
+            </collocation>
+            <collocation form="krušiti steno" cluster="3" frequency="4" logDice="4.6">
+              <comp position="1" type="headword" sloleks="LE_45a498a35c7dfabe5e3f2e62b929d157">krušiti</comp>
+              <comp position="2" type="collocate" sloleks="LE_47b154875543bbeb3c61452a95a438a3">steno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz2">
+          <collocations>
+            <collocation form="krušiti s stene" cluster="1" frequency="4" logDice="7.66">
+              <comp position="1" type="headword" sloleks="LE_45a498a35c7dfabe5e3f2e62b929d157">krušiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_47b154875543bbeb3c61452a95a438a3">stene</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="počasi krušiti" cluster="1" frequency="7" logDice="1.4">
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              <comp position="2" type="headword" sloleks="LE_45a498a35c7dfabe5e3f2e62b929d157">krušiti</comp>
+            </collocation>
+            <collocation form="pogosto krušiti" cluster="2" frequency="10" logDice="0.94">
+              <comp position="1" type="collocate" sloleks="LE_0c25a8b75185d62f2dab515299cccbfc">pogosto</comp>
+              <comp position="2" type="headword" sloleks="LE_45a498a35c7dfabe5e3f2e62b929d157">krušiti</comp>
+            </collocation>
+            <collocation form="močno krušiti" cluster="3" frequency="6" logDice="0.65">
+              <comp position="1" type="collocate" sloleks="LE_b061af875766d8e1437febe5ccafe554">močno</comp>
+              <comp position="2" type="headword" sloleks="LE_45a498a35c7dfabe5e3f2e62b929d157">krušiti</comp>
+            </collocation>
+            <collocation form="naprej krušiti" cluster="4" frequency="5" logDice="0.49">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_45a498a35c7dfabe5e3f2e62b929d157">krušiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

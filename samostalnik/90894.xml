@@ -1,0 +1,83 @@
+<entry>
+  <header>
+    <lexical_unit id="90894">sprevodnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1295</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz5">
+          <collocations>
+            <collocation form="sprevodnik na tramvaju" cluster="1" frequency="9" logDice="10.89">
+              <comp position="1" type="headword" sloleks="LE_27ac048dd60b37dd1af729f430d8badf">sprevodnik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_10637a9a970916f51256f0430b9b3a3e">tramvaju</comp>
+            </collocation>
+            <collocation form="sprevodnik na vlaku" cluster="2" frequency="56" logDice="9.73">
+              <comp position="1" type="headword" sloleks="LE_27ac048dd60b37dd1af729f430d8badf">sprevodnik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_411b11f088c5e3369c39b29f8f62a41d">vlaku</comp>
+            </collocation>
+            <collocation form="sprevodnik na avtobusu" cluster="3" frequency="17" logDice="8.45">
+              <comp position="1" type="headword" sloleks="LE_27ac048dd60b37dd1af729f430d8badf">sprevodnik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_34cfc2510315ef069b1f61b563285e07">avtobusu</comp>
+            </collocation>
+            <collocation form="sprevodnik na železnici" cluster="4" frequency="5" logDice="6.46">
+              <comp position="1" type="headword" sloleks="LE_27ac048dd60b37dd1af729f430d8badf">sprevodnik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_c702acb9b68777d78afac76ccfaaeb65">železnici</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="sprevodnik z vlaka" cluster="1" frequency="8" logDice="9.64">
+              <comp position="1" type="headword" sloleks="LE_27ac048dd60b37dd1af729f430d8badf">sprevodnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_411b11f088c5e3369c39b29f8f62a41d">vlaka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz pri SBZ5">
+          <collocations>
+            <collocation form="kupiti pri sprevodniku" cluster="1" frequency="10" logDice="7.77">
+              <comp position="1" type="collocate" sloleks="LE_cfca503c3162d4a887b66b6d1a4f1f46">kupiti</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_27ac048dd60b37dd1af729f430d8badf">sprevodniku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="avtobusen sprevodnik" cluster="1" frequency="9" logDice="3.45">
+              <comp position="1" type="collocate" sloleks="LE_f40896ee888feeaeb354f702923520fc">avtobusen</comp>
+              <comp position="2" type="headword" sloleks="LE_27ac048dd60b37dd1af729f430d8badf">sprevodnik</comp>
+            </collocation>
+            <collocation form="prijazen sprevodnik" cluster="2" frequency="8" logDice="2.0">
+              <comp position="1" type="collocate" sloleks="LE_439e00b230a5a160ad9e1edaf6af9e84">prijazen</comp>
+              <comp position="2" type="headword" sloleks="LE_27ac048dd60b37dd1af729f430d8badf">sprevodnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="volja sprevodnika" cluster="1" frequency="5" logDice="2.03">
+              <comp position="1" type="collocate" sloleks="LE_302cfe15db5d997ecf0eab411fa16934">volja</comp>
+              <comp position="2" type="headword" sloleks="LE_27ac048dd60b37dd1af729f430d8badf">sprevodnika</comp>
+            </collocation>
+            <collocation form="sprevodnik vlaka" cluster="2" frequency="12" logDice="5.68">
+              <comp position="1" type="headword" sloleks="LE_27ac048dd60b37dd1af729f430d8badf">sprevodnik</comp>
+              <comp position="2" type="collocate" sloleks="LE_411b11f088c5e3369c39b29f8f62a41d">vlaka</comp>
+            </collocation>
+            <collocation form="sprevodnik avtobusa" cluster="3" frequency="9" logDice="4.29">
+              <comp position="1" type="headword" sloleks="LE_27ac048dd60b37dd1af729f430d8badf">sprevodnik</comp>
+              <comp position="2" type="collocate" sloleks="LE_34cfc2510315ef069b1f61b563285e07">avtobusa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

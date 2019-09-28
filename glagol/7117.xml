@@ -1,0 +1,74 @@
+<entry>
+  <header>
+    <lexical_unit id="7117">pripoznati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">543</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="pripoznati zahtevek" cluster="1" frequency="39" logDice="7.18">
+              <comp position="1" type="headword" sloleks="LE_3795aa97d65b06a4f354368d2ed8d765">pripoznati</comp>
+              <comp position="2" type="collocate" sloleks="LE_7bcdc549eea4e68e1e974f54e94b7be2">zahtevek</comp>
+            </collocation>
+            <collocation form="pripoznati terjatev" cluster="2" frequency="5" logDice="5.4">
+              <comp position="1" type="headword" sloleks="LE_3795aa97d65b06a4f354368d2ed8d765">pripoznati</comp>
+              <comp position="2" type="collocate" sloleks="LE_7ea34a6ae61cb279bc19b535d6863e11">terjatev</comp>
+            </collocation>
+            <collocation form="pripoznati obveznost" cluster="3" frequency="5" logDice="2.88">
+              <comp position="1" type="headword" sloleks="LE_3795aa97d65b06a4f354368d2ed8d765">pripoznati</comp>
+              <comp position="2" type="collocate" sloleks="LE_0588885dbe8f39694a2008d1244439fb">obveznost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="pripoznati v izidu" cluster="1" frequency="10" logDice="11.01">
+              <comp position="1" type="headword" sloleks="LE_3795aa97d65b06a4f354368d2ed8d765">pripoznati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_402e23363e1ed97b8bb38b1a350de66d">izidu</comp>
+            </collocation>
+            <collocation form="pripoznati v izkazu" cluster="2" frequency="4" logDice="8.97">
+              <comp position="1" type="headword" sloleks="LE_3795aa97d65b06a4f354368d2ed8d765">pripoznati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_816928c783b8157405fedfe19cd8fcc7">izkazu</comp>
+            </collocation>
+            <collocation form="pripoznati v kapitalu" cluster="3" frequency="4" logDice="8.43">
+              <comp position="1" type="headword" sloleks="LE_3795aa97d65b06a4f354368d2ed8d765">pripoznati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_e4823bcd29751f1be403134ec610a893">kapitalu</comp>
+            </collocation>
+            <collocation form="pripoznati v celoti" cluster="4" frequency="4" logDice="0.77">
+              <comp position="1" type="headword" sloleks="LE_3795aa97d65b06a4f354368d2ed8d765">pripoznati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_2b6fa15c45cebff40d7537ca524056db">celoti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="neg-gbz SBZ2">
+          <collocations>
+            <collocation form="ne pripoznati zahtevka" cluster="1" frequency="4" logDice="8.16">
+              <comp position="1" type="other" sloleks="LE_473bdc03f9f6340ccf9ded885e0731f1">ne</comp>
+              <comp position="2" type="headword" sloleks="LE_3795aa97d65b06a4f354368d2ed8d765">pripoznati</comp>
+              <comp position="3" type="collocate" sloleks="LE_7bcdc549eea4e68e1e974f54e94b7be2">zahtevka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="delno pripoznati" cluster="1" frequency="4" logDice="2.36">
+              <comp position="1" type="collocate" sloleks="LE_87e833a2c94c4909c5b795940c0b81c6">delno</comp>
+              <comp position="2" type="headword" sloleks="LE_3795aa97d65b06a4f354368d2ed8d765">pripoznati</comp>
+            </collocation>
+            <collocation form="takoj pripoznati" cluster="2" frequency="7" logDice="0.6">
+              <comp position="1" type="collocate" sloleks="LE_63831e752d3a6105c3245c75b9779495">takoj</comp>
+              <comp position="2" type="headword" sloleks="LE_3795aa97d65b06a4f354368d2ed8d765">pripoznati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

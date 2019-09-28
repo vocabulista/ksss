@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="47494">antagonist</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">521</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="antagonist angiotenzina" cluster="1" frequency="11" logDice="10.86">
+              <comp position="1" type="headword" sloleks="LE_f7c7ab15e6b44447de0bb55f07f9ec71">antagonist</comp>
+              <comp position="2" type="collocate" sloleks="LE_8a7b4d597a858747610f1709d179b6c4">angiotenzina</comp>
+            </collocation>
+            <collocation form="antagonist receptorja" cluster="2" frequency="60" logDice="10.84">
+              <comp position="1" type="headword" sloleks="LE_f7c7ab15e6b44447de0bb55f07f9ec71">antagonist</comp>
+              <comp position="2" type="collocate" sloleks="LE_1918fe738ed22601144abae36d90ffbd">receptorja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="kalcijev antagonist" cluster="1" frequency="29" logDice="8.36">
+              <comp position="1" type="collocate" sloleks="LE_87ac8cf41429a94d7b6f7a180623b261">kalcijev</comp>
+              <comp position="2" type="headword" sloleks="LE_f7c7ab15e6b44447de0bb55f07f9ec71">antagonist</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,72 @@
+<entry>
+  <header>
+    <lexical_unit id="30995">priklopen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">2551</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="priklopno vozilo" cluster="1" frequency="1564" logDice="8.39">
+              <comp position="1" type="headword" sloleks="LE_168e5a909129d50715b39a0ec48a197a">priklopno</comp>
+              <comp position="2" type="collocate" sloleks="LE_267f3855f5e4ffa5815a1263d2a6c788">vozilo</comp>
+            </collocation>
+            <collocation form="priklopna postaja" cluster="2" frequency="549" logDice="6.64">
+              <comp position="1" type="headword" sloleks="LE_168e5a909129d50715b39a0ec48a197a">priklopna</comp>
+              <comp position="2" type="collocate" sloleks="LE_6a105dd25229a952f54692e093d1479c">postaja</comp>
+            </collocation>
+            <collocation form="priklopen kabel" cluster="3" frequency="13" logDice="5.01">
+              <comp position="1" type="headword" sloleks="LE_168e5a909129d50715b39a0ec48a197a">priklopen</comp>
+              <comp position="2" type="collocate" sloleks="LE_5e6d149bea5a830f5ebc572918ed12e3">kabel</comp>
+            </collocation>
+            <collocation form="priklopen aparat" cluster="4" frequency="43" logDice="4.79">
+              <comp position="1" type="headword" sloleks="LE_168e5a909129d50715b39a0ec48a197a">priklopen</comp>
+              <comp position="2" type="collocate" sloleks="LE_8394f9997a2a0c916367cdf9c5c35551">aparat</comp>
+            </collocation>
+            <collocation form="priklopen sedež" cluster="5" frequency="26" logDice="3.89">
+              <comp position="1" type="headword" sloleks="LE_168e5a909129d50715b39a0ec48a197a">priklopen</comp>
+              <comp position="2" type="collocate" sloleks="LE_42b5df4302592a62c432da286741d70a">sedež</comp>
+            </collocation>
+            <collocation form="priklopna točka" cluster="6" frequency="77" logDice="3.8">
+              <comp position="1" type="headword" sloleks="LE_168e5a909129d50715b39a0ec48a197a">priklopna</comp>
+              <comp position="2" type="collocate" sloleks="LE_bb52716a00bd608f858395465b1c985a">točka</comp>
+            </collocation>
+            <collocation form="priklopna moč" cluster="7" frequency="41" logDice="3.25">
+              <comp position="1" type="headword" sloleks="LE_168e5a909129d50715b39a0ec48a197a">priklopna</comp>
+              <comp position="2" type="collocate" sloleks="LE_0b71c85c50e39f2c8cb5e91791d67af9">moč</comp>
+            </collocation>
+            <collocation form="priklopna naprava" cluster="8" frequency="10" logDice="1.18">
+              <comp position="1" type="headword" sloleks="LE_168e5a909129d50715b39a0ec48a197a">priklopna</comp>
+              <comp position="2" type="collocate" sloleks="LE_35970ca9f3b04f4bc834eb0dfdb70a08">naprava</comp>
+            </collocation>
+            <collocation form="priklopno mesto" cluster="9" frequency="33" logDice="0.55">
+              <comp position="1" type="headword" sloleks="LE_168e5a909129d50715b39a0ec48a197a">priklopno</comp>
+              <comp position="2" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesto</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="priklopen in/ali motoren" cluster="1" frequency="598" logDice="13.28">
+              <comp position="3" type="headword" sloleks="LE_168e5a909129d50715b39a0ec48a197a">priklopen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_2c7058b7bc7bb8a8032a544b29af5805">motoren</comp>
+              </collocation>
+            <collocation form="priklopen in/ali tovoren" cluster="2" frequency="78" logDice="10.0">
+              <comp position="3" type="headword" sloleks="LE_168e5a909129d50715b39a0ec48a197a">priklopen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_5dd51b4561c9b33c2faed8b1b5577142">tovoren</comp>
+              </collocation>
+            <collocation form="priklopen in/ali vlečen" cluster="3" frequency="25" logDice="9.67">
+              <comp position="3" type="headword" sloleks="LE_168e5a909129d50715b39a0ec48a197a">priklopen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_09e0adbbd2975df17e253887695b97b5|LE_dd84834000f35c82e685be87b301aac0">vlečen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

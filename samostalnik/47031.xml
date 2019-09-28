@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="47031">algebra</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">500</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Boolova algebra" cluster="1" frequency="24" logDice="11.77">
+              <comp position="1" type="collocate" sloleks="LE_0f19532c27e4142fdd23dd182ad9ce14">Boolova</comp>
+              <comp position="2" type="headword" sloleks="LE_c1c79794b600f6061937b3710b073cd9">algebra</comp>
+            </collocation>
+            <collocation form="linearna algebra" cluster="2" frequency="44" logDice="8.76">
+              <comp position="1" type="collocate" sloleks="LE_954952110ea3ea03b3afb4bbfe658423">linearna</comp>
+              <comp position="2" type="headword" sloleks="LE_c1c79794b600f6061937b3710b073cd9">algebra</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="zakon o algebri" cluster="1" frequency="4" logDice="-1.22">
+              <comp position="1" type="collocate" sloleks="LE_b3ce668b2bbbbdfa905463c113c05551">zakon</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_c1c79794b600f6061937b3710b073cd9">algebri</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="Seminar za algebro" cluster="1" frequency="4" logDice="5.47">
+              <comp position="1" type="collocate" sloleks="LE_b1e3761a328fce8e39b811f3f4de1103">Seminar</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_c1c79794b600f6061937b3710b073cd9">algebro</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

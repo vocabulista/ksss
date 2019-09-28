@@ -1,0 +1,35 @@
+<entry>
+  <header>
+    <lexical_unit id="90884">spreobrnjenec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">496</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 v sbz4">
+          <collocations>
+            <collocation form="spreobrnjenec v islam" cluster="1" frequency="8" logDice="11.1">
+              <comp position="1" type="headword" sloleks="LE_02cc881a36dbae86c4fa7566c103ef68">spreobrnjenec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_ab349fd0ca9a0f824b7f39cdf31baf7b">islam</comp>
+            </collocation>
+            <collocation form="spreobrnjenec v vero" cluster="2" frequency="7" logDice="9.61">
+              <comp position="1" type="headword" sloleks="LE_02cc881a36dbae86c4fa7566c103ef68">spreobrnjenec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_583319a05698c528b3d8a3b0f4aea875">vero</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="znan spreobrnjenec" cluster="1" frequency="16" logDice="0.92">
+              <comp position="1" type="collocate" sloleks="LE_3ca4e8269ed35ff770799effa47b0eda">znan</comp>
+              <comp position="2" type="headword" sloleks="LE_02cc881a36dbae86c4fa7566c103ef68">spreobrnjenec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

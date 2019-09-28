@@ -1,0 +1,63 @@
+<entry>
+  <header>
+    <lexical_unit id="92912">tekstopisec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1146</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="tekstopisec skupine" cluster="1" frequency="10" logDice="0.61">
+              <comp position="1" type="headword" sloleks="LE_e1cf427f0045ca5f8e34168d6e80508c">tekstopisec</comp>
+              <comp position="2" type="collocate" sloleks="LE_7a31c94cb05484f8e60e8fbc4dad6a50">skupine</comp>
+            </collocation>
+            <collocation form="hiša tekstopisca" cluster="2" frequency="10" logDice="3.56">
+              <comp position="1" type="collocate" sloleks="LE_34e4b2cb65c667c6bf374f39db0e3597">hiša</comp>
+              <comp position="2" type="headword" sloleks="LE_e1cf427f0045ca5f8e34168d6e80508c">tekstopisca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="sodelovati s tekstopiscem" cluster="1" frequency="5" logDice="1.92">
+              <comp position="1" type="collocate" sloleks="LE_f07c63c0349c27163c9542394955cec9">sodelovati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_e1cf427f0045ca5f8e34168d6e80508c">tekstopiscem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="priznan tekstopisec" cluster="1" frequency="10" logDice="2.74">
+              <comp position="1" type="collocate" sloleks="LE_666e6361b81942ddc6013aa3d5e020b2">priznan</comp>
+              <comp position="2" type="headword" sloleks="LE_e1cf427f0045ca5f8e34168d6e80508c">tekstopisec</comp>
+            </collocation>
+            <collocation form="slaven tekstopisec" cluster="1" frequency="10" logDice="2.66">
+              <comp position="1" type="collocate" sloleks="LE_412f741689616fdbd844edf33c686a25">slaven</comp>
+              <comp position="2" type="headword" sloleks="LE_e1cf427f0045ca5f8e34168d6e80508c">tekstopisec</comp>
+            </collocation>
+            <collocation form="odličen tekstopisec" cluster="2" frequency="13" logDice="1.29">
+              <comp position="1" type="collocate" sloleks="LE_5df9e790d0222ba069d884357b717d12">odličen</comp>
+              <comp position="2" type="headword" sloleks="LE_e1cf427f0045ca5f8e34168d6e80508c">tekstopisec</comp>
+            </collocation>
+            <collocation form="znan tekstopisec" cluster="3" frequency="13" logDice="0.62">
+              <comp position="1" type="collocate" sloleks="LE_3ca4e8269ed35ff770799effa47b0eda">znan</comp>
+              <comp position="2" type="headword" sloleks="LE_e1cf427f0045ca5f8e34168d6e80508c">tekstopisec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="sodelovanje s tekstopiscem" cluster="1" frequency="5" logDice="0.88">
+              <comp position="1" type="collocate" sloleks="LE_5d0ed32540572fbd41d712e9a23fadb1">sodelovanje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_e1cf427f0045ca5f8e34168d6e80508c">tekstopiscem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

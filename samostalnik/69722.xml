@@ -1,0 +1,64 @@
+<entry>
+  <header>
+    <lexical_unit id="69722">ministrant</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1204</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="ministrant za obred" cluster="1" frequency="15" logDice="6.26">
+              <comp position="1" type="headword" sloleks="LE_b3ac0cc64cfd9b6777746e85f54f6648">ministrant</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_ce6dbc4ab57623c0cf8df2a09038acb5">obred</comp>
+            </collocation>
+            <collocation form="ministrant za šolstvo" cluster="2" frequency="7" logDice="2.41">
+              <comp position="1" type="headword" sloleks="LE_b3ac0cc64cfd9b6777746e85f54f6648">ministrant</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_2556b6cae85d55ec68ba0b282dd9ade5">šolstvo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="bivši ministrant" cluster="1" frequency="21" logDice="2.92">
+              <comp position="1" type="collocate" sloleks="LE_2db2293b59177d3c2a3fb8992eee03ea">bivši</comp>
+              <comp position="2" type="headword" sloleks="LE_b3ac0cc64cfd9b6777746e85f54f6648">ministrant</comp>
+            </collocation>
+            <collocation form="mlad ministrant" cluster="2" frequency="27" logDice="0.82">
+              <comp position="1" type="collocate" sloleks="LE_0ee11dc77f2b35d3d3b7f2db250e72fb">mlad</comp>
+              <comp position="2" type="headword" sloleks="LE_b3ac0cc64cfd9b6777746e85f54f6648">ministrant</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="spremstvo ministranta" cluster="1" frequency="5" logDice="4.03">
+              <comp position="1" type="collocate" sloleks="LE_984397de69387064cba404a8961e42a7">spremstvo</comp>
+              <comp position="2" type="headword" sloleks="LE_b3ac0cc64cfd9b6777746e85f54f6648">ministranta</comp>
+            </collocation>
+            <collocation form="srečanje ministranta" cluster="2" frequency="8" logDice="2.08">
+              <comp position="1" type="collocate" sloleks="LE_779fa188c4acb969e9354bb72d376b6d">srečanje</comp>
+              <comp position="2" type="headword" sloleks="LE_b3ac0cc64cfd9b6777746e85f54f6648">ministranta</comp>
+            </collocation>
+            <collocation form="skupina ministranta" cluster="3" frequency="8" logDice="0.55">
+              <comp position="1" type="collocate" sloleks="LE_7a31c94cb05484f8e60e8fbc4dad6a50">skupina</comp>
+              <comp position="2" type="headword" sloleks="LE_b3ac0cc64cfd9b6777746e85f54f6648">ministranta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="župnik z ministrantom" cluster="1" frequency="4" logDice="9.68">
+              <comp position="1" type="collocate" sloleks="LE_4c745842a798a7eae4c134c3724844e5">župnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_b3ac0cc64cfd9b6777746e85f54f6648">ministrantom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

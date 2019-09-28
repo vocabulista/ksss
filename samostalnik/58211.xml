@@ -1,0 +1,80 @@
+<entry>
+  <header>
+    <lexical_unit id="58211">govoričenje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1004</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 o sbz5">
+          <collocations>
+            <collocation form="govoričenje o posebnosti" cluster="1" frequency="5" logDice="8.37">
+              <comp position="1" type="headword" sloleks="LE_db19780c201819d190251fba8c50103d">govoričenje</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="collocate" sloleks="LE_a5bc1dae1c58149f727eb57a682a2b45">posebnosti</comp>
+            </collocation>
+            <collocation form="govoričenje o spolnosti" cluster="2" frequency="4" logDice="6.82">
+              <comp position="1" type="headword" sloleks="LE_db19780c201819d190251fba8c50103d">govoričenje</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="collocate" sloleks="LE_6d29cf01d27b64873c80dd2df11fb504">spolnosti</comp>
+            </collocation>
+            <collocation form="govoričenje o pomenu" cluster="3" frequency="8" logDice="6.05">
+              <comp position="1" type="headword" sloleks="LE_db19780c201819d190251fba8c50103d">govoričenje</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="collocate" sloleks="LE_ef93d9cf9ab8a9c0f3eb6d73736a9dba">pomenu</comp>
+            </collocation>
+            <collocation form="govoričenje o državi" cluster="4" frequency="4" logDice="5.56">
+              <comp position="1" type="headword" sloleks="LE_db19780c201819d190251fba8c50103d">govoričenje</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">državi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za govoričenje" cluster="1" frequency="8" logDice="-0.6">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_db19780c201819d190251fba8c50103d">govoričenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="puhlo govoričenje" cluster="1" frequency="8" logDice="7.77">
+              <comp position="1" type="collocate" sloleks="LE_9db7f9d090d17e00d32a3af2f16b8c56">puhlo</comp>
+              <comp position="2" type="headword" sloleks="LE_db19780c201819d190251fba8c50103d">govoričenje</comp>
+            </collocation>
+            <collocation form="prazno govoričenje" cluster="2" frequency="94" logDice="5.66">
+              <comp position="1" type="collocate" sloleks="LE_533f0a5e914341357a01cda9a8b9e579">prazno</comp>
+              <comp position="2" type="headword" sloleks="LE_db19780c201819d190251fba8c50103d">govoričenje</comp>
+            </collocation>
+            <collocation form="neumno govoričenje" cluster="3" frequency="9" logDice="4.63">
+              <comp position="1" type="collocate" sloleks="LE_4b3bc7c6f060cc98aa40bf7d52d65edf">neumno</comp>
+              <comp position="2" type="headword" sloleks="LE_db19780c201819d190251fba8c50103d">govoričenje</comp>
+            </collocation>
+            <collocation form="nepotrebno govoričenje" cluster="4" frequency="10" logDice="3.75">
+              <comp position="1" type="collocate" sloleks="LE_77431aa6b09bf4481125b3c1154469de">nepotrebno</comp>
+              <comp position="2" type="headword" sloleks="LE_db19780c201819d190251fba8c50103d">govoričenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="beseda za govoričenje" cluster="1" frequency="4" logDice="5.07">
+              <comp position="1" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">beseda</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_db19780c201819d190251fba8c50103d">govoričenje</comp>
+            </collocation>
+            <collocation form="čas za govoričenje" cluster="2" frequency="4" logDice="0.69">
+              <comp position="1" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">čas</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_db19780c201819d190251fba8c50103d">govoričenje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

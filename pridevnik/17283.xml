@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="17283">enočlanski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">505</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="enočlansko gospodinjstvo" cluster="1" frequency="184" logDice="9.34">
+              <comp position="1" type="headword" sloleks="LE_b78aff4081a4edf42de1958f889f3390">enočlansko</comp>
+              <comp position="2" type="collocate" sloleks="LE_a984c18d8833c7631ae8127be462f14a">gospodinjstvo</comp>
+            </collocation>
+            <collocation form="enočlanska uprava" cluster="2" frequency="181" logDice="4.97">
+              <comp position="1" type="headword" sloleks="LE_b78aff4081a4edf42de1958f889f3390">enočlanska</comp>
+              <comp position="2" type="collocate" sloleks="LE_44971dda17ead413a5e8f023b8fb1f2b">uprava</comp>
+            </collocation>
+            <collocation form="enočlanska posadka" cluster="3" frequency="9" logDice="4.31">
+              <comp position="1" type="headword" sloleks="LE_b78aff4081a4edf42de1958f889f3390">enočlanska</comp>
+              <comp position="2" type="collocate" sloleks="LE_14584388345b5c5a17238216abebb30b">posadka</comp>
+            </collocation>
+            <collocation form="enočlanska družina" cluster="4" frequency="21" logDice="2.23">
+              <comp position="1" type="headword" sloleks="LE_b78aff4081a4edf42de1958f889f3390">enočlanska</comp>
+              <comp position="2" type="collocate" sloleks="LE_9a7d912c8ec5a6cbc42d2975b5563b34">družina</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="poslej enočlanski" cluster="1" frequency="8" logDice="6.81">
+              <comp position="1" type="collocate" sloleks="LE_296f871840076eeb0ef81864f366c354">poslej</comp>
+              <comp position="2" type="headword" sloleks="LE_b78aff4081a4edf42de1958f889f3390">enočlanski</comp>
+            </collocation>
+            <collocation form="odslej enočlanski" cluster="2" frequency="7" logDice="5.84">
+              <comp position="1" type="collocate" sloleks="LE_13cd0a12a4e35aa7610d01c7da09576d">odslej</comp>
+              <comp position="2" type="headword" sloleks="LE_b78aff4081a4edf42de1958f889f3390">enočlanski</comp>
+            </collocation>
+            <collocation form="zdaj enočlanski" cluster="3" frequency="6" logDice="1.11">
+              <comp position="1" type="collocate" sloleks="LE_d3f3f0cca65a8d1e1eb9565d50304e21">zdaj</comp>
+              <comp position="2" type="headword" sloleks="LE_b78aff4081a4edf42de1958f889f3390">enočlanski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

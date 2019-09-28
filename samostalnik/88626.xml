@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="88626">sinapsa</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">512</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 med sbz6">
+          <collocations>
+            <collocation form="sinapsa med celico" cluster="1" frequency="4" logDice="7.99">
+              <comp position="1" type="headword" sloleks="LE_4bbbd4de5e17620c1dc5a7f43cca1aaa">sinapsa</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_1ed881633dbb1f517bddbe0c4786e572">celico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="možganska sinapsa" cluster="1" frequency="10" logDice="4.0">
+              <comp position="1" type="collocate" sloleks="LE_53a05bc8ee6a28559ca1665e585cceb2">možganska</comp>
+              <comp position="2" type="headword" sloleks="LE_4bbbd4de5e17620c1dc5a7f43cca1aaa">sinapsa</comp>
+            </collocation>
+            <collocation form="umetna sinapsa" cluster="2" frequency="8" logDice="2.3">
+              <comp position="1" type="collocate" sloleks="LE_83b537eb9c35d882973b3281ab147173">umetna</comp>
+              <comp position="2" type="headword" sloleks="LE_4bbbd4de5e17620c1dc5a7f43cca1aaa">sinapsa</comp>
+            </collocation>
+            <collocation form="imenovana sinapsa" cluster="3" frequency="8" logDice="0.9">
+              <comp position="1" type="collocate" sloleks="LE_48445856b1ad858d1b8600c1111b730c">imenovana</comp>
+              <comp position="2" type="headword" sloleks="LE_4bbbd4de5e17620c1dc5a7f43cca1aaa">sinapsa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="moč sinapse" cluster="1" frequency="6" logDice="1.92">
+              <comp position="1" type="collocate" sloleks="LE_0b71c85c50e39f2c8cb5e91791d67af9">moč</comp>
+              <comp position="2" type="headword" sloleks="LE_4bbbd4de5e17620c1dc5a7f43cca1aaa">sinapse</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="koncentracija v sinapsi" cluster="1" frequency="5" logDice="7.34">
+              <comp position="1" type="collocate" sloleks="LE_1810daf62a8404c64857e893be9fc9f6">koncentracija</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_4bbbd4de5e17620c1dc5a7f43cca1aaa">sinapsi</comp>
+            </collocation>
+            <collocation form="sprememba v sinapsi" cluster="2" frequency="5" logDice="2.1">
+              <comp position="1" type="collocate" sloleks="LE_43a3bb7510833003ff85626ef9cc9915">sprememba</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_4bbbd4de5e17620c1dc5a7f43cca1aaa">sinapsi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

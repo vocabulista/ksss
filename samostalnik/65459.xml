@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="65459">kramar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1007</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="razen kramar" cluster="1" frequency="16" logDice="2.28">
+              <comp position="1" type="collocate" sloleks="LE_10ab2d5761b41f492d84f334d55dcdd9">razen</comp>
+              <comp position="2" type="headword" sloleks="LE_1d797eab5d3beb858d539c32efe6fa4c">kramar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="juša kramarja" cluster="1" frequency="5" logDice="9.91">
+              <comp position="1" type="collocate" sloleks="">juša</comp>
+              <comp position="2" type="headword" sloleks="LE_1d797eab5d3beb858d539c32efe6fa4c">kramarja</comp>
+            </collocation>
+            <collocation form="NLB Kramarja" cluster="2" frequency="5" logDice="5.66">
+              <comp position="1" type="collocate" sloleks="LE_db911b823e30a242fd3812acb6f8517f|LE_c6db905efa0757fff2ccc0cd1f19c13f">NLB</comp>
+              <comp position="2" type="headword" sloleks="LE_1d797eab5d3beb858d539c32efe6fa4c">Kramarja</comp>
+            </collocation>
+            <collocation form="zamenjava Kramarja" cluster="3" frequency="8" logDice="2.97">
+              <comp position="1" type="collocate" sloleks="LE_89dc543cc3b8a986ea857e73d506df5b">zamenjava</comp>
+              <comp position="2" type="headword" sloleks="LE_1d797eab5d3beb858d539c32efe6fa4c">Kramarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 brez SBZ2">
+          <collocations>
+            <collocation form="četverec brez kramarja" cluster="1" frequency="12" logDice="7.36">
+              <comp position="1" type="collocate" sloleks="LE_31ab7c485c9f8a97b21943758a748ce0">četverec</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="headword" sloleks="LE_1d797eab5d3beb858d539c32efe6fa4c">kramarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

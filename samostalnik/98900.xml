@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="98900">zbirnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">415</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="zbirnik prometa" cluster="1" frequency="22" logDice="3.6">
+              <comp position="1" type="headword" sloleks="LE_d1c96f327f82c3b015a634403953762f">zbirnik</comp>
+              <comp position="2" type="collocate" sloleks="LE_325a5cddba50a22446da08f7ab272dff">prometa</comp>
+            </collocation>
+            <collocation form="zbirnik podatka" cluster="2" frequency="9" logDice="1.01">
+              <comp position="1" type="headword" sloleks="LE_d1c96f327f82c3b015a634403953762f">zbirnik</comp>
+              <comp position="2" type="collocate" sloleks="LE_dceff032dbcde0be8f54f9dd068c8f74">podatka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="manjkajoč zbirnik" cluster="1" frequency="9" logDice="4.82">
+              <comp position="1" type="collocate" sloleks="LE_56ba311195eb343fe6ce6265edde213a">manjkajoč</comp>
+              <comp position="2" type="headword" sloleks="LE_d1c96f327f82c3b015a634403953762f">zbirnik</comp>
+            </collocation>
+            <collocation form="jezikoven zbirnik" cluster="2" frequency="10" logDice="3.46">
+              <comp position="1" type="collocate" sloleks="LE_1796465a1350d4c04d6c4a5de9a95fa2">jezikoven</comp>
+              <comp position="2" type="headword" sloleks="LE_d1c96f327f82c3b015a634403953762f">zbirnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="programiranje v zbirniku" cluster="1" frequency="8" logDice="9.47">
+              <comp position="1" type="collocate" sloleks="LE_f3aa59e44337fcd0ea1980ef26a55bbb">programiranje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_d1c96f327f82c3b015a634403953762f">zbirniku</comp>
+            </collocation>
+            <collocation form="koda v zbirniku" cluster="2" frequency="4" logDice="7.89">
+              <comp position="1" type="collocate" sloleks="LE_3a18597fdc2ef7d44751afdfb8c535d7">koda</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_d1c96f327f82c3b015a634403953762f">zbirniku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

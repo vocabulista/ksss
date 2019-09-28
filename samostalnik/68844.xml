@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="68844">meander</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">804</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="meander jezera" cluster="1" frequency="23" logDice="5.79">
+              <comp position="1" type="headword" sloleks="LE_6168dd18303362d771968b40cb6f5fbd">meander</comp>
+              <comp position="2" type="collocate" sloleks="LE_70f9f2bc080439f3fbcea8c9f00ab68d">jezera</comp>
+            </collocation>
+            <collocation form="meander reke" cluster="2" frequency="36" logDice="5.51">
+              <comp position="1" type="headword" sloleks="LE_6168dd18303362d771968b40cb6f5fbd">meander</comp>
+              <comp position="2" type="collocate" sloleks="LE_6662cfa7fb9c1345baab0f694d5a3590">reke</comp>
+            </collocation>
+            <collocation form="oblika meandra" cluster="3" frequency="10" logDice="0.69">
+              <comp position="1" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">oblika</comp>
+              <comp position="2" type="headword" sloleks="LE_6168dd18303362d771968b40cb6f5fbd">meandra</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="rečen meander" cluster="1" frequency="20" logDice="4.8">
+              <comp position="1" type="collocate" sloleks="LE_060a6b25729348633d14f37f873aa6e6|LE_183d5da8633130663bd271cd421da0d6">rečen</comp>
+              <comp position="2" type="headword" sloleks="LE_6168dd18303362d771968b40cb6f5fbd">meander</comp>
+            </collocation>
+            <collocation form="številen meander" cluster="1" frequency="17" logDice="0.59">
+              <comp position="1" type="collocate" sloleks="LE_4f31fb911f8a68938dce145d431affa8">številen</comp>
+              <comp position="2" type="headword" sloleks="LE_6168dd18303362d771968b40cb6f5fbd">meander</comp>
+            </collocation>
+            <collocation form="ozek meander" cluster="2" frequency="9" logDice="2.22">
+              <comp position="1" type="collocate" sloleks="LE_4614cf1a5c1221c50c89424a18f81d27">ozek</comp>
+              <comp position="2" type="headword" sloleks="LE_6168dd18303362d771968b40cb6f5fbd">meander</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="struga v meandru" cluster="1" frequency="4" logDice="9.37">
+              <comp position="1" type="collocate" sloleks="LE_444c20cd9914fa6b538967ef3efb6f58">struga</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_6168dd18303362d771968b40cb6f5fbd">meandru</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

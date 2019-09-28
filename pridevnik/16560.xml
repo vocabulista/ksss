@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="16560">dopolnjujoč</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">451</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="dopolnjujoč portfelj" cluster="1" frequency="6" logDice="6.02">
+              <comp position="1" type="headword" sloleks="LE_b54ba474c290c4ad203b919c6ab9fb9c">dopolnjujoč</comp>
+              <comp position="2" type="collocate" sloleks="LE_145116a4b1ca6af7bc1bcdbf3d3252b8">portfelj</comp>
+            </collocation>
+            <collocation form="dopolnjujoče nasprotje" cluster="2" frequency="13" logDice="4.87">
+              <comp position="1" type="headword" sloleks="LE_b54ba474c290c4ad203b919c6ab9fb9c">dopolnjujoče</comp>
+              <comp position="2" type="collocate" sloleks="LE_856a910b1c3332ccea09cc03944b7de2">nasprotje</comp>
+            </collocation>
+            <collocation form="dopolnjujoča celota" cluster="3" frequency="6" logDice="4.03">
+              <comp position="1" type="headword" sloleks="LE_b54ba474c290c4ad203b919c6ab9fb9c">dopolnjujoča</comp>
+              <comp position="2" type="collocate" sloleks="LE_2b6fa15c45cebff40d7537ca524056db">celota</comp>
+            </collocation>
+            <collocation form="dopolnjujoč vidik" cluster="4" frequency="6" logDice="2.19">
+              <comp position="1" type="headword" sloleks="LE_b54ba474c290c4ad203b919c6ab9fb9c">dopolnjujoč</comp>
+              <comp position="2" type="collocate" sloleks="LE_be1da62d7bc0dde0de684583bfe342d2">vidik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="dopolnjujoč in/ali prepletajoč" cluster="1" frequency="6" logDice="11.52">
+              <comp position="3" type="headword" sloleks="LE_b54ba474c290c4ad203b919c6ab9fb9c">dopolnjujoč</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_58783fa4944cd899b86e229d61e3b3f1">prepletajoč</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="harmonično dopolnjujoč" cluster="1" frequency="5" logDice="8.87">
+              <comp position="1" type="collocate" sloleks="LE_38a504e14d0b691724635786ad6e5057">harmonično</comp>
+              <comp position="2" type="headword" sloleks="LE_b54ba474c290c4ad203b919c6ab9fb9c">dopolnjujoč</comp>
+            </collocation>
+            <collocation form="medsebojno dopolnjujoč" cluster="2" frequency="20" logDice="7.53">
+              <comp position="1" type="collocate" sloleks="LE_3d037f404c0b05ec06697488cd7bcc43">medsebojno</comp>
+              <comp position="2" type="headword" sloleks="LE_b54ba474c290c4ad203b919c6ab9fb9c">dopolnjujoč</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

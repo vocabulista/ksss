@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="64586">konceptualizacija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">413</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="konceptualizacija prostora" cluster="1" frequency="18" logDice="2.5">
+              <comp position="1" type="headword" sloleks="LE_267dccda135cb39e07f0e57e0a213f4b">konceptualizacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_3e5464f8155908f096e26eab4ddba138">prostora</comp>
+            </collocation>
+            <collocation form="poskus konceptualizacije" cluster="2" frequency="13" logDice="3.19">
+              <comp position="1" type="collocate" sloleks="LE_19dcd14233df546347e75246f46de4c4">poskus</comp>
+              <comp position="2" type="headword" sloleks="LE_267dccda135cb39e07f0e57e0a213f4b">konceptualizacije</comp>
+            </collocation>
+            <collocation form="proces konceptualizacije" cluster="3" frequency="9" logDice="2.45">
+              <comp position="1" type="collocate" sloleks="LE_16c53d1ebb90a9bc6324b676ef5003b8">proces</comp>
+              <comp position="2" type="headword" sloleks="LE_267dccda135cb39e07f0e57e0a213f4b">konceptualizacije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="abstraktna konceptualizacija" cluster="1" frequency="35" logDice="7.05">
+              <comp position="1" type="collocate" sloleks="LE_f511eac74ff254642bd8ceb3a945bf26">abstraktna</comp>
+              <comp position="2" type="headword" sloleks="LE_267dccda135cb39e07f0e57e0a213f4b">konceptualizacija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

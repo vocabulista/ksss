@@ -1,0 +1,62 @@
+<entry>
+  <header>
+    <lexical_unit id="38368">zagozden</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">469</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 med sbz6">
+          <collocations>
+            <collocation form="zagozden med drevesom" cluster="1" frequency="11" logDice="11.62">
+              <comp position="1" type="headword" sloleks="LE_733822b4eb73c516056b442ca1a2ba0a">zagozden</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_7a1f2dd83e27565cc4158203cecb3b91">drevesom</comp>
+            </collocation>
+            <collocation form="zagozden med skalo" cluster="2" frequency="8" logDice="11.47">
+              <comp position="1" type="headword" sloleks="LE_733822b4eb73c516056b442ca1a2ba0a">zagozden</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_7b56f46b2b5bc0ebd73e0fbaef7c7218">skalo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 pod sbz6">
+          <collocations>
+            <collocation form="zagozden pod vlakom" cluster="1" frequency="4" logDice="12.6">
+              <comp position="1" type="headword" sloleks="LE_733822b4eb73c516056b442ca1a2ba0a">zagozden</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="collocate" sloleks="LE_411b11f088c5e3369c39b29f8f62a41d">vlakom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 v sbz4">
+          <collocations>
+            <collocation form="zagozden v zaliv" cluster="1" frequency="4" logDice="10.95">
+              <comp position="1" type="headword" sloleks="LE_733822b4eb73c516056b442ca1a2ba0a">zagozden</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_039e24eff82d7818d2577fac8c64eca9">zaliv</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 z sbz6">
+          <collocations>
+            <collocation form="zagozden z zagozdo" cluster="1" frequency="6" logDice="12.41">
+              <comp position="1" type="headword" sloleks="LE_733822b4eb73c516056b442ca1a2ba0a">zagozden</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_e9a13618cdfdffa777470fbde8eaaf37">zagozdo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="trdno zagozden" cluster="1" frequency="6" logDice="3.97">
+              <comp position="1" type="collocate" sloleks="LE_de79b48e6eaa0eb4f1a564e5b5812260">trdno</comp>
+              <comp position="2" type="headword" sloleks="LE_733822b4eb73c516056b442ca1a2ba0a">zagozden</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

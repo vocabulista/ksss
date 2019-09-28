@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="72623">nepriljubljenost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">497</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="nepriljubljenost vlade" cluster="1" frequency="31" logDice="2.06">
+              <comp position="1" type="headword" sloleks="LE_785b92f28d0979f62cb37b29e60a5029">nepriljubljenost</comp>
+              <comp position="2" type="collocate" sloleks="LE_63d183132c68728be91773043828fb2d">vlade</comp>
+            </collocation>
+            <collocation form="nepriljubljenost predsednika" cluster="2" frequency="14" logDice="1.91">
+              <comp position="1" type="headword" sloleks="LE_785b92f28d0979f62cb37b29e60a5029">nepriljubljenost</comp>
+              <comp position="2" type="collocate" sloleks="LE_7b6970ef8cd5ab25e1b3915be0c536bd">predsednika</comp>
+            </collocation>
+            <collocation form="vzrok nepriljubljenosti" cluster="3" frequency="7" logDice="3.07">
+              <comp position="1" type="collocate" sloleks="LE_512feae3d46dd338651f56dfb32f271e">vzrok</comp>
+              <comp position="2" type="headword" sloleks="LE_785b92f28d0979f62cb37b29e60a5029">nepriljubljenosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="kazati na nepriljubljenost" cluster="1" frequency="5" logDice="2.58">
+              <comp position="1" type="collocate" sloleks="LE_0ed3c23f956dfe4ad282574a548ad17d">kazati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_785b92f28d0979f62cb37b29e60a5029">nepriljubljenost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="splošna nepriljubljenost" cluster="1" frequency="11" logDice="1.13">
+              <comp position="1" type="collocate" sloleks="LE_cdc9eac54f463ddd7c00de56a4c1e7f5">splošna</comp>
+              <comp position="2" type="headword" sloleks="LE_785b92f28d0979f62cb37b29e60a5029">nepriljubljenost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="vzrok za nepriljubljenost" cluster="1" frequency="8" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_512feae3d46dd338651f56dfb32f271e">vzrok</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_785b92f28d0979f62cb37b29e60a5029">nepriljubljenost</comp>
+            </collocation>
+            <collocation form="razlog za nepriljubljenost" cluster="2" frequency="13" logDice="2.48">
+              <comp position="1" type="collocate" sloleks="LE_26c1514e5bfab4dd2b04f4e4711659e1">razlog</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_785b92f28d0979f62cb37b29e60a5029">nepriljubljenost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

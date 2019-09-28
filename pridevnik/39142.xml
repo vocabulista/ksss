@@ -1,0 +1,74 @@
+<entry>
+  <header>
+    <lexical_unit id="39142">žigosan</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">655</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="žigosan ali nežigosan" cluster="1" frequency="13" logDice="11.41">
+              <comp position="1" type="headword" sloleks="LE_73802090ea404935804dfafea9ad2f2a">žigosan</comp>
+              <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_3a4a52504a7b6e582c7c00f83ee0ccd5">nežigosan</comp>
+            </collocation>
+            <collocation form="žigosan in/ali podpisan" cluster="2" frequency="87" logDice="11.19">
+              <comp position="3" type="headword" sloleks="LE_73802090ea404935804dfafea9ad2f2a">žigosan</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_1fb47184fa62616d7e8971a8b841e2a7">podpisan</comp>
+              </collocation>
+            <collocation form="žigosan in/ali pregledan" cluster="3" frequency="11" logDice="9.49">
+              <comp position="3" type="headword" sloleks="LE_73802090ea404935804dfafea9ad2f2a">žigosan</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_9629cdabca716078f37a6be089e89cce">pregledan</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="žigosan bankovec" cluster="1" frequency="8" logDice="5.26">
+              <comp position="1" type="headword" sloleks="LE_73802090ea404935804dfafea9ad2f2a">žigosan</comp>
+              <comp position="2" type="collocate" sloleks="LE_d55768c50d5e8b5f41797aa9c41e83b6">bankovec</comp>
+            </collocation>
+            <collocation form="žigosan primerek" cluster="2" frequency="13" logDice="5.06">
+              <comp position="1" type="headword" sloleks="LE_73802090ea404935804dfafea9ad2f2a">žigosan</comp>
+              <comp position="2" type="collocate" sloleks="LE_94eee3c43378739d78caa386276dd88d">primerek</comp>
+            </collocation>
+            <collocation form="žigosan obrazec" cluster="3" frequency="14" logDice="4.89">
+              <comp position="1" type="headword" sloleks="LE_73802090ea404935804dfafea9ad2f2a">žigosan</comp>
+              <comp position="2" type="collocate" sloleks="LE_4e1a09c6d3fc1d46868289c310c75ddf">obrazec</comp>
+            </collocation>
+            <collocation form="žigosana kopija" cluster="4" frequency="6" logDice="4.24">
+              <comp position="1" type="headword" sloleks="LE_73802090ea404935804dfafea9ad2f2a">žigosana</comp>
+              <comp position="2" type="collocate" sloleks="LE_dd0940eed247f743100a6d188a6b53ee">kopija</comp>
+            </collocation>
+            <collocation form="žigosana znamka" cluster="5" frequency="70" logDice="4.08">
+              <comp position="1" type="headword" sloleks="LE_73802090ea404935804dfafea9ad2f2a">žigosana</comp>
+              <comp position="2" type="collocate" sloleks="LE_014a91896ff8a6fc2803a2ad2f508b8b">znamka</comp>
+            </collocation>
+            <collocation form="žigosan mesec" cluster="6" frequency="9" logDice="0.85">
+              <comp position="1" type="headword" sloleks="LE_73802090ea404935804dfafea9ad2f2a">žigosan</comp>
+              <comp position="2" type="collocate" sloleks="LE_d87e72e2a6ded77b0ae520112759ad42">mesec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 z sbz6">
+          <collocations>
+            <collocation form="žigosan z žigom" cluster="1" frequency="66" logDice="12.58">
+              <comp position="1" type="headword" sloleks="LE_73802090ea404935804dfafea9ad2f2a">žigosan</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_4f60a924045bea0779fab8612c402188">žigom</comp>
+            </collocation>
+            <collocation form="žigosan z oznako" cluster="2" frequency="6" logDice="7.45">
+              <comp position="1" type="headword" sloleks="LE_73802090ea404935804dfafea9ad2f2a">žigosan</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_c30284008706011d571d9d77b13dc6f8">oznako</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

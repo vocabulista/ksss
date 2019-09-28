@@ -1,0 +1,396 @@
+<entry>
+  <header>
+    <lexical_unit id="61099">izletnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">4602</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="izletnik iz konca" cluster="1" frequency="6" logDice="6.02">
+              <comp position="1" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_d8d1737076777d9839ea949a2b88751a">konca</comp>
+            </collocation>
+            <collocation form="izletnik iz kraja" cluster="2" frequency="6" logDice="4.53">
+              <comp position="1" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_7f68ad51dbf6aa81c1b08f8afa92155d">kraja</comp>
+            </collocation>
+            <collocation form="izletnik iz Slovenije" cluster="3" frequency="20" logDice="4.49">
+              <comp position="1" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Slovenije</comp>
+            </collocation>
+            <collocation form="izletnik iz Celja" cluster="4" frequency="6" logDice="3.66">
+              <comp position="1" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_aad3dc2c16f27182109d44b8e52beb04">Celja</comp>
+            </collocation>
+            <collocation form="izletnik iz Ljubljane" cluster="5" frequency="6" logDice="2.31">
+              <comp position="1" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee11c4f6f901052d38c8252202477c9e">Ljubljane</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="izletnik na izlet" cluster="1" frequency="5" logDice="6.03">
+              <comp position="1" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_dd48061d661bc37cbc1c16e5e96d2b1a">izlet</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="izletnik v avtobusu" cluster="1" frequency="4" logDice="6.27">
+              <comp position="1" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_34cfc2510315ef069b1f61b563285e07">avtobusu</comp>
+            </collocation>
+            <collocation form="izletnik v Celju" cluster="2" frequency="10" logDice="2.75">
+              <comp position="1" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_aad3dc2c16f27182109d44b8e52beb04">Celju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="izletnik s konca" cluster="1" frequency="4" logDice="4.02">
+              <comp position="1" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_d8d1737076777d9839ea949a2b88751a">konca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="izletnik z lopatko" cluster="1" frequency="4" logDice="9.76">
+              <comp position="1" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_013daa7f7b9f29311952ce320fd402c0">lopatko</comp>
+            </collocation>
+            <collocation form="izletnik s prevozom" cluster="2" frequency="7" logDice="7.37">
+              <comp position="1" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_08fc8e00213589633e3b30c746c02ba6">prevozom</comp>
+            </collocation>
+            <collocation form="izletnik z avtobusom" cluster="3" frequency="10" logDice="6.0">
+              <comp position="1" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_34cfc2510315ef069b1f61b563285e07">avtobusom</comp>
+            </collocation>
+            <collocation form="avtobus z izletnikom" cluster="4" frequency="14" logDice="8.14">
+              <comp position="1" type="collocate" sloleks="LE_34cfc2510315ef069b1f61b563285e07">avtobus</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnikom</comp>
+            </collocation>
+            <collocation form="izlet z izletnikom" cluster="5" frequency="4" logDice="5.57">
+              <comp position="1" type="collocate" sloleks="LE_dd48061d661bc37cbc1c16e5e96d2b1a">izlet</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnikom</comp>
+            </collocation>
+            <collocation form="dogovor z izletnikom" cluster="6" frequency="4" logDice="3.06">
+              <comp position="1" type="collocate" sloleks="LE_46887c5eb5e3e088095d5a7a3f7d66ea">dogovor</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnikom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ3">
+          <collocations>
+            <collocation form="pridružiti izletniku" cluster="1" frequency="12" logDice="4.25">
+              <comp position="1" type="collocate" sloleks="LE_f309a4c4fec6e3014e1953727725d8a5">pridružiti</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletniku</comp>
+            </collocation>
+            <collocation form="ponuditi izletniku" cluster="2" frequency="11" logDice="4.04">
+              <comp position="1" type="collocate" sloleks="LE_9146e9963fc7ef8627eba1d0c8195d83">ponuditi</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletniku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="privabljati izletnika" cluster="1" frequency="16" logDice="6.58">
+              <comp position="1" type="collocate" sloleks="LE_1df32bae9b83c5428425c4f1024a9276">privabljati</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="privabiti izletnika" cluster="1" frequency="16" logDice="5.7">
+              <comp position="1" type="collocate" sloleks="LE_17924839290db306b07ed042d7666049">privabiti</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="vabiti izletnika" cluster="1" frequency="13" logDice="4.61">
+              <comp position="1" type="collocate" sloleks="LE_bf3a1728028bb8ec263f84d8b370cef0">vabiti</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="popeljati izletnika" cluster="2" frequency="17" logDice="6.41">
+              <comp position="1" type="collocate" sloleks="LE_77b1073b76269ca499d522b685747573">popeljati</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="voziti izletnika" cluster="2" frequency="12" logDice="4.55">
+              <comp position="1" type="collocate" sloleks="LE_a5dbc789e94ecbcd6944586a415ba94d">voziti</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="pripeljati izletnika" cluster="2" frequency="9" logDice="3.35">
+              <comp position="1" type="collocate" sloleks="LE_c9f2178441b58109ccf0362126aad793">pripeljati</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="voditi izletnika" cluster="2" frequency="8" logDice="1.66">
+              <comp position="1" type="collocate" sloleks="LE_b044981ae81c995865d0ad4c2cd7b62b">voditi</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz med SBZ6">
+          <collocations>
+            <collocation form="izžrebati med izletnikom" cluster="1" frequency="4" logDice="7.91">
+              <comp position="1" type="collocate" sloleks="LE_e73c29be418ec0c126720c67849d9385">izžrebati</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnikom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="enodneven izletnik" cluster="1" frequency="56" logDice="7.36">
+              <comp position="1" type="collocate" sloleks="LE_b5f18cd3d6fddeba659de1c3232f3da9">enodneven</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+            </collocation>
+            <collocation form="dneven izletnik" cluster="1" frequency="16" logDice="1.95">
+              <comp position="1" type="collocate" sloleks="LE_4c479b34ed9f1760973f9ba538231314">dneven</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+            </collocation>
+            <collocation form="Večerov izletnik" cluster="2" frequency="13" logDice="6.86">
+              <comp position="1" type="collocate" sloleks="LE_a72627d4d8d0040639a863cf4a9f41c1">Večerov</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+            </collocation>
+            <collocation form="vesel izletnik" cluster="3" frequency="9" logDice="2.14">
+              <comp position="1" type="collocate" sloleks="LE_39ee63ee25ea31bdb9d083c20b835716">vesel</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+            </collocation>
+            <collocation form="namenjen izletnik" cluster="4" frequency="13" logDice="1.31">
+              <comp position="1" type="collocate" sloleks="LE_eed44a3aaf6fe7ffbbb56cff0a5bde3b">namenjen</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+            </collocation>
+            <collocation form="poln izletnik" cluster="5" frequency="12" logDice="1.0">
+              <comp position="1" type="collocate" sloleks="LE_ba66920997eaf6ebf1b95667348fc4c3">poln</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+            </collocation>
+            <collocation form="številen izletnik" cluster="6" frequency="83" logDice="2.88">
+              <comp position="1" type="collocate" sloleks="LE_4f31fb911f8a68938dce145d431affa8">številen</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+            </collocation>
+            <collocation form="domač izletnik" cluster="6" frequency="20" logDice="0.55">
+              <comp position="1" type="collocate" sloleks="LE_a5a1f45c0526da991f5e1fe1ef9f90f5">domač</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+            </collocation>
+            <collocation form="tuj izletnik" cluster="6" frequency="12" logDice="0.64">
+              <comp position="1" type="collocate" sloleks="LE_63bb1d06a0acaae554971154531d3e14">tuj</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+            </collocation>
+            <collocation form="ostal izletnik" cluster="6" frequency="8" logDice="0.94">
+              <comp position="1" type="collocate" sloleks="LE_a35d925fc34619135ca715f633027fd4">ostal</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+            </collocation>
+            <collocation form="žejen izletnik" cluster="7" frequency="8" logDice="6.2">
+              <comp position="1" type="collocate" sloleks="LE_fda63a7f85a365a27785ef44f4ddd0e5">žejen</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+            </collocation>
+            <collocation form="nedeljski izletnik" cluster="8" frequency="76" logDice="5.35">
+              <comp position="1" type="collocate" sloleks="LE_a618d9c6d37c77c01cb3e7b1ad4009ed">nedeljski</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+            </collocation>
+            <collocation form="naključen izletnik" cluster="9" frequency="12" logDice="4.9">
+              <comp position="1" type="collocate" sloleks="LE_1ffad636990f69229eca7dc86296071e">naključen</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+            </collocation>
+            <collocation form="lačen izletnik" cluster="10" frequency="10" logDice="4.9">
+              <comp position="1" type="collocate" sloleks="LE_74dd4b00f9dd1242a2ed646c42c1f98d">lačen</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+            </collocation>
+            <collocation form="željan izletnik" cluster="11" frequency="8" logDice="4.25">
+              <comp position="1" type="collocate" sloleks="LE_461cca4de68b476454f13c82b10570fc|LE_e8fe7ad5640940f254d1d0cdc3982e7e">željan</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+            </collocation>
+            <collocation form="celjski izletnik" cluster="12" frequency="58" logDice="3.78">
+              <comp position="1" type="collocate" sloleks="LE_e6cc1c417aac41b99f591e7e730d043e">celjski</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+            </collocation>
+            <collocation form="avtobusen izletnik" cluster="13" frequency="8" logDice="3.24">
+              <comp position="1" type="collocate" sloleks="LE_f40896ee888feeaeb354f702923520fc">avtobusen</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ3">
+          <collocations>
+            <collocation form="prilagojen izletniku" cluster="1" frequency="7" logDice="6.17">
+              <comp position="1" type="collocate" sloleks="LE_35979236356be80cd1b44a7642b5a93f">prilagojen</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletniku</comp>
+            </collocation>
+            <collocation form="namenjen izletniku" cluster="2" frequency="6" logDice="2.03">
+              <comp position="1" type="collocate" sloleks="LE_eed44a3aaf6fe7ffbbb56cff0a5bde3b">namenjen</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletniku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 za SBZ4">
+          <collocations>
+            <collocation form="privlačen za izletnika" cluster="1" frequency="5" logDice="6.22">
+              <comp position="1" type="collocate" sloleks="LE_c88c3b6c53ea7b4a89a1ff941c257abc">privlačen</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="zanimiv za izletnika" cluster="2" frequency="9" logDice="5.24">
+              <comp position="1" type="collocate" sloleks="LE_457382739f4bad61cb10e5eaedfe0425">zanimiv</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz SBZ2">
+          <collocations>
+            <collocation form="precej izletnika" cluster="1" frequency="8" logDice="2.01">
+              <comp position="1" type="collocate" sloleks="LE_e0671a56c827200d0ebc033694e6214b">precej</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="veliko izletnika" cluster="2" frequency="29" logDice="1.54">
+              <comp position="1" type="collocate" sloleks="LE_431ef7ec57af288ca0e781bb12f6e7f0">veliko</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="več izletnika" cluster="2" frequency="28" logDice="0.91">
+              <comp position="1" type="collocate" sloleks="LE_35a40117ea9b0ca39c7a43d940592d29">več</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="največ izletnika" cluster="3" frequency="10" logDice="1.51">
+              <comp position="1" type="collocate" sloleks="LE_8d628c69b249ded817d7ad2cae1d9a95">največ</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="avtobus izletnika" cluster="1" frequency="57" logDice="8.6">
+              <comp position="1" type="collocate" sloleks="LE_34cfc2510315ef069b1f61b563285e07">avtobus</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="truma izletnika" cluster="2" frequency="5" logDice="5.88">
+              <comp position="1" type="collocate" sloleks="LE_720b6e410d576f28cd80b7baec434c97">truma</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="obisk izletnika" cluster="3" frequency="16" logDice="2.85">
+              <comp position="1" type="collocate" sloleks="LE_b8c2d2adf31d1e34a582d21c6efe5e02">obisk</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="odhod izletnika" cluster="3" frequency="5" logDice="2.86">
+              <comp position="1" type="collocate" sloleks="LE_86a9bbe71d37fb4b03e270de78812538">odhod</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="direktor Izletnika" cluster="4" frequency="12" logDice="0.69">
+              <comp position="1" type="collocate" sloleks="LE_763835e34caf105b4a0b3bffedd2d5af">direktor</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">Izletnika</comp>
+            </collocation>
+            <collocation form="voznik Izletnika" cluster="4" frequency="8" logDice="2.56">
+              <comp position="1" type="collocate" sloleks="LE_4b861123b30bbee1260eeaec5a436720">voznik</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">Izletnika</comp>
+            </collocation>
+            <collocation form="lastnik Izletnika" cluster="4" frequency="6" logDice="0.56">
+              <comp position="1" type="collocate" sloleks="LE_66c7de1ac3f03dd18265b3091c93bdc0">lastnik</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">Izletnika</comp>
+            </collocation>
+            <collocation form="število izletnika" cluster="5" frequency="42" logDice="2.19">
+              <comp position="1" type="collocate" sloleks="LE_59f757c87d8de95cdfd38f88b75245a6">število</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="večina izletnika" cluster="5" frequency="24" logDice="1.45">
+              <comp position="1" type="collocate" sloleks="LE_72538287b447b4b7a75d1faf227dd3da">večina</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="cilj izletnika" cluster="6" frequency="38" logDice="4.39">
+              <comp position="1" type="collocate" sloleks="LE_b464dad2fdf74c26f763918a785d788e">cilj</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="točka izletnika" cluster="6" frequency="11" logDice="1.94">
+              <comp position="1" type="collocate" sloleks="LE_bb52716a00bd608f858395465b1c985a">točka</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="pot izletnika" cluster="6" frequency="5" logDice="1.84">
+              <comp position="1" type="collocate" sloleks="LE_6f8aa8d4e7c0d678fee98b890a6d1964|LE_97291a922b54c3ec42af6728cfcc7ab2">pot</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="delnica Izletnika" cluster="7" frequency="7" logDice="1.65">
+              <comp position="1" type="collocate" sloleks="LE_a4c3bc7b70a19466bd299690c070a28a">delnica</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">Izletnika</comp>
+            </collocation>
+            <collocation form="skupina izletnika" cluster="8" frequency="98" logDice="4.16">
+              <comp position="1" type="collocate" sloleks="LE_7a31c94cb05484f8e60e8fbc4dad6a50">skupina</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="enota izletnika" cluster="8" frequency="9" logDice="2.89">
+              <comp position="1" type="collocate" sloleks="LE_5b2baaa4fc466ab2dbf8c640e98f7c08">enota</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="narod izletnika" cluster="8" frequency="8" logDice="5.32">
+              <comp position="1" type="collocate" sloleks="LE_467863326a5651026d6c2e7a67b4936b">narod</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="direktorica Izletnika" cluster="9" frequency="44" logDice="5.13">
+              <comp position="1" type="collocate" sloleks="LE_72a15dfd6593eff01e6b0cec41b97a7b">direktorica</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">Izletnika</comp>
+            </collocation>
+            <collocation form="množica izletnika" cluster="10" frequency="24" logDice="4.27">
+              <comp position="1" type="collocate" sloleks="LE_7d16fbe97018e676409272758b6a725b">množica</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="tisoči izletnika" cluster="11" frequency="7" logDice="3.49">
+              <comp position="1" type="collocate" sloleks="LE_24f388b82f303db9a3010c036c36a475">tisoči</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="prevzem Izletnika" cluster="12" frequency="10" logDice="3.18">
+              <comp position="1" type="collocate" sloleks="LE_b2ead7df4b8143cd79c44cccaf330161">prevzem</comp>
+              <comp position="2" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">Izletnika</comp>
+            </collocation>
+            <collocation form="izletnik glasu" cluster="13" frequency="13" logDice="3.14">
+              <comp position="1" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnik</comp>
+              <comp position="2" type="collocate" sloleks="LE_bdaf56c7a9eddd2562b11c97c0770037">glasu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="TV za izletnika" cluster="1" frequency="8" logDice="9.39">
+              <comp position="1" type="collocate" sloleks="LE_5e1aa9e018be97365d565c0081fdc474|LE_dd7e2ae673214cfa8708051f5146d806">TV</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="vodnik za izletnika" cluster="2" frequency="10" logDice="8.07">
+              <comp position="1" type="collocate" sloleks="LE_0687e35f4d45ca878cdb9b6070d2144d">vodnik</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="magnet za izletnika" cluster="3" frequency="6" logDice="6.47">
+              <comp position="1" type="collocate" sloleks="LE_a8ce778bb4d1c71962a411b100001b6f">magnet</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="raj za izletnika" cluster="4" frequency="6" logDice="5.88">
+              <comp position="1" type="collocate" sloleks="LE_453b13070ded94ac64803e316c46dd6a">raj</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+            <collocation form="točka za izletnika" cluster="5" frequency="4" logDice="3.61">
+              <comp position="1" type="collocate" sloleks="LE_bb52716a00bd608f858395465b1c985a">točka</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_e98eebb759e9e89aa28f5fafc7a8c32d">izletnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

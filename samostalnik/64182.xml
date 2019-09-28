@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="64182">kokalj</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">394</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="kokalj za delo" cluster="1" frequency="17" logDice="2.19">
+              <comp position="1" type="headword" sloleks="LE_8ddb6fcc20d80f4e70b3a543f5531aa7">kokalj</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Anton Kokalja" cluster="1" frequency="9" logDice="4.16">
+              <comp position="1" type="collocate" sloleks="LE_456858aa999b2b8b3d63d0ad308b30ea">Anton</comp>
+              <comp position="2" type="headword" sloleks="LE_8ddb6fcc20d80f4e70b3a543f5531aa7">Kokalja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

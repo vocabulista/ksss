@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="71750">navijalo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">411</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="navijalo za vrvico" cluster="1" frequency="4" logDice="9.24">
+              <comp position="1" type="headword" sloleks="LE_7471657586563e977190a0a710033621">navijalo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_c53d3cf9acf78e81f5818617af012224">vrvico</comp>
+            </collocation>
+            <collocation form="navijalo za klub" cluster="2" frequency="8" logDice="6.41">
+              <comp position="1" type="headword" sloleks="LE_7471657586563e977190a0a710033621">navijalo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_205ce919e68ed95a2dc64567475887d3">klub</comp>
+            </collocation>
+            <collocation form="navijalo za ekipo" cluster="3" frequency="7" logDice="5.78">
+              <comp position="1" type="headword" sloleks="LE_7471657586563e977190a0a710033621">navijalo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_b9e9e733fb718cd2faed16b97326064f">ekipo</comp>
+            </collocation>
+            <collocation form="navijalo za Slovenijo" cluster="4" frequency="9" logDice="3.72">
+              <comp position="1" type="headword" sloleks="LE_7471657586563e977190a0a710033621">navijalo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Slovenijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="srce navijala" cluster="1" frequency="5" logDice="3.37">
+              <comp position="1" type="collocate" sloleks="LE_d24995e836bb300ecd1d5cd3d7e5f543">srce</comp>
+              <comp position="2" type="headword" sloleks="LE_7471657586563e977190a0a710033621">navijala</comp>
+            </collocation>
+            <collocation form="Slovenija navijala" cluster="2" frequency="5" logDice="2.09">
+              <comp position="1" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Slovenija</comp>
+              <comp position="2" type="headword" sloleks="LE_7471657586563e977190a0a710033621">navijala</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

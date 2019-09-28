@@ -1,0 +1,73 @@
+<entry>
+  <header>
+    <lexical_unit id="25740">nepravden</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1394</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="nepravden postopek" cluster="1" frequency="1033" logDice="7.18">
+              <comp position="1" type="headword" sloleks="LE_fb35662fc9d7f637899f6db4e44b7723">nepravden</comp>
+              <comp position="2" type="collocate" sloleks="LE_775481f1f5ba42be7d6b3125176050cb">postopek</comp>
+            </collocation>
+            <collocation form="nepravden vpisnik" cluster="2" frequency="6" logDice="6.63">
+              <comp position="1" type="headword" sloleks="LE_fb35662fc9d7f637899f6db4e44b7723">nepravden</comp>
+              <comp position="2" type="collocate" sloleks="LE_98473abaf09f8455246b679939f1db57">vpisnik</comp>
+            </collocation>
+            <collocation form="nepravden oddelek" cluster="3" frequency="59" logDice="4.85">
+              <comp position="1" type="headword" sloleks="LE_fb35662fc9d7f637899f6db4e44b7723">nepravden</comp>
+              <comp position="2" type="collocate" sloleks="LE_f73286dd6f89a4307b05a1a8ffe3e326">oddelek</comp>
+            </collocation>
+            <collocation form="nepravdna zadeva" cluster="4" frequency="143" logDice="4.58">
+              <comp position="1" type="headword" sloleks="LE_fb35662fc9d7f637899f6db4e44b7723">nepravdna</comp>
+              <comp position="2" type="collocate" sloleks="LE_4aa8d2e0c34be9b2fa77533511451a66">zadeva</comp>
+            </collocation>
+            <collocation form="nepravdno pravo" cluster="5" frequency="15" logDice="3.48">
+              <comp position="1" type="headword" sloleks="LE_fb35662fc9d7f637899f6db4e44b7723">nepravdno</comp>
+              <comp position="2" type="collocate" sloleks="LE_57d25ef076cc8d9b8a6d74e69a80c007">pravo</comp>
+            </collocation>
+            <collocation form="nepravdna pisarna" cluster="6" frequency="9" logDice="3.01">
+              <comp position="1" type="headword" sloleks="LE_fb35662fc9d7f637899f6db4e44b7723">nepravdna</comp>
+              <comp position="2" type="collocate" sloleks="LE_ada0b3b67080bfe4f736eaed10233e9f">pisarna</comp>
+            </collocation>
+            <collocation form="nepravdno sodišče" cluster="7" frequency="39" logDice="1.92">
+              <comp position="1" type="headword" sloleks="LE_fb35662fc9d7f637899f6db4e44b7723">nepravdno</comp>
+              <comp position="2" type="collocate" sloleks="LE_989f65b9e9021c2bfb10c5161a6e59ab">sodišče</comp>
+            </collocation>
+            <collocation form="nepravden sodnik" cluster="8" frequency="9" logDice="1.79">
+              <comp position="1" type="headword" sloleks="LE_fb35662fc9d7f637899f6db4e44b7723">nepravden</comp>
+              <comp position="2" type="collocate" sloleks="LE_dc0300c802ff98b1bb1078da111d532d">sodnik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="nepravden in/ali zapuščinski" cluster="1" frequency="26" logDice="12.31">
+              <comp position="3" type="headword" sloleks="LE_fb35662fc9d7f637899f6db4e44b7723">nepravden</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_1c2770aaee2cabb5f08b795784bdb428">zapuščinski</comp>
+              </collocation>
+            <collocation form="nepravden in/ali pravden" cluster="2" frequency="51" logDice="12.19">
+              <comp position="3" type="headword" sloleks="LE_fb35662fc9d7f637899f6db4e44b7723">nepravden</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_b779db0f86af1ea6caa69d9c8e5f1faf">pravden</comp>
+              </collocation>
+            <collocation form="nepravden in izvršilen" cluster="3" frequency="14" logDice="8.34">
+              <comp position="1" type="headword" sloleks="LE_fb35662fc9d7f637899f6db4e44b7723">nepravden</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_b4b12b51e27e236dadf1685e72b75d5e">izvršilen</comp>
+            </collocation>
+            <collocation form="nepravden in kazenski" cluster="4" frequency="8" logDice="7.56">
+              <comp position="1" type="headword" sloleks="LE_fb35662fc9d7f637899f6db4e44b7723">nepravden</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_565636dd2e691927e976bb30305438a6">kazenski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

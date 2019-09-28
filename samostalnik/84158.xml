@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="84158">prvoborec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">924</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="prvoborec za pravico" cluster="1" frequency="7" logDice="3.75">
+              <comp position="1" type="headword" sloleks="LE_8e667795d56e95e5ec9e3f68dbd941f4">prvoborec</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_8c0e472df622ea735bcaed6544ab6130">pravico</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="partizanski prvoborec" cluster="1" frequency="18" logDice="4.58">
+              <comp position="1" type="collocate" sloleks="LE_f03e2685790b45d1d1d427d8b39e6b69">partizanski</comp>
+              <comp position="2" type="headword" sloleks="LE_8e667795d56e95e5ec9e3f68dbd941f4">prvoborec</comp>
+            </collocation>
+            <collocation form="zaslužen prvoborec" cluster="2" frequency="8" logDice="3.54">
+              <comp position="1" type="collocate" sloleks="LE_424f8b9c5d083a1cde0bf4f118b03b12|LE_bd126957606ac786ae0cbd5d95a57850">zaslužen</comp>
+              <comp position="2" type="headword" sloleks="LE_8e667795d56e95e5ec9e3f68dbd941f4">prvoborec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="ulica prvoborca" cluster="1" frequency="22" logDice="4.44">
+              <comp position="1" type="collocate" sloleks="LE_554c79ab5e7baf29f70e8135a860c0e8">ulica</comp>
+              <comp position="2" type="headword" sloleks="LE_8e667795d56e95e5ec9e3f68dbd941f4">prvoborca</comp>
+            </collocation>
+            <collocation form="status prvoborca" cluster="2" frequency="8" logDice="2.49">
+              <comp position="1" type="collocate" sloleks="LE_8ded38ac7a37441b88a8e17272bf1926">status</comp>
+              <comp position="2" type="headword" sloleks="LE_8e667795d56e95e5ec9e3f68dbd941f4">prvoborca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="Kavčič s prvoborcem" cluster="1" frequency="31" logDice="12.25">
+              <comp position="1" type="collocate" sloleks="LE_ef22b069cc5ca2534f588c6c1884f2a8|LE_f5db8c228af6bb6dfd08d9824b71167f">Kavčič</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_8e667795d56e95e5ec9e3f68dbd941f4">prvoborcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

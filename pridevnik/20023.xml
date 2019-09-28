@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="20023">iztirjen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">461</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="iztirjen vagon" cluster="1" frequency="51" logDice="8.56">
+              <comp position="1" type="headword" sloleks="LE_ee17ac9f12d98fa877147e0096d2d734">iztirjen</comp>
+              <comp position="2" type="collocate" sloleks="LE_6595c3322fa79f33b5fe8b8e6b2d2588">vagon</comp>
+            </collocation>
+            <collocation form="iztirjena lokomotiva" cluster="2" frequency="23" logDice="7.17">
+              <comp position="1" type="headword" sloleks="LE_ee17ac9f12d98fa877147e0096d2d734">iztirjena</comp>
+              <comp position="2" type="collocate" sloleks="LE_11e50cfebec45cab325b46d5d9553221">lokomotiva</comp>
+            </collocation>
+            <collocation form="iztirjen vlak" cluster="3" frequency="37" logDice="5.84">
+              <comp position="1" type="headword" sloleks="LE_ee17ac9f12d98fa877147e0096d2d734">iztirjen</comp>
+              <comp position="2" type="collocate" sloleks="LE_411b11f088c5e3369c39b29f8f62a41d">vlak</comp>
+            </collocation>
+            <collocation form="iztirjen svet" cluster="4" frequency="26" logDice="0.69">
+              <comp position="1" type="headword" sloleks="LE_ee17ac9f12d98fa877147e0096d2d734">iztirjen</comp>
+              <comp position="2" type="collocate" sloleks="LE_55184295ed657acc8ec5dcd62f7084bf">svet</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="spolno iztirjen" cluster="1" frequency="12" logDice="6.02">
+              <comp position="1" type="collocate" sloleks="LE_06d1120b4c4f5b4ffa156e0210734296">spolno</comp>
+              <comp position="2" type="headword" sloleks="LE_ee17ac9f12d98fa877147e0096d2d734">iztirjen</comp>
+            </collocation>
+            <collocation form="moralno iztirjen" cluster="2" frequency="6" logDice="5.7">
+              <comp position="1" type="collocate" sloleks="LE_116fe7647a0126ed4441ad5d5e3a400b">moralno</comp>
+              <comp position="2" type="headword" sloleks="LE_ee17ac9f12d98fa877147e0096d2d734">iztirjen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

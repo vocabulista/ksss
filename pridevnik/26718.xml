@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="26718">obšolski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1810</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="obšolska dejavnost" cluster="1" frequency="1641" logDice="7.57">
+              <comp position="1" type="headword" sloleks="LE_6786876b60223fc68401b701bd5829a0">obšolska</comp>
+              <comp position="2" type="collocate" sloleks="LE_7fd9651ddee6b84cd9c853211be163f8">dejavnost</comp>
+            </collocation>
+            <collocation form="obšolska aktivnost" cluster="1" frequency="23" logDice="3.44">
+              <comp position="1" type="headword" sloleks="LE_6786876b60223fc68401b701bd5829a0">obšolska</comp>
+              <comp position="2" type="collocate" sloleks="LE_cf46685236128019ad85c5f429890a4c">aktivnost</comp>
+            </collocation>
+            <collocation form="obšolska obveznost" cluster="2" frequency="8" logDice="1.81">
+              <comp position="1" type="headword" sloleks="LE_6786876b60223fc68401b701bd5829a0">obšolska</comp>
+              <comp position="2" type="collocate" sloleks="LE_0588885dbe8f39694a2008d1244439fb">obveznost</comp>
+            </collocation>
+            <collocation form="obšolska pobuda" cluster="2" frequency="7" logDice="2.73">
+              <comp position="1" type="headword" sloleks="LE_6786876b60223fc68401b701bd5829a0">obšolska</comp>
+              <comp position="2" type="collocate" sloleks="LE_0e157023e7803534aba420a52c307c19">pobuda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="obšolski in/ali šolski" cluster="1" frequency="1006" logDice="12.38">
+              <comp position="3" type="headword" sloleks="LE_6786876b60223fc68401b701bd5829a0">obšolski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_ce01686bf12835d64e816a68dc030efb">šolski</comp>
+              </collocation>
+            <collocation form="obšolski in izvenšolski" cluster="2" frequency="10" logDice="8.22">
+              <comp position="1" type="headword" sloleks="LE_6786876b60223fc68401b701bd5829a0">obšolski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_1bf0cf5973c6de6265f2f6d235265521">izvenšolski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

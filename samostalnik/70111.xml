@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="70111">modras</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">640</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="strupen modras" cluster="1" frequency="12" logDice="4.68">
+              <comp position="1" type="collocate" sloleks="LE_aa912fe83e5f14fc2f6f032130b4498c|LE_1be39dcc6fa2c7f24bb124359a5da8a0">strupen</comp>
+              <comp position="2" type="headword" sloleks="LE_b7ff9fc64b7b36eacc62b8e49dbb52ed">modras</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="srečanje z modrasom" cluster="1" frequency="4" logDice="1.76">
+              <comp position="1" type="collocate" sloleks="LE_779fa188c4acb969e9354bb72d376b6d">srečanje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_b7ff9fc64b7b36eacc62b8e49dbb52ed">modrasom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

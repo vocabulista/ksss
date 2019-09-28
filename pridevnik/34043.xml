@@ -1,0 +1,29 @@
+<entry>
+  <header>
+    <lexical_unit id="34043">šlampast</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">433</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="šlampast par" cluster="1" frequency="6" logDice="1.62">
+              <comp position="1" type="headword" sloleks="LE_bc1deafbfcf800b10465609b56e2ab9c">šlampast</comp>
+              <comp position="2" type="collocate" sloleks="LE_dd28036b83c065c8e73341fe9c8f68f5">par</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="malo šlampast" cluster="1" frequency="8" logDice="1.64">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_bc1deafbfcf800b10465609b56e2ab9c">šlampast</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

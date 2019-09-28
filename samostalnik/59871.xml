@@ -1,0 +1,48 @@
+<entry>
+  <header>
+    <lexical_unit id="59871">hudičevka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">591</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="hudičevka iz prada" cluster="1" frequency="6" logDice="13.33">
+              <comp position="1" type="headword" sloleks="LE_a57a523b4a964dc9a36c8d17d8309505">hudičevka</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">prada</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz4">
+          <collocations>
+            <collocation form="Hudičevka v Pradi" cluster="1" frequency="58" logDice="13.94">
+              <comp position="1" type="headword" sloleks="LE_a57a523b4a964dc9a36c8d17d8309505">Hudičevka</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="">Pradi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="rdeča hudičevka" cluster="1" frequency="21" logDice="1.71">
+              <comp position="1" type="collocate" sloleks="LE_f39824a0a0c94efb31b4fa9dc908ea0f">rdeča</comp>
+              <comp position="2" type="headword" sloleks="LE_a57a523b4a964dc9a36c8d17d8309505">hudičevka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="tek za hudičevko" cluster="1" frequency="19" logDice="8.71">
+              <comp position="1" type="collocate" sloleks="LE_ed802dc6d9e4c6ea51ff773b876f28e2">tek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_a57a523b4a964dc9a36c8d17d8309505">hudičevko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

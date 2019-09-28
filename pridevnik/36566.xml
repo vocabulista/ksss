@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="36566">tup</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">601</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="tupa špica" cluster="1" frequency="10" logDice="6.32">
+              <comp position="1" type="headword" sloleks="LE_1921b34f0c22dc0296849bafda4c047c">tupa</comp>
+              <comp position="2" type="collocate" sloleks="LE_12232475f09acb4fae967676bfeeaab0">špica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="hrabro tup" cluster="1" frequency="5" logDice="10.36">
+              <comp position="1" type="collocate" sloleks="LE_70a6e194fd0ce16cbfbba6b6441fa838">hrabro</comp>
+              <comp position="2" type="headword" sloleks="LE_1921b34f0c22dc0296849bafda4c047c">tup</comp>
+            </collocation>
+            <collocation form="toliko tup" cluster="2" frequency="9" logDice="2.28">
+              <comp position="1" type="collocate" sloleks="LE_e8a73a0e682431303071ff7537eabf4b">toliko</comp>
+              <comp position="2" type="headword" sloleks="LE_1921b34f0c22dc0296849bafda4c047c">tup</comp>
+            </collocation>
+            <collocation form="res tup" cluster="3" frequency="8" logDice="1.36">
+              <comp position="1" type="collocate" sloleks="LE_f755b561969e89364cdbaba990b8838d">res</comp>
+              <comp position="2" type="headword" sloleks="LE_1921b34f0c22dc0296849bafda4c047c">tup</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

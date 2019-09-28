@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="48160">avizo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">570</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Avizo iz Besnice" cluster="1" frequency="4" logDice="8.16">
+              <comp position="1" type="headword" sloleks="LE_661c06fc39b4552014a99057156c7fda">Avizo</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_ffc1e4b9ed660771e5218045c915e8ee">Besnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="avizo za oddajo" cluster="1" frequency="5" logDice="3.68">
+              <comp position="1" type="headword" sloleks="LE_661c06fc39b4552014a99057156c7fda">avizo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_52a0fe564a02d70a3d3b0b3a704b365a">oddajo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="zvočen avizo" cluster="1" frequency="8" logDice="3.08">
+              <comp position="1" type="collocate" sloleks="LE_94b94f34cb0a22a3f33dff4b4d491cbb">zvočen</comp>
+              <comp position="2" type="headword" sloleks="LE_661c06fc39b4552014a99057156c7fda">avizo</comp>
+            </collocation>
+            <collocation form="uvoden avizo" cluster="2" frequency="9" logDice="2.27">
+              <comp position="1" type="collocate" sloleks="LE_64f14dc4de68d65b00f58ffd1ca5d57a">uvoden</comp>
+              <comp position="2" type="headword" sloleks="LE_661c06fc39b4552014a99057156c7fda">avizo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

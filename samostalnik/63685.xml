@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="63685">klatež</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1168</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="klatež iz sosedstva" cluster="1" frequency="4" logDice="9.79">
+              <comp position="1" type="headword" sloleks="LE_1e451f7ab11a9ae4cd158520c34e03b3">klatež</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_822f4ec0be3e0b9d64df0f70fb0ffe8f">sosedstva</comp>
+            </collocation>
+            <collocation form="klatež iz Cerkve" cluster="2" frequency="10" logDice="7.48">
+              <comp position="1" type="headword" sloleks="LE_1e451f7ab11a9ae4cd158520c34e03b3">klatež</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_71364d2c460f04c8b1dbbb72e4901dca">Cerkve</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pohorski klatež" cluster="1" frequency="8" logDice="4.91">
+              <comp position="1" type="collocate" sloleks="LE_b35e30c47d198c5c470f16c884969b8a">pohorski</comp>
+              <comp position="2" type="headword" sloleks="LE_1e451f7ab11a9ae4cd158520c34e03b3">klatež</comp>
+            </collocation>
+            <collocation form="neznan klatež" cluster="2" frequency="8" logDice="2.17">
+              <comp position="1" type="collocate" sloleks="LE_7f3815ce048c6969b498d8483b2a5225">neznan</comp>
+              <comp position="2" type="headword" sloleks="LE_1e451f7ab11a9ae4cd158520c34e03b3">klatež</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="preganjanje klateža" cluster="1" frequency="8" logDice="5.82">
+              <comp position="1" type="collocate" sloleks="LE_10571dee32e606661c5e84c8066ee3e4">preganjanje</comp>
+              <comp position="2" type="headword" sloleks="LE_1e451f7ab11a9ae4cd158520c34e03b3">klateža</comp>
+            </collocation>
+            <collocation form="življenje klateža" cluster="2" frequency="9" logDice="2.25">
+              <comp position="1" type="collocate" sloleks="LE_b7a6a2019becc6510edb8591e171b0a7">življenje</comp>
+              <comp position="2" type="headword" sloleks="LE_1e451f7ab11a9ae4cd158520c34e03b3">klateža</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

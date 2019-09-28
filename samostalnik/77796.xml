@@ -1,0 +1,63 @@
+<entry>
+  <header>
+    <lexical_unit id="77796">pfenig</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">425</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="pfenig na minuto" cluster="1" frequency="6" logDice="4.82">
+              <comp position="1" type="headword" sloleks="LE_0c6457bb3cb2fc85420969a88b64fb0f">pfenig</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_4dbac25ecbcde2d4ad6049424d74db15">minuto</comp>
+            </collocation>
+            <collocation form="pfenig na uro" cluster="2" frequency="10" logDice="3.62">
+              <comp position="1" type="headword" sloleks="LE_0c6457bb3cb2fc85420969a88b64fb0f">pfenig</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_77e6b5a072871d299d405565eaad4389">uro</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="pfenig za kilovat" cluster="1" frequency="5" logDice="10.5">
+              <comp position="1" type="headword" sloleks="LE_0c6457bb3cb2fc85420969a88b64fb0f">pfenig</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_0f553c4e06da181b6807dfcbc5439e3b">kilovat</comp>
+            </collocation>
+            <collocation form="pfenig za uro" cluster="2" frequency="20" logDice="7.09">
+              <comp position="1" type="headword" sloleks="LE_0c6457bb3cb2fc85420969a88b64fb0f">pfenig</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_77e6b5a072871d299d405565eaad4389">uro</comp>
+            </collocation>
+            <collocation form="pfenig za liter" cluster="3" frequency="5" logDice="5.18">
+              <comp position="1" type="headword" sloleks="LE_0c6457bb3cb2fc85420969a88b64fb0f">pfenig</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_5f83c375013b2d49988d8ed5c76b6cf0">liter</comp>
+            </collocation>
+            <collocation form="pfenig za kilogram" cluster="4" frequency="5" logDice="3.83">
+              <comp position="1" type="headword" sloleks="LE_0c6457bb3cb2fc85420969a88b64fb0f">pfenig</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_758190145382857bd4e278cfd092045b">kilogram</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="funt pfeniga" cluster="1" frequency="9" logDice="7.23">
+              <comp position="1" type="collocate" sloleks="LE_d8c01da5706934eefc1ea252cf1331ed">funt</comp>
+              <comp position="2" type="headword" sloleks="LE_0c6457bb3cb2fc85420969a88b64fb0f">pfeniga</comp>
+            </collocation>
+            <collocation form="vrednost pfeniga" cluster="2" frequency="6" logDice="0.5">
+              <comp position="1" type="collocate" sloleks="LE_aa6bad87e3fba76f27f4242d3cb9a383">vrednost</comp>
+              <comp position="2" type="headword" sloleks="LE_0c6457bb3cb2fc85420969a88b64fb0f">pfeniga</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

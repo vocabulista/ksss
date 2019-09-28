@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="89602">služabnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1164</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="služabnica s košaro" cluster="1" frequency="4" logDice="9.05">
+              <comp position="1" type="headword" sloleks="LE_af1c54e3ade8a612dcc8cf38a7c60904">služabnica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_858297568dd34da09aa34b656aa87406">košaro</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Gospodova služabnica" cluster="1" frequency="23" logDice="8.1">
+              <comp position="1" type="collocate" sloleks="LE_a92fd5e66567bd9c002f5c250bd6e6d0">Gospodova</comp>
+              <comp position="2" type="headword" sloleks="LE_af1c54e3ade8a612dcc8cf38a7c60904">služabnica</comp>
+            </collocation>
+            <collocation form="zvesta služabnica" cluster="2" frequency="29" logDice="4.8">
+              <comp position="1" type="collocate" sloleks="LE_910d236b0b94310160765a53a87a0db8">zvesta</comp>
+              <comp position="2" type="headword" sloleks="LE_af1c54e3ade8a612dcc8cf38a7c60904">služabnica</comp>
+            </collocation>
+            <collocation form="božja služabnica" cluster="3" frequency="35" logDice="4.7">
+              <comp position="1" type="collocate" sloleks="LE_0690ddbd436ffc85634ced3758646335">božja</comp>
+              <comp position="2" type="headword" sloleks="LE_af1c54e3ade8a612dcc8cf38a7c60904">služabnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="nizkost služabnice" cluster="1" frequency="18" logDice="12.08">
+              <comp position="1" type="collocate" sloleks="LE_63f3646f2ed63a5793d0514f2987e04b">nizkost</comp>
+              <comp position="2" type="headword" sloleks="LE_af1c54e3ade8a612dcc8cf38a7c60904">služabnice</comp>
+            </collocation>
+            <collocation form="vloga služabnice" cluster="2" frequency="11" logDice="1.52">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_af1c54e3ade8a612dcc8cf38a7c60904">služabnice</comp>
+            </collocation>
+            <collocation form="pomoč služabnice" cluster="3" frequency="7" logDice="0.61">
+              <comp position="1" type="collocate" sloleks="LE_84e3f9e3c4e9e1abf42cc69c125b0b58">pomoč</comp>
+              <comp position="2" type="headword" sloleks="LE_af1c54e3ade8a612dcc8cf38a7c60904">služabnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

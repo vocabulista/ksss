@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="48426">baklava</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">523</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="baklava z orehom" cluster="1" frequency="4" logDice="7.31">
+              <comp position="1" type="headword" sloleks="LE_0d77c589b16512cae49148bcfa7c22e2">baklava</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_d4ef8db2b9825407752685cb5aed6fbf">orehom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="švedska baklava" cluster="1" frequency="12" logDice="3.58">
+              <comp position="1" type="collocate" sloleks="LE_a80f91e6220b8bf123ed8eb6ff0b9ff3">švedska</comp>
+              <comp position="2" type="headword" sloleks="LE_0d77c589b16512cae49148bcfa7c22e2">baklava</comp>
+            </collocation>
+            <collocation form="turška baklava" cluster="2" frequency="9" logDice="3.02">
+              <comp position="1" type="collocate" sloleks="LE_2b832302c9f3ba860e131ecf5bc1971f">turška</comp>
+              <comp position="2" type="headword" sloleks="LE_0d77c589b16512cae49148bcfa7c22e2">baklava</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="kralj baklave" cluster="1" frequency="6" logDice="3.12">
+              <comp position="1" type="collocate" sloleks="LE_d08bfdbe169af8447d4ea3f7e9e60feb">kralj</comp>
+              <comp position="2" type="headword" sloleks="LE_0d77c589b16512cae49148bcfa7c22e2">baklave</comp>
+            </collocation>
+            <collocation form="kilogram baklave" cluster="2" frequency="6" logDice="2.77">
+              <comp position="1" type="collocate" sloleks="LE_758190145382857bd4e278cfd092045b">kilogram</comp>
+              <comp position="2" type="headword" sloleks="LE_0d77c589b16512cae49148bcfa7c22e2">baklave</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

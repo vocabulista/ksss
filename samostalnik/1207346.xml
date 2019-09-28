@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="1207346">kač</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="kač iz družine" cluster="1" frequency="6" logDice="4.34">
+              <comp position="1" type="headword" sloleks="">kač</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_9a7d912c8ec5a6cbc42d2975b5563b34">družine</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="strupen kač" cluster="1" frequency="43" logDice="6.51">
+              <comp position="1" type="collocate" sloleks="LE_aa912fe83e5f14fc2f6f032130b4498c|LE_1be39dcc6fa2c7f24bb124359a5da8a0">strupen</comp>
+              <comp position="2" type="headword" sloleks="">kač</comp>
+            </collocation>
+            <collocation form="poln kač" cluster="2" frequency="32" logDice="2.42">
+              <comp position="1" type="collocate" sloleks="LE_ba66920997eaf6ebf1b95667348fc4c3">poln</comp>
+              <comp position="2" type="headword" sloleks="">kač</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

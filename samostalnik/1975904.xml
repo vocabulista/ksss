@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="1975904">nek</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="nek časa" cluster="1" frequency="16" logDice="1.62">
+              <comp position="1" type="headword" sloleks="">nek</comp>
+              <comp position="2" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">časa</comp>
+            </collocation>
+            <collocation form="razgradnja nek" cluster="2" frequency="8" logDice="5.95">
+              <comp position="1" type="collocate" sloleks="LE_301a5efaa1af5556395152abb6f9bbba">razgradnja</comp>
+              <comp position="2" type="headword" sloleks="">nek</comp>
+            </collocation>
+            <collocation form="varnost nek" cluster="3" frequency="5" logDice="1.98">
+              <comp position="1" type="collocate" sloleks="LE_cc715460b42b51721e3fb92a6733acba">varnost</comp>
+              <comp position="2" type="headword" sloleks="">nek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="elektrika v nek" cluster="1" frequency="5" logDice="6.8">
+              <comp position="1" type="collocate" sloleks="LE_c960b0de93041afd6648c441bcb0c382">elektrika</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="">nek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

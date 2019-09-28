@@ -1,0 +1,62 @@
+<entry>
+  <header>
+    <lexical_unit id="81585">prata</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1142</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="svinjska prata" cluster="1" frequency="23" logDice="5.97">
+              <comp position="1" type="collocate" sloleks="LE_eb35b4d7217d9fcc5a31be6d399d37b3">svinjska</comp>
+              <comp position="2" type="headword" sloleks="LE_682883f8462979e51640440cb76e4c9c">prata</comp>
+            </collocation>
+            <collocation form="gorenjska prata" cluster="2" frequency="44" logDice="4.25">
+              <comp position="1" type="collocate" sloleks="LE_72adb85d47a88a0222f3847db8b927c4">gorenjska</comp>
+              <comp position="2" type="headword" sloleks="LE_682883f8462979e51640440cb76e4c9c">prata</comp>
+            </collocation>
+            <collocation form="italijanska prata" cluster="3" frequency="10" logDice="0.55">
+              <comp position="1" type="collocate" sloleks="LE_913305ff2d1ec7071265c860a231b843">italijanska</comp>
+              <comp position="2" type="headword" sloleks="LE_682883f8462979e51640440cb76e4c9c">prata</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="letališče prate" cluster="1" frequency="19" logDice="7.52">
+              <comp position="1" type="collocate" sloleks="LE_b7341e83cecc3f66edd27e53281a492b">letališče</comp>
+              <comp position="2" type="headword" sloleks="LE_682883f8462979e51640440cb76e4c9c">prate</comp>
+            </collocation>
+            <collocation form="Louis prate" cluster="2" frequency="6" logDice="6.77">
+              <comp position="1" type="collocate" sloleks="LE_8dac05407a088a9989d667f4d0fad0fd">Louis</comp>
+              <comp position="2" type="headword" sloleks="LE_682883f8462979e51640440cb76e4c9c">prate</comp>
+            </collocation>
+            <collocation form="prata VE" cluster="3" frequency="13" logDice="9.82">
+              <comp position="1" type="headword" sloleks="LE_682883f8462979e51640440cb76e4c9c">prata</comp>
+              <comp position="2" type="collocate" sloleks="">VE</comp>
+            </collocation>
+            <collocation form="prata dell" cluster="4" frequency="19" logDice="7.33">
+              <comp position="1" type="headword" sloleks="LE_682883f8462979e51640440cb76e4c9c">prata</comp>
+              <comp position="2" type="collocate" sloleks="">dell</comp>
+            </collocation>
+            <collocation form="prata perila" cluster="5" frequency="10" logDice="5.43">
+              <comp position="1" type="headword" sloleks="LE_682883f8462979e51640440cb76e4c9c">prata</comp>
+              <comp position="2" type="collocate" sloleks="LE_6c2dbc1aedf74642271fe1f873a39822">perila</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ4">
+          <collocations>
+            <collocation form="vzpon na Prato" cluster="1" frequency="5" logDice="4.72">
+              <comp position="1" type="collocate" sloleks="LE_0f2ae2141b243dd610bd05e1a148f9b2">vzpon</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_682883f8462979e51640440cb76e4c9c">Prato</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

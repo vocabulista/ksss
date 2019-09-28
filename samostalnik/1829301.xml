@@ -1,0 +1,73 @@
+<entry>
+  <header>
+    <lexical_unit id="1829301">nadimek</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="nadeti nadimek" cluster="1" frequency="17" logDice="5.69">
+              <comp position="1" type="collocate" sloleks="LE_8de6d6462fb383c381b004d7f81d5b0c">nadeti</comp>
+              <comp position="2" type="headword" sloleks="">nadimek</comp>
+            </collocation>
+            <collocation form="prislužiti nadimek" cluster="2" frequency="11" logDice="4.8">
+              <comp position="1" type="collocate" sloleks="LE_70f4e82ae5dcfd3bb30b94614345579e">prislužiti</comp>
+              <comp position="2" type="headword" sloleks="">nadimek</comp>
+            </collocation>
+            <collocation form="dobiti nadimek" cluster="3" frequency="31" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_abe97863495bd3d2d1b41f81933061b7">dobiti</comp>
+              <comp position="2" type="headword" sloleks="">nadimek</comp>
+            </collocation>
+            <collocation form="dati nadimek" cluster="3" frequency="15" logDice="1.7">
+              <comp position="1" type="collocate" sloleks="LE_251860b7395e9bef61ae04eb36d0639d">dati</comp>
+              <comp position="2" type="headword" sloleks="">nadimek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz po SBZ5">
+          <collocations>
+            <collocation form="poznati po nadimek" cluster="1" frequency="4" logDice="5.19">
+              <comp position="1" type="collocate" sloleks="LE_4f975006412ac1f46e31d9a9ebcfa901">poznati</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="">nadimek</comp>
+            </collocation>
+            <collocation form="klicati po nadimek" cluster="2" frequency="5" logDice="5.1">
+              <comp position="1" type="collocate" sloleks="LE_c10d90e70b7c78ed4b4bfbb9c8af5b6a">klicati</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="">nadimek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz pod SBZ6">
+          <collocations>
+            <collocation form="poznati pod nadimek" cluster="1" frequency="16" logDice="8.17">
+              <comp position="1" type="collocate" sloleks="LE_4f975006412ac1f46e31d9a9ebcfa901">poznati</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="headword" sloleks="">nadimek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 pod SBZ6">
+          <collocations>
+            <collocation form="znan pod nadimek" cluster="1" frequency="10" logDice="6.55">
+              <comp position="1" type="collocate" sloleks="LE_3ca4e8269ed35ff770799effa47b0eda">znan</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="headword" sloleks="">nadimek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="Slovenec z nadimek" cluster="1" frequency="7" logDice="6.52">
+              <comp position="1" type="collocate" sloleks="LE_729f0d5f17646d52975cea70c2c90304|LE_28fbf96b9bd02e5a6e7ae885f022743f">Slovenec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="">nadimek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

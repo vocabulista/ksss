@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="94959">upepelitev</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">402</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="upepelitev pokojnika" cluster="1" frequency="25" logDice="8.74">
+              <comp position="1" type="headword" sloleks="LE_7feeba01736ebb6d6a7c9a550b9e2255">upepelitev</comp>
+              <comp position="2" type="collocate" sloleks="LE_4d357456a1b10d591329e794b6d83929">pokojnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="čakati na upepelitev" cluster="1" frequency="5" logDice="1.46">
+              <comp position="1" type="collocate" sloleks="LE_40e471c4d788a258a8c6b151605ab514">čakati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_7feeba01736ebb6d6a7c9a550b9e2255">upepelitev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="odločati za upepelitev" cluster="1" frequency="4" logDice="2.87">
+              <comp position="1" type="collocate" sloleks="LE_c0a142f8a959998ee12099b2e702e937">odločati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_7feeba01736ebb6d6a7c9a550b9e2255">upepelitev</comp>
+            </collocation>
+            <collocation form="poskrbeti za upepelitev" cluster="2" frequency="4" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_610c30927c7792ff5bc41d0843ec83a6">poskrbeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_7feeba01736ebb6d6a7c9a550b9e2255">upepelitev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ4">
+          <collocations>
+            <collocation form="prevoz na upepelitev" cluster="1" frequency="14" logDice="7.13">
+              <comp position="1" type="collocate" sloleks="LE_08fc8e00213589633e3b30c746c02ba6">prevoz</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_7feeba01736ebb6d6a7c9a550b9e2255">upepelitev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

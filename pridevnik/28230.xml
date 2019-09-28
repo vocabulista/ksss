@@ -1,0 +1,29 @@
+<entry>
+  <header>
+    <lexical_unit id="28230">perioden</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">778</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="periodna preglednica" cluster="1" frequency="13" logDice="7.4">
+              <comp position="1" type="headword" sloleks="LE_6508862a7d572cf55e09cdc17790ed39">periodna</comp>
+              <comp position="2" type="collocate" sloleks="LE_ed7b851056f4154ea81b3e916862898b">preglednica</comp>
+            </collocation>
+            <collocation form="periodna tabela" cluster="2" frequency="19" logDice="5.97">
+              <comp position="1" type="headword" sloleks="LE_6508862a7d572cf55e09cdc17790ed39">periodna</comp>
+              <comp position="2" type="collocate" sloleks="LE_7357dc85c218891f99bb60eb3475fffc">tabela</comp>
+            </collocation>
+            <collocation form="perioden sistem" cluster="3" frequency="711" logDice="5.59">
+              <comp position="1" type="headword" sloleks="LE_6508862a7d572cf55e09cdc17790ed39">perioden</comp>
+              <comp position="2" type="collocate" sloleks="LE_b126847d984efa55c2ffad50be4e1dac">sistem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

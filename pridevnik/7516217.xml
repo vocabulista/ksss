@@ -1,0 +1,44 @@
+<entry>
+  <header>
+    <lexical_unit id="7516217">zahojen</lexical_unit>
+    <category>pridevnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="zahojen maneken" cluster="1" frequency="9" logDice="6.93">
+              <comp position="1" type="headword" sloleks="">zahojen</comp>
+              <comp position="2" type="collocate" sloleks="LE_2fc59328561f75fdd306ad713992fe54">maneken</comp>
+            </collocation>
+            <collocation form="zahojen ovca" cluster="2" frequency="7" logDice="5.16">
+              <comp position="1" type="headword" sloleks="">zahojen</comp>
+              <comp position="2" type="collocate" sloleks="LE_3001c2179e3b4e48629319c439ba0a74">ovca</comp>
+            </collocation>
+            <collocation form="zahojen država" cluster="3" frequency="22" logDice="0.61">
+              <comp position="1" type="headword" sloleks="">zahojen</comp>
+              <comp position="2" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">država</comp>
+            </collocation>
+            <collocation form="zahojen narod" cluster="3" frequency="12" logDice="2.19">
+              <comp position="1" type="headword" sloleks="">zahojen</comp>
+              <comp position="2" type="collocate" sloleks="LE_467863326a5651026d6c2e7a67b4936b">narod</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="res zahojen" cluster="1" frequency="7" logDice="1.16">
+              <comp position="1" type="collocate" sloleks="LE_f755b561969e89364cdbaba990b8838d">res</comp>
+              <comp position="2" type="headword" sloleks="">zahojen</comp>
+            </collocation>
+            <collocation form="tako zahojen" cluster="2" frequency="37" logDice="0.63">
+              <comp position="1" type="collocate" sloleks="LE_a43856b7d4097e8e3ab29718abb1acb7">tako</comp>
+              <comp position="2" type="headword" sloleks="">zahojen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

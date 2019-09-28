@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="95365">utva</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">517</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Utva iz Pančev" cluster="1" frequency="4" logDice="10.98">
+              <comp position="1" type="headword" sloleks="LE_c20c8f2c32b58d40cb3d4942f0d9d4d3">Utva</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">Pančev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="utva Čehova" cluster="1" frequency="38" logDice="10.52">
+              <comp position="1" type="headword" sloleks="LE_c20c8f2c32b58d40cb3d4942f0d9d4d3">utva</comp>
+              <comp position="2" type="collocate" sloleks="LE_37afee0317dc78b0305381eb5618121b|LE_5075d7a522d1174573101b3a5f120d2f">Čehova</comp>
+            </collocation>
+            <collocation form="utva Antona" cluster="2" frequency="13" logDice="4.79">
+              <comp position="1" type="headword" sloleks="LE_c20c8f2c32b58d40cb3d4942f0d9d4d3">utva</comp>
+              <comp position="2" type="collocate" sloleks="LE_456858aa999b2b8b3d63d0ad308b30ea">Antona</comp>
+            </collocation>
+            <collocation form="uprizoritev Utve" cluster="3" frequency="5" logDice="4.47">
+              <comp position="1" type="collocate" sloleks="LE_98b9ae69b420fe1158349ed13cfa288e">uprizoritev</comp>
+              <comp position="2" type="headword" sloleks="LE_c20c8f2c32b58d40cb3d4942f0d9d4d3">Utve</comp>
+            </collocation>
+            <collocation form="premiera Utve" cluster="4" frequency="6" logDice="3.78">
+              <comp position="1" type="collocate" sloleks="LE_b28f04f182ceb2ad900c8f60e122ef67">premiera</comp>
+              <comp position="2" type="headword" sloleks="LE_c20c8f2c32b58d40cb3d4942f0d9d4d3">Utve</comp>
+            </collocation>
+            <collocation form="režija Utve" cluster="5" frequency="5" logDice="3.27">
+              <comp position="1" type="collocate" sloleks="LE_bf38fb6317c3fcfb752ba225be2451a4">režija</comp>
+              <comp position="2" type="headword" sloleks="LE_c20c8f2c32b58d40cb3d4942f0d9d4d3">Utve</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="Nina v Utvi" cluster="1" frequency="6" logDice="9.84">
+              <comp position="1" type="collocate" sloleks="LE_ff43a0ddcea5fb43b29a9a53c52a9348">Nina</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_c20c8f2c32b58d40cb3d4942f0d9d4d3">Utvi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

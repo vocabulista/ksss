@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="2413">malikovati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">409</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="malikovati mladost" cluster="1" frequency="4" logDice="5.59">
+              <comp position="1" type="headword" sloleks="LE_897e62617f576f96eaffd5564b47e090">malikovati</comp>
+              <comp position="2" type="collocate" sloleks="LE_9bd60ad472fe1c26fa03f73d5fd2cebb">mladost</comp>
+            </collocation>
+            <collocation form="malikovati državo" cluster="2" frequency="4" logDice="1.79">
+              <comp position="1" type="headword" sloleks="LE_897e62617f576f96eaffd5564b47e090">malikovati</comp>
+              <comp position="2" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">državo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="slepo malikovati" cluster="1" frequency="4" logDice="4.99">
+              <comp position="1" type="collocate" sloleks="LE_ecab5905816d58cd142222f4af6693a8">slepo</comp>
+              <comp position="2" type="headword" sloleks="LE_897e62617f576f96eaffd5564b47e090">malikovati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

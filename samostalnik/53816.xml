@@ -1,0 +1,55 @@
+<entry>
+  <header>
+    <lexical_unit id="53816">dokolenka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">587</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="dokolenka s kompresijo" cluster="1" frequency="4" logDice="10.81">
+              <comp position="1" type="headword" sloleks="LE_e29a152de8a367f26af152f55ff40a7b">dokolenka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_a42db09dd13d4af5451efb2260b40285">kompresijo</comp>
+            </collocation>
+            <collocation form="dokolenka z vzorcem" cluster="2" frequency="13" logDice="6.94">
+              <comp position="1" type="headword" sloleks="LE_e29a152de8a367f26af152f55ff40a7b">dokolenka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_5042c4687567fc53efbfd828e5440371">vzorcem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="volnena dokolenka" cluster="1" frequency="18" logDice="6.89">
+              <comp position="1" type="collocate" sloleks="LE_8e3b4cfe9e6313017af163b913b45a3c">volnena</comp>
+              <comp position="2" type="headword" sloleks="LE_e29a152de8a367f26af152f55ff40a7b">dokolenka</comp>
+            </collocation>
+            <collocation form="pletena dokolenka" cluster="1" frequency="8" logDice="5.7">
+              <comp position="1" type="collocate" sloleks="LE_dca145029aaf4cf1e9201b0316245c1f">pletena</comp>
+              <comp position="2" type="headword" sloleks="LE_e29a152de8a367f26af152f55ff40a7b">dokolenka</comp>
+            </collocation>
+            <collocation form="bela dokolenka" cluster="2" frequency="37" logDice="2.22">
+              <comp position="1" type="collocate" sloleks="LE_50f9b0a6743feeba2fd5482919490dd5">bela</comp>
+              <comp position="2" type="headword" sloleks="LE_e29a152de8a367f26af152f55ff40a7b">dokolenka</comp>
+            </collocation>
+            <collocation form="črna dokolenka" cluster="2" frequency="14" logDice="0.95">
+              <comp position="1" type="collocate" sloleks="LE_efad3f083a68e148bcd4aa4f62efd36c">črna</comp>
+              <comp position="2" type="headword" sloleks="LE_e29a152de8a367f26af152f55ff40a7b">dokolenka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="hlače dokolenke" cluster="1" frequency="5" logDice="7.4">
+              <comp position="1" type="collocate" sloleks="LE_a305c5239efe00bca5aa33dc4093e5e8">hlače</comp>
+              <comp position="2" type="headword" sloleks="LE_e29a152de8a367f26af152f55ff40a7b">dokolenke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

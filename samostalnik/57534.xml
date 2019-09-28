@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="57534">glavač</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">386</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="morski glavač" cluster="1" frequency="11" logDice="2.26">
+              <comp position="1" type="collocate" sloleks="LE_57bed162279dc52ad8b850de264a14ad">morski</comp>
+              <comp position="2" type="headword" sloleks="LE_a0a11c4618d7f938515d80a6d5eed46c">glavač</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="kit glavača" cluster="1" frequency="101" logDice="12.35">
+              <comp position="1" type="collocate" sloleks="LE_f04d29d3e7fdd1a6f9c9a198856c6f19">kit</comp>
+              <comp position="2" type="headword" sloleks="LE_a0a11c4618d7f938515d80a6d5eed46c">glavača</comp>
+            </collocation>
+            <collocation form="kita glavača" cluster="2" frequency="5" logDice="8.62">
+              <comp position="1" type="collocate" sloleks="LE_891d7c5dd32dc96173884e6caa3903be">kita</comp>
+              <comp position="2" type="headword" sloleks="LE_a0a11c4618d7f938515d80a6d5eed46c">glavača</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

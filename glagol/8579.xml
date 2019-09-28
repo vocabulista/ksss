@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="8579">strojiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">526</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="strojiti na obronku" cluster="1" frequency="5" logDice="8.77">
+              <comp position="1" type="headword" sloleks="LE_9f35c2495eaa9598429c1599a5f1a510">strojiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_ddeac3ff80c673dacf56d56020f69eac">obronku</comp>
+            </collocation>
+            <collocation form="strojiti na morju" cluster="2" frequency="16" logDice="6.21">
+              <comp position="1" type="headword" sloleks="LE_9f35c2495eaa9598429c1599a5f1a510">strojiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_bcd96bfadbb1e224af34457884db42c8">morju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz5">
+          <collocations>
+            <collocation form="strojiti v podjetju" cluster="1" frequency="4" logDice="1.97">
+              <comp position="1" type="headword" sloleks="LE_9f35c2495eaa9598429c1599a5f1a510">strojiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_1aed870e4b1c077c155d34b01ab0af57">podjetju</comp>
+            </collocation>
+            <collocation form="strojiti v družbi" cluster="2" frequency="4" logDice="1.62">
+              <comp position="1" type="headword" sloleks="LE_9f35c2495eaa9598429c1599a5f1a510">strojiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_4d78f38b1eeb8492cae54547d0252bf9">družbi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

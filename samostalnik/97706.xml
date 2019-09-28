@@ -1,0 +1,82 @@
+<entry>
+  <header>
+    <lexical_unit id="97706">zadostitev</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">428</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="zadostitev potrebe" cluster="1" frequency="82" logDice="7.34">
+              <comp position="1" type="headword" sloleks="LE_fb837b2ad54b3954a7395ae0e1c03f44">zadostitev</comp>
+              <comp position="2" type="collocate" sloleks="LE_16bf4d92d7aaee11efd4c8603b6e4ee0">potrebe</comp>
+            </collocation>
+            <collocation form="zadostitev zahteve" cluster="1" frequency="8" logDice="3.52">
+              <comp position="1" type="headword" sloleks="LE_fb837b2ad54b3954a7395ae0e1c03f44">zadostitev</comp>
+              <comp position="2" type="collocate" sloleks="LE_d4736e57297d5140ba448c30c6d6d744">zahteve</comp>
+            </collocation>
+            <collocation form="zadostitev pogoja" cluster="2" frequency="11" logDice="3.78">
+              <comp position="1" type="headword" sloleks="LE_fb837b2ad54b3954a7395ae0e1c03f44">zadostitev</comp>
+              <comp position="2" type="collocate" sloleks="LE_65a7484d8f00462cb9c06a20e91d010f">pogoja</comp>
+            </collocation>
+            <collocation form="zadostitev kriterija" cluster="2" frequency="8" logDice="5.46">
+              <comp position="1" type="headword" sloleks="LE_fb837b2ad54b3954a7395ae0e1c03f44">zadostitev</comp>
+              <comp position="2" type="collocate" sloleks="LE_9e82d78896e1cfd4a1d042160ff1b4ff">kriterija</comp>
+            </collocation>
+            <collocation form="zadostitev povpraševanja" cluster="3" frequency="8" logDice="5.15">
+              <comp position="1" type="headword" sloleks="LE_fb837b2ad54b3954a7395ae0e1c03f44">zadostitev</comp>
+              <comp position="2" type="collocate" sloleks="LE_8953cbf1eac3808ae80d6eed0c2e13d4">povpraševanja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="morati za zadostitev" cluster="1" frequency="5" logDice="2.44">
+              <comp position="1" type="collocate" sloleks="LE_5a69e334926729c2b878f5735b5ec456">morati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_fb837b2ad54b3954a7395ae0e1c03f44">zadostitev</comp>
+            </collocation>
+            <collocation form="iti za zadostitev" cluster="2" frequency="5" logDice="-1.28">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_fb837b2ad54b3954a7395ae0e1c03f44">zadostitev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="formalna zadostitev" cluster="1" frequency="14" logDice="4.26">
+              <comp position="1" type="collocate" sloleks="LE_589fad96b6e8b15c5e9be3e854e8ce68">formalna</comp>
+              <comp position="2" type="headword" sloleks="LE_fb837b2ad54b3954a7395ae0e1c03f44">zadostitev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 za SBZ4">
+          <collocations>
+            <collocation form="potreben za zadostitev" cluster="1" frequency="5" logDice="2.52">
+              <comp position="1" type="collocate" sloleks="LE_8315e7ec13172cb2fc32c85291e90099">potreben</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_fb837b2ad54b3954a7395ae0e1c03f44">zadostitev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 po SBZ5">
+          <collocations>
+            <collocation form="zahteva po zadostitvi" cluster="1" frequency="4" logDice="2.52">
+              <comp position="1" type="collocate" sloleks="LE_d4736e57297d5140ba448c30c6d6d744">zahteva</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_fb837b2ad54b3954a7395ae0e1c03f44">zadostitvi</comp>
+            </collocation>
+            <collocation form="potreba po zadostitvi" cluster="2" frequency="5" logDice="1.78">
+              <comp position="1" type="collocate" sloleks="LE_16bf4d92d7aaee11efd4c8603b6e4ee0">potreba</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_fb837b2ad54b3954a7395ae0e1c03f44">zadostitvi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="30841">previdnosten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1024</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="previdnosten ukrep" cluster="1" frequency="750" logDice="7.58">
+              <comp position="1" type="headword" sloleks="LE_e219aea3e40aeac0ab185eaf882435e2">previdnosten</comp>
+              <comp position="2" type="collocate" sloleks="LE_255f7b84fe0103df32854855e1084ff0">ukrep</comp>
+            </collocation>
+            <collocation form="previdnosten pristop" cluster="1" frequency="6" logDice="1.76">
+              <comp position="1" type="headword" sloleks="LE_e219aea3e40aeac0ab185eaf882435e2">previdnosten</comp>
+              <comp position="2" type="collocate" sloleks="LE_4f4f7324dcb1e1ad25b7b1acd0a3636b">pristop</comp>
+            </collocation>
+            <collocation form="previdnostno načelo" cluster="2" frequency="128" logDice="6.81">
+              <comp position="1" type="headword" sloleks="LE_e219aea3e40aeac0ab185eaf882435e2">previdnostno</comp>
+              <comp position="2" type="collocate" sloleks="LE_5a443f15d8b4838fe872b4d2b544f4ce">načelo</comp>
+            </collocation>
+            <collocation form="previdnosten princip" cluster="3" frequency="32" logDice="6.66">
+              <comp position="1" type="headword" sloleks="LE_e219aea3e40aeac0ab185eaf882435e2">previdnosten</comp>
+              <comp position="2" type="collocate" sloleks="LE_cc2a9999fe05b18bd5a122a3bb5d7398">princip</comp>
+            </collocation>
+            <collocation form="previdnostno varčevanje" cluster="4" frequency="8" logDice="4.9">
+              <comp position="1" type="headword" sloleks="LE_e219aea3e40aeac0ab185eaf882435e2">previdnostno</comp>
+              <comp position="2" type="collocate" sloleks="LE_94bc156a8a04e0616f0dcecd148ff954">varčevanje</comp>
+            </collocation>
+            <collocation form="previdnosten razlog" cluster="5" frequency="26" logDice="2.76">
+              <comp position="1" type="headword" sloleks="LE_e219aea3e40aeac0ab185eaf882435e2">previdnosten</comp>
+              <comp position="2" type="collocate" sloleks="LE_26c1514e5bfab4dd2b04f4e4711659e1">razlog</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

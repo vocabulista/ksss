@@ -1,0 +1,40 @@
+<entry>
+  <header>
+    <lexical_unit id="8147">skubsti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">3474</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ iz sbz2">
+          <collocations>
+            <collocation form="skubsti iz Komende" cluster="1" frequency="5" logDice="10.42">
+              <comp position="1" type="headword" sloleks="LE_4a5d29172311b0e977c32d896575b939">skubsti</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_93256a914ab78ca4955dd5e06a1cc19c">Komende</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ na sbz5">
+          <collocations>
+            <collocation form="skubsti na mestu" cluster="1" frequency="4" logDice="0.25">
+              <comp position="1" type="headword" sloleks="LE_4a5d29172311b0e977c32d896575b939">skubsti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mestu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="skubsti s številko" cluster="1" frequency="4" logDice="4.53">
+              <comp position="1" type="headword" sloleks="LE_4a5d29172311b0e977c32d896575b939">skubsti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_ebd741e03af85017076d3a5582503217">številko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

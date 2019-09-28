@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="98596">zastavonoša</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1203</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="zastavonoša serije" cluster="1" frequency="8" logDice="2.78">
+              <comp position="1" type="headword" sloleks="LE_358e9ca491c7e9c5dbe5220c3c0718ce">zastavonoša</comp>
+              <comp position="2" type="collocate" sloleks="LE_7024b0f285ec3f777bbcddad6033b4b0">serije</comp>
+            </collocation>
+            <collocation form="zastavonoša znamke" cluster="2" frequency="8" logDice="2.29">
+              <comp position="1" type="headword" sloleks="LE_358e9ca491c7e9c5dbe5220c3c0718ce">zastavonoša</comp>
+              <comp position="2" type="collocate" sloleks="LE_014a91896ff8a6fc2803a2ad2f508b8b">znamke</comp>
+            </collocation>
+            <collocation form="vloga zastavonoše" cluster="3" frequency="30" logDice="2.97">
+              <comp position="1" type="collocate" sloleks="LE_89aaa09f7c3d2be0b532b62934f8cead">vloga</comp>
+              <comp position="2" type="headword" sloleks="LE_358e9ca491c7e9c5dbe5220c3c0718ce">zastavonoše</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="izbrati za zastavonošo" cluster="1" frequency="6" logDice="3.42">
+              <comp position="1" type="collocate" sloleks="LE_9a298309cf1dd67939144a6855fbce8e">izbrati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_358e9ca491c7e9c5dbe5220c3c0718ce">zastavonošo</comp>
+            </collocation>
+            <collocation form="veljati za zastavonošo" cluster="2" frequency="4" logDice="0.57">
+              <comp position="1" type="collocate" sloleks="LE_d1ea0d9dd4771e211c9eddc0d342acc2">veljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_358e9ca491c7e9c5dbe5220c3c0718ce">zastavonošo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="hišen zastavonoša" cluster="1" frequency="16" logDice="3.48">
+              <comp position="1" type="collocate" sloleks="LE_cb6e38c18afa735d432d4a58f6be2710">hišen</comp>
+              <comp position="2" type="headword" sloleks="LE_358e9ca491c7e9c5dbe5220c3c0718ce">zastavonoša</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="konjenica z zastavonošo" cluster="1" frequency="4" logDice="10.57">
+              <comp position="1" type="collocate" sloleks="LE_94c3ce4c83bff9823c143ff612946d04">konjenica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_358e9ca491c7e9c5dbe5220c3c0718ce">zastavonošo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

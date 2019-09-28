@@ -1,0 +1,36 @@
+<entry>
+  <header>
+    <lexical_unit id="4028483">telefonček</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="mobilen telefonček" cluster="1" frequency="85" logDice="5.04">
+              <comp position="1" type="collocate" sloleks="LE_dcb8d5a7055ddd7b14247a225d966399">mobilen</comp>
+              <comp position="2" type="headword" sloleks="">telefonček</comp>
+            </collocation>
+            <collocation form="prenosen telefonček" cluster="1" frequency="43" logDice="5.51">
+              <comp position="1" type="collocate" sloleks="LE_405aef747e1802e8037c08be917ae12c">prenosen</comp>
+              <comp position="2" type="headword" sloleks="">telefonček</comp>
+            </collocation>
+            <collocation form="žepen telefonček" cluster="2" frequency="8" logDice="4.93">
+              <comp position="1" type="collocate" sloleks="LE_2dd4cd46bc292542c594f5fa01ef912a">žepen</comp>
+              <comp position="2" type="headword" sloleks="">telefonček</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="igra telefonček" cluster="1" frequency="6" logDice="1.9">
+              <comp position="1" type="collocate" sloleks="LE_61ca0973ad331da91acd1b8da555233b">igra</comp>
+              <comp position="2" type="headword" sloleks="">telefonček</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

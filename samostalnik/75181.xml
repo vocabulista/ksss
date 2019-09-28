@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="75181">oljčnik</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">535</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="oljčnik z gostoto" cluster="1" frequency="4" logDice="7.84">
+              <comp position="1" type="headword" sloleks="LE_875ce31fd34aab74d42526a2eddc43c0">oljčnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_04119dda30b2f94241026d5dcf4fde63">gostoto</comp>
+            </collocation>
+            <collocation form="oljčnik z drevesom" cluster="2" frequency="4" logDice="7.56">
+              <comp position="1" type="headword" sloleks="LE_875ce31fd34aab74d42526a2eddc43c0">oljčnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_7a1f2dd83e27565cc4158203cecb3b91">drevesom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="hektar oljčnika" cluster="1" frequency="37" logDice="6.14">
+              <comp position="1" type="collocate" sloleks="LE_a17133dc7f8b5ddb528de68483789ca1">hektar</comp>
+              <comp position="2" type="headword" sloleks="LE_875ce31fd34aab74d42526a2eddc43c0">oljčnika</comp>
+            </collocation>
+            <collocation form="ha oljčnika" cluster="2" frequency="7" logDice="4.95">
+              <comp position="1" type="collocate" sloleks="">ha</comp>
+              <comp position="2" type="headword" sloleks="LE_875ce31fd34aab74d42526a2eddc43c0">oljčnika</comp>
+            </collocation>
+            <collocation form="površina oljčnika" cluster="3" frequency="6" logDice="2.93">
+              <comp position="1" type="collocate" sloleks="LE_7d18868a4d96322e862a8e6591930019">površina</comp>
+              <comp position="2" type="headword" sloleks="LE_875ce31fd34aab74d42526a2eddc43c0">oljčnika</comp>
+            </collocation>
+            <collocation form="odstotek oljčnika" cluster="4" frequency="14" logDice="0.8">
+              <comp position="1" type="collocate" sloleks="LE_11ff641b777a9bdc2060c997d306c118">odstotek</comp>
+              <comp position="2" type="headword" sloleks="LE_875ce31fd34aab74d42526a2eddc43c0">oljčnika</comp>
+            </collocation>
+            <collocation form="projekt oljčnika" cluster="4" frequency="5" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_a34c0db39bb0196a80c5f3b9f5391fea">projekt</comp>
+              <comp position="2" type="headword" sloleks="LE_875ce31fd34aab74d42526a2eddc43c0">oljčnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="oljka v oljčniku" cluster="1" frequency="8" logDice="9.88">
+              <comp position="1" type="collocate" sloleks="LE_94e309a491c2c9980f724416ab6b3d0c">oljka</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_875ce31fd34aab74d42526a2eddc43c0">oljčniku</comp>
+            </collocation>
+            <collocation form="tla v oljčniku" cluster="2" frequency="4" logDice="5.41">
+              <comp position="1" type="collocate" sloleks="LE_eb748b49130a91779627e8f89256bf42">tla</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_875ce31fd34aab74d42526a2eddc43c0">oljčniku</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

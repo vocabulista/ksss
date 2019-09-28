@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="51921">cocktail</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">785</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="cocktail bara" cluster="1" frequency="10" logDice="6.81">
+              <comp position="1" type="headword" sloleks="LE_0560f0c02e63e0dde651c355d6239ae5">cocktail</comp>
+              <comp position="2" type="collocate" sloleks="LE_a295d1021e0320f31f2695e1ae4b8d29">bara</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="glasben cocktail" cluster="1" frequency="123" logDice="3.89">
+              <comp position="1" type="collocate" sloleks="LE_dac17ddcfd6670f6a6620ba54e7d32db">glasben</comp>
+              <comp position="2" type="headword" sloleks="LE_0560f0c02e63e0dde651c355d6239ae5">cocktail</comp>
+            </collocation>
+            <collocation form="brezplačen cocktail" cluster="2" frequency="8" logDice="1.89">
+              <comp position="1" type="collocate" sloleks="LE_f13c5bc96c18cc8717178cb956a5d153">brezplačen</comp>
+              <comp position="2" type="headword" sloleks="LE_0560f0c02e63e0dde651c355d6239ae5">cocktail</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ4">
+          <collocations>
+            <collocation form="Bled v Cocktail" cluster="1" frequency="4" logDice="8.96">
+              <comp position="1" type="collocate" sloleks="LE_41bf602a04555e442ede124b9cf79aba">Bled</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_0560f0c02e63e0dde651c355d6239ae5">Cocktail</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

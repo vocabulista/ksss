@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="13294">amandmiran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">416</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 z sbz2">
+          <collocations>
+            <collocation form="amandmiran s strani" cluster="1" frequency="10" logDice="5.67">
+              <comp position="1" type="headword" sloleks="LE_6feed73de8325b2e126a4303e2a7bf13">amandmiran</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_4432316ca39663f747c84fc21ac8e398">strani</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="zopet amandmiran" cluster="1" frequency="5" logDice="5.34">
+              <comp position="1" type="collocate" sloleks="LE_425cc478f2213268c8c4e26eb40ad876">zopet</comp>
+              <comp position="2" type="headword" sloleks="LE_6feed73de8325b2e126a4303e2a7bf13">amandmiran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz1 vez-gbz PBZ1">
+          <collocations>
+            <collocation form="člen je amandmiran" cluster="1" frequency="14" logDice="11.44">
+              <comp position="1" type="collocate" sloleks="LE_84ebbc8170dd3af11f0e405bd1b9493b">člen</comp>
+              <comp position="2" type="other" sloleks="LE_4ce899cffc87547d3bbc80f27408a816">je</comp>
+              <comp position="3" type="headword" sloleks="LE_6feed73de8325b2e126a4303e2a7bf13">amandmiran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

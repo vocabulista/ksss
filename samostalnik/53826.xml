@@ -1,0 +1,990 @@
+<entry>
+  <header>
+    <lexical_unit id="53826">doktorat</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">7593</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 do sbz2">
+          <collocations>
+            <collocation form="doktorat do podjetja" cluster="1" frequency="5" logDice="6.8">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_1aed870e4b1c077c155d34b01ab0af57">podjetja</comp>
+            </collocation>
+            <collocation form="študij do doktorata" cluster="2" frequency="7" logDice="10.62">
+              <comp position="1" type="collocate" sloleks="LE_e52336022dd6b96e8c4202b06d39d187">študij</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="šola do doktorata" cluster="3" frequency="4" logDice="7.03">
+              <comp position="1" type="collocate" sloleks="LE_9c664dac39a3cc920d3849a80fadafa1">šola</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="pot do doktorata" cluster="4" frequency="11" logDice="3.17">
+              <comp position="1" type="collocate" sloleks="LE_6f8aa8d4e7c0d678fee98b890a6d1964|LE_97291a922b54c3ec42af6728cfcc7ab2">pot</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="doktorat iz filozofije" cluster="1" frequency="61" logDice="10.73">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_6f6c7f41221df570e62e36aa3dd3c879">filozofije</comp>
+            </collocation>
+            <collocation form="doktorat iz ekonomije" cluster="1" frequency="47" logDice="10.22">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_e0593d80f6e697e9697817f2f22516d9">ekonomije</comp>
+            </collocation>
+            <collocation form="doktorat iz teorije" cluster="1" frequency="5" logDice="7.07">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_4ba15f28961bde55128a32aa1e33a888">teorije</comp>
+            </collocation>
+            <collocation form="doktorat iz teologije" cluster="2" frequency="48" logDice="10.63">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_5b7f9546afad0165bb009e50646045ce">teologije</comp>
+            </collocation>
+            <collocation form="doktorat iz antropologije" cluster="2" frequency="20" logDice="9.43">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_044cf144e82dfe2b5164f751ac999001">antropologije</comp>
+            </collocation>
+            <collocation form="doktorat iz psihologije" cluster="2" frequency="19" logDice="9.08">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_f45d9d342bd15a0ca5ddb1142e2d119a">psihologije</comp>
+            </collocation>
+            <collocation form="doktorat iz sociologije" cluster="2" frequency="11" logDice="8.5">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_4acc56f65800ac562e96a2ddc5a3190e">sociologije</comp>
+            </collocation>
+            <collocation form="doktorat iz književnosti" cluster="3" frequency="18" logDice="8.87">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_07c726d29d5bbc1642a50548b2641fb6">književnosti</comp>
+            </collocation>
+            <collocation form="doktorat iz literature" cluster="3" frequency="5" logDice="6.71">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_42b654026289c1689349d81cc5440984">literature</comp>
+            </collocation>
+            <collocation form="doktorat iz fizike" cluster="4" frequency="34" logDice="9.69">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_120e5f9591027905029603d6f751e619">fizike</comp>
+            </collocation>
+            <collocation form="doktorat iz kemije" cluster="4" frequency="17" logDice="8.81">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_1701178f97418f1924fe4be51354365b">kemije</comp>
+            </collocation>
+            <collocation form="doktorat iz biologije" cluster="4" frequency="17" logDice="8.93">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_c5c74ea03735e0f60728a7a694c24437">biologije</comp>
+            </collocation>
+            <collocation form="doktorat iz matematike" cluster="4" frequency="14" logDice="7.73">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_d6a88520a0b2984c824f455e67abe38c">matematike</comp>
+            </collocation>
+            <collocation form="doktorat iz računalništva" cluster="4" frequency="8" logDice="7.88">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_e3c6c80c20bc70df058ba832f46a208f">računalništva</comp>
+            </collocation>
+            <collocation form="doktorat iz geografije" cluster="4" frequency="6" logDice="7.59">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_4201c180b04cd919494c0afef2bbfd0d">geografije</comp>
+            </collocation>
+            <collocation form="doktorat iz jezikoslovja" cluster="5" frequency="9" logDice="8.3">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_13ceaf5163601a2ac30549cfa9abb07b">jezikoslovja</comp>
+            </collocation>
+            <collocation form="doktorat iz znanosti" cluster="6" frequency="62" logDice="10.54">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_51774a0372acafccc58b42ca036860b6">znanosti</comp>
+            </collocation>
+            <collocation form="doktorat iz zgodovine" cluster="6" frequency="36" logDice="7.92">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_b2dc0e37e23a16ae3fe7cfe473a5341b">zgodovine</comp>
+            </collocation>
+            <collocation form="doktorat iz glasbe" cluster="6" frequency="9" logDice="8.07">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_b9d4fb1bfd740612d94d302113e10a62">glasbe</comp>
+            </collocation>
+            <collocation form="doktorat iz umetnosti" cluster="6" frequency="5" logDice="7.26">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_14864f40c4c030e3c6501ecbd0a6f10b">umetnosti</comp>
+            </collocation>
+            <collocation form="doktorat iz odnosa" cluster="6" frequency="5" logDice="7.23">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_77f2f37de07cb9f39cb3dd828efa7919">odnosa</comp>
+            </collocation>
+            <collocation form="doktorat iz jezika" cluster="6" frequency="4" logDice="5.67">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_84e841a4b1d5e4b816efe7f126e1f693">jezika</comp>
+            </collocation>
+            <collocation form="doktorat iz razlaganja" cluster="7" frequency="7" logDice="8.02">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_69369a921e6212d2cc2f494061eaa0fa">razlaganja</comp>
+            </collocation>
+            <collocation form="doktorat iz menedžmenta" cluster="8" frequency="7" logDice="7.81">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_5e2dc20dfde378402e469d8a97ed6381">menedžmenta</comp>
+            </collocation>
+            <collocation form="doktorat iz prava" cluster="9" frequency="51" logDice="10.29">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_57d25ef076cc8d9b8a6d74e69a80c007">prava</comp>
+            </collocation>
+            <collocation form="doktorat iz medicine" cluster="9" frequency="9" logDice="7.75">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_066881b44b6f5b7f2ea5ebef55af1294">medicine</comp>
+            </collocation>
+            <collocation form="doktorat iz biokemije" cluster="10" frequency="6" logDice="7.75">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_1aeb35e345d3dfa407bc17d3c8604d0a">biokemije</comp>
+            </collocation>
+            <collocation form="doktorat iz geologije" cluster="10" frequency="5" logDice="7.5">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_9d79cbb905353679619a9b4fa4de3e13">geologije</comp>
+            </collocation>
+            <collocation form="doktorat iz elektrotehnike" cluster="11" frequency="6" logDice="7.74">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_dc2a51f4edcfa424daa6ad2c9326c0d8">elektrotehnike</comp>
+            </collocation>
+            <collocation form="doktorat iz strojništva" cluster="11" frequency="6" logDice="7.72">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_b78c085a6079b9c01a7c570417f98644">strojništva</comp>
+            </collocation>
+            <collocation form="doktorat iz agronomije" cluster="11" frequency="4" logDice="7.2">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_a6ce4418a0726ad56f7eb614b3483efe">agronomije</comp>
+            </collocation>
+            <collocation form="doktorat iz samoupravljanja" cluster="12" frequency="5" logDice="7.53">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_7fa5b44d60f54639463940a9dbfed108">samoupravljanja</comp>
+            </collocation>
+            <collocation form="doktorat iz manipulacije" cluster="13" frequency="4" logDice="7.23">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_6bcf7e4d23369bc93c293dbd603247b4">manipulacije</comp>
+            </collocation>
+            <collocation form="doktorat iz arheologije" cluster="14" frequency="4" logDice="7.19">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_f5923aabd95ab35301951e9e7ac274fc">arheologije</comp>
+            </collocation>
+            <collocation form="doktorat iz področja" cluster="15" frequency="6" logDice="6.0">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_66c02e1a651f578a71415b967738b69b">področja</comp>
+            </collocation>
+            <collocation form="doktorat iz teme" cluster="15" frequency="4" logDice="6.67">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_2fc28e0a57fc33a1646e43e1a6f376a0">teme</comp>
+            </collocation>
+            <collocation form="doktorat iz leta" cluster="16" frequency="11" logDice="2.19">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leta</comp>
+            </collocation>
+            <collocation form="doktorat iz vede" cluster="17" frequency="24" logDice="9.51">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_27e5885a155487fbb48025b1af2a7cbc">vede</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 na sbz5">
+          <collocations>
+            <collocation form="doktorat na sorbona" cluster="1" frequency="4" logDice="8.6">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="">sorbona</comp>
+            </collocation>
+            <collocation form="doktorat na Harvardu" cluster="2" frequency="7" logDice="8.33">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_8699cdf58122240602ce5b0373a27ca4|LE_6cacbc22412f3ff453c46f651ef47629">Harvardu</comp>
+            </collocation>
+            <collocation form="doktorat na katedri" cluster="3" frequency="5" logDice="7.58">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_18be7cd46faaf9ad9097e248b4d95cde">katedri</comp>
+            </collocation>
+            <collocation form="doktorat na univerzi" cluster="4" frequency="81" logDice="7.06">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_93f79e5817acbd9f06e5ebd6a1b0a66e">univerzi</comp>
+            </collocation>
+            <collocation form="doktorat na fakulteti" cluster="4" frequency="37" logDice="5.61">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_00551f6b0565bbceaf188a9fddd79b4d">fakulteti</comp>
+            </collocation>
+            <collocation form="doktorat na inštitutu" cluster="4" frequency="7" logDice="5.31">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_656c06c9eac2e2d364a723c828c33be4">inštitutu</comp>
+            </collocation>
+            <collocation form="doktorat na področju" cluster="5" frequency="14" logDice="1.51">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_66c02e1a651f578a71415b967738b69b">področju</comp>
+            </collocation>
+            <collocation form="doktorat na Oddelku" cluster="5" frequency="11" logDice="5.21">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_f73286dd6f89a4307b05a1a8ffe3e326">Oddelku</comp>
+            </collocation>
+            <collocation form="delo na doktoratu" cluster="6" frequency="4" logDice="1.39">
+              <comp position="1" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="doktorat znanosti" cluster="1" frequency="671" logDice="9.42">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="collocate" sloleks="LE_51774a0372acafccc58b42ca036860b6">znanosti</comp>
+            </collocation>
+            <collocation form="doktorat vede" cluster="2" frequency="17" logDice="6.68">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="collocate" sloleks="LE_27e5885a155487fbb48025b1af2a7cbc">vede</comp>
+            </collocation>
+            <collocation form="doktorat univerze" cluster="3" frequency="159" logDice="6.54">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="collocate" sloleks="LE_93f79e5817acbd9f06e5ebd6a1b0a66e">univerze</comp>
+            </collocation>
+            <collocation form="doktorat fakultete" cluster="3" frequency="13" logDice="3.56">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="collocate" sloleks="LE_00551f6b0565bbceaf188a9fddd79b4d">fakultete</comp>
+            </collocation>
+            <collocation form="doktorat akademije" cluster="3" frequency="10" logDice="4.35">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="collocate" sloleks="LE_590d5774be9003673d865c9f66fa53b8">akademije</comp>
+            </collocation>
+            <collocation form="zagovor doktorata" cluster="4" frequency="71" logDice="9.16">
+              <comp position="1" type="collocate" sloleks="LE_8e23ac96b479c9f74fd3783f7124817b">zagovor</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="nostrifikacija doktorata" cluster="5" frequency="6" logDice="7.59">
+              <comp position="1" type="collocate" sloleks="LE_b50d18f00499a7dae5e3c5ae822d514a">nostrifikacija</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="dokončanje doktorata" cluster="6" frequency="7" logDice="4.48">
+              <comp position="1" type="collocate" sloleks="LE_20d0777a3a1a3a83cce599302a20c1b1">dokončanje</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="tema doktorata" cluster="7" frequency="30" logDice="4.38">
+              <comp position="1" type="collocate" sloleks="LE_2fc28e0a57fc33a1646e43e1a6f376a0">tema</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="naslov doktorata" cluster="7" frequency="7" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_1aca8621567cc70c42163dfa35048969">naslov</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="petina doktorata" cluster="8" frequency="6" logDice="4.17">
+              <comp position="1" type="collocate" sloleks="LE_0b0f8f1fd0e1191f7a25516a0efe7048">petina</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="prejem doktorata" cluster="9" frequency="6" logDice="4.07">
+              <comp position="1" type="collocate" sloleks="LE_fe302235186065f4b3c04904a9a124a7">prejem</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="prejemnik doktorata" cluster="10" frequency="6" logDice="3.96">
+              <comp position="1" type="collocate" sloleks="LE_03c57330e4c3b92e5618c740cc8bc7ee">prejemnik</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="dobitnik doktorata" cluster="11" frequency="8" logDice="3.86">
+              <comp position="1" type="collocate" sloleks="LE_21eda44b81f6cf40bcebf59b22846a4f">dobitnik</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="doseganje doktorata" cluster="12" frequency="6" logDice="3.29">
+              <comp position="1" type="collocate" sloleks="LE_e750f74422727c40d7940b7ff731af8b">doseganje</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="pisanje doktorata" cluster="13" frequency="36" logDice="5.3">
+              <comp position="1" type="collocate" sloleks="LE_2912249b30c6b1558ad720acc5a049dc">pisanje</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="priprava doktorata" cluster="13" frequency="26" logDice="3.2">
+              <comp position="1" type="collocate" sloleks="LE_bdb43273740fff938591c6ba74f8869f">priprava</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="pridobitev doktorata" cluster="14" frequency="102" logDice="5.94">
+              <comp position="1" type="collocate" sloleks="LE_55f8cd8ae989cbff659c25c9ced48745">pridobitev</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="opravljanje doktorata" cluster="14" frequency="16" logDice="3.1">
+              <comp position="1" type="collocate" sloleks="LE_d6d80e8b7f3a3efd77ef155ededa75af">opravljanje</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="nosilec doktorata" cluster="15" frequency="9" logDice="2.77">
+              <comp position="1" type="collocate" sloleks="LE_44e9e704b1c698f31c97dfafb8640fe5">nosilec</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="magisterij doktorata" cluster="16" frequency="6" logDice="7.54">
+              <comp position="1" type="collocate" sloleks="LE_8489cc78b87e9e6eedef4fcbbf96690c">magisterij</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="področje doktorata" cluster="17" frequency="14" logDice="0.8">
+              <comp position="1" type="collocate" sloleks="LE_66c02e1a651f578a71415b967738b69b">področje</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="okvir doktorata" cluster="17" frequency="13" logDice="1.3">
+              <comp position="1" type="collocate" sloleks="LE_7ad9953b27a13e215544d77e1a778983">okvir</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="osnova doktorata" cluster="17" frequency="5" logDice="1.51">
+              <comp position="1" type="collocate" sloleks="LE_25d7e9c6fd68f8446f6a04b8cfe6afcd">osnova</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="podelitev doktorata" cluster="18" frequency="106" logDice="6.55">
+              <comp position="1" type="collocate" sloleks="LE_e779162ae3a8977ea46c00bacff87d42">podelitev</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="tujina doktorata" cluster="19" frequency="5" logDice="5.7">
+              <comp position="1" type="collocate" sloleks="LE_a190901c862adb8e32b97ac0e742f967">tujina</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="odvzem doktorata" cluster="20" frequency="20" logDice="5.01">
+              <comp position="1" type="collocate" sloleks="LE_b32fff0ab1075d0069b47ac5a3b45659">odvzem</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="pripravljanje doktorata" cluster="21" frequency="5" logDice="4.97">
+              <comp position="1" type="collocate" sloleks="LE_ee027f8f3b982be6ccd7f99f406bce43">pripravljanje</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+            <collocation form="podeljevanje doktorata" cluster="22" frequency="7" logDice="4.96">
+              <comp position="1" type="collocate" sloleks="LE_13ab40dbadb58017968cdb53514c7687">podeljevanje</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="doktorat v Sadu" cluster="1" frequency="4" logDice="6.33">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_650c0e616ef09ef25bd843515d9c8cec">Sadu</comp>
+            </collocation>
+            <collocation form="doktorat v žepu" cluster="2" frequency="10" logDice="5.53">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_6c4917b1d9c4253494176700e4c1e611">žepu</comp>
+            </collocation>
+            <collocation form="doktorat v reviji" cluster="3" frequency="6" logDice="4.58">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_204d5501054914c9e28f5661e901ede4">reviji</comp>
+            </collocation>
+            <collocation form="doktorat v ZDA" cluster="4" frequency="9" logDice="2.91">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_0a9215aaca61dd3ef12ab7c07353384e">ZDA</comp>
+            </collocation>
+            <collocation form="doktorat v tujini" cluster="4" frequency="8" logDice="2.6">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_a190901c862adb8e32b97ac0e742f967">tujini</comp>
+            </collocation>
+            <collocation form="doktorat v letu" cluster="5" frequency="17" logDice="1.4">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">letu</comp>
+            </collocation>
+            <collocation form="doktorat v Sloveniji" cluster="5" frequency="10" logDice="0.63">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Sloveniji</comp>
+            </collocation>
+            <collocation form="doktorat v času" cluster="5" frequency="5" logDice="0.75">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">času</comp>
+            </collocation>
+            <collocation form="doktorat v okviru" cluster="6" frequency="4" logDice="1.1">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_7ad9953b27a13e215544d77e1a778983">okviru</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="doktorat s področja" cluster="1" frequency="78" logDice="5.59">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_66c02e1a651f578a71415b967738b69b">področja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="podeliti doktorat" cluster="1" frequency="190" logDice="7.4">
+              <comp position="1" type="collocate" sloleks="LE_d1ccb4125cb51fdbd55e25249e1c4c80">podeliti</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="podeljevati doktorat" cluster="1" frequency="13" logDice="6.08">
+              <comp position="1" type="collocate" sloleks="LE_f395a61e66c733ea64e9624e56bbf656">podeljevati</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="imeti doktorat" cluster="2" frequency="162" logDice="1.92">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="opraviti doktorat" cluster="2" frequency="78" logDice="4.69">
+              <comp position="1" type="collocate" sloleks="LE_1b9afe9f658fd894d11b949816dd10f9">opraviti</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="delati doktorat" cluster="2" frequency="74" logDice="5.16">
+              <comp position="1" type="collocate" sloleks="LE_240594860749d18971944f6690505af1">delati</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="narediti doktorat" cluster="2" frequency="65" logDice="3.77">
+              <comp position="1" type="collocate" sloleks="LE_26dfa51ea71580c729d6a49ea3108777">narediti</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="prejeti doktorat" cluster="2" frequency="53" logDice="4.19">
+              <comp position="1" type="collocate" sloleks="LE_54d1be3ba6526bad290623dec6021ded">prejeti</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="doseči doktorat" cluster="2" frequency="50" logDice="3.18">
+              <comp position="1" type="collocate" sloleks="LE_c774a9afe35a6598f95fb1776c665730">doseči</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="pridobiti doktorat" cluster="2" frequency="29" logDice="3.41">
+              <comp position="1" type="collocate" sloleks="LE_aa02220c234e3b2081fe3dffb01f8f5a">pridobiti</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="opravljati doktorat" cluster="2" frequency="21" logDice="3.0">
+              <comp position="1" type="collocate" sloleks="LE_4c9df2ccb77d29125a9d948d24e46e27">opravljati</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="dobiti doktorat" cluster="2" frequency="21" logDice="0.68">
+              <comp position="1" type="collocate" sloleks="LE_abe97863495bd3d2d1b41f81933061b7">dobiti</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="dati doktorat" cluster="2" frequency="8" logDice="0.78">
+              <comp position="1" type="collocate" sloleks="LE_251860b7395e9bef61ae04eb36d0639d">dati</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="napraviti doktorat" cluster="3" frequency="9" logDice="4.14">
+              <comp position="1" type="collocate" sloleks="LE_a920f5fb575ba02c168ed558fcb76c1a">napraviti</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="zagovarjati doktorat" cluster="4" frequency="17" logDice="4.66">
+              <comp position="1" type="collocate" sloleks="LE_393cadeb843bd687853e805cfe187be7">zagovarjati</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="priznati doktorat" cluster="4" frequency="8" logDice="3.23">
+              <comp position="1" type="collocate" sloleks="LE_0e37a3b7be6571957882776811420bd1">priznati</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="pripravljati doktorat" cluster="5" frequency="111" logDice="5.63">
+              <comp position="1" type="collocate" sloleks="LE_aa276ee22368f98ca51880c3db9b1ae1">pripravljati</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="pisati doktorat" cluster="5" frequency="28" logDice="4.74">
+              <comp position="1" type="collocate" sloleks="LE_4173587cb50dc70d0c9a1be18c9c1b96">pisati</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="napisati doktorat" cluster="5" frequency="12" logDice="2.88">
+              <comp position="1" type="collocate" sloleks="LE_4b447f8d3f6099cf04f05e1f36dd760b">napisati</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="vpisati doktorat" cluster="6" frequency="27" logDice="6.07">
+              <comp position="1" type="collocate" sloleks="LE_922eea2bfddb0f83f7a8ad8d0a94379d">vpisati</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="končevati doktorat" cluster="7" frequency="10" logDice="5.46">
+              <comp position="1" type="collocate" sloleks="LE_58f08a49ce0b83ad64ed47f3441d9039">končevati</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="dokončati doktorat" cluster="7" frequency="9" logDice="4.92">
+              <comp position="1" type="collocate" sloleks="LE_bd2aaa7496e4364eec1b2632b05ad3b3">dokončati</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz do SBZ2">
+          <collocations>
+            <collocation form="priti do doktorata" cluster="1" frequency="16" logDice="1.31">
+              <comp position="1" type="collocate" sloleks="LE_fc339e29cc0e8ec9efe1ef0acdfb11b5">priti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorata</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="pripravljati na doktorat" cluster="1" frequency="21" logDice="4.3">
+              <comp position="1" type="collocate" sloleks="LE_aa276ee22368f98ca51880c3db9b1ae1">pripravljati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="vpisati na doktorat" cluster="2" frequency="4" logDice="3.98">
+              <comp position="1" type="collocate" sloleks="LE_922eea2bfddb0f83f7a8ad8d0a94379d">vpisati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz o SBZ5">
+          <collocations>
+            <collocation form="razmišljati o doktoratu" cluster="1" frequency="13" logDice="3.08">
+              <comp position="1" type="collocate" sloleks="LE_7350c68b807f61e5db5145d859ceec18">razmišljati</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz po SBZ5">
+          <collocations>
+            <collocation form="zaposliti po doktoratu" cluster="1" frequency="5" logDice="7.7">
+              <comp position="1" type="collocate" sloleks="LE_94eac72580b7b3a84fc9ab1b2f6b0d42">zaposliti</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratu</comp>
+            </collocation>
+            <collocation form="nameravati po doktoratu" cluster="2" frequency="4" logDice="6.53">
+              <comp position="1" type="collocate" sloleks="LE_23c0c2adf4c9fdfba559a3aeca464c79">nameravati</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratu</comp>
+            </collocation>
+            <collocation form="ostati po doktoratu" cluster="3" frequency="5" logDice="4.62">
+              <comp position="1" type="collocate" sloleks="LE_f2645fccc77ca8ba15862278bf3ee661">ostati</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz pri SBZ5">
+          <collocations>
+            <collocation form="odstopiti pri doktoratu" cluster="1" frequency="5" logDice="10.76">
+              <comp position="1" type="collocate" sloleks="LE_0cee55a76bb53519052c451a4ef92ce3">odstopiti</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratu</comp>
+            </collocation>
+            <collocation form="pomagati pri doktoratu" cluster="2" frequency="4" logDice="1.47">
+              <comp position="1" type="collocate" sloleks="LE_2fc43d313cb40b86ed2a370a430e93c1">pomagati</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ4">
+          <collocations>
+            <collocation form="vključiti v doktorat" cluster="1" frequency="5" logDice="2.01">
+              <comp position="1" type="collocate" sloleks="LE_7f7b4e23d97807b96ad31d178ff06dd0">vključiti</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="ukvarjati v doktoratu" cluster="1" frequency="4" logDice="4.2">
+              <comp position="1" type="collocate" sloleks="LE_d218d442858c415bdeff018dc056aea9">ukvarjati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="kronati z doktoratom" cluster="1" frequency="6" logDice="6.33">
+              <comp position="1" type="collocate" sloleks="LE_89717f0219defe08430710f8450f8062">kronati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="počastiti z doktoratom" cluster="2" frequency="6" logDice="6.0">
+              <comp position="1" type="collocate" sloleks="LE_cb50aa58954f6d487574589caee9ca01">počastiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="hvaliti z doktoratom" cluster="3" frequency="4" logDice="5.62">
+              <comp position="1" type="collocate" sloleks="LE_235903f4cae558534bd2a65aebb36451">hvaliti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="nagraditi z doktoratom" cluster="3" frequency="4" logDice="4.42">
+              <comp position="1" type="collocate" sloleks="LE_243952db4f3c807eacdedbff0990f776">nagraditi</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="končati z doktoratom" cluster="4" frequency="26" logDice="4.39">
+              <comp position="1" type="collocate" sloleks="LE_bff8ada88a0327f702f1df18714e8d4a">končati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="zaključiti z doktoratom" cluster="4" frequency="5" logDice="3.54">
+              <comp position="1" type="collocate" sloleks="LE_0d8c4650caac4db47bfd5fa126b9e5cf">zaključiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="nadaljevati z doktoratom" cluster="4" frequency="4" logDice="1.69">
+              <comp position="1" type="collocate" sloleks="LE_bf40887e2899d51ca12eec3f323f6287">nadaljevati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="začeti z doktoratom" cluster="4" frequency="4" logDice="0.69">
+              <comp position="1" type="collocate" sloleks="LE_5526be99243d6a70e33b06d3eabd15ae">začeti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="ponašati z doktoratom" cluster="5" frequency="7" logDice="4.26">
+              <comp position="1" type="collocate" sloleks="LE_5008ad34b79ec7e5d3c7f38668e99228">ponašati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="skleniti z doktoratom" cluster="6" frequency="7" logDice="4.11">
+              <comp position="1" type="collocate" sloleks="LE_5ce805e04029f8e7739ab8e779fcfccd">skleniti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="odločiti za doktorat" cluster="1" frequency="5" logDice="0.46">
+              <comp position="1" type="collocate" sloleks="LE_1849ab807e0602a0ae7fa9a648251d4b">odločiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="časten doktorat" cluster="1" frequency="784" logDice="9.37">
+              <comp position="1" type="collocate" sloleks="LE_58de002dfabd866340a14d5ee925fda7">časten</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="Perićev doktorat" cluster="2" frequency="8" logDice="7.21">
+              <comp position="1" type="collocate" sloleks="LE_17b91d6be8d3af94f1c739dbfef61329">Perićev</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="bolonjski doktorat" cluster="3" frequency="14" logDice="5.6">
+              <comp position="1" type="collocate" sloleks="LE_cb851d3f3ffdd835e553b14b804ebdc4">bolonjski</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="opravljen doktorat" cluster="4" frequency="57" logDice="4.91">
+              <comp position="1" type="collocate" sloleks="LE_3988ad74cbb80eab6b672445486f813b">opravljen</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="končan doktorat" cluster="4" frequency="20" logDice="3.52">
+              <comp position="1" type="collocate" sloleks="LE_a6ddc379b6346be01d295edd971590f0">končan</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="narejen doktorat" cluster="5" frequency="11" logDice="4.24">
+              <comp position="1" type="collocate" sloleks="LE_1a0f345ebf58dafa96fd143b980fa0bb">narejen</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="odmeven doktorat" cluster="6" frequency="14" logDice="4.03">
+              <comp position="1" type="collocate" sloleks="LE_a713890b4665d858b6e9d5c5080096c2">odmeven</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="vrhunski doktorat" cluster="6" frequency="11" logDice="1.96">
+              <comp position="1" type="collocate" sloleks="LE_1f6407ff0f9a015b81566069ad3db72f">vrhunski</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="znanstven doktorat" cluster="7" frequency="19" logDice="3.15">
+              <comp position="1" type="collocate" sloleks="LE_42437a58981194c6715f9b0a7775146d">znanstven</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="potreben doktorat" cluster="8" frequency="13" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_8315e7ec13172cb2fc32c85291e90099">potreben</comp>
+              <comp position="2" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ4">
+          <collocations>
+            <collocation form="priprava na doktorat" cluster="1" frequency="15" logDice="3.63">
+              <comp position="1" type="collocate" sloleks="LE_bdb43273740fff938591c6ba74f8869f">priprava</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="doktorat na FDV" cluster="2" frequency="6" logDice="8.19">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_9d682c8cc3a497d65e1ba0101c89bac0">FDV</comp>
+            </collocation>
+            <collocation form="doktorat na temo" cluster="3" frequency="56" logDice="6.03">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_2fc28e0a57fc33a1646e43e1a6f376a0">temo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="diploma o doktoratu" cluster="1" frequency="6" logDice="10.25">
+              <comp position="1" type="collocate" sloleks="LE_3c13628995e5b247e3a585b07cbbdb07">diploma</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 po SBZ5">
+          <collocations>
+            <collocation form="leto po doktoratu" cluster="1" frequency="7" logDice="2.73">
+              <comp position="1" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leto</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 pri SBZ5">
+          <collocations>
+            <collocation form="mentor pri doktoratu" cluster="1" frequency="22" logDice="11.56">
+              <comp position="1" type="collocate" sloleks="LE_d7a952e5860ce963b3fae394e6e48cf9">mentor</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratu</comp>
+            </collocation>
+            <collocation form="mentorica pri doktoratu" cluster="2" frequency="7" logDice="11.3">
+              <comp position="1" type="collocate" sloleks="LE_30f650575ba3730770e9b55cccc13d8a">mentorica</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratu</comp>
+            </collocation>
+            <collocation form="prepisovanje pri doktoratu" cluster="3" frequency="5" logDice="11.19">
+              <comp position="1" type="collocate" sloleks="LE_0b193d7b966f6a801cc54bcb266e96a1">prepisovanje</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratu</comp>
+            </collocation>
+            <collocation form="afera pri doktoratu" cluster="4" frequency="6" logDice="10.42">
+              <comp position="1" type="collocate" sloleks="LE_e31a0beeface78aaee253009dde95f9b">afera</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratu</comp>
+            </collocation>
+            <collocation form="mentorstvo pri doktoratu" cluster="5" frequency="5" logDice="10.36">
+              <comp position="1" type="collocate" sloleks="LE_c4e6f2facd922223e518bf5443d09215">mentorstvo</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="asistent z doktoratom" cluster="1" frequency="68" logDice="11.84">
+              <comp position="1" type="collocate" sloleks="LE_aa8fefd230955a8bf3b8f2c1c2e40b2f">asistent</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="asistentka z doktoratom" cluster="1" frequency="26" logDice="10.64">
+              <comp position="1" type="collocate" sloleks="LE_4777e2564e66d590117f055c7aed40f3">asistentka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="izobrazba z doktoratom" cluster="2" frequency="5" logDice="7.74">
+              <comp position="1" type="collocate" sloleks="LE_7c0272b0a1dfb6105f9c0f3f8157e283">izobrazba</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="študija z doktoratom" cluster="3" frequency="10" logDice="8.21">
+              <comp position="1" type="collocate" sloleks="LE_6144c6af1ea3cf9fba24949954df25bb">študija</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="študij z doktoratom" cluster="3" frequency="6" logDice="7.72">
+              <comp position="1" type="collocate" sloleks="LE_e52336022dd6b96e8c4202b06d39d187">študij</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="ekonomist z doktoratom" cluster="4" frequency="9" logDice="8.85">
+              <comp position="1" type="collocate" sloleks="LE_8648c4ad9a2984c61b1a90dac3979b62">ekonomist</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="intelektualec z doktoratom" cluster="4" frequency="4" logDice="7.72">
+              <comp position="1" type="collocate" sloleks="LE_258f6417a2f910df8948f0ab4a2fd546">intelektualec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="raziskovalec z doktoratom" cluster="5" frequency="36" logDice="10.27">
+              <comp position="1" type="collocate" sloleks="LE_3aa5916cc02a331800d2eac51f2f93e3">raziskovalec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="profesor z doktoratom" cluster="5" frequency="19" logDice="9.55">
+              <comp position="1" type="collocate" sloleks="LE_9391b7cc2b94d547675518ae0dd06610">profesor</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="strokovnjak z doktoratom" cluster="5" frequency="7" logDice="6.99">
+              <comp position="1" type="collocate" sloleks="LE_f148c89ddbbfc6907ba9fc0273aa62b7">strokovnjak</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="sodelavec z doktoratom" cluster="5" frequency="6" logDice="7.44">
+              <comp position="1" type="collocate" sloleks="LE_3c823418d4f6946e6aeaee93c370a7fd">sodelavec</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="znanstvenik z doktoratom" cluster="5" frequency="6" logDice="7.78">
+              <comp position="1" type="collocate" sloleks="LE_0995fa591bcfb3d80e2d9f27b2a02922">znanstvenik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="fakulteta z doktoratom" cluster="6" frequency="5" logDice="7.29">
+              <comp position="1" type="collocate" sloleks="LE_00551f6b0565bbceaf188a9fddd79b4d">fakulteta</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="človek z doktoratom" cluster="7" frequency="34" logDice="4.93">
+              <comp position="1" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človek</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="ženska z doktoratom" cluster="7" frequency="8" logDice="4.79">
+              <comp position="1" type="collocate" sloleks="LE_27b2cafdf8a189c632c32da066af1ce5">ženska</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="kandidat z doktoratom" cluster="7" frequency="6" logDice="6.13">
+              <comp position="1" type="collocate" sloleks="LE_376ba6d3c5a122c91472298aa2feeaf6">kandidat</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="minister z doktoratom" cluster="7" frequency="4" logDice="5.83">
+              <comp position="1" type="collocate" sloleks="LE_14d03bd4c4af80feb9e303c813fc6d24">minister</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="oseba z doktoratom" cluster="7" frequency="4" logDice="3.1">
+              <comp position="1" type="collocate" sloleks="LE_5e8793197d1b4e3a6b3f8ae0aa95a812">oseba</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="leto z doktoratom" cluster="8" frequency="4" logDice="2.94">
+              <comp position="1" type="collocate" sloleks="LE_73f71925eddca68ac394a8846ebcb65d">leto</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="docent z doktoratom" cluster="9" frequency="7" logDice="8.83">
+              <comp position="1" type="collocate" sloleks="LE_4990a79b6a61352c7a4c60fdb771cd1f">docent</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="Slovenka z doktoratom" cluster="10" frequency="6" logDice="8.0">
+              <comp position="1" type="collocate" sloleks="LE_6c6268d3abac8bf4fb872e91efe0970b">Slovenka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="odvetnica z doktoratom" cluster="11" frequency="4" logDice="7.96">
+              <comp position="1" type="collocate" sloleks="LE_51ce76001b0a6ff0d49eadfb6d46cd45">odvetnica</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktoratom</comp>
+            </collocation>
+            <collocation form="doktorat z mentorstvom" cluster="12" frequency="4" logDice="10.93">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_c4e6f2facd922223e518bf5443d09215">mentorstvom</comp>
+            </collocation>
+            <collocation form="doktorat s tezo" cluster="13" frequency="4" logDice="8.52">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_8f98e42ab3139b15f8df634c5136a89e">tezo</comp>
+            </collocation>
+            <collocation form="doktorat z naslovom" cluster="14" frequency="18" logDice="2.93">
+              <comp position="1" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_1aca8621567cc70c42163dfa35048969">naslovom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="ZRC za doktorat" cluster="1" frequency="4" logDice="9.75">
+              <comp position="1" type="collocate" sloleks="LE_a386f0b25cce11c4a6f71ea9dd769db8">ZRC</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="raziskava za doktorat" cluster="2" frequency="8" logDice="7.94">
+              <comp position="1" type="collocate" sloleks="LE_a52c857738729a3a7a0e2bff72bbb2ac">raziskava</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="študij za doktorat" cluster="2" frequency="6" logDice="7.86">
+              <comp position="1" type="collocate" sloleks="LE_e52336022dd6b96e8c4202b06d39d187">študij</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="kandidat za doktorat" cluster="3" frequency="6" logDice="1.95">
+              <comp position="1" type="collocate" sloleks="LE_376ba6d3c5a122c91472298aa2feeaf6">kandidat</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="komisija za doktorat" cluster="3" frequency="4" logDice="1.39">
+              <comp position="1" type="collocate" sloleks="LE_1d71b650207bc9d89d6fe3df1de3762a">komisija</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="tema za doktorat" cluster="4" frequency="12" logDice="7.24">
+              <comp position="1" type="collocate" sloleks="LE_2fc28e0a57fc33a1646e43e1a6f376a0">tema</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="gradivo za doktorat" cluster="4" frequency="4" logDice="4.38">
+              <comp position="1" type="collocate" sloleks="LE_168ebc18569a69bcbcf4f6446e8ec3ea">gradivo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="štipendija za doktorat" cluster="5" frequency="6" logDice="6.0">
+              <comp position="1" type="collocate" sloleks="LE_92f8cfa4add7eb81f4904b2af39231ba">štipendija</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="dan za doktorat" cluster="6" frequency="4" logDice="3.12">
+              <comp position="1" type="collocate" sloleks="LE_687a3a5f213dba3724e626216f1b09da">dan</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="delo za doktorat" cluster="6" frequency="4" logDice="3.04">
+              <comp position="1" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+            <collocation form="nagrada za doktorat" cluster="7" frequency="4" logDice="1.71">
+              <comp position="1" type="collocate" sloleks="LE_36fb26ff3b13dda6ad73d5616b44950c">nagrada</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_d28b8aa8e8d2382148d211d90e96e499">doktorat</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

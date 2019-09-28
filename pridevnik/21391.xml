@@ -1,0 +1,48 @@
+<entry>
+  <header>
+    <lexical_unit id="21391">kolovozen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">729</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="kolovozna luža" cluster="1" frequency="7" logDice="6.34">
+              <comp position="1" type="headword" sloleks="LE_3570370235654f91bf29f47ca788bd49">kolovozna</comp>
+              <comp position="2" type="collocate" sloleks="LE_bfe2c0eb6df2c4debe26055c8ac8f6cf">luža</comp>
+            </collocation>
+            <collocation form="kolovozna pot" cluster="2" frequency="617" logDice="6.03">
+              <comp position="1" type="headword" sloleks="LE_3570370235654f91bf29f47ca788bd49">kolovozna</comp>
+              <comp position="2" type="collocate" sloleks="LE_6f8aa8d4e7c0d678fee98b890a6d1964|LE_97291a922b54c3ec42af6728cfcc7ab2">pot</comp>
+            </collocation>
+            <collocation form="kolovozna cesta" cluster="3" frequency="76" logDice="3.23">
+              <comp position="1" type="headword" sloleks="LE_3570370235654f91bf29f47ca788bd49">kolovozna</comp>
+              <comp position="2" type="collocate" sloleks="LE_0e822f9721ddeb3fd7d90e02f70c9a2f">cesta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="kolovozen in/ali makadamski" cluster="1" frequency="14" logDice="10.89">
+              <comp position="3" type="headword" sloleks="LE_3570370235654f91bf29f47ca788bd49">kolovozen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_a0cba085207a302e89f3d6cabf72da79">makadamski</comp>
+              </collocation>
+            <collocation form="kolovozen in/ali poljski" cluster="2" frequency="18" logDice="8.34">
+              <comp position="3" type="headword" sloleks="LE_3570370235654f91bf29f47ca788bd49">kolovozen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_174cba4ecc1d9ce1e13824c5926a86a9">poljski</comp>
+              </collocation>
+            <collocation form="kolovozen in gozden" cluster="3" frequency="5" logDice="6.28">
+              <comp position="1" type="headword" sloleks="LE_3570370235654f91bf29f47ca788bd49">kolovozen</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_a3dc8a391b737fce9e4c18ad1b4d5eb3">gozden</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

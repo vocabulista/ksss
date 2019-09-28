@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="100483">zvončica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">460</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="zoisova zvončica" cluster="1" frequency="23" logDice="11.37">
+              <comp position="1" type="collocate" sloleks="LE_ec8dbd59681c271c0fa07eda9f7209d3">zoisova</comp>
+              <comp position="2" type="headword" sloleks="LE_5a5fa42e5ac2e3f745dcb4ccf211cd33">zvončica</comp>
+            </collocation>
+            <collocation form="Zoisova zvončica" cluster="2" frequency="56" logDice="8.35">
+              <comp position="1" type="collocate" sloleks="LE_ad3acc39be197411b2b3f099413ac39b">Zoisova</comp>
+              <comp position="2" type="headword" sloleks="LE_5a5fa42e5ac2e3f745dcb4ccf211cd33">zvončica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="cvet zvončice" cluster="1" frequency="8" logDice="5.06">
+              <comp position="1" type="collocate" sloleks="LE_94d0f7e010ad7f3fd319d2500a8722ff">cvet</comp>
+              <comp position="2" type="headword" sloleks="LE_5a5fa42e5ac2e3f745dcb4ccf211cd33">zvončice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

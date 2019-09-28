@@ -1,0 +1,44 @@
+<entry>
+  <header>
+    <lexical_unit id="20069">izvirski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">768</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="izvirska studenčnica" cluster="1" frequency="6" logDice="7.56">
+              <comp position="1" type="headword" sloleks="LE_453f51a0b80d1db0ed1c166033dab98e">izvirska</comp>
+              <comp position="2" type="collocate" sloleks="LE_9db07253436ddceaa74a45edabaad5df">studenčnica</comp>
+            </collocation>
+            <collocation form="izvirska voda" cluster="2" frequency="668" logDice="6.73">
+              <comp position="1" type="headword" sloleks="LE_453f51a0b80d1db0ed1c166033dab98e">izvirska</comp>
+              <comp position="2" type="collocate" sloleks="LE_0d8cbba4e56fea63657ac746d29cd047">voda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="izvirski in/ali mineralen" cluster="1" frequency="73" logDice="10.96">
+              <comp position="3" type="headword" sloleks="LE_453f51a0b80d1db0ed1c166033dab98e">izvirski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_871baf6f22bf05042d53c3f60dc8d8c9">mineralen</comp>
+              </collocation>
+            <collocation form="izvirski in namizen" cluster="2" frequency="14" logDice="9.17">
+              <comp position="1" type="headword" sloleks="LE_453f51a0b80d1db0ed1c166033dab98e">izvirski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_209cdbf10bfaaa310b6f3a56de66751c">namizen</comp>
+            </collocation>
+            <collocation form="izvirski in/ali piten" cluster="3" frequency="8" logDice="8.88">
+              <comp position="3" type="headword" sloleks="LE_453f51a0b80d1db0ed1c166033dab98e">izvirski</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_e5f4258292f265b8a49be4700648c8f6">piten</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

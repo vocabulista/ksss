@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="7839016">nitro</lexical_unit>
+    <category>prislov</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ sbz2">
+          <collocations>
+            <collocation form="nitro spojine" cluster="1" frequency="13" logDice="12.02">
+              <comp position="1" type="headword" sloleks="">nitro</comp>
+              <comp position="2" type="collocate" sloleks="LE_7ac92bd06c0c087df895b8d8de0607f8">spojine</comp>
+            </collocation>
+            <collocation form="Nitro karte" cluster="2" frequency="16" logDice="10.31">
+              <comp position="1" type="headword" sloleks="">Nitro</comp>
+              <comp position="2" type="collocate" sloleks="LE_365a28a62fefe39eaa50625ee1bb3f45">karte</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ za sbz4">
+          <collocations>
+            <collocation form="nitro za seljak" cluster="1" frequency="24" logDice="13.85">
+              <comp position="1" type="headword" sloleks="">nitro</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="">seljak</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

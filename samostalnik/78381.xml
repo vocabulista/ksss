@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="78381">plemenitaš</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">760</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Plemenitaš iz Dobja" cluster="1" frequency="10" logDice="9.93">
+              <comp position="1" type="headword" sloleks="LE_aa85cdd7a8ae6297ea73a11dc05a68fa">Plemenitaš</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_140037536a732c42d1e1e6cd288a4030">Dobja</comp>
+            </collocation>
+            <collocation form="plemenitaš iz Slatine" cluster="2" frequency="6" logDice="7.04">
+              <comp position="1" type="headword" sloleks="LE_aa85cdd7a8ae6297ea73a11dc05a68fa">plemenitaš</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_15b491d43b9849bd1efc8d944c4b8ef4">Slatine</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Karel Plemenitaša" cluster="1" frequency="16" logDice="6.59">
+              <comp position="1" type="collocate" sloleks="LE_4b75262f68954036c572d27140afc537">Karel</comp>
+              <comp position="2" type="headword" sloleks="LE_aa85cdd7a8ae6297ea73a11dc05a68fa">Plemenitaša</comp>
+            </collocation>
+            <collocation form="Vinko Plemenitaša" cluster="2" frequency="11" logDice="6.4">
+              <comp position="1" type="collocate" sloleks="LE_20516077fd44b9fe39e39a61e982b9f2">Vinko</comp>
+              <comp position="2" type="headword" sloleks="LE_aa85cdd7a8ae6297ea73a11dc05a68fa">Plemenitaša</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

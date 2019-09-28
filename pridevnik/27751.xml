@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="27751">ovčarski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">560</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="ovčarski bal" cluster="1" frequency="129" logDice="11.04">
+              <comp position="1" type="headword" sloleks="LE_a3cf37e5d5621dbf18ec6f43c5534fb9">ovčarski</comp>
+              <comp position="2" type="collocate" sloleks="LE_c3e9314c68c0b2afdb65818c3e2a7bf8">bal</comp>
+            </collocation>
+            <collocation form="ovčarski pujs" cluster="2" frequency="8" logDice="7.89">
+              <comp position="1" type="headword" sloleks="LE_a3cf37e5d5621dbf18ec6f43c5534fb9">ovčarski</comp>
+              <comp position="2" type="collocate" sloleks="LE_69f699d970e885fd582511aa06e4bfc0">pujs</comp>
+            </collocation>
+            <collocation form="ovčarski pes" cluster="3" frequency="213" logDice="7.18">
+              <comp position="1" type="headword" sloleks="LE_a3cf37e5d5621dbf18ec6f43c5534fb9">ovčarski</comp>
+              <comp position="2" type="collocate" sloleks="LE_ae53f7aac94a7c78c3cb5c344c09f5ff">pes</comp>
+            </collocation>
+            <collocation form="ovčarska pasma" cluster="4" frequency="30" logDice="5.94">
+              <comp position="1" type="headword" sloleks="LE_a3cf37e5d5621dbf18ec6f43c5534fb9">ovčarska</comp>
+              <comp position="2" type="collocate" sloleks="LE_81203a47fa46351f9b9156ae16eb7c3e">pasma</comp>
+            </collocation>
+            <collocation form="ovčarski praznik" cluster="5" frequency="60" logDice="4.46">
+              <comp position="1" type="headword" sloleks="LE_a3cf37e5d5621dbf18ec6f43c5534fb9">ovčarski</comp>
+              <comp position="2" type="collocate" sloleks="LE_81b957b96d1a498eb9648be62a120260">praznik</comp>
+            </collocation>
+            <collocation form="ovčarska zadruga" cluster="6" frequency="9" logDice="3.45">
+              <comp position="1" type="headword" sloleks="LE_a3cf37e5d5621dbf18ec6f43c5534fb9">ovčarska</comp>
+              <comp position="2" type="collocate" sloleks="LE_17056da5bee41880ea1733a3e9a8e865">zadruga</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="ovčarski in/ali pastirski" cluster="1" frequency="28" logDice="12.19">
+              <comp position="3" type="headword" sloleks="LE_a3cf37e5d5621dbf18ec6f43c5534fb9">ovčarski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_b15beacfdeab59f61e400c20e63c2f37">pastirski</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="26855">odjemen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">770</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="odjemno mesto" cluster="1" frequency="629" logDice="4.81">
+              <comp position="1" type="headword" sloleks="LE_f4713899708cfc6a12d4d280952de41f">odjemno</comp>
+              <comp position="2" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesto</comp>
+            </collocation>
+            <collocation form="odjemna skupina" cluster="2" frequency="34" logDice="1.21">
+              <comp position="1" type="headword" sloleks="LE_f4713899708cfc6a12d4d280952de41f">odjemna</comp>
+              <comp position="2" type="collocate" sloleks="LE_7a31c94cb05484f8e60e8fbc4dad6a50">skupina</comp>
+            </collocation>
+            <collocation form="odjemna enota" cluster="2" frequency="21" logDice="1.76">
+              <comp position="1" type="headword" sloleks="LE_f4713899708cfc6a12d4d280952de41f">odjemna</comp>
+              <comp position="2" type="collocate" sloleks="LE_5b2baaa4fc466ab2dbf8c640e98f7c08">enota</comp>
+            </collocation>
+            <collocation form="odjemen sektor" cluster="3" frequency="6" logDice="1.33">
+              <comp position="1" type="headword" sloleks="LE_f4713899708cfc6a12d4d280952de41f">odjemen</comp>
+              <comp position="2" type="collocate" sloleks="LE_d7113705997fb9a704cd3450fc76cb87">sektor</comp>
+            </collocation>
+            <collocation form="odjemna moč" cluster="4" frequency="7" logDice="0.72">
+              <comp position="1" type="headword" sloleks="LE_f4713899708cfc6a12d4d280952de41f">odjemna</comp>
+              <comp position="2" type="collocate" sloleks="LE_0b71c85c50e39f2c8cb5e91791d67af9">moč</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="odjemen in/ali zbiren" cluster="1" frequency="33" logDice="12.41">
+              <comp position="3" type="headword" sloleks="LE_f4713899708cfc6a12d4d280952de41f">odjemen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_d284d79865d0ac55d468c65124da668a">zbiren</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="približno odjemen" cluster="1" frequency="5" logDice="2.96">
+              <comp position="1" type="collocate" sloleks="LE_bff0759952f037b2a47f76933a190170">približno</comp>
+              <comp position="2" type="headword" sloleks="LE_f4713899708cfc6a12d4d280952de41f">odjemen</comp>
+            </collocation>
+            <collocation form="več odjemen" cluster="2" frequency="27" logDice="2.47">
+              <comp position="1" type="collocate" sloleks="LE_35a40117ea9b0ca39c7a43d940592d29">več</comp>
+              <comp position="2" type="headword" sloleks="LE_f4713899708cfc6a12d4d280952de41f">odjemen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

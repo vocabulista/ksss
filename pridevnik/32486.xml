@@ -1,0 +1,64 @@
+<entry>
+  <header>
+    <lexical_unit id="32486">revmatski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">669</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="revmatski in kardiovaskularen" cluster="1" frequency="5" logDice="10.33">
+              <comp position="1" type="headword" sloleks="LE_5894e95382721a195b0b0973afabe0dd">revmatski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_d54daed73d15e9a1e605b7b834c26b5c">kardiovaskularen</comp>
+            </collocation>
+            <collocation form="revmatski in nevrološki" cluster="2" frequency="5" logDice="8.63">
+              <comp position="1" type="headword" sloleks="LE_5894e95382721a195b0b0973afabe0dd">revmatski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_1705da1c16483d017bf674844d22b27a">nevrološki</comp>
+            </collocation>
+            <collocation form="revmatski in srčen" cluster="3" frequency="5" logDice="6.62">
+              <comp position="1" type="headword" sloleks="LE_5894e95382721a195b0b0973afabe0dd">revmatski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_3cfb293b11f220476e2f3551a0ef4b9f">srčen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="revmatsko obolenje" cluster="1" frequency="251" logDice="8.46">
+              <comp position="1" type="headword" sloleks="LE_5894e95382721a195b0b0973afabe0dd">revmatsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_d14a1293cf67bc63ed815a0db671f901">obolenje</comp>
+            </collocation>
+            <collocation form="revmatsko vnetje" cluster="1" frequency="6" logDice="4.65">
+              <comp position="1" type="headword" sloleks="LE_5894e95382721a195b0b0973afabe0dd">revmatsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_abd6965752d6b41d58e1c83a6a0606f6">vnetje</comp>
+            </collocation>
+            <collocation form="revmatska vročica" cluster="2" frequency="34" logDice="8.22">
+              <comp position="1" type="headword" sloleks="LE_5894e95382721a195b0b0973afabe0dd">revmatska</comp>
+              <comp position="2" type="collocate" sloleks="LE_cb6598a8df1573332a275ec6fe877edc">vročica</comp>
+            </collocation>
+            <collocation form="revmatski artritis" cluster="3" frequency="7" logDice="6.49">
+              <comp position="1" type="headword" sloleks="LE_5894e95382721a195b0b0973afabe0dd">revmatski</comp>
+              <comp position="2" type="collocate" sloleks="LE_9665591842e284848c3e884b9506c547">artritis</comp>
+            </collocation>
+            <collocation form="revmatska bolezen" cluster="4" frequency="247" logDice="5.98">
+              <comp position="1" type="headword" sloleks="LE_5894e95382721a195b0b0973afabe0dd">revmatska</comp>
+              <comp position="2" type="collocate" sloleks="LE_6fa279c9efca851861451ba08fd5fac5">bolezen</comp>
+            </collocation>
+            <collocation form="revmatska težava" cluster="4" frequency="44" logDice="2.82">
+              <comp position="1" type="headword" sloleks="LE_5894e95382721a195b0b0973afabe0dd">revmatska</comp>
+              <comp position="2" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težava</comp>
+            </collocation>
+            <collocation form="revmatska bolečina" cluster="4" frequency="39" logDice="5.43">
+              <comp position="1" type="headword" sloleks="LE_5894e95382721a195b0b0973afabe0dd">revmatska</comp>
+              <comp position="2" type="collocate" sloleks="LE_6a7434a210c21ded27b4dc2fde249a7c">bolečina</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="87906">sejmar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">585</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="sejmar iz Slovenije" cluster="1" frequency="5" logDice="2.5">
+              <comp position="1" type="headword" sloleks="LE_1214677163cfc35116e31d24fa2d5577">sejmar</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Slovenije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="radgonski sejmar" cluster="1" frequency="26" logDice="6.97">
+              <comp position="1" type="collocate" sloleks="LE_27ba61f81c1038b67aa1cbcc68e8c9a7">radgonski</comp>
+              <comp position="2" type="headword" sloleks="LE_1214677163cfc35116e31d24fa2d5577">sejmar</comp>
+            </collocation>
+            <collocation form="celjski sejmar" cluster="2" frequency="30" logDice="2.83">
+              <comp position="1" type="collocate" sloleks="LE_e6cc1c417aac41b99f591e7e730d043e">celjski</comp>
+              <comp position="2" type="headword" sloleks="LE_1214677163cfc35116e31d24fa2d5577">sejmar</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

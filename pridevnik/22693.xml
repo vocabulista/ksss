@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="22693">liberaliziran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">533</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="liberaliziran trg" cluster="1" frequency="169" logDice="3.99">
+              <comp position="1" type="headword" sloleks="LE_3103f4c1ed4fcd7eba2fd4ae867b03d3">liberaliziran</comp>
+              <comp position="2" type="collocate" sloleks="LE_b735dfd291d0abd31eeabd75c4133487">trg</comp>
+            </collocation>
+            <collocation form="liberalizirana trgovina" cluster="2" frequency="9" logDice="2.08">
+              <comp position="1" type="headword" sloleks="LE_3103f4c1ed4fcd7eba2fd4ae867b03d3">liberalizirana</comp>
+              <comp position="2" type="collocate" sloleks="LE_e6520ed1b394dc72516ec7ff3398e16c">trgovina</comp>
+            </collocation>
+            <collocation form="liberalizirano gospodarstvo" cluster="3" frequency="6" logDice="1.04">
+              <comp position="1" type="headword" sloleks="LE_3103f4c1ed4fcd7eba2fd4ae867b03d3">liberalizirano</comp>
+              <comp position="2" type="collocate" sloleks="LE_b2c23c24d90d406931520c0ed138adc2">gospodarstvo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="popolnoma liberaliziran" cluster="1" frequency="37" logDice="3.5">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_3103f4c1ed4fcd7eba2fd4ae867b03d3">liberaliziran</comp>
+            </collocation>
+            <collocation form="povsem liberaliziran" cluster="1" frequency="32" logDice="2.29">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_3103f4c1ed4fcd7eba2fd4ae867b03d3">liberaliziran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="6268">preferirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">402</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="preferirati sindikat" cluster="1" frequency="6" logDice="6.94">
+              <comp position="1" type="headword" sloleks="LE_a0e3f6d2e1c6f18c60cc2a2665dc5a1d">preferirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_80e7b021fab77747f0a899778050b67d">sindikat</comp>
+            </collocation>
+            <collocation form="preferirati stečaj" cluster="2" frequency="4" logDice="6.0">
+              <comp position="1" type="headword" sloleks="LE_a0e3f6d2e1c6f18c60cc2a2665dc5a1d">preferirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_ad39fd6c8748c29b49b7dab3d28d7ad2">stečaj</comp>
+            </collocation>
+            <collocation form="preferirati stranko" cluster="3" frequency="5" logDice="3.49">
+              <comp position="1" type="headword" sloleks="LE_a0e3f6d2e1c6f18c60cc2a2665dc5a1d">preferirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_945a204a300f28702820c4bc0481d2e7">stranko</comp>
+            </collocation>
+            <collocation form="preferirati interes" cluster="4" frequency="4" logDice="2.25">
+              <comp position="1" type="headword" sloleks="LE_a0e3f6d2e1c6f18c60cc2a2665dc5a1d">preferirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_852d4c3cd2b3cd0cc21c88ad76a6c9a7">interes</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="zmeraj preferirati" cluster="1" frequency="4" logDice="2.39">
+              <comp position="1" type="collocate" sloleks="LE_af40c5dc2e2ae640d0412a3dd466706a">zmeraj</comp>
+              <comp position="2" type="headword" sloleks="LE_a0e3f6d2e1c6f18c60cc2a2665dc5a1d">preferirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="99113">zelenka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1168</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="zelenka iz veličana" cluster="1" frequency="4" logDice="11.75">
+              <comp position="1" type="headword" sloleks="LE_bb6f025eff3a495a872e8cba2e768353">zelenka</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">veličana</comp>
+            </collocation>
+            <collocation form="zelenka iz župetinec" cluster="2" frequency="4" logDice="11.75">
+              <comp position="1" type="headword" sloleks="LE_bb6f025eff3a495a872e8cba2e768353">zelenka</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="">župetinec</comp>
+            </collocation>
+            <collocation form="Zelenka iz zapora" cluster="3" frequency="6" logDice="5.98">
+              <comp position="1" type="headword" sloleks="LE_bb6f025eff3a495a872e8cba2e768353">Zelenka</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_3c194ab9809af6b787d83228f4c8e3cc">zapora</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="Zelenka na prestajanje" cluster="1" frequency="6" logDice="9.72">
+              <comp position="1" type="headword" sloleks="LE_bb6f025eff3a495a872e8cba2e768353">Zelenka</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_6f3f6ebbedd60373e8d48eb0ecc1ff22">prestajanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="modrokril zelenka" cluster="1" frequency="15" logDice="12.69">
+              <comp position="1" type="collocate" sloleks="">modrokril</comp>
+              <comp position="2" type="headword" sloleks="LE_bb6f025eff3a495a872e8cba2e768353">zelenka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

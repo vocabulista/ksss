@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="93060">tepček</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">571</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="imeti za tepčka" cluster="1" frequency="4" logDice="0.93">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_4a9e7beadc9bf4a91dc86dd85a036e3d">tepčka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="vaški tepček" cluster="1" frequency="20" logDice="4.37">
+              <comp position="1" type="collocate" sloleks="LE_6f68bece59c6bc45dc865ee7515a820f">vaški</comp>
+              <comp position="2" type="headword" sloleks="LE_4a9e7beadc9bf4a91dc86dd85a036e3d">tepček</comp>
+            </collocation>
+            <collocation form="ubog tepček" cluster="2" frequency="11" logDice="4.25">
+              <comp position="1" type="collocate" sloleks="LE_d321bf506113c7eb90b1fdf4c44e3b7f">ubog</comp>
+              <comp position="2" type="headword" sloleks="LE_4a9e7beadc9bf4a91dc86dd85a036e3d">tepček</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="poljub za tepčka" cluster="1" frequency="4" logDice="8.67">
+              <comp position="1" type="collocate" sloleks="LE_b90ad545180f971ca237ebb20043dc1a">poljub</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_4a9e7beadc9bf4a91dc86dd85a036e3d">tepčka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

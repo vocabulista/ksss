@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="92952">telepatija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">502</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="ukvarjati s telepatijo" cluster="1" frequency="9" logDice="1.23">
+              <comp position="1" type="collocate" sloleks="LE_d218d442858c415bdeff018dc056aea9">ukvarjati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_7dec05df55806d8cf0392e49ee13414f">telepatijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za telepatijo" cluster="1" frequency="7" logDice="-0.79">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_7dec05df55806d8cf0392e49ee13414f">telepatijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="pojasnitev telepatije" cluster="1" frequency="36" logDice="10.42">
+              <comp position="1" type="collocate" sloleks="LE_05a5ad1d925351bc543e97ead099982b">pojasnitev</comp>
+              <comp position="2" type="headword" sloleks="LE_7dec05df55806d8cf0392e49ee13414f">telepatije</comp>
+            </collocation>
+            <collocation form="pomoč telepatije" cluster="2" frequency="15" logDice="1.71">
+              <comp position="1" type="collocate" sloleks="LE_84e3f9e3c4e9e1abf42cc69c125b0b58">pomoč</comp>
+              <comp position="2" type="headword" sloleks="LE_7dec05df55806d8cf0392e49ee13414f">telepatije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

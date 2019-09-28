@@ -1,0 +1,62 @@
+<entry>
+  <header>
+    <lexical_unit id="83800">profesija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">702</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za profesijo" cluster="1" frequency="4" logDice="-1.6">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_1e4659f6b7c0c133c1b793c55a727cdb">profesijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="novinarska profesija" cluster="1" frequency="42" logDice="4.27">
+              <comp position="1" type="collocate" sloleks="LE_cf269beeb94578543c0ea69ac2553fa7">novinarska</comp>
+              <comp position="2" type="headword" sloleks="LE_1e4659f6b7c0c133c1b793c55a727cdb">profesija</comp>
+            </collocation>
+            <collocation form="vojaška profesija" cluster="1" frequency="8" logDice="0.64">
+              <comp position="1" type="collocate" sloleks="LE_7148397ee3df6dc9fba14c0f25b252e3">vojaška</comp>
+              <comp position="2" type="headword" sloleks="LE_1e4659f6b7c0c133c1b793c55a727cdb">profesija</comp>
+            </collocation>
+            <collocation form="medicinska profesija" cluster="2" frequency="13" logDice="2.69">
+              <comp position="1" type="collocate" sloleks="LE_7f4985b6839b8021f05d377bc4845345">medicinska</comp>
+              <comp position="2" type="headword" sloleks="LE_1e4659f6b7c0c133c1b793c55a727cdb">profesija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="avtonomija profesije" cluster="1" frequency="5" logDice="4.94">
+              <comp position="1" type="collocate" sloleks="LE_7461b9efdd88d7fb58d2f3d73d40b86a">avtonomija</comp>
+              <comp position="2" type="headword" sloleks="LE_1e4659f6b7c0c133c1b793c55a727cdb">profesije</comp>
+            </collocation>
+            <collocation form="ugled profesije" cluster="1" frequency="5" logDice="3.59">
+              <comp position="1" type="collocate" sloleks="LE_252be01193dea1cb509299a1c7ee1229">ugled</comp>
+              <comp position="2" type="headword" sloleks="LE_1e4659f6b7c0c133c1b793c55a727cdb">profesije</comp>
+            </collocation>
+            <collocation form="načelo profesije" cluster="2" frequency="7" logDice="2.2">
+              <comp position="1" type="collocate" sloleks="LE_5a443f15d8b4838fe872b4d2b544f4ce">načelo</comp>
+              <comp position="2" type="headword" sloleks="LE_1e4659f6b7c0c133c1b793c55a727cdb">profesije</comp>
+            </collocation>
+            <collocation form="standard profesije" cluster="2" frequency="5" logDice="3.34">
+              <comp position="1" type="collocate" sloleks="LE_4cb76a43bf5359cd108c8cf9e67b0368">standard</comp>
+              <comp position="2" type="headword" sloleks="LE_1e4659f6b7c0c133c1b793c55a727cdb">profesije</comp>
+            </collocation>
+            <collocation form="potreba profesije" cluster="3" frequency="6" logDice="1.92">
+              <comp position="1" type="collocate" sloleks="LE_16bf4d92d7aaee11efd4c8603b6e4ee0">potreba</comp>
+              <comp position="2" type="headword" sloleks="LE_1e4659f6b7c0c133c1b793c55a727cdb">profesije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

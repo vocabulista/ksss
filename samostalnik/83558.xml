@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="83558">prislov</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">497</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="prislov iz pridevnika" cluster="1" frequency="6" logDice="12.16">
+              <comp position="1" type="headword" sloleks="LE_c4b860081bebadc4bd16520b513cddea">prislov</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_cc31df39e5a6dd885c69a043ea1b08f1">pridevnika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="načinoven prislov" cluster="1" frequency="11" logDice="11.18">
+              <comp position="1" type="collocate" sloleks="">načinoven</comp>
+              <comp position="2" type="headword" sloleks="LE_c4b860081bebadc4bd16520b513cddea">prislov</comp>
+            </collocation>
+            <collocation form="časoven prislov" cluster="2" frequency="32" logDice="4.49">
+              <comp position="1" type="collocate" sloleks="LE_97bed18d090bdc4b17f05fbb2679c18a">časoven</comp>
+              <comp position="2" type="headword" sloleks="LE_c4b860081bebadc4bd16520b513cddea">prislov</comp>
+            </collocation>
+            <collocation form="krajeven prislov" cluster="3" frequency="12" logDice="2.15">
+              <comp position="1" type="collocate" sloleks="LE_20bff50dcdbb6a57fd711f4df6cca676">krajeven</comp>
+              <comp position="2" type="headword" sloleks="LE_c4b860081bebadc4bd16520b513cddea">prislov</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="raba prislova" cluster="1" frequency="8" logDice="3.23">
+              <comp position="1" type="collocate" sloleks="LE_1cd13218e774ca6d3e52eec7f9a82211">raba</comp>
+              <comp position="2" type="headword" sloleks="LE_c4b860081bebadc4bd16520b513cddea">prislova</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,50 @@
+<entry>
+  <header>
+    <lexical_unit id="2303">lakirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">514</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="lakirati noht" cluster="1" frequency="125" logDice="10.45">
+              <comp position="1" type="headword" sloleks="LE_3c0b68d04e9d669c64384b277c4ea794">lakirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_d64a38ceea543d5b55d464ec0ad4f797">noht</comp>
+            </collocation>
+            <collocation form="lakirati parket" cluster="2" frequency="19" logDice="9.21">
+              <comp position="1" type="headword" sloleks="LE_3c0b68d04e9d669c64384b277c4ea794">lakirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_e31e470ba753137af564a1b792539562">parket</comp>
+            </collocation>
+            <collocation form="lakirati palec" cluster="3" frequency="5" logDice="7.18">
+              <comp position="1" type="headword" sloleks="LE_3c0b68d04e9d669c64384b277c4ea794">lakirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_7d15fe96d1d6d7ec2bdc1c6d6fd63c9f">palec</comp>
+            </collocation>
+            <collocation form="lakirati površino" cluster="4" frequency="6" logDice="4.23">
+              <comp position="1" type="headword" sloleks="LE_3c0b68d04e9d669c64384b277c4ea794">lakirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_7d18868a4d96322e862a8e6591930019">površino</comp>
+            </collocation>
+            <collocation form="lakirati las" cluster="5" frequency="4" logDice="3.25">
+              <comp position="1" type="headword" sloleks="LE_3c0b68d04e9d669c64384b277c4ea794">lakirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_efa5b979af023ef3a1f9a62889d9ad2d">las</comp>
+            </collocation>
+            <collocation form="lakirati sistem" cluster="6" frequency="7" logDice="2.18">
+              <comp position="1" type="headword" sloleks="LE_3c0b68d04e9d669c64384b277c4ea794">lakirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b126847d984efa55c2ffad50be4e1dac">sistem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="lakirati z lakom" cluster="1" frequency="14" logDice="9.23">
+              <comp position="1" type="headword" sloleks="LE_3c0b68d04e9d669c64384b277c4ea794">lakirati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_b5d0a7812ad6a8ce5843fb86e0f1d72a">lakom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

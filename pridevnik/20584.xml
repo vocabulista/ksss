@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="20584">kajenski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">1322</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="kajenski poper" cluster="1" frequency="1220" logDice="11.62">
+              <comp position="1" type="headword" sloleks="LE_044706fef4fd2c27a51b01f669a1e77c">kajenski</comp>
+              <comp position="2" type="collocate" sloleks="LE_f6d32a2424cd21327243e7cf849c5c68">poper</comp>
+            </collocation>
+            <collocation form="kajenska paprika" cluster="2" frequency="77" logDice="7.29">
+              <comp position="1" type="headword" sloleks="LE_044706fef4fd2c27a51b01f669a1e77c">kajenska</comp>
+              <comp position="2" type="collocate" sloleks="LE_76c954d2732b558ce068fdf019040f83">paprika</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="malo kajenski" cluster="1" frequency="39" logDice="3.92">
+              <comp position="1" type="collocate" sloleks="LE_d41681585195c3924afdc162614c2939">malo</comp>
+              <comp position="2" type="headword" sloleks="LE_044706fef4fd2c27a51b01f669a1e77c">kajenski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

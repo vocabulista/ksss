@@ -1,0 +1,35 @@
+<entry>
+  <header>
+    <lexical_unit id="97803">zagozda</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">439</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="lesena zagozda" cluster="1" frequency="22" logDice="3.38">
+              <comp position="1" type="collocate" sloleks="LE_39fa6eac8b3aca677a672c92e27a594c|LE_6be16eebd901c9f88de46c0031bec9fd">lesena</comp>
+              <comp position="2" type="headword" sloleks="LE_e9a13618cdfdffa777470fbde8eaaf37">zagozda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 z SBZ6">
+          <collocations>
+            <collocation form="zagozden z zagozdo" cluster="1" frequency="6" logDice="12.41">
+              <comp position="1" type="collocate" sloleks="LE_733822b4eb73c516056b442ca1a2ba0a">zagozden</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_e9a13618cdfdffa777470fbde8eaaf37">zagozdo</comp>
+            </collocation>
+            <collocation form="pritrjen z zagozdo" cluster="2" frequency="7" logDice="8.75">
+              <comp position="1" type="collocate" sloleks="LE_1083dd259edd60570e000b65ebd61f5b">pritrjen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_e9a13618cdfdffa777470fbde8eaaf37">zagozdo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

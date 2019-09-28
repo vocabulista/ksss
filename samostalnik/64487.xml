@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="64487">komoda</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">940</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="komoda iz lesa" cluster="1" frequency="5" logDice="5.24">
+              <comp position="1" type="headword" sloleks="LE_258def353e98a8183c0de884135ca546">komoda</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_a64d3c025e48884a3606fcff72b3d118">lesa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="komoda s predalom" cluster="1" frequency="5" logDice="8.46">
+              <comp position="1" type="headword" sloleks="LE_258def353e98a8183c0de884135ca546">komoda</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_5b954b3204abb7c88d973ae8bfe9e0d6">predalom</comp>
+            </collocation>
+            <collocation form="komoda z ogledalom" cluster="2" frequency="4" logDice="8.12">
+              <comp position="1" type="headword" sloleks="LE_258def353e98a8183c0de884135ca546">komoda</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_3ca33b5385ca2001603e11a0097acf5c">ogledalom</comp>
+            </collocation>
+            <collocation form="komoda s ploščo" cluster="3" frequency="5" logDice="6.58">
+              <comp position="1" type="headword" sloleks="LE_258def353e98a8183c0de884135ca546">komoda</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_75a10c913aa58b7a0188e78adfd52ab4">ploščo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="starinska komoda" cluster="1" frequency="16" logDice="6.74">
+              <comp position="1" type="collocate" sloleks="LE_90ab33a22871a4f1ccd464c55fafc2a9">starinska</comp>
+              <comp position="2" type="headword" sloleks="LE_258def353e98a8183c0de884135ca546">komoda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="cesar komode" cluster="1" frequency="7" logDice="6.28">
+              <comp position="1" type="collocate" sloleks="LE_187f07a248dadd7979e98abeb704532f">cesar</comp>
+              <comp position="2" type="headword" sloleks="LE_258def353e98a8183c0de884135ca546">komode</comp>
+            </collocation>
+            <collocation form="predal komode" cluster="2" frequency="5" logDice="6.06">
+              <comp position="1" type="collocate" sloleks="LE_5b954b3204abb7c88d973ae8bfe9e0d6">predal</comp>
+              <comp position="2" type="headword" sloleks="LE_258def353e98a8183c0de884135ca546">komode</comp>
+            </collocation>
+            <collocation form="sin komode" cluster="3" frequency="7" logDice="3.12">
+              <comp position="1" type="collocate" sloleks="LE_79e0b2d02a57a50544ca32d11914a5a7">sin</comp>
+              <comp position="2" type="headword" sloleks="LE_258def353e98a8183c0de884135ca546">komode</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

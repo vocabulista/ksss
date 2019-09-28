@@ -1,0 +1,52 @@
+<entry>
+  <header>
+    <lexical_unit id="50483">brinovec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">701</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="Brinovec iz Senovega" cluster="1" frequency="4" logDice="9.17">
+              <comp position="1" type="headword" sloleks="LE_6827c8658611f61cd740b4f84ab15d29">Brinovec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_2abfb3caa59a29a5e17be6d95d07e21d">Senovega</comp>
+            </collocation>
+            <collocation form="Brinovec iz Kranja" cluster="2" frequency="11" logDice="5.07">
+              <comp position="1" type="headword" sloleks="LE_6827c8658611f61cd740b4f84ab15d29">Brinovec</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_870357c99d255779fc7d3027bd15a6b5">Kranja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="kuhanje brinovca" cluster="1" frequency="5" logDice="5.3">
+              <comp position="1" type="collocate" sloleks="LE_cd07e9871b09cf93f22f8d85881f3362">kuhanje</comp>
+              <comp position="2" type="headword" sloleks="LE_6827c8658611f61cd740b4f84ab15d29">brinovca</comp>
+            </collocation>
+            <collocation form="Slavko Brinovca" cluster="2" frequency="6" logDice="4.47">
+              <comp position="1" type="collocate" sloleks="LE_b8a27db950fd85bf6c73ea00b26002a3">Slavko</comp>
+              <comp position="2" type="headword" sloleks="LE_6827c8658611f61cd740b4f84ab15d29">Brinovca</comp>
+            </collocation>
+            <collocation form="Matjaž Brinovca" cluster="3" frequency="7" logDice="3.97">
+              <comp position="1" type="collocate" sloleks="LE_a4e34b6691ea9300b7e035810e7ff02b">Matjaž</comp>
+              <comp position="2" type="headword" sloleks="LE_6827c8658611f61cd740b4f84ab15d29">Brinovca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ4">
+          <collocations>
+            <collocation form="cesta na Brinovec" cluster="1" frequency="11" logDice="6.0">
+              <comp position="1" type="collocate" sloleks="LE_0e822f9721ddeb3fd7d90e02f70c9a2f">cesta</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_6827c8658611f61cd740b4f84ab15d29">Brinovec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

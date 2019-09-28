@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="91896">strežnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">673</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="strežnica za čas" cluster="1" frequency="4" logDice="2.14">
+              <comp position="1" type="headword" sloleks="LE_afbe12419b2c41855899ac02340e3c1a">strežnica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">čas</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="bolniška strežnica" cluster="1" frequency="83" logDice="7.64">
+              <comp position="1" type="collocate" sloleks="LE_d49ffeece6da0524b783c9ca3b709054">bolniška</comp>
+              <comp position="2" type="headword" sloleks="LE_afbe12419b2c41855899ac02340e3c1a">strežnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

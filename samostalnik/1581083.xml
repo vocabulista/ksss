@@ -1,0 +1,32 @@
+<entry>
+  <header>
+    <lexical_unit id="1581083">love</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="love parade" cluster="1" frequency="9" logDice="7.42">
+              <comp position="1" type="headword" sloleks="">love</comp>
+              <comp position="2" type="collocate" sloleks="LE_1398999b440d07c825f4479b2a6f4ec4">parade</comp>
+            </collocation>
+            <collocation form="love note" cluster="2" frequency="37" logDice="7.15">
+              <comp position="1" type="headword" sloleks="">love</comp>
+              <comp position="2" type="collocate" sloleks="LE_9aeb01bab585e1305c90b0dd82ac279c">note</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="imenovan love" cluster="1" frequency="10" logDice="1.22">
+              <comp position="1" type="collocate" sloleks="LE_48445856b1ad858d1b8600c1111b730c">imenovan</comp>
+              <comp position="2" type="headword" sloleks="">love</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

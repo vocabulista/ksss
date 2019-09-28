@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="65676">kretnica</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">535</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pasivna kretnica" cluster="1" frequency="15" logDice="5.28">
+              <comp position="1" type="collocate" sloleks="LE_9a94ae78eddc7c0adda1fe4c8c3edf45">pasivna</comp>
+              <comp position="2" type="headword" sloleks="LE_4ed16834db4200467bbd951efca3c34b">kretnica</comp>
+            </collocation>
+            <collocation form="aktivna kretnica" cluster="1" frequency="8" logDice="1.82">
+              <comp position="1" type="collocate" sloleks="LE_3abd74abf188260b09b1ae5c6d2cd818">aktivna</comp>
+              <comp position="2" type="headword" sloleks="LE_4ed16834db4200467bbd951efca3c34b">kretnica</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="premikanje kretnice" cluster="1" frequency="7" logDice="5.51">
+              <comp position="1" type="collocate" sloleks="LE_4961771dfca9f2e37a831f913ab450e1">premikanje</comp>
+              <comp position="2" type="headword" sloleks="LE_4ed16834db4200467bbd951efca3c34b">kretnice</comp>
+            </collocation>
+            <collocation form="premik kretnice" cluster="1" frequency="7" logDice="5.09">
+              <comp position="1" type="collocate" sloleks="LE_ecfdf69275e7460723de6177bfc8100e">premik</comp>
+              <comp position="2" type="headword" sloleks="LE_4ed16834db4200467bbd951efca3c34b">kretnice</comp>
+            </collocation>
+            <collocation form="ogrevanje kretnice" cluster="2" frequency="7" logDice="5.32">
+              <comp position="1" type="collocate" sloleks="LE_cbc81690d51d39f194b62fd889409e78">ogrevanje</comp>
+              <comp position="2" type="headword" sloleks="LE_4ed16834db4200467bbd951efca3c34b">kretnice</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

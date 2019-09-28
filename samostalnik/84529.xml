@@ -1,0 +1,43 @@
+<entry>
+  <header>
+    <lexical_unit id="84529">radiestezija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">520</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="ukvarjati z radiestezijo" cluster="1" frequency="8" logDice="1.06">
+              <comp position="1" type="collocate" sloleks="LE_d218d442858c415bdeff018dc056aea9">ukvarjati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_3d9decdfcddd188ecca501759e53550d">radiestezijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="osnova radiestezije" cluster="1" frequency="72" logDice="5.37">
+              <comp position="1" type="collocate" sloleks="LE_25d7e9c6fd68f8446f6a04b8cfe6afcd">osnova</comp>
+              <comp position="2" type="headword" sloleks="LE_3d9decdfcddd188ecca501759e53550d">radiestezije</comp>
+            </collocation>
+            <collocation form="tečaj radiestezije" cluster="2" frequency="20" logDice="4.09">
+              <comp position="1" type="collocate" sloleks="LE_5d02c8a026f40c53ca6b5616101080cf">tečaj</comp>
+              <comp position="2" type="headword" sloleks="LE_3d9decdfcddd188ecca501759e53550d">radiestezije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 o SBZ5">
+          <collocations>
+            <collocation form="znanje o radiesteziji" cluster="1" frequency="4" logDice="4.14">
+              <comp position="1" type="collocate" sloleks="LE_0e6b8ca9c227b92670827830f4032745">znanje</comp>
+              <comp position="2" type="other" sloleks="LE_103731c690ee799a381f6dce037f6684">o</comp>
+              <comp position="3" type="headword" sloleks="LE_3d9decdfcddd188ecca501759e53550d">radiesteziji</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

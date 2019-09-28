@@ -1,0 +1,46 @@
+<entry>
+  <header>
+    <lexical_unit id="46942">akvarist</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">701</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="neizkušen akvarist" cluster="1" frequency="12" logDice="6.78">
+              <comp position="1" type="collocate" sloleks="LE_d8afed5a3141ae28b79027aee799dc07">neizkušen</comp>
+              <comp position="2" type="headword" sloleks="LE_ca6c82918b9e34868f931aeb3b769548">akvarist</comp>
+            </collocation>
+            <collocation form="ljubiteljski akvarist" cluster="2" frequency="46" logDice="6.7">
+              <comp position="1" type="collocate" sloleks="LE_d6d99c96c766f9c32de551453ceb55d2">ljubiteljski</comp>
+              <comp position="2" type="headword" sloleks="LE_ca6c82918b9e34868f931aeb3b769548">akvarist</comp>
+            </collocation>
+            <collocation form="izkušen akvarist" cluster="3" frequency="61" logDice="5.7">
+              <comp position="1" type="collocate" sloleks="LE_0d759cd59dbcd9c224c6c9cc8983190c">izkušen</comp>
+              <comp position="2" type="headword" sloleks="LE_ca6c82918b9e34868f931aeb3b769548">akvarist</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 za SBZ4">
+          <collocations>
+            <collocation form="primeren za akvarista" cluster="1" frequency="4" logDice="1.37">
+              <comp position="1" type="collocate" sloleks="LE_729f9977a82c3542ae4d4d8191bc0804">primeren</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_ca6c82918b9e34868f931aeb3b769548">akvarista</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="društvo akvarista" cluster="1" frequency="7" logDice="1.36">
+              <comp position="1" type="collocate" sloleks="LE_f1fd3c17e2206150a5ab762769b6e8ff">društvo</comp>
+              <comp position="2" type="headword" sloleks="LE_ca6c82918b9e34868f931aeb3b769548">akvarista</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

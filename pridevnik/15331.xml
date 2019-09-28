@@ -1,0 +1,60 @@
+<entry>
+  <header>
+    <lexical_unit id="15331">četrten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">3784</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="četrtna skupnost" cluster="1" frequency="3247" logDice="8.69">
+              <comp position="1" type="headword" sloleks="LE_a95f8d5d276804b10a26a552ead3e08b">četrtna</comp>
+              <comp position="2" type="collocate" sloleks="LE_a54e3d34cf1afe3eafb013c4eaa4f477">skupnost</comp>
+            </collocation>
+            <collocation form="četrten sveta" cluster="2" frequency="23" logDice="7.16">
+              <comp position="1" type="headword" sloleks="LE_a95f8d5d276804b10a26a552ead3e08b">četrten</comp>
+              <comp position="2" type="collocate" sloleks="">sveta</comp>
+            </collocation>
+            <collocation form="četrten odbor" cluster="3" frequency="122" logDice="4.54">
+              <comp position="1" type="headword" sloleks="LE_a95f8d5d276804b10a26a552ead3e08b">četrten</comp>
+              <comp position="2" type="collocate" sloleks="LE_8a88fc8558d7aaf0322ca909aacb4ac0">odbor</comp>
+            </collocation>
+            <collocation form="četrten svetnik" cluster="3" frequency="77" logDice="5.29">
+              <comp position="1" type="headword" sloleks="LE_a95f8d5d276804b10a26a552ead3e08b">četrten</comp>
+              <comp position="2" type="collocate" sloleks="LE_c3a391e25fd2c2e6de3f35967dfc9a7c">svetnik</comp>
+            </collocation>
+            <collocation form="četrten svet" cluster="4" frequency="120" logDice="2.88">
+              <comp position="1" type="headword" sloleks="LE_a95f8d5d276804b10a26a552ead3e08b">četrten</comp>
+              <comp position="2" type="collocate" sloleks="LE_55184295ed657acc8ec5dcd62f7084bf">svet</comp>
+            </collocation>
+            <collocation form="četrten center" cluster="4" frequency="58" logDice="2.41">
+              <comp position="1" type="headword" sloleks="LE_a95f8d5d276804b10a26a552ead3e08b">četrten</comp>
+              <comp position="2" type="collocate" sloleks="LE_2f065577a7792f26481f7fba67e1e5ab">center</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="četrten in/ali vaški" cluster="1" frequency="153" logDice="11.89">
+              <comp position="3" type="headword" sloleks="LE_a95f8d5d276804b10a26a552ead3e08b">četrten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_6f68bece59c6bc45dc865ee7515a820f">vaški</comp>
+              </collocation>
+            <collocation form="četrten in/ali krajeven" cluster="2" frequency="66" logDice="9.86">
+              <comp position="3" type="headword" sloleks="LE_a95f8d5d276804b10a26a552ead3e08b">četrten</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_20bff50dcdbb6a57fd711f4df6cca676">krajeven</comp>
+              </collocation>
+            <collocation form="četrten in/ali mesten" cluster="3" frequency="14" logDice="6.79">
+              <comp position="3" type="headword" sloleks="LE_a95f8d5d276804b10a26a552ead3e08b">četrten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_b04232655aed75edb8456dda8fecc569">mesten</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

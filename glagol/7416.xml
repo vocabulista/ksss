@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="7416">razdružiti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">434</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="razdružiti s sklepom" cluster="1" frequency="4" logDice="4.11">
+              <comp position="1" type="headword" sloleks="LE_30c22f70d63035705808a139d0fd5c07">razdružiti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_deb91e24f82bff5cd331c1eaac56c861">sklepom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="prostovoljno razdružiti" cluster="1" frequency="5" logDice="4.52">
+              <comp position="1" type="collocate" sloleks="LE_7f5146540e844c823462206abe9a7b1f">prostovoljno</comp>
+              <comp position="2" type="headword" sloleks="LE_30c22f70d63035705808a139d0fd5c07">razdružiti</comp>
+            </collocation>
+            <collocation form="dokončno razdružiti" cluster="2" frequency="5" logDice="1.96">
+              <comp position="1" type="collocate" sloleks="LE_1b1364db6a65bb7d8e0561ff87f682a5">dokončno</comp>
+              <comp position="2" type="headword" sloleks="LE_30c22f70d63035705808a139d0fd5c07">razdružiti</comp>
+            </collocation>
+            <collocation form="spet razdružiti" cluster="3" frequency="12" logDice="0.62">
+              <comp position="1" type="collocate" sloleks="LE_262d335ce33e8c5f94849e677bc83a19">spet</comp>
+              <comp position="2" type="headword" sloleks="LE_30c22f70d63035705808a139d0fd5c07">razdružiti</comp>
+            </collocation>
+            <collocation form="ponovno razdružiti" cluster="4" frequency="5" logDice="0.44">
+              <comp position="1" type="collocate" sloleks="LE_d94a650618c4501cb830dca806e400ed">ponovno</comp>
+              <comp position="2" type="headword" sloleks="LE_30c22f70d63035705808a139d0fd5c07">razdružiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

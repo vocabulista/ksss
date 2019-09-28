@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="91464">stetoskop</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">412</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="prisluškovati s stetoskopom" cluster="1" frequency="5" logDice="10.24">
+              <comp position="1" type="collocate" sloleks="LE_1ead8df287c2523245804c45ce89dc4c">prisluškovati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_3d3da6f1500e92dc7180984be9b097b8">stetoskopom</comp>
+            </collocation>
+            <collocation form="slišati s stetoskopom" cluster="2" frequency="5" logDice="7.85">
+              <comp position="1" type="collocate" sloleks="LE_0368985f9887f303456539de53b84941">slišati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_3d3da6f1500e92dc7180984be9b097b8">stetoskopom</comp>
+            </collocation>
+            <collocation form="poslušati s stetoskopom" cluster="3" frequency="12" logDice="7.81">
+              <comp position="1" type="collocate" sloleks="LE_b66359f697d6db06df147d6f90b94ae1">poslušati</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_3d3da6f1500e92dc7180984be9b097b8">stetoskopom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="elektronski stetoskop" cluster="1" frequency="9" logDice="1.21">
+              <comp position="1" type="collocate" sloleks="LE_82aeb3fd59f2e46f8adfcaf1588ad167">elektronski</comp>
+              <comp position="2" type="headword" sloleks="LE_3d3da6f1500e92dc7180984be9b097b8">stetoskop</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="zdravnik s stetoskopom" cluster="1" frequency="8" logDice="7.23">
+              <comp position="1" type="collocate" sloleks="LE_4fd33b942f59a17455a10dc0ef8cb604">zdravnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_3d3da6f1500e92dc7180984be9b097b8">stetoskopom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="72419">neorganiziranost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">403</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="neorganiziranost pridelovalca" cluster="1" frequency="11" logDice="6.46">
+              <comp position="1" type="headword" sloleks="LE_b50a753b871304eb65cfbc49545b6f85">neorganiziranost</comp>
+              <comp position="2" type="collocate" sloleks="LE_4db6a7805eb45585986626b8cf727d84">pridelovalca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz zaradi SBZ2">
+          <collocations>
+            <collocation form="morati zaradi neorganiziranosti" cluster="1" frequency="4" logDice="3.23">
+              <comp position="1" type="collocate" sloleks="LE_5a69e334926729c2b878f5735b5ec456">morati</comp>
+              <comp position="2" type="other" sloleks="LE_e2128c24e3c3872c9e5c2981f71b461f">zaradi</comp>
+              <comp position="3" type="headword" sloleks="LE_b50a753b871304eb65cfbc49545b6f85">neorganiziranosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

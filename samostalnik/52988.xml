@@ -1,0 +1,69 @@
+<entry>
+  <header>
+    <lexical_unit id="52988">depozitar</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">541</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="depozitar iz člena" cluster="1" frequency="16" logDice="5.04">
+              <comp position="1" type="headword" sloleks="LE_67f5fa222da8d39fe1b29598fb1cefec">depozitar</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_84ebbc8170dd3af11f0e405bd1b9493b">člena</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="depozitar konvencije" cluster="1" frequency="28" logDice="6.32">
+              <comp position="1" type="headword" sloleks="LE_67f5fa222da8d39fe1b29598fb1cefec">depozitar</comp>
+              <comp position="2" type="collocate" sloleks="LE_ff87fde7a9784678d21d22551dd36b9a">konvencije</comp>
+            </collocation>
+            <collocation form="depozitar pogodbe" cluster="2" frequency="25" logDice="2.96">
+              <comp position="1" type="headword" sloleks="LE_67f5fa222da8d39fe1b29598fb1cefec">depozitar</comp>
+              <comp position="2" type="collocate" sloleks="LE_f8f86304f16174105dd9c075264d9c0c">pogodbe</comp>
+            </collocation>
+            <collocation form="depozitar sporazuma" cluster="3" frequency="9" logDice="2.74">
+              <comp position="1" type="headword" sloleks="LE_67f5fa222da8d39fe1b29598fb1cefec">depozitar</comp>
+              <comp position="2" type="collocate" sloleks="LE_97c581d1292054530db7e9f7cfdd7557">sporazuma</comp>
+            </collocation>
+            <collocation form="posel depozitarja" cluster="4" frequency="5" logDice="4.12">
+              <comp position="1" type="collocate" sloleks="LE_4944cd3b7cdda05428aed18cfcac7eb9">posel</comp>
+              <comp position="2" type="headword" sloleks="LE_67f5fa222da8d39fe1b29598fb1cefec">depozitarja</comp>
+            </collocation>
+            <collocation form="naloga depozitarja" cluster="5" frequency="8" logDice="2.74">
+              <comp position="1" type="collocate" sloleks="LE_85b4631dc6e0b0f426e7455c2bc6a05e">naloga</comp>
+              <comp position="2" type="headword" sloleks="LE_67f5fa222da8d39fe1b29598fb1cefec">depozitarja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz pri SBZ5">
+          <collocations>
+            <collocation form="deponirati pri depozitarju" cluster="1" frequency="15" logDice="10.98">
+              <comp position="1" type="collocate" sloleks="LE_71e6f56994f6ecd1e8f2c46956ea4f10">deponirati</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_67f5fa222da8d39fe1b29598fb1cefec">depozitarju</comp>
+            </collocation>
+            <collocation form="hraniti pri depozitarju" cluster="2" frequency="8" logDice="9.49">
+              <comp position="1" type="collocate" sloleks="LE_3eb2f8b8caad4928e8075ca2669a9ba4">hraniti</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_67f5fa222da8d39fe1b29598fb1cefec">depozitarju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 pri SBZ5">
+          <collocations>
+            <collocation form="pogodba pri depozitarju" cluster="1" frequency="7" logDice="8.61">
+              <comp position="1" type="collocate" sloleks="LE_f8f86304f16174105dd9c075264d9c0c">pogodba</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_67f5fa222da8d39fe1b29598fb1cefec">depozitarju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

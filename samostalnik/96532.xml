@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="96532">vlečka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">427</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="dolga vlečka" cluster="1" frequency="66" logDice="2.71">
+              <comp position="1" type="collocate" sloleks="LE_e4a9ab0324b002b5f34e7335184d3dd1">dolga</comp>
+              <comp position="2" type="headword" sloleks="LE_75c69265b6250fc31d5167e1296eb7cd">vlečka</comp>
+            </collocation>
+            <collocation form="bela vlečka" cluster="1" frequency="20" logDice="1.33">
+              <comp position="1" type="collocate" sloleks="LE_50f9b0a6743feeba2fd5482919490dd5">bela</comp>
+              <comp position="2" type="headword" sloleks="LE_75c69265b6250fc31d5167e1296eb7cd">vlečka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="Dečko z vlečko" cluster="1" frequency="14" logDice="12.21">
+              <comp position="1" type="collocate" sloleks="LE_9089ebd0a2b88c081697585c7944cd4a|LE_df86987cd31460558a726b46e472310e">Dečko</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_75c69265b6250fc31d5167e1296eb7cd">vlečko</comp>
+            </collocation>
+            <collocation form="obleka z vlečko" cluster="2" frequency="33" logDice="8.71">
+              <comp position="1" type="collocate" sloleks="LE_bfd8bb730cd2036ba76709da13f2d420">obleka</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_75c69265b6250fc31d5167e1296eb7cd">vlečko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

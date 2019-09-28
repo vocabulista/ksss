@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="98553">zasmehovanje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">652</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="zasmehovanje vrstnika" cluster="1" frequency="9" logDice="6.81">
+              <comp position="1" type="headword" sloleks="LE_5157818f5ee86ce6c093945b1a4f3bd4">zasmehovanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_a18dbd374645853b2907bf7bf42d9ec4">vrstnika</comp>
+            </collocation>
+            <collocation form="zasmehovanje okolice" cluster="2" frequency="9" logDice="5.2">
+              <comp position="1" type="headword" sloleks="LE_5157818f5ee86ce6c093945b1a4f3bd4">zasmehovanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_47ad0b8169f925a63d1a9ab41a6ec943">okolice</comp>
+            </collocation>
+            <collocation form="tarča zasmehovanja" cluster="3" frequency="20" logDice="5.92">
+              <comp position="1" type="collocate" sloleks="LE_f55e06237158d711fe14bba6beb2e8cf">tarča</comp>
+              <comp position="2" type="headword" sloleks="LE_5157818f5ee86ce6c093945b1a4f3bd4">zasmehovanja</comp>
+            </collocation>
+            <collocation form="plaz zasmehovanja" cluster="4" frequency="5" logDice="5.15">
+              <comp position="1" type="collocate" sloleks="LE_f8c011b69b3ee49e62127e76f5d12cf3">plaz</comp>
+              <comp position="2" type="headword" sloleks="LE_5157818f5ee86ce6c093945b1a4f3bd4">zasmehovanja</comp>
+            </collocation>
+            <collocation form="predmet zasmehovanja" cluster="5" frequency="15" logDice="3.62">
+              <comp position="1" type="collocate" sloleks="LE_d51cd609db6fe289654ca191c3ec4f9a">predmet</comp>
+              <comp position="2" type="headword" sloleks="LE_5157818f5ee86ce6c093945b1a4f3bd4">zasmehovanja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za zasmehovanje" cluster="1" frequency="5" logDice="-1.28">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_5157818f5ee86ce6c093945b1a4f3bd4">zasmehovanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="deležno zasmehovanje" cluster="1" frequency="15" logDice="3.54">
+              <comp position="1" type="collocate" sloleks="LE_d107a39f9de53272bd32b38e28b5e35f">deležno</comp>
+              <comp position="2" type="headword" sloleks="LE_5157818f5ee86ce6c093945b1a4f3bd4">zasmehovanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,36 @@
+<entry>
+  <header>
+    <lexical_unit id="89214">skropucalo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">476</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 od sbz2">
+          <collocations>
+            <collocation form="skropucalo od zakona" cluster="1" frequency="4" logDice="8.78">
+              <comp position="1" type="headword" sloleks="LE_df0e9b065e80340d9ffe92135fa1caad">skropucalo</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_b3ce668b2bbbbdfa905463c113c05551">zakona</comp>
+            </collocation>
+            <collocation form="skropucalo od vlade" cluster="2" frequency="4" logDice="6.39">
+              <comp position="1" type="headword" sloleks="LE_df0e9b065e80340d9ffe92135fa1caad">skropucalo</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_63d183132c68728be91773043828fb2d">vlade</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="iti za skropucalo" cluster="1" frequency="4" logDice="-1.6">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_df0e9b065e80340d9ffe92135fa1caad">skropucalo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

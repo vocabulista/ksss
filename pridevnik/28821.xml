@@ -1,0 +1,63 @@
+<entry>
+  <header>
+    <lexical_unit id="28821">podcenjevalen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">575</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="podcenjevalen odnos" cluster="1" frequency="300" logDice="5.66">
+              <comp position="1" type="headword" sloleks="LE_6356539bc82b5e6651c40f0fb092ea03">podcenjevalen</comp>
+              <comp position="2" type="collocate" sloleks="LE_77f2f37de07cb9f39cb3dd828efa7919">odnos</comp>
+            </collocation>
+            <collocation form="podcenjevalna izjava" cluster="2" frequency="11" logDice="2.48">
+              <comp position="1" type="headword" sloleks="LE_6356539bc82b5e6651c40f0fb092ea03">podcenjevalna</comp>
+              <comp position="2" type="collocate" sloleks="LE_43a60c321a9a7889eb71aacc9ccb368f">izjava</comp>
+            </collocation>
+            <collocation form="podcenjevalen pristop" cluster="3" frequency="6" logDice="1.77">
+              <comp position="1" type="headword" sloleks="LE_6356539bc82b5e6651c40f0fb092ea03">podcenjevalen</comp>
+              <comp position="2" type="collocate" sloleks="LE_4f4f7324dcb1e1ad25b7b1acd0a3636b">pristop</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="podcenjevalen in/ali kaotičen" cluster="1" frequency="5" logDice="8.46">
+              <comp position="3" type="headword" sloleks="LE_6356539bc82b5e6651c40f0fb092ea03">podcenjevalen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_b0a86dd9a1991a624c6a999790354f5c">kaotičen</comp>
+              </collocation>
+            <collocation form="podcenjevalen in/ali žaljiv" cluster="2" frequency="8" logDice="7.05">
+              <comp position="3" type="headword" sloleks="LE_6356539bc82b5e6651c40f0fb092ea03">podcenjevalen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_a77e2e442d62acf4e52e29e74a129d63">žaljiv</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="skrajno podcenjevalen" cluster="1" frequency="5" logDice="3.12">
+              <comp position="1" type="collocate" sloleks="LE_50bd085be9fea6c2fd7222a14ab31702">skrajno</comp>
+              <comp position="2" type="headword" sloleks="LE_6356539bc82b5e6651c40f0fb092ea03">podcenjevalen</comp>
+            </collocation>
+            <collocation form="nekoliko podcenjevalen" cluster="2" frequency="18" logDice="2.32">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_6356539bc82b5e6651c40f0fb092ea03">podcenjevalen</comp>
+            </collocation>
+            <collocation form="malce podcenjevalen" cluster="2" frequency="7" logDice="2.67">
+              <comp position="1" type="collocate" sloleks="LE_2eec11a38ac5bbb5fa6d7682c1224a82">malce</comp>
+              <comp position="2" type="headword" sloleks="LE_6356539bc82b5e6651c40f0fb092ea03">podcenjevalen</comp>
+            </collocation>
+            <collocation form="vedno podcenjevalen" cluster="3" frequency="9" logDice="0.56">
+              <comp position="1" type="collocate" sloleks="LE_eaabd5718a27f818fd47358031426355">vedno</comp>
+              <comp position="2" type="headword" sloleks="LE_6356539bc82b5e6651c40f0fb092ea03">podcenjevalen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

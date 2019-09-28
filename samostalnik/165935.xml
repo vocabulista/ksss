@@ -1,0 +1,29 @@
+<entry>
+  <header>
+    <lexical_unit id="165935">atomik</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="Atomik harmonike" cluster="1" frequency="1893" logDice="12.86">
+              <comp position="1" type="headword" sloleks="">Atomik</comp>
+              <comp position="2" type="collocate" sloleks="LE_e101f05a3898bc28ce8dc048e4f613db">harmonike</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 od SBZ2">
+          <collocations>
+            <collocation form="Špela od atomik" cluster="1" frequency="5" logDice="12.92">
+              <comp position="1" type="collocate" sloleks="LE_5b711f7ed2bb634481bfee93063e71bd">Špela</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="headword" sloleks="">atomik</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        </gramrels>
+    </sense>
+  </body>
+</entry>

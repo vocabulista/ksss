@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="7271">procesirati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">543</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="procesirati naprej" cluster="1" frequency="6" logDice="0.74">
+              <comp position="1" type="headword" sloleks="LE_a52f2ed9f94966acaa87a5c17351cdcf">procesirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="procesirati zvok" cluster="1" frequency="14" logDice="5.84">
+              <comp position="1" type="headword" sloleks="LE_a52f2ed9f94966acaa87a5c17351cdcf">procesirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_b643047c80a491865b6c8c963a88554d">zvok</comp>
+            </collocation>
+            <collocation form="procesirati signal" cluster="2" frequency="6" logDice="4.98">
+              <comp position="1" type="headword" sloleks="LE_a52f2ed9f94966acaa87a5c17351cdcf">procesirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_82b6f0a9e7b1ee9988304b47404da3e2">signal</comp>
+            </collocation>
+            <collocation form="procesirati informacijo" cluster="3" frequency="26" logDice="4.28">
+              <comp position="1" type="headword" sloleks="LE_a52f2ed9f94966acaa87a5c17351cdcf">procesirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_3767bb8b14e0a27c8f520cfa7e003a14">informacijo</comp>
+            </collocation>
+            <collocation form="procesirati podatek" cluster="4" frequency="26" logDice="3.41">
+              <comp position="1" type="headword" sloleks="LE_a52f2ed9f94966acaa87a5c17351cdcf">procesirati</comp>
+              <comp position="2" type="collocate" sloleks="LE_dceff032dbcde0be8f54f9dd068c8f74">podatek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="različno procesirati" cluster="1" frequency="5" logDice="4.99">
+              <comp position="1" type="collocate" sloleks="LE_8f0f6f691648bd067ad15c89d8ce0a1c">različno</comp>
+              <comp position="2" type="headword" sloleks="LE_a52f2ed9f94966acaa87a5c17351cdcf">procesirati</comp>
+            </collocation>
+            <collocation form="ustrezno procesirati" cluster="2" frequency="7" logDice="3.18">
+              <comp position="1" type="collocate" sloleks="LE_a0616e9dd61d3f4a2c19c7de0cb8734f">ustrezno</comp>
+              <comp position="2" type="headword" sloleks="LE_a52f2ed9f94966acaa87a5c17351cdcf">procesirati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

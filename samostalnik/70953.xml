@@ -1,0 +1,78 @@
+<entry>
+  <header>
+    <lexical_unit id="70953">nadnaslov</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">6551</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="nadnaslov kolumne" cluster="1" frequency="8" logDice="7.83">
+              <comp position="1" type="headword" sloleks="LE_8a4980874cbcf3aa0d357b04e3a2eec5">nadnaslov</comp>
+              <comp position="2" type="collocate" sloleks="LE_27e6b27407e34455df0b64f13a9b8630">kolumne</comp>
+            </collocation>
+            <collocation form="nadnaslov SPRETNOSTI" cluster="2" frequency="8" logDice="6.41">
+              <comp position="1" type="headword" sloleks="LE_8a4980874cbcf3aa0d357b04e3a2eec5">nadnaslov</comp>
+              <comp position="2" type="collocate" sloleks="LE_a87bdad9d86b5c70e98024bfae091181">SPRETNOSTI</comp>
+            </collocation>
+            <collocation form="nadnaslov RIBE" cluster="3" frequency="40" logDice="5.89">
+              <comp position="1" type="headword" sloleks="LE_8a4980874cbcf3aa0d357b04e3a2eec5">nadnaslov</comp>
+              <comp position="2" type="collocate" sloleks="LE_d7b8f7ec392e661983c77782c366fd0d">RIBE</comp>
+            </collocation>
+            <collocation form="nadnaslov RASTLINE" cluster="3" frequency="13" logDice="3.51">
+              <comp position="1" type="headword" sloleks="LE_8a4980874cbcf3aa0d357b04e3a2eec5">nadnaslov</comp>
+              <comp position="2" type="collocate" sloleks="LE_29b84db176a06b7dc3d3658f8a3cd001">RASTLINE</comp>
+            </collocation>
+            <collocation form="nadnaslov POTREBŠČINE" cluster="4" frequency="11" logDice="5.84">
+              <comp position="1" type="headword" sloleks="LE_8a4980874cbcf3aa0d357b04e3a2eec5">nadnaslov</comp>
+              <comp position="2" type="collocate" sloleks="LE_08b2ddc594e8541de7c6514510c19d58">POTREBŠČINE</comp>
+            </collocation>
+            <collocation form="nadnaslov članka" cluster="5" frequency="18" logDice="4.2">
+              <comp position="1" type="headword" sloleks="LE_8a4980874cbcf3aa0d357b04e3a2eec5">nadnaslov</comp>
+              <comp position="2" type="collocate" sloleks="LE_7b76be0a2bcca59d06b588fb3688bdd2">članka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz2">
+          <collocations>
+            <collocation form="nadnaslov za trača" cluster="1" frequency="8" logDice="13.91">
+              <comp position="1" type="headword" sloleks="LE_8a4980874cbcf3aa0d357b04e3a2eec5">nadnaslov</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_1c5572e8a13a8ac674453cf41f44d6c4">trača</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz v SBZ5">
+          <collocations>
+            <collocation form="zapisati v nadnaslovu" cluster="1" frequency="10" logDice="3.89">
+              <comp position="1" type="collocate" sloleks="LE_c6de090644261696188a3ce198fb6cca">zapisati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_8a4980874cbcf3aa0d357b04e3a2eec5">nadnaslovu</comp>
+            </collocation>
+            <collocation form="pisati v nadnaslovu" cluster="2" frequency="5" logDice="2.63">
+              <comp position="1" type="collocate" sloleks="LE_4173587cb50dc70d0c9a1be18c9c1b96">pisati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_8a4980874cbcf3aa0d357b04e3a2eec5">nadnaslovu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="prispevek z nadnaslovom" cluster="1" frequency="8" logDice="7.45">
+              <comp position="1" type="collocate" sloleks="LE_31b4b9d1edb0c5ea202549e0e4e23e81">prispevek</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_8a4980874cbcf3aa0d357b04e3a2eec5">nadnaslovom</comp>
+            </collocation>
+            <collocation form="članek z nadnaslovom" cluster="2" frequency="19" logDice="7.01">
+              <comp position="1" type="collocate" sloleks="LE_7b76be0a2bcca59d06b588fb3688bdd2">članek</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_8a4980874cbcf3aa0d357b04e3a2eec5">nadnaslovom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

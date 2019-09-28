@@ -1,0 +1,67 @@
+<entry>
+  <header>
+    <lexical_unit id="37110">valonski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">609</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="Valonska puščica" cluster="1" frequency="240" logDice="10.55">
+              <comp position="1" type="headword" sloleks="LE_74770b6eee65f155a0afd125e77958da">Valonska</comp>
+              <comp position="2" type="collocate" sloleks="LE_1032a370ad399a2637dde8a6889729fa">puščica</comp>
+            </collocation>
+            <collocation form="valonski socialist" cluster="2" frequency="33" logDice="7.42">
+              <comp position="1" type="headword" sloleks="LE_74770b6eee65f155a0afd125e77958da">valonski</comp>
+              <comp position="2" type="collocate" sloleks="LE_2cbc7fe953f6d1cbf449715a80163c68">socialist</comp>
+            </collocation>
+            <collocation form="valonski liberalec" cluster="2" frequency="11" logDice="6.69">
+              <comp position="1" type="headword" sloleks="LE_74770b6eee65f155a0afd125e77958da">valonski</comp>
+              <comp position="2" type="collocate" sloleks="LE_40230988505d6b43d9039546dff5e779">liberalec</comp>
+            </collocation>
+            <collocation form="valonski demokrat" cluster="2" frequency="7" logDice="2.53">
+              <comp position="1" type="headword" sloleks="LE_74770b6eee65f155a0afd125e77958da">valonski</comp>
+              <comp position="2" type="collocate" sloleks="LE_ddfe198110439c23756ea43ea8618428">demokrat</comp>
+            </collocation>
+            <collocation form="valonska regija" cluster="3" frequency="31" logDice="3.92">
+              <comp position="1" type="headword" sloleks="LE_74770b6eee65f155a0afd125e77958da">valonska</comp>
+              <comp position="2" type="collocate" sloleks="LE_31cb8fe538d8fa18e4d9dee4250ad34e">regija</comp>
+            </collocation>
+            <collocation form="valonski parlament" cluster="4" frequency="11" logDice="2.5">
+              <comp position="1" type="headword" sloleks="LE_74770b6eee65f155a0afd125e77958da">valonski</comp>
+              <comp position="2" type="collocate" sloleks="LE_32de6db1998df95db74df7cb39a9b390">parlament</comp>
+            </collocation>
+            <collocation form="valonski minister" cluster="4" frequency="11" logDice="0.5">
+              <comp position="1" type="headword" sloleks="LE_74770b6eee65f155a0afd125e77958da">valonski</comp>
+              <comp position="2" type="collocate" sloleks="LE_14d03bd4c4af80feb9e303c813fc6d24">minister</comp>
+            </collocation>
+            <collocation form="valonska stranka" cluster="5" frequency="26" logDice="1.28">
+              <comp position="1" type="headword" sloleks="LE_74770b6eee65f155a0afd125e77958da">valonska</comp>
+              <comp position="2" type="collocate" sloleks="LE_945a204a300f28702820c4bc0481d2e7">stranka</comp>
+            </collocation>
+            <collocation form="valonska vlada" cluster="5" frequency="11" logDice="0.72">
+              <comp position="1" type="headword" sloleks="LE_74770b6eee65f155a0afd125e77958da">valonska</comp>
+              <comp position="2" type="collocate" sloleks="LE_63d183132c68728be91773043828fb2d">vlada</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="valonski in/ali flamski" cluster="1" frequency="46" logDice="12.46">
+              <comp position="3" type="headword" sloleks="LE_74770b6eee65f155a0afd125e77958da">valonski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_5c2eb1d052c2584455e239119c6d39dd">flamski</comp>
+              </collocation>
+            <collocation form="valonski in bruseljski" cluster="2" frequency="7" logDice="9.99">
+              <comp position="1" type="headword" sloleks="LE_74770b6eee65f155a0afd125e77958da">valonski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_2e50e3cf866c405b858af08446b0ad44">bruseljski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

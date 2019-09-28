@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="36012">tirenski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">473</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 do sbz2">
+          <collocations>
+            <collocation form="tirenski do morja" cluster="1" frequency="125" logDice="13.63">
+              <comp position="1" type="headword" sloleks="LE_a03a0b3969855ded1bcea46a16520ec2">tirenski</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_bcd96bfadbb1e224af34457884db42c8">morja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="tirenski in ligurski" cluster="1" frequency="7" logDice="12.1">
+              <comp position="1" type="headword" sloleks="LE_a03a0b3969855ded1bcea46a16520ec2">tirenski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_68015a8b3c700b4458a0174cee34a471">ligurski</comp>
+            </collocation>
+            <collocation form="tirenski in/ali jonski" cluster="2" frequency="8" logDice="10.7">
+              <comp position="3" type="headword" sloleks="LE_a03a0b3969855ded1bcea46a16520ec2">tirenski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_c79898f9f20455badf6f41d3ba90b06c">jonski</comp>
+              </collocation>
+            <collocation form="tirenski in jadranski" cluster="3" frequency="16" logDice="10.47">
+              <comp position="1" type="headword" sloleks="LE_a03a0b3969855ded1bcea46a16520ec2">tirenski</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_99a18dc7e760110e5232fa2914e9f52b">jadranski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="tirensko morje" cluster="1" frequency="275" logDice="7.34">
+              <comp position="1" type="headword" sloleks="LE_a03a0b3969855ded1bcea46a16520ec2">tirensko</comp>
+              <comp position="2" type="collocate" sloleks="LE_bcd96bfadbb1e224af34457884db42c8">morje</comp>
+            </collocation>
+            <collocation form="tirenska obala" cluster="2" frequency="30" logDice="4.41">
+              <comp position="1" type="headword" sloleks="LE_a03a0b3969855ded1bcea46a16520ec2">tirenska</comp>
+              <comp position="2" type="collocate" sloleks="LE_118da2ffc2ffec695de4779f29bc6ad6">obala</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

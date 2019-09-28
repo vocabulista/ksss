@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="81568">prasketanje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">473</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="prasketanje ognja" cluster="1" frequency="107" logDice="8.96">
+              <comp position="1" type="headword" sloleks="LE_e4a6597778840e04bf9242c75e60eecc">prasketanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_939032824ae6e8829fec4a2f18ab7e9b">ognja</comp>
+            </collocation>
+            <collocation form="prasketanje polena" cluster="2" frequency="13" logDice="8.27">
+              <comp position="1" type="headword" sloleks="LE_e4a6597778840e04bf9242c75e60eecc">prasketanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_b4bc9ed852da7a87d56eb06d47093889">polena</comp>
+            </collocation>
+            <collocation form="prasketanje drv" cluster="3" frequency="9" logDice="6.78">
+              <comp position="1" type="headword" sloleks="LE_e4a6597778840e04bf9242c75e60eecc">prasketanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_b6a51fce43222d4131d3aaf5c58f1d5d">drv</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="prijetno prasketanje" cluster="1" frequency="8" logDice="1.67">
+              <comp position="1" type="collocate" sloleks="LE_c54487f53545d75fcf13a9fa0732e5f5">prijetno</comp>
+              <comp position="2" type="headword" sloleks="LE_e4a6597778840e04bf9242c75e60eecc">prasketanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

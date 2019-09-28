@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="58276">gradacija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">415</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="gradacija podlubnika" cluster="1" frequency="17" logDice="9.56">
+              <comp position="1" type="headword" sloleks="LE_e83ccc3581b9b9966ff9f8f5168efd5f">gradacija</comp>
+              <comp position="2" type="collocate" sloleks="LE_610e7791411f128dc8ffc21a5153ddb8">podlubnika</comp>
+            </collocation>
+            <collocation form="vrh gradacije" cluster="2" frequency="8" logDice="1.52">
+              <comp position="1" type="collocate" sloleks="LE_5111d9a7de58321a8ec7f1a0aa9fce76">vrh</comp>
+              <comp position="2" type="headword" sloleks="LE_e83ccc3581b9b9966ff9f8f5168efd5f">gradacije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="dinamična gradacija" cluster="1" frequency="9" logDice="3.81">
+              <comp position="1" type="collocate" sloleks="LE_4de86eab822e2a2f8515bb1ae603193f">dinamična</comp>
+              <comp position="2" type="headword" sloleks="LE_e83ccc3581b9b9966ff9f8f5168efd5f">gradacija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

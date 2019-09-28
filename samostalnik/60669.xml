@@ -1,0 +1,41 @@
+<entry>
+  <header>
+    <lexical_unit id="60669">inverzija</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">537</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="subsidenčen inverzija" cluster="1" frequency="11" logDice="10.05">
+              <comp position="1" type="collocate" sloleks="">subsidenčen</comp>
+              <comp position="2" type="headword" sloleks="LE_46d037055a51c217b424dfcee7146d0c">inverzija</comp>
+            </collocation>
+            <collocation form="temperaturna inverzija" cluster="2" frequency="95" logDice="9.11">
+              <comp position="1" type="collocate" sloleks="LE_3ca244a3f0c27e531bb0fdd0e217c41d">temperaturna</comp>
+              <comp position="2" type="headword" sloleks="LE_46d037055a51c217b424dfcee7146d0c">inverzija</comp>
+            </collocation>
+            <collocation form="toplotna inverzija" cluster="2" frequency="54" logDice="6.49">
+              <comp position="1" type="collocate" sloleks="LE_3cd8befc1cd6f9d25d042c6b2be3e386">toplotna</comp>
+              <comp position="2" type="headword" sloleks="LE_46d037055a51c217b424dfcee7146d0c">inverzija</comp>
+            </collocation>
+            <collocation form="pogosta inverzija" cluster="3" frequency="15" logDice="2.98">
+              <comp position="1" type="collocate" sloleks="LE_2ecdf1445e4b8c64b8108c40b9b0a1d1">pogosta</comp>
+              <comp position="2" type="headword" sloleks="LE_46d037055a51c217b424dfcee7146d0c">inverzija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="pojav inverzije" cluster="1" frequency="5" logDice="3.23">
+              <comp position="1" type="collocate" sloleks="LE_d0fa033e21261b64a3d4f3b037d66371">pojav</comp>
+              <comp position="2" type="headword" sloleks="LE_46d037055a51c217b424dfcee7146d0c">inverzije</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

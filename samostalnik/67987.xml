@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="67987">madrigal</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">449</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Monteverdijev madrigal" cluster="1" frequency="8" logDice="10.24">
+              <comp position="1" type="collocate" sloleks="LE_350f4777d2344bd1b7b04d1dae2e7f35">Monteverdijev</comp>
+              <comp position="2" type="headword" sloleks="LE_d439244335b7c13da1159e1367de4b1c">madrigal</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="knjiga madrigala" cluster="1" frequency="7" logDice="2.3">
+              <comp position="1" type="collocate" sloleks="LE_fcbd23f52ef0d5c8f302f9c1ba64a0e3">knjiga</comp>
+              <comp position="2" type="headword" sloleks="LE_d439244335b7c13da1159e1367de4b1c">madrigala</comp>
+            </collocation>
+            <collocation form="zbirka madrigala" cluster="2" frequency="6" logDice="1.99">
+              <comp position="1" type="collocate" sloleks="LE_b8e0610165688c675f0bd81c2c79fbd6">zbirka</comp>
+              <comp position="2" type="headword" sloleks="LE_d439244335b7c13da1159e1367de4b1c">madrigala</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ5">
+          <collocations>
+            <collocation form="tekma na Madrigalu" cluster="1" frequency="4" logDice="3.33">
+              <comp position="1" type="collocate" sloleks="LE_569dcc42a5a400bab2106b20777ed55f">tekma</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_d439244335b7c13da1159e1367de4b1c">Madrigalu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

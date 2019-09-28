@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="84900">razburjenost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">414</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="čustvena razburjenost" cluster="1" frequency="10" logDice="3.11">
+              <comp position="1" type="collocate" sloleks="LE_dfcb6e7cce51323c12c82092d5a5c3bd">čustvena</comp>
+              <comp position="2" type="headword" sloleks="LE_e89daf9a58e15514dd523c6329b7a676">razburjenost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="stanje razburjenosti" cluster="1" frequency="11" logDice="2.71">
+              <comp position="1" type="collocate" sloleks="LE_2ad4e1571957d685096e1a60acee4119">stanje</comp>
+              <comp position="2" type="headword" sloleks="LE_e89daf9a58e15514dd523c6329b7a676">razburjenosti</comp>
+            </collocation>
+            <collocation form="stopnja razburjenosti" cluster="2" frequency="5" logDice="0.77">
+              <comp position="1" type="collocate" sloleks="LE_ed1cc20afdfdf1e20fe2e301bae175ee">stopnja</comp>
+              <comp position="2" type="headword" sloleks="LE_e89daf9a58e15514dd523c6329b7a676">razburjenosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

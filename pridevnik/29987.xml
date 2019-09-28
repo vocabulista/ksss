@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="29987">pran</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">580</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="pran či" cluster="1" frequency="11" logDice="8.81">
+              <comp position="1" type="headword" sloleks="LE_a9d9468d43a9f623997cec5b140e0c4e">pran</comp>
+              <comp position="2" type="collocate" sloleks="">či</comp>
+            </collocation>
+            <collocation form="pran beton" cluster="2" frequency="12" logDice="7.14">
+              <comp position="1" type="headword" sloleks="LE_a9d9468d43a9f623997cec5b140e0c4e">pran</comp>
+              <comp position="2" type="collocate" sloleks="LE_741c2eb9ff263a4bad99c73faf95bfcf">beton</comp>
+            </collocation>
+            <collocation form="pran pesek" cluster="3" frequency="19" logDice="6.35">
+              <comp position="1" type="headword" sloleks="LE_a9d9468d43a9f623997cec5b140e0c4e">pran</comp>
+              <comp position="2" type="collocate" sloleks="LE_b3367a91ee6c77196c32452549548dee">pesek</comp>
+            </collocation>
+            <collocation form="prana plošča" cluster="4" frequency="37" logDice="3.83">
+              <comp position="1" type="headword" sloleks="LE_a9d9468d43a9f623997cec5b140e0c4e">prana</comp>
+              <comp position="2" type="collocate" sloleks="LE_75a10c913aa58b7a0188e78adfd52ab4">plošča</comp>
+            </collocation>
+            <collocation form="prana energija" cluster="5" frequency="38" logDice="3.48">
+              <comp position="1" type="headword" sloleks="LE_a9d9468d43a9f623997cec5b140e0c4e">prana</comp>
+              <comp position="2" type="collocate" sloleks="LE_a5b5cd7c325eb8bbda86e3d9bb680b09">energija</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz PBZ1">
+          <collocations>
+            <collocation form="jesti pran" cluster="1" frequency="4" logDice="8.07">
+              <comp position="1" type="collocate" sloleks="LE_2f6197b1d2da486a27555037c733ecf5">jesti</comp>
+              <comp position="2" type="headword" sloleks="LE_a9d9468d43a9f623997cec5b140e0c4e">pran</comp>
+            </collocation>
+            <collocation form="imenovati pran" cluster="2" frequency="5" logDice="6.63">
+              <comp position="1" type="collocate" sloleks="LE_3e12a706ab8dbd4f47d3004afdf657ec">imenovati</comp>
+              <comp position="2" type="headword" sloleks="LE_a9d9468d43a9f623997cec5b140e0c4e">pran</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

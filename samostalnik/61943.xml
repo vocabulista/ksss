@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="61943">jazbec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">882</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="Jazbec za oblikovanje" cluster="1" frequency="4" logDice="3.45">
+              <comp position="1" type="headword" sloleks="LE_529dbf656954315dd43d7d9c390515e5">Jazbec</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_e6837c8d43146ecd172f5bf720d09d3b">oblikovanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="medarski jazbec" cluster="1" frequency="36" logDice="12.27">
+              <comp position="1" type="collocate" sloleks="LE_49ddf5c3856640e0b7fe966bd8a3f645">medarski</comp>
+              <comp position="2" type="headword" sloleks="LE_529dbf656954315dd43d7d9c390515e5">jazbec</comp>
+            </collocation>
+            <collocation form="smrdljiv jazbec" cluster="2" frequency="9" logDice="6.74">
+              <comp position="1" type="collocate" sloleks="LE_f70fe78a7a3bffd25d436dfd460d3c14">smrdljiv</comp>
+              <comp position="2" type="headword" sloleks="LE_529dbf656954315dd43d7d9c390515e5">jazbec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="Žiga Jazbeca" cluster="1" frequency="5" logDice="6.37">
+              <comp position="1" type="collocate" sloleks="LE_049f8e214af743e6a66e0ab8fc384d2f">Žiga</comp>
+              <comp position="2" type="headword" sloleks="LE_529dbf656954315dd43d7d9c390515e5">Jazbeca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,71 @@
+<entry>
+  <header>
+    <lexical_unit id="53206">dezerter</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">714</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="dezerter iz armade" cluster="1" frequency="13" logDice="11.22">
+              <comp position="1" type="headword" sloleks="LE_b8171843f91f9a519ede582e19188846">dezerter</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_2e1d19a515723ecfa205b850a141245f">armade</comp>
+            </collocation>
+            <collocation form="dezerter iz vojske" cluster="2" frequency="30" logDice="10.31">
+              <comp position="1" type="headword" sloleks="LE_b8171843f91f9a519ede582e19188846">dezerter</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_014592c93c5ecc51294b73e71f55d921">vojske</comp>
+            </collocation>
+            <collocation form="dezerter iz vrste" cluster="3" frequency="7" logDice="4.07">
+              <comp position="1" type="headword" sloleks="LE_b8171843f91f9a519ede582e19188846">dezerter</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_4af9091c01f502e405be7dfe91eedee3">vrste</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="razglasiti za dezerterja" cluster="1" frequency="8" logDice="4.31">
+              <comp position="1" type="collocate" sloleks="LE_bf7aad6c518b6989f7d2c5d7b4806af8">razglasiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_b8171843f91f9a519ede582e19188846">dezerterja</comp>
+            </collocation>
+            <collocation form="imeti za dezerterja" cluster="2" frequency="4" logDice="0.92">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_b8171843f91f9a519ede582e19188846">dezerterja</comp>
+            </collocation>
+            <collocation form="veljati za dezerterja" cluster="3" frequency="4" logDice="0.57">
+              <comp position="1" type="collocate" sloleks="LE_d1ea0d9dd4771e211c9eddc0d342acc2">veljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_b8171843f91f9a519ede582e19188846">dezerterja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="partizanski dezerter" cluster="1" frequency="23" logDice="4.94">
+              <comp position="1" type="collocate" sloleks="LE_f03e2685790b45d1d1d427d8b39e6b69">partizanski</comp>
+              <comp position="2" type="headword" sloleks="LE_b8171843f91f9a519ede582e19188846">dezerter</comp>
+            </collocation>
+            <collocation form="vojaški dezerter" cluster="2" frequency="32" logDice="2.64">
+              <comp position="1" type="collocate" sloleks="LE_7148397ee3df6dc9fba14c0f25b252e3">vojaški</comp>
+              <comp position="2" type="headword" sloleks="LE_b8171843f91f9a519ede582e19188846">dezerter</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="vojak dezerterja" cluster="1" frequency="9" logDice="5.31">
+              <comp position="1" type="collocate" sloleks="LE_50a152b15610e2758436c8873b44b272">vojak</comp>
+              <comp position="2" type="headword" sloleks="LE_b8171843f91f9a519ede582e19188846">dezerterja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

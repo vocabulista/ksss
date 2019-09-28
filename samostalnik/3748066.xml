@@ -1,0 +1,73 @@
+<entry>
+  <header>
+    <lexical_unit id="3748066">soundtrack</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="soundtrack iz filma" cluster="1" frequency="14" logDice="5.97">
+              <comp position="1" type="headword" sloleks="">soundtrack</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_ef1ac12433b4b7e1e0c31edb0c726d89">filma</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="soundtrack filma" cluster="1" frequency="80" logDice="4.58">
+              <comp position="1" type="headword" sloleks="">soundtrack</comp>
+              <comp position="2" type="collocate" sloleks="LE_ef1ac12433b4b7e1e0c31edb0c726d89">filma</comp>
+            </collocation>
+            <collocation form="soundtrack življenja" cluster="2" frequency="12" logDice="1.1">
+              <comp position="1" type="headword" sloleks="">soundtrack</comp>
+              <comp position="2" type="collocate" sloleks="LE_b7a6a2019becc6510edb8591e171b0a7">življenja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="soundtrack za film" cluster="1" frequency="34" logDice="6.28">
+              <comp position="1" type="headword" sloleks="">soundtrack</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_ef1ac12433b4b7e1e0c31edb0c726d89">film</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="prispevati za soundtrack" cluster="1" frequency="4" logDice="4.76">
+              <comp position="1" type="collocate" sloleks="LE_fa72b6ca3a142db33cb7defbe02c77d8">prispevati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="">soundtrack</comp>
+            </collocation>
+            <collocation form="predlagati za soundtrack" cluster="2" frequency="5" logDice="4.46">
+              <comp position="1" type="collocate" sloleks="LE_bf7e5a6ca425b8fca51489fd0356a878">predlagati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="">soundtrack</comp>
+            </collocation>
+            <collocation form="iti za soundtrack" cluster="3" frequency="6" logDice="-1.01">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="">soundtrack</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="originalen soundtrack" cluster="1" frequency="10" logDice="4.03">
+              <comp position="1" type="collocate" sloleks="LE_aeefa7961233275f1c6e6be61f587de4">originalen</comp>
+              <comp position="2" type="headword" sloleks="">soundtrack</comp>
+            </collocation>
+            <collocation form="filmski soundtrack" cluster="2" frequency="13" logDice="1.48">
+              <comp position="1" type="collocate" sloleks="LE_2727ea40e1c4e31719f79893e7f51c83">filmski</comp>
+              <comp position="2" type="headword" sloleks="">soundtrack</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

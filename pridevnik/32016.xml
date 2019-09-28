@@ -1,0 +1,42 @@
+<entry>
+  <header>
+    <lexical_unit id="32016">raznežen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">459</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="raznežen in/ali mehek" cluster="1" frequency="5" logDice="4.9">
+              <comp position="3" type="headword" sloleks="LE_14cc2d0147cb57a39edfb26c876d4cb4">raznežen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_f42dee14d6a31c1895861d718d6304d3">mehek</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="vidno raznežen" cluster="1" frequency="5" logDice="4.3">
+              <comp position="1" type="collocate" sloleks="LE_af8523887c9c1966ef6e8e667cd34941">vidno</comp>
+              <comp position="2" type="headword" sloleks="LE_14cc2d0147cb57a39edfb26c876d4cb4">raznežen</comp>
+            </collocation>
+            <collocation form="čisto raznežen" cluster="2" frequency="19" logDice="3.37">
+              <comp position="1" type="collocate" sloleks="LE_94a91e83047bf2e90acf82e14cbb99c9">čisto</comp>
+              <comp position="2" type="headword" sloleks="LE_14cc2d0147cb57a39edfb26c876d4cb4">raznežen</comp>
+            </collocation>
+            <collocation form="popolnoma raznežen" cluster="3" frequency="12" logDice="1.88">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_14cc2d0147cb57a39edfb26c876d4cb4">raznežen</comp>
+            </collocation>
+            <collocation form="povsem raznežen" cluster="3" frequency="10" logDice="0.61">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_14cc2d0147cb57a39edfb26c876d4cb4">raznežen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

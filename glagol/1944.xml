@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="1944">jasniti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">652</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ od sbz2">
+          <collocations>
+            <collocation form="jasniti od severozahoda" cluster="1" frequency="12" logDice="9.8">
+              <comp position="1" type="headword" sloleks="LE_5ebd6bc85ba3a4552719b34dbb07dd4d">jasniti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_bbe4286a5c3d18f2d241209b02020c2d">severozahoda</comp>
+            </collocation>
+            <collocation form="jasniti od zahoda" cluster="2" frequency="4" logDice="6.44">
+              <comp position="1" type="headword" sloleks="LE_5ebd6bc85ba3a4552719b34dbb07dd4d">jasniti</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_babedc19236d7ae449ab0e9232678fb2">zahoda</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz INF-GBZ">
+          <collocations>
+            <collocation form="pričeti jasniti" cluster="1" frequency="53" logDice="5.78">
+              <comp position="1" type="collocate" sloleks="LE_ded1741f1de355cb4a0e75c9109c069d">pričeti</comp>
+              <comp position="2" type="headword" sloleks="LE_5ebd6bc85ba3a4552719b34dbb07dd4d">jasniti</comp>
+            </collocation>
+            <collocation form="začeti jasniti" cluster="2" frequency="162" logDice="3.48">
+              <comp position="1" type="collocate" sloleks="LE_5526be99243d6a70e33b06d3eabd15ae">začeti</comp>
+              <comp position="2" type="headword" sloleks="LE_5ebd6bc85ba3a4552719b34dbb07dd4d">jasniti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="postopno jasniti" cluster="1" frequency="7" logDice="4.63">
+              <comp position="1" type="collocate" sloleks="LE_b1a4b63f0756bfc5c541515f66a67299">postopno</comp>
+              <comp position="2" type="headword" sloleks="LE_5ebd6bc85ba3a4552719b34dbb07dd4d">jasniti</comp>
+            </collocation>
+            <collocation form="počasi jasniti" cluster="2" frequency="20" logDice="2.92">
+              <comp position="1" type="collocate" sloleks="LE_8e6dfe2d7b7944180be07304bc2e91fc">počasi</comp>
+              <comp position="2" type="headword" sloleks="LE_5ebd6bc85ba3a4552719b34dbb07dd4d">jasniti</comp>
+            </collocation>
+            <collocation form="nekoliko jasniti" cluster="3" frequency="5" logDice="1.05">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_5ebd6bc85ba3a4552719b34dbb07dd4d">jasniti</comp>
+            </collocation>
+            <collocation form="bolj jasniti" cluster="4" frequency="10" logDice="0.35">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_5ebd6bc85ba3a4552719b34dbb07dd4d">jasniti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

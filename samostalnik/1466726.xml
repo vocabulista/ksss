@@ -1,0 +1,49 @@
+<entry>
+  <header>
+    <lexical_unit id="1466726">kung</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="kung fu" cluster="1" frequency="152" logDice="13.58">
+              <comp position="1" type="headword" sloleks="">kung</comp>
+              <comp position="2" type="collocate" sloleks="">fu</comp>
+            </collocation>
+            <collocation form="kung f-ja" cluster="2" frequency="13" logDice="8.0">
+              <comp position="1" type="headword" sloleks="">kung</comp>
+              <comp position="2" type="collocate" sloleks="LE_3631dfb7aa66d101901a4de663092f35">f-ja</comp>
+            </collocation>
+            <collocation form="kung filma" cluster="3" frequency="18" logDice="2.42">
+              <comp position="1" type="headword" sloleks="">kung</comp>
+              <comp position="2" type="collocate" sloleks="LE_ef1ac12433b4b7e1e0c31edb0c726d89">filma</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="oprostiti za kung" cluster="1" frequency="7" logDice="9.42">
+              <comp position="1" type="collocate" sloleks="LE_703b1146aadad81f1da5b866a9346f07">oprostiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="">kung</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="šaolinski kung" cluster="1" frequency="10" logDice="9.56">
+              <comp position="1" type="collocate" sloleks="">šaolinski</comp>
+              <comp position="2" type="headword" sloleks="">kung</comp>
+            </collocation>
+            <collocation form="hongkonški kung" cluster="2" frequency="15" logDice="7.42">
+              <comp position="1" type="collocate" sloleks="LE_28230192e4092d7acab7ec2f0caba094">hongkonški</comp>
+              <comp position="2" type="headword" sloleks="">kung</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

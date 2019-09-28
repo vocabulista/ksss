@@ -1,0 +1,57 @@
+<entry>
+  <header>
+    <lexical_unit id="73965">obrazilo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">735</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="priponski obrazilo" cluster="1" frequency="349" logDice="13.75">
+              <comp position="1" type="collocate" sloleks="">priponski</comp>
+              <comp position="2" type="headword" sloleks="LE_3e8104e28e331894dd05bda23ce91ad8">obrazilo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 z SBZ6">
+          <collocations>
+            <collocation form="tvorjen z obrazilom" cluster="1" frequency="44" logDice="13.38">
+              <comp position="1" type="collocate" sloleks="LE_aedc2cca538df92eafd955746e80db67">tvorjen</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_3e8104e28e331894dd05bda23ce91ad8">obrazilom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="pomoč obrazila" cluster="1" frequency="11" logDice="1.26">
+              <comp position="1" type="collocate" sloleks="LE_84e3f9e3c4e9e1abf42cc69c125b0b58">pomoč</comp>
+              <comp position="2" type="headword" sloleks="LE_3e8104e28e331894dd05bda23ce91ad8">obrazila</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="izpeljava z obrazilom" cluster="1" frequency="5" logDice="10.71">
+              <comp position="1" type="collocate" sloleks="LE_c7adf76bbf0eebcdc6360f98f1f48014">izpeljava</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_3e8104e28e331894dd05bda23ce91ad8">obrazilom</comp>
+            </collocation>
+            <collocation form="pridevnik z obrazilom" cluster="2" frequency="4" logDice="10.2">
+              <comp position="1" type="collocate" sloleks="LE_cc31df39e5a6dd885c69a043ea1b08f1">pridevnik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_3e8104e28e331894dd05bda23ce91ad8">obrazilom</comp>
+            </collocation>
+            <collocation form="beseda z obrazilom" cluster="3" frequency="5" logDice="5.94">
+              <comp position="1" type="collocate" sloleks="LE_894811aeee3c9542e02486426f5bc3b9">beseda</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="headword" sloleks="LE_3e8104e28e331894dd05bda23ce91ad8">obrazilom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

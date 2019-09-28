@@ -1,0 +1,79 @@
+<entry>
+  <header>
+    <lexical_unit id="90350">soudeleženec</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">649</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="soudeleženec dogajanja" cluster="1" frequency="9" logDice="3.33">
+              <comp position="1" type="headword" sloleks="LE_97c9580e9ee8ec6d75f0f1b974a73996">soudeleženec</comp>
+              <comp position="2" type="collocate" sloleks="LE_074089eeaa23c9e20e21a161e79f6956">dogajanja</comp>
+            </collocation>
+            <collocation form="soudeleženec nesreče" cluster="2" frequency="11" logDice="2.97">
+              <comp position="1" type="headword" sloleks="LE_97c9580e9ee8ec6d75f0f1b974a73996">soudeleženec</comp>
+              <comp position="2" type="collocate" sloleks="LE_7e61b47f9fba793402f85c85a002bfa5">nesreče</comp>
+            </collocation>
+            <collocation form="soudeleženec dela" cluster="3" frequency="20" logDice="0.71">
+              <comp position="1" type="headword" sloleks="LE_97c9580e9ee8ec6d75f0f1b974a73996">soudeleženec</comp>
+              <comp position="2" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">dela</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="soudeleženec v nezgodi" cluster="1" frequency="9" logDice="9.8">
+              <comp position="1" type="headword" sloleks="LE_97c9580e9ee8ec6d75f0f1b974a73996">soudeleženec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_c1c125d5c7a913c5f281c7d606ac55f8">nezgodi</comp>
+            </collocation>
+            <collocation form="soudeleženec v zločinu" cluster="2" frequency="4" logDice="8.46">
+              <comp position="1" type="headword" sloleks="LE_97c9580e9ee8ec6d75f0f1b974a73996">soudeleženec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_720c478e47266009ba7182f208bb40b3">zločinu</comp>
+            </collocation>
+            <collocation form="soudeleženec v prometu" cluster="3" frequency="89" logDice="6.57">
+              <comp position="1" type="headword" sloleks="LE_97c9580e9ee8ec6d75f0f1b974a73996">soudeleženec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_325a5cddba50a22446da08f7ab272dff">prometu</comp>
+            </collocation>
+            <collocation form="soudeleženec v nesreči" cluster="4" frequency="13" logDice="5.97">
+              <comp position="1" type="headword" sloleks="LE_97c9580e9ee8ec6d75f0f1b974a73996">soudeleženec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_7e61b47f9fba793402f85c85a002bfa5">nesreči</comp>
+            </collocation>
+            <collocation form="soudeleženec v procesu" cluster="5" frequency="4" logDice="3.65">
+              <comp position="1" type="headword" sloleks="LE_97c9580e9ee8ec6d75f0f1b974a73996">soudeleženec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_16c53d1ebb90a9bc6324b676ef5003b8">procesu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="aktiven soudeleženec" cluster="1" frequency="24" logDice="3.4">
+              <comp position="1" type="collocate" sloleks="LE_3abd74abf188260b09b1ae5c6d2cd818">aktiven</comp>
+              <comp position="2" type="headword" sloleks="LE_97c9580e9ee8ec6d75f0f1b974a73996">soudeleženec</comp>
+            </collocation>
+            <collocation form="ostal soudeleženec" cluster="2" frequency="18" logDice="2.11">
+              <comp position="1" type="collocate" sloleks="LE_a35d925fc34619135ca715f633027fd4">ostal</comp>
+              <comp position="2" type="headword" sloleks="LE_97c9580e9ee8ec6d75f0f1b974a73996">soudeleženec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 do SBZ2">
+          <collocations>
+            <collocation form="spoštovanje do soudeleženca" cluster="1" frequency="4" logDice="4.53">
+              <comp position="1" type="collocate" sloleks="LE_dc3e37e555551487c7fbb7208dcbb604">spoštovanje</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_97c9580e9ee8ec6d75f0f1b974a73996">soudeleženca</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

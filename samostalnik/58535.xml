@@ -1,0 +1,35 @@
+<entry>
+  <header>
+    <lexical_unit id="58535">gres</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">481</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 v sbz4">
+          <collocations>
+            <collocation form="gres v trgovino" cluster="1" frequency="4" logDice="5.86">
+              <comp position="1" type="headword" sloleks="LE_64801bd5be34f6e7471d9bfcc98ee0fe">gres</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_e6520ed1b394dc72516ec7ff3398e16c">trgovino</comp>
+            </collocation>
+            <collocation form="gres v tujino" cluster="2" frequency="4" logDice="3.47">
+              <comp position="1" type="headword" sloleks="LE_64801bd5be34f6e7471d9bfcc98ee0fe">gres</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_a190901c862adb8e32b97ac0e742f967">tujino</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="ce gres" cluster="1" frequency="28" logDice="7.75">
+              <comp position="1" type="collocate" sloleks="">ce</comp>
+              <comp position="2" type="headword" sloleks="LE_64801bd5be34f6e7471d9bfcc98ee0fe">gres</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

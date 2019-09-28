@@ -1,0 +1,65 @@
+<entry>
+  <header>
+    <lexical_unit id="1022">drkati</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">895</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="drkati na potok" cluster="1" frequency="10" logDice="11.4">
+              <comp position="1" type="headword" sloleks="LE_5bce6d21f99e8f7020319b18e6cd8463">drkati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_caca5ff4235178a10f62624a95430c94">potok</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ po sbz5">
+          <collocations>
+            <collocation form="drkati po ledu" cluster="1" frequency="10" logDice="9.12">
+              <comp position="1" type="headword" sloleks="LE_5bce6d21f99e8f7020319b18e6cd8463">drkati</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_8e53492e8f59b4af6b599705febfe7a2">ledu</comp>
+            </collocation>
+            <collocation form="drkati po čelu" cluster="2" frequency="6" logDice="8.36">
+              <comp position="1" type="headword" sloleks="LE_5bce6d21f99e8f7020319b18e6cd8463">drkati</comp>
+              <comp position="2" type="other" sloleks="LE_e749ab7a5b937c21d321f46ea8ddde87">po</comp>
+              <comp position="3" type="collocate" sloleks="LE_147fccc2e88a7c05d0f77ea0d2836189|LE_56159db6b003731c38bcece0e0c0617b">čelu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ rbz">
+          <collocations>
+            <collocation form="drkati skupaj" cluster="1" frequency="187" logDice="4.74">
+              <comp position="1" type="headword" sloleks="LE_5bce6d21f99e8f7020319b18e6cd8463">drkati</comp>
+              <comp position="2" type="collocate" sloleks="LE_6b2c35f4f994f6854f5f57d777267a77">skupaj</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ v sbz4">
+          <collocations>
+            <collocation form="drkati v glavo" cluster="1" frequency="15" logDice="5.56">
+              <comp position="1" type="headword" sloleks="LE_5bce6d21f99e8f7020319b18e6cd8463">drkati</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_49f28ed22f8b4f55f12b45ad1b95d3b0">glavo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="doma drkati" cluster="1" frequency="4" logDice="1.26">
+              <comp position="1" type="collocate" sloleks="LE_e763d76187601d485fd9a1af70a03a8c">doma</comp>
+              <comp position="2" type="headword" sloleks="LE_5bce6d21f99e8f7020319b18e6cd8463">drkati</comp>
+            </collocation>
+            <collocation form="tukaj drkati" cluster="2" frequency="4" logDice="0.83">
+              <comp position="1" type="collocate" sloleks="LE_b7a3a0c15e0b0d0114aff3c2d358eae1">tukaj</comp>
+              <comp position="2" type="headword" sloleks="LE_5bce6d21f99e8f7020319b18e6cd8463">drkati</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

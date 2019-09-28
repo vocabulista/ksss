@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="89888">sobrat</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">669</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz SBZ3">
+          <collocations>
+            <collocation form="pomagati sobratu" cluster="1" frequency="8" logDice="2.22">
+              <comp position="1" type="collocate" sloleks="LE_2fc43d313cb40b86ed2a370a430e93c1">pomagati</comp>
+              <comp position="2" type="headword" sloleks="LE_8bf557e3242322305e54db1c33bd1324">sobratu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="redoven sobrat" cluster="1" frequency="17" logDice="8.25">
+              <comp position="1" type="collocate" sloleks="LE_404500bf0f1950a70dc3f0c485a98ef4">redoven</comp>
+              <comp position="2" type="headword" sloleks="LE_8bf557e3242322305e54db1c33bd1324">sobrat</comp>
+            </collocation>
+            <collocation form="duhoven sobrat" cluster="2" frequency="13" logDice="3.12">
+              <comp position="1" type="collocate" sloleks="LE_6dce91b9373b8b9454c801a895690835">duhoven</comp>
+              <comp position="2" type="headword" sloleks="LE_8bf557e3242322305e54db1c33bd1324">sobrat</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="srečanje s sobratom" cluster="1" frequency="5" logDice="2.08">
+              <comp position="1" type="collocate" sloleks="LE_779fa188c4acb969e9354bb72d376b6d">srečanje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_8bf557e3242322305e54db1c33bd1324">sobratom</comp>
+            </collocation>
+            <collocation form="stik s sobratom" cluster="2" frequency="5" logDice="1.08">
+              <comp position="1" type="collocate" sloleks="LE_b931e487f490576cea08c70755539ef5">stik</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_8bf557e3242322305e54db1c33bd1324">sobratom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="98523">zaslepljenost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">759</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="zaslepljenost človeka" cluster="1" frequency="15" logDice="0.94">
+              <comp position="1" type="headword" sloleks="LE_97631d86f82f7f7157323c2425198903">zaslepljenost</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človeka</comp>
+            </collocation>
+            <collocation form="posledica zaslepljenosti" cluster="2" frequency="7" logDice="0.75">
+              <comp position="1" type="collocate" sloleks="LE_9e94e198ec2c32de37b2bd7b6e54af2e">posledica</comp>
+              <comp position="2" type="headword" sloleks="LE_97631d86f82f7f7157323c2425198903">zaslepljenosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="zaslepljenost z oblastjo" cluster="1" frequency="4" logDice="5.43">
+              <comp position="1" type="headword" sloleks="LE_97631d86f82f7f7157323c2425198903">zaslepljenost</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_517516784cc4f3948ad94ba945fd370b">oblastjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="ideološka zaslepljenost" cluster="1" frequency="67" logDice="6.89">
+              <comp position="1" type="collocate" sloleks="LE_a75e43b3d3489521f7d7c7155588636e">ideološka</comp>
+              <comp position="2" type="headword" sloleks="LE_97631d86f82f7f7157323c2425198903">zaslepljenost</comp>
+            </collocation>
+            <collocation form="politična zaslepljenost" cluster="1" frequency="25" logDice="1.04">
+              <comp position="1" type="collocate" sloleks="LE_a3bb12165721c242382f7e67d68cd13a">politična</comp>
+              <comp position="2" type="headword" sloleks="LE_97631d86f82f7f7157323c2425198903">zaslepljenost</comp>
+            </collocation>
+            <collocation form="verska zaslepljenost" cluster="1" frequency="9" logDice="2.36">
+              <comp position="1" type="collocate" sloleks="LE_cff6e69b2bfa4b45a5330103b7a5351f">verska</comp>
+              <comp position="2" type="headword" sloleks="LE_97631d86f82f7f7157323c2425198903">zaslepljenost</comp>
+            </collocation>
+            <collocation form="popolna zaslepljenost" cluster="2" frequency="9" logDice="1.25">
+              <comp position="1" type="collocate" sloleks="LE_814a2c9c333ef1e9cb481395c05b7346">popolna</comp>
+              <comp position="2" type="headword" sloleks="LE_97631d86f82f7f7157323c2425198903">zaslepljenost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

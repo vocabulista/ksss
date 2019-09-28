@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="17644">fensi</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">542</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="Fensi EUR" cluster="1" frequency="132" logDice="10.65">
+              <comp position="1" type="headword" sloleks="LE_28dafeaf0687153fc3450e4a9312e0f5">Fensi</comp>
+              <comp position="2" type="collocate" sloleks="LE_df1917fc80ae10538455db73df3bef80">EUR</comp>
+            </collocation>
+            <collocation form="Fensi SIT" cluster="1" frequency="18" logDice="7.22">
+              <comp position="1" type="headword" sloleks="LE_28dafeaf0687153fc3450e4a9312e0f5">Fensi</comp>
+              <comp position="2" type="collocate" sloleks="LE_e792ff077ebaf606e5daf90209690270">SIT</comp>
+            </collocation>
+            <collocation form="fensi šmens" cluster="2" frequency="6" logDice="8.9">
+              <comp position="1" type="headword" sloleks="LE_28dafeaf0687153fc3450e4a9312e0f5">fensi</comp>
+              <comp position="2" type="collocate" sloleks="">šmens</comp>
+            </collocation>
+            <collocation form="fensi lokal" cluster="3" frequency="9" logDice="3.06">
+              <comp position="1" type="headword" sloleks="LE_28dafeaf0687153fc3450e4a9312e0f5">fensi</comp>
+              <comp position="2" type="collocate" sloleks="LE_01a5a1a8780f9f8195bad6f52f34943f">lokal</comp>
+            </collocation>
+            <collocation form="fensi restavracija" cluster="3" frequency="6" logDice="3.07">
+              <comp position="1" type="headword" sloleks="LE_28dafeaf0687153fc3450e4a9312e0f5">fensi</comp>
+              <comp position="2" type="collocate" sloleks="LE_62277ea2c9ab537082f0f227fcb253d6">restavracija</comp>
+            </collocation>
+            <collocation form="fensi videz" cluster="4" frequency="7" logDice="2.36">
+              <comp position="1" type="headword" sloleks="LE_28dafeaf0687153fc3450e4a9312e0f5">fensi</comp>
+              <comp position="2" type="collocate" sloleks="LE_f9abaea8954bb307fccf53d5ec3c0a8c">videz</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="preveč fensi" cluster="1" frequency="6" logDice="0.87">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_28dafeaf0687153fc3450e4a9312e0f5">fensi</comp>
+            </collocation>
+            <collocation form="kako fensi" cluster="2" frequency="5" logDice="0.55">
+              <comp position="1" type="collocate" sloleks="LE_c6fd8628f731e3e158dc366537c82f5f">kako</comp>
+              <comp position="2" type="headword" sloleks="LE_28dafeaf0687153fc3450e4a9312e0f5">fensi</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

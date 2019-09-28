@@ -1,0 +1,63 @@
+<entry>
+  <header>
+    <lexical_unit id="98185">zanemarjenost</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">499</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="zanemarjenost objekta" cluster="1" frequency="10" logDice="2.32">
+              <comp position="1" type="headword" sloleks="LE_f0cc25550eeffe626397324368740577">zanemarjenost</comp>
+              <comp position="2" type="collocate" sloleks="LE_bb14223520452df1f116f86800767b80">objekta</comp>
+            </collocation>
+            <collocation form="vtis zanemarjenosti" cluster="2" frequency="13" logDice="5.56">
+              <comp position="1" type="collocate" sloleks="LE_14c24b8179408cac625450b5b2925108">vtis</comp>
+              <comp position="2" type="headword" sloleks="LE_f0cc25550eeffe626397324368740577">zanemarjenosti</comp>
+            </collocation>
+            <collocation form="videz zanemarjenosti" cluster="3" frequency="10" logDice="4.17">
+              <comp position="1" type="collocate" sloleks="LE_f9abaea8954bb307fccf53d5ec3c0a8c">videz</comp>
+              <comp position="2" type="headword" sloleks="LE_f0cc25550eeffe626397324368740577">zanemarjenosti</comp>
+            </collocation>
+            <collocation form="znak zanemarjenosti" cluster="4" frequency="8" logDice="2.62">
+              <comp position="1" type="collocate" sloleks="LE_c14b604b2ebc69adbffa17600b4697c8">znak</comp>
+              <comp position="2" type="headword" sloleks="LE_f0cc25550eeffe626397324368740577">zanemarjenosti</comp>
+            </collocation>
+            <collocation form="posledica zanemarjenosti" cluster="5" frequency="7" logDice="0.75">
+              <comp position="1" type="collocate" sloleks="LE_9e94e198ec2c32de37b2bd7b6e54af2e">posledica</comp>
+              <comp position="2" type="headword" sloleks="LE_f0cc25550eeffe626397324368740577">zanemarjenosti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="opozarjati na zanemarjenost" cluster="1" frequency="4" logDice="2.0">
+              <comp position="1" type="collocate" sloleks="LE_2b0d3172ed316ac5b17087cc44769a7a">opozarjati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_f0cc25550eeffe626397324368740577">zanemarjenost</comp>
+            </collocation>
+            <collocation form="opozoriti na zanemarjenost" cluster="2" frequency="4" logDice="1.82">
+              <comp position="1" type="collocate" sloleks="LE_9d89109b8231c20ace2c0b60a9753af4">opozoriti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_f0cc25550eeffe626397324368740577">zanemarjenost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="gibalna zanemarjenost" cluster="1" frequency="8" logDice="4.9">
+              <comp position="1" type="collocate" sloleks="LE_1056fbf0ae461380994c9e2e3151d857">gibalna</comp>
+              <comp position="2" type="headword" sloleks="LE_f0cc25550eeffe626397324368740577">zanemarjenost</comp>
+            </collocation>
+            <collocation form="vzgojna zanemarjenost" cluster="2" frequency="17" logDice="4.64">
+              <comp position="1" type="collocate" sloleks="LE_bd89f5dd30afde8c22f4bd1c5d16997b|LE_27698454a8b6e9f0228425fbf6a10479">vzgojna</comp>
+              <comp position="2" type="headword" sloleks="LE_f0cc25550eeffe626397324368740577">zanemarjenost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

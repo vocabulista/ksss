@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="42744">nepoklicno</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">726</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="županovati nepoklicno" cluster="1" frequency="22" logDice="10.49">
+              <comp position="1" type="collocate" sloleks="LE_e9bc355a31da163982b40cc5cb66c5de">županovati</comp>
+              <comp position="2" type="headword" sloleks="LE_a503c96e5e9a7da047133607de7a5dd7">nepoklicno</comp>
+            </collocation>
+            <collocation form="opravljati nepoklicno" cluster="2" frequency="346" logDice="9.24">
+              <comp position="1" type="collocate" sloleks="LE_4c9df2ccb77d29125a9d948d24e46e27">opravljati</comp>
+              <comp position="2" type="headword" sloleks="LE_a503c96e5e9a7da047133607de7a5dd7">nepoklicno</comp>
+            </collocation>
+            <collocation form="voditi nepoklicno" cluster="3" frequency="5" logDice="3.13">
+              <comp position="1" type="collocate" sloleks="LE_b044981ae81c995865d0ad4c2cd7b62b">voditi</comp>
+              <comp position="2" type="headword" sloleks="LE_a503c96e5e9a7da047133607de7a5dd7">nepoklicno</comp>
+            </collocation>
+            <collocation form="delovati nepoklicno" cluster="4" frequency="14" logDice="2.69">
+              <comp position="1" type="collocate" sloleks="LE_d0f4c0b2fd032468cea5b16c4a58e364">delovati</comp>
+              <comp position="2" type="headword" sloleks="LE_a503c96e5e9a7da047133607de7a5dd7">nepoklicno</comp>
+            </collocation>
+            <collocation form="delati nepoklicno" cluster="5" frequency="8" logDice="2.01">
+              <comp position="1" type="collocate" sloleks="LE_240594860749d18971944f6690505af1">delati</comp>
+              <comp position="2" type="headword" sloleks="LE_a503c96e5e9a7da047133607de7a5dd7">nepoklicno</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ in/ali rbz">
+          <collocations>
+            <collocation form="nepoklicno in/ali poklicno" cluster="1" frequency="43" logDice="11.73">
+              <comp position="3" type="headword" sloleks="LE_a503c96e5e9a7da047133607de7a5dd7">nepoklicno</comp>
+            <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_683563833c03f66102569e218da9b9d5">poklicno</comp>
+              </collocation>
+            <collocation form="nepoklicno in/ali prostovoljno" cluster="2" frequency="5" logDice="7.89">
+              <comp position="3" type="headword" sloleks="LE_a503c96e5e9a7da047133607de7a5dd7">nepoklicno</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_7f5146540e844c823462206abe9a7b1f">prostovoljno</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

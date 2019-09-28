@@ -1,0 +1,29 @@
+<entry>
+  <header>
+    <lexical_unit id="8895">umisliti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">451</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ sbz4">
+          <collocations>
+            <collocation form="umisliti obliko" cluster="1" frequency="4" logDice="2.22">
+              <comp position="1" type="headword" sloleks="LE_bc9469df0230def8e0da47274160b5f8">umisliti</comp>
+              <comp position="2" type="collocate" sloleks="LE_87a399113f9046080b4deeaadafa61c4">obliko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="raje umisliti" cluster="1" frequency="4" logDice="0.31">
+              <comp position="1" type="collocate" sloleks="LE_ffbac6bb621f782b67fe85e3adf7bf8e">raje</comp>
+              <comp position="2" type="headword" sloleks="LE_bc9469df0230def8e0da47274160b5f8">umisliti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,58 @@
+<entry>
+  <header>
+    <lexical_unit id="96722">vojvodstvo</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">627</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="veliko vojvodstvo" cluster="1" frequency="186" logDice="1.39">
+              <comp position="1" type="collocate" sloleks="LE_6ca59c38ee7f7e489a6c13cd1c322726">veliko</comp>
+              <comp position="2" type="headword" sloleks="LE_e2dada3324df8fdcb18505b0db8cf489">vojvodstvo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="podeželje vojvodstva" cluster="1" frequency="5" logDice="6.86">
+              <comp position="1" type="collocate" sloleks="LE_e2c3471e4ae4b6916a391d49b93d87f4">podeželje</comp>
+              <comp position="2" type="headword" sloleks="LE_e2dada3324df8fdcb18505b0db8cf489">vojvodstva</comp>
+            </collocation>
+            <collocation form="vlada vojvodstva" cluster="2" frequency="35" logDice="4.04">
+              <comp position="1" type="collocate" sloleks="LE_63d183132c68728be91773043828fb2d">vlada</comp>
+              <comp position="2" type="headword" sloleks="LE_e2dada3324df8fdcb18505b0db8cf489">vojvodstva</comp>
+            </collocation>
+            <collocation form="minister vojvodstva" cluster="3" frequency="7" logDice="2.52">
+              <comp position="1" type="collocate" sloleks="LE_14d03bd4c4af80feb9e303c813fc6d24">minister</comp>
+              <comp position="2" type="headword" sloleks="LE_e2dada3324df8fdcb18505b0db8cf489">vojvodstva</comp>
+            </collocation>
+            <collocation form="premier vojvodstva" cluster="3" frequency="6" logDice="3.13">
+              <comp position="1" type="collocate" sloleks="LE_3936629bc9a872bf265c1649654e060c">premier</comp>
+              <comp position="2" type="headword" sloleks="LE_e2dada3324df8fdcb18505b0db8cf489">vojvodstva</comp>
+            </collocation>
+            <collocation form="območje vojvodstva" cluster="4" frequency="14" logDice="1.56">
+              <comp position="1" type="collocate" sloleks="LE_637bb12e70b217aeada98e77f3559b30">območje</comp>
+              <comp position="2" type="headword" sloleks="LE_e2dada3324df8fdcb18505b0db8cf489">vojvodstva</comp>
+            </collocation>
+            <collocation form="mesto vojvodstva" cluster="4" frequency="6" logDice="0.72">
+              <comp position="1" type="collocate" sloleks="LE_e82ae4f4431a0716fcf5b2eac466f245">mesto</comp>
+              <comp position="2" type="headword" sloleks="LE_e2dada3324df8fdcb18505b0db8cf489">vojvodstva</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="zemljišče v vojvodstvu" cluster="1" frequency="24" logDice="6.47">
+              <comp position="1" type="collocate" sloleks="LE_1cfb3ff88e57bbeea24a81c9c41ac50b">zemljišče</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="LE_e2dada3324df8fdcb18505b0db8cf489">vojvodstvu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

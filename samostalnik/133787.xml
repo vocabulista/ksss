@@ -1,0 +1,40 @@
+<entry>
+  <header>
+    <lexical_unit id="133787">amerikanec</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="amerikanec v Parizu" cluster="1" frequency="71" logDice="7.09">
+              <comp position="1" type="headword" sloleks="">amerikanec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_341ae6e9799558fccc51caac650d4205">Parizu</comp>
+            </collocation>
+            <collocation form="amerikanec v Evropi" cluster="2" frequency="5" logDice="1.42">
+              <comp position="1" type="headword" sloleks="">amerikanec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_0c70d71bb49cb550bb4e854282407723">Evropi</comp>
+            </collocation>
+            <collocation form="Amerikanec v Ljubljani" cluster="3" frequency="5" logDice="-0.1">
+              <comp position="1" type="headword" sloleks="">Amerikanec</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_ee11c4f6f901052d38c8252202477c9e">Ljubljani</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="delati za amerikanec" cluster="1" frequency="4" logDice="3.3">
+              <comp position="1" type="collocate" sloleks="LE_240594860749d18971944f6690505af1">delati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="">amerikanec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

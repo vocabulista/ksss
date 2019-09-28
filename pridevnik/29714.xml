@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="29714">postindustrijski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">683</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="postindustrijski kapitalizem" cluster="1" frequency="13" logDice="5.6">
+              <comp position="1" type="headword" sloleks="LE_98b919cd23ed1980193b64a93874e415">postindustrijski</comp>
+              <comp position="2" type="collocate" sloleks="LE_7396e9466a78c5944b049bcbdfe6deaa">kapitalizem</comp>
+            </collocation>
+            <collocation form="postindustrijska družba" cluster="2" frequency="310" logDice="4.63">
+              <comp position="1" type="headword" sloleks="LE_98b919cd23ed1980193b64a93874e415">postindustrijska</comp>
+              <comp position="2" type="collocate" sloleks="LE_4d78f38b1eeb8492cae54547d0252bf9">družba</comp>
+            </collocation>
+            <collocation form="postindustrijska doba" cluster="3" frequency="43" logDice="3.56">
+              <comp position="1" type="headword" sloleks="LE_98b919cd23ed1980193b64a93874e415">postindustrijska</comp>
+              <comp position="2" type="collocate" sloleks="LE_de90dd1327fca7d794058c6493fad6f6">doba</comp>
+            </collocation>
+            <collocation form="postindustrijska faza" cluster="3" frequency="8" logDice="2.69">
+              <comp position="1" type="headword" sloleks="LE_98b919cd23ed1980193b64a93874e415">postindustrijska</comp>
+              <comp position="2" type="collocate" sloleks="LE_befead33133a2e7eaac9ec2cb8b62b87">faza</comp>
+            </collocation>
+            <collocation form="postindustrijska revolucija" cluster="4" frequency="9" logDice="3.37">
+              <comp position="1" type="headword" sloleks="LE_98b919cd23ed1980193b64a93874e415">postindustrijska</comp>
+              <comp position="2" type="collocate" sloleks="LE_e10d83d3954e062ebd7ce428679aca2c">revolucija</comp>
+            </collocation>
+            <collocation form="postindustrijsko obdobje" cluster="5" frequency="21" logDice="1.83">
+              <comp position="1" type="headword" sloleks="LE_98b919cd23ed1980193b64a93874e415">postindustrijsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_498f5ebac18d9460a9f193249cd7f0bc">obdobje</comp>
+            </collocation>
+            <collocation form="postindustrijsko območje" cluster="6" frequency="11" logDice="1.1">
+              <comp position="1" type="headword" sloleks="LE_98b919cd23ed1980193b64a93874e415">postindustrijsko</comp>
+              <comp position="2" type="collocate" sloleks="LE_637bb12e70b217aeada98e77f3559b30">območje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="postindustrijski in/ali postmoderen" cluster="1" frequency="10" logDice="11.23">
+              <comp position="3" type="headword" sloleks="LE_98b919cd23ed1980193b64a93874e415">postindustrijski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_45ac4a0facba7d172d4b5415953e27b0">postmoderen</comp>
+              </collocation>
+            <collocation form="postindustrijski in/ali industrijski" cluster="2" frequency="20" logDice="7.4">
+              <comp position="3" type="headword" sloleks="LE_98b919cd23ed1980193b64a93874e415">postindustrijski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_7ce3bc30099a08c105b842b5419bdc62">industrijski</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

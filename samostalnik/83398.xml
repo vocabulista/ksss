@@ -1,0 +1,54 @@
+<entry>
+  <header>
+    <lexical_unit id="83398">prinašalka</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">403</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="prinašalka Pin" cluster="1" frequency="9" logDice="8.83">
+              <comp position="1" type="headword" sloleks="LE_2017e3caca76f4f61cb788302c3a4b66">prinašalka</comp>
+              <comp position="2" type="collocate" sloleks="">Pin</comp>
+            </collocation>
+            <collocation form="prinašalka sreče" cluster="2" frequency="32" logDice="5.5">
+              <comp position="1" type="headword" sloleks="LE_2017e3caca76f4f61cb788302c3a4b66">prinašalka</comp>
+              <comp position="2" type="collocate" sloleks="LE_72c29a7f3aee04e976bc695177cdaf03">sreče</comp>
+            </collocation>
+            <collocation form="prinašalka smrti" cluster="3" frequency="12" logDice="3.47">
+              <comp position="1" type="headword" sloleks="LE_2017e3caca76f4f61cb788302c3a4b66">prinašalka</comp>
+              <comp position="2" type="collocate" sloleks="LE_7ccde25b582fa3323faaf4d1541c4793">smrti</comp>
+            </collocation>
+            <collocation form="prinašalka nesreče" cluster="3" frequency="10" logDice="2.83">
+              <comp position="1" type="headword" sloleks="LE_2017e3caca76f4f61cb788302c3a4b66">prinašalka</comp>
+              <comp position="2" type="collocate" sloleks="LE_7e61b47f9fba793402f85c85a002bfa5">nesreče</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="veljati za prinašalko" cluster="1" frequency="4" logDice="0.57">
+              <comp position="1" type="collocate" sloleks="LE_d1ea0d9dd4771e211c9eddc0d342acc2">veljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_2017e3caca76f4f61cb788302c3a4b66">prinašalko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="gladkodlak prinašalka" cluster="1" frequency="10" logDice="10.05">
+              <comp position="1" type="collocate" sloleks="">gladkodlak</comp>
+              <comp position="2" type="headword" sloleks="LE_2017e3caca76f4f61cb788302c3a4b66">prinašalka</comp>
+            </collocation>
+            <collocation form="zlata prinašalka" cluster="2" frequency="180" logDice="5.24">
+              <comp position="1" type="collocate" sloleks="LE_841fe594eda42d033f6b9f2e7dc246e9">zlata</comp>
+              <comp position="2" type="headword" sloleks="LE_2017e3caca76f4f61cb788302c3a4b66">prinašalka</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

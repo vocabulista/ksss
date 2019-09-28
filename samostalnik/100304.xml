@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="100304">žuriranje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">449</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="žuriranje s prijateljem" cluster="1" frequency="4" logDice="3.64">
+              <comp position="1" type="headword" sloleks="LE_5d44848dc3630e2bfd4cdbc6f6f7429a">žuriranje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_04d85f43e6fdbc81d853e26c5158132f">prijateljem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nočno žuriranje" cluster="1" frequency="11" logDice="2.0">
+              <comp position="1" type="collocate" sloleks="LE_a606db4e3d360a1c1698fe851c4a1ce8">nočno</comp>
+              <comp position="2" type="headword" sloleks="LE_5d44848dc3630e2bfd4cdbc6f6f7429a">žuriranje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="čas za žuriranje" cluster="1" frequency="4" logDice="0.69">
+              <comp position="1" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">čas</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_5d44848dc3630e2bfd4cdbc6f6f7429a">žuriranje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

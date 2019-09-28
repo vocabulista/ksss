@@ -1,0 +1,51 @@
+<entry>
+  <header>
+    <lexical_unit id="3932">odzdraviti</lexical_unit>
+    <category>glagol</category>
+    <measure type="frequency" source="Gigafida 1.0">523</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="GBZ na sbz4">
+          <collocations>
+            <collocation form="odzdraviti na pozdrav" cluster="1" frequency="4" logDice="10.19">
+              <comp position="1" type="headword" sloleks="LE_c72980ef0335849604d5087ed4cb461a">odzdraviti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_9e6be5736bc177ec7f45dbda79d2dd51">pozdrav</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="GBZ z sbz6">
+          <collocations>
+            <collocation form="odzdraviti z nasmehom" cluster="1" frequency="5" logDice="4.93">
+              <comp position="1" type="headword" sloleks="LE_c72980ef0335849604d5087ed4cb461a">odzdraviti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_e4a7f9d21e8b4e4417828e12ed26d24b">nasmehom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz GBZ">
+          <collocations>
+            <collocation form="enoglasno odzdraviti" cluster="1" frequency="5" logDice="7.53">
+              <comp position="1" type="collocate" sloleks="LE_0af1ae335bfc0a73afecd2c0fb0b71aa">enoglasno</comp>
+              <comp position="2" type="headword" sloleks="LE_c72980ef0335849604d5087ed4cb461a">odzdraviti</comp>
+            </collocation>
+            <collocation form="prijazno odzdraviti" cluster="2" frequency="28" logDice="6.24">
+              <comp position="1" type="collocate" sloleks="LE_a14b32030022975e7db1523b18c6a111">prijazno</comp>
+              <comp position="2" type="headword" sloleks="LE_c72980ef0335849604d5087ed4cb461a">odzdraviti</comp>
+            </collocation>
+            <collocation form="vljudno odzdraviti" cluster="3" frequency="4" logDice="4.47">
+              <comp position="1" type="collocate" sloleks="LE_629a08f6725bba75a0ea1480ff7fbbb5">vljudno</comp>
+              <comp position="2" type="headword" sloleks="LE_c72980ef0335849604d5087ed4cb461a">odzdraviti</comp>
+            </collocation>
+            <collocation form="tiho odzdraviti" cluster="4" frequency="4" logDice="3.35">
+              <comp position="1" type="collocate" sloleks="LE_6caaa1caafbcefef7dcc792f954c5913">tiho</comp>
+              <comp position="2" type="headword" sloleks="LE_c72980ef0335849604d5087ed4cb461a">odzdraviti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

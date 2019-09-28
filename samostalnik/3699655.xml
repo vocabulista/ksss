@@ -1,0 +1,72 @@
+<entry>
+  <header>
+    <lexical_unit id="3699655">snowboard</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="snowboard zveze" cluster="1" frequency="29" logDice="2.98">
+              <comp position="1" type="headword" sloleks="">snowboard</comp>
+              <comp position="2" type="collocate" sloleks="LE_f685db62cc2d867e40d31988d86fbd1e">zveze</comp>
+            </collocation>
+            <collocation form="Snowboard kluba" cluster="2" frequency="15" logDice="1.95">
+              <comp position="1" type="headword" sloleks="">Snowboard</comp>
+              <comp position="2" type="collocate" sloleks="LE_205ce919e68ed95a2dc64567475887d3">kluba</comp>
+            </collocation>
+            <collocation form="proizvodnja snowboard" cluster="3" frequency="14" logDice="3.12">
+              <comp position="1" type="collocate" sloleks="LE_4a1754c19d9e05c064189e8d6ddbd00a">proizvodnja</comp>
+              <comp position="2" type="headword" sloleks="">snowboard</comp>
+            </collocation>
+            <collocation form="šola snowboard" cluster="4" frequency="8" logDice="2.58">
+              <comp position="1" type="collocate" sloleks="LE_9c664dac39a3cc920d3849a80fadafa1">šola</comp>
+              <comp position="2" type="headword" sloleks="">snowboard</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="mednaroden snowboard" cluster="1" frequency="33" logDice="1.41">
+              <comp position="1" type="collocate" sloleks="LE_244e755ded383472bc5a93f5f6468d8e">mednaroden</comp>
+              <comp position="2" type="headword" sloleks="">snowboard</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ5">
+          <collocations>
+            <collocation form="tekmovalec na snowboard" cluster="1" frequency="4" logDice="6.36">
+              <comp position="1" type="collocate" sloleks="LE_b2b06fc3d1d3cb0873e8073a53a67920">tekmovalec</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="">snowboard</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="pokal v snowboard" cluster="1" frequency="8" logDice="3.19">
+              <comp position="1" type="collocate" sloleks="LE_d17e6624973c79af10602120ecbf8483">pokal</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="">snowboard</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="vez za snowboard" cluster="1" frequency="4" logDice="9.77">
+              <comp position="1" type="collocate" sloleks="LE_c16c97be58f47ce556654a419005ecca">vez</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="">snowboard</comp>
+            </collocation>
+            <collocation form="snowboard za slog" cluster="2" frequency="4" logDice="7.4">
+              <comp position="1" type="headword" sloleks="">snowboard</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_65244e80aea10cbd65a5e9b0824c3fdb">slog</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

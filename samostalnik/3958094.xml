@@ -1,0 +1,30 @@
+<entry>
+  <header>
+    <lexical_unit id="3958094">supersport</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="supersport za prvenstvo" cluster="1" frequency="7" logDice="3.65">
+              <comp position="1" type="headword" sloleks="">supersport</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_07d96d2136b663f6d4a76672a59e7035">prvenstvo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 v SBZ5">
+          <collocations>
+            <collocation form="prvak v supersport" cluster="1" frequency="5" logDice="2.75">
+              <comp position="1" type="collocate" sloleks="LE_01b9cba07c706b5c4db57839c927b3d4">prvak</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="headword" sloleks="">supersport</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

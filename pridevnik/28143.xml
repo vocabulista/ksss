@@ -1,0 +1,78 @@
+<entry>
+  <header>
+    <lexical_unit id="28143">pedanten</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">772</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="pedanten statistik" cluster="1" frequency="7" logDice="7.37">
+              <comp position="1" type="headword" sloleks="LE_72de4ebbae55369812bc65fe0bf3ddff">pedanten</comp>
+              <comp position="2" type="collocate" sloleks="LE_85c880a198da4f59a199af3666f52b95">statistik</comp>
+            </collocation>
+            <collocation form="pedanten Nemec" cluster="2" frequency="38" logDice="6.96">
+              <comp position="1" type="headword" sloleks="LE_72de4ebbae55369812bc65fe0bf3ddff">pedanten</comp>
+              <comp position="2" type="collocate" sloleks="LE_e53113c5e01a1477e4fa6ed35dcd2d3f|LE_822adac046daffef5bff9b1c21aff2ea">Nemec</comp>
+            </collocation>
+            <collocation form="pedanten Anglež" cluster="2" frequency="8" logDice="6.44">
+              <comp position="1" type="headword" sloleks="LE_72de4ebbae55369812bc65fe0bf3ddff">pedanten</comp>
+              <comp position="2" type="collocate" sloleks="LE_8b8bf5cabab14ebf3ec4f96b776e577a">Anglež</comp>
+            </collocation>
+            <collocation form="pedantna gospodinja" cluster="3" frequency="6" logDice="4.2">
+              <comp position="1" type="headword" sloleks="LE_72de4ebbae55369812bc65fe0bf3ddff">pedantna</comp>
+              <comp position="2" type="collocate" sloleks="LE_2de0a340b6dd14f5dae3785f747303dc">gospodinja</comp>
+            </collocation>
+            <collocation form="pedantno branje" cluster="4" frequency="7" logDice="3.6">
+              <comp position="1" type="headword" sloleks="LE_72de4ebbae55369812bc65fe0bf3ddff">pedantno</comp>
+              <comp position="2" type="collocate" sloleks="LE_13dc2d254c12c276765c80cba5a73645">branje</comp>
+            </collocation>
+            <collocation form="pedanten uradnik" cluster="5" frequency="7" logDice="3.39">
+              <comp position="1" type="headword" sloleks="LE_72de4ebbae55369812bc65fe0bf3ddff">pedanten</comp>
+              <comp position="2" type="collocate" sloleks="LE_4d9b0b709451575234db2d5fc61051cb">uradnik</comp>
+            </collocation>
+            <collocation form="pedanten učitelj" cluster="5" frequency="6" logDice="2.92">
+              <comp position="1" type="headword" sloleks="LE_72de4ebbae55369812bc65fe0bf3ddff">pedanten</comp>
+              <comp position="2" type="collocate" sloleks="LE_d7cfd64798b7595cf54a29769b562ff2">učitelj</comp>
+            </collocation>
+            <collocation form="pedantna analiza" cluster="6" frequency="6" logDice="2.03">
+              <comp position="1" type="headword" sloleks="LE_72de4ebbae55369812bc65fe0bf3ddff">pedantna</comp>
+              <comp position="2" type="collocate" sloleks="LE_8b551380d4ddc81c02e1998906ac17e3">analiza</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="pedanten in/ali natančen" cluster="1" frequency="8" logDice="5.32">
+              <comp position="3" type="headword" sloleks="LE_72de4ebbae55369812bc65fe0bf3ddff">pedanten</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_229d70f4dcbb0db8dfccf3b59dec8e3b">natančen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="pretirano pedanten" cluster="1" frequency="6" logDice="3.87">
+              <comp position="1" type="collocate" sloleks="LE_8de0ab7a7ed22d3cca1b5eb9a04db1af">pretirano</comp>
+              <comp position="2" type="headword" sloleks="LE_72de4ebbae55369812bc65fe0bf3ddff">pedanten</comp>
+            </collocation>
+            <collocation form="preveč pedanten" cluster="2" frequency="10" logDice="1.6">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_72de4ebbae55369812bc65fe0bf3ddff">pedanten</comp>
+            </collocation>
+            <collocation form="manj pedanten" cluster="2" frequency="9" logDice="0.55">
+              <comp position="1" type="collocate" sloleks="LE_ecab8216e0225b7e80d79b53bd9b8959">manj</comp>
+              <comp position="2" type="headword" sloleks="LE_72de4ebbae55369812bc65fe0bf3ddff">pedanten</comp>
+            </collocation>
+            <collocation form="izjemno pedanten" cluster="3" frequency="6" logDice="0.99">
+              <comp position="1" type="collocate" sloleks="LE_4685177735c785314580ae2542479197">izjemno</comp>
+              <comp position="2" type="headword" sloleks="LE_72de4ebbae55369812bc65fe0bf3ddff">pedanten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,37 @@
+<entry>
+  <header>
+    <lexical_unit id="42932">nesimetrično</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">411</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ gbz">
+          <collocations>
+            <collocation form="nesimetrično razporediti" cluster="1" frequency="238" logDice="11.06">
+              <comp position="1" type="headword" sloleks="LE_92cc50a568a9dd6e3a06bc6acf2df0f6">nesimetrično</comp>
+              <comp position="2" type="collocate" sloleks="LE_28e6a4e3a00c11fe2be19cd3f26fe569">razporediti</comp>
+            </collocation>
+            <collocation form="nesimetrično razvrstiti" cluster="2" frequency="13" logDice="7.94">
+              <comp position="1" type="headword" sloleks="LE_92cc50a568a9dd6e3a06bc6acf2df0f6">nesimetrično</comp>
+              <comp position="2" type="collocate" sloleks="LE_dab93e684aac4742061c484e4b19c150">razvrstiti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz RBZ">
+          <collocations>
+            <collocation form="razporediti nesimetrično" cluster="1" frequency="36" logDice="10.11">
+              <comp position="1" type="collocate" sloleks="LE_28e6a4e3a00c11fe2be19cd3f26fe569">razporediti</comp>
+              <comp position="2" type="headword" sloleks="LE_92cc50a568a9dd6e3a06bc6acf2df0f6">nesimetrično</comp>
+            </collocation>
+            <collocation form="morati nesimetrično" cluster="2" frequency="35" logDice="2.54">
+              <comp position="1" type="collocate" sloleks="LE_5a69e334926729c2b878f5735b5ec456">morati</comp>
+              <comp position="2" type="headword" sloleks="LE_92cc50a568a9dd6e3a06bc6acf2df0f6">nesimetrično</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="67266">limita</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">505</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="zgornja limita" cluster="1" frequency="11" logDice="1.93">
+              <comp position="1" type="collocate" sloleks="LE_2c1f378a0eedbda143aa3cbd9699a927">zgornja</comp>
+              <comp position="2" type="headword" sloleks="LE_3bb0c72f1eb0f24b9e2656beff80a541">limita</comp>
+            </collocation>
+            <collocation form="dnevna limita" cluster="2" frequency="11" logDice="1.41">
+              <comp position="1" type="collocate" sloleks="LE_4c479b34ed9f1760973f9ba538231314">dnevna</comp>
+              <comp position="2" type="headword" sloleks="LE_3bb0c72f1eb0f24b9e2656beff80a541">limita</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="al limite" cluster="1" frequency="18" logDice="8.57">
+              <comp position="1" type="collocate" sloleks="">al</comp>
+              <comp position="2" type="headword" sloleks="LE_3bb0c72f1eb0f24b9e2656beff80a541">limite</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

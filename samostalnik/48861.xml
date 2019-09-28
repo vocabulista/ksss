@@ -1,0 +1,44 @@
+<entry>
+  <header>
+    <lexical_unit id="48861">beganje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">409</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 od sbz2">
+          <collocations>
+            <collocation form="beganje od doma" cluster="1" frequency="7" logDice="6.36">
+              <comp position="1" type="headword" sloleks="LE_112f834e870960bbcf225fb3f6a9652e">beganje</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="collocate" sloleks="LE_b34ca8040c65fe84f90c442a2af1cb0a">doma</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="beganje z očmi" cluster="1" frequency="6" logDice="5.44">
+              <comp position="1" type="headword" sloleks="LE_112f834e870960bbcf225fb3f6a9652e">beganje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_6e683e53145b35a6cbb44ad1188b7a9f|LE_f7836a137770b18301878166ca9f053f">očmi</comp>
+            </collocation>
+            <collocation form="beganje s pogledom" cluster="2" frequency="4" logDice="4.68">
+              <comp position="1" type="headword" sloleks="LE_112f834e870960bbcf225fb3f6a9652e">beganje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_456820bc1f399479d902f190585f0938">pogledom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="nenehno beganje" cluster="1" frequency="13" logDice="3.97">
+              <comp position="1" type="collocate" sloleks="LE_5e067753eeef252241ef0e826d166bdb">nenehno</comp>
+              <comp position="2" type="headword" sloleks="LE_112f834e870960bbcf225fb3f6a9652e">beganje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

@@ -1,0 +1,39 @@
+<entry>
+  <header>
+    <lexical_unit id="52232">cukrček</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">851</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 do sbz2">
+          <collocations>
+            <collocation form="cukrček do sreče" cluster="1" frequency="162" logDice="11.7">
+              <comp position="1" type="headword" sloleks="LE_feb0b9d5031bed81f30ee0f7bc5f9d04">cukrček</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="collocate" sloleks="LE_72c29a7f3aee04e976bc695177cdaf03">sreče</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="pravi cukrček" cluster="1" frequency="58" logDice="1.78">
+              <comp position="1" type="collocate" sloleks="LE_b6d87b136784072fa5bb21831fa825be">pravi</comp>
+              <comp position="2" type="headword" sloleks="LE_feb0b9d5031bed81f30ee0f7bc5f9d04">cukrček</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 z SBZ6">
+          <collocations>
+            <collocation form="telenovela s cukrčkom" cluster="1" frequency="12" logDice="11.31">
+              <comp position="1" type="collocate" sloleks="LE_66e886e0db50ad1f309befaec1516b07">telenovela</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_feb0b9d5031bed81f30ee0f7bc5f9d04">cukrčkom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

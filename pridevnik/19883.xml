@@ -1,0 +1,67 @@
+<entry>
+  <header>
+    <lexical_unit id="19883">izmenski</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">565</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="izmenski delovodja" cluster="1" frequency="8" logDice="7.98">
+              <comp position="1" type="headword" sloleks="LE_dd25ebf2b3b93597f338cae8bde28ed6">izmenski</comp>
+              <comp position="2" type="collocate" sloleks="LE_d6463a033a1f79d2d00f7c115bf69997">delovodja</comp>
+            </collocation>
+            <collocation form="izmenski pouk" cluster="2" frequency="72" logDice="6.99">
+              <comp position="1" type="headword" sloleks="LE_dd25ebf2b3b93597f338cae8bde28ed6">izmenski</comp>
+              <comp position="2" type="collocate" sloleks="LE_dde1178c0f1874d5d84f51e66bdb04ee">pouk</comp>
+            </collocation>
+            <collocation form="izmensko delo" cluster="3" frequency="346" logDice="4.08">
+              <comp position="1" type="headword" sloleks="LE_dd25ebf2b3b93597f338cae8bde28ed6">izmensko</comp>
+              <comp position="2" type="collocate" sloleks="LE_85de4306ddfa81d669f3102f027c8666">delo</comp>
+            </collocation>
+            <collocation form="izmenski oddelek" cluster="4" frequency="16" logDice="2.99">
+              <comp position="1" type="headword" sloleks="LE_dd25ebf2b3b93597f338cae8bde28ed6">izmenski</comp>
+              <comp position="2" type="collocate" sloleks="LE_f73286dd6f89a4307b05a1a8ffe3e326">oddelek</comp>
+            </collocation>
+            <collocation form="izmensko varstvo" cluster="5" frequency="10" logDice="2.3">
+              <comp position="1" type="headword" sloleks="LE_dd25ebf2b3b93597f338cae8bde28ed6">izmensko</comp>
+              <comp position="2" type="collocate" sloleks="LE_a4772470cb0cf8ed30edb1806bba60c6">varstvo</comp>
+            </collocation>
+            <collocation form="izmenski delavec" cluster="6" frequency="10" logDice="1.19">
+              <comp position="1" type="headword" sloleks="LE_dd25ebf2b3b93597f338cae8bde28ed6">izmenski</comp>
+              <comp position="2" type="collocate" sloleks="LE_85630a93aeb01535235f6c83e3750975">delavec</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="izmenski in/ali nočen" cluster="1" frequency="13" logDice="7.93">
+              <comp position="3" type="headword" sloleks="LE_dd25ebf2b3b93597f338cae8bde28ed6">izmenski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_a606db4e3d360a1c1698fe851c4a1ce8">nočen</comp>
+              </collocation>
+            <collocation form="izmenski in/ali popoldanski" cluster="2" frequency="9" logDice="7.48">
+              <comp position="3" type="headword" sloleks="LE_dd25ebf2b3b93597f338cae8bde28ed6">izmenski</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_fdb33b40ecdecf3eb21157bec3ac020a">popoldanski</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="tedensko izmenski" cluster="1" frequency="10" logDice="9.09">
+              <comp position="1" type="collocate" sloleks="LE_dcc876e62a5f4ddf6f1e5d12425b6150">tedensko</comp>
+              <comp position="2" type="headword" sloleks="LE_dd25ebf2b3b93597f338cae8bde28ed6">izmenski</comp>
+            </collocation>
+            <collocation form="več izmenski" cluster="2" frequency="49" logDice="3.32">
+              <comp position="1" type="collocate" sloleks="LE_35a40117ea9b0ca39c7a43d940592d29">več</comp>
+              <comp position="2" type="headword" sloleks="LE_dd25ebf2b3b93597f338cae8bde28ed6">izmenski</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

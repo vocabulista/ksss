@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="46780">agronom</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">877</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="diplomiran agronom" cluster="1" frequency="57" logDice="7.09">
+              <comp position="1" type="collocate" sloleks="LE_287ff60a9555550708087b0d742b2bac">diplomiran</comp>
+              <comp position="2" type="headword" sloleks="LE_47019985301ae0de43c2e972b0e7ba84">agronom</comp>
+            </collocation>
+            <collocation form="upokojen agronom" cluster="2" frequency="12" logDice="4.58">
+              <comp position="1" type="collocate" sloleks="LE_7e0b3d69dc109069df38035a09b37567">upokojen</comp>
+              <comp position="2" type="headword" sloleks="LE_47019985301ae0de43c2e972b0e7ba84">agronom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="nasvet agronoma" cluster="1" frequency="14" logDice="5.57">
+              <comp position="1" type="collocate" sloleks="LE_b80e60157d94b2ea05763e6d4ed36373">nasvet</comp>
+              <comp position="2" type="headword" sloleks="LE_47019985301ae0de43c2e972b0e7ba84">agronoma</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

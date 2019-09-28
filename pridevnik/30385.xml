@@ -1,0 +1,38 @@
+<entry>
+  <header>
+    <lexical_unit id="30385">prelen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">430</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="prelen ali preneumen" cluster="1" frequency="6" logDice="11.86">
+              <comp position="1" type="headword" sloleks="LE_8c2a9bdf6aceceb5f312afab69d790a9">prelen</comp>
+              <comp position="2" type="other" sloleks="LE_0cd0ac80265693d5b57d33237a7c1c8c">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_17221ea736224ed905750c17d84b53ed">preneumen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="enostavno prelen" cluster="1" frequency="11" logDice="6.15">
+              <comp position="1" type="collocate" sloleks="LE_1742969fa982d14b68f426dd1a897788">enostavno</comp>
+              <comp position="2" type="headword" sloleks="LE_8c2a9bdf6aceceb5f312afab69d790a9">prelen</comp>
+            </collocation>
+            <collocation form="preprosto prelen" cluster="2" frequency="11" logDice="4.8">
+              <comp position="1" type="collocate" sloleks="LE_9aa4c8fe2067ba27e01dd34632bb062a">preprosto</comp>
+              <comp position="2" type="headword" sloleks="LE_8c2a9bdf6aceceb5f312afab69d790a9">prelen</comp>
+            </collocation>
+            <collocation form="velikokrat prelen" cluster="3" frequency="6" logDice="4.77">
+              <comp position="1" type="collocate" sloleks="LE_7bf814fa772d3aa43d142821fe5c5b7d">velikokrat</comp>
+              <comp position="2" type="headword" sloleks="LE_8c2a9bdf6aceceb5f312afab69d790a9">prelen</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

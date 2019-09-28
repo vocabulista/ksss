@@ -1,0 +1,590 @@
+<entry>
+  <header>
+    <lexical_unit id="34769">sprt</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">6547</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="sprt in razdvojen" cluster="1" frequency="11" logDice="10.23">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_6a50787b44f130a5f5c3f0757a52c0fa">razdvojen</comp>
+            </collocation>
+            <collocation form="sprt in razdeljen" cluster="2" frequency="21" logDice="10.1">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_3be657dabb9cb4bb478ddee76ee369b1">razdeljen</comp>
+            </collocation>
+            <collocation form="sprt in/ali razcepljen" cluster="3" frequency="8" logDice="9.6">
+              <comp position="3" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_e8ba71d793b282b32fa601cc82e6c255">razcepljen</comp>
+              </collocation>
+            <collocation form="sprt in nezaupljiv" cluster="4" frequency="5" logDice="8.07">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_4e3fcd7d2ce7fdadee1db7d8eee0efb3">nezaupljiv</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 na sbz4">
+          <collocations>
+            <collocation form="sprt na smrt" cluster="1" frequency="7" logDice="6.77">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_7ccde25b582fa3323faaf4d1541c4793">smrt</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 rbz">
+          <collocations>
+            <collocation form="sprt tako" cluster="1" frequency="6" logDice="1.56">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_a43856b7d4097e8e3ab29718abb1acb7">tako</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="sprta frakcija" cluster="1" frequency="48" logDice="7.63">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprta</comp>
+              <comp position="2" type="collocate" sloleks="LE_5b821420e5bbff371e0e27d8bbf6b96f">frakcija</comp>
+            </collocation>
+            <collocation form="sprt zakonec" cluster="2" frequency="58" logDice="7.56">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_58b4bcb32d51d0aa446449f62c5ca974">zakonec</comp>
+            </collocation>
+            <collocation form="sprt tabor" cluster="3" frequency="32" logDice="4.63">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_901dac7d65684277f515689598fffbbc">tabor</comp>
+            </collocation>
+            <collocation form="sprt politik" cluster="4" frequency="50" logDice="4.53">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_43bf7ab82ddd60104b42f5df3f200f85">politik</comp>
+            </collocation>
+            <collocation form="sprt sosed" cluster="4" frequency="33" logDice="5.25">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_f53bebed03a5c424ad722f12674ba7e8">sosed</comp>
+            </collocation>
+            <collocation form="sprt brat" cluster="4" frequency="28" logDice="4.44">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_596080a448c9d7dd107473b477aa03f5">brat</comp>
+            </collocation>
+            <collocation form="sprt starš" cluster="4" frequency="27" logDice="4.44">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_ee1100b135d34088f91e5c2786123e66">starš</comp>
+            </collocation>
+            <collocation form="sprt voditelj" cluster="4" frequency="19" logDice="3.31">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_9d8b382e078927391d8bd0db8182ff6e">voditelj</comp>
+            </collocation>
+            <collocation form="sprt lastnik" cluster="4" frequency="16" logDice="2.42">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_66c7de1ac3f03dd18265b3091c93bdc0">lastnik</comp>
+            </collocation>
+            <collocation form="sprt član" cluster="4" frequency="15" logDice="1.85">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_39d3a6c0cb58c4df843632f14f2543d3">član</comp>
+            </collocation>
+            <collocation form="sprt partner" cluster="4" frequency="14" logDice="2.15">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_b03d6d4d3e4d98fc8347daeeb60f3cc6">partner</comp>
+            </collocation>
+            <collocation form="sprt prijatelj" cluster="4" frequency="11" logDice="2.11">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_04d85f43e6fdbc81d853e26c5158132f">prijatelj</comp>
+            </collocation>
+            <collocation form="sprt posameznik" cluster="4" frequency="8" logDice="3.04">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_5870be796ec2c585c2a3e9baa4dac0bf">posameznik</comp>
+            </collocation>
+            <collocation form="sprt sorodnik" cluster="5" frequency="10" logDice="4.36">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_d66de3d361dd77144af63d15a41022ac">sorodnik</comp>
+            </collocation>
+            <collocation form="sprta stranka" cluster="6" frequency="143" logDice="3.73">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprta</comp>
+              <comp position="2" type="collocate" sloleks="LE_945a204a300f28702820c4bc0481d2e7">stranka</comp>
+            </collocation>
+            <collocation form="sprta država" cluster="6" frequency="94" logDice="2.69">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprta</comp>
+              <comp position="2" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">država</comp>
+            </collocation>
+            <collocation form="sprta družina" cluster="6" frequency="73" logDice="3.99">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprta</comp>
+              <comp position="2" type="collocate" sloleks="LE_9a7d912c8ec5a6cbc42d2975b5563b34">družina</comp>
+            </collocation>
+            <collocation form="sprta skupina" cluster="6" frequency="72" logDice="2.28">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprta</comp>
+              <comp position="2" type="collocate" sloleks="LE_7a31c94cb05484f8e60e8fbc4dad6a50">skupina</comp>
+            </collocation>
+            <collocation form="sprta skupnost" cluster="6" frequency="25" logDice="1.66">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprta</comp>
+              <comp position="2" type="collocate" sloleks="LE_a54e3d34cf1afe3eafb013c4eaa4f477">skupnost</comp>
+            </collocation>
+            <collocation form="sprta politika" cluster="6" frequency="24" logDice="1.58">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprta</comp>
+              <comp position="2" type="collocate" sloleks="LE_d48e3236c14022f821882e8943749375">politika</comp>
+            </collocation>
+            <collocation form="sprta organizacija" cluster="6" frequency="12" logDice="0.53">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprta</comp>
+              <comp position="2" type="collocate" sloleks="LE_513f9f374314ddaf09bb7d123d083113">organizacija</comp>
+            </collocation>
+            <collocation form="sprt narod" cluster="7" frequency="93" logDice="5.08">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_467863326a5651026d6c2e7a67b4936b">narod</comp>
+            </collocation>
+            <collocation form="sprt Slovenec" cluster="7" frequency="16" logDice="3.18">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_729f0d5f17646d52975cea70c2c90304|LE_28fbf96b9bd02e5a6e7ae885f022743f">Slovenec</comp>
+            </collocation>
+            <collocation form="sprt sindikat" cluster="8" frequency="9" logDice="3.16">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_80e7b021fab77747f0a899778050b67d">sindikat</comp>
+            </collocation>
+            <collocation form="sprta stran" cluster="9" frequency="2279" logDice="7.55">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprta</comp>
+              <comp position="2" type="collocate" sloleks="LE_4432316ca39663f747c84fc21ac8e398">stran</comp>
+            </collocation>
+            <collocation form="sprta opozicija" cluster="10" frequency="22" logDice="5.12">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprta</comp>
+              <comp position="2" type="collocate" sloleks="LE_085b6fe1a907acbdc689bc6836e0f214">opozicija</comp>
+            </collocation>
+            <collocation form="sprta koalicija" cluster="10" frequency="14" logDice="2.98">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprta</comp>
+              <comp position="2" type="collocate" sloleks="LE_5aa8ccca1595e55daecb1550976409c1">koalicija</comp>
+            </collocation>
+            <collocation form="sprt nasprotnik" cluster="11" frequency="8" logDice="2.77">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_09d7e4752e896fdc530a59483161bb43">nasprotnik</comp>
+            </collocation>
+            <collocation form="sprt blok" cluster="12" frequency="9" logDice="2.64">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_856fc91a52317aa8458dd3b464257dd6">blok</comp>
+            </collocation>
+            <collocation form="sprt par" cluster="13" frequency="9" logDice="2.11">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_dd28036b83c065c8e73341fe9c8f68f5">par</comp>
+            </collocation>
+            <collocation form="sprta soseda" cluster="14" frequency="35" logDice="5.94">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprta</comp>
+              <comp position="2" type="collocate" sloleks="LE_af0b17e9176d34ba4bbe0371edfda125">soseda</comp>
+            </collocation>
+            <collocation form="sprt človek" cluster="15" frequency="30" logDice="1.61">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človek</comp>
+            </collocation>
+            <collocation form="sprta sila" cluster="16" frequency="14" logDice="1.51">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprta</comp>
+              <comp position="2" type="collocate" sloleks="LE_e6be915f21f168cec6cd53810562f1eb">sila</comp>
+            </collocation>
+            <collocation form="sprta vojska" cluster="16" frequency="9" logDice="1.46">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprta</comp>
+              <comp position="2" type="collocate" sloleks="LE_014592c93c5ecc51294b73e71f55d921">vojska</comp>
+            </collocation>
+            <collocation form="sprto pleme" cluster="17" frequency="21" logDice="5.76">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprto</comp>
+              <comp position="2" type="collocate" sloleks="LE_ddeedbc9ee1f5b8a61dec0137be1590c">pleme</comp>
+            </collocation>
+            <collocation form="sprt klan" cluster="18" frequency="13" logDice="5.6">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_f34fed01b81cb9c14a08c3f8fa2d7a7c">klan</comp>
+            </collocation>
+            <collocation form="sprta tolpa" cluster="19" frequency="10" logDice="5.08">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprta</comp>
+              <comp position="2" type="collocate" sloleks="LE_83953ace8ca666badfa09ae498791e4a">tolpa</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz2">
+          <collocations>
+            <collocation form="sprt strani" cluster="1" frequency="49" logDice="11.31">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="collocate" sloleks="LE_4432316ca39663f747c84fc21ac8e398">strani</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 z sbz6">
+          <collocations>
+            <collocation form="sprt z logiko" cluster="1" frequency="69" logDice="10.62">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_318e61c0d6662e9b8241f0fb7c7bcccf">logiko</comp>
+            </collocation>
+            <collocation form="sprt z etiko" cluster="1" frequency="9" logDice="8.64">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_c8dea475751848229da4a31bab1f8e97">etiko</comp>
+            </collocation>
+            <collocation form="sprt s pametjo" cluster="2" frequency="36" logDice="9.98">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_77af1ad4546ffc53b9d48297af113476">pametjo</comp>
+            </collocation>
+            <collocation form="sprt s razumom" cluster="2" frequency="10" logDice="8.69">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_86fcd55dac6e95d475471c3c3d550c95">razumom</comp>
+            </collocation>
+            <collocation form="sprt s predsednikom" cluster="3" frequency="6" logDice="7.73">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_7b6970ef8cd5ab25e1b3915be0c536bd">predsednikom</comp>
+            </collocation>
+            <collocation form="sprt s svetom" cluster="3" frequency="6" logDice="7.15">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_55184295ed657acc8ec5dcd62f7084bf">svetom</comp>
+            </collocation>
+            <collocation form="sprt s državo" cluster="3" frequency="5" logDice="6.57">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">državo</comp>
+            </collocation>
+            <collocation form="sprt s stranko" cluster="3" frequency="4" logDice="6.91">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_945a204a300f28702820c4bc0481d2e7">stranko</comp>
+            </collocation>
+            <collocation form="sprt s družino" cluster="3" frequency="4" logDice="6.66">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_9a7d912c8ec5a6cbc42d2975b5563b34">družino</comp>
+            </collocation>
+            <collocation form="sprt s večino" cluster="3" frequency="4" logDice="6.44">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_72538287b447b4b7a75d1faf227dd3da">večino</comp>
+            </collocation>
+            <collocation form="sprt z sosedom" cluster="4" frequency="18" logDice="9.59">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_f53bebed03a5c424ad722f12674ba7e8">sosedom</comp>
+            </collocation>
+            <collocation form="sprt z sinom" cluster="4" frequency="6" logDice="7.69">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_79e0b2d02a57a50544ca32d11914a5a7">sinom</comp>
+            </collocation>
+            <collocation form="sprt z trenerjem" cluster="4" frequency="6" logDice="7.94">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_5269bc580e9a4f0ecfae9c1dd766c01a">trenerjem</comp>
+            </collocation>
+            <collocation form="sprt z materjo" cluster="4" frequency="5" logDice="7.73">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_c60ad337818645beb21c89ff38faccd7">materjo</comp>
+            </collocation>
+            <collocation form="sprt z očetom" cluster="4" frequency="5" logDice="7.53">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_fc6f92b44e0935702b32d3acbccf0142">očetom</comp>
+            </collocation>
+            <collocation form="sprt z racionalnostjo" cluster="5" frequency="4" logDice="7.7">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_d663bc488912e30d07f4e8fa2de49efd">racionalnostjo</comp>
+            </collocation>
+            <collocation form="sprt z Janšo" cluster="6" frequency="4" logDice="7.61">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_b37916ee179943a303d460366f0523f3|LE_a07b65bfedced5ea7d641216b670a0ab">Janšo</comp>
+            </collocation>
+            <collocation form="sprt z naravo" cluster="7" frequency="9" logDice="7.48">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_3720f05aae76a62fa53daa3d96e22c20">naravo</comp>
+            </collocation>
+            <collocation form="sprt z demokracijo" cluster="7" frequency="4" logDice="7.41">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_0a23ea97b7dde4013fd3ea300164d8e4">demokracijo</comp>
+            </collocation>
+            <collocation form="sprt z dejstvom" cluster="8" frequency="10" logDice="7.45">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_255c5ca471183c2c3fe9d12e0951677a">dejstvom</comp>
+            </collocation>
+            <collocation form="sprt z resnico" cluster="8" frequency="9" logDice="8.52">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_382669cfefeb9ec0a37edec1a50079a1">resnico</comp>
+            </collocation>
+            <collocation form="sprt z mnenjem" cluster="8" frequency="4" logDice="6.93">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_570e657c7ba1bf69e788fb96b4ad3409">mnenjem</comp>
+            </collocation>
+            <collocation form="sprt s zakonom" cluster="9" frequency="22" logDice="6.12">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_b3ce668b2bbbbdfa905463c113c05551">zakonom</comp>
+            </collocation>
+            <collocation form="sprt s načelom" cluster="9" frequency="15" logDice="8.69">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_5a443f15d8b4838fe872b4d2b544f4ce">načelom</comp>
+            </collocation>
+            <collocation form="sprt s pravilom" cluster="9" frequency="8" logDice="7.26">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_51ba7008d358dced3f5e2276d31828bd">pravilom</comp>
+            </collocation>
+            <collocation form="sprt s redom" cluster="9" frequency="4" logDice="6.64">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_32cc2768fc63beee27ff73cd149852ee">redom</comp>
+            </collocation>
+            <collocation form="sprt s standardom" cluster="9" frequency="4" logDice="6.25">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_4cb76a43bf5359cd108c8cf9e67b0368">standardom</comp>
+            </collocation>
+            <collocation form="sprt s zakonodajo" cluster="9" frequency="4" logDice="6.12">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_4468c129faae33bbee6d887e6b62b210">zakonodajo</comp>
+            </collocation>
+            <collocation form="sprt s ustavo" cluster="9" frequency="4" logDice="5.79">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_9b840f6c6a543dbfb0c0ddc79eb16ca5">ustavo</comp>
+            </collocation>
+            <collocation form="sprt z realnostjo" cluster="10" frequency="14" logDice="9.07">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_74bd34faca88787441930c8d861fe809">realnostjo</comp>
+            </collocation>
+            <collocation form="sprt z resničnostjo" cluster="10" frequency="10" logDice="8.77">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_c7d3b842bba0748991b84407ff9be5a4">resničnostjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 zaradi sbz2">
+          <collocations>
+            <collocation form="sprt zaradi pogodbe" cluster="1" frequency="4" logDice="10.71">
+              <comp position="1" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+              <comp position="2" type="other" sloleks="LE_e2128c24e3c3872c9e5c2981f71b461f">zaradi</comp>
+              <comp position="3" type="collocate" sloleks="LE_f8f86304f16174105dd9c075264d9c0c">pogodbe</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz PBZ1">
+          <collocations>
+            <collocation form="raziti sprt" cluster="1" frequency="8" logDice="11.77">
+              <comp position="1" type="collocate" sloleks="LE_c47bb364f9ff787333405319348cb538|LE_6a0220df63fbd5d89ea38e16bef69bd7">raziti</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="medsebojno sprt" cluster="1" frequency="25" logDice="7.52">
+              <comp position="1" type="collocate" sloleks="LE_3d037f404c0b05ec06697488cd7bcc43">medsebojno</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="složno sprt" cluster="2" frequency="5" logDice="7.26">
+              <comp position="1" type="collocate" sloleks="LE_ddc8a44012252f09f7f35784ab3183df">složno</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="ideološko sprt" cluster="3" frequency="9" logDice="6.47">
+              <comp position="1" type="collocate" sloleks="LE_5faaf6516454601f04c09026cb1195e7">ideološko</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="zgodovinsko sprt" cluster="3" frequency="8" logDice="5.54">
+              <comp position="1" type="collocate" sloleks="LE_e5a5e541f0817441ce1ba634b6c1ecf9">zgodovinsko</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="hudo sprt" cluster="4" frequency="44" logDice="5.46">
+              <comp position="1" type="collocate" sloleks="LE_feb425a4578d9be162c4327513777270">hudo</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="nekoč sprt" cluster="5" frequency="20" logDice="4.71">
+              <comp position="1" type="collocate" sloleks="LE_60179edcbf14353a50c5821b3f1a56ef">nekoč</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="nekdaj sprt" cluster="5" frequency="11" logDice="4.18">
+              <comp position="1" type="collocate" sloleks="LE_141e7db8f045c22c00d0a85cfa4e8fb5">nekdaj</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="tradicionalno sprt" cluster="5" frequency="9" logDice="4.76">
+              <comp position="1" type="collocate" sloleks="LE_a2760515895cc0ee0d482ba650fc3ecb">tradicionalno</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="praviloma sprt" cluster="5" frequency="8" logDice="4.64">
+              <comp position="1" type="collocate" sloleks="LE_f6af99887d898ba3132f601c49359983">praviloma</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="domnevno sprt" cluster="5" frequency="7" logDice="4.0">
+              <comp position="1" type="collocate" sloleks="LE_572e4c538c89a5c6c9a8546f11edca04">domnevno</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="politično sprt" cluster="5" frequency="6" logDice="3.38">
+              <comp position="1" type="collocate" sloleks="LE_9ed772e9e43890262413b22e2ea14bbc">politično</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="načeloma sprt" cluster="5" frequency="5" logDice="5.31">
+              <comp position="1" type="collocate" sloleks="LE_3c7aa4fdac2099c13f8bb02a18faf12a">načeloma</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="osebno sprt" cluster="5" frequency="5" logDice="4.89">
+              <comp position="1" type="collocate" sloleks="LE_603e7a8240bc1aa19acb41b9307e8273">osebno</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="vedno sprt" cluster="6" frequency="30" logDice="2.3">
+              <comp position="1" type="collocate" sloleks="LE_eaabd5718a27f818fd47358031426355">vedno</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="vse sprt" cluster="6" frequency="27" logDice="2.79">
+              <comp position="1" type="collocate" sloleks="LE_69e1f6ea0eba690182112fa5f7865561">vse</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="dolgo sprt" cluster="6" frequency="24" logDice="4.97">
+              <comp position="1" type="collocate" sloleks="LE_554690ff0ebb8eed6d3fcb26dfdc3eef">dolgo</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="pogosto sprt" cluster="6" frequency="21" logDice="4.06">
+              <comp position="1" type="collocate" sloleks="LE_0c25a8b75185d62f2dab515299cccbfc">pogosto</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="prej sprt" cluster="6" frequency="13" logDice="3.29">
+              <comp position="1" type="collocate" sloleks="LE_25430d3959f90161be5f8125f60962ef">prej</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="zdaj sprt" cluster="6" frequency="12" logDice="2.09">
+              <comp position="1" type="collocate" sloleks="LE_d3f3f0cca65a8d1e1eb9565d50304e21">zdaj</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="nikoli sprt" cluster="6" frequency="10" logDice="4.03">
+              <comp position="1" type="collocate" sloleks="LE_6ffec37fc59ab2f513410468cce388b4">nikoli</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="očitno sprt" cluster="6" frequency="10" logDice="3.51">
+              <comp position="1" type="collocate" sloleks="LE_9d88c71170bcb7a8d34f86bcb6d0c831">očitno</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="doslej sprt" cluster="6" frequency="10" logDice="3.01">
+              <comp position="1" type="collocate" sloleks="LE_b90468941c375c388507ce9cea1e6bfd">doslej</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="spet sprt" cluster="6" frequency="8" logDice="2.67">
+              <comp position="1" type="collocate" sloleks="LE_262d335ce33e8c5f94849e677bc83a19">spet</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="danes sprt" cluster="6" frequency="8" logDice="2.19">
+              <comp position="1" type="collocate" sloleks="LE_1ce30c2bc2ec7609ed31b8f4fa97c156">danes</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="večkrat sprt" cluster="6" frequency="7" logDice="3.7">
+              <comp position="1" type="collocate" sloleks="LE_a632a4cd780b70ff7634918837d4eddb">večkrat</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="naprej sprt" cluster="6" frequency="7" logDice="3.56">
+              <comp position="1" type="collocate" sloleks="LE_6c2b86de8272cf01af20dece8d4e791c">naprej</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="sedaj sprt" cluster="6" frequency="7" logDice="2.83">
+              <comp position="1" type="collocate" sloleks="LE_e50eb5a17c98c735c9fb6d8e08cf2787">sedaj</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="kako sprt" cluster="6" frequency="6" logDice="0.8">
+              <comp position="1" type="collocate" sloleks="LE_c6fd8628f731e3e158dc366537c82f5f">kako</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="kdaj sprt" cluster="6" frequency="5" logDice="4.33">
+              <comp position="1" type="collocate" sloleks="LE_89bfa4904e9e4ffe5cfd8a71392da483">kdaj</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="včeraj sprt" cluster="6" frequency="5" logDice="3.34">
+              <comp position="1" type="collocate" sloleks="LE_87612c451a6a10691f8cceaa7eeff6b1">včeraj</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="včasih sprt" cluster="6" frequency="5" logDice="2.9">
+              <comp position="1" type="collocate" sloleks="LE_84ca3ea3df6ba2df07a3bc55bedb32e2">včasih</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="res sprt" cluster="6" frequency="5" logDice="0.66">
+              <comp position="1" type="collocate" sloleks="LE_f755b561969e89364cdbaba990b8838d">res</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="globoko sprt" cluster="7" frequency="9" logDice="4.57">
+              <comp position="1" type="collocate" sloleks="LE_41f4fa45fdf80f6a05a39e6d375238f7">globoko</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="vsevprek sprt" cluster="8" frequency="5" logDice="7.14">
+              <comp position="1" type="collocate" sloleks="LE_60cef9845494d800a84b1019df00af68">vsevprek</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="bolj sprt" cluster="9" frequency="48" logDice="1.29">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="povsem sprt" cluster="9" frequency="47" logDice="2.84">
+              <comp position="1" type="collocate" sloleks="LE_f81b6acbbc8f4b7d329f284904d25157">povsem</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="popolnoma sprt" cluster="9" frequency="27" logDice="3.04">
+              <comp position="1" type="collocate" sloleks="LE_cf3152eef1d42e2e987683663209bafc">popolnoma</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="močno sprt" cluster="9" frequency="26" logDice="4.05">
+              <comp position="1" type="collocate" sloleks="LE_b061af875766d8e1437febe5ccafe554">močno</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="precej sprt" cluster="9" frequency="24" logDice="1.91">
+              <comp position="1" type="collocate" sloleks="LE_e0671a56c827200d0ebc033694e6214b">precej</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="manj sprt" cluster="9" frequency="18" logDice="1.54">
+              <comp position="1" type="collocate" sloleks="LE_ecab8216e0225b7e80d79b53bd9b8959">manj</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="preveč sprt" cluster="9" frequency="12" logDice="1.86">
+              <comp position="1" type="collocate" sloleks="LE_1a80970ab70c9c14f7164bfde4d5796e">preveč</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="nekoliko sprt" cluster="9" frequency="10" logDice="1.46">
+              <comp position="1" type="collocate" sloleks="LE_63286f71b723669983b38884d53a9abc">nekoliko</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="brezupno sprt" cluster="10" frequency="5" logDice="6.77">
+              <comp position="1" type="collocate" sloleks="LE_ad525b37696433a291587bf75f459873">brezupno</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="notranje sprt" cluster="11" frequency="9" logDice="6.66">
+              <comp position="1" type="collocate" sloleks="LE_ae7ee270cea14749551e7fd1cb82eafd">notranje</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="tako sprt" cluster="12" frequency="71" logDice="1.57">
+              <comp position="1" type="collocate" sloleks="LE_a43856b7d4097e8e3ab29718abb1acb7">tako</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="povrh sprt" cluster="13" frequency="6" logDice="6.55">
+              <comp position="1" type="collocate" sloleks="LE_b2805ad69713671c60c5b05260494f59">povrh</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="večno sprt" cluster="14" frequency="24" logDice="6.47">
+              <comp position="1" type="collocate" sloleks="LE_58ef4d5a0742cc33d5cdc1997e6a66fb">večno</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="nenehno sprt" cluster="14" frequency="15" logDice="6.49">
+              <comp position="1" type="collocate" sloleks="LE_51a4baeec25a30e6830b327ef65991b5">nenehno</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+            <collocation form="pregovorno sprt" cluster="15" frequency="9" logDice="6.47">
+              <comp position="1" type="collocate" sloleks="LE_b23f04d304e9b64f99611f61d33f73a9">pregovorno</comp>
+              <comp position="2" type="headword" sloleks="LE_9730244ca8aa6c1e60afc905003bd1f8">sprt</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

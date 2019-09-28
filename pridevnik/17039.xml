@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="17039">egalitaren</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">436</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="egalitaren in pravičen" cluster="1" frequency="7" logDice="6.16">
+              <comp position="1" type="headword" sloleks="LE_4566a2bc5dee6b5512f391392d43edd3">egalitaren</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_9352a9bd2f292d453c3090f8cf8e611e">pravičen</comp>
+            </collocation>
+            <collocation form="egalitaren in/ali demokratičen" cluster="2" frequency="5" logDice="5.3">
+              <comp position="3" type="headword" sloleks="LE_4566a2bc5dee6b5512f391392d43edd3">egalitaren</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_57b96867e59c551977784d321f7d0d3f">demokratičen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="egalitaren sindrom" cluster="1" frequency="10" logDice="5.21">
+              <comp position="1" type="headword" sloleks="LE_4566a2bc5dee6b5512f391392d43edd3">egalitaren</comp>
+              <comp position="2" type="collocate" sloleks="LE_bf0c5212a7b89404b136b3e8066d2a94">sindrom</comp>
+            </collocation>
+            <collocation form="egalitarna delitev" cluster="2" frequency="10" logDice="4.63">
+              <comp position="1" type="headword" sloleks="LE_4566a2bc5dee6b5512f391392d43edd3">egalitarna</comp>
+              <comp position="2" type="collocate" sloleks="LE_3f004259ae3d903d586cfefc6db1e9e7">delitev</comp>
+            </collocation>
+            <collocation form="egalitarna teorija" cluster="3" frequency="16" logDice="4.19">
+              <comp position="1" type="headword" sloleks="LE_4566a2bc5dee6b5512f391392d43edd3">egalitarna</comp>
+              <comp position="2" type="collocate" sloleks="LE_4ba15f28961bde55128a32aa1e33a888">teorija</comp>
+            </collocation>
+            <collocation form="egalitarno načelo" cluster="4" frequency="10" logDice="3.15">
+              <comp position="1" type="headword" sloleks="LE_4566a2bc5dee6b5512f391392d43edd3">egalitarno</comp>
+              <comp position="2" type="collocate" sloleks="LE_5a443f15d8b4838fe872b4d2b544f4ce">načelo</comp>
+            </collocation>
+            <collocation form="egalitarna družba" cluster="5" frequency="81" logDice="2.69">
+              <comp position="1" type="headword" sloleks="LE_4566a2bc5dee6b5512f391392d43edd3">egalitarna</comp>
+              <comp position="2" type="collocate" sloleks="LE_4d78f38b1eeb8492cae54547d0252bf9">družba</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="bolj egalitaren" cluster="1" frequency="43" logDice="1.13">
+              <comp position="1" type="collocate" sloleks="LE_eb5c9ce617296e17362f1f97122c4c36">bolj</comp>
+              <comp position="2" type="headword" sloleks="LE_4566a2bc5dee6b5512f391392d43edd3">egalitaren</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

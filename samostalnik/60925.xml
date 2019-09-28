@@ -1,0 +1,86 @@
+<entry>
+  <header>
+    <lexical_unit id="60925">izčrpanje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">455</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="izčrpanje zaloge" cluster="1" frequency="20" logDice="6.16">
+              <comp position="1" type="headword" sloleks="LE_55e53e26743b486e4f887d3e63cc7ebc">izčrpanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_635fdef94aa6842d3ac1b159a8587903">zaloge</comp>
+            </collocation>
+            <collocation form="izčrpanje sredstva" cluster="2" frequency="159" logDice="5.38">
+              <comp position="1" type="headword" sloleks="LE_55e53e26743b486e4f887d3e63cc7ebc">izčrpanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_94c4f4cf5104632466509789b5cde032">sredstva</comp>
+            </collocation>
+            <collocation form="izčrpanje možnosti" cluster="2" frequency="16" logDice="3.92">
+              <comp position="1" type="headword" sloleks="LE_55e53e26743b486e4f887d3e63cc7ebc">izčrpanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_2e00efc106e45a8fd5ad17e06d9e6382">možnosti</comp>
+            </collocation>
+            <collocation form="izčrpanje vira" cluster="2" frequency="8" logDice="3.18">
+              <comp position="1" type="headword" sloleks="LE_55e53e26743b486e4f887d3e63cc7ebc">izčrpanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_f2868b5fa7700f4f1a6833f2b2436164">vira</comp>
+            </collocation>
+            <collocation form="izčrpanje varstva" cluster="3" frequency="10" logDice="3.46">
+              <comp position="1" type="headword" sloleks="LE_55e53e26743b486e4f887d3e63cc7ebc">izčrpanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_a4772470cb0cf8ed30edb1806bba60c6">varstva</comp>
+            </collocation>
+            <collocation form="izčrpanje poti" cluster="4" frequency="9" logDice="2.66">
+              <comp position="1" type="headword" sloleks="LE_55e53e26743b486e4f887d3e63cc7ebc">izčrpanje</comp>
+              <comp position="2" type="collocate" sloleks="LE_6f8aa8d4e7c0d678fee98b890a6d1964|LE_97291a922b54c3ec42af6728cfcc7ab2">poti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz do SBZ2">
+          <collocations>
+            <collocation form="privesti do izčrpanja" cluster="1" frequency="6" logDice="4.12">
+              <comp position="1" type="collocate" sloleks="LE_1284d33d556efd9a4dd3c8883532d451">privesti</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_55e53e26743b486e4f887d3e63cc7ebc">izčrpanja</comp>
+            </collocation>
+            <collocation form="pripeljati do izčrpanja" cluster="2" frequency="7" logDice="2.77">
+              <comp position="1" type="collocate" sloleks="LE_c9f2178441b58109ccf0362126aad793">pripeljati</comp>
+              <comp position="2" type="other" sloleks="LE_c7ea3bcd6cdb0ffc6aee490a870fe7b5">do</comp>
+              <comp position="3" type="headword" sloleks="LE_55e53e26743b486e4f887d3e63cc7ebc">izčrpanja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz pred SBZ6">
+          <collocations>
+            <collocation form="odločati pred izčrpanjem" cluster="1" frequency="4" logDice="9.12">
+              <comp position="1" type="collocate" sloleks="LE_c0a142f8a959998ee12099b2e702e937">odločati</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="headword" sloleks="LE_55e53e26743b486e4f887d3e63cc7ebc">izčrpanjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="predhodno izčrpanje" cluster="1" frequency="14" logDice="3.8">
+              <comp position="1" type="collocate" sloleks="LE_8c4b7ceae9ec14795513a445e8441eb0">predhodno</comp>
+              <comp position="2" type="headword" sloleks="LE_55e53e26743b486e4f887d3e63cc7ebc">izčrpanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 pred SBZ6">
+          <collocations>
+            <collocation form="pritožba pred izčrpanjem" cluster="1" frequency="21" logDice="11.94">
+              <comp position="1" type="collocate" sloleks="LE_11da9c7de61aa492b1b62e588324a769">pritožba</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="headword" sloleks="LE_55e53e26743b486e4f887d3e63cc7ebc">izčrpanjem</comp>
+            </collocation>
+            <collocation form="sodišče pred izčrpanjem" cluster="2" frequency="7" logDice="8.69">
+              <comp position="1" type="collocate" sloleks="LE_989f65b9e9021c2bfb10c5161a6e59ab">sodišče</comp>
+              <comp position="2" type="other" sloleks="LE_2bba851943a5bebf549f96f15093ab85">pred</comp>
+              <comp position="3" type="headword" sloleks="LE_55e53e26743b486e4f887d3e63cc7ebc">izčrpanjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

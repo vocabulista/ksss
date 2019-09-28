@@ -1,0 +1,833 @@
+<entry>
+  <header>
+    <lexical_unit id="92928">telefoniranje</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">5098</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 brez sbz2">
+          <collocations>
+            <collocation form="telefoniranje brez uporabe" cluster="1" frequency="5" logDice="7.07">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_4485e634af6a4b16093fe3140632418a">brez</comp>
+              <comp position="3" type="collocate" sloleks="LE_9999e7dc3b8f5571ba09e352c31aea3f">uporabe</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="telefoniranje iz govorilnice" cluster="1" frequency="8" logDice="10.41">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_6ef5a71f006515ba6e75aa01f73aa4fd">govorilnice</comp>
+            </collocation>
+            <collocation form="telefoniranje iz omrežja" cluster="2" frequency="11" logDice="7.75">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_1a189d3f12bb06dab2a96fe625f77b13">omrežja</comp>
+            </collocation>
+            <collocation form="telefoniranje iz avtomobila" cluster="3" frequency="8" logDice="7.49">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_2d371ce9cfa94488baae8dd8023002e4">avtomobila</comp>
+            </collocation>
+            <collocation form="telefoniranje iz tujine" cluster="4" frequency="30" logDice="5.86">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_a190901c862adb8e32b97ac0e742f967">tujine</comp>
+            </collocation>
+            <collocation form="telefoniranje iz Slovenije" cluster="5" frequency="10" logDice="3.5">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Slovenije</comp>
+            </collocation>
+            <collocation form="telefoniranje iz Hrvaške" cluster="5" frequency="4" logDice="4.74">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_e4c42ed3e8249050675e26e60dec0446">Hrvaške</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 med sbz6">
+          <collocations>
+            <collocation form="telefoniranje med vožnjo" cluster="1" frequency="237" logDice="10.39">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_cd6b5da723aa271ed871bf1d115652d0">vožnjo</comp>
+            </collocation>
+            <collocation form="telefoniranje med poletom" cluster="2" frequency="4" logDice="7.29">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="collocate" sloleks="LE_5e68bec3ae56ffaeb382409ca238411f">poletom</comp>
+            </collocation>
+            <collocation form="komplet med telefoniranjem" cluster="3" frequency="4" logDice="11.12">
+              <comp position="1" type="collocate" sloleks="LE_dd2731538ea19e392cf518b369dbec51">komplet</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranjem</comp>
+            </collocation>
+            <collocation form="motnja med telefoniranjem" cluster="4" frequency="4" logDice="9.66">
+              <comp position="1" type="collocate" sloleks="LE_e07067dc89f16fa43aba5c323406c3a7">motnja</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranjem</comp>
+            </collocation>
+            <collocation form="uporabnik med telefoniranjem" cluster="5" frequency="4" logDice="9.04">
+              <comp position="1" type="collocate" sloleks="LE_44d877680022f19ea8b31a268b1a73a4">uporabnik</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranjem</comp>
+            </collocation>
+            <collocation form="voznik med telefoniranjem" cluster="6" frequency="4" logDice="8.05">
+              <comp position="1" type="collocate" sloleks="LE_4b861123b30bbee1260eeaec5a436720">voznik</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranjem</comp>
+            </collocation>
+            <collocation form="človek med telefoniranjem" cluster="7" frequency="4" logDice="7.0">
+              <comp position="1" type="collocate" sloleks="LE_53ae3a1a0ac28b4bef77406c6bf914a8">človek</comp>
+              <comp position="2" type="other" sloleks="LE_6e45057c6e211f1c8d8cb9f0825d18b9">med</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 na sbz4">
+          <collocations>
+            <collocation form="telefoniranje na kartico" cluster="1" frequency="5" logDice="7.58">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_cb56668d35805a0508305a5c38f3052a">kartico</comp>
+            </collocation>
+            <collocation form="telefoniranje na številko" cluster="2" frequency="7" logDice="5.48">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="collocate" sloleks="LE_ebd741e03af85017076d3a5582503217">številko</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 prek sbz2">
+          <collocations>
+            <collocation form="telefoniranje prek zvočnika" cluster="1" frequency="28" logDice="11.99">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_5536be59858e10ff9eb89ccee3c2b92d">prek</comp>
+              <comp position="3" type="collocate" sloleks="LE_96aad18e76a1e59a9e023ca2ed07325d">zvočnika</comp>
+            </collocation>
+            <collocation form="telefoniranje prek bluetooth" cluster="2" frequency="4" logDice="9.62">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_5536be59858e10ff9eb89ccee3c2b92d">prek</comp>
+              <comp position="3" type="collocate" sloleks="">bluetooth</comp>
+            </collocation>
+            <collocation form="telefoniranje prek protokola" cluster="3" frequency="6" logDice="8.89">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_5536be59858e10ff9eb89ccee3c2b92d">prek</comp>
+              <comp position="3" type="collocate" sloleks="LE_3a04ac991c53761462f8a2192d3f62ad">protokola</comp>
+            </collocation>
+            <collocation form="telefoniranje prek računalnika" cluster="4" frequency="5" logDice="8.54">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_5536be59858e10ff9eb89ccee3c2b92d">prek</comp>
+              <comp position="3" type="collocate" sloleks="LE_b8ee172630f061da51fb6d4a9d5549ba">računalnika</comp>
+            </collocation>
+            <collocation form="telefoniranje prek omrežja" cluster="4" frequency="5" logDice="6.97">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_5536be59858e10ff9eb89ccee3c2b92d">prek</comp>
+              <comp position="3" type="collocate" sloleks="LE_1a189d3f12bb06dab2a96fe625f77b13">omrežja</comp>
+            </collocation>
+            <collocation form="telefoniranje prek interneta" cluster="5" frequency="19" logDice="7.72">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_5536be59858e10ff9eb89ccee3c2b92d">prek</comp>
+              <comp position="3" type="collocate" sloleks="LE_8c974ae9956967d9a8c71977da93947f">interneta</comp>
+            </collocation>
+            <collocation form="telefoniranje prek spleta" cluster="5" frequency="8" logDice="7.01">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_5536be59858e10ff9eb89ccee3c2b92d">prek</comp>
+              <comp position="3" type="collocate" sloleks="LE_8e62aba5543fcbb3ea275cf0c5259be4">spleta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 preko sbz2">
+          <collocations>
+            <collocation form="telefoniranje preko zvočnika" cluster="1" frequency="42" logDice="13.04">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_1c83663f90b7fc783fcad1a8fcc7d1b3">preko</comp>
+              <comp position="3" type="collocate" sloleks="LE_96aad18e76a1e59a9e023ca2ed07325d">zvočnika</comp>
+            </collocation>
+            <collocation form="telefoniranje preko mikrofona" cluster="2" frequency="8" logDice="11.12">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_1c83663f90b7fc783fcad1a8fcc7d1b3">preko</comp>
+              <comp position="3" type="collocate" sloleks="LE_1f06875ea1ba0bcfa19c4560bafe776e">mikrofona</comp>
+            </collocation>
+            <collocation form="telefoniranje preko Interneta" cluster="3" frequency="24" logDice="9.39">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_1c83663f90b7fc783fcad1a8fcc7d1b3">preko</comp>
+              <comp position="3" type="collocate" sloleks="LE_8c974ae9956967d9a8c71977da93947f">Interneta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz4">
+          <collocations>
+            <collocation form="telefoniranje v omrežje" cluster="1" frequency="13" logDice="6.26">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_1a189d3f12bb06dab2a96fe625f77b13">omrežje</comp>
+            </collocation>
+            <collocation form="telefoniranje v tujino" cluster="2" frequency="26" logDice="6.16">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_a190901c862adb8e32b97ac0e742f967">tujino</comp>
+            </collocation>
+            <collocation form="telefoniranje v državo" cluster="3" frequency="6" logDice="4.75">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">državo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 v sbz5">
+          <collocations>
+            <collocation form="telefoniranje v govorilnici" cluster="1" frequency="4" logDice="8.43">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_6ef5a71f006515ba6e75aa01f73aa4fd">govorilnici</comp>
+            </collocation>
+            <collocation form="telefoniranje v avtomobilu" cluster="2" frequency="68" logDice="8.16">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_2d371ce9cfa94488baae8dd8023002e4">avtomobilu</comp>
+            </collocation>
+            <collocation form="telefoniranje v avtu" cluster="2" frequency="22" logDice="7.46">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_84b2715275b48c307a68bfa3d2b1a5bf">avtu</comp>
+            </collocation>
+            <collocation form="telefoniranje v vozilu" cluster="2" frequency="14" logDice="6.85">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_267f3855f5e4ffa5815a1263d2a6c788">vozilu</comp>
+            </collocation>
+            <collocation form="telefoniranje v Sloveniji" cluster="3" frequency="9" logDice="0.49">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_90b2d5f7f4901909427ab7b9dc3376a3">Sloveniji</comp>
+            </collocation>
+            <collocation form="telefoniranje v območju" cluster="3" frequency="8" logDice="4.77">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_637bb12e70b217aeada98e77f3559b30">območju</comp>
+            </collocation>
+            <collocation form="telefoniranje v državi" cluster="3" frequency="6" logDice="0.82">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_8d1f7f3d77a3c2c66027d453a4a34acd">državi</comp>
+            </collocation>
+            <collocation form="telefoniranje v času" cluster="3" frequency="5" logDice="0.75">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">času</comp>
+            </collocation>
+            <collocation form="telefoniranje v sistemu" cluster="3" frequency="5" logDice="3.3">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_b126847d984efa55c2ffad50be4e1dac">sistemu</comp>
+            </collocation>
+            <collocation form="telefoniranje v omrežju" cluster="4" frequency="28" logDice="7.16">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_1a189d3f12bb06dab2a96fe625f77b13">omrežju</comp>
+            </collocation>
+            <collocation form="telefoniranje v povezavi" cluster="4" frequency="7" logDice="4.64">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_585f5dc11b4e301ea7b13c392b5a0d47">povezavi</comp>
+            </collocation>
+            <collocation form="telefoniranje v tujini" cluster="5" frequency="52" logDice="5.3">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_a190901c862adb8e32b97ac0e742f967">tujini</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="telefoniranje s telefonom" cluster="1" frequency="73" logDice="9.9">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_b369daed21ea3efd08ea07ee43e89946">telefonom</comp>
+            </collocation>
+            <collocation form="telefoniranje s mobilnikom" cluster="1" frequency="19" logDice="9.61">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_be8c71d851c2d4749dbbfae55fe89d5d">mobilnikom</comp>
+            </collocation>
+            <collocation form="telefoniranje s aparatom" cluster="1" frequency="5" logDice="6.56">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_8394f9997a2a0c916367cdf9c5c35551">aparatom</comp>
+            </collocation>
+            <collocation form="telefoniranje z mobi" cluster="2" frequency="4" logDice="9.2">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="">mobi</comp>
+            </collocation>
+            <collocation form="telefoniranje z mobitelom" cluster="3" frequency="5" logDice="7.92">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_82a3ba2c8248d262833519ed7ad9fca1">mobitelom</comp>
+            </collocation>
+            <collocation form="telefoniranje z zvočnikom" cluster="4" frequency="4" logDice="7.02">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_96aad18e76a1e59a9e023ca2ed07325d">zvočnikom</comp>
+            </collocation>
+            <collocation form="telefoniranje s pomočjo" cluster="5" frequency="15" logDice="3.95">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_84e3f9e3c4e9e1abf42cc69c125b0b58">pomočjo</comp>
+            </collocation>
+            <collocation form="telefoniranje s tehnologijo" cluster="5" frequency="7" logDice="5.48">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_f60ec9358517b03c1fa8e59cbc05b034">tehnologijo</comp>
+            </collocation>
+            <collocation form="telefoniranje s uporabo" cluster="5" frequency="7" logDice="4.96">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_9999e7dc3b8f5571ba09e352c31aea3f">uporabo</comp>
+            </collocation>
+            <collocation form="telefoniranje s povezavo" cluster="5" frequency="5" logDice="6.55">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_585f5dc11b4e301ea7b13c392b5a0d47">povezavo</comp>
+            </collocation>
+            <collocation form="težava s telefoniranjem" cluster="6" frequency="8" logDice="1.47">
+              <comp position="1" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težava</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz6">
+          <collocations>
+            <collocation form="telefoniranje za volanom" cluster="1" frequency="19" logDice="7.07">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_6b8f390078725dd5a985a81a79571459">volanom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz SBZ4">
+          <collocations>
+            <collocation form="omogočati telefoniranje" cluster="1" frequency="214" logDice="5.64">
+              <comp position="1" type="collocate" sloleks="LE_8f1a95f7a598a7f0fa830d88c8711c4b">omogočati</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="omogočiti telefoniranje" cluster="1" frequency="25" logDice="3.4">
+              <comp position="1" type="collocate" sloleks="LE_ab7fecc694cf928d1eaa6b15ed291e37">omogočiti</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="ponujati telefoniranje" cluster="1" frequency="15" logDice="2.53">
+              <comp position="1" type="collocate" sloleks="LE_88f0935094203778c8c0128032bfb22b">ponujati</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="prepovedati telefoniranje" cluster="2" frequency="13" logDice="4.52">
+              <comp position="1" type="collocate" sloleks="LE_ab275ee6cf2f06b0c6b1ffe4f257b567">prepovedati</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="prepovedovati telefoniranje" cluster="2" frequency="8" logDice="4.99">
+              <comp position="1" type="collocate" sloleks="LE_893dbd8685e5d4527b48f0bfd01a7481">prepovedovati</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="olajšati telefoniranje" cluster="3" frequency="10" logDice="3.86">
+              <comp position="1" type="collocate" sloleks="LE_eb233db0ee0b5517d0adcde50cddabf1">olajšati</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz ob SBZ5">
+          <collocations>
+            <collocation form="risati ob telefoniranju" cluster="1" frequency="4" logDice="11.54">
+              <comp position="1" type="collocate" sloleks="LE_3c9f165ea4b56049311c3dcdfe6e0e09">risati</comp>
+              <comp position="2" type="other" sloleks="LE_0d51e0433cde1d7d6610f469ec11e938">ob</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz poleg SBZ2">
+          <collocations>
+            <collocation form="omogočati poleg telefoniranja" cluster="1" frequency="10" logDice="9.01">
+              <comp position="1" type="collocate" sloleks="LE_8f1a95f7a598a7f0fa830d88c8711c4b">omogočati</comp>
+              <comp position="2" type="other" sloleks="LE_33c341016cb5696647a7f2c6cc689291">poleg</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz pri SBZ5">
+          <collocations>
+            <collocation form="spodobiti pri telefoniranju" cluster="1" frequency="5" logDice="10.21">
+              <comp position="1" type="collocate" sloleks="LE_08b5d807b45de1b71757099870f14cd9">spodobiti</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranju</comp>
+            </collocation>
+            <collocation form="uporabljati pri telefoniranju" cluster="2" frequency="7" logDice="4.25">
+              <comp position="1" type="collocate" sloleks="LE_7a8b477802781e8149004a2a769c51c1">uporabljati</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranju</comp>
+            </collocation>
+            <collocation form="imeti pri telefoniranju" cluster="3" frequency="6" logDice="3.12">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz z SBZ6">
+          <collocations>
+            <collocation form="imeti s telefoniranjem" cluster="1" frequency="5" logDice="1.88">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz za SBZ4">
+          <collocations>
+            <collocation form="zapraviti za telefoniranje" cluster="1" frequency="4" logDice="5.64">
+              <comp position="1" type="collocate" sloleks="LE_a0ba9e7be51d37959b6a7cafba6c55fc">zapraviti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="uporabljati za telefoniranje" cluster="2" frequency="31" logDice="4.81">
+              <comp position="1" type="collocate" sloleks="LE_7a8b477802781e8149004a2a769c51c1">uporabljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="porabiti za telefoniranje" cluster="2" frequency="17" logDice="4.75">
+              <comp position="1" type="collocate" sloleks="LE_3aa8017f73a46ac29ad59c7a495aab83">porabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="uporabiti za telefoniranje" cluster="2" frequency="7" logDice="3.59">
+              <comp position="1" type="collocate" sloleks="LE_afe0f614dc9e3c90eb71abb7051cdc3a">uporabiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="potrebovati za telefoniranje" cluster="2" frequency="5" logDice="2.21">
+              <comp position="1" type="collocate" sloleks="LE_1d2dce4b8faea4af518b607a2b8b3ef9">potrebovati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="iti za telefoniranje" cluster="3" frequency="4" logDice="-1.6">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="odločiti za telefoniranje" cluster="4" frequency="5" logDice="0.46">
+              <comp position="1" type="collocate" sloleks="LE_1849ab807e0602a0ae7fa9a648251d4b">odločiti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="plačevati za telefoniranje" cluster="4" frequency="4" logDice="4.52">
+              <comp position="1" type="collocate" sloleks="LE_c3ea35fd182867a327a727a61b63d4e8">plačevati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="veljati za telefoniranje" cluster="4" frequency="4" logDice="0.56">
+              <comp position="1" type="collocate" sloleks="LE_d1ea0d9dd4771e211c9eddc0d342acc2">veljati</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="imeti za telefoniranje" cluster="5" frequency="5" logDice="1.24">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="prostoročno telefoniranje" cluster="1" frequency="1085" logDice="13.03">
+              <comp position="1" type="collocate" sloleks="LE_02f8905cee8622c00f112e11c5c99d93">prostoročno</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="brezročen telefoniranje" cluster="1" frequency="12" logDice="7.48">
+              <comp position="1" type="collocate" sloleks="">brezročen</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="predplačan telefoniranje" cluster="2" frequency="30" logDice="8.77">
+              <comp position="1" type="collocate" sloleks="">predplačan</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="predplačen telefoniranje" cluster="2" frequency="27" logDice="8.48">
+              <comp position="1" type="collocate" sloleks="">predplačen</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="varno telefoniranje" cluster="3" frequency="38" logDice="4.08">
+              <comp position="1" type="collocate" sloleks="LE_bc8c5dc2994bc436e522e289e5f32b43">varno</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="udobno telefoniranje" cluster="3" frequency="13" logDice="4.26">
+              <comp position="1" type="collocate" sloleks="LE_1d68bc05837607419a0d53deded9b241">udobno</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="ugodno telefoniranje" cluster="3" frequency="12" logDice="2.18">
+              <comp position="1" type="collocate" sloleks="LE_81973d1bb12349cdd5c8fca3e2935e54|LE_0ab53231073b4b9b194e9d3f1baf8ed8">ugodno</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="poceni telefoniranje" cluster="4" frequency="108" logDice="6.03">
+              <comp position="1" type="collocate" sloleks="LE_209d55beca5abfa601d61963c5a648bf">poceni</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="brezplačno telefoniranje" cluster="4" frequency="75" logDice="5.08">
+              <comp position="1" type="collocate" sloleks="LE_f13c5bc96c18cc8717178cb956a5d153">brezplačno</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="običajno telefoniranje" cluster="4" frequency="28" logDice="3.57">
+              <comp position="1" type="collocate" sloleks="LE_012ab2b0d3a63f144f719cfb1add7a44">običajno</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="drago telefoniranje" cluster="4" frequency="21" logDice="2.6">
+              <comp position="1" type="collocate" sloleks="LE_3bb482d1c1244ec8fa97ee4afaf36841">drago</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="klasično telefoniranje" cluster="4" frequency="16" logDice="2.3">
+              <comp position="1" type="collocate" sloleks="LE_4d8402b7fafe8c0a9aae5af0401bab80">klasično</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="enostavno telefoniranje" cluster="4" frequency="12" logDice="3.57">
+              <comp position="1" type="collocate" sloleks="LE_196527ac2aa93b0712064e664d95db88">enostavno</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="tovrstno telefoniranje" cluster="4" frequency="8" logDice="0.98">
+              <comp position="1" type="collocate" sloleks="LE_5ad0d3d0e527319cf767aae528063949">tovrstno</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="namenjeno telefoniranje" cluster="5" frequency="58" logDice="3.46">
+              <comp position="1" type="collocate" sloleks="LE_eed44a3aaf6fe7ffbbb56cff0a5bde3b">namenjeno</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="prepovedano telefoniranje" cluster="6" frequency="12" logDice="3.43">
+              <comp position="1" type="collocate" sloleks="LE_451c943d6549da1987aa90e66a302488">prepovedano</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="nenehno telefoniranje" cluster="7" frequency="9" logDice="3.34">
+              <comp position="1" type="collocate" sloleks="LE_5e067753eeef252241ef0e826d166bdb">nenehno</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="mobilno telefoniranje" cluster="8" frequency="121" logDice="5.52">
+              <comp position="1" type="collocate" sloleks="LE_dcb8d5a7055ddd7b14247a225d966399">mobilno</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="internetno telefoniranje" cluster="8" frequency="61" logDice="5.61">
+              <comp position="1" type="collocate" sloleks="LE_d892808a6bacbfd61ad33abdae5735b9">internetno</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="spletno telefoniranje" cluster="8" frequency="24" logDice="1.77">
+              <comp position="1" type="collocate" sloleks="LE_b7a046d124e29a01839e10a08b6c7d07|LE_6ea07d467af0aac3de9a7f1f8bc398b3">spletno</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="brezžično telefoniranje" cluster="9" frequency="16" logDice="4.8">
+              <comp position="1" type="collocate" sloleks="LE_856ab3f017b33804627cabaf45cdf6ca">brezžično</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="vztrajno telefoniranje" cluster="10" frequency="8" logDice="4.55">
+              <comp position="1" type="collocate" sloleks="LE_f631216fcb347712bc57763cb00874a8">vztrajno</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ3">
+          <collocations>
+            <collocation form="namenjen telefoniranju" cluster="1" frequency="13" logDice="3.15">
+              <comp position="1" type="collocate" sloleks="LE_eed44a3aaf6fe7ffbbb56cff0a5bde3b">namenjen</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 od SBZ2">
+          <collocations>
+            <collocation form="varen od telefoniranja" cluster="1" frequency="4" logDice="8.65">
+              <comp position="1" type="collocate" sloleks="LE_bc8c5dc2994bc436e522e289e5f32b43">varen</comp>
+              <comp position="2" type="other" sloleks="LE_ac46c2b2bc382e63d0c6f0dc0995610b">od</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 z SBZ6">
+          <collocations>
+            <collocation form="povezan s telefoniranjem" cluster="1" frequency="4" logDice="-0.05">
+              <comp position="1" type="collocate" sloleks="LE_84ef5df7d933128064d85c58468c7559">povezan</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranjem</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="bonton telefoniranja" cluster="1" frequency="5" logDice="7.56">
+              <comp position="1" type="collocate" sloleks="LE_6e96c2ddfd73ac7b5f4fa381b75f5808">bonton</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranja</comp>
+            </collocation>
+            <collocation form="cena telefoniranja" cluster="2" frequency="108" logDice="4.11">
+              <comp position="1" type="collocate" sloleks="LE_69b40aa886598a40e47070a0270e9b28">cena</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranja</comp>
+            </collocation>
+            <collocation form="možnost telefoniranja" cluster="2" frequency="105" logDice="4.33">
+              <comp position="1" type="collocate" sloleks="LE_2e00efc106e45a8fd5ad17e06d9e6382">možnost</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranja</comp>
+            </collocation>
+            <collocation form="sistem telefoniranja" cluster="2" frequency="64" logDice="4.14">
+              <comp position="1" type="collocate" sloleks="LE_b126847d984efa55c2ffad50be4e1dac">sistem</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranja</comp>
+            </collocation>
+            <collocation form="strošek telefoniranja" cluster="2" frequency="53" logDice="4.06">
+              <comp position="1" type="collocate" sloleks="LE_c04e68299307d659d0cadde6f5fc0c28">strošek</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranja</comp>
+            </collocation>
+            <collocation form="način telefoniranja" cluster="2" frequency="27" logDice="2.13">
+              <comp position="1" type="collocate" sloleks="LE_78347f5e8e1e11f66d26223c13ba02df">način</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranja</comp>
+            </collocation>
+            <collocation form="storitev telefoniranja" cluster="2" frequency="17" logDice="4.22">
+              <comp position="1" type="collocate" sloleks="LE_abb14230c15d4fd66a15377c1ed699a9">storitev</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranja</comp>
+            </collocation>
+            <collocation form="pravilo telefoniranja" cluster="2" frequency="13" logDice="3.37">
+              <comp position="1" type="collocate" sloleks="LE_51ba7008d358dced3f5e2276d31828bd">pravilo</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranja</comp>
+            </collocation>
+            <collocation form="funkcija telefoniranja" cluster="2" frequency="11" logDice="3.32">
+              <comp position="1" type="collocate" sloleks="LE_d3ec58edca217a31a8eacf1bf15f745f">funkcija</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranja</comp>
+            </collocation>
+            <collocation form="uporaba telefoniranja" cluster="2" frequency="9" logDice="0.64">
+              <comp position="1" type="collocate" sloleks="LE_9999e7dc3b8f5571ba09e352c31aea3f">uporaba</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranja</comp>
+            </collocation>
+            <collocation form="kakovost telefoniranja" cluster="2" frequency="7" logDice="1.54">
+              <comp position="1" type="collocate" sloleks="LE_73842cd684801160bcb4054b92481227">kakovost</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranja</comp>
+            </collocation>
+            <collocation form="kultura telefoniranja" cluster="3" frequency="6" logDice="3.01">
+              <comp position="1" type="collocate" sloleks="LE_4edc5c7069eb1ef7bd3436cfbffaee8a">kultura</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranja</comp>
+            </collocation>
+            <collocation form="minuta telefoniranja" cluster="4" frequency="14" logDice="3.43">
+              <comp position="1" type="collocate" sloleks="LE_4dbac25ecbcde2d4ad6049424d74db15">minuta</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranja</comp>
+            </collocation>
+            <collocation form="ura telefoniranja" cluster="4" frequency="5" logDice="1.22">
+              <comp position="1" type="collocate" sloleks="LE_77e6b5a072871d299d405565eaad4389">ura</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranja</comp>
+            </collocation>
+            <collocation form="nevarnost telefoniranja" cluster="5" frequency="10" logDice="3.62">
+              <comp position="1" type="collocate" sloleks="LE_748e75bfb8d72b22882f959242b3d560">nevarnost</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranja</comp>
+            </collocation>
+            <collocation form="posledica telefoniranja" cluster="5" frequency="7" logDice="0.74">
+              <comp position="1" type="collocate" sloleks="LE_9e94e198ec2c32de37b2bd7b6e54af2e">posledica</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranja</comp>
+            </collocation>
+            <collocation form="prepoved telefoniranja" cluster="6" frequency="22" logDice="4.14">
+              <comp position="1" type="collocate" sloleks="LE_0a7d09e9d93f16f9be0a97a4426a5f4a">prepoved</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranja</comp>
+            </collocation>
+            <collocation form="paket telefoniranja" cluster="7" frequency="7" logDice="3.68">
+              <comp position="1" type="collocate" sloleks="LE_8f20af60604a9f56a69c419647307518">paket</comp>
+              <comp position="2" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranja</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 pri SBZ5">
+          <collocations>
+            <collocation form="bonton pri telefoniranju" cluster="1" frequency="6" logDice="10.64">
+              <comp position="1" type="collocate" sloleks="LE_6e96c2ddfd73ac7b5f4fa381b75f5808">bonton</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranju</comp>
+            </collocation>
+            <collocation form="zvok pri telefoniranju" cluster="2" frequency="11" logDice="9.92">
+              <comp position="1" type="collocate" sloleks="LE_b643047c80a491865b6c8c963a88554d">zvok</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranju</comp>
+            </collocation>
+            <collocation form="vedenje pri telefoniranju" cluster="3" frequency="4" logDice="8.3">
+              <comp position="1" type="collocate" sloleks="LE_3bdf5abfb2a566493af53e72977a2683">vedenje</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranju</comp>
+            </collocation>
+            <collocation form="motnja pri telefoniranju" cluster="4" frequency="5" logDice="6.57">
+              <comp position="1" type="collocate" sloleks="LE_e07067dc89f16fa43aba5c323406c3a7">motnja</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranju</comp>
+            </collocation>
+            <collocation form="težava pri telefoniranju" cluster="5" frequency="7" logDice="3.43">
+              <comp position="1" type="collocate" sloleks="LE_b66fc194167f71cb086b3c0b80820711">težava</comp>
+              <comp position="2" type="other" sloleks="LE_53fc166ad282c668c92a3b0966e812d5">pri</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 za SBZ4">
+          <collocations>
+            <collocation form="slušalka za telefoniranje" cluster="1" frequency="72" logDice="10.83">
+              <comp position="1" type="collocate" sloleks="LE_053f8ad60c7589a138dbd086c256f48b">slušalka</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="zvočnik za telefoniranje" cluster="1" frequency="35" logDice="9.86">
+              <comp position="1" type="collocate" sloleks="LE_96aad18e76a1e59a9e023ca2ed07325d">zvočnik</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="naprava za telefoniranje" cluster="2" frequency="254" logDice="8.98">
+              <comp position="1" type="collocate" sloleks="LE_35970ca9f3b04f4bc834eb0dfdb70a08">naprava</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="sistem za telefoniranje" cluster="2" frequency="106" logDice="7.23">
+              <comp position="1" type="collocate" sloleks="LE_b126847d984efa55c2ffad50be4e1dac">sistem</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="oprema za telefoniranje" cluster="2" frequency="53" logDice="6.51">
+              <comp position="1" type="collocate" sloleks="LE_7c582f88b553e5dc3aeb56af36d217ec">oprema</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="program za telefoniranje" cluster="2" frequency="20" logDice="3.92">
+              <comp position="1" type="collocate" sloleks="LE_2da10dc9e8a0e2ff7fd5a1ddd0278e88">program</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="povezava za telefoniranje" cluster="2" frequency="8" logDice="7.18">
+              <comp position="1" type="collocate" sloleks="LE_585f5dc11b4e301ea7b13c392b5a0d47">povezava</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="funkcija za telefoniranje" cluster="2" frequency="8" logDice="6.6">
+              <comp position="1" type="collocate" sloleks="LE_d3ec58edca217a31a8eacf1bf15f745f">funkcija</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="možnost za telefoniranje" cluster="2" frequency="6" logDice="1.19">
+              <comp position="1" type="collocate" sloleks="LE_2e00efc106e45a8fd5ad17e06d9e6382">možnost</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="rešitev za telefoniranje" cluster="2" frequency="4" logDice="2.68">
+              <comp position="1" type="collocate" sloleks="LE_f5af87b429ea3eb8f2c51afeac0fbfa8">rešitev</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="pribor za telefoniranje" cluster="3" frequency="7" logDice="6.52">
+              <comp position="1" type="collocate" sloleks="LE_fe127811a15c9185fccf685b340bb0fc">pribor</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="vmesnik za telefoniranje" cluster="4" frequency="8" logDice="6.4">
+              <comp position="1" type="collocate" sloleks="LE_d70c3ca09e6f203b5ebe732bba78e7cf">vmesnik</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="modul za telefoniranje" cluster="4" frequency="6" logDice="6.32">
+              <comp position="1" type="collocate" sloleks="LE_d26b750a2b0204f91b562baa4d4abfaa">modul</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="pripomoček za telefoniranje" cluster="5" frequency="16" logDice="5.93">
+              <comp position="1" type="collocate" sloleks="LE_708e8688a229e661e0b8e813c4453a4e">pripomoček</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="dodatek za telefoniranje" cluster="5" frequency="7" logDice="4.17">
+              <comp position="1" type="collocate" sloleks="LE_b823bdcf315aa4e078f3dbc0741bde3b">dodatek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="telefon za telefoniranje" cluster="6" frequency="16" logDice="7.63">
+              <comp position="1" type="collocate" sloleks="LE_b369daed21ea3efd08ea07ee43e89946">telefon</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="kartica za telefoniranje" cluster="6" frequency="5" logDice="5.79">
+              <comp position="1" type="collocate" sloleks="LE_cb56668d35805a0508305a5c38f3052a">kartica</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="aparat za telefoniranje" cluster="6" frequency="4" logDice="4.71">
+              <comp position="1" type="collocate" sloleks="LE_8394f9997a2a0c916367cdf9c5c35551">aparat</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="kazen za telefoniranje" cluster="7" frequency="19" logDice="5.65">
+              <comp position="1" type="collocate" sloleks="LE_8fa53f030173ede6213a1a3aa5c8d7a6">kazen</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="komplet za telefoniranje" cluster="8" frequency="66" logDice="9.84">
+              <comp position="1" type="collocate" sloleks="LE_dd2731538ea19e392cf518b369dbec51">komplet</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="račun za telefoniranje" cluster="9" frequency="14" logDice="5.31">
+              <comp position="1" type="collocate" sloleks="LE_03d4207cd319441760ba30bae2e1320e">račun</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="strošek za telefoniranje" cluster="9" frequency="10" logDice="4.03">
+              <comp position="1" type="collocate" sloleks="LE_c04e68299307d659d0cadde6f5fc0c28">strošek</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="cena za telefoniranje" cluster="9" frequency="6" logDice="3.09">
+              <comp position="1" type="collocate" sloleks="LE_69b40aa886598a40e47070a0270e9b28">cena</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="čas za telefoniranje" cluster="10" frequency="11" logDice="2.13">
+              <comp position="1" type="collocate" sloleks="LE_f23a00b66caaf81d53515fe6ffd532ca">čas</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="priprava za telefoniranje" cluster="10" frequency="9" logDice="4.51">
+              <comp position="1" type="collocate" sloleks="LE_bdb43273740fff938591c6ba74f8869f">priprava</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="reklama za telefoniranje" cluster="11" frequency="4" logDice="4.33">
+              <comp position="1" type="collocate" sloleks="LE_f1f2cb85d489af0e8c5a2595cc8a86a4">reklama</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="Bluetooth za telefoniranje" cluster="12" frequency="23" logDice="9.47">
+              <comp position="1" type="collocate" sloleks="">Bluetooth</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="bluetooth za telefoniranje" cluster="12" frequency="19" logDice="9.2">
+              <comp position="1" type="collocate" sloleks="">bluetooth</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="set za telefoniranje" cluster="13" frequency="22" logDice="8.93">
+              <comp position="1" type="collocate" sloleks="LE_f0880f305f6310e008ee1b5f62ce1e71">set</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="napeljava za telefoniranje" cluster="14" frequency="12" logDice="8.24">
+              <comp position="1" type="collocate" sloleks="LE_3e52ef2674f2f4992d455634941a9b45">napeljava</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="mikrofon za telefoniranje" cluster="15" frequency="7" logDice="7.67">
+              <comp position="1" type="collocate" sloleks="LE_1f06875ea1ba0bcfa19c4560bafe776e">mikrofon</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+            </collocation>
+            <collocation form="telefoniranje za mularijo" cluster="16" frequency="4" logDice="9.3">
+              <comp position="1" type="headword" sloleks="LE_936d3dc20c4e230721ab19d0283f2532">telefoniranje</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_a53f9ce3120e1c26cbbebcf5c28e3ed4">mularijo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

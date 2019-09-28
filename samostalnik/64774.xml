@@ -1,0 +1,370 @@
+<entry>
+  <header>
+    <lexical_unit id="64774">konto</lexical_unit>
+    <category>samostalnik</category>
+    <measure type="frequency" source="Gigafida 1.0">4201</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 iz sbz2">
+          <collocations>
+            <collocation form="konto iz načrta" cluster="1" frequency="5" logDice="7.66">
+              <comp position="1" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="collocate" sloleks="LE_c5e19f49a5c27ff5e3d4794988f2dda3">načrta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz2">
+          <collocations>
+            <collocation form="konto z Dvora" cluster="1" frequency="11" logDice="9.17">
+              <comp position="1" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_956abf4d3f727074258caa617d987513">Dvora</comp>
+            </collocation>
+            <collocation form="prerazporeditev s konta" cluster="2" frequency="4" logDice="12.41">
+              <comp position="1" type="collocate" sloleks="LE_648ce20beac06ad88fe6525ba43f5cfc">prerazporeditev</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 z sbz6">
+          <collocations>
+            <collocation form="konto z opozorilom" cluster="1" frequency="4" logDice="7.53">
+              <comp position="1" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_0a3526dee8d3056988461a98a5a82f90">opozorilom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="konto za dejavnost" cluster="1" frequency="6" logDice="2.98">
+              <comp position="1" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_7fd9651ddee6b84cd9c853211be163f8">dejavnost</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 znotraj sbz2">
+          <collocations>
+            <collocation form="konto znotraj podprograma" cluster="1" frequency="10" logDice="12.76">
+              <comp position="1" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+              <comp position="2" type="other" sloleks="LE_50189be3b04247010abf8c4aa0c5dea7">znotraj</comp>
+              <comp position="3" type="collocate" sloleks="LE_992be881b7801b44332ebc9b1eed6976">podprograma</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz iz SBZ2">
+          <collocations>
+            <collocation form="prepisati iz konta" cluster="1" frequency="5" logDice="8.56">
+              <comp position="1" type="collocate" sloleks="LE_5ccfdd4b54efd5134f860acaef519812">prepisati</comp>
+              <comp position="2" type="other" sloleks="LE_ba405c6d2b3a4b0cf9f6216af3812c6b">iz</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ4">
+          <collocations>
+            <collocation form="knjižiti na konto" cluster="1" frequency="12" logDice="11.18">
+              <comp position="1" type="collocate" sloleks="LE_7d275d56c2de5d67098feb5f2cd97c82">knjižiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+            </collocation>
+            <collocation form="preknjižiti na konto" cluster="2" frequency="4" logDice="9.67">
+              <comp position="1" type="collocate" sloleks="LE_550384c01115cc4dbb2d160d3a417dc7">preknjižiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+            </collocation>
+            <collocation form="vpisati na konto" cluster="3" frequency="18" logDice="6.14">
+              <comp position="1" type="collocate" sloleks="LE_922eea2bfddb0f83f7a8ad8d0a94379d">vpisati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+            </collocation>
+            <collocation form="iti na konto" cluster="4" frequency="4" logDice="1.01">
+              <comp position="1" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="gbz na SBZ5">
+          <collocations>
+            <collocation form="evidentirati na kontu" cluster="1" frequency="16" logDice="10.95">
+              <comp position="1" type="collocate" sloleks="LE_fa5c00e7558819e4ce8dd62d729c37d4">evidentirati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">kontu</comp>
+            </collocation>
+            <collocation form="izkazovati na kontu" cluster="2" frequency="7" logDice="9.11">
+              <comp position="1" type="collocate" sloleks="LE_981382ddcc1144eead84e87bcda833fe">izkazovati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">kontu</comp>
+            </collocation>
+            <collocation form="izkazati na kontu" cluster="2" frequency="5" logDice="5.28">
+              <comp position="1" type="collocate" sloleks="LE_270ea98baf029886183e5cb87dfe98c5">izkazati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">kontu</comp>
+            </collocation>
+            <collocation form="zajeti na kontu" cluster="3" frequency="4" logDice="7.89">
+              <comp position="1" type="collocate" sloleks="LE_5c86d2972276250684d25b7877627f48">zajeti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">kontu</comp>
+            </collocation>
+            <collocation form="zbirati na kontu" cluster="4" frequency="4" logDice="5.28">
+              <comp position="1" type="collocate" sloleks="LE_297b9d4bec07e95405d72a1974b9f402">zbirati</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">kontu</comp>
+            </collocation>
+            <collocation form="imeti na kontu" cluster="5" frequency="45" logDice="4.11">
+              <comp position="1" type="collocate" sloleks="LE_43b12c8b31feefa18f12d61f050868a1">imeti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">kontu</comp>
+            </collocation>
+            <collocation form="dobiti na kontu" cluster="5" frequency="19" logDice="4.73">
+              <comp position="1" type="collocate" sloleks="LE_abe97863495bd3d2d1b41f81933061b7">dobiti</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">kontu</comp>
+            </collocation>
+            <collocation form="voditi na kontu" cluster="5" frequency="6" logDice="5.07">
+              <comp position="1" type="collocate" sloleks="LE_b044981ae81c995865d0ad4c2cd7b62b">voditi</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">kontu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="Medvedov konto" cluster="1" frequency="24" logDice="9.4">
+              <comp position="1" type="collocate" sloleks="LE_65be815a92d27eff4363bdcc7deeac0f">Medvedov</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+            </collocation>
+            <collocation form="analitičen konto" cluster="2" frequency="22" logDice="6.84">
+              <comp position="1" type="collocate" sloleks="LE_d0f26fdb0c633dd85e902138c1aa1f72">analitičen</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+            </collocation>
+            <collocation form="Fin Konto" cluster="3" frequency="26" logDice="5.67">
+              <comp position="1" type="collocate" sloleks="LE_62407c260777584cd3ff7392846e9a7b">Fin</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">Konto</comp>
+            </collocation>
+            <collocation form="plačen konto" cluster="4" frequency="16" logDice="4.85">
+              <comp position="1" type="collocate" sloleks="LE_7dfc813bf42d14bc97bf56b3e5d8279e">plačen</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+            </collocation>
+            <collocation form="devizen konto" cluster="5" frequency="8" logDice="3.94">
+              <comp position="1" type="collocate" sloleks="LE_652dd672e13315b298c5f244ac3e53d9">devizen</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+            </collocation>
+            <collocation form="posamezen konto" cluster="6" frequency="17" logDice="1.02">
+              <comp position="1" type="collocate" sloleks="LE_11fc70567cc274c4b41717b4b2400f83">posamezen</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+            </collocation>
+            <collocation form="naveden konto" cluster="6" frequency="16" logDice="2.82">
+              <comp position="1" type="collocate" sloleks="LE_4407d92a2334829b465cba61fda81be9">naveden</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+            </collocation>
+            <collocation form="poseben konto" cluster="7" frequency="39" logDice="1.46">
+              <comp position="1" type="collocate" sloleks="LE_c6ac532196f00aeff80a6a291379271e">poseben</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+            </collocation>
+            <collocation form="ustrezen konto" cluster="7" frequency="14" logDice="1.39">
+              <comp position="1" type="collocate" sloleks="LE_685eea38e11d03eb57fd9ee7c6def5f2">ustrezen</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 na SBZ5">
+          <collocations>
+            <collocation form="izkazan na kontu" cluster="1" frequency="43" logDice="12.76">
+              <comp position="1" type="collocate" sloleks="LE_b3956ddbecba71e2c76573fbc5857aea">izkazan</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">kontu</comp>
+            </collocation>
+            <collocation form="evidentiran na kontu" cluster="2" frequency="20" logDice="11.99">
+              <comp position="1" type="collocate" sloleks="LE_d6079d6ecef15f199f9396d5ab79aa50">evidentiran</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">kontu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 SBZ2">
+          <collocations>
+            <collocation form="podskupina konta" cluster="1" frequency="295" logDice="12.83">
+              <comp position="1" type="collocate" sloleks="LE_9be0225166ea0781c14521d0220faf73">podskupina</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konta</comp>
+            </collocation>
+            <collocation form="saldo konta" cluster="2" frequency="22" logDice="9.02">
+              <comp position="1" type="collocate" sloleks="LE_9435545b9b04a3bae8e86003ad071b63">saldo</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konta</comp>
+            </collocation>
+            <collocation form="podjetje konta" cluster="3" frequency="33" logDice="5.11">
+              <comp position="1" type="collocate" sloleks="LE_1aed870e4b1c077c155d34b01ab0af57">podjetje</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konta</comp>
+            </collocation>
+            <collocation form="skupina konta" cluster="3" frequency="27" logDice="2.3">
+              <comp position="1" type="collocate" sloleks="LE_7a31c94cb05484f8e60e8fbc4dad6a50">skupina</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konta</comp>
+            </collocation>
+            <collocation form="številka konta" cluster="3" frequency="14" logDice="2.84">
+              <comp position="1" type="collocate" sloleks="LE_ebd741e03af85017076d3a5582503217">številka</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konta</comp>
+            </collocation>
+            <collocation form="okvir konta" cluster="4" frequency="8" logDice="0.61">
+              <comp position="1" type="collocate" sloleks="LE_7ad9953b27a13e215544d77e1a778983">okvir</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konta</comp>
+            </collocation>
+            <collocation form="Ada Konta" cluster="5" frequency="7" logDice="8.18">
+              <comp position="1" type="collocate" sloleks="LE_40ff6786abda2906ef55e444c3fb784d">Ada</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">Konta</comp>
+            </collocation>
+            <collocation form="znesek konta" cluster="6" frequency="61" logDice="6.02">
+              <comp position="1" type="collocate" sloleks="LE_a75997c3fecf67d735c87a0515fc6386">znesek</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konta</comp>
+            </collocation>
+            <collocation form="postavka konta" cluster="6" frequency="12" logDice="6.63">
+              <comp position="1" type="collocate" sloleks="LE_ad22b33a09b7e4522ac3d3d193efc058">postavka</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konta</comp>
+            </collocation>
+            <collocation form="naziv konta" cluster="7" frequency="39" logDice="6.56">
+              <comp position="1" type="collocate" sloleks="LE_c41a5bfe21c18c3ce31490d5080df16e">naziv</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konta</comp>
+            </collocation>
+            <collocation form="kartica konta" cluster="8" frequency="12" logDice="5.41">
+              <comp position="1" type="collocate" sloleks="LE_cb56668d35805a0508305a5c38f3052a">kartica</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konta</comp>
+            </collocation>
+            <collocation form="breme konta" cluster="9" frequency="11" logDice="4.77">
+              <comp position="1" type="collocate" sloleks="LE_edd76cfb7cf61c63412b2f134b3d235d">breme</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konta</comp>
+            </collocation>
+            <collocation form="raven konta" cluster="10" frequency="19" logDice="3.07">
+              <comp position="1" type="collocate" sloleks="LE_1c5879ca919226df3e61cfd0d36941e3">raven</comp>
+              <comp position="2" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konta</comp>
+            </collocation>
+            <collocation form="konto Novogradnje" cluster="11" frequency="26" logDice="8.33">
+              <comp position="1" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+              <comp position="2" type="collocate" sloleks="LE_2dfea7a33c44edf95b45726302668ebc">Novogradnje</comp>
+            </collocation>
+            <collocation form="konto postavke" cluster="12" frequency="15" logDice="7.04">
+              <comp position="1" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+              <comp position="2" type="collocate" sloleks="LE_ad22b33a09b7e4522ac3d3d193efc058">postavke</comp>
+            </collocation>
+            <collocation form="konto plače" cluster="13" frequency="8" logDice="1.62">
+              <comp position="1" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+              <comp position="2" type="collocate" sloleks="LE_5e60f7e201847a7be65d2212fdd74103">plače</comp>
+            </collocation>
+            <collocation form="konto sredstva" cluster="13" frequency="8" logDice="1.07">
+              <comp position="1" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+              <comp position="2" type="collocate" sloleks="LE_94c4f4cf5104632466509789b5cde032">sredstva</comp>
+            </collocation>
+            <collocation form="konto Študije" cluster="14" frequency="14" logDice="5.34">
+              <comp position="1" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+              <comp position="2" type="collocate" sloleks="LE_6144c6af1ea3cf9fba24949954df25bb">Študije</comp>
+            </collocation>
+            <collocation form="konto knjige" cluster="14" frequency="11" logDice="2.07">
+              <comp position="1" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+              <comp position="2" type="collocate" sloleks="LE_fcbd23f52ef0d5c8f302f9c1ba64a0e3">knjige</comp>
+            </collocation>
+            <collocation form="konto ive" cluster="15" frequency="8" logDice="5.33">
+              <comp position="1" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+              <comp position="2" type="collocate" sloleks="LE_7ff3c1f8a9a4dd8725192dcd55292ad2">ive</comp>
+            </collocation>
+            <collocation form="konto zaloge" cluster="16" frequency="8" logDice="4.82">
+              <comp position="1" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+              <comp position="2" type="collocate" sloleks="LE_635fdef94aa6842d3ac1b159a8587903">zaloge</comp>
+            </collocation>
+            <collocation form="konto skupine" cluster="17" frequency="177" logDice="4.75">
+              <comp position="1" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+              <comp position="2" type="collocate" sloleks="LE_7a31c94cb05484f8e60e8fbc4dad6a50">skupine</comp>
+            </collocation>
+            <collocation form="konto razreda" cluster="17" frequency="8" logDice="2.73">
+              <comp position="1" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+              <comp position="2" type="collocate" sloleks="LE_9e5978e647d0b1b5c8f6b7a8a17b952a">razreda</comp>
+            </collocation>
+            <collocation form="konto kartice" cluster="18" frequency="13" logDice="4.27">
+              <comp position="1" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+              <comp position="2" type="collocate" sloleks="LE_cb56668d35805a0508305a5c38f3052a">kartice</comp>
+            </collocation>
+            <collocation form="konto točke" cluster="19" frequency="9" logDice="1.87">
+              <comp position="1" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+              <comp position="2" type="collocate" sloleks="LE_bb52716a00bd608f858395465b1c985a">točke</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ4">
+          <collocations>
+            <collocation form="točka na konto" cluster="1" frequency="4" logDice="5.45">
+              <comp position="1" type="collocate" sloleks="LE_bb52716a00bd608f858395465b1c985a">točka</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">konto</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 na SBZ5">
+          <collocations>
+            <collocation form="saldo na kontu" cluster="1" frequency="16" logDice="11.35">
+              <comp position="1" type="collocate" sloleks="LE_9435545b9b04a3bae8e86003ad071b63">saldo</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">kontu</comp>
+            </collocation>
+            <collocation form="sredstvo na kontu" cluster="2" frequency="10" logDice="6.25">
+              <comp position="1" type="collocate" sloleks="LE_94c4f4cf5104632466509789b5cde032">sredstvo</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">kontu</comp>
+            </collocation>
+            <collocation form="znesek na kontu" cluster="2" frequency="9" logDice="8.11">
+              <comp position="1" type="collocate" sloleks="LE_a75997c3fecf67d735c87a0515fc6386">znesek</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">kontu</comp>
+            </collocation>
+            <collocation form="stanje na kontu" cluster="3" frequency="13" logDice="5.12">
+              <comp position="1" type="collocate" sloleks="LE_2ad4e1571957d685096e1a60acee4119">stanje</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">kontu</comp>
+            </collocation>
+            <collocation form="promet na kontu" cluster="3" frequency="4" logDice="3.89">
+              <comp position="1" type="collocate" sloleks="LE_325a5cddba50a22446da08f7ab272dff">promet</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">kontu</comp>
+            </collocation>
+            <collocation form="točka na kontu" cluster="4" frequency="9" logDice="5.1">
+              <comp position="1" type="collocate" sloleks="LE_bb52716a00bd608f858395465b1c985a">točka</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">kontu</comp>
+            </collocation>
+            <collocation form="zmaga na kontu" cluster="4" frequency="6" logDice="2.96">
+              <comp position="1" type="collocate" sloleks="LE_508bb96f40e25186ee8d1a812b97170d">zmaga</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">kontu</comp>
+            </collocation>
+            <collocation form="tekma na kontu" cluster="4" frequency="5" logDice="3.65">
+              <comp position="1" type="collocate" sloleks="LE_569dcc42a5a400bab2106b20777ed55f">tekma</comp>
+              <comp position="2" type="other" sloleks="LE_ce3b18d819a99c9ff7ac9a913c3314d5">na</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">kontu</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="sbz0 pod SBZ6">
+          <collocations>
+            <collocation form="dokumentacija pod kontom" cluster="1" frequency="6" logDice="11.65">
+              <comp position="1" type="collocate" sloleks="LE_3ff9da100e02303de7f0a4c38a9ce5ad">dokumentacija</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">kontom</comp>
+            </collocation>
+            <collocation form="Brezovica pod kontom" cluster="2" frequency="4" logDice="11.61">
+              <comp position="1" type="collocate" sloleks="LE_5d8643e7361fb09b877e850e3f6e3010">Brezovica</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">kontom</comp>
+            </collocation>
+            <collocation form="dejavnost pod kontom" cluster="3" frequency="6" logDice="9.52">
+              <comp position="1" type="collocate" sloleks="LE_7fd9651ddee6b84cd9c853211be163f8">dejavnost</comp>
+              <comp position="2" type="other" sloleks="LE_26800b7a10ad4893072d2449bdbbb6f5">pod</comp>
+              <comp position="3" type="headword" sloleks="LE_a507ab8d467116441d8445559b4c8c42">kontom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        </gramrels>
+    </sense>
+  </body>
+</entry>

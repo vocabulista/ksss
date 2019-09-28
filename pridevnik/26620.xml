@@ -1,0 +1,34 @@
+<entry>
+  <header>
+    <lexical_unit id="26620">obnosen</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">695</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="obnosna votlina" cluster="1" frequency="665" logDice="11.07">
+              <comp position="1" type="headword" sloleks="LE_28433e59f658760f2999687a4a1526da">obnosna</comp>
+              <comp position="2" type="collocate" sloleks="LE_c7978ad6fd9052c968a47aa6dc10c879">votlina</comp>
+            </collocation>
+            <collocation form="obnosen sinus" cluster="2" frequency="16" logDice="8.97">
+              <comp position="1" type="headword" sloleks="LE_28433e59f658760f2999687a4a1526da">obnosen</comp>
+              <comp position="2" type="collocate" sloleks="LE_2c2ec3949cf601f30f624ef5eb516adb">sinus</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="obnosen in/ali nosen" cluster="1" frequency="40" logDice="12.28">
+              <comp position="3" type="headword" sloleks="LE_28433e59f658760f2999687a4a1526da">obnosen</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_48efc3fe1d371c71e20e58966d9dad1d">nosen</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

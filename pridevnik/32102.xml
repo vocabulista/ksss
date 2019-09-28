@@ -1,0 +1,53 @@
+<entry>
+  <header>
+    <lexical_unit id="32102">razširljiv</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">579</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 preko sbz2">
+          <collocations>
+            <collocation form="razširljiv preko reže" cluster="1" frequency="8" logDice="13.75">
+              <comp position="1" type="headword" sloleks="LE_8b4b51d00a458a3a8216f10875418dc9">razširljiv</comp>
+              <comp position="2" type="other" sloleks="LE_1c83663f90b7fc783fcad1a8fcc7d1b3">preko</comp>
+              <comp position="3" type="collocate" sloleks="LE_a3d41233dca01ceb02629f568b19ac5c">reže</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 z sbz6">
+          <collocations>
+            <collocation form="razširljiv s kartico" cluster="1" frequency="77" logDice="12.2">
+              <comp position="1" type="headword" sloleks="LE_8b4b51d00a458a3a8216f10875418dc9">razširljiv</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_cb56668d35805a0508305a5c38f3052a">kartico</comp>
+            </collocation>
+            <collocation form="razširljiv s pomočjo" cluster="2" frequency="7" logDice="5.97">
+              <comp position="1" type="headword" sloleks="LE_8b4b51d00a458a3a8216f10875418dc9">razširljiv</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">s</comp>
+              <comp position="3" type="collocate" sloleks="LE_84e3f9e3c4e9e1abf42cc69c125b0b58">pomočjo</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="razširljiv in/ali odprt" cluster="1" frequency="8" logDice="5.21">
+              <comp position="3" type="headword" sloleks="LE_8b4b51d00a458a3a8216f10875418dc9">razširljiv</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_4fee2700c77cfe4618d574b223a3d625">odprt</comp>
+              </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="rbz PBZ0">
+          <collocations>
+            <collocation form="enostavno razširljiv" cluster="1" frequency="6" logDice="5.28">
+              <comp position="1" type="collocate" sloleks="LE_1742969fa982d14b68f426dd1a897788">enostavno</comp>
+              <comp position="2" type="headword" sloleks="LE_8b4b51d00a458a3a8216f10875418dc9">razširljiv</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

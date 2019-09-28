@@ -1,0 +1,59 @@
+<entry>
+  <header>
+    <lexical_unit id="15184">čekoven</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">737</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="čekoven blanket" cluster="1" frequency="261" logDice="12.91">
+              <comp position="1" type="headword" sloleks="LE_f1c91c196811187afc47f1428d82087c">čekoven</comp>
+              <comp position="2" type="collocate" sloleks="LE_64639d3e0b5264912177499ca794a658">blanket</comp>
+            </collocation>
+            <collocation form="čekovna knjižica" cluster="2" frequency="173" logDice="8.85">
+              <comp position="1" type="headword" sloleks="LE_f1c91c196811187afc47f1428d82087c">čekovna</comp>
+              <comp position="2" type="collocate" sloleks="LE_ac1a9fbde96485a6355a2e514ca419fe">knjižica</comp>
+            </collocation>
+            <collocation form="čekovna kartica" cluster="3" frequency="141" logDice="6.08">
+              <comp position="1" type="headword" sloleks="LE_f1c91c196811187afc47f1428d82087c">čekovna</comp>
+              <comp position="2" type="collocate" sloleks="LE_cb56668d35805a0508305a5c38f3052a">kartica</comp>
+            </collocation>
+            <collocation form="čekovno poslovanje" cluster="4" frequency="63" logDice="5.36">
+              <comp position="1" type="headword" sloleks="LE_f1c91c196811187afc47f1428d82087c">čekovno</comp>
+              <comp position="2" type="collocate" sloleks="LE_a40b6deb4d00eb82c4b5b9303ed451e6">poslovanje</comp>
+            </collocation>
+            <collocation form="čekoven protest" cluster="5" frequency="9" logDice="4.11">
+              <comp position="1" type="headword" sloleks="LE_f1c91c196811187afc47f1428d82087c">čekoven</comp>
+              <comp position="2" type="collocate" sloleks="LE_ea5cf18c5a296dd8df30527638b9e93e">protest</comp>
+            </collocation>
+            <collocation form="čekoven spor" cluster="6" frequency="20" logDice="3.91">
+              <comp position="1" type="headword" sloleks="LE_f1c91c196811187afc47f1428d82087c">čekoven</comp>
+              <comp position="2" type="collocate" sloleks="LE_4bd18fe0624ba4178accc29642738e64">spor</comp>
+            </collocation>
+            <collocation form="čekoven račun" cluster="7" frequency="8" logDice="1.8">
+              <comp position="1" type="headword" sloleks="LE_f1c91c196811187afc47f1428d82087c">čekoven</comp>
+              <comp position="2" type="collocate" sloleks="LE_03d4207cd319441760ba30bae2e1320e">račun</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="čekoven in/ali meničen" cluster="1" frequency="33" logDice="13.65">
+              <comp position="3" type="headword" sloleks="LE_f1c91c196811187afc47f1428d82087c">čekoven</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_a21dae7a2c64034969bf317b6cc23b23">meničen</comp>
+              </collocation>
+            <collocation form="čekoven in krediten" cluster="2" frequency="8" logDice="7.99">
+              <comp position="1" type="headword" sloleks="LE_f1c91c196811187afc47f1428d82087c">čekoven</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_fd2b12e3d543f092e5c17e65c245bad5">krediten</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

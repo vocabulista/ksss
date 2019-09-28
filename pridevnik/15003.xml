@@ -1,0 +1,33 @@
+<entry>
+  <header>
+    <lexical_unit id="15003">bukovniški</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">503</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="bukovniško jezero" cluster="1" frequency="425" logDice="8.11">
+              <comp position="1" type="headword" sloleks="LE_be230fd918f8818f08c90bfff3bfbfed">bukovniško</comp>
+              <comp position="2" type="collocate" sloleks="LE_70f9f2bc080439f3fbcea8c9f00ab68d">jezero</comp>
+            </collocation>
+            <collocation form="bukovniški smuk" cluster="2" frequency="13" logDice="6.37">
+              <comp position="1" type="headword" sloleks="LE_be230fd918f8818f08c90bfff3bfbfed">bukovniški</comp>
+              <comp position="2" type="collocate" sloleks="LE_db7561928ebbc5464cfbb0476742483d">smuk</comp>
+            </collocation>
+            <collocation form="bukovniški potok" cluster="3" frequency="16" logDice="4.88">
+              <comp position="1" type="headword" sloleks="LE_be230fd918f8818f08c90bfff3bfbfed">bukovniški</comp>
+              <comp position="2" type="collocate" sloleks="LE_caca5ff4235178a10f62624a95430c94">potok</comp>
+            </collocation>
+            <collocation form="bukovniški gozd" cluster="4" frequency="8" logDice="2.66">
+              <comp position="1" type="headword" sloleks="LE_be230fd918f8818f08c90bfff3bfbfed">bukovniški</comp>
+              <comp position="2" type="collocate" sloleks="LE_0ca25687c86a1ca7b486899aeae45de7">gozd</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

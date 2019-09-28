@@ -1,0 +1,75 @@
+<entry>
+  <header>
+    <lexical_unit id="45448">takisto</lexical_unit>
+    <category>prislov</category>
+    <measure type="frequency" source="Gigafida 1.0">1260</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="RBZ gbz">
+          <collocations>
+            <collocation form="takisto veljati" cluster="1" frequency="26" logDice="3.7">
+              <comp position="1" type="headword" sloleks="LE_28c23bd35bed02510dc8f5c761395a1e">takisto</comp>
+              <comp position="2" type="collocate" sloleks="LE_d1ea0d9dd4771e211c9eddc0d342acc2">veljati</comp>
+            </collocation>
+            <collocation form="takisto najti" cluster="1" frequency="6" logDice="0.99">
+              <comp position="1" type="headword" sloleks="LE_28c23bd35bed02510dc8f5c761395a1e">takisto</comp>
+              <comp position="2" type="collocate" sloleks="LE_843e328fc791979a62059ce2c06a66c8">najti</comp>
+            </collocation>
+            <collocation form="takisto obstajati" cluster="1" frequency="4" logDice="2.32">
+              <comp position="1" type="headword" sloleks="LE_28c23bd35bed02510dc8f5c761395a1e">takisto</comp>
+              <comp position="2" type="collocate" sloleks="LE_74930dbee9cc25d8cae7a9f6eb94e6f5">obstajati</comp>
+            </collocation>
+            <collocation form="takisto potrebovati" cluster="1" frequency="4" logDice="1.29">
+              <comp position="1" type="headword" sloleks="LE_28c23bd35bed02510dc8f5c761395a1e">takisto</comp>
+              <comp position="2" type="collocate" sloleks="LE_1d2dce4b8faea4af518b607a2b8b3ef9">potrebovati</comp>
+            </collocation>
+            <collocation form="takisto storiti" cluster="2" frequency="6" logDice="2.18">
+              <comp position="1" type="headword" sloleks="LE_28c23bd35bed02510dc8f5c761395a1e">takisto</comp>
+              <comp position="2" type="collocate" sloleks="LE_55882ae93dc5b8a9ce68a98545534b06">storiti</comp>
+            </collocation>
+            <collocation form="takisto pohvaliti" cluster="2" frequency="5" logDice="2.52">
+              <comp position="1" type="headword" sloleks="LE_28c23bd35bed02510dc8f5c761395a1e">takisto</comp>
+              <comp position="2" type="collocate" sloleks="LE_ead0331a78abb269a1632df984d5a0bd">pohvaliti</comp>
+            </collocation>
+            <collocation form="takisto početi" cluster="2" frequency="4" logDice="1.83">
+              <comp position="1" type="headword" sloleks="LE_28c23bd35bed02510dc8f5c761395a1e">takisto</comp>
+              <comp position="2" type="collocate" sloleks="LE_7e55eab5e10ab634807c6cfbd8ade25f">početi</comp>
+            </collocation>
+            <collocation form="takisto iti" cluster="3" frequency="17" logDice="1.98">
+              <comp position="1" type="headword" sloleks="LE_28c23bd35bed02510dc8f5c761395a1e">takisto</comp>
+              <comp position="2" type="collocate" sloleks="LE_4c8a63e95632174cbdf8d1767b810f35">iti</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ pbz0">
+          <collocations>
+            <collocation form="takisto sam" cluster="1" frequency="5" logDice="0.82">
+              <comp position="1" type="headword" sloleks="LE_28c23bd35bed02510dc8f5c761395a1e">takisto</comp>
+              <comp position="2" type="collocate" sloleks="LE_5a6609dcb51dca73f05e113a9b57dea0">sam</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ v sbz5">
+          <collocations>
+            <collocation form="takisto v kraju" cluster="1" frequency="4" logDice="5.62">
+              <comp position="1" type="headword" sloleks="LE_28c23bd35bed02510dc8f5c761395a1e">takisto</comp>
+              <comp position="2" type="other" sloleks="LE_6ee5842d0266489f7232f3339975492f">v</comp>
+              <comp position="3" type="collocate" sloleks="LE_7f68ad51dbf6aa81c1b08f8afa92155d">kraju</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="RBZ z sbz6">
+          <collocations>
+            <collocation form="takisto z gramom" cluster="1" frequency="6" logDice="12.49">
+              <comp position="1" type="headword" sloleks="LE_28c23bd35bed02510dc8f5c761395a1e">takisto</comp>
+              <comp position="2" type="other" sloleks="LE_04a0f57716a1e9799e4307c4f13585cf">z</comp>
+              <comp position="3" type="collocate" sloleks="LE_4cd05ab376d0236414a59cf6f801fc72">gramom</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

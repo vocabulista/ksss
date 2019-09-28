@@ -1,0 +1,45 @@
+<entry>
+  <header>
+    <lexical_unit id="976389">iniciator</lexical_unit>
+    <category>samostalnik</category>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="SBZ0 sbz2">
+          <collocations>
+            <collocation form="iniciator ustanovitve" cluster="1" frequency="10" logDice="5.04">
+              <comp position="1" type="headword" sloleks="">iniciator</comp>
+              <comp position="2" type="collocate" sloleks="LE_4af2b176b3eff18d550075df519299ea">ustanovitve</comp>
+            </collocation>
+            <collocation form="iniciator spremembe" cluster="2" frequency="9" logDice="2.55">
+              <comp position="1" type="headword" sloleks="">iniciator</comp>
+              <comp position="2" type="collocate" sloleks="LE_43a3bb7510833003ff85626ef9cc9915">spremembe</comp>
+            </collocation>
+            <collocation form="iniciator projekta" cluster="2" frequency="9" logDice="1.33">
+              <comp position="1" type="headword" sloleks="">iniciator</comp>
+              <comp position="2" type="collocate" sloleks="LE_a34c0db39bb0196a80c5f3b9f5391fea">projekta</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="SBZ0 za sbz4">
+          <collocations>
+            <collocation form="iniciator za ustanovitev" cluster="1" frequency="5" logDice="3.66">
+              <comp position="1" type="headword" sloleks="">iniciator</comp>
+              <comp position="2" type="other" sloleks="LE_db0bf52658d522ec13f5839f79903594">za</comp>
+              <comp position="3" type="collocate" sloleks="LE_4af2b176b3eff18d550075df519299ea">ustanovitev</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="pbz0 SBZ0">
+          <collocations>
+            <collocation form="glaven iniciator" cluster="1" frequency="27" logDice="0.98">
+              <comp position="1" type="collocate" sloleks="LE_d2682b9f543a6df6814c2b0dde4cf533">glaven</comp>
+              <comp position="2" type="headword" sloleks="">iniciator</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>

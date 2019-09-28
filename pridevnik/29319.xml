@@ -1,0 +1,47 @@
+<entry>
+  <header>
+    <lexical_unit id="29319">poltrd</lexical_unit>
+    <category>pridevnik</category>
+    <measure type="frequency" source="Gigafida 1.0">609</measure>
+  </header>
+  <body>
+    <sense>
+      <gramrels>
+        <gramrel name="PBZ0 sbz0">
+          <collocations>
+            <collocation form="poltrd sir" cluster="1" frequency="395" logDice="9.38">
+              <comp position="1" type="headword" sloleks="LE_97f38cf083c978b6b6d27494c5f19cee">poltrd</comp>
+              <comp position="2" type="collocate" sloleks="LE_7e0c00695c0da6161f60ca2c06d4efd1">sir</comp>
+            </collocation>
+            <collocation form="poltrda vezava" cluster="2" frequency="24" logDice="7.21">
+              <comp position="1" type="headword" sloleks="LE_97f38cf083c978b6b6d27494c5f19cee">poltrda</comp>
+              <comp position="2" type="collocate" sloleks="LE_1058af2dcc865f85a72ff44ca3881ee4">vezava</comp>
+            </collocation>
+            <collocation form="poltrda leča" cluster="3" frequency="30" logDice="7.11">
+              <comp position="1" type="headword" sloleks="LE_97f38cf083c978b6b6d27494c5f19cee">poltrda</comp>
+              <comp position="2" type="collocate" sloleks="LE_b237f8a22bab37115c503240a272b032">leča</comp>
+            </collocation>
+            <collocation form="poltrdo stanje" cluster="4" frequency="19" logDice="2.09">
+              <comp position="1" type="headword" sloleks="LE_97f38cf083c978b6b6d27494c5f19cee">poltrdo</comp>
+              <comp position="2" type="collocate" sloleks="LE_2ad4e1571957d685096e1a60acee4119">stanje</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+        <gramrel name="PBZ0 in/ali pbz0">
+          <collocations>
+            <collocation form="poltrd in/ali trd" cluster="1" frequency="38" logDice="7.9">
+              <comp position="3" type="headword" sloleks="LE_97f38cf083c978b6b6d27494c5f19cee">poltrd</comp>
+            <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="1" type="collocate" sloleks="LE_101d4350f102396faae6f43c7eb55f77">trd</comp>
+              </collocation>
+            <collocation form="poltrd in mehek" cluster="2" frequency="29" logDice="7.43">
+              <comp position="1" type="headword" sloleks="LE_97f38cf083c978b6b6d27494c5f19cee">poltrd</comp>
+              <comp position="2" type="other" sloleks="LE_0e08f5e226294035b0271fc4207cc81b">in/ali</comp>
+              <comp position="3" type="collocate" sloleks="LE_f42dee14d6a31c1895861d718d6304d3">mehek</comp>
+            </collocation>
+          </collocations>
+        </gramrel>
+      </gramrels>
+    </sense>
+  </body>
+</entry>
