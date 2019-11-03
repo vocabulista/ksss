@@ -6,7 +6,8 @@
         "root": "//entry",
         "fields": {
           "lexical_unit": "./header/lexical_unit",
-          "category": "./header/category"
+          "category": "./header/category",
+          "[collocation]": ".//collocation/@form"
         }
       }
     },
@@ -15,6 +16,9 @@
         "type": "keyword"
       },
       "category": {
+        "type": "text"
+      }, 
+      "collocation":{
         "type": "text"
       }
     }
